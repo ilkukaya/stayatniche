@@ -1,5 +1,5 @@
 ---
-coverImage: /images/6e7d5558-b366-467e-bb98-42494dae5374.jpg
+coverImage: /images/2ad002fa-ae85-44cb-978b-8c0a7dd60e23.jpg
 featured: true
 order: 2
 metaTitle: Cave Hotels & Cave Stays | StayAtNiche
