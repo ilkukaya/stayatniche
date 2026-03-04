@@ -1,16 +1,19 @@
 ---
+coverImage: /images/6e7d5558-b366-467e-bb98-42494dae5374.jpg
+featured: true
+order: 1
+metaTitle: Treehouse Hotels & Stays | StayAtNiche
+metaDescription: Discover the world's most incredible treehouse hotels. Sleep
+  among the treetops in luxury treehouses across Sweden, Costa Rica, and beyond.
 title: Treehouse Hotels
-description: Sleep among the canopy in luxury treehouses that blend adventure with comfort. From Scandinavia's design-forward retreats to tropical jungle escapes, these elevated stays offer unparalleled connection with nature.
-icon: "tree"
-coverImage: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=800&q=80&auto=format&fit=crop"
+description: Sleep among the canopy in luxury treehouses that blend adventure
+  with comfort. From Scandinavia's design-forward retreats to tropical jungle
+  escapes, these elevated stays offer unparalleled connection with nature.
+icon: tree
 stats:
   hotelCount: 24
   avgPrice: 350
   topDestination: Sweden
-featured: true
-order: 1
-metaTitle: Treehouse Hotels & Stays | StayAtNiche
-metaDescription: Discover the world's most incredible treehouse hotels. Sleep among the treetops in luxury treehouses across Sweden, Costa Rica, and beyond.
 ---
 
 Perched high above the forest floor, treehouse hotels offer a childhood dream transformed into an adult luxury. These sky-high retreats combine architectural ingenuity with the raw beauty of nature, giving you a front-row seat to life in the canopy.
