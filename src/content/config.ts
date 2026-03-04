@@ -19,7 +19,7 @@ const hotels = defineCollection({
     continent: z.string().optional(),
     address: z.string().optional(),
     description: z.string(),
-    coverImage: z.string(),
+    coverImage: z.string().optional(),
     gallery: z.array(z.string()).default([]),
 
     priceRange: z.string(),
@@ -87,7 +87,7 @@ const categories = defineCollection({
     tagline: z.string().optional(),
     description: z.string(),
     icon: z.string(),
-    coverImage: z.string(),
+    coverImage: z.string().optional(),
     heroImage: z.string().optional(),
     stats: z.object({
       hotelCount: z.number(),
@@ -116,7 +116,7 @@ const blog = defineCollection({
     author: z.string().default('StayAtNiche Team'),
     category: z.string(),
     excerpt: z.string(),
-    coverImage: z.string(),
+    coverImage: z.string().optional(),
     publishedDate: z.date(),
     updatedDate: z.date().optional(),
     tags: z.array(z.string()).default([]),
@@ -138,7 +138,7 @@ const destinations = defineCollection({
     continent: z.string(),
     country: z.string().optional(),
     description: z.string(),
-    coverImage: z.string(),
+    coverImage: z.string().optional(),
     heroImage: z.string().optional(),
     essentials: z.object({
       currency: z.string().optional(),
@@ -172,7 +172,7 @@ const experiences = defineCollection({
     destination: z.string(),
     country: z.string(),
     description: z.string(),
-    coverImage: z.string(),
+    coverImage: z.string().optional(),
     booking: z.object({
       provider: z.string(),
       url: z.string(),
