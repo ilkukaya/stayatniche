@@ -13,62 +13,86 @@ interface Props {
 }
 
 const { title, description, icon, slug, stats, featured } = Astro.props;
+
+// Each category gets a distinct warm gradient palette
+const palettes: Record<string, { from: string; to: string; badge: string }> = {
+  'treehouse-hotels':    { from: 'from-forest-100', to: 'to-forest-200',  badge: 'bg-forest-600' },
+  'cave-hotels':         { from: 'from-warm-200',   to: 'to-warm-300',    badge: 'bg-warm-700' },
+  'underwater-rooms':    { from: 'from-sky-100',    to: 'to-sky-200',     badge: 'bg-sky-600' },
+  'castle-hotels':       { from: 'from-purple-100', to: 'to-purple-200',  badge: 'bg-purple-700' },
+  'floating-hotels':     { from: 'from-teal-100',   to: 'to-teal-200',    badge: 'bg-teal-600' },
+  'bubble-hotels':       { from: 'from-pink-100',   to: 'to-pink-200',    badge: 'bg-pink-600' },
+  'cliffside-hotels':    { from: 'from-orange-100', to: 'to-orange-200',  badge: 'bg-orange-600' },
+  'desert-camps':        { from: 'from-amber-100',  to: 'to-amber-200',   badge: 'bg-amber-600' },
+  'jungle-lodges':       { from: 'from-green-100',  to: 'to-green-200',   badge: 'bg-green-700' },
+  'ice-hotels':          { from: 'from-blue-100',   to: 'to-blue-200',    badge: 'bg-blue-600' },
+  'safari-lodges':       { from: 'from-yellow-100', to: 'to-yellow-200',  badge: 'bg-yellow-600' },
+  'overwater-bungalows': { from: 'from-rose-100',   to: 'to-rose-200',    badge: 'bg-rose-600' },
+};
+const p = palettes[slug] || { from: 'from-gold-100', to: 'to-gold-200', badge: 'bg-gold-600' };
 ---
 
 <a
   href={`/categories/${slug}`}
-  class="group relative block bg-stone-900 rounded-2xl overflow-hidden border border-stone-800 hover:border-gold-500/50 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl hover:shadow-gold-500/10"
+  class="group block bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100"
 >
-  <!-- Image placeholder with gradient -->
-  <div class="relative h-48 bg-gradient-to-br from-stone-800 to-stone-900 overflow-hidden">
+  <!-- Image / Icon area -->
+  <div class:list={['relative h-44 bg-gradient-to-br overflow-hidden', p.from, p.to]}>
     <div class="absolute inset-0 flex items-center justify-center">
-      <span class="text-7xl opacity-30 group-hover:opacity-50 transition-opacity duration-300 group-hover:scale-110 transform inline-block">
+      <span class="text-7xl opacity-60 group-hover:opacity-80 group-hover:scale-110 transform transition-all duration-500 select-none">
         {icon}
       </span>
     </div>
-    <div class="absolute inset-0 bg-gradient-to-t from-stone-900 via-transparent to-transparent" />
+
+    <!-- Bottom gradient fade into white card -->
+    <div class="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-white via-white/30 to-transparent" />
+
     {featured && (
-      <div class="absolute top-3 right-3 bg-gold-500 text-stone-950 text-xs font-body font-bold px-2 py-1 rounded-full">
-        Featured
+      <div class:list={['absolute top-3 left-3 text-white text-xs font-body font-bold px-3 py-1 rounded-full shadow-sm', p.badge]}>
+        ✦ Featured
       </div>
     )}
+
+    <!-- Stat pill floating -->
+    <div class="absolute top-3 right-3 bg-white/80 backdrop-blur-sm rounded-full px-2.5 py-1 text-xs font-body font-semibold text-warm-800 shadow-sm">
+      {stats.hotelCount} stays
+    </div>
   </div>
 
   <!-- Content -->
-  <div class="p-6">
-    <div class="flex items-start justify-between gap-3 mb-3">
-      <h3 class="font-display text-xl font-bold text-white group-hover:text-gold-400 transition-colors">
-        {title}
-      </h3>
-      <span class="text-2xl flex-shrink-0">{icon}</span>
-    </div>
-
-    <p class="font-body text-stone-400 text-sm leading-relaxed mb-5 line-clamp-2">
+  <div class="px-5 pb-5">
+    <h3 class="font-display text-xl font-bold text-warm-950 group-hover:text-forest-700 transition-colors mb-1.5 leading-snug">
+      {title}
+    </h3>
+    <p class="font-body text-warm-600 text-sm leading-relaxed mb-4 line-clamp-2">
       {description}
     </p>
 
-    <!-- Stats -->
-    <div class="grid grid-cols-3 gap-3 pt-4 border-t border-stone-800">
+    <!-- Stats row -->
+    <div class="grid grid-cols-3 gap-2 py-3 border-t border-warm-100 mb-4">
       <div class="text-center">
-        <div class="font-display text-lg font-bold text-gold-400">{stats.hotelCount}</div>
-        <div class="font-body text-stone-500 text-xs">Stays</div>
+        <div class="font-display text-base font-bold text-warm-900">{stats.hotelCount}</div>
+        <div class="font-body text-warm-400 text-xs">Stays</div>
+      </div>
+      <div class="text-center border-x border-warm-100">
+        <div class="font-display text-base font-bold text-warm-900">${stats.avgPrice}</div>
+        <div class="font-body text-warm-400 text-xs">Avg/Night</div>
       </div>
       <div class="text-center">
-        <div class="font-display text-lg font-bold text-gold-400">${stats.avgPrice}</div>
-        <div class="font-body text-stone-500 text-xs">Avg/Night</div>
-      </div>
-      <div class="text-center">
-        <div class="font-display text-sm font-bold text-gold-400 leading-tight">{stats.topDestination.split(',')[0]}</div>
-        <div class="font-body text-stone-500 text-xs">Top Dest.</div>
+        <div class="font-display text-sm font-bold text-warm-900 leading-tight">{stats.topDestination.split(',')[0]}</div>
+        <div class="font-body text-warm-400 text-xs">Top Dest.</div>
       </div>
     </div>
 
-    <!-- Arrow -->
-    <div class="flex items-center gap-1 mt-4 text-gold-400 text-sm font-body font-medium group-hover:gap-2 transition-all">
-      <span>Explore stays</span>
-      <svg class="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-      </svg>
+    <!-- CTA row -->
+    <div class="flex items-center justify-between">
+      <span class="font-body text-sm font-semibold text-forest-600 group-hover:text-forest-700 flex items-center gap-1 transition-colors">
+        Explore stays
+        <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </span>
+      <span class="font-body text-xs text-warm-400 italic">{stats.topDestination.split(',')[0]}</span>
     </div>
   </div>
 </a>

@@ -1,81 +1,127 @@
 ---
 const year = new Date().getFullYear();
-const categories = [
-  { href: '/categories/treehouse-hotels', label: 'Treehouse Hotels' },
-  { href: '/categories/cave-hotels', label: 'Cave Hotels' },
-  { href: '/categories/underwater-rooms', label: 'Underwater Rooms' },
-  { href: '/categories/castle-hotels', label: 'Castle Hotels' },
-  { href: '/categories/floating-hotels', label: 'Floating Hotels' },
-  { href: '/categories/bubble-hotels', label: 'Bubble Hotels' },
+
+const columns = [
+  {
+    title: 'Explore',
+    links: [
+      { href: '/categories/treehouse-hotels', label: '🌳 Treehouse Hotels' },
+      { href: '/categories/cave-hotels', label: '🪨 Cave Hotels' },
+      { href: '/categories/castle-hotels', label: '🏰 Castle Hotels' },
+      { href: '/categories/underwater-rooms', label: '🌊 Underwater Rooms' },
+      { href: '/categories/bubble-hotels', label: '🫧 Bubble Hotels' },
+      { href: '/categories/floating-hotels', label: '🛶 Floating Hotels' },
+    ],
+  },
+  {
+    title: 'Destinations',
+    links: [
+      { href: '/destinations', label: 'All Destinations' },
+      { href: '/categories', label: 'Browse Categories' },
+      { href: '/blog', label: 'Travel Blog' },
+      { href: '/experiences', label: 'Experiences' },
+    ],
+  },
+  {
+    title: 'Company',
+    links: [
+      { href: '/about', label: 'About Us' },
+      { href: '/contact', label: 'Contact' },
+      { href: '/privacy', label: 'Privacy Policy' },
+      { href: '/disclosure', label: 'Affiliate Disclosure' },
+    ],
+  },
 ];
 ---
 
-<footer class="bg-stone-950 border-t border-stone-800 mt-24">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+<footer class="bg-warm-100 border-t border-warm-200 mt-20">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-8">
+
+    <!-- Top row -->
+    <div class="grid grid-cols-1 md:grid-cols-5 gap-10 mb-12">
+
       <!-- Brand -->
-      <div class="col-span-1 md:col-span-1">
-        <a href="/" class="flex items-center gap-2 mb-4">
-          <span class="text-2xl">✦</span>
-          <span class="font-display text-xl font-bold text-gold-400">StayAtNiche</span>
+      <div class="md:col-span-2">
+        <a href="/" class="inline-flex items-center gap-2 mb-5 group">
+          <span class="text-gold-500 text-lg">✦</span>
+          <span class="font-display text-xl font-bold text-warm-950 group-hover:text-warm-700 transition-colors">
+            StayAtNiche
+          </span>
         </a>
-        <p class="font-body text-stone-400 text-sm leading-relaxed max-w-xs">
-          Curating the world's most extraordinary stays — from treetops to ocean floors, ancient castles to midnight bubbles.
+        <p class="font-body text-warm-600 text-sm leading-relaxed max-w-xs mb-5">
+          Curating the world's most extraordinary stays — from treetops to ocean floors, ancient castles to transparent bubble domes.
         </p>
-        <p class="font-body text-stone-600 text-xs mt-4">
-          We may earn a commission from bookings made through our links, at no extra cost to you.
-        </p>
-      </div>
 
-      <!-- Categories -->
-      <div>
-        <h3 class="font-display text-white font-semibold mb-4">Categories</h3>
-        <ul class="space-y-2">
-          {categories.map(cat => (
-            <li>
-              <a
-                href={cat.href}
-                class="font-body text-stone-400 hover:text-gold-400 text-sm transition-colors"
-              >
-                {cat.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      <!-- Company -->
-      <div>
-        <h3 class="font-display text-white font-semibold mb-4">Company</h3>
-        <ul class="space-y-2">
-          <li>
-            <a href="/categories" class="font-body text-stone-400 hover:text-gold-400 text-sm transition-colors">
-              All Stays
-            </a>
-          </li>
-          <li>
-            <a href="/admin" class="font-body text-stone-400 hover:text-gold-400 text-sm transition-colors">
-              Admin
-            </a>
-          </li>
-        </ul>
-        <div class="mt-8">
-          <p class="font-body text-stone-500 text-xs">
-            Book with confidence.<br />
-            All properties hand-selected<br />
-            for quality and uniqueness.
-          </p>
+        <!-- Trust badges -->
+        <div class="flex flex-wrap gap-2">
+          <span class="inline-flex items-center gap-1.5 bg-white border border-warm-200 rounded-full px-3 py-1.5 text-xs font-body text-warm-600">
+            <span class="text-forest-500">✓</span> Booking.com Partner
+          </span>
+          <span class="inline-flex items-center gap-1.5 bg-white border border-warm-200 rounded-full px-3 py-1.5 text-xs font-body text-warm-600">
+            <span class="text-gold-500">✦</span> Hand-curated
+          </span>
         </div>
+
+        <p class="font-body text-warm-400 text-xs mt-4 leading-relaxed">
+          We may earn a commission from bookings made through our affiliate links, at no extra cost to you.
+        </p>
       </div>
+
+      <!-- Link columns -->
+      {columns.map(col => (
+        <div>
+          <h3 class="font-body text-xs font-semibold uppercase tracking-widest text-warm-500 mb-4">
+            {col.title}
+          </h3>
+          <ul class="space-y-2.5">
+            {col.links.map(link => (
+              <li>
+                <a
+                  href={link.href}
+                  class="font-body text-sm text-warm-600 hover:text-warm-950 transition-colors"
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
     </div>
 
-    <div class="border-t border-stone-800 mt-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-      <p class="font-body text-stone-600 text-xs">
+    <!-- Newsletter mini strip -->
+    <div class="bg-white rounded-2xl border border-warm-200 px-6 py-5 mb-10 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>
+        <p class="font-display text-base font-semibold text-warm-900">Never miss an extraordinary stay</p>
+        <p class="font-body text-sm text-warm-500 mt-0.5">Weekly picks, zero spam.</p>
+      </div>
+      <form class="flex gap-2 w-full sm:w-auto" netlify name="footer-newsletter" method="POST">
+        <input
+          type="email"
+          name="email"
+          placeholder="your@email.com"
+          required
+          class="flex-1 sm:w-56 bg-warm-50 border border-warm-200 focus:border-forest-400 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-2.5 rounded-full outline-none transition-colors"
+        />
+        <button
+          type="submit"
+          class="bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-5 py-2.5 rounded-full transition-colors whitespace-nowrap"
+        >
+          Subscribe
+        </button>
+      </form>
+    </div>
+
+    <!-- Bottom bar -->
+    <div class="border-t border-warm-200 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
+      <p class="font-body text-warm-400 text-xs">
         &copy; {year} StayAtNiche. All rights reserved.
       </p>
-      <p class="font-body text-stone-600 text-xs">
-        Affiliate partner of Booking.com
-      </p>
+      <div class="flex items-center gap-4">
+        <a href="/privacy" class="font-body text-warm-400 hover:text-warm-700 text-xs transition-colors">Privacy</a>
+        <a href="/disclosure" class="font-body text-warm-400 hover:text-warm-700 text-xs transition-colors">Affiliate Disclosure</a>
+        <a href="/admin" class="font-body text-warm-300 hover:text-warm-500 text-xs transition-colors">Admin</a>
+      </div>
     </div>
   </div>
 </footer>

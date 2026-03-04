@@ -2,7 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
 import CategoryCard from '../../components/CategoryCard.astro';
-import { getCollection, getEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const categories = await getCollection('categories');
@@ -15,97 +15,109 @@ export async function getStaticPaths() {
 const { category } = Astro.props;
 const { Content } = await category.render();
 
-// Get hotels in this category
 const allHotels = await getCollection('hotels');
 const categoryHotels = allHotels.filter(h => h.data.category === category.slug);
 
-// Get related categories (all except current)
 const allCategories = await getCollection('categories');
 const relatedCategories = allCategories
   .filter(c => c.slug !== category.slug)
   .sort((a, b) => a.data.order - b.data.order)
   .slice(0, 3);
+
+const seo = category.data.seo || {};
+const metaTitle = seo.metaTitle || category.data.metaTitle || `${category.data.title} | StayAtNiche`;
+const metaDesc  = seo.metaDescription || category.data.metaDescription || category.data.description;
 ---
 
-<BaseLayout
-  title={category.data.metaTitle || `${category.data.title} | StayAtNiche`}
-  description={category.data.metaDescription || category.data.description}
->
+<BaseLayout title={metaTitle} description={metaDesc}>
+
   <!-- Hero -->
-  <section class="relative bg-stone-950 pt-20 pb-16 overflow-hidden">
-    <div class="absolute inset-0 opacity-5">
-      <div class="absolute inset-0" style="background-image: radial-gradient(circle at 1px 1px, #d4a574 1px, transparent 0); background-size: 40px 40px;"></div>
-    </div>
-    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+  <section class="relative bg-warm-50 overflow-hidden pt-10 pb-16">
+    <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
+    <div class="absolute -top-16 -right-16 w-72 h-72 bg-gold-100/60 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <!-- Breadcrumb -->
-      <nav class="flex items-center gap-2 text-stone-500 text-sm font-body mb-8">
-        <a href="/" class="hover:text-gold-400 transition-colors">Home</a>
-        <span>/</span>
-        <a href="/categories" class="hover:text-gold-400 transition-colors">Categories</a>
-        <span>/</span>
-        <span class="text-stone-300">{category.data.title}</span>
+      <nav class="flex items-center gap-2 text-warm-500 text-sm font-body mb-10">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <a href="/categories" class="hover:text-warm-800 transition-colors">Categories</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">{category.data.title}</span>
       </nav>
 
-      <div class="flex flex-col lg:flex-row gap-12 items-center">
-        <div class="flex-1">
-          <div class="text-6xl mb-6">{category.data.icon}</div>
-          <h1 class="font-display text-5xl font-bold text-white mb-4">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
+
+        <!-- Left: main info -->
+        <div class="lg:col-span-2">
+          <div class="text-6xl mb-6 select-none">{category.data.icon}</div>
+
+          {category.data.tagline && (
+            <p class="font-body text-forest-600 text-sm font-semibold uppercase tracking-widest mb-3">
+              {category.data.tagline}
+            </p>
+          )}
+
+          <h1 class="font-display text-5xl font-bold text-warm-950 mb-5 leading-tight">
             {category.data.title}
           </h1>
-          <p class="font-body text-stone-400 text-lg leading-relaxed max-w-2xl">
+          <p class="font-body text-warm-600 text-lg leading-relaxed max-w-2xl">
             {category.data.description}
           </p>
         </div>
 
-        <!-- Stats card -->
-        <div class="bg-stone-900 rounded-2xl border border-stone-800 p-8 flex-shrink-0 w-full lg:w-72">
-          <h3 class="font-display text-white font-semibold mb-6">Category Stats</h3>
+        <!-- Right: stats card -->
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-7">
+          <h3 class="font-body text-xs font-semibold uppercase tracking-widest text-warm-500 mb-5">Category at a Glance</h3>
           <div class="space-y-4">
-            <div class="flex justify-between items-center">
-              <span class="font-body text-stone-400 text-sm">Total Stays</span>
-              <span class="font-display text-gold-400 font-bold">{category.data.stats.hotelCount}</span>
+            <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+              <span class="font-body text-warm-600 text-sm">Total Stays</span>
+              <span class="font-display text-gold-600 font-bold text-lg">{category.data.stats.hotelCount}</span>
             </div>
-            <div class="border-t border-stone-800"></div>
-            <div class="flex justify-between items-center">
-              <span class="font-body text-stone-400 text-sm">Avg. Price/Night</span>
-              <span class="font-display text-gold-400 font-bold">${category.data.stats.avgPrice}</span>
+            <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+              <span class="font-body text-warm-600 text-sm">Avg. Price/Night</span>
+              <span class="font-display text-gold-600 font-bold text-lg">${category.data.stats.avgPrice}</span>
             </div>
-            <div class="border-t border-stone-800"></div>
             <div class="flex justify-between items-center">
-              <span class="font-body text-stone-400 text-sm">Top Destination</span>
-              <span class="font-display text-gold-400 font-bold text-right text-sm">{category.data.stats.topDestination}</span>
+              <span class="font-body text-warm-600 text-sm">Top Destination</span>
+              <span class="font-display text-warm-900 font-bold text-sm text-right max-w-[120px] leading-tight">{category.data.stats.topDestination}</span>
             </div>
           </div>
           <a
             href="/categories"
-            class="block w-full text-center mt-6 border border-stone-700 hover:border-gold-500 text-stone-300 hover:text-gold-400 font-body text-sm px-4 py-2 rounded-full transition-colors"
+            class="block w-full text-center mt-6 border border-warm-200 hover:border-forest-400 hover:bg-forest-50 text-warm-700 hover:text-forest-700 font-body text-sm font-medium px-4 py-2.5 rounded-full transition-all"
           >
-            All Categories
+            ← All Categories
           </a>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Content -->
-  <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-    <div class="prose prose-invert prose-gold max-w-none
-      prose-headings:font-display prose-headings:text-white
-      prose-p:font-body prose-p:text-stone-400 prose-p:leading-relaxed
-      prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4
-      prose-strong:text-white">
-      <Content />
-    </div>
-  </section>
+  <!-- Long description -->
+  {category.body && (
+    <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+      <div class="prose prose-warm max-w-none
+        prose-headings:font-display prose-headings:text-warm-950
+        prose-p:font-body prose-p:text-warm-700 prose-p:leading-relaxed
+        prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4
+        prose-strong:text-warm-900 prose-a:text-forest-600 prose-a:no-underline hover:prose-a:underline">
+        <Content />
+      </div>
+    </section>
+  )}
 
-  <!-- Hotels in this category -->
+  <!-- Hotels grid -->
   {categoryHotels.length > 0 && (
-    <section class="bg-stone-900/50 border-y border-stone-800">
+    <section class="bg-warm-100 border-y border-warm-200">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <h2 class="font-display text-3xl font-bold text-white mb-8">
-          {category.data.title} <span class="text-gold-400">Stays</span>
-        </h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div class="flex items-end justify-between mb-10">
+          <h2 class="font-display text-3xl font-bold text-warm-950">
+            {category.data.title} <span class="text-gold-500">Stays</span>
+          </h2>
+          <span class="font-body text-warm-500 text-sm">{categoryHotels.length} {categoryHotels.length === 1 ? 'property' : 'properties'}</span>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           {categoryHotels.map(hotel => (
             <HotelCard
               name={hotel.data.name}
@@ -130,10 +142,10 @@ const relatedCategories = allCategories
 
   <!-- Related categories -->
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-    <h2 class="font-display text-2xl font-bold text-white mb-8">
-      Explore Other <span class="text-gold-400">Categories</span>
+    <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
+      Explore Other <span class="text-gold-500">Categories</span>
     </h2>
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
       {relatedCategories.map(cat => (
         <CategoryCard
           title={cat.data.title}
@@ -146,4 +158,5 @@ const relatedCategories = allCategories
       ))}
     </div>
   </section>
+
 </BaseLayout>

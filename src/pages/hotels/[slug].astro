@@ -14,125 +14,172 @@ export async function getStaticPaths() {
 const { hotel } = Astro.props;
 const { Content } = await hotel.render();
 
-// Get related hotels (same category, excluding current)
 const allHotels = await getCollection('hotels');
 const relatedHotels = allHotels
   .filter(h => h.slug !== hotel.slug && h.data.category === hotel.data.category)
   .slice(0, 4);
 
-// Get category info
 const allCategories = await getCollection('categories');
 const category = allCategories.find(c => c.slug === hotel.data.category);
 
-const priceLabels = ['', 'Budget', 'Moderate', 'Upscale', 'Luxury', 'Ultra-luxury'];
+const priceLabels = ['', 'Budget', 'Moderate', 'Upscale', 'Luxury', 'Ultra-Luxury'];
 const categoryIcons: Record<string, string> = {
-  'treehouse-hotels': '🌳',
-  'cave-hotels': '🏔️',
-  'underwater-rooms': '🌊',
-  'castle-hotels': '🏰',
-  'floating-hotels': '🚢',
-  'bubble-hotels': '🔮',
+  'treehouse-hotels':    '🌳',
+  'cave-hotels':         '🪨',
+  'underwater-rooms':    '🌊',
+  'castle-hotels':       '🏰',
+  'floating-hotels':     '🛶',
+  'bubble-hotels':       '🫧',
+  'cliffside-hotels':    '⛰️',
+  'desert-camps':        '🏜️',
+  'jungle-lodges':       '🌿',
+  'ice-hotels':          '🧊',
+  'safari-lodges':       '🦁',
+  'overwater-bungalows': '🌺',
 };
 const catIcon = categoryIcons[hotel.data.category] || '✦';
+
+const seo = hotel.data.seo || {};
+const metaTitle = seo.metaTitle || `${hotel.data.name} — ${hotel.data.destination} | StayAtNiche`;
+const metaDesc  = seo.metaDescription || hotel.data.description;
 ---
 
-<BaseLayout
-  title={`${hotel.data.name} — ${hotel.data.destination} | StayAtNiche`}
-  description={hotel.data.description}
->
-  <!-- Hero area -->
-  <section class="relative bg-stone-950 pt-20 pb-8 overflow-hidden">
-    <div class="absolute inset-0 opacity-5">
-      <div class="absolute inset-0" style="background-image: radial-gradient(circle at 1px 1px, #d4a574 1px, transparent 0); background-size: 40px 40px;"></div>
-    </div>
+<BaseLayout title={metaTitle} description={metaDesc}>
+
+  <!-- Hero -->
+  <section class="relative bg-warm-50 overflow-hidden pt-8 pb-12">
+    <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
+
     <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <!-- Breadcrumb -->
-      <nav class="flex flex-wrap items-center gap-2 text-stone-500 text-sm font-body mb-8">
-        <a href="/" class="hover:text-gold-400 transition-colors">Home</a>
-        <span>/</span>
-        <a href="/categories" class="hover:text-gold-400 transition-colors">Categories</a>
-        <span>/</span>
+      <nav class="flex flex-wrap items-center gap-1.5 text-warm-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <a href="/categories" class="hover:text-warm-800 transition-colors">Categories</a>
+        <span class="text-warm-300">/</span>
         {category && (
           <>
-            <a href={`/categories/${hotel.data.category}`} class="hover:text-gold-400 transition-colors">
+            <a href={`/categories/${hotel.data.category}`} class="hover:text-warm-800 transition-colors">
               {category.data.title}
             </a>
-            <span>/</span>
+            <span class="text-warm-300">/</span>
           </>
         )}
-        <span class="text-stone-300">{hotel.data.name}</span>
+        <span class="text-warm-800 font-medium">{hotel.data.name}</span>
       </nav>
 
-      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-        <!-- Main info -->
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-10 items-start">
+
+        <!-- Left: hotel info -->
         <div class="lg:col-span-2">
           <!-- Category badge -->
-          <div class="inline-flex items-center gap-2 bg-stone-900 border border-stone-700 rounded-full px-3 py-1 mb-4">
+          <a
+            href={`/categories/${hotel.data.category}`}
+            class="inline-flex items-center gap-2 bg-warm-100 hover:bg-warm-200 border border-warm-200 rounded-full px-3.5 py-1.5 mb-5 transition-colors"
+          >
             <span>{catIcon}</span>
-            <span class="font-body text-stone-400 text-xs">{category?.data.title || hotel.data.category}</span>
+            <span class="font-body text-warm-700 text-xs font-semibold">
+              {category?.data.title || hotel.data.category.replace(/-/g, ' ')}
+            </span>
+          </a>
+
+          <!-- Badges row -->
+          <div class="flex flex-wrap gap-2 mb-4">
+            {hotel.data.featured && (
+              <span class="inline-flex items-center gap-1 bg-gold-100 text-gold-700 border border-gold-200 rounded-full px-3 py-1 text-xs font-body font-semibold">
+                ✦ Featured
+              </span>
+            )}
+            {hotel.data.editorsPick && (
+              <span class="inline-flex items-center gap-1 bg-forest-100 text-forest-700 border border-forest-200 rounded-full px-3 py-1 text-xs font-body font-semibold">
+                ◈ Editor's Pick
+              </span>
+            )}
+            {hotel.data.trending && (
+              <span class="inline-flex items-center gap-1 bg-warm-200 text-warm-700 border border-warm-300 rounded-full px-3 py-1 text-xs font-body font-semibold">
+                ↑ Trending
+              </span>
+            )}
           </div>
 
-          <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-3">
+          <h1 class="font-display text-4xl sm:text-5xl font-bold text-warm-950 mb-4 leading-tight">
             {hotel.data.name}
           </h1>
 
-          <!-- Location & rating -->
-          <div class="flex flex-wrap items-center gap-4 mb-6">
-            <div class="flex items-center gap-1 text-stone-400 font-body text-sm">
-              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+          <!-- Meta row -->
+          <div class="flex flex-wrap items-center gap-5 mb-6">
+            <div class="flex items-center gap-1.5 text-warm-600 font-body text-sm">
+              <svg class="w-4 h-4 text-warm-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
               </svg>
-              <span>{hotel.data.destination}, {hotel.data.country}</span>
+              {hotel.data.destination}, {hotel.data.country}
             </div>
-            <div class="flex items-center gap-1">
-              <svg class="w-4 h-4 text-gold-400 fill-current" viewBox="0 0 20 20">
-                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-              </svg>
-              <span class="font-display font-bold text-gold-400">{hotel.data.rating}</span>
-              <span class="font-body text-stone-500 text-sm">({hotel.data.reviewCount.toLocaleString()} reviews)</span>
+            <div class="flex items-center gap-1.5">
+              <div class="flex items-center gap-1 bg-gold-50 border border-gold-200 rounded-full px-3 py-1">
+                <svg class="w-3.5 h-3.5 text-gold-500 fill-current" viewBox="0 0 20 20">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                </svg>
+                <span class="font-display font-bold text-warm-900 text-sm">{hotel.data.rating}</span>
+                <span class="font-body text-warm-500 text-xs">/ 10</span>
+              </div>
+              <span class="font-body text-warm-500 text-xs">({hotel.data.reviewCount.toLocaleString()} reviews)</span>
             </div>
           </div>
 
-          <p class="font-body text-stone-400 text-lg leading-relaxed">
+          <p class="font-body text-warm-700 text-lg leading-relaxed max-w-2xl">
             {hotel.data.description}
           </p>
         </div>
 
-        <!-- Booking card -->
-        <div class="lg:col-span-1">
-          <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6 sticky top-24">
+        <!-- Right: booking card (sticky) -->
+        <div class="lg:sticky lg:top-28">
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card-hover p-6">
             <!-- Price -->
-            <div class="mb-4">
-              <div class="font-body text-stone-500 text-xs mb-1">Price range</div>
-              <div class="font-display text-2xl font-bold text-white">{hotel.data.priceRange}</div>
-              <div class="font-body text-stone-500 text-xs">per night</div>
-            </div>
-            <div class="mb-4">
-              <span class="inline-flex items-center gap-1 bg-stone-800 rounded-full px-3 py-1 text-sm font-body text-stone-300">
-                {priceLabels[hotel.data.priceIndicator]}
-              </span>
+            <div class="mb-5 pb-5 border-b border-warm-100">
+              <span class="font-body text-warm-400 text-xs uppercase tracking-wider">Price range</span>
+              <div class="font-display text-2xl font-bold text-warm-950 mt-1">{hotel.data.priceRange}</div>
+              <div class="flex items-center gap-2 mt-2">
+                <span class="font-body text-warm-400 text-xs">per night</span>
+                <span class="bg-warm-100 text-warm-600 font-body text-xs px-2.5 py-0.5 rounded-full border border-warm-200">
+                  {priceLabels[hotel.data.priceIndicator]}
+                </span>
+              </div>
             </div>
 
+            <!-- Primary CTA -->
             <a
               href={hotel.data.bookingUrl}
               target="_blank"
               rel="noopener noreferrer nofollow"
-              class="block w-full text-center bg-gold-500 hover:bg-gold-400 text-stone-950 font-body font-bold text-lg px-6 py-4 rounded-xl transition-colors mb-3"
+              class="block w-full text-center bg-forest-600 hover:bg-forest-700 text-white font-body font-bold text-base px-6 py-4 rounded-xl transition-all hover:shadow-lg active:scale-95 mb-3"
             >
               Check Availability
+              <span class="block text-forest-200 text-xs font-normal mt-0.5">via Booking.com · Best rate guaranteed</span>
             </a>
-            <p class="font-body text-stone-600 text-xs text-center">
-              via Booking.com · Best rate guaranteed
-            </p>
 
-            <!-- Quick highlights -->
-            <div class="mt-6 pt-5 border-t border-stone-800">
-              <div class="font-body text-stone-400 text-xs font-semibold uppercase tracking-wider mb-3">Why guests love it</div>
-              {hotel.data.highlights.slice(0, 3).map(h => (
+            <!-- Affiliate links -->
+            {hotel.data.affiliateLinks && hotel.data.affiliateLinks.length > 0 && (
+              <div class="space-y-2 mt-3">
+                {hotel.data.affiliateLinks.slice(0, 2).map((link: any) => (
+                  <a
+                    href={link.url}
+                    target="_blank"
+                    rel="noopener noreferrer nofollow"
+                    class="block w-full text-center border border-warm-200 hover:border-warm-300 hover:bg-warm-50 text-warm-700 font-body font-medium text-sm px-4 py-2.5 rounded-xl transition-all"
+                  >
+                    {link.label}
+                  </a>
+                ))}
+              </div>
+            )}
+
+            <!-- Why guests love it -->
+            <div class="mt-5 pt-5 border-t border-warm-100">
+              <p class="font-body text-warm-400 text-xs uppercase tracking-wider font-semibold mb-3">Why guests love it</p>
+              {hotel.data.highlights.slice(0, 3).map((h: string) => (
                 <div class="flex items-start gap-2 mb-2">
-                  <span class="text-gold-500 mt-0.5">✓</span>
-                  <span class="font-body text-stone-400 text-xs">{h}</span>
+                  <span class="text-forest-500 mt-0.5 flex-shrink-0 font-bold text-sm">✓</span>
+                  <span class="font-body text-warm-600 text-sm">{h}</span>
                 </div>
               ))}
             </div>
@@ -142,38 +189,46 @@ const catIcon = categoryIcons[hotel.data.category] || '✦';
     </div>
   </section>
 
-  <!-- Image placeholder -->
-  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-    <div class="rounded-2xl bg-stone-900 border border-stone-800 h-80 flex items-center justify-center overflow-hidden">
-      <span class="text-[120px] opacity-20">{catIcon}</span>
+  <!-- Large image placeholder -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+    <div class="rounded-3xl bg-gradient-to-br from-warm-100 to-warm-200 border border-warm-200 h-72 sm:h-96 flex items-center justify-center overflow-hidden relative">
+      <div class="absolute inset-0 flex items-center justify-center">
+        <span class="text-[160px] opacity-20 select-none">{catIcon}</span>
+      </div>
+      <div class="relative text-center">
+        <p class="font-body text-warm-400 text-sm">Photo gallery coming soon</p>
+      </div>
     </div>
   </section>
 
   <!-- Detailed content -->
-  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 pb-20">
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
-      <!-- Main content -->
+
+      <!-- Main review content -->
       <div class="lg:col-span-2">
-        <div class="prose prose-invert max-w-none
-          prose-headings:font-display prose-headings:text-white
-          prose-p:font-body prose-p:text-stone-400 prose-p:leading-relaxed
+        <div class="prose prose-warm max-w-none
+          prose-headings:font-display prose-headings:text-warm-950
+          prose-p:font-body prose-p:text-warm-700 prose-p:leading-relaxed
           prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4
-          prose-strong:text-gold-300">
+          prose-h3:text-xl prose-h3:font-bold prose-h3:mt-7 prose-h3:mb-3
+          prose-strong:text-warm-900 prose-a:text-forest-600 hover:prose-a:underline">
           <Content />
         </div>
       </div>
 
       <!-- Sidebar -->
-      <div class="space-y-6">
+      <div class="space-y-5">
+
         <!-- Amenities -->
         {hotel.data.amenities.length > 0 && (
-          <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6">
-            <h3 class="font-display text-lg font-bold text-white mb-4">Amenities</h3>
-            <div class="space-y-2">
-              {hotel.data.amenities.map(amenity => (
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+            <h3 class="font-display text-lg font-bold text-warm-950 mb-4">Amenities</h3>
+            <div class="grid grid-cols-2 gap-x-4 gap-y-2.5">
+              {hotel.data.amenities.map((amenity: string) => (
                 <div class="flex items-center gap-2">
-                  <span class="text-gold-500 text-sm">✓</span>
-                  <span class="font-body text-stone-400 text-sm">{amenity}</span>
+                  <span class="text-forest-500 text-xs font-bold flex-shrink-0">✓</span>
+                  <span class="font-body text-warm-600 text-sm">{amenity}</span>
                 </div>
               ))}
             </div>
@@ -182,11 +237,11 @@ const catIcon = categoryIcons[hotel.data.category] || '✦';
 
         <!-- Best For -->
         {hotel.data.bestFor.length > 0 && (
-          <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6">
-            <h3 class="font-display text-lg font-bold text-white mb-4">Best For</h3>
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+            <h3 class="font-display text-lg font-bold text-warm-950 mb-4">Best For</h3>
             <div class="flex flex-wrap gap-2">
-              {hotel.data.bestFor.map(tag => (
-                <span class="bg-stone-800 text-stone-300 font-body text-xs px-3 py-1 rounded-full border border-stone-700">
+              {hotel.data.bestFor.map((tag: string) => (
+                <span class="bg-warm-100 text-warm-700 font-body text-xs px-3 py-1.5 rounded-full border border-warm-200 font-medium">
                   {tag}
                 </span>
               ))}
@@ -194,41 +249,104 @@ const catIcon = categoryIcons[hotel.data.category] || '✦';
           </div>
         )}
 
-        <!-- Map placeholder -->
-        <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6">
-          <h3 class="font-display text-lg font-bold text-white mb-4">Location</h3>
-          <div class="bg-stone-800 rounded-xl h-40 flex items-center justify-center mb-3">
+        <!-- Pros & Cons -->
+        {hotel.data.prosAndCons && (
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+            <h3 class="font-display text-lg font-bold text-warm-950 mb-4">Pros & Cons</h3>
+            {hotel.data.prosAndCons.pros?.length > 0 && (
+              <div class="mb-4">
+                <p class="font-body text-xs font-semibold text-forest-600 uppercase tracking-wider mb-2">Pros</p>
+                {hotel.data.prosAndCons.pros.map((p: string) => (
+                  <div class="flex items-start gap-2 mb-1.5">
+                    <span class="text-forest-500 font-bold text-sm mt-0.5 flex-shrink-0">+</span>
+                    <span class="font-body text-warm-600 text-sm">{p}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+            {hotel.data.prosAndCons.cons?.length > 0 && (
+              <div>
+                <p class="font-body text-xs font-semibold text-red-500 uppercase tracking-wider mb-2">Cons</p>
+                {hotel.data.prosAndCons.cons.map((c: string) => (
+                  <div class="flex items-start gap-2 mb-1.5">
+                    <span class="text-red-400 font-bold text-sm mt-0.5 flex-shrink-0">−</span>
+                    <span class="font-body text-warm-600 text-sm">{c}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
+        <!-- Seasonal info -->
+        {hotel.data.seasonalInfo && (
+          <div class="bg-warm-50 rounded-2xl border border-warm-200 p-6">
+            <h3 class="font-display text-base font-bold text-warm-950 mb-3">Best Time to Visit</h3>
+            <p class="font-body text-forest-700 text-sm font-semibold mb-1">{hotel.data.seasonalInfo.bestTime}</p>
+            {hotel.data.seasonalInfo.notes && (
+              <p class="font-body text-warm-600 text-xs leading-relaxed">{hotel.data.seasonalInfo.notes}</p>
+            )}
+          </div>
+        )}
+
+        <!-- Location -->
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+          <h3 class="font-display text-lg font-bold text-warm-950 mb-4">Location</h3>
+          <div class="bg-warm-100 rounded-xl h-36 flex items-center justify-center mb-3 border border-warm-200">
             <div class="text-center">
-              <svg class="w-8 h-8 text-gold-400 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+              <svg class="w-8 h-8 text-warm-400 mx-auto mb-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
               </svg>
-              <p class="font-body text-stone-500 text-xs">{hotel.data.destination}</p>
-              <p class="font-body text-stone-600 text-xs">{hotel.data.country}</p>
+              <p class="font-body text-warm-600 text-sm font-medium">{hotel.data.destination}</p>
+              <p class="font-body text-warm-400 text-xs">{hotel.data.country}</p>
             </div>
           </div>
-          <p class="font-body text-stone-600 text-xs">
-            Coordinates: {hotel.data.coordinates.lat.toFixed(4)}, {hotel.data.coordinates.lng.toFixed(4)}
-          </p>
+          {hotel.data.coordinates && (
+            <p class="font-body text-warm-400 text-xs">
+              {hotel.data.coordinates.lat.toFixed(4)}°, {hotel.data.coordinates.lng.toFixed(4)}°
+            </p>
+          )}
+          {hotel.data.address && (
+            <p class="font-body text-warm-500 text-sm mt-2">{hotel.data.address}</p>
+          )}
         </div>
       </div>
     </div>
   </section>
 
-  <!-- CTA Banner -->
-  <section class="bg-stone-900 border-y border-stone-800">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
-      <h2 class="font-display text-2xl font-bold text-white mb-4">
-        Ready to book your stay at {hotel.data.name}?
-      </h2>
+  <!-- Sticky booking CTA (mobile) -->
+  <div class="fixed bottom-0 left-0 right-0 z-40 lg:hidden bg-white border-t border-warm-200 px-4 py-3 shadow-lg">
+    <div class="flex items-center gap-3 max-w-lg mx-auto">
+      <div class="flex-1 min-w-0">
+        <p class="font-body text-warm-400 text-xs">From</p>
+        <p class="font-display font-bold text-warm-950 text-base truncate">{hotel.data.priceRange.split(' - ')[0]}<span class="font-body text-warm-400 text-xs font-normal"> / night</span></p>
+      </div>
       <a
         href={hotel.data.bookingUrl}
         target="_blank"
         rel="noopener noreferrer nofollow"
-        class="inline-flex items-center gap-2 bg-gold-500 hover:bg-gold-400 text-stone-950 font-body font-bold text-lg px-8 py-4 rounded-full transition-colors"
+        class="flex-shrink-0 bg-forest-600 hover:bg-forest-700 text-white font-body font-bold text-sm px-6 py-3 rounded-full transition-all active:scale-95"
+      >
+        Check Rates
+      </a>
+    </div>
+  </div>
+
+  <!-- CTA Banner -->
+  <section class="bg-warm-100 border-y border-warm-200 mb-16 lg:mb-0">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
+      <h2 class="font-display text-2xl font-bold text-warm-950 mb-4">
+        Ready to book {hotel.data.name}?
+      </h2>
+      <p class="font-body text-warm-600 text-sm mb-6">Best rates guaranteed. Free cancellation on most rooms.</p>
+      <a
+        href={hotel.data.bookingUrl}
+        target="_blank"
+        rel="noopener noreferrer nofollow"
+        class="inline-flex items-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-bold text-base px-10 py-4 rounded-full transition-all hover:shadow-lg active:scale-95"
       >
         Check Availability on Booking.com
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
         </svg>
       </a>
@@ -238,10 +356,10 @@ const catIcon = categoryIcons[hotel.data.category] || '✦';
   <!-- Related hotels -->
   {relatedHotels.length > 0 && (
     <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-      <h2 class="font-display text-2xl font-bold text-white mb-8">
-        More <span class="text-gold-400">{category?.data.title}</span>
+      <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
+        More <span class="text-gold-500">{category?.data.title}</span>
       </h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
         {relatedHotels.map(h => (
           <HotelCard
             name={h.data.name}
@@ -262,4 +380,5 @@ const catIcon = categoryIcons[hotel.data.category] || '✦';
       </div>
     </section>
   )}
+
 </BaseLayout>

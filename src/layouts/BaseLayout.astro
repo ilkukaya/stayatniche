@@ -10,7 +10,7 @@ interface Props {
 
 const {
   title,
-  description = 'Discover the world\'s most extraordinary stays — from treehouses to underwater rooms, castles to caves.',
+  description = "Discover the world's most extraordinary stays — from treehouses to underwater rooms, castles to caves.",
   image = '/images/og-default.jpg',
 } = Astro.props;
 
@@ -25,12 +25,10 @@ const fullTitle = title.includes('StayAtNiche') ? title : `${title} | StayAtNich
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
 
-    <!-- SEO -->
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
 
-    <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:title" content={fullTitle} />
@@ -38,44 +36,35 @@ const fullTitle = title.includes('StayAtNiche') ? title : `${title} | StayAtNich
     <meta property="og:image" content={image} />
     <meta property="og:site_name" content="StayAtNiche" />
 
-    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={image} />
 
-    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@300;400;500;600&display=swap"
       rel="stylesheet"
     />
 
-    <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
-    <!-- Netlify Identity (for CMS) -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+      html { scroll-padding-top: 110px; }
+      .scrollbar-hide::-webkit-scrollbar { display: none; }
+      .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+      .dot-pattern {
+        background-image: radial-gradient(circle, #C9852A18 1px, transparent 1px);
+        background-size: 30px 30px;
+      }
+    </style>
   </head>
-  <body class="bg-stone-950 text-white font-body antialiased">
+  <body class="bg-warm-50 text-warm-900 font-body antialiased">
     <Header />
-    <main class="pt-16">
+    <main class="pt-16 md:pt-[104px]">
       <slot />
     </main>
     <Footer />
-
-    <script>
-      // Netlify Identity redirect
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on('init', (user: any) => {
-          if (!user) {
-            window.netlifyIdentity.on('login', () => {
-              document.location.href = '/admin/';
-            });
-          }
-        });
-      }
-    </script>
   </body>
 </html>
