@@ -14,7 +14,7 @@ highlights:
   - Seven unique architect-designed rooms
   - Mirrored Cube that reflects the forest
   - Northern Lights viewing in winter
-  - Wilderness activities: dog sledding, snowshoeing
+  - "Wilderness activities: dog sledding, snowshoeing"
   - Restaurant serving Nordic cuisine
 amenities:
   - En-suite bathroom
