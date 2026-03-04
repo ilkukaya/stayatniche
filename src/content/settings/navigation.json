@@ -1,0 +1,49 @@
+{
+  "mainNav": [
+    { "label": "Categories", "url": "/categories", "external": false },
+    { "label": "Destinations", "url": "/destinations", "external": false },
+    { "label": "Experiences", "url": "/experiences", "external": false },
+    { "label": "Blog", "url": "/blog", "external": false }
+  ],
+  "footerColumns": [
+    {
+      "title": "Explore",
+      "links": [
+        { "label": "All Categories", "url": "/categories" },
+        { "label": "Treehouse Hotels", "url": "/categories/treehouse-hotels" },
+        { "label": "Cave Hotels", "url": "/categories/cave-hotels" },
+        { "label": "Castle Hotels", "url": "/categories/castle-hotels" },
+        { "label": "Underwater Rooms", "url": "/categories/underwater-rooms" }
+      ]
+    },
+    {
+      "title": "Destinations",
+      "links": [
+        { "label": "Europe", "url": "/destinations?continent=europe" },
+        { "label": "Asia", "url": "/destinations?continent=asia" },
+        { "label": "Africa", "url": "/destinations?continent=africa" },
+        { "label": "Americas", "url": "/destinations?continent=north-america" },
+        { "label": "Oceania", "url": "/destinations?continent=oceania" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Travel Tips", "url": "/blog?category=travel-tips" },
+        { "label": "Destination Guides", "url": "/blog?category=destination-guide" },
+        { "label": "Experiences", "url": "/experiences" }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About Us", "url": "/about" },
+        { "label": "Contact", "url": "/contact" },
+        { "label": "Privacy Policy", "url": "/privacy" },
+        { "label": "Affiliate Disclosure", "url": "/disclosure" }
+      ]
+    }
+  ],
+  "copyright": "© 2025 StayAtNiche. All rights reserved."
+}

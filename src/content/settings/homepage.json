@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "headline": "The World's Most Extraordinary Stays",
+    "subheadline": "From treetop suites to underwater bedrooms, ancient castles to transparent bubble domes — discover accommodations that go far beyond ordinary.",
+    "bgImage": "",
+    "ctaText": "Explore Categories",
+    "ctaUrl": "/categories",
+    "cta2Text": "View Featured Stays",
+    "cta2Url": "#featured-hotels"
+  },
+  "featuredSection": {
+    "show": true,
+    "title": "Featured Stays",
+    "subtitle": "Our editors' selection of the most unforgettable properties in the world right now."
+  },
+  "newsletter": {
+    "show": true,
+    "headline": "Never Miss an Extraordinary Stay",
+    "description": "Get our hand-picked selection of the world's most unique hotels, delivered to your inbox."
+  },
+  "showBlog": true,
+  "showDestinations": true,
+  "showExperiences": false
+}

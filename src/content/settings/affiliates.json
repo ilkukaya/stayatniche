@@ -1,0 +1,30 @@
+{
+  "booking": {
+    "affiliateId": "",
+    "label": "Check Rates on Booking.com"
+  },
+  "hotelscom": {
+    "affiliateId": "",
+    "label": "See Rates on Hotels.com"
+  },
+  "expedia": {
+    "affiliateId": ""
+  },
+  "agoda": {
+    "affiliateId": ""
+  },
+  "getyourguide": {
+    "partnerId": ""
+  },
+  "viator": {
+    "partnerId": ""
+  },
+  "klook": {
+    "partnerId": ""
+  },
+  "amazon": {
+    "associateTag": ""
+  },
+  "defaultCtaText": "Check Best Rates",
+  "disclosureText": "This post contains affiliate links. If you book through our links, we may earn a small commission at no extra cost to you. This helps us keep the site running and continue curating extraordinary stays."
+}

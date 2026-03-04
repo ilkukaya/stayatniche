@@ -6,80 +6,767 @@ backend:
 media_folder: "public/images"
 public_folder: "/images"
 
-collections:
-  - name: "categories"
-    label: "Categories"
-    folder: "src/content/categories"
-    create: true
-    slug: "{{slug}}"
-    extension: "md"
-    format: "frontmatter"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Icon (emoji)", name: "icon", widget: "string" }
-      - { label: "Cover Image", name: "coverImage", widget: "image" }
-      - label: "Stats"
-        name: "stats"
-        widget: "object"
-        fields:
-          - { label: "Hotel Count", name: "hotelCount", widget: "number" }
-          - { label: "Average Price", name: "avgPrice", widget: "number" }
-          - { label: "Top Destination", name: "topDestination", widget: "string" }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false }
-      - { label: "Order", name: "order", widget: "number", default: 99 }
-      - { label: "Meta Title", name: "metaTitle", widget: "string", required: false }
-      - { label: "Meta Description", name: "metaDescription", widget: "text", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+editor:
+  preview: false
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+
+  # ═══════════════════════════════════════════════════════════
+  # HOTELS
+  # ═══════════════════════════════════════════════════════════
   - name: "hotels"
     label: "Hotels"
+    label_singular: "Hotel"
     folder: "src/content/hotels"
     create: true
     slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
+    summary: "{{name}} — {{destination}}, {{country}}"
+    sortable_fields: ["name", "rating", "publishedDate", "country", "category"]
+    view_filters:
+      - label: "Featured"
+        field: "featured"
+        pattern: true
+      - label: "Editor's Pick"
+        field: "editorsPick"
+        pattern: true
+      - label: "Trending"
+        field: "trending"
+        pattern: true
+      - label: "Drafts"
+        field: "status"
+        pattern: "draft"
+    view_groups:
+      - label: "Category"
+        field: "category"
+      - label: "Country"
+        field: "country"
+      - label: "Continent"
+        field: "continent"
     fields:
-      - { label: "Name", name: "name", widget: "string" }
+      # ── Basic Info ──────────────────────────────────────────
+      - { label: "Hotel Name", name: "name", widget: "string" }
+
       - label: "Category"
         name: "category"
         widget: "select"
         options:
-          - { label: "Treehouse Hotels", value: "treehouse-hotels" }
-          - { label: "Cave Hotels", value: "cave-hotels" }
-          - { label: "Underwater Rooms", value: "underwater-rooms" }
-          - { label: "Castle Hotels", value: "castle-hotels" }
-          - { label: "Floating Hotels", value: "floating-hotels" }
-          - { label: "Bubble Hotels", value: "bubble-hotels" }
-      - { label: "Destination", name: "destination", widget: "string" }
+          - { label: "🌳 Treehouse Hotels", value: "treehouse-hotels" }
+          - { label: "🪨 Cave Hotels", value: "cave-hotels" }
+          - { label: "🌊 Underwater Rooms", value: "underwater-rooms" }
+          - { label: "🏰 Castle Hotels", value: "castle-hotels" }
+          - { label: "🛶 Floating Hotels", value: "floating-hotels" }
+          - { label: "🫧 Bubble Hotels", value: "bubble-hotels" }
+          - { label: "⛰️ Cliffside Hotels", value: "cliffside-hotels" }
+          - { label: "🏜️ Desert Camps", value: "desert-camps" }
+          - { label: "🌿 Jungle Lodges", value: "jungle-lodges" }
+          - { label: "🧊 Ice Hotels", value: "ice-hotels" }
+          - { label: "🦁 Safari Lodges", value: "safari-lodges" }
+          - { label: "🔦 Lighthouse Hotels", value: "lighthouse-hotels" }
+          - { label: "🚂 Train Hotels", value: "train-hotels" }
+          - { label: "🌺 Overwater Bungalows", value: "overwater-bungalows" }
+
+      - { label: "Destination / City", name: "destination", widget: "string" }
       - { label: "Country", name: "country", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
+
+      - label: "Continent"
+        name: "continent"
+        widget: "select"
+        options:
+          - { label: "Europe", value: "europe" }
+          - { label: "Asia", value: "asia" }
+          - { label: "North America", value: "north-america" }
+          - { label: "South America", value: "south-america" }
+          - { label: "Africa", value: "africa" }
+          - { label: "Oceania", value: "oceania" }
+          - { label: "Middle East", value: "middle-east" }
+
+      - { label: "Address", name: "address", widget: "string", required: false, hint: "Full address shown on detail page" }
+
+      # ── Content ─────────────────────────────────────────────
+      - { label: "Short Description", name: "description", widget: "text", hint: "150–200 chars. Used in cards and meta description." }
+
       - { label: "Cover Image", name: "coverImage", widget: "image" }
-      - { label: "Gallery", name: "gallery", widget: "list", field: { label: "Image", name: "image", widget: "image" }, required: false }
-      - { label: "Price Range", name: "priceRange", widget: "string", hint: "e.g. $300 - $600" }
-      - { label: "Price Indicator (1-5)", name: "priceIndicator", widget: "number", min: 1, max: 5 }
-      - { label: "Highlights", name: "highlights", widget: "list", field: { label: "Highlight", name: "highlight", widget: "string" } }
-      - { label: "Amenities", name: "amenities", widget: "list", field: { label: "Amenity", name: "amenity", widget: "string" } }
-      - { label: "Best For", name: "bestFor", widget: "list", field: { label: "Type", name: "type", widget: "string" } }
-      - { label: "Booking URL", name: "bookingUrl", widget: "string" }
-      - { label: "Rating (1-10)", name: "rating", widget: "number", value_type: "float", min: 1, max: 10, step: 0.1 }
+      - label: "Gallery"
+        name: "gallery"
+        widget: "list"
+        required: false
+        field: { label: "Image", name: "image", widget: "image" }
+
+      # ── Pricing ─────────────────────────────────────────────
+      - { label: "Price Range", name: "priceRange", widget: "string", hint: "e.g. $300 – $600 per night" }
+      - { label: "Starting Price (USD/night)", name: "pricePerNight", widget: "number", required: false, hint: "Lowest price for sorting & filtering" }
+      - { label: "Price Indicator (1–5 $)", name: "priceIndicator", widget: "number", min: 1, max: 5 }
+
+      # ── Details ─────────────────────────────────────────────
+      - label: "Highlights"
+        name: "highlights"
+        widget: "list"
+        field: { label: "Highlight", name: "highlight", widget: "string" }
+
+      - label: "Amenities"
+        name: "amenities"
+        widget: "list"
+        field: { label: "Amenity", name: "amenity", widget: "string" }
+
+      - label: "Best For"
+        name: "bestFor"
+        widget: "list"
+        field: { label: "Type", name: "type", widget: "string" }
+        hint: "e.g. Couples, Families, Solo Travelers, Honeymooners"
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        field: { label: "Tag", name: "tag", widget: "string" }
+        hint: "e.g. romantic, adults-only, pet-friendly, design"
+
+      # ── Pros & Cons ─────────────────────────────────────────
+      - label: "Pros & Cons"
+        name: "prosAndCons"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - label: "Pros"
+            name: "pros"
+            widget: "list"
+            field: { label: "Pro", name: "pro", widget: "string" }
+          - label: "Cons"
+            name: "cons"
+            widget: "list"
+            field: { label: "Con", name: "con", widget: "string" }
+
+      # ── Affiliate & Booking ──────────────────────────────────
+      - { label: "Primary Booking URL", name: "bookingUrl", widget: "string", hint: "Main affiliate link (usually Booking.com)" }
+
+      - label: "Additional Affiliate Links"
+        name: "affiliateLinks"
+        widget: "list"
+        required: false
+        collapsed: true
+        fields:
+          - label: "Partner"
+            name: "partner"
+            widget: "select"
+            options:
+              - { label: "Booking.com", value: "booking" }
+              - { label: "Hotels.com", value: "hotels" }
+              - { label: "Expedia", value: "expedia" }
+              - { label: "Agoda", value: "agoda" }
+              - { label: "Airbnb", value: "airbnb" }
+              - { label: "Official Site", value: "official" }
+              - { label: "Other", value: "other" }
+          - { label: "URL", name: "url", widget: "string" }
+          - { label: "Button Label", name: "label", widget: "string", default: "Check Rates" }
+
+      # ── Ratings ─────────────────────────────────────────────
+      - { label: "Editor Rating (1–10)", name: "rating", widget: "number", value_type: "float", min: 1, max: 10, step: 0.1 }
       - { label: "Review Count", name: "reviewCount", widget: "number" }
+
+      # ── Hotel Details ────────────────────────────────────────
+      - label: "Check-in / Check-out"
+        name: "checkInOut"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Check-in Time", name: "checkIn", widget: "string", default: "15:00" }
+          - { label: "Check-out Time", name: "checkOut", widget: "string", default: "11:00" }
+
+      - label: "Seasonal Info"
+        name: "seasonalInfo"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Best Time to Visit", name: "bestTime", widget: "string", hint: "e.g. June–September" }
+          - { label: "Peak Season", name: "peakSeason", widget: "string", required: false }
+          - { label: "Low Season Notes", name: "lowSeason", widget: "string", required: false }
+          - { label: "Additional Notes", name: "notes", widget: "text", required: false }
+
+      - label: "Nearby Attractions"
+        name: "nearbyAttractions"
+        widget: "list"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Distance", name: "distance", widget: "string", hint: "e.g. 2km, 15-min drive" }
+
       - label: "Coordinates"
         name: "coordinates"
         widget: "object"
+        required: false
+        collapsed: true
         fields:
           - { label: "Latitude", name: "lat", widget: "number", value_type: "float" }
           - { label: "Longitude", name: "lng", widget: "number", value_type: "float" }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false }
-      - { label: "Body", name: "body", widget: "markdown" }
 
+      # ── Status & Visibility ──────────────────────────────────
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Editor's Pick", name: "editorsPick", widget: "boolean", default: false }
+      - { label: "Trending Now", name: "trending", widget: "boolean", default: false }
+
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        default: "published"
+        options:
+          - { label: "✅ Published", value: "published" }
+          - { label: "📝 Draft", value: "draft" }
+          - { label: "🗄️ Archived", value: "archived" }
+
+      - { label: "Published Date", name: "publishedDate", widget: "datetime", required: false }
+      - { label: "Last Updated", name: "updatedDate", widget: "datetime", required: false }
+
+      # ── SEO ─────────────────────────────────────────────────
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Meta Title", name: "metaTitle", widget: "string", required: false, hint: "60 chars max. Leave blank to auto-generate." }
+          - { label: "Meta Description", name: "metaDescription", widget: "text", required: false, hint: "150–160 chars" }
+          - { label: "OG / Social Image", name: "ogImage", widget: "image", required: false }
+          - { label: "No Index", name: "noIndex", widget: "boolean", default: false }
+
+      # ── Body ─────────────────────────────────────────────────
+      - { label: "Full Review", name: "body", widget: "markdown" }
+
+
+  # ═══════════════════════════════════════════════════════════
+  # CATEGORIES
+  # ═══════════════════════════════════════════════════════════
+  - name: "categories"
+    label: "Categories"
+    label_singular: "Category"
+    folder: "src/content/categories"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{icon}} {{title}} ({{stats.hotelCount}} hotels)"
+    sortable_fields: ["title", "order"]
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Tagline", name: "tagline", widget: "string", required: false, hint: "Short hook shown on category hero" }
+      - { label: "Short Description", name: "description", widget: "text", hint: "Used in cards and meta. 150–200 chars." }
+      - { label: "Icon (emoji)", name: "icon", widget: "string" }
+      - { label: "Cover Image", name: "coverImage", widget: "image" }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false, hint: "Large banner for category page" }
+
+      - label: "Stats"
+        name: "stats"
+        widget: "object"
+        fields:
+          - { label: "Hotel Count", name: "hotelCount", widget: "number" }
+          - { label: "Average Price ($/night)", name: "avgPrice", widget: "number" }
+          - { label: "Top Destination", name: "topDestination", widget: "string" }
+
+      - { label: "Featured on Homepage", name: "featured", widget: "boolean", default: false }
+      - { label: "Sort Order", name: "order", widget: "number", default: 99 }
+
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Meta Title", name: "metaTitle", widget: "string", required: false }
+          - { label: "Meta Description", name: "metaDescription", widget: "text", required: false }
+          - { label: "OG Image", name: "ogImage", widget: "image", required: false }
+
+      - { label: "Body (Long Description)", name: "body", widget: "markdown" }
+
+
+  # ═══════════════════════════════════════════════════════════
+  # BLOG / ARTICLES
+  # ═══════════════════════════════════════════════════════════
+  - name: "blog"
+    label: "Blog"
+    label_singular: "Article"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}} — {{publishedDate}}"
+    sortable_fields: ["title", "publishedDate", "category"]
+    view_filters:
+      - label: "Featured"
+        field: "featured"
+        pattern: true
+      - label: "Drafts"
+        field: "status"
+        pattern: "draft"
+      - label: "With Affiliate Links"
+        field: "affiliateDisclosure"
+        pattern: true
+    view_groups:
+      - label: "Category"
+        field: "category"
+      - label: "Author"
+        field: "author"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string", default: "StayAtNiche Team" }
+
+      - label: "Article Type"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "🗺️ Destination Guide", value: "destination-guide" }
+          - { label: "⭐ Hotel Review", value: "hotel-review" }
+          - { label: "💡 Travel Tips", value: "travel-tips" }
+          - { label: "📋 Listicle (Top 10, Best of...)", value: "listicle" }
+          - { label: "📅 Itinerary", value: "itinerary" }
+          - { label: "💰 Budget Travel", value: "budget-travel" }
+          - { label: "💎 Luxury Travel", value: "luxury-travel" }
+          - { label: "📰 News & Trends", value: "news" }
+          - { label: "🛒 Gear & Packing", value: "gear-packing" }
+
+      - { label: "Excerpt", name: "excerpt", widget: "text", hint: "1–2 sentence hook shown in cards & social sharing." }
+      - { label: "Cover Image", name: "coverImage", widget: "image" }
+      - { label: "Published Date", name: "publishedDate", widget: "datetime" }
+      - { label: "Last Updated", name: "updatedDate", widget: "datetime", required: false }
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        field: { label: "Tag", name: "tag", widget: "string" }
+
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Contains Affiliate Links", name: "affiliateDisclosure", widget: "boolean", default: true, hint: "Displays disclosure notice at top of article" }
+      - { label: "Sponsored Post", name: "sponsored", widget: "boolean", default: false }
+
+      - label: "Related Hotels"
+        name: "relatedHotels"
+        widget: "list"
+        required: false
+        field: { label: "Hotel Slug", name: "slug", widget: "string" }
+        hint: "Enter slugs matching filenames in the Hotels collection"
+
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        default: "published"
+        options:
+          - { label: "✅ Published", value: "published" }
+          - { label: "📝 Draft", value: "draft" }
+
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Meta Title", name: "metaTitle", widget: "string", required: false, hint: "60 chars max" }
+          - { label: "Meta Description", name: "metaDescription", widget: "text", required: false, hint: "150–160 chars" }
+          - { label: "OG Image", name: "ogImage", widget: "image", required: false }
+
+      - { label: "Content", name: "body", widget: "markdown" }
+
+
+  # ═══════════════════════════════════════════════════════════
+  # DESTINATIONS
+  # ═══════════════════════════════════════════════════════════
+  - name: "destinations"
+    label: "Destinations"
+    label_singular: "Destination"
+    folder: "src/content/destinations"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{name}} — {{type}}, {{continent}}"
+    sortable_fields: ["name", "continent", "order"]
+    view_groups:
+      - label: "Continent"
+        field: "continent"
+      - label: "Type"
+        field: "type"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options:
+          - { label: "Country", value: "country" }
+          - { label: "City", value: "city" }
+          - { label: "Region", value: "region" }
+          - { label: "Island / Archipelago", value: "island" }
+
+      - label: "Continent"
+        name: "continent"
+        widget: "select"
+        options:
+          - { label: "Europe", value: "europe" }
+          - { label: "Asia", value: "asia" }
+          - { label: "North America", value: "north-america" }
+          - { label: "South America", value: "south-america" }
+          - { label: "Africa", value: "africa" }
+          - { label: "Oceania", value: "oceania" }
+          - { label: "Middle East", value: "middle-east" }
+
+      - { label: "Country (if city/region)", name: "country", widget: "string", required: false }
+      - { label: "Short Description", name: "description", widget: "text", hint: "150–200 chars" }
+      - { label: "Cover Image", name: "coverImage", widget: "image" }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+
+      - label: "Travel Essentials"
+        name: "essentials"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Currency", name: "currency", widget: "string", required: false, hint: "e.g. EUR, USD, THB" }
+          - { label: "Language(s)", name: "language", widget: "string", required: false }
+          - { label: "Timezone", name: "timezone", widget: "string", required: false }
+          - { label: "Visa Info", name: "visaInfo", widget: "text", required: false }
+          - { label: "Power Plug Type", name: "plugType", widget: "string", required: false, hint: "e.g. Type C/E (220V)" }
+
+      - label: "Best Time to Visit"
+        name: "bestTimeToVisit"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Summary", name: "summary", widget: "string", hint: "e.g. April–June and September–October" }
+          - { label: "Details", name: "details", widget: "text", required: false }
+
+      - label: "Must-See Attractions"
+        name: "mustSee"
+        widget: "list"
+        required: false
+        field: { label: "Attraction", name: "attraction", widget: "string" }
+
+      - label: "Insider Travel Tips"
+        name: "travelTips"
+        widget: "list"
+        required: false
+        field: { label: "Tip", name: "tip", widget: "string" }
+
+      - label: "Coordinates"
+        name: "coordinates"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Latitude", name: "lat", widget: "number", value_type: "float" }
+          - { label: "Longitude", name: "lng", widget: "number", value_type: "float" }
+
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Sort Order", name: "order", widget: "number", default: 99 }
+
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Meta Title", name: "metaTitle", widget: "string", required: false }
+          - { label: "Meta Description", name: "metaDescription", widget: "text", required: false }
+          - { label: "OG Image", name: "ogImage", widget: "image", required: false }
+
+      - { label: "Destination Guide Content", name: "body", widget: "markdown" }
+
+
+  # ═══════════════════════════════════════════════════════════
+  # EXPERIENCES (Tours & Activities)
+  # ═══════════════════════════════════════════════════════════
+  - name: "experiences"
+    label: "Experiences"
+    label_singular: "Experience"
+    folder: "src/content/experiences"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}} — {{destination}}"
+    sortable_fields: ["title", "destination", "rating"]
+    view_groups:
+      - label: "Type"
+        field: "type"
+      - label: "Provider"
+        field: "booking.provider"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+
+      - label: "Experience Type"
+        name: "type"
+        widget: "select"
+        options:
+          - { label: "🚌 Guided Tour", value: "guided-tour" }
+          - { label: "🧗 Adventure Activity", value: "adventure" }
+          - { label: "🎭 Cultural Experience", value: "cultural" }
+          - { label: "🍽️ Food & Drink", value: "food-drink" }
+          - { label: "🧘 Wellness & Spa", value: "wellness" }
+          - { label: "🏄 Water Activity", value: "water-activity" }
+          - { label: "🦁 Wildlife & Safari", value: "wildlife" }
+          - { label: "🌅 Day Trip", value: "day-trip" }
+          - { label: "🌃 Night Experience", value: "night-experience" }
+
+      - { label: "Destination", name: "destination", widget: "string" }
+      - { label: "Country", name: "country", widget: "string" }
+      - { label: "Short Description", name: "description", widget: "text" }
+      - { label: "Cover Image", name: "coverImage", widget: "image" }
+
+      - label: "Booking Details"
+        name: "booking"
+        widget: "object"
+        fields:
+          - label: "Provider"
+            name: "provider"
+            widget: "select"
+            options:
+              - { label: "GetYourGuide", value: "getyourguide" }
+              - { label: "Viator", value: "viator" }
+              - { label: "Klook", value: "klook" }
+              - { label: "Direct", value: "direct" }
+              - { label: "Other", value: "other" }
+          - { label: "Booking URL", name: "url", widget: "string" }
+          - { label: "Starting Price", name: "price", widget: "string", hint: "e.g. From $49 per person" }
+          - { label: "Duration", name: "duration", widget: "string", hint: "e.g. 3 hours, Full day, 2 days" }
+
+      - label: "Highlights"
+        name: "highlights"
+        widget: "list"
+        field: { label: "Highlight", name: "highlight", widget: "string" }
+
+      - label: "What's Included"
+        name: "included"
+        widget: "list"
+        required: false
+        field: { label: "Item", name: "item", widget: "string" }
+
+      - label: "Not Included"
+        name: "notIncluded"
+        widget: "list"
+        required: false
+        field: { label: "Item", name: "item", widget: "string" }
+
+      - { label: "Rating (1–10)", name: "rating", widget: "number", value_type: "float", min: 1, max: 10, step: 0.1, required: false }
+      - { label: "Review Count", name: "reviewCount", widget: "number", required: false }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        field: { label: "Tag", name: "tag", widget: "string" }
+
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Meta Title", name: "metaTitle", widget: "string", required: false }
+          - { label: "Meta Description", name: "metaDescription", widget: "text", required: false }
+
+      - { label: "Full Description", name: "body", widget: "markdown" }
+
+
+  # ═══════════════════════════════════════════════════════════
+  # SETTINGS
+  # ═══════════════════════════════════════════════════════════
   - name: "settings"
-    label: "Settings"
+    label: "⚙️ Settings"
     files:
-      - label: "General Settings"
+
+      # ── General ─────────────────────────────────────────────
+      - label: "General"
         name: "general"
         file: "src/content/settings/general.json"
         fields:
           - { label: "Site Name", name: "siteName", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
           - { label: "Site Description", name: "siteDescription", widget: "text" }
-          - { label: "Affiliate ID", name: "affiliateId", widget: "string", required: false }
+          - { label: "Logo", name: "logo", widget: "image", required: false }
+          - { label: "Favicon", name: "favicon", widget: "image", required: false }
+          - { label: "Language Code", name: "language", widget: "string", default: "en" }
+
+      # ── SEO & Meta ──────────────────────────────────────────
+      - label: "SEO & Meta"
+        name: "seo"
+        file: "src/content/settings/seo.json"
+        fields:
+          - { label: "Meta Title Template", name: "titleTemplate", widget: "string", default: "{{title}} | StayAtNiche", hint: "Use {{title}} as placeholder" }
+          - { label: "Default Meta Description", name: "defaultDescription", widget: "text" }
+          - { label: "Default OG / Social Image", name: "defaultOgImage", widget: "image", required: false }
+          - { label: "Twitter Handle", name: "twitterHandle", widget: "string", required: false, hint: "without @" }
+          - { label: "Canonical Base URL", name: "canonicalUrl", widget: "string", hint: "https://stayatniche.com" }
+          - { label: "Google Site Verification", name: "googleVerification", widget: "string", required: false }
+          - { label: "Bing Site Verification", name: "bingVerification", widget: "string", required: false }
+          - label: "Structured Data (Schema.org)"
+            name: "structuredData"
+            widget: "object"
+            required: false
+            fields:
+              - { label: "Organization Name", name: "orgName", widget: "string", required: false }
+              - { label: "Organization Logo URL", name: "orgLogo", widget: "image", required: false }
+
+      # ── Affiliate IDs ───────────────────────────────────────
+      - label: "Affiliate IDs"
+        name: "affiliates"
+        file: "src/content/settings/affiliates.json"
+        fields:
+          - label: "Booking.com"
+            name: "booking"
+            widget: "object"
+            fields:
+              - { label: "Affiliate ID (aid)", name: "affiliateId", widget: "string", required: false }
+              - { label: "Button Label", name: "label", widget: "string", default: "Check Rates on Booking.com" }
+          - label: "Hotels.com"
+            name: "hotelscom"
+            widget: "object"
+            fields:
+              - { label: "Affiliate ID", name: "affiliateId", widget: "string", required: false }
+              - { label: "Button Label", name: "label", widget: "string", default: "See Rates on Hotels.com" }
+          - label: "Expedia"
+            name: "expedia"
+            widget: "object"
+            fields:
+              - { label: "Affiliate ID", name: "affiliateId", widget: "string", required: false }
+          - label: "Agoda"
+            name: "agoda"
+            widget: "object"
+            fields:
+              - { label: "Affiliate ID (cid)", name: "affiliateId", widget: "string", required: false }
+          - label: "GetYourGuide"
+            name: "getyourguide"
+            widget: "object"
+            fields:
+              - { label: "Partner ID", name: "partnerId", widget: "string", required: false }
+          - label: "Viator"
+            name: "viator"
+            widget: "object"
+            fields:
+              - { label: "Partner ID", name: "partnerId", widget: "string", required: false }
+          - label: "Klook"
+            name: "klook"
+            widget: "object"
+            fields:
+              - { label: "Partner ID", name: "partnerId", widget: "string", required: false }
+          - label: "Amazon Associates"
+            name: "amazon"
+            widget: "object"
+            fields:
+              - { label: "Associate Tag", name: "associateTag", widget: "string", required: false }
+          - { label: "Default CTA Button Text", name: "defaultCtaText", widget: "string", default: "Check Best Rates" }
+          - { label: "Affiliate Disclosure Text", name: "disclosureText", widget: "text", required: false, hint: "Shown at top of articles with affiliate links" }
+
+      # ── Analytics & Tracking ────────────────────────────────
+      - label: "Analytics & Tracking"
+        name: "analytics"
+        file: "src/content/settings/analytics.json"
+        fields:
+          - { label: "Google Analytics 4 ID", name: "ga4Id", widget: "string", required: false, hint: "G-XXXXXXXXXX" }
+          - { label: "Google Tag Manager ID", name: "gtmId", widget: "string", required: false, hint: "GTM-XXXXXX" }
+          - { label: "Facebook Pixel ID", name: "fbPixelId", widget: "string", required: false }
+          - { label: "Pinterest Tag ID", name: "pinterestTagId", widget: "string", required: false }
+          - { label: "Hotjar Site ID", name: "hotjarId", widget: "string", required: false }
+          - { label: "Microsoft Clarity ID", name: "clarityId", widget: "string", required: false }
+          - { label: "Plausible Domain", name: "plausibleDomain", widget: "string", required: false, hint: "e.g. stayatniche.com (no https)" }
+
+      # ── Social Media ────────────────────────────────────────
+      - label: "Social Media"
+        name: "social"
+        file: "src/content/settings/social.json"
+        fields:
+          - { label: "Instagram URL", name: "instagram", widget: "string", required: false }
+          - { label: "Pinterest URL", name: "pinterest", widget: "string", required: false }
+          - { label: "Twitter / X URL", name: "twitter", widget: "string", required: false }
+          - { label: "Facebook URL", name: "facebook", widget: "string", required: false }
+          - { label: "TikTok URL", name: "tiktok", widget: "string", required: false }
+          - { label: "YouTube URL", name: "youtube", widget: "string", required: false }
+
+      # ── Navigation ──────────────────────────────────────────
+      - label: "Navigation"
+        name: "navigation"
+        file: "src/content/settings/navigation.json"
+        fields:
+          - label: "Main Navigation"
+            name: "mainNav"
+            widget: "list"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+              - { label: "Open in New Tab", name: "external", widget: "boolean", default: false }
+          - label: "Footer Columns"
+            name: "footerColumns"
+            widget: "list"
+            fields:
+              - { label: "Column Title", name: "title", widget: "string" }
+              - label: "Links"
+                name: "links"
+                widget: "list"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
+          - { label: "Footer Copyright Text", name: "copyright", widget: "string", default: "© 2025 StayAtNiche. All rights reserved." }
+
+      # ── Homepage ────────────────────────────────────────────
+      - label: "Homepage"
+        name: "homepage"
+        file: "src/content/settings/homepage.json"
+        fields:
+          - label: "Hero Section"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Headline", name: "headline", widget: "string" }
+              - { label: "Subheadline", name: "subheadline", widget: "text" }
+              - { label: "Background Image", name: "bgImage", widget: "image", required: false }
+              - { label: "Primary CTA Text", name: "ctaText", widget: "string", default: "Explore Categories" }
+              - { label: "Primary CTA URL", name: "ctaUrl", widget: "string", default: "/categories" }
+              - { label: "Secondary CTA Text", name: "cta2Text", widget: "string", required: false, default: "View Featured Stays" }
+              - { label: "Secondary CTA URL", name: "cta2Url", widget: "string", required: false, default: "#featured-hotels" }
+          - label: "Featured Hotels Section"
+            name: "featuredSection"
+            widget: "object"
+            fields:
+              - { label: "Show Section", name: "show", widget: "boolean", default: true }
+              - { label: "Section Title", name: "title", widget: "string", default: "Featured Stays" }
+              - { label: "Section Subtitle", name: "subtitle", widget: "string", required: false }
+          - label: "Newsletter Section"
+            name: "newsletter"
+            widget: "object"
+            fields:
+              - { label: "Show Section", name: "show", widget: "boolean", default: true }
+              - { label: "Headline", name: "headline", widget: "string", default: "Never Miss an Extraordinary Stay" }
+              - { label: "Description", name: "description", widget: "text", required: false }
+          - { label: "Show Blog Section", name: "showBlog", widget: "boolean", default: true }
+          - { label: "Show Destinations Section", name: "showDestinations", widget: "boolean", default: true }
+          - { label: "Show Experiences Section", name: "showExperiences", widget: "boolean", default: false }
+
+      # ── Newsletter / Email ──────────────────────────────────
+      - label: "Newsletter / Email"
+        name: "newsletter"
+        file: "src/content/settings/newsletter.json"
+        fields:
+          - label: "Email Provider"
+            name: "provider"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Mailchimp", value: "mailchimp" }
+              - { label: "ConvertKit / Kit", value: "convertkit" }
+              - { label: "Klaviyo", value: "klaviyo" }
+              - { label: "Beehiiv", value: "beehiiv" }
+              - { label: "Substack", value: "substack" }
+              - { label: "Custom / Other", value: "other" }
+          - { label: "Form Action URL", name: "formUrl", widget: "string", required: false }
+          - { label: "List ID / Form ID", name: "listId", widget: "string", required: false }
+          - { label: "Success Message", name: "successMessage", widget: "string", default: "You're in! Check your inbox." }
+          - { label: "Privacy Note", name: "privacyNote", widget: "string", default: "No spam. Unsubscribe anytime." }
