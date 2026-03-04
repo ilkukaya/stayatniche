@@ -1,16 +1,20 @@
 ---
+coverImage: /images/2bb49edc-807e-41d7-aba4-424940ca0a4d.jpg
+featured: true
+order: 3
+metaTitle: Underwater Hotel Rooms & Suites | StayAtNiche
+metaDescription: Sleep beneath the ocean in the world's most exclusive
+  underwater hotel rooms. From the Maldives to Zanzibar, discover submerged
+  luxury.
 title: Underwater Rooms
-description: Drift off to sleep surrounded by tropical fish and coral reefs in the world's most exclusive underwater suites. These one-of-a-kind rooms sit below the ocean's surface, offering an aquarium-like experience.
-icon: "underwater"
-coverImage: "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80&auto=format&fit=crop"
+description: Drift off to sleep surrounded by tropical fish and coral reefs in
+  the world's most exclusive underwater suites. These one-of-a-kind rooms sit
+  below the ocean's surface, offering an aquarium-like experience.
+icon: underwater
 stats:
   hotelCount: 8
   avgPrice: 1200
   topDestination: Maldives
-featured: true
-order: 3
-metaTitle: Underwater Hotel Rooms & Suites | StayAtNiche
-metaDescription: Sleep beneath the ocean in the world's most exclusive underwater hotel rooms. From the Maldives to Zanzibar, discover submerged luxury.
 ---
 
 The world's rarest accommodation type, underwater hotel rooms place you in direct contact with the ocean's spectacular marine life. Fall asleep watching reef fish drift past your bedroom window; wake to manta rays gliding overhead.
