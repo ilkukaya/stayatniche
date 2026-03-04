@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CategoryCard from '../../components/CategoryCard.astro';
+import { getCollection } from 'astro:content';
+
+const allCategories = await getCollection('categories');
+const sortedCategories = allCategories.sort((a, b) => a.data.order - b.data.order);
+---
+
+<BaseLayout
+  title="All Niche Hotel Categories | StayAtNiche"
+  description="Browse all extraordinary hotel categories — treehouses, caves, underwater rooms, castles, floating hotels, and bubble domes. Find your perfect niche stay."
+>
+  <!-- Hero -->
+  <section class="relative bg-stone-950 pt-20 pb-16 overflow-hidden">
+    <div class="absolute inset-0 opacity-5">
+      <div class="absolute inset-0" style="background-image: radial-gradient(circle at 1px 1px, #d4a574 1px, transparent 0); background-size: 40px 40px;"></div>
+    </div>
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <div class="inline-flex items-center gap-2 text-gold-400 font-body text-sm mb-4">
+        <span>✦</span>
+        <span>{sortedCategories.length} unique categories</span>
+      </div>
+      <h1 class="font-display text-5xl font-bold text-white mb-4">
+        Every Stay is <span class="text-gold-400">Extraordinary</span>
+      </h1>
+      <p class="font-body text-stone-400 text-lg max-w-2xl mx-auto">
+        We've scoured the globe to find the most remarkable accommodation types.
+        Each category is a gateway to experiences that will stay with you forever.
+      </p>
+    </div>
+  </section>
+
+  <!-- Categories Grid -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {sortedCategories.map(category => (
+        <CategoryCard
+          title={category.data.title}
+          description={category.data.description}
+          icon={category.data.icon}
+          slug={category.slug}
+          stats={category.data.stats}
+          featured={category.data.featured}
+        />
+      ))}
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="bg-stone-900 border-t border-stone-800">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+      <h2 class="font-display text-3xl font-bold text-white mb-4">
+        Can't decide? Let us inspire you.
+      </h2>
+      <p class="font-body text-stone-400 mb-8">
+        Browse our featured stays for expertly curated picks across all categories.
+      </p>
+      <a
+        href="/#featured-hotels"
+        class="inline-flex items-center gap-2 bg-gold-500 hover:bg-gold-400 text-stone-950 font-body font-semibold px-8 py-4 rounded-full transition-colors"
+      >
+        View Featured Stays
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,84 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: "categories"
+    label: "Categories"
+    folder: "src/content/categories"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Icon (emoji)", name: "icon", widget: "string" }
+      - { label: "Cover Image", name: "coverImage", widget: "image" }
+      - label: "Stats"
+        name: "stats"
+        widget: "object"
+        fields:
+          - { label: "Hotel Count", name: "hotelCount", widget: "number" }
+          - { label: "Average Price", name: "avgPrice", widget: "number" }
+          - { label: "Top Destination", name: "topDestination", widget: "string" }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Order", name: "order", widget: "number", default: 99 }
+      - { label: "Meta Title", name: "metaTitle", widget: "string", required: false }
+      - { label: "Meta Description", name: "metaDescription", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "hotels"
+    label: "Hotels"
+    folder: "src/content/hotels"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Treehouse Hotels", value: "treehouse-hotels" }
+          - { label: "Cave Hotels", value: "cave-hotels" }
+          - { label: "Underwater Rooms", value: "underwater-rooms" }
+          - { label: "Castle Hotels", value: "castle-hotels" }
+          - { label: "Floating Hotels", value: "floating-hotels" }
+          - { label: "Bubble Hotels", value: "bubble-hotels" }
+      - { label: "Destination", name: "destination", widget: "string" }
+      - { label: "Country", name: "country", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Cover Image", name: "coverImage", widget: "image" }
+      - { label: "Gallery", name: "gallery", widget: "list", field: { label: "Image", name: "image", widget: "image" }, required: false }
+      - { label: "Price Range", name: "priceRange", widget: "string", hint: "e.g. $300 - $600" }
+      - { label: "Price Indicator (1-5)", name: "priceIndicator", widget: "number", min: 1, max: 5 }
+      - { label: "Highlights", name: "highlights", widget: "list", field: { label: "Highlight", name: "highlight", widget: "string" } }
+      - { label: "Amenities", name: "amenities", widget: "list", field: { label: "Amenity", name: "amenity", widget: "string" } }
+      - { label: "Best For", name: "bestFor", widget: "list", field: { label: "Type", name: "type", widget: "string" } }
+      - { label: "Booking URL", name: "bookingUrl", widget: "string" }
+      - { label: "Rating (1-10)", name: "rating", widget: "number", value_type: "float", min: 1, max: 10, step: 0.1 }
+      - { label: "Review Count", name: "reviewCount", widget: "number" }
+      - label: "Coordinates"
+        name: "coordinates"
+        widget: "object"
+        fields:
+          - { label: "Latitude", name: "lat", widget: "number", value_type: "float" }
+          - { label: "Longitude", name: "lng", widget: "number", value_type: "float" }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "settings"
+    label: "Settings"
+    files:
+      - label: "General Settings"
+        name: "general"
+        file: "src/content/settings/general.json"
+        fields:
+          - { label: "Site Name", name: "siteName", widget: "string" }
+          - { label: "Site Description", name: "siteDescription", widget: "text" }
+          - { label: "Affiliate ID", name: "affiliateId", widget: "string", required: false }

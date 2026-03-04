@@ -1,0 +1,230 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import HotelCard from '../components/HotelCard.astro';
+import { getCollection } from 'astro:content';
+
+const allCategories = await getCollection('categories');
+const allHotels = await getCollection('hotels');
+
+const sortedCategories = allCategories.sort((a, b) => a.data.order - b.data.order);
+const featuredHotels = allHotels.filter(h => h.data.featured);
+
+const stats = {
+  categories: allCategories.length,
+  hotels: allHotels.length,
+  countries: [...new Set(allHotels.map(h => h.data.country))].length,
+};
+---
+
+<BaseLayout
+  title="StayAtNiche — The World's Most Extraordinary Stays"
+  description="Discover unique hotel stays — treehouses, cave hotels, underwater rooms, castles, and more. Curated niche accommodations for extraordinary travel."
+>
+  <!-- Hero -->
+  <section class="relative min-h-[90vh] flex items-center justify-center overflow-hidden bg-stone-950">
+    <!-- Background pattern -->
+    <div class="absolute inset-0 opacity-5">
+      <div class="absolute inset-0" style="background-image: radial-gradient(circle at 1px 1px, #d4a574 1px, transparent 0); background-size: 40px 40px;"></div>
+    </div>
+    <!-- Gold glow -->
+    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-gold-500/5 rounded-full blur-3xl pointer-events-none"></div>
+
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center animate-fade-in">
+      <div class="inline-flex items-center gap-2 bg-stone-900 border border-stone-700 rounded-full px-4 py-2 mb-8">
+        <span class="text-gold-400 text-sm">✦</span>
+        <span class="font-body text-stone-300 text-sm">Curated extraordinary stays worldwide</span>
+      </div>
+
+      <h1 class="font-display text-5xl sm:text-6xl md:text-7xl font-bold text-white leading-tight mb-6">
+        The World's Most<br />
+        <span class="text-gold-400">Extraordinary</span> Stays
+      </h1>
+
+      <p class="font-body text-stone-400 text-lg sm:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
+        From treetop suites to underwater bedrooms, ancient castles to transparent bubble domes —
+        discover accommodations that go far beyond ordinary.
+      </p>
+
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a
+          href="/categories"
+          class="bg-gold-500 hover:bg-gold-400 text-stone-950 font-body font-semibold px-8 py-4 rounded-full text-lg transition-colors"
+        >
+          Explore Categories
+        </a>
+        <a
+          href="#featured-hotels"
+          class="border border-stone-700 hover:border-gold-500 text-white font-body font-semibold px-8 py-4 rounded-full text-lg transition-colors hover:bg-stone-900"
+        >
+          View Featured Stays
+        </a>
+      </div>
+    </div>
+
+    <!-- Scroll indicator -->
+    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
+      <svg class="w-6 h-6 text-stone-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+      </svg>
+    </div>
+  </section>
+
+  <!-- Stats Bar -->
+  <section class="bg-stone-900 border-y border-stone-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div class="grid grid-cols-3 gap-8 text-center">
+        <div>
+          <div class="font-display text-4xl font-bold text-gold-400">{stats.categories}</div>
+          <div class="font-body text-stone-400 text-sm mt-1">Niche Categories</div>
+        </div>
+        <div>
+          <div class="font-display text-4xl font-bold text-gold-400">{stats.hotels}+</div>
+          <div class="font-body text-stone-400 text-sm mt-1">Curated Stays</div>
+        </div>
+        <div>
+          <div class="font-display text-4xl font-bold text-gold-400">{stats.countries}</div>
+          <div class="font-body text-stone-400 text-sm mt-1">Countries</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories Section -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div class="text-center mb-12">
+      <h2 class="font-display text-4xl font-bold text-white mb-4">
+        Browse by <span class="text-gold-400">Category</span>
+      </h2>
+      <p class="font-body text-stone-400 text-lg max-w-2xl mx-auto">
+        Each category represents a distinct way to experience the extraordinary. Choose your adventure.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {sortedCategories.map(category => (
+        <CategoryCard
+          title={category.data.title}
+          description={category.data.description}
+          icon={category.data.icon}
+          slug={category.slug}
+          stats={category.data.stats}
+          featured={category.data.featured}
+        />
+      ))}
+    </div>
+
+    <div class="text-center mt-10">
+      <a
+        href="/categories"
+        class="inline-flex items-center gap-2 border border-stone-700 hover:border-gold-500 text-stone-300 hover:text-gold-400 font-body font-medium px-6 py-3 rounded-full transition-all"
+      >
+        View all categories
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- Featured Hotels -->
+  <section id="featured-hotels" class="bg-stone-900/50 border-y border-stone-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+      <div class="text-center mb-12">
+        <div class="inline-flex items-center gap-2 text-gold-400 font-body text-sm mb-3">
+          <span>✦</span>
+          <span>Hand-picked for you</span>
+        </div>
+        <h2 class="font-display text-4xl font-bold text-white mb-4">
+          Featured <span class="text-gold-400">Stays</span>
+        </h2>
+        <p class="font-body text-stone-400 text-lg max-w-2xl mx-auto">
+          Our editors' selection of the most unforgettable properties in the world right now.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        {featuredHotels.map(hotel => (
+          <HotelCard
+            name={hotel.data.name}
+            destination={hotel.data.destination}
+            country={hotel.data.country}
+            description={hotel.data.description}
+            priceRange={hotel.data.priceRange}
+            priceIndicator={hotel.data.priceIndicator}
+            rating={hotel.data.rating}
+            reviewCount={hotel.data.reviewCount}
+            highlights={hotel.data.highlights}
+            bookingUrl={hotel.data.bookingUrl}
+            slug={hotel.slug}
+            category={hotel.data.category}
+            featured={hotel.data.featured}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Why StayAtNiche -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div class="text-center mb-12">
+      <h2 class="font-display text-4xl font-bold text-white mb-4">
+        Why <span class="text-gold-400">StayAtNiche</span>?
+      </h2>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {[
+        {
+          icon: '✦',
+          title: 'Genuinely Unique',
+          desc: 'Every property we feature offers something you simply cannot experience anywhere else. No generic hotels — ever.',
+        },
+        {
+          icon: '◈',
+          title: 'Expert Curation',
+          desc: 'Our team researches hundreds of properties to bring you only the extraordinary. We stay where we recommend.',
+        },
+        {
+          icon: '◇',
+          title: 'Book with Confidence',
+          desc: 'We partner with Booking.com to bring you the best rates and the security of a trusted booking platform.',
+        },
+      ].map(item => (
+        <div class="text-center p-8 bg-stone-900 rounded-2xl border border-stone-800">
+          <div class="text-gold-400 text-3xl mb-4">{item.icon}</div>
+          <h3 class="font-display text-xl font-bold text-white mb-3">{item.title}</h3>
+          <p class="font-body text-stone-400 text-sm leading-relaxed">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <section class="bg-gradient-to-r from-stone-900 via-stone-900 to-stone-900 border-y border-stone-800">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+      <h2 class="font-display text-3xl font-bold text-white mb-4">
+        Never Miss an Extraordinary Stay
+      </h2>
+      <p class="font-body text-stone-400 mb-8">
+        Get our hand-picked selection of the world's most unique hotels, delivered to your inbox.
+      </p>
+      <form class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto" netlify name="newsletter" method="POST">
+        <input
+          type="email"
+          name="email"
+          placeholder="your@email.com"
+          required
+          class="flex-1 bg-stone-800 border border-stone-700 focus:border-gold-500 text-white placeholder-stone-500 font-body px-4 py-3 rounded-full outline-none transition-colors"
+        />
+        <button
+          type="submit"
+          class="bg-gold-500 hover:bg-gold-400 text-stone-950 font-body font-semibold px-6 py-3 rounded-full transition-colors whitespace-nowrap"
+        >
+          Subscribe
+        </button>
+      </form>
+      <p class="font-body text-stone-600 text-xs mt-4">No spam. Unsubscribe anytime.</p>
+    </div>
+  </section>
+</BaseLayout>

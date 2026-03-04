@@ -1,0 +1,81 @@
+---
+const year = new Date().getFullYear();
+const categories = [
+  { href: '/categories/treehouse-hotels', label: 'Treehouse Hotels' },
+  { href: '/categories/cave-hotels', label: 'Cave Hotels' },
+  { href: '/categories/underwater-rooms', label: 'Underwater Rooms' },
+  { href: '/categories/castle-hotels', label: 'Castle Hotels' },
+  { href: '/categories/floating-hotels', label: 'Floating Hotels' },
+  { href: '/categories/bubble-hotels', label: 'Bubble Hotels' },
+];
+---
+
+<footer class="bg-stone-950 border-t border-stone-800 mt-24">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+      <!-- Brand -->
+      <div class="col-span-1 md:col-span-1">
+        <a href="/" class="flex items-center gap-2 mb-4">
+          <span class="text-2xl">✦</span>
+          <span class="font-display text-xl font-bold text-gold-400">StayAtNiche</span>
+        </a>
+        <p class="font-body text-stone-400 text-sm leading-relaxed max-w-xs">
+          Curating the world's most extraordinary stays — from treetops to ocean floors, ancient castles to midnight bubbles.
+        </p>
+        <p class="font-body text-stone-600 text-xs mt-4">
+          We may earn a commission from bookings made through our links, at no extra cost to you.
+        </p>
+      </div>
+
+      <!-- Categories -->
+      <div>
+        <h3 class="font-display text-white font-semibold mb-4">Categories</h3>
+        <ul class="space-y-2">
+          {categories.map(cat => (
+            <li>
+              <a
+                href={cat.href}
+                class="font-body text-stone-400 hover:text-gold-400 text-sm transition-colors"
+              >
+                {cat.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Company -->
+      <div>
+        <h3 class="font-display text-white font-semibold mb-4">Company</h3>
+        <ul class="space-y-2">
+          <li>
+            <a href="/categories" class="font-body text-stone-400 hover:text-gold-400 text-sm transition-colors">
+              All Stays
+            </a>
+          </li>
+          <li>
+            <a href="/admin" class="font-body text-stone-400 hover:text-gold-400 text-sm transition-colors">
+              Admin
+            </a>
+          </li>
+        </ul>
+        <div class="mt-8">
+          <p class="font-body text-stone-500 text-xs">
+            Book with confidence.<br />
+            All properties hand-selected<br />
+            for quality and uniqueness.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="border-t border-stone-800 mt-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <p class="font-body text-stone-600 text-xs">
+        &copy; {year} StayAtNiche. All rights reserved.
+      </p>
+      <p class="font-body text-stone-600 text-xs">
+        Affiliate partner of Booking.com
+      </p>
+    </div>
+  </div>
+</footer>

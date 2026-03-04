@@ -1,0 +1,265 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HotelCard from '../../components/HotelCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const hotels = await getCollection('hotels');
+  return hotels.map(hotel => ({
+    params: { slug: hotel.slug },
+    props: { hotel },
+  }));
+}
+
+const { hotel } = Astro.props;
+const { Content } = await hotel.render();
+
+// Get related hotels (same category, excluding current)
+const allHotels = await getCollection('hotels');
+const relatedHotels = allHotels
+  .filter(h => h.slug !== hotel.slug && h.data.category === hotel.data.category)
+  .slice(0, 4);
+
+// Get category info
+const allCategories = await getCollection('categories');
+const category = allCategories.find(c => c.slug === hotel.data.category);
+
+const priceLabels = ['', 'Budget', 'Moderate', 'Upscale', 'Luxury', 'Ultra-luxury'];
+const categoryIcons: Record<string, string> = {
+  'treehouse-hotels': '🌳',
+  'cave-hotels': '🏔️',
+  'underwater-rooms': '🌊',
+  'castle-hotels': '🏰',
+  'floating-hotels': '🚢',
+  'bubble-hotels': '🔮',
+};
+const catIcon = categoryIcons[hotel.data.category] || '✦';
+---
+
+<BaseLayout
+  title={`${hotel.data.name} — ${hotel.data.destination} | StayAtNiche`}
+  description={hotel.data.description}
+>
+  <!-- Hero area -->
+  <section class="relative bg-stone-950 pt-20 pb-8 overflow-hidden">
+    <div class="absolute inset-0 opacity-5">
+      <div class="absolute inset-0" style="background-image: radial-gradient(circle at 1px 1px, #d4a574 1px, transparent 0); background-size: 40px 40px;"></div>
+    </div>
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Breadcrumb -->
+      <nav class="flex flex-wrap items-center gap-2 text-stone-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-gold-400 transition-colors">Home</a>
+        <span>/</span>
+        <a href="/categories" class="hover:text-gold-400 transition-colors">Categories</a>
+        <span>/</span>
+        {category && (
+          <>
+            <a href={`/categories/${hotel.data.category}`} class="hover:text-gold-400 transition-colors">
+              {category.data.title}
+            </a>
+            <span>/</span>
+          </>
+        )}
+        <span class="text-stone-300">{hotel.data.name}</span>
+      </nav>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <!-- Main info -->
+        <div class="lg:col-span-2">
+          <!-- Category badge -->
+          <div class="inline-flex items-center gap-2 bg-stone-900 border border-stone-700 rounded-full px-3 py-1 mb-4">
+            <span>{catIcon}</span>
+            <span class="font-body text-stone-400 text-xs">{category?.data.title || hotel.data.category}</span>
+          </div>
+
+          <h1 class="font-display text-4xl sm:text-5xl font-bold text-white mb-3">
+            {hotel.data.name}
+          </h1>
+
+          <!-- Location & rating -->
+          <div class="flex flex-wrap items-center gap-4 mb-6">
+            <div class="flex items-center gap-1 text-stone-400 font-body text-sm">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+              <span>{hotel.data.destination}, {hotel.data.country}</span>
+            </div>
+            <div class="flex items-center gap-1">
+              <svg class="w-4 h-4 text-gold-400 fill-current" viewBox="0 0 20 20">
+                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+              </svg>
+              <span class="font-display font-bold text-gold-400">{hotel.data.rating}</span>
+              <span class="font-body text-stone-500 text-sm">({hotel.data.reviewCount.toLocaleString()} reviews)</span>
+            </div>
+          </div>
+
+          <p class="font-body text-stone-400 text-lg leading-relaxed">
+            {hotel.data.description}
+          </p>
+        </div>
+
+        <!-- Booking card -->
+        <div class="lg:col-span-1">
+          <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6 sticky top-24">
+            <!-- Price -->
+            <div class="mb-4">
+              <div class="font-body text-stone-500 text-xs mb-1">Price range</div>
+              <div class="font-display text-2xl font-bold text-white">{hotel.data.priceRange}</div>
+              <div class="font-body text-stone-500 text-xs">per night</div>
+            </div>
+            <div class="mb-4">
+              <span class="inline-flex items-center gap-1 bg-stone-800 rounded-full px-3 py-1 text-sm font-body text-stone-300">
+                {priceLabels[hotel.data.priceIndicator]}
+              </span>
+            </div>
+
+            <a
+              href={hotel.data.bookingUrl}
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="block w-full text-center bg-gold-500 hover:bg-gold-400 text-stone-950 font-body font-bold text-lg px-6 py-4 rounded-xl transition-colors mb-3"
+            >
+              Check Availability
+            </a>
+            <p class="font-body text-stone-600 text-xs text-center">
+              via Booking.com · Best rate guaranteed
+            </p>
+
+            <!-- Quick highlights -->
+            <div class="mt-6 pt-5 border-t border-stone-800">
+              <div class="font-body text-stone-400 text-xs font-semibold uppercase tracking-wider mb-3">Why guests love it</div>
+              {hotel.data.highlights.slice(0, 3).map(h => (
+                <div class="flex items-start gap-2 mb-2">
+                  <span class="text-gold-500 mt-0.5">✓</span>
+                  <span class="font-body text-stone-400 text-xs">{h}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Image placeholder -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div class="rounded-2xl bg-stone-900 border border-stone-800 h-80 flex items-center justify-center overflow-hidden">
+      <span class="text-[120px] opacity-20">{catIcon}</span>
+    </div>
+  </section>
+
+  <!-- Detailed content -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+      <!-- Main content -->
+      <div class="lg:col-span-2">
+        <div class="prose prose-invert max-w-none
+          prose-headings:font-display prose-headings:text-white
+          prose-p:font-body prose-p:text-stone-400 prose-p:leading-relaxed
+          prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4
+          prose-strong:text-gold-300">
+          <Content />
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="space-y-6">
+        <!-- Amenities -->
+        {hotel.data.amenities.length > 0 && (
+          <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6">
+            <h3 class="font-display text-lg font-bold text-white mb-4">Amenities</h3>
+            <div class="space-y-2">
+              {hotel.data.amenities.map(amenity => (
+                <div class="flex items-center gap-2">
+                  <span class="text-gold-500 text-sm">✓</span>
+                  <span class="font-body text-stone-400 text-sm">{amenity}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <!-- Best For -->
+        {hotel.data.bestFor.length > 0 && (
+          <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6">
+            <h3 class="font-display text-lg font-bold text-white mb-4">Best For</h3>
+            <div class="flex flex-wrap gap-2">
+              {hotel.data.bestFor.map(tag => (
+                <span class="bg-stone-800 text-stone-300 font-body text-xs px-3 py-1 rounded-full border border-stone-700">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <!-- Map placeholder -->
+        <div class="bg-stone-900 rounded-2xl border border-stone-800 p-6">
+          <h3 class="font-display text-lg font-bold text-white mb-4">Location</h3>
+          <div class="bg-stone-800 rounded-xl h-40 flex items-center justify-center mb-3">
+            <div class="text-center">
+              <svg class="w-8 h-8 text-gold-400 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+              <p class="font-body text-stone-500 text-xs">{hotel.data.destination}</p>
+              <p class="font-body text-stone-600 text-xs">{hotel.data.country}</p>
+            </div>
+          </div>
+          <p class="font-body text-stone-600 text-xs">
+            Coordinates: {hotel.data.coordinates.lat.toFixed(4)}, {hotel.data.coordinates.lng.toFixed(4)}
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Banner -->
+  <section class="bg-stone-900 border-y border-stone-800">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12 text-center">
+      <h2 class="font-display text-2xl font-bold text-white mb-4">
+        Ready to book your stay at {hotel.data.name}?
+      </h2>
+      <a
+        href={hotel.data.bookingUrl}
+        target="_blank"
+        rel="noopener noreferrer nofollow"
+        class="inline-flex items-center gap-2 bg-gold-500 hover:bg-gold-400 text-stone-950 font-body font-bold text-lg px-8 py-4 rounded-full transition-colors"
+      >
+        Check Availability on Booking.com
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+        </svg>
+      </a>
+    </div>
+  </section>
+
+  <!-- Related hotels -->
+  {relatedHotels.length > 0 && (
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <h2 class="font-display text-2xl font-bold text-white mb-8">
+        More <span class="text-gold-400">{category?.data.title}</span>
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        {relatedHotels.map(h => (
+          <HotelCard
+            name={h.data.name}
+            destination={h.data.destination}
+            country={h.data.country}
+            description={h.data.description}
+            priceRange={h.data.priceRange}
+            priceIndicator={h.data.priceIndicator}
+            rating={h.data.rating}
+            reviewCount={h.data.reviewCount}
+            highlights={h.data.highlights}
+            bookingUrl={h.data.bookingUrl}
+            slug={h.slug}
+            category={h.data.category}
+            featured={h.data.featured}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+</BaseLayout>
