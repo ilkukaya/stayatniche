@@ -1,0 +1,172 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Contact Us | StayAtNiche"
+  description="Have a question, suggestion, or want to submit a property? We'd love to hear from you."
+>
+
+  <!-- Hero -->
+  <section class="relative bg-warm-50 overflow-hidden py-16">
+    <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
+    <div class="absolute -top-16 -right-16 w-72 h-72 bg-gold-100/60 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">Contact</span>
+      </nav>
+      <h1 class="font-display text-5xl font-bold text-warm-950 mb-5 leading-tight">
+        Let's <span class="text-gold-500">Talk</span>
+      </h1>
+      <p class="font-body text-warm-600 text-lg leading-relaxed">
+        Whether you have a question, want to suggest a property, or just want to share a story about an amazing stay — we're all ears.
+      </p>
+    </div>
+  </section>
+
+  <!-- Main content -->
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+
+      <!-- Contact cards -->
+      <div class="space-y-5">
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+          <div class="w-10 h-10 bg-forest-50 border border-forest-200 rounded-xl flex items-center justify-center mb-4">
+            <svg class="w-5 h-5 text-forest-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <h3 class="font-display text-base font-bold text-warm-950 mb-1">General Enquiries</h3>
+          <p class="font-body text-warm-600 text-sm leading-relaxed">Questions about the site, a listing, or anything else.</p>
+        </div>
+
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+          <div class="w-10 h-10 bg-gold-50 border border-gold-200 rounded-xl flex items-center justify-center mb-4">
+            <svg class="w-5 h-5 text-gold-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+            </svg>
+          </div>
+          <h3 class="font-display text-base font-bold text-warm-950 mb-1">Property Submissions</h3>
+          <p class="font-body text-warm-600 text-sm leading-relaxed">Know an extraordinary stay we haven't listed? Tell us about it.</p>
+        </div>
+
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+          <div class="w-10 h-10 bg-warm-100 border border-warm-200 rounded-xl flex items-center justify-center mb-4">
+            <svg class="w-5 h-5 text-warm-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <h3 class="font-display text-base font-bold text-warm-950 mb-1">Partnerships</h3>
+          <p class="font-body text-warm-600 text-sm leading-relaxed">Affiliate programs, media partnerships, and collaborations.</p>
+        </div>
+
+        <div class="bg-forest-50 border border-forest-200 rounded-2xl p-5">
+          <p class="font-body text-forest-700 text-sm leading-relaxed">
+            <strong class="font-semibold">Response time:</strong> We typically respond within 24–48 hours on weekdays.
+          </p>
+        </div>
+      </div>
+
+      <!-- Contact form -->
+      <div class="lg:col-span-2">
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-8">
+          <h2 class="font-display text-2xl font-bold text-warm-950 mb-6">Send Us a Message</h2>
+
+          <form
+            name="contact"
+            method="POST"
+            netlify
+            netlify-honeypot="bot-field"
+            class="space-y-5"
+          >
+            <input type="hidden" name="form-name" value="contact" />
+            <p class="hidden">
+              <label>Don't fill this out: <input name="bot-field" /></label>
+            </p>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+              <div>
+                <label for="first-name" class="block font-body text-sm font-medium text-warm-700 mb-1.5">First Name</label>
+                <input
+                  type="text"
+                  id="first-name"
+                  name="first-name"
+                  required
+                  placeholder="Jane"
+                  class="w-full bg-warm-50 border border-warm-200 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-3 rounded-xl outline-none transition-all"
+                />
+              </div>
+              <div>
+                <label for="last-name" class="block font-body text-sm font-medium text-warm-700 mb-1.5">Last Name</label>
+                <input
+                  type="text"
+                  id="last-name"
+                  name="last-name"
+                  required
+                  placeholder="Smith"
+                  class="w-full bg-warm-50 border border-warm-200 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-3 rounded-xl outline-none transition-all"
+                />
+              </div>
+            </div>
+
+            <div>
+              <label for="email" class="block font-body text-sm font-medium text-warm-700 mb-1.5">Email Address</label>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                required
+                placeholder="jane@example.com"
+                class="w-full bg-warm-50 border border-warm-200 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-3 rounded-xl outline-none transition-all"
+              />
+            </div>
+
+            <div>
+              <label for="subject" class="block font-body text-sm font-medium text-warm-700 mb-1.5">Subject</label>
+              <select
+                id="subject"
+                name="subject"
+                class="w-full bg-warm-50 border border-warm-200 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 text-warm-900 font-body text-sm px-4 py-3 rounded-xl outline-none transition-all appearance-none"
+              >
+                <option value="">Select a topic...</option>
+                <option value="general">General Enquiry</option>
+                <option value="property">Property Submission</option>
+                <option value="partnership">Partnership / Media</option>
+                <option value="correction">Listing Correction</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="message" class="block font-body text-sm font-medium text-warm-700 mb-1.5">Message</label>
+              <textarea
+                id="message"
+                name="message"
+                required
+                rows="6"
+                placeholder="Tell us everything..."
+                class="w-full bg-warm-50 border border-warm-200 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-3 rounded-xl outline-none transition-all resize-none"
+              ></textarea>
+            </div>
+
+            <button
+              type="submit"
+              class="w-full bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-base px-8 py-4 rounded-full transition-all hover:shadow-lg active:scale-[0.99]"
+            >
+              Send Message
+            </button>
+
+            <p class="font-body text-warm-400 text-xs text-center">
+              We respect your privacy. Your information will never be shared with third parties.
+            </p>
+          </form>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</BaseLayout>

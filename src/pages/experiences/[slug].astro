@@ -1,0 +1,182 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HotelCard from '../../components/HotelCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const experiences = await getCollection('experiences');
+  return experiences.map(exp => ({
+    params: { slug: exp.slug },
+    props: { experience: exp },
+  }));
+}
+
+const { experience } = Astro.props;
+const { Content } = await experience.render();
+
+const allHotels = await getCollection('hotels');
+const relatedHotels = allHotels
+  .filter(h => h.data.category === experience.data.category || h.data.featured)
+  .slice(0, 4);
+
+const seo = experience.data.seo || {};
+const metaTitle = seo.metaTitle || `${experience.data.title} | StayAtNiche`;
+const metaDesc = seo.metaDescription || experience.data.description;
+---
+
+<BaseLayout title={metaTitle} description={metaDesc}>
+
+  <!-- Hero -->
+  <section class="relative overflow-hidden bg-warm-50 pt-10 pb-16">
+    <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
+    <div class="absolute -top-16 -right-16 w-72 h-72 bg-gold-100/60 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-warm-500 text-sm font-body mb-10">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <a href="/experiences" class="hover:text-warm-800 transition-colors">Experiences</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">{experience.data.title}</span>
+      </nav>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
+        <!-- Left: Info -->
+        <div class="lg:col-span-2">
+          {experience.data.type && (
+            <span class="inline-block bg-forest-50 text-forest-700 text-xs font-body font-semibold uppercase tracking-widest px-3 py-1 rounded-full mb-4">
+              {experience.data.type}
+            </span>
+          )}
+          <h1 class="font-display text-5xl font-bold text-warm-950 mb-5 leading-tight">
+            {experience.data.title}
+          </h1>
+          <p class="font-body text-warm-600 text-lg leading-relaxed max-w-2xl mb-6">
+            {experience.data.description}
+          </p>
+
+          {experience.data.coverImage && (
+            <div class="rounded-2xl overflow-hidden h-72 sm:h-96 mb-8">
+              <img
+                src={experience.data.coverImage}
+                alt={experience.data.title}
+                class="w-full h-full object-cover"
+                loading="eager"
+              />
+            </div>
+          )}
+        </div>
+
+        <!-- Right: Details card -->
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-7 sticky top-24">
+          <h3 class="font-body text-xs font-semibold uppercase tracking-widest text-warm-500 mb-5">Experience Details</h3>
+          <div class="space-y-4">
+            {experience.data.duration && (
+              <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+                <span class="font-body text-warm-600 text-sm">Duration</span>
+                <span class="font-display text-warm-900 font-bold text-sm">{experience.data.duration}</span>
+              </div>
+            )}
+            {experience.data.difficulty && (
+              <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+                <span class="font-body text-warm-600 text-sm">Difficulty</span>
+                <span class="font-display text-warm-900 font-bold text-sm">{experience.data.difficulty}</span>
+              </div>
+            )}
+            {experience.data.price && (
+              <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+                <span class="font-body text-warm-600 text-sm">Price From</span>
+                <span class="font-display text-gold-600 font-bold text-lg">{experience.data.price}</span>
+              </div>
+            )}
+            {experience.data.location && (
+              <div class="flex justify-between items-center">
+                <span class="font-body text-warm-600 text-sm">Location</span>
+                <span class="font-display text-warm-900 font-bold text-sm text-right max-w-[130px] leading-tight">{experience.data.location}</span>
+              </div>
+            )}
+          </div>
+
+          {experience.data.bookingUrl && (
+            <a
+              href={experience.data.bookingUrl}
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="block w-full text-center mt-6 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-6 py-3 rounded-full transition-all hover:shadow-lg"
+            >
+              Book This Experience
+            </a>
+          )}
+          <a
+            href="/experiences"
+            class="block w-full text-center mt-3 border border-warm-200 hover:border-forest-400 hover:bg-forest-50 text-warm-700 hover:text-forest-700 font-body text-sm font-medium px-4 py-2.5 rounded-full transition-all"
+          >
+            All Experiences
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Content body -->
+  {experience.body && (
+    <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+      <div class="prose prose-warm max-w-none
+        prose-headings:font-display prose-headings:text-warm-950
+        prose-p:font-body prose-p:text-warm-700 prose-p:leading-relaxed
+        prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4
+        prose-strong:text-warm-900 prose-a:text-forest-600 prose-a:no-underline hover:prose-a:underline">
+        <Content />
+      </div>
+    </section>
+  )}
+
+  <!-- Highlights -->
+  {experience.data.highlights && experience.data.highlights.length > 0 && (
+    <section class="bg-warm-100 border-y border-warm-200 py-14">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
+          What's <span class="text-gold-500">Included</span>
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {experience.data.highlights.map((highlight: string) => (
+            <div class="flex items-start gap-3 bg-white rounded-xl p-4 border border-warm-200">
+              <span class="text-forest-500 font-bold text-lg mt-0.5 flex-shrink-0">✓</span>
+              <span class="font-body text-warm-700 text-sm leading-relaxed">{highlight}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Related Hotels -->
+  {relatedHotels.length > 0 && (
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
+        Where to <span class="text-gold-500">Stay</span>
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        {relatedHotels.map(hotel => (
+          <HotelCard
+            name={hotel.data.name}
+            destination={hotel.data.destination}
+            country={hotel.data.country}
+            description={hotel.data.description}
+            priceRange={hotel.data.priceRange}
+            priceIndicator={hotel.data.priceIndicator}
+            rating={hotel.data.rating}
+            reviewCount={hotel.data.reviewCount}
+            highlights={hotel.data.highlights}
+            bookingUrl={hotel.data.bookingUrl}
+            slug={hotel.slug}
+            category={hotel.data.category}
+            featured={hotel.data.featured}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+</BaseLayout>

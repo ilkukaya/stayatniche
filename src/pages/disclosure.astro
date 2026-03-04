@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const lastUpdated = "March 2025";
+---
+
+<BaseLayout
+  title="Affiliate Disclosure | StayAtNiche"
+  description="StayAtNiche participates in affiliate programs. Here's everything you need to know about how we earn commissions."
+>
+
+  <section class="relative bg-warm-50 overflow-hidden pt-10 pb-8">
+    <div class="dot-pattern absolute inset-0 opacity-60 pointer-events-none" />
+    <div class="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <nav class="flex items-center gap-2 text-warm-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">Affiliate Disclosure</span>
+      </nav>
+      <h1 class="font-display text-4xl font-bold text-warm-950 mb-3">Affiliate Disclosure</h1>
+      <p class="font-body text-warm-500 text-sm">Last updated: {lastUpdated}</p>
+    </div>
+  </section>
+
+  <section class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+
+    <!-- Quick summary card -->
+    <div class="bg-gold-50 border border-gold-200 rounded-2xl p-6 mb-10">
+      <div class="flex items-start gap-3">
+        <span class="text-gold-500 text-xl mt-0.5 flex-shrink-0">✦</span>
+        <div>
+          <h2 class="font-display text-base font-bold text-warm-950 mb-1">The Short Version</h2>
+          <p class="font-body text-warm-700 text-sm leading-relaxed">
+            StayAtNiche earns a small commission when you book through our links — at <strong>no extra cost to you</strong>. This helps us keep the site running and the curation honest. We only recommend properties we genuinely believe are extraordinary.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="prose max-w-none font-body text-warm-700 leading-relaxed space-y-8">
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">What is an Affiliate Program?</h2>
+        <p>An affiliate program is a partnership between a website (us) and a business (e.g., Booking.com) where we earn a commission for referring customers. When you click a "Check Rates" or similar link on our site and complete a booking, the booking platform tracks that referral and pays us a percentage of the booking value.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">Which Programs Do We Use?</h2>
+        <p class="mb-3">StayAtNiche currently participates in affiliate programs including, but not limited to:</p>
+        <ul class="list-disc pl-5 space-y-2 text-warm-700">
+          <li><strong class="text-warm-900">Booking.com Affiliate Partner Program</strong> — our primary booking partner</li>
+          <li>Other hotel booking platforms and travel services as disclosed on individual pages</li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">Does This Affect You?</h2>
+        <p class="mb-3"><strong class="text-warm-900">No extra cost to you.</strong> Affiliate commissions are paid by the merchant from their margin. The price you pay is exactly the same whether you book through our link or go directly to the platform.</p>
+        <p>In some cases, our affiliate relationships give us access to exclusive deals or rates that we pass directly to our readers.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">Does Affiliate Income Affect Our Recommendations?</h2>
+        <p class="mb-3"><strong class="text-warm-900">Absolutely not.</strong> Our editorial independence is non-negotiable. Properties are featured on StayAtNiche because we believe they are genuinely extraordinary — not because of any commercial arrangement.</p>
+        <p class="mb-3">We do not accept payment to feature properties. We do not guarantee coverage in exchange for affiliate arrangements. Our curation process is based entirely on uniqueness, quality, guest satisfaction, and wow-factor.</p>
+        <p>If a property ceases to meet our standards, it gets removed — regardless of any affiliate relationship.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">FTC Compliance</h2>
+        <p>This disclosure is made in accordance with the U.S. Federal Trade Commission's guidelines on endorsements and testimonials in advertising (16 C.F.R. Part 255). If you have questions about this disclosure, please <a href="/contact" class="text-forest-600 hover:underline">contact us</a>.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">Questions?</h2>
+        <p>We're committed to transparency. If you have any questions about our affiliate relationships or anything else on the site, we'd love to hear from you via our <a href="/contact" class="text-forest-600 hover:underline">contact page</a>.</p>
+      </div>
+
+    </div>
+  </section>
+
+</BaseLayout>

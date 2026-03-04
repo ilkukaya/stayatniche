@@ -1,0 +1,195 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allHotels = await getCollection('hotels');
+const allCategories = await getCollection('categories');
+---
+
+<BaseLayout
+  title="About StayAtNiche | Curating the World's Most Extraordinary Stays"
+  description="We're travel obsessives dedicated to finding the world's most unique and extraordinary accommodations — from treetops to ocean floors, ancient castles to transparent bubble domes."
+>
+
+  <!-- Hero -->
+  <section class="relative bg-warm-50 overflow-hidden py-20">
+    <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
+    <div class="absolute -top-20 -right-20 w-96 h-96 bg-gold-100/60 rounded-full blur-3xl pointer-events-none" />
+    <div class="absolute -bottom-10 -left-10 w-72 h-72 bg-forest-100/30 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">About</span>
+      </nav>
+
+      <div class="inline-flex items-center gap-2 bg-white border border-warm-200 rounded-full px-4 py-1.5 mb-6 shadow-soft">
+        <span class="text-gold-500 text-sm">✦</span>
+        <span class="font-body text-warm-600 text-sm font-medium">Our Story</span>
+      </div>
+
+      <h1 class="font-display text-5xl sm:text-6xl font-bold text-warm-950 mb-6 leading-tight">
+        We Find the Stays<br /><span class="text-gold-500">Others Miss</span>
+      </h1>
+      <p class="font-body text-warm-600 text-xl max-w-3xl mx-auto leading-relaxed">
+        StayAtNiche is a curated travel platform dedicated to the world's most extraordinary and unconventional accommodations. We don't do ordinary. We don't do beige.
+      </p>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="bg-white border-y border-warm-200">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-8 text-center">
+        <div>
+          <div class="font-display text-4xl font-bold text-gold-500 mb-2">{allHotels.length}+</div>
+          <div class="font-body text-warm-600 text-sm">Extraordinary Stays</div>
+        </div>
+        <div>
+          <div class="font-display text-4xl font-bold text-gold-500 mb-2">{allCategories.length}</div>
+          <div class="font-body text-warm-600 text-sm">Niche Categories</div>
+        </div>
+        <div>
+          <div class="font-display text-4xl font-bold text-gold-500 mb-2">40+</div>
+          <div class="font-body text-warm-600 text-sm">Countries Covered</div>
+        </div>
+        <div>
+          <div class="font-display text-4xl font-bold text-gold-500 mb-2">100%</div>
+          <div class="font-body text-warm-600 text-sm">Hand-curated</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mission -->
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+      <div>
+        <span class="font-body text-forest-600 text-sm font-semibold uppercase tracking-widest">Our Mission</span>
+        <h2 class="font-display text-3xl font-bold text-warm-950 mt-3 mb-6 leading-tight">
+          Travel should be<br />a <span class="text-gold-500">story worth telling</span>
+        </h2>
+        <p class="font-body text-warm-600 leading-relaxed mb-4">
+          There are over a billion hotel rooms in the world. We exist to help you find the one that will make you say "you'll never believe where I stayed."
+        </p>
+        <p class="font-body text-warm-600 leading-relaxed mb-4">
+          We scour the globe for accommodations that push the boundaries of what a "stay" can be — whether that's sleeping under the stars in a transparent bubble dome, waking up to manta rays swimming past your bedroom window, or spending the night in a centuries-old castle.
+        </p>
+        <p class="font-body text-warm-600 leading-relaxed">
+          Every property we feature has been researched, vetted, and selected for its wow factor, authentic character, and genuine guest satisfaction.
+        </p>
+      </div>
+      <div class="relative">
+        <div class="aspect-[4/3] rounded-2xl overflow-hidden shadow-card-hover">
+          <img
+            src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80&auto=format&fit=crop"
+            alt="Extraordinary hotel experience"
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+        <div class="absolute -bottom-4 -left-4 bg-white rounded-xl border border-warm-200 shadow-card px-5 py-4">
+          <div class="font-display text-2xl font-bold text-gold-500">4.9</div>
+          <div class="font-body text-xs text-warm-600">Avg. property rating</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How we curate -->
+  <section class="bg-warm-100 border-y border-warm-200">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+      <div class="text-center mb-14">
+        <span class="font-body text-forest-600 text-sm font-semibold uppercase tracking-widest">Our Process</span>
+        <h2 class="font-display text-3xl font-bold text-warm-950 mt-3 leading-tight">
+          How We <span class="text-gold-500">Curate</span>
+        </h2>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-8">
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-8 text-center">
+          <div class="w-14 h-14 bg-gold-50 border border-gold-200 rounded-2xl flex items-center justify-center mx-auto mb-5">
+            <svg class="w-7 h-7 text-gold-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+            </svg>
+          </div>
+          <h3 class="font-display text-lg font-bold text-warm-950 mb-3">Discovery</h3>
+          <p class="font-body text-warm-600 text-sm leading-relaxed">We search far and wide — social media, travel forums, local guides, and on-the-ground tips — to uncover properties most platforms never show you.</p>
+        </div>
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-8 text-center">
+          <div class="w-14 h-14 bg-forest-50 border border-forest-200 rounded-2xl flex items-center justify-center mx-auto mb-5">
+            <svg class="w-7 h-7 text-forest-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <h3 class="font-display text-lg font-bold text-warm-950 mb-3">Verification</h3>
+          <p class="font-body text-warm-600 text-sm leading-relaxed">We dig deep into hundreds of guest reviews, photos, and booking data. If a property doesn't consistently deliver, it doesn't make our list.</p>
+        </div>
+        <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-8 text-center">
+          <div class="w-14 h-14 bg-warm-100 border border-warm-200 rounded-2xl flex items-center justify-center mx-auto mb-5">
+            <svg class="w-7 h-7 text-warm-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+            </svg>
+          </div>
+          <h3 class="font-display text-lg font-bold text-warm-950 mb-3">Curation</h3>
+          <p class="font-body text-warm-600 text-sm leading-relaxed">Only properties that score high on uniqueness, wow-factor, value, and authentic experience make the final cut. We keep it tight and excellent.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Transparency / Affiliates -->
+  <section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div class="bg-warm-50 border border-warm-200 rounded-2xl p-8 sm:p-12">
+      <div class="flex items-start gap-4 mb-6">
+        <div class="w-10 h-10 bg-gold-100 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+          <svg class="w-5 h-5 text-gold-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+        </div>
+        <div>
+          <h2 class="font-display text-2xl font-bold text-warm-950 mb-3">A Note on Transparency</h2>
+          <p class="font-body text-warm-600 leading-relaxed mb-4">
+            StayAtNiche participates in affiliate programs with Booking.com and other travel partners. When you book through our links, we may earn a small commission — at absolutely no extra cost to you.
+          </p>
+          <p class="font-body text-warm-600 leading-relaxed mb-4">
+            This income helps us keep the lights on, the site free, and the curation honest. We never feature a property because of affiliate commissions — only because we genuinely believe it's extraordinary.
+          </p>
+          <a href="/disclosure" class="inline-flex items-center gap-1.5 font-body text-forest-600 hover:text-forest-700 font-medium text-sm transition-colors">
+            Read our full Affiliate Disclosure
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="bg-warm-950 text-white">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
+      <h2 class="font-display text-3xl font-bold mb-4">
+        Ready to find your extraordinary stay?
+      </h2>
+      <p class="font-body text-warm-300 mb-8 text-lg">
+        Explore {allCategories.length} categories and hundreds of hand-picked properties worldwide.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a
+          href="/categories"
+          class="inline-flex items-center gap-2 bg-gold-500 hover:bg-gold-400 text-white font-body font-semibold px-8 py-4 rounded-full transition-all hover:shadow-lg"
+        >
+          Browse Categories
+        </a>
+        <a
+          href="/contact"
+          class="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white border border-white/20 font-body font-semibold px-8 py-4 rounded-full transition-all"
+        >
+          Get in Touch
+        </a>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

@@ -1,8 +1,8 @@
 ---
 title: Cave Hotels
 description: Carved into ancient rock formations, cave hotels offer a once-in-a-lifetime experience. Turkey's Cappadocia leads the way with its fairy chimney suites, while other cave retreats span Greece, Spain, and beyond.
-icon: "🏔️"
-coverImage: /images/categories/cave.jpg
+icon: "cave"
+coverImage: "https://images.unsplash.com/photo-1601427304100-a28b2b6b8ca8?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 32
   avgPrice: 280

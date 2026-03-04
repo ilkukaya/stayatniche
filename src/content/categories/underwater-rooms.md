@@ -1,8 +1,8 @@
 ---
 title: Underwater Rooms
 description: Drift off to sleep surrounded by tropical fish and coral reefs in the world's most exclusive underwater suites. These one-of-a-kind rooms sit below the ocean's surface, offering an aquarium-like experience.
-icon: "🌊"
-coverImage: /images/categories/underwater.jpg
+icon: "underwater"
+coverImage: "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 8
   avgPrice: 1200

@@ -1,8 +1,8 @@
 ---
 title: Treehouse Hotels
 description: Sleep among the canopy in luxury treehouses that blend adventure with comfort. From Scandinavia's design-forward retreats to tropical jungle escapes, these elevated stays offer unparalleled connection with nature.
-icon: "🌳"
-coverImage: /images/categories/treehouse.jpg
+icon: "tree"
+coverImage: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 24
   avgPrice: 350

@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allDestinations = await getCollection('destinations');
+const sorted = allDestinations.sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+
+const continents = ['europe', 'asia', 'north-america', 'south-america', 'africa', 'oceania', 'middle-east'];
+const continentLabels: Record<string, string> = {
+  'europe': 'Europe', 'asia': 'Asia', 'north-america': 'North America',
+  'south-america': 'South America', 'africa': 'Africa', 'oceania': 'Oceania', 'middle-east': 'Middle East',
+};
+---
+
+<BaseLayout
+  title="Travel Destinations — Extraordinary Stays Worldwide | StayAtNiche"
+  description="Explore our destination guides — country and city profiles with the best niche hotels, travel tips, and what to expect."
+>
+  <!-- Hero -->
+  <section class="relative bg-warm-50 overflow-hidden py-16">
+    <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
+    <div class="absolute -top-20 -left-20 w-80 h-80 bg-forest-100/50 rounded-full blur-3xl pointer-events-none" />
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">Destinations</span>
+      </nav>
+      <h1 class="font-display text-5xl font-bold text-warm-950 mb-4">
+        Where Will You <span class="text-gold-500">Go?</span>
+      </h1>
+      <p class="font-body text-warm-600 text-lg max-w-2xl mx-auto">
+        Destination guides built around extraordinary stays. Every location tells you where to sleep in a way you'll never forget.
+      </p>
+    </div>
+  </section>
+
+  <!-- Continent filter -->
+  <section class="border-b border-warm-200 bg-white sticky top-[104px] z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+      <div class="flex items-center gap-2 overflow-x-auto scrollbar-hide">
+        <a href="/destinations" class="flex-shrink-0 font-body text-xs font-semibold bg-warm-950 text-white px-4 py-2 rounded-full">All</a>
+        {continents.map(c => (
+          <a href={`/destinations#${c}`} class="flex-shrink-0 font-body text-xs text-warm-600 hover:text-warm-950 border border-warm-200 hover:border-warm-400 px-4 py-2 rounded-full transition-all whitespace-nowrap">
+            {continentLabels[c]}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Destinations grid -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+    {sorted.length === 0 ? (
+      <div class="text-center py-20">
+        <p class="font-display text-2xl text-warm-400 mb-3">Destination guides coming soon</p>
+        <p class="font-body text-warm-500 mb-8">We're building comprehensive guides for the world's most extraordinary travel destinations.</p>
+        <a href="/categories" class="inline-flex items-center gap-2 bg-forest-600 text-white font-body font-semibold px-6 py-3 rounded-full hover:bg-forest-700 transition-colors">
+          Browse Hotel Categories
+        </a>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {sorted.map(dest => (
+          <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
+            <div class="relative h-48 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
+              {dest.data.coverImage ? (
+                <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+              ) : (
+                <div class="absolute inset-0 bg-gradient-to-br from-warm-100 to-forest-100" />
+              )}
+              <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
+              <div class="absolute bottom-0 inset-x-0 p-4">
+                <h3 class="font-display text-xl font-bold text-white leading-tight">{dest.data.name}</h3>
+                {dest.data.continent && (
+                  <span class="font-body text-white/70 text-xs">{continentLabels[dest.data.continent] || dest.data.continent}</span>
+                )}
+              </div>
+              {dest.data.featured && (
+                <div class="absolute top-3 right-3 bg-gold-500 text-white text-xs font-body font-bold px-2.5 py-1 rounded-full">Featured</div>
+              )}
+            </div>
+            <div class="p-5">
+              {dest.data.description && (
+                <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2 mb-4">{dest.data.description}</p>
+              )}
+              <div class="flex flex-wrap gap-2">
+                {dest.data.bestTimeToVisit?.summary && (
+                  <span class="font-body text-xs text-warm-500 bg-warm-100 px-2.5 py-1 rounded-full">Best: {dest.data.bestTimeToVisit.summary}</span>
+                )}
+                {dest.data.type && (
+                  <span class="font-body text-xs text-forest-600 bg-forest-50 border border-forest-100 px-2.5 py-1 rounded-full capitalize">{dest.data.type}</span>
+                )}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    )}
+  </section>
+</BaseLayout>

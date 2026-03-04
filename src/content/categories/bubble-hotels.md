@@ -1,8 +1,8 @@
 ---
 title: Bubble Hotels
 description: Sleep under the stars in transparent bubble domes that offer panoramic views of the night sky. Finland's aurora-watching bubbles are legendary, but this innovative accommodation style is spreading worldwide.
-icon: "🔮"
-coverImage: /images/categories/bubble.jpg
+icon: "bubble"
+coverImage: "https://images.unsplash.com/photo-1561221694-4ddc9fc73b49?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 28
   avgPrice: 380
@@ -18,7 +18,3 @@ Imagine falling asleep beneath a canopy of stars, the Milky Way stretching overh
 ## Why Choose a Bubble Hotel?
 
 Bubble hotels eliminate the barrier between you and the natural world. You're simultaneously sheltered from the elements and completely immersed in the landscape. For stargazers and aurora chasers, there's simply no better option.
-
-## Where to Find Bubble Hotels
-
-Finland leads the world in bubble hotel experiences, with properties specifically designed for Northern Lights viewing. The French countryside offers wine-region bubble stays. New destinations are constantly emerging as this trend grows globally.

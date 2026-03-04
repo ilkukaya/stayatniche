@@ -1,0 +1,102 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const lastUpdated = "March 2025";
+---
+
+<BaseLayout
+  title="Privacy Policy | StayAtNiche"
+  description="How StayAtNiche collects, uses, and protects your personal information."
+>
+
+  <section class="relative bg-warm-50 overflow-hidden pt-10 pb-8">
+    <div class="dot-pattern absolute inset-0 opacity-60 pointer-events-none" />
+    <div class="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+      <nav class="flex items-center gap-2 text-warm-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">Privacy Policy</span>
+      </nav>
+      <h1 class="font-display text-4xl font-bold text-warm-950 mb-3">Privacy Policy</h1>
+      <p class="font-body text-warm-500 text-sm">Last updated: {lastUpdated}</p>
+    </div>
+  </section>
+
+  <section class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+    <div class="prose max-w-none font-body text-warm-700 leading-relaxed space-y-8">
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">1. Introduction</h2>
+        <p>StayAtNiche ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website stayatniche.com.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">2. Information We Collect</h2>
+        <p class="mb-3"><strong class="text-warm-900">Information you provide:</strong> When you subscribe to our newsletter, submit a contact form, or otherwise interact with us, we may collect your name and email address.</p>
+        <p class="mb-3"><strong class="text-warm-900">Automatically collected information:</strong> We may collect certain information automatically when you visit our site, including your IP address, browser type, operating system, referring URLs, and pages viewed. This is done via standard web analytics tools.</p>
+        <p><strong class="text-warm-900">Cookies:</strong> We use cookies and similar tracking technologies to improve your experience on our site. You can control cookie settings through your browser preferences.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">3. How We Use Your Information</h2>
+        <ul class="list-disc pl-5 space-y-2 text-warm-700">
+          <li>To send our newsletter (only if you've subscribed)</li>
+          <li>To respond to your enquiries</li>
+          <li>To improve and maintain our website</li>
+          <li>To understand how visitors use our site via analytics</li>
+          <li>To comply with legal obligations</li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">4. Affiliate Links & Third Parties</h2>
+        <p class="mb-3">Our site contains affiliate links to third-party booking platforms (such as Booking.com). When you click these links and make a booking, those third parties may collect data subject to their own privacy policies. We do not control and are not responsible for third-party data practices.</p>
+        <p>We earn a commission from qualifying purchases at no additional cost to you. See our <a href="/disclosure" class="text-forest-600 hover:underline">Affiliate Disclosure</a> for more information.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">5. Analytics</h2>
+        <p>We may use services like Google Analytics to understand how visitors interact with our site. These services may use cookies and collect anonymized usage data. You can opt out of Google Analytics tracking by installing the <a href="https://tools.google.com/dlpage/gaoptout" class="text-forest-600 hover:underline" target="_blank" rel="noopener noreferrer">Google Analytics Opt-out Browser Add-on</a>.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">6. Data Retention</h2>
+        <p>We retain personal data only for as long as necessary to fulfill the purposes outlined in this policy or as required by law. Newsletter subscribers can unsubscribe at any time using the link in any email we send.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">7. Your Rights</h2>
+        <p class="mb-3">Depending on your location, you may have the right to:</p>
+        <ul class="list-disc pl-5 space-y-2 text-warm-700">
+          <li>Access the personal data we hold about you</li>
+          <li>Request correction of inaccurate data</li>
+          <li>Request deletion of your data</li>
+          <li>Object to or restrict our processing of your data</li>
+          <li>Data portability</li>
+        </ul>
+        <p class="mt-3">To exercise these rights, please <a href="/contact" class="text-forest-600 hover:underline">contact us</a>.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">8. Security</h2>
+        <p>We implement reasonable technical and organizational measures to protect your information. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">9. Children's Privacy</h2>
+        <p>Our website is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us immediately.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">10. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the "Last updated" date at the top of this page.</p>
+      </div>
+
+      <div>
+        <h2 class="font-display text-xl font-bold text-warm-950 mb-3">11. Contact</h2>
+        <p>If you have questions about this Privacy Policy, please <a href="/contact" class="text-forest-600 hover:underline">contact us</a>.</p>
+      </div>
+
+    </div>
+  </section>
+
+</BaseLayout>

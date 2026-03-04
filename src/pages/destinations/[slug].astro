@@ -1,0 +1,186 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HotelCard from '../../components/HotelCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const destinations = await getCollection('destinations');
+  return destinations.map(dest => ({ params: { slug: dest.slug }, props: { dest } }));
+}
+
+const { dest } = Astro.props;
+const { Content } = await dest.render();
+
+const allHotels = await getCollection('hotels');
+const localHotels = allHotels.filter(h =>
+  h.data.country?.toLowerCase() === dest.data.name?.toLowerCase() ||
+  h.data.destination?.toLowerCase().includes(dest.data.name?.toLowerCase() ?? '')
+);
+
+const seo = dest.data.seo || {};
+const metaTitle = seo.metaTitle || `${dest.data.name} Travel Guide — Best Stays | StayAtNiche`;
+const metaDesc  = seo.metaDescription || dest.data.description || '';
+---
+
+<BaseLayout title={metaTitle} description={metaDesc}>
+  <!-- Hero -->
+  <section class="relative overflow-hidden">
+    <div class="h-72 sm:h-96 relative">
+      {dest.data.coverImage ? (
+        <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover" />
+      ) : (
+        <div class="w-full h-full bg-gradient-to-br from-forest-100 to-warm-200" />
+      )}
+      <div class="absolute inset-0 bg-gradient-to-t from-warm-950/70 via-warm-950/20 to-transparent" />
+      <div class="absolute bottom-0 inset-x-0 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-10">
+        <nav class="flex items-center gap-2 text-white/60 text-sm font-body mb-4">
+          <a href="/" class="hover:text-white transition-colors">Home</a>
+          <span>/</span>
+          <a href="/destinations" class="hover:text-white transition-colors">Destinations</a>
+          <span>/</span>
+          <span class="text-white">{dest.data.name}</span>
+        </nav>
+        {dest.data.type && (
+          <span class="inline-block bg-white/20 backdrop-blur text-white font-body text-xs font-semibold px-3 py-1 rounded-full mb-3 capitalize">{dest.data.type}</span>
+        )}
+        <h1 class="font-display text-4xl sm:text-5xl font-bold text-white">{dest.data.name}</h1>
+      </div>
+    </div>
+  </section>
+
+  <!-- Content grid -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-10">
+      <!-- Main content -->
+      <div class="lg:col-span-2">
+        {dest.data.description && (
+          <p class="font-body text-warm-700 text-xl leading-relaxed mb-10">{dest.data.description}</p>
+        )}
+
+        {dest.data.mustSee && dest.data.mustSee.length > 0 && (
+          <div class="mb-10">
+            <h2 class="font-display text-2xl font-bold text-warm-950 mb-5">Must-See Attractions</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {dest.data.mustSee.map((item: string) => (
+                <div class="flex items-start gap-3 bg-white rounded-xl border border-warm-100 p-4 shadow-soft">
+                  <span class="text-gold-500 font-bold mt-0.5 flex-shrink-0">✦</span>
+                  <span class="font-body text-warm-700 text-sm">{item}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {dest.data.travelTips && dest.data.travelTips.length > 0 && (
+          <div class="mb-10">
+            <h2 class="font-display text-2xl font-bold text-warm-950 mb-5">Insider Tips</h2>
+            {dest.data.travelTips.map((tip: string) => (
+              <div class="flex items-start gap-3 mb-3">
+                <span class="text-forest-500 font-bold mt-1 flex-shrink-0">→</span>
+                <span class="font-body text-warm-700 text-sm leading-relaxed">{tip}</span>
+              </div>
+            ))}
+          </div>
+        )}
+
+        <div class="prose prose-warm max-w-none
+          prose-headings:font-display prose-headings:text-warm-950
+          prose-p:font-body prose-p:text-warm-700 prose-p:leading-relaxed
+          prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4
+          prose-strong:text-warm-900 prose-a:text-forest-600 hover:prose-a:underline">
+          <Content />
+        </div>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="space-y-5">
+        {dest.data.bestTimeToVisit && (
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+            <h3 class="font-display text-base font-bold text-warm-950 mb-3">Best Time to Visit</h3>
+            <p class="font-body text-forest-700 text-sm font-semibold mb-2">{dest.data.bestTimeToVisit.summary}</p>
+            {dest.data.bestTimeToVisit.details && (
+              <p class="font-body text-warm-600 text-xs leading-relaxed">{dest.data.bestTimeToVisit.details}</p>
+            )}
+          </div>
+        )}
+
+        {dest.data.essentials && (
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+            <h3 class="font-display text-base font-bold text-warm-950 mb-4">Travel Essentials</h3>
+            <div class="space-y-3">
+              {dest.data.essentials.currency && (
+                <div class="flex justify-between text-sm">
+                  <span class="font-body text-warm-500">Currency</span>
+                  <span class="font-body text-warm-800 font-medium">{dest.data.essentials.currency}</span>
+                </div>
+              )}
+              {dest.data.essentials.language && (
+                <div class="flex justify-between text-sm">
+                  <span class="font-body text-warm-500">Language</span>
+                  <span class="font-body text-warm-800 font-medium">{dest.data.essentials.language}</span>
+                </div>
+              )}
+              {dest.data.essentials.timezone && (
+                <div class="flex justify-between text-sm">
+                  <span class="font-body text-warm-500">Timezone</span>
+                  <span class="font-body text-warm-800 font-medium">{dest.data.essentials.timezone}</span>
+                </div>
+              )}
+              {dest.data.essentials.plugType && (
+                <div class="flex justify-between text-sm">
+                  <span class="font-body text-warm-500">Plug Type</span>
+                  <span class="font-body text-warm-800 font-medium">{dest.data.essentials.plugType}</span>
+                </div>
+              )}
+              {dest.data.essentials.visaInfo && (
+                <div class="pt-2 border-t border-warm-100">
+                  <p class="font-body text-warm-500 text-xs mb-1">Visa</p>
+                  <p class="font-body text-warm-700 text-xs leading-relaxed">{dest.data.essentials.visaInfo}</p>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        <div class="bg-forest-50 border border-forest-100 rounded-2xl p-6">
+          <h3 class="font-display text-base font-bold text-warm-950 mb-3">Find Hotels Here</h3>
+          <p class="font-body text-warm-600 text-sm mb-4">Browse extraordinary stays in {dest.data.name}</p>
+          <a href="/categories" class="block w-full text-center bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-4 py-3 rounded-full transition-colors">
+            Browse All Categories
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Hotels in this destination -->
+  {localHotels.length > 0 && (
+    <section class="bg-warm-100 border-t border-warm-200">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
+          Extraordinary Stays in <span class="text-gold-500">{dest.data.name}</span>
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+          {localHotels.map(h => (
+            <HotelCard
+              name={h.data.name}
+              destination={h.data.destination}
+              country={h.data.country}
+              description={h.data.description}
+              priceRange={h.data.priceRange}
+              priceIndicator={h.data.priceIndicator}
+              rating={h.data.rating}
+              reviewCount={h.data.reviewCount}
+              highlights={h.data.highlights}
+              bookingUrl={h.data.bookingUrl}
+              slug={h.slug}
+              category={h.data.category}
+              featured={h.data.featured}
+              coverImage={h.data.coverImage}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

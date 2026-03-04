@@ -7,22 +7,25 @@ const navLinks = [
 ];
 
 const categoryStrip = [
-  { href: '/categories/treehouse-hotels', label: '🌳 Treehouses' },
-  { href: '/categories/cave-hotels', label: '🪨 Cave Hotels' },
-  { href: '/categories/underwater-rooms', label: '🌊 Underwater' },
-  { href: '/categories/castle-hotels', label: '🏰 Castles' },
-  { href: '/categories/floating-hotels', label: '🛶 Floating' },
-  { href: '/categories/bubble-hotels', label: '🫧 Bubble Domes' },
-  { href: '/categories/cliffside-hotels', label: '⛰️ Cliffsides' },
-  { href: '/categories/desert-camps', label: '🏜️ Desert Camps' },
-  { href: '/categories/safari-lodges', label: '🦁 Safari Lodges' },
-  { href: '/categories/overwater-bungalows', label: '🌺 Overwater' },
+  { href: '/categories/treehouse-hotels', label: 'Treehouse Hotels' },
+  { href: '/categories/cave-hotels', label: 'Cave Hotels' },
+  { href: '/categories/underwater-rooms', label: 'Underwater Rooms' },
+  { href: '/categories/castle-hotels', label: 'Castle Hotels' },
+  { href: '/categories/floating-hotels', label: 'Floating Hotels' },
+  { href: '/categories/bubble-hotels', label: 'Bubble Hotels' },
+  { href: '/categories/cliffside-hotels', label: 'Cliffside Hotels' },
+  { href: '/categories/desert-camps', label: 'Desert Camps' },
+  { href: '/categories/jungle-lodges', label: 'Jungle Lodges' },
+  { href: '/categories/ice-hotels', label: 'Ice Hotels' },
+  { href: '/categories/safari-lodges', label: 'Safari Lodges' },
+  { href: '/categories/overwater-bungalows', label: 'Overwater Bungalows' },
 ];
 
 const currentPath = Astro.url.pathname;
 ---
 
-<header class="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-b border-warm-200 shadow-soft" id="site-header">
+<header class="fixed top-0 left-0 right-0 z-50 bg-white/97 backdrop-blur-md border-b border-warm-200 shadow-soft" id="site-header">
+
   <!-- Main nav row -->
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
@@ -79,7 +82,7 @@ const currentPath = Astro.url.pathname;
     </div>
   </div>
 
-  <!-- Category strip (desktop only) -->
+  <!-- Category strip (desktop) — no emojis, plain text -->
   <div class="hidden md:block border-t border-warm-100 bg-warm-50/80">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center gap-0.5 overflow-x-auto scrollbar-hide py-1.5">
@@ -89,19 +92,13 @@ const currentPath = Astro.url.pathname;
             class:list={[
               'flex-shrink-0 font-body text-xs font-medium px-3 py-1.5 rounded-full transition-all whitespace-nowrap',
               currentPath === cat.href
-                ? 'bg-gold-100 text-gold-700'
-                : 'text-warm-600 hover:text-warm-950 hover:bg-warm-200',
+                ? 'bg-warm-200 text-warm-900 font-semibold'
+                : 'text-warm-500 hover:text-warm-900 hover:bg-warm-100',
             ]}
           >
             {cat.label}
           </a>
         ))}
-        <a
-          href="/categories"
-          class="flex-shrink-0 font-body text-xs font-semibold text-forest-600 hover:text-forest-700 px-3 py-1.5 ml-2 underline underline-offset-2 whitespace-nowrap"
-        >
-          All categories →
-        </a>
       </div>
     </div>
   </div>
@@ -112,16 +109,16 @@ const currentPath = Astro.url.pathname;
       {navLinks.map(link => (
         <a
           href={link.href}
-          class="flex items-center gap-2 font-body text-warm-700 hover:text-warm-950 hover:bg-warm-50 py-2.5 px-3 rounded-xl transition-colors text-sm font-medium"
+          class="flex items-center font-body text-warm-700 hover:text-warm-950 hover:bg-warm-50 py-2.5 px-3 rounded-xl transition-colors text-sm font-medium"
         >
           {link.label}
         </a>
       ))}
     </div>
-    <div class="px-4 pb-3 border-t border-warm-100 mt-1 pt-3">
-      <p class="text-warm-400 text-xs font-body px-3 mb-2 uppercase tracking-wider font-medium">Browse by type</p>
+    <div class="px-4 pb-3 border-t border-warm-100 pt-3">
+      <p class="text-warm-400 text-xs font-body px-3 mb-2 uppercase tracking-wider font-semibold">Browse by type</p>
       <div class="flex flex-wrap gap-1.5 px-1">
-        {categoryStrip.slice(0, 6).map(cat => (
+        {categoryStrip.map(cat => (
           <a
             href={cat.href}
             class="font-body text-xs text-warm-600 hover:text-warm-950 bg-warm-100 hover:bg-warm-200 px-3 py-1.5 rounded-full transition-colors"
@@ -131,7 +128,7 @@ const currentPath = Astro.url.pathname;
         ))}
       </div>
     </div>
-    <div class="px-4 pb-4">
+    <div class="px-4 pb-4 pt-2">
       <a
         href="/categories"
         class="block w-full text-center bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-4 py-3 rounded-full transition-colors"

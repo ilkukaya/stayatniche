@@ -1,0 +1,94 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allCategories = await getCollection('categories');
+const featuredCats = allCategories
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 6);
+---
+
+<BaseLayout
+  title="Page Not Found | StayAtNiche"
+  description="The page you're looking for doesn't exist. Explore our extraordinary hotel categories instead."
+>
+
+  <section class="relative min-h-[80vh] flex items-center overflow-hidden bg-warm-50">
+    <!-- Background atmosphere -->
+    <div class="dot-pattern absolute inset-0 opacity-60 pointer-events-none" />
+    <div class="absolute -top-32 -left-32 w-96 h-96 bg-gold-100/50 rounded-full blur-3xl pointer-events-none" />
+    <div class="absolute -bottom-20 -right-20 w-80 h-80 bg-forest-100/40 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center w-full">
+
+      <!-- 404 large display -->
+      <div class="relative inline-block mb-8">
+        <span class="font-display text-[10rem] sm:text-[14rem] font-bold text-warm-100 leading-none select-none pointer-events-none absolute inset-0 flex items-center justify-center">
+          404
+        </span>
+        <div class="relative z-10 pt-10 pb-6">
+          <div class="inline-flex items-center justify-center w-24 h-24 bg-white border-2 border-warm-200 rounded-full shadow-card mb-4">
+            <svg class="w-12 h-12 text-warm-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <p class="font-display text-8xl sm:text-9xl font-bold text-warm-200 leading-none">404</p>
+        </div>
+      </div>
+
+      <h1 class="font-display text-3xl sm:text-4xl font-bold text-warm-950 mb-4 leading-tight">
+        This stay seems to have<br /><span class="text-gold-500">checked out early</span>
+      </h1>
+      <p class="font-body text-warm-600 text-lg max-w-xl mx-auto mb-10 leading-relaxed">
+        The page you're looking for doesn't exist or has been moved. But don't worry — the most extraordinary stays in the world are just a click away.
+      </p>
+
+      <!-- CTA buttons -->
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
+        <a
+          href="/"
+          class="inline-flex items-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-8 py-4 rounded-full transition-all hover:shadow-lg"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+          </svg>
+          Back to Home
+        </a>
+        <a
+          href="/categories"
+          class="inline-flex items-center gap-2 bg-white hover:bg-warm-100 border border-warm-200 hover:border-warm-300 text-warm-800 font-body font-semibold px-8 py-4 rounded-full transition-all"
+        >
+          Browse Categories
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+
+      <!-- Category quick links -->
+      <div class="bg-white border border-warm-200 rounded-2xl p-6 shadow-card max-w-3xl mx-auto">
+        <p class="font-body text-warm-500 text-xs font-semibold uppercase tracking-widest mb-5">
+          Maybe you were looking for one of these?
+        </p>
+        <div class="flex flex-wrap gap-2 justify-center">
+          {featuredCats.map(cat => (
+            <a
+              href={`/categories/${cat.slug}`}
+              class="inline-flex items-center gap-1.5 bg-warm-50 hover:bg-forest-50 border border-warm-200 hover:border-forest-300 text-warm-700 hover:text-forest-700 font-body text-sm font-medium px-4 py-2 rounded-full transition-all"
+            >
+              {cat.data.title}
+            </a>
+          ))}
+          <a
+            href="/categories"
+            class="inline-flex items-center gap-1.5 bg-gold-50 hover:bg-gold-100 border border-gold-200 text-gold-700 font-body text-sm font-semibold px-4 py-2 rounded-full transition-all"
+          >
+            View All →
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+</BaseLayout>

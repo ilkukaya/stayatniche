@@ -1,0 +1,127 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HotelCard from '../../components/HotelCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({ params: { slug: post.slug }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+
+const allHotels = await getCollection('hotels');
+const relatedHotels = post.data.relatedHotels?.length
+  ? allHotels.filter(h => post.data.relatedHotels.includes(h.slug))
+  : allHotels.filter(h => h.data.featured).slice(0, 4);
+
+const seo = post.data.seo || {};
+const metaTitle = seo.metaTitle || post.data.title;
+const metaDesc  = seo.metaDescription || post.data.excerpt || '';
+---
+
+<BaseLayout title={metaTitle} description={metaDesc}>
+  <article>
+    <!-- Hero -->
+    <section class="relative bg-warm-50 overflow-hidden py-14">
+      <div class="dot-pattern absolute inset-0 opacity-60 pointer-events-none" />
+      <div class="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <nav class="flex items-center gap-2 text-warm-500 text-sm font-body mb-8">
+          <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+          <span class="text-warm-300">/</span>
+          <a href="/blog" class="hover:text-warm-800 transition-colors">Blog</a>
+          <span class="text-warm-300">/</span>
+          <span class="text-warm-700 font-medium line-clamp-1">{post.data.title}</span>
+        </nav>
+
+        {post.data.category && (
+          <span class="inline-block bg-white border border-warm-200 text-warm-700 font-body text-xs font-semibold px-3 py-1.5 rounded-full mb-5">
+            {post.data.category.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}
+          </span>
+        )}
+
+        <h1 class="font-display text-4xl sm:text-5xl font-bold text-warm-950 mb-5 leading-tight">
+          {post.data.title}
+        </h1>
+
+        {post.data.excerpt && (
+          <p class="font-body text-warm-600 text-xl leading-relaxed mb-7">{post.data.excerpt}</p>
+        )}
+
+        <div class="flex flex-wrap items-center gap-5">
+          <div class="flex items-center gap-2">
+            <div class="w-8 h-8 rounded-full bg-warm-200 flex items-center justify-center text-warm-700 font-display font-bold text-sm">
+              {(post.data.author || 'S').charAt(0)}
+            </div>
+            <span class="font-body text-warm-600 text-sm">{post.data.author || 'StayAtNiche Team'}</span>
+          </div>
+          {post.data.publishedDate && (
+            <span class="font-body text-warm-400 text-sm">
+              {new Date(post.data.publishedDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+            </span>
+          )}
+          {post.data.affiliateDisclosure && (
+            <span class="inline-flex items-center gap-1 bg-amber-50 border border-amber-200 text-amber-700 font-body text-xs px-3 py-1 rounded-full">
+              Contains affiliate links
+            </span>
+          )}
+        </div>
+      </div>
+    </section>
+
+    <!-- Cover image -->
+    {post.data.coverImage && (
+      <section class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 -mt-2 mb-12">
+        <div class="rounded-3xl overflow-hidden h-72 sm:h-96">
+          <img src={post.data.coverImage} alt={post.data.title} class="w-full h-full object-cover" />
+        </div>
+      </section>
+    )}
+
+    <!-- Content -->
+    <section class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+      <div class="prose prose-warm max-w-none
+        prose-headings:font-display prose-headings:text-warm-950
+        prose-p:font-body prose-p:text-warm-700 prose-p:leading-relaxed
+        prose-h2:text-3xl prose-h2:font-bold prose-h2:mt-12 prose-h2:mb-5
+        prose-h3:text-2xl prose-h3:font-bold prose-h3:mt-9 prose-h3:mb-4
+        prose-strong:text-warm-900 prose-a:text-forest-600 hover:prose-a:underline
+        prose-li:text-warm-700 prose-li:font-body prose-blockquote:border-gold-400
+        prose-blockquote:text-warm-600 prose-blockquote:font-display prose-blockquote:text-lg">
+        <Content />
+      </div>
+    </section>
+  </article>
+
+  <!-- Related hotels -->
+  {relatedHotels.length > 0 && (
+    <section class="bg-warm-100 border-t border-warm-200">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
+          Extraordinary <span class="text-gold-500">Stays</span> to Book
+        </h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+          {relatedHotels.map(h => (
+            <HotelCard
+              name={h.data.name}
+              destination={h.data.destination}
+              country={h.data.country}
+              description={h.data.description}
+              priceRange={h.data.priceRange}
+              priceIndicator={h.data.priceIndicator}
+              rating={h.data.rating}
+              reviewCount={h.data.reviewCount}
+              highlights={h.data.highlights}
+              bookingUrl={h.data.bookingUrl}
+              slug={h.slug}
+              category={h.data.category}
+              featured={h.data.featured}
+              coverImage={h.data.coverImage}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,8 +1,8 @@
 ---
 title: Floating Hotels
 description: Glide through the world's most beautiful waterways aboard luxury floating hotels. From Amsterdam's stylish houseboats to Southeast Asia's river barges, these aquatic retreats offer a totally unique perspective.
-icon: "🚢"
-coverImage: /images/categories/floating.jpg
+icon: "floating"
+coverImage: "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 38
   avgPrice: 320
@@ -18,7 +18,3 @@ There's something magical about waking up on the water — the gentle lapping of
 ## Why Choose a Floating Hotel?
 
 Life on the water operates at a different pace. The gentle movement of a floating hotel creates a natural relaxation that's impossible to replicate on land. Many floating hotels also offer unique city perspectives — Amsterdam looks completely different from the canal level.
-
-## Types of Floating Stays
-
-From intimate houseboats that sleep two to massive river cruise ships carrying hundreds of guests, floating accommodation comes in every size and style. Some stay in one spot; others navigate through stunning landscapes.
