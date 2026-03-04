@@ -13,12 +13,15 @@
         { "label": "Treehouse Hotels", "url": "/categories/treehouse-hotels" },
         { "label": "Cave Hotels", "url": "/categories/cave-hotels" },
         { "label": "Castle Hotels", "url": "/categories/castle-hotels" },
-        { "label": "Underwater Rooms", "url": "/categories/underwater-rooms" }
+        { "label": "Underwater Rooms", "url": "/categories/underwater-rooms" },
+        { "label": "Bubble Hotels", "url": "/categories/bubble-hotels" },
+        { "label": "Overwater Bungalows", "url": "/categories/overwater-bungalows" }
       ]
     },
     {
       "title": "Destinations",
       "links": [
+        { "label": "All Destinations", "url": "/destinations" },
         { "label": "Europe", "url": "/destinations?continent=europe" },
         { "label": "Asia", "url": "/destinations?continent=asia" },
         { "label": "Africa", "url": "/destinations?continent=africa" },
@@ -27,23 +30,16 @@
       ]
     },
     {
-      "title": "Resources",
-      "links": [
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Travel Tips", "url": "/blog?category=travel-tips" },
-        { "label": "Destination Guides", "url": "/blog?category=destination-guide" },
-        { "label": "Experiences", "url": "/experiences" }
-      ]
-    },
-    {
       "title": "Company",
       "links": [
         { "label": "About Us", "url": "/about" },
         { "label": "Contact", "url": "/contact" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Experiences", "url": "/experiences" },
         { "label": "Privacy Policy", "url": "/privacy" },
         { "label": "Affiliate Disclosure", "url": "/disclosure" }
       ]
     }
   ],
-  "copyright": "© 2025 StayAtNiche. All rights reserved."
+  "copyright": "© {year} StayAtNiche. All rights reserved."
 }

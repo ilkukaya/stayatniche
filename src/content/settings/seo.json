@@ -1,13 +1,13 @@
 {
   "titleTemplate": "{{title}} | StayAtNiche",
-  "defaultDescription": "Discover the world's most extraordinary stays — from treehouses to underwater rooms, castles to caves. Curated niche accommodations for unforgettable travel.",
-  "defaultOgImage": "",
-  "twitterHandle": "stayatniche",
+  "defaultDescription": "Discover the world's most extraordinary stays — from treehouses to underwater rooms, ancient castles to transparent bubble domes. Curated niche accommodations for unforgettable travel.",
+  "defaultOgImage": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1200&h=630&q=80&auto=format&fit=crop",
+  "twitterHandle": "@stayatniche",
   "canonicalUrl": "https://stayatniche.com",
   "googleVerification": "",
   "bingVerification": "",
   "structuredData": {
     "orgName": "StayAtNiche",
-    "orgLogo": ""
+    "orgLogo": "https://stayatniche.com/logo.svg"
   }
 }

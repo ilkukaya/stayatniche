@@ -1,7 +1,7 @@
 {
-  "provider": "other",
+  "provider": "netlify",
   "formUrl": "",
   "listId": "",
-  "successMessage": "You're in! Check your inbox for extraordinary stays.",
-  "privacyNote": "No spam. Unsubscribe anytime."
+  "successMessage": "You're in! Extraordinary stays are heading to your inbox.",
+  "privacyNote": "No spam, ever. Unsubscribe with one click."
 }

@@ -1,37 +1,56 @@
 ---
-const year = new Date().getFullYear();
+import { getEntry } from 'astro:content';
 
-const columns = [
+const navSettings  = await getEntry('settings', 'navigation').catch(() => null);
+const socSettings  = await getEntry('settings', 'social').catch(() => null);
+const genSettings  = await getEntry('settings', 'general').catch(() => null);
+
+const nav  = navSettings?.data  ?? {};
+const soc  = socSettings?.data  ?? {};
+const gen  = genSettings?.data  ?? {};
+
+const year = new Date().getFullYear();
+const siteName = gen.siteName || 'StayAtNiche';
+const tagline  = gen.siteDescription || 'Curating the world\'s most extraordinary stays — from treetops to ocean floors, ancient castles to transparent bubble domes.';
+
+// Fallback footer columns if settings not configured yet
+const footerColumns = nav.footerColumns ?? [
   {
     title: 'Explore',
     links: [
-      { href: '/categories/treehouse-hotels', label: 'Treehouse Hotels' },
-      { href: '/categories/cave-hotels', label: 'Cave Hotels' },
-      { href: '/categories/castle-hotels', label: 'Castle Hotels' },
-      { href: '/categories/underwater-rooms', label: 'Underwater Rooms' },
-      { href: '/categories/bubble-hotels', label: 'Bubble Hotels' },
-      { href: '/categories/floating-hotels', label: 'Floating Hotels' },
+      { label: 'All Categories',    url: '/categories' },
+      { label: 'Treehouse Hotels',  url: '/categories/treehouse-hotels' },
+      { label: 'Cave Hotels',       url: '/categories/cave-hotels' },
+      { label: 'Castle Hotels',     url: '/categories/castle-hotels' },
+      { label: 'Underwater Rooms',  url: '/categories/underwater-rooms' },
+      { label: 'Bubble Hotels',     url: '/categories/bubble-hotels' },
     ],
   },
   {
     title: 'Destinations',
     links: [
-      { href: '/destinations', label: 'All Destinations' },
-      { href: '/categories', label: 'Browse Categories' },
-      { href: '/blog', label: 'Travel Blog' },
-      { href: '/experiences', label: 'Experiences' },
+      { label: 'All Destinations', url: '/destinations' },
+      { label: 'Blog',             url: '/blog' },
+      { label: 'Experiences',      url: '/experiences' },
     ],
   },
   {
     title: 'Company',
     links: [
-      { href: '/about', label: 'About Us' },
-      { href: '/contact', label: 'Contact' },
-      { href: '/privacy', label: 'Privacy Policy' },
-      { href: '/disclosure', label: 'Affiliate Disclosure' },
+      { label: 'About Us',           url: '/about' },
+      { label: 'Contact',            url: '/contact' },
+      { label: 'Privacy Policy',     url: '/privacy' },
+      { label: 'Affiliate Disclosure', url: '/disclosure' },
     ],
   },
 ];
+
+const socialLinks = [
+  { key: 'instagram', label: 'Instagram', url: soc.instagram, icon: `<svg viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>` },
+  { key: 'pinterest', label: 'Pinterest', url: soc.pinterest, icon: `<svg viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>` },
+  { key: 'twitter',   label: 'X / Twitter', url: soc.twitter, icon: `<svg viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.259 5.63L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg>` },
+  { key: 'tiktok',   label: 'TikTok', url: soc.tiktok, icon: `<svg viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.3 6.3 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.18 8.18 0 004.78 1.52V6.76a4.85 4.85 0 01-1.01-.07z"/></svg>` },
+].filter(s => s.url);
 ---
 
 <footer class="bg-warm-100 border-t border-warm-200 mt-20">
@@ -40,20 +59,20 @@ const columns = [
     <!-- Top row -->
     <div class="grid grid-cols-1 md:grid-cols-5 gap-10 mb-12">
 
-      <!-- Brand -->
+      <!-- Brand column -->
       <div class="md:col-span-2">
-        <a href="/" class="inline-flex items-center gap-2 mb-5 group">
+        <a href="/" class="inline-flex items-center gap-2 mb-4 group">
           <span class="text-gold-500 text-lg">✦</span>
           <span class="font-display text-xl font-bold text-warm-950 group-hover:text-warm-700 transition-colors">
-            StayAtNiche
+            {siteName}
           </span>
         </a>
         <p class="font-body text-warm-600 text-sm leading-relaxed max-w-xs mb-5">
-          Curating the world's most extraordinary stays — from treetops to ocean floors, ancient castles to transparent bubble domes.
+          {tagline}
         </p>
 
         <!-- Trust badges -->
-        <div class="flex flex-wrap gap-2">
+        <div class="flex flex-wrap gap-2 mb-5">
           <span class="inline-flex items-center gap-1.5 bg-white border border-warm-200 rounded-full px-3 py-1.5 text-xs font-body text-warm-600">
             <span class="text-forest-500">✓</span> Booking.com Partner
           </span>
@@ -62,22 +81,38 @@ const columns = [
           </span>
         </div>
 
+        <!-- Social links -->
+        {socialLinks.length > 0 && (
+          <div class="flex items-center gap-2">
+            {socialLinks.map(s => (
+              <a
+                href={s.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={s.label}
+                class="w-8 h-8 bg-white hover:bg-warm-950 border border-warm-200 hover:border-warm-950 rounded-full flex items-center justify-center text-warm-600 hover:text-white transition-all"
+                set:html={s.icon}
+              />
+            ))}
+          </div>
+        )}
+
         <p class="font-body text-warm-400 text-xs mt-4 leading-relaxed">
           We may earn a commission from bookings made through our affiliate links, at no extra cost to you.
         </p>
       </div>
 
-      <!-- Link columns -->
-      {columns.map(col => (
+      <!-- Link columns from navigation settings -->
+      {footerColumns.map((col: any) => (
         <div>
           <h3 class="font-body text-xs font-semibold uppercase tracking-widest text-warm-500 mb-4">
             {col.title}
           </h3>
           <ul class="space-y-2.5">
-            {col.links.map(link => (
+            {col.links.map((link: any) => (
               <li>
                 <a
-                  href={link.href}
+                  href={link.url}
                   class="font-body text-sm text-warm-600 hover:text-warm-950 transition-colors"
                 >
                   {link.label}
@@ -89,13 +124,14 @@ const columns = [
       ))}
     </div>
 
-    <!-- Newsletter mini strip -->
+    <!-- Newsletter strip -->
     <div class="bg-white rounded-2xl border border-warm-200 px-6 py-5 mb-10 flex flex-col sm:flex-row items-center justify-between gap-4">
       <div>
         <p class="font-display text-base font-semibold text-warm-900">Never miss an extraordinary stay</p>
         <p class="font-body text-sm text-warm-500 mt-0.5">Weekly picks, zero spam.</p>
       </div>
       <form class="flex gap-2 w-full sm:w-auto" netlify name="footer-newsletter" method="POST">
+        <input type="hidden" name="form-name" value="footer-newsletter" />
         <input
           type="email"
           name="email"
@@ -115,12 +151,12 @@ const columns = [
     <!-- Bottom bar -->
     <div class="border-t border-warm-200 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
       <p class="font-body text-warm-400 text-xs">
-        &copy; {year} StayAtNiche. All rights reserved.
+        &copy; {year} {siteName}. All rights reserved.
       </p>
       <div class="flex items-center gap-4">
-        <a href="/privacy" class="font-body text-warm-400 hover:text-warm-700 text-xs transition-colors">Privacy</a>
-        <a href="/disclosure" class="font-body text-warm-400 hover:text-warm-700 text-xs transition-colors">Affiliate Disclosure</a>
-        <a href="/admin" class="font-body text-warm-300 hover:text-warm-500 text-xs transition-colors">Admin</a>
+        <a href="/privacy"     class="font-body text-warm-400 hover:text-warm-700 text-xs transition-colors">Privacy</a>
+        <a href="/disclosure"  class="font-body text-warm-400 hover:text-warm-700 text-xs transition-colors">Affiliate Disclosure</a>
+        <a href="/admin"       class="font-body text-warm-300 hover:text-warm-500 text-xs transition-colors">Admin</a>
       </div>
     </div>
   </div>

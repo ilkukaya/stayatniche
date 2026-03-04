@@ -1,46 +1,124 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { getEntry } from 'astro:content';
 
 interface Props {
   title: string;
   description?: string;
   image?: string;
+  noIndex?: boolean;
+  type?: 'website' | 'article';
 }
 
 const {
   title,
-  description = "Discover the world's most extraordinary stays — from treehouses to underwater rooms, castles to caves.",
-  image = '/images/og-default.jpg',
+  description,
+  image,
+  noIndex = false,
+  type = 'website',
 } = Astro.props;
 
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site || 'https://stayatniche.com');
-const fullTitle = title.includes('StayAtNiche') ? title : `${title} | StayAtNiche`;
+// Load settings from CMS
+const seoSettings  = await getEntry('settings', 'seo').catch(() => null);
+const genSettings  = await getEntry('settings', 'general').catch(() => null);
+const analyticsSettings = await getEntry('settings', 'analytics').catch(() => null);
+
+const seo  = seoSettings?.data  ?? {};
+const gen  = genSettings?.data  ?? {};
+const analytics = analyticsSettings?.data ?? {};
+
+const siteName    = gen.siteName    || 'StayAtNiche';
+const lang        = gen.language    || 'en';
+const canonical   = seo.canonicalUrl || 'https://stayatniche.com';
+
+const metaDesc = description || seo.defaultDescription ||
+  "Discover the world's most extraordinary stays — from treehouses to underwater rooms, castles to caves.";
+
+const ogImage = image || seo.defaultOgImage ||
+  'https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1200&h=630&q=80&auto=format&fit=crop';
+
+const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site || canonical);
+
+const twitterHandle = seo.twitterHandle || '@stayatniche';
+const googleVerif   = seo.googleVerification || '';
+const bingVerif     = seo.bingVerification || '';
+
+const ga4Id    = analytics.ga4Id    || '';
+const gtmId    = analytics.gtmId    || '';
+const clarityId = analytics.clarityId || '';
+const plausibleDomain = analytics.plausibleDomain || '';
 ---
 
 <!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
+<html lang={lang} class="scroll-smooth">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
 
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDesc} />
     <link rel="canonical" href={canonicalUrl} />
+    {noIndex && <meta name="robots" content="noindex,nofollow" />}
+    {googleVerif && <meta name="google-site-verification" content={googleVerif} />}
+    {bingVerif   && <meta name="msvalidate.01"            content={bingVerif} />}
 
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content={canonicalUrl} />
-    <meta property="og:title" content={fullTitle} />
-    <meta property="og:description" content={description} />
-    <meta property="og:image" content={image} />
-    <meta property="og:site_name" content="StayAtNiche" />
+    <!-- Open Graph -->
+    <meta property="og:type"        content={type} />
+    <meta property="og:url"         content={canonicalUrl} />
+    <meta property="og:title"       content={fullTitle} />
+    <meta property="og:description" content={metaDesc} />
+    <meta property="og:image"       content={ogImage} />
+    <meta property="og:site_name"   content={siteName} />
+    <meta property="og:locale"      content="en_US" />
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={fullTitle} />
-    <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={image} />
+    <!-- Twitter / X -->
+    <meta name="twitter:card"        content="summary_large_image" />
+    <meta name="twitter:site"        content={twitterHandle} />
+    <meta name="twitter:title"       content={fullTitle} />
+    <meta name="twitter:description" content={metaDesc} />
+    <meta name="twitter:image"       content={ogImage} />
 
+    <!-- Structured Data: Organization -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": siteName,
+      "url": canonical,
+      "logo": `${canonical}/logo.svg`,
+      "sameAs": [
+        "https://instagram.com/stayatniche",
+        "https://pinterest.com/stayatniche",
+        "https://twitter.com/stayatniche"
+      ]
+    })} />
+
+    <!-- Google Tag Manager (head) -->
+    {gtmId && (
+      <script set:html={`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','${gtmId}');`} />
+    )}
+
+    <!-- Google Analytics 4 (direct, no GTM) -->
+    {ga4Id && !gtmId && (
+      <Fragment>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`}></script>
+        <script set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga4Id}');`} />
+      </Fragment>
+    )}
+
+    <!-- Microsoft Clarity -->
+    {clarityId && (
+      <script set:html={`(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","${clarityId}");`} />
+    )}
+
+    <!-- Plausible Analytics -->
+    {plausibleDomain && (
+      <script defer data-domain={plausibleDomain} src="https://plausible.io/js/script.js"></script>
+    )}
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -61,6 +139,19 @@ const fullTitle = title.includes('StayAtNiche') ? title : `${title} | StayAtNich
     </style>
   </head>
   <body class="bg-warm-50 text-warm-900 font-body antialiased">
+
+    <!-- Google Tag Manager (noscript) -->
+    {gtmId && (
+      <noscript>
+        <iframe
+          src={`https://www.googletagmanager.com/ns.html?id=${gtmId}`}
+          height="0"
+          width="0"
+          style="display:none;visibility:hidden"
+        ></iframe>
+      </noscript>
+    )}
+
     <Header />
     <main class="pt-16 md:pt-[104px]">
       <slot />
