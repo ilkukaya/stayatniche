@@ -1,16 +1,20 @@
 ---
+coverImage: /images/6e7d5558-b366-467e-bb98-42494dae5374.jpg
+featured: true
+order: 2
+metaTitle: Cave Hotels & Cave Stays | StayAtNiche
+metaDescription: Experience the magic of cave hotels in Cappadocia, Santorini,
+  and around the world. Ancient rock-carved suites with modern luxury.
 title: Cave Hotels
-description: Carved into ancient rock formations, cave hotels offer a once-in-a-lifetime experience. Turkey's Cappadocia leads the way with its fairy chimney suites, while other cave retreats span Greece, Spain, and beyond.
-icon: "cave"
-coverImage: "https://images.unsplash.com/photo-1601427304100-a28b2b6b8ca8?w=800&q=80&auto=format&fit=crop"
+description: Carved into ancient rock formations, cave hotels offer a
+  once-in-a-lifetime experience. Turkey's Cappadocia leads the way with its
+  fairy chimney suites, while other cave retreats span Greece, Spain, and
+  beyond.
+icon: cave
 stats:
   hotelCount: 32
   avgPrice: 280
   topDestination: Cappadocia, Turkey
-featured: true
-order: 2
-metaTitle: Cave Hotels & Cave Stays | StayAtNiche
-metaDescription: Experience the magic of cave hotels in Cappadocia, Santorini, and around the world. Ancient rock-carved suites with modern luxury.
 ---
 
 Carved from the living rock over centuries, cave hotels invite you to sleep inside the earth itself. These extraordinary stays maintain a natural temperature year-round and offer a sense of timelessness that no conventional hotel can match.
