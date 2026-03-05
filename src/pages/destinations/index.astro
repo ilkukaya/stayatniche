@@ -10,6 +10,15 @@ const continentLabels: Record<string, string> = {
   'europe': 'Europe', 'asia': 'Asia', 'north-america': 'North America',
   'south-america': 'South America', 'africa': 'Africa', 'oceania': 'Oceania', 'middle-east': 'Middle East',
 };
+
+// Group destinations by continent
+const byContinent = continents.reduce((acc, c) => {
+  acc[c] = sorted.filter(d => d.data.continent === c);
+  return acc;
+}, {} as Record<string, typeof sorted>);
+
+// Destinations without a continent mapping go to "other"
+const uncategorized = sorted.filter(d => !continents.includes(d.data.continent));
 ---
 
 <BaseLayout
@@ -49,7 +58,7 @@ const continentLabels: Record<string, string> = {
     </div>
   </section>
 
-  <!-- Destinations grid -->
+  <!-- Destinations grouped by continent -->
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
     {sorted.length === 0 ? (
       <div class="text-center py-20">
@@ -60,41 +69,71 @@ const continentLabels: Record<string, string> = {
         </a>
       </div>
     ) : (
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-        {sorted.map(dest => (
-          <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
-            <div class="relative h-48 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
-              {dest.data.coverImage ? (
-                <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
-              ) : (
-                <div class="absolute inset-0 bg-gradient-to-br from-warm-100 to-forest-100" />
-              )}
-              <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
-              <div class="absolute bottom-0 inset-x-0 p-4">
-                <h3 class="font-display text-xl font-bold text-white leading-tight">{dest.data.name}</h3>
-                {dest.data.continent && (
-                  <span class="font-body text-white/70 text-xs">{continentLabels[dest.data.continent] || dest.data.continent}</span>
-                )}
-              </div>
-              {dest.data.featured && (
-                <div class="absolute top-3 right-3 bg-gold-500 text-white text-xs font-body font-bold px-2.5 py-1 rounded-full">Featured</div>
-              )}
+      <div>
+        {continents.filter(c => byContinent[c]?.length > 0).map(continent => (
+          <div id={continent} class="mb-16 scroll-mt-48">
+            <div class="flex items-center gap-3 mb-6">
+              <h2 class="font-display text-2xl font-bold text-warm-950">{continentLabels[continent]}</h2>
+              <span class="font-body text-warm-400 text-sm">({byContinent[continent].length})</span>
             </div>
-            <div class="p-5">
-              {dest.data.description && (
-                <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2 mb-4">{dest.data.description}</p>
-              )}
-              <div class="flex flex-wrap gap-2">
-                {dest.data.bestTimeToVisit?.summary && (
-                  <span class="font-body text-xs text-warm-500 bg-warm-100 px-2.5 py-1 rounded-full">Best: {dest.data.bestTimeToVisit.summary}</span>
-                )}
-                {dest.data.type && (
-                  <span class="font-body text-xs text-forest-600 bg-forest-50 border border-forest-100 px-2.5 py-1 rounded-full capitalize">{dest.data.type}</span>
-                )}
-              </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {byContinent[continent].map(dest => (
+                <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
+                  <div class="relative h-48 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
+                    {dest.data.coverImage ? (
+                      <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    ) : (
+                      <div class="absolute inset-0 bg-gradient-to-br from-warm-100 to-forest-100" />
+                    )}
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
+                    <div class="absolute bottom-0 inset-x-0 p-4">
+                      <h3 class="font-display text-xl font-bold text-white leading-tight">{dest.data.name}</h3>
+                    </div>
+                    {dest.data.featured && (
+                      <div class="absolute top-3 right-3 bg-gold-500 text-white text-xs font-body font-bold px-2.5 py-1 rounded-full">Featured</div>
+                    )}
+                  </div>
+                  <div class="p-5">
+                    {dest.data.description && (
+                      <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2 mb-4">{dest.data.description}</p>
+                    )}
+                    <div class="flex flex-wrap gap-2">
+                      {dest.data.bestTimeToVisit?.summary && (
+                        <span class="font-body text-xs text-warm-500 bg-warm-100 px-2.5 py-1 rounded-full">Best: {dest.data.bestTimeToVisit.summary}</span>
+                      )}
+                      {dest.data.type && (
+                        <span class="font-body text-xs text-forest-600 bg-forest-50 border border-forest-100 px-2.5 py-1 rounded-full capitalize">{dest.data.type}</span>
+                      )}
+                    </div>
+                  </div>
+                </a>
+              ))}
             </div>
-          </a>
+          </div>
         ))}
+        {uncategorized.length > 0 && (
+          <div class="mb-16">
+            <h2 class="font-display text-2xl font-bold text-warm-950 mb-6">Other Destinations</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {uncategorized.map(dest => (
+                <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
+                  <div class="relative h-48 overflow-hidden bg-gradient-to-br from-warm-100 to-forest-100">
+                    {dest.data.coverImage && (
+                      <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    )}
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
+                    <div class="absolute bottom-0 inset-x-0 p-4">
+                      <h3 class="font-display text-xl font-bold text-white leading-tight">{dest.data.name}</h3>
+                    </div>
+                  </div>
+                  <div class="p-5">
+                    {dest.data.description && <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2">{dest.data.description}</p>}
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     )}
   </section>

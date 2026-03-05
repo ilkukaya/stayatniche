@@ -14,9 +14,9 @@ export async function getStaticPaths() {
 const { experience } = Astro.props;
 const { Content } = await experience.render();
 
-const allHotels = await getCollection('hotels');
+const allHotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
 const relatedHotels = allHotels
-  .filter(h => h.data.category === experience.data.category || h.data.featured)
+  .filter(h => h.data.featured)
   .slice(0, 4);
 
 const seo = experience.data.seo || {};
@@ -72,35 +72,33 @@ const metaDesc = seo.metaDescription || experience.data.description;
         <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-7 sticky top-24">
           <h3 class="font-body text-xs font-semibold uppercase tracking-widest text-warm-500 mb-5">Experience Details</h3>
           <div class="space-y-4">
-            {experience.data.duration && (
+            {experience.data.booking?.duration && (
               <div class="flex justify-between items-center pb-4 border-b border-warm-100">
                 <span class="font-body text-warm-600 text-sm">Duration</span>
-                <span class="font-display text-warm-900 font-bold text-sm">{experience.data.duration}</span>
+                <span class="font-display text-warm-900 font-bold text-sm">{experience.data.booking.duration}</span>
               </div>
             )}
-            {experience.data.difficulty && (
-              <div class="flex justify-between items-center pb-4 border-b border-warm-100">
-                <span class="font-body text-warm-600 text-sm">Difficulty</span>
-                <span class="font-display text-warm-900 font-bold text-sm">{experience.data.difficulty}</span>
-              </div>
-            )}
-            {experience.data.price && (
+            {experience.data.booking?.price && (
               <div class="flex justify-between items-center pb-4 border-b border-warm-100">
                 <span class="font-body text-warm-600 text-sm">Price From</span>
-                <span class="font-display text-gold-600 font-bold text-lg">{experience.data.price}</span>
+                <span class="font-display text-gold-600 font-bold text-lg">{experience.data.booking.price}</span>
               </div>
             )}
-            {experience.data.location && (
-              <div class="flex justify-between items-center">
-                <span class="font-body text-warm-600 text-sm">Location</span>
-                <span class="font-display text-warm-900 font-bold text-sm text-right max-w-[130px] leading-tight">{experience.data.location}</span>
+            {experience.data.booking?.provider && (
+              <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+                <span class="font-body text-warm-600 text-sm">Provider</span>
+                <span class="font-display text-warm-900 font-bold text-sm capitalize">{experience.data.booking.provider}</span>
               </div>
             )}
+            <div class="flex justify-between items-center">
+              <span class="font-body text-warm-600 text-sm">Location</span>
+              <span class="font-display text-warm-900 font-bold text-sm text-right max-w-[130px] leading-tight">{experience.data.destination}, {experience.data.country}</span>
+            </div>
           </div>
 
-          {experience.data.bookingUrl && (
+          {experience.data.booking?.url && (
             <a
-              href={experience.data.bookingUrl}
+              href={experience.data.booking.url}
               target="_blank"
               rel="noopener noreferrer nofollow"
               class="block w-full text-center mt-6 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-6 py-3 rounded-full transition-all hover:shadow-lg"

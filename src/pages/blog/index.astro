@@ -51,11 +51,11 @@ const categories = [
   <section class="border-b border-warm-200 bg-white sticky top-[104px] z-10">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
       <div class="flex items-center gap-2 overflow-x-auto scrollbar-hide">
-        <a href="/blog" class="flex-shrink-0 font-body text-xs font-semibold bg-warm-950 text-white px-4 py-2 rounded-full">All</a>
+        <button data-filter="all" class="filter-pill flex-shrink-0 font-body text-xs font-semibold bg-warm-950 text-white px-4 py-2 rounded-full">All</button>
         {categories.map(cat => (
-          <a href={`/blog?type=${cat.value}`} class="flex-shrink-0 font-body text-xs text-warm-600 hover:text-warm-950 border border-warm-200 hover:border-warm-400 px-4 py-2 rounded-full transition-all whitespace-nowrap">
+          <button data-filter={cat.value} class="filter-pill flex-shrink-0 font-body text-xs text-warm-600 hover:text-warm-950 border border-warm-200 hover:border-warm-400 px-4 py-2 rounded-full transition-all whitespace-nowrap">
             {cat.label}
-          </a>
+          </button>
         ))}
       </div>
     </div>
@@ -68,9 +68,9 @@ const categories = [
         <span class="text-gold-500">✦</span>
         <h2 class="font-display text-2xl font-bold text-warm-950">Editor's Picks</h2>
       </div>
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6" id="featured-grid">
         {featured.slice(0, 2).map(post => (
-          <a href={`/blog/${post.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100 flex flex-col">
+          <a href={`/blog/${post.slug}`} data-category={post.data.category} class="post-card group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100 flex flex-col">
             <div class="relative h-56 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
               {post.data.coverImage ? (
                 <img src={post.data.coverImage} alt={post.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
@@ -115,9 +115,9 @@ const categories = [
       ) : (
         <>
           {recent.length > 0 && <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">All Articles</h2>}
-          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5" id="posts-grid">
             {(recent.length > 0 ? recent : published).map(post => (
-              <a href={`/blog/${post.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
+              <a href={`/blog/${post.slug}`} data-category={post.data.category} class="post-card group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
                 <div class="relative h-44 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
                   {post.data.coverImage ? (
                     <img src={post.data.coverImage} alt={post.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
@@ -148,6 +148,45 @@ const categories = [
           </div>
         </>
       )}
+      <p id="no-results" class="hidden text-center py-16 font-body text-warm-400 text-lg">No articles found in this category.</p>
     </div>
   </section>
 </BaseLayout>
+
+<script>
+  const pills = document.querySelectorAll<HTMLButtonElement>('.filter-pill');
+  const cards = document.querySelectorAll<HTMLElement>('.post-card');
+  const featuredGrid = document.getElementById('featured-grid');
+  const noResults = document.getElementById('no-results');
+
+  pills.forEach(pill => {
+    pill.addEventListener('click', () => {
+      const filter = pill.dataset.filter ?? 'all';
+
+      // Update active pill styles
+      pills.forEach(p => {
+        p.classList.remove('bg-warm-950', 'text-white', 'font-semibold');
+        p.classList.add('text-warm-600', 'border', 'border-warm-200');
+      });
+      pill.classList.add('bg-warm-950', 'text-white', 'font-semibold');
+      pill.classList.remove('text-warm-600', 'border', 'border-warm-200');
+
+      // Filter cards
+      let visible = 0;
+      cards.forEach(card => {
+        const match = filter === 'all' || card.dataset.category === filter;
+        card.style.display = match ? '' : 'none';
+        if (match) visible++;
+      });
+
+      // Show/hide featured section based on filter
+      if (featuredGrid) {
+        featuredGrid.style.display = filter === 'all' ? '' : 'none';
+        featuredGrid.parentElement!.style.display = filter === 'all' ? '' : 'none';
+      }
+
+      // No results message
+      if (noResults) noResults.classList.toggle('hidden', visible > 0);
+    });
+  });
+</script>

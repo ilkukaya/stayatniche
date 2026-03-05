@@ -219,16 +219,36 @@ const hotelJsonLd = {
     </div>
   </section>
 
-  <!-- Large image placeholder -->
+  <!-- Cover image / Gallery -->
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-    <div class="rounded-3xl bg-gradient-to-br from-warm-100 to-warm-200 border border-warm-200 h-72 sm:h-96 flex items-center justify-center overflow-hidden relative">
-      <div class="absolute inset-0 flex items-center justify-center">
-        <span class="text-[160px] opacity-20 select-none">{catIcon}</span>
+    {hotel.data.coverImage ? (
+      <div class="rounded-3xl overflow-hidden h-72 sm:h-96 relative">
+        <img
+          src={hotel.data.coverImage}
+          alt={hotel.data.name}
+          class="w-full h-full object-cover"
+          loading="eager"
+        />
       </div>
-      <div class="relative text-center">
-        <p class="font-body text-warm-400 text-sm">Photo gallery coming soon</p>
+    ) : (
+      <div class="rounded-3xl bg-gradient-to-br from-warm-100 to-warm-200 border border-warm-200 h-72 sm:h-96 flex items-center justify-center overflow-hidden relative">
+        <div class="absolute inset-0 flex items-center justify-center">
+          <span class="text-[160px] opacity-20 select-none">{catIcon}</span>
+        </div>
+        <div class="relative text-center">
+          <p class="font-body text-warm-400 text-sm">Photo coming soon</p>
+        </div>
       </div>
-    </div>
+    )}
+    {hotel.data.gallery && hotel.data.gallery.length > 0 && (
+      <div class="grid grid-cols-3 sm:grid-cols-4 gap-2 mt-2">
+        {hotel.data.gallery.slice(0, 8).map((img: string) => (
+          <div class="rounded-xl overflow-hidden aspect-square">
+            <img src={img} alt={hotel.data.name} class="w-full h-full object-cover hover:scale-105 transition-transform duration-300" loading="lazy" />
+          </div>
+        ))}
+      </div>
+    )}
   </section>
 
   <!-- Detailed content -->
@@ -331,13 +351,29 @@ const hotelJsonLd = {
               <p class="font-body text-warm-400 text-xs">{hotel.data.country}</p>
             </div>
           </div>
-          {hotel.data.coordinates && (
-            <p class="font-body text-warm-400 text-xs">
-              {hotel.data.coordinates.lat.toFixed(4)}°, {hotel.data.coordinates.lng.toFixed(4)}°
-            </p>
-          )}
           {hotel.data.address && (
-            <p class="font-body text-warm-500 text-sm mt-2">{hotel.data.address}</p>
+            <p class="font-body text-warm-500 text-sm mt-1 mb-3">{hotel.data.address}</p>
+          )}
+          {hotel.data.coordinates ? (
+            <a
+              href={`https://www.google.com/maps/search/?api=1&query=${hotel.data.coordinates.lat},${hotel.data.coordinates.lng}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="flex items-center justify-center gap-2 w-full border border-warm-200 hover:border-forest-400 hover:bg-forest-50 text-warm-700 hover:text-forest-700 font-body text-sm font-medium px-4 py-2.5 rounded-xl transition-all mt-2"
+            >
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+              View on Google Maps
+            </a>
+          ) : (
+            <a
+              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hotel.data.name + ' ' + hotel.data.destination)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="flex items-center justify-center gap-2 w-full border border-warm-200 hover:border-forest-400 hover:bg-forest-50 text-warm-700 hover:text-forest-700 font-body text-sm font-medium px-4 py-2.5 rounded-xl transition-all mt-2"
+            >
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+              View on Google Maps
+            </a>
           )}
         </div>
       <!-- Nearby attractions -->
