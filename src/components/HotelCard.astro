@@ -37,6 +37,8 @@ const categoryMeta: Record<string, { color: string; bg: string; fallback: string
   'ice-hotels':          { color: 'text-blue-700',   bg: 'bg-blue-50',    fallback: 'from-blue-100 to-blue-200' },
   'safari-lodges':       { color: 'text-yellow-700', bg: 'bg-yellow-50',  fallback: 'from-yellow-100 to-yellow-200' },
   'overwater-bungalows': { color: 'text-rose-700',   bg: 'bg-rose-50',    fallback: 'from-rose-100 to-rose-200' },
+  'lighthouse-hotels':   { color: 'text-sky-700',    bg: 'bg-sky-50',     fallback: 'from-sky-100 to-sky-200' },
+  'train-hotels':        { color: 'text-violet-700', bg: 'bg-violet-50',  fallback: 'from-violet-100 to-violet-200' },
 };
 const meta = categoryMeta[category] || { color: 'text-gold-700', bg: 'bg-gold-50', fallback: 'from-warm-100 to-warm-200' };
 const ratingDisplay = rating?.toFixed(1) ?? '—';
