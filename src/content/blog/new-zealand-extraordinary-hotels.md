@@ -17,7 +17,7 @@ sponsored: false
 relatedHotels: []
 status: published
 seo:
-  metaTitle:="New Zealand Extraordinary Hotels & Lodges Guide 2025 | StayAtNiche"
+  metaTitle: "New Zealand Extraordinary Hotels & Lodges Guide 2025 | StayAtNiche"
   metaDescription: "New Zealand's most extraordinary places to stay — treehouse lodges, remote wilderness retreats, island escapes, and luxury lodges with world-class wildlife access."
 ---
 

@@ -13,7 +13,7 @@ highlights:
   - Sixteen luxury pavilions on a private red-sand dune
   - All-inclusive dining with Indigenous-inspired Outback cuisine
   - Exclusive guided access to Uluru and Kata Tjuta with Anangu cultural interpretation
-  - Field of Light — Uluru: exclusive dinner experience within the installation
+  - "Field of Light — Uluru: exclusive dinner experience within the installation"
   - Dune Top dining — private dinner on the sand dune as the sun sets over Uluru
   - Night sky observatory — some of the darkest skies in Australia
   - Private guiding team with deep knowledge of Anangu culture

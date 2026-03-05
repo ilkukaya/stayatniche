@@ -22,7 +22,7 @@ included:
   - Dog team (6-8 huskies) and wooden sled per pair of participants
   - All winter clothing if needed (insulated oversuit, boots, gloves, balaclava)
   - Wilderness lunch at a heated trapper's cabin
-  - Team care: feeding, harnessing, and handling the dogs
+  - "Team care: feeding, harnessing, and handling the dogs"
   - Safety briefing and emergency protocols
 notIncluded:
   - Personal travel insurance
