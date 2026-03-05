@@ -51,6 +51,6 @@ Several properties occupy former merchant family homes with interior courtyards 
 
 ## The Caribbean Beyond the Walls
 
-The Rosario Islands, 35 kilometers offshore, are a national marine park of small coral islands and clear water. The islands range from uninhabited sandbars to private island retreats with overwater bungalows and reef snorkeling from the dock. Day trips are heavily subscribed and crowded; staying overnight at one of the island lodges — particularly on the smaller outer islands — gives access to the reefs before and after the day-trippers arrive.
+The Rosario Islands, 35 kilometers offshore, are a national marine park of small coral islands and clear water. The islands range from uninhabited sandbars to private island retreats with [overwater bungalows](/categories/overwater-bungalows) and reef snorkeling from the dock. Day trips are heavily subscribed and crowded; staying overnight at one of the island lodges — particularly on the smaller outer islands — gives access to the reefs before and after the day-trippers arrive.
 
 Barú Peninsula, closer to the mainland, offers broad white-sand beaches with a more local atmosphere. The food is better — fresh seafood cooked over wood fires by vendors who have been working the beach for decades — and the pace is slower.
