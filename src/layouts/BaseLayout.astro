@@ -7,6 +7,7 @@ interface Props {
   title: string;
   description?: string;
   image?: string;
+  heroImage?: string;
   noIndex?: boolean;
   type?: 'website' | 'article';
 }
@@ -15,6 +16,7 @@ const {
   title,
   description,
   image,
+  heroImage,
   noIndex = false,
   type = 'website',
 } = Astro.props;
@@ -71,6 +73,8 @@ const plausibleDomain = analytics.plausibleDomain || '';
     <meta property="og:title"       content={fullTitle} />
     <meta property="og:description" content={metaDesc} />
     <meta property="og:image"       content={ogImage} />
+    <meta property="og:image:width"  content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:site_name"   content={siteName} />
     <meta property="og:locale"      content="en_US" />
 
@@ -116,6 +120,10 @@ const plausibleDomain = analytics.plausibleDomain || '';
     <!-- Plausible Analytics -->
     {plausibleDomain && (
       <script defer data-domain={plausibleDomain} src="https://plausible.io/js/script.js"></script>
+    )}
+
+    {heroImage && (
+      <link rel="preload" as="image" href={heroImage} fetchpriority="high" />
     )}
 
     <!-- Fonts -->

@@ -45,6 +45,9 @@ const fb = fallbacks[slug] || { from: 'from-warm-100', to: 'to-warm-200' };
         alt={title}
         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
         loading="lazy"
+        decoding="async"
+        width="400"
+        height="192"
       />
     ) : (
       <div class:list={['w-full h-full bg-gradient-to-br flex items-center justify-center', fb.from, fb.to]}>

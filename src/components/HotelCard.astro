@@ -50,7 +50,7 @@ const categoryLabel = category?.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpp
   <!-- Image -->
   <a href={`/hotels/${slug}`} class="block relative h-52 overflow-hidden flex-shrink-0">
     {coverImage ? (
-      <img src={coverImage} alt={name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+      <img src={coverImage} alt={name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" decoding="async" width="400" height="208" />
     ) : (
       <div class:list={['absolute inset-0 bg-gradient-to-br', meta.fallback]} />
     )}

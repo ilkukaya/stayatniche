@@ -72,7 +72,7 @@ const hotelJsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc}>
+<BaseLayout title={metaTitle} description={metaDesc} heroImage={hotel.data.coverImage}>
 
   <script type="application/ld+json" set:html={JSON.stringify(hotelJsonLd)} />
 
