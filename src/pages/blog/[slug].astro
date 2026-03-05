@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await post.render();
 
-const allHotels = await getCollection('hotels');
+const allHotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
 const relatedHotels = post.data.relatedHotels?.length
   ? allHotels.filter(h => post.data.relatedHotels.includes(h.slug))
   : allHotels.filter(h => h.data.featured).slice(0, 4);
@@ -19,9 +19,31 @@ const relatedHotels = post.data.relatedHotels?.length
 const seo = post.data.seo || {};
 const metaTitle = seo.metaTitle || post.data.title;
 const metaDesc  = seo.metaDescription || post.data.excerpt || '';
+
+const articleJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": post.data.title,
+  "description": metaDesc,
+  "url": `https://stayatniche.com/blog/${post.slug}`,
+  "author": {
+    "@type": "Organization",
+    "name": post.data.author || "StayAtNiche Team",
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "StayAtNiche",
+    "logo": { "@type": "ImageObject", "url": "https://stayatniche.com/logo.svg" },
+  },
+  ...(post.data.publishedDate ? { "datePublished": new Date(post.data.publishedDate).toISOString() } : {}),
+  ...(post.data.updatedDate ? { "dateModified": new Date(post.data.updatedDate).toISOString() } : {}),
+  ...(post.data.coverImage ? { "image": post.data.coverImage.startsWith('http') ? post.data.coverImage : `https://stayatniche.com${post.data.coverImage}` } : {}),
+};
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc}>
+<BaseLayout title={metaTitle} description={metaDesc} type="article">
+
+  <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
   <article>
     <!-- Hero -->
     <section class="relative bg-warm-50 overflow-hidden py-14">

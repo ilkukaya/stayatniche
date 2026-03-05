@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 const { dest } = Astro.props;
 const { Content } = await dest.render();
 
-const allHotels = await getCollection('hotels');
+const allHotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
 const localHotels = allHotels.filter(h =>
   h.data.country?.toLowerCase() === dest.data.name?.toLowerCase() ||
   h.data.destination?.toLowerCase().includes(dest.data.name?.toLowerCase() ?? '')

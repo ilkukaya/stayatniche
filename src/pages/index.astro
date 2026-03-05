@@ -4,7 +4,7 @@ import HotelCard from '../components/HotelCard.astro';
 import { getCollection } from 'astro:content';
 
 const allCategories = await getCollection('categories');
-const allHotels     = await getCollection('hotels');
+const allHotels     = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
 
 const sortedCategories = allCategories.sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
 const featuredHotels   = allHotels.filter(h => h.data.featured);

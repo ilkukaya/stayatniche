@@ -15,7 +15,7 @@ export async function getStaticPaths() {
 const { category } = Astro.props;
 const { Content } = await category.render();
 
-const allHotels = await getCollection('hotels');
+const allHotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
 const categoryHotels = allHotels.filter(h => h.data.category === category.slug);
 
 const allCategories = await getCollection('categories');
@@ -151,6 +151,7 @@ const metaDesc  = seo.metaDescription || category.data.metaDescription || catego
           title={cat.data.title}
           description={cat.data.description}
           icon={cat.data.icon}
+          coverImage={cat.data.coverImage}
           slug={cat.slug}
           stats={cat.data.stats}
           featured={cat.data.featured}

@@ -4,7 +4,7 @@ import HotelCard from '../../components/HotelCard.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const hotels = await getCollection('hotels');
+  const hotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
   return hotels.map(hotel => ({
     params: { slug: hotel.slug },
     props: { hotel },
@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 const { hotel } = Astro.props;
 const { Content } = await hotel.render();
 
-const allHotels = await getCollection('hotels');
+const allHotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
 const relatedHotels = allHotels
   .filter(h => h.slug !== hotel.slug && h.data.category === hotel.data.category)
   .slice(0, 4);
@@ -42,9 +42,39 @@ const catIcon = categoryIcons[hotel.data.category] || '✦';
 const seo = hotel.data.seo || {};
 const metaTitle = seo.metaTitle || `${hotel.data.name} — ${hotel.data.destination} | StayAtNiche`;
 const metaDesc  = seo.metaDescription || hotel.data.description;
+
+const hotelJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "LodgingBusiness",
+  "name": hotel.data.name,
+  "description": hotel.data.description,
+  "url": `https://stayatniche.com/hotels/${hotel.slug}`,
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": hotel.data.destination,
+    "addressCountry": hotel.data.country,
+  },
+  ...(hotel.data.coordinates ? {
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": hotel.data.coordinates.lat,
+      "longitude": hotel.data.coordinates.lng,
+    }
+  } : {}),
+  ...(hotel.data.coverImage ? { "image": hotel.data.coverImage.startsWith('http') ? hotel.data.coverImage : `https://stayatniche.com${hotel.data.coverImage}` } : {}),
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": hotel.data.rating,
+    "bestRating": 10,
+    "ratingCount": hotel.data.reviewCount,
+  },
+  "priceRange": hotel.data.priceRange,
+};
 ---
 
 <BaseLayout title={metaTitle} description={metaDesc}>
+
+  <script type="application/ld+json" set:html={JSON.stringify(hotelJsonLd)} />
 
   <!-- Hero -->
   <section class="relative bg-warm-50 overflow-hidden pt-8 pb-12">
@@ -310,6 +340,23 @@ const metaDesc  = seo.metaDescription || hotel.data.description;
             <p class="font-body text-warm-500 text-sm mt-2">{hotel.data.address}</p>
           )}
         </div>
+      <!-- Nearby attractions -->
+        {hotel.data.nearbyAttractions.length > 0 && (
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6">
+            <h3 class="font-display text-lg font-bold text-warm-950 mb-4">Nearby Attractions</h3>
+            <div class="space-y-2.5">
+              {hotel.data.nearbyAttractions.map((attraction: any) => (
+                <div class="flex items-start justify-between gap-3">
+                  <div class="flex items-start gap-2">
+                    <span class="text-gold-400 text-xs mt-1 flex-shrink-0">✦</span>
+                    <span class="font-body text-warm-700 text-sm">{attraction.name}</span>
+                  </div>
+                  <span class="font-body text-warm-400 text-xs flex-shrink-0 mt-0.5">{attraction.distance}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   </section>
@@ -319,7 +366,7 @@ const metaDesc  = seo.metaDescription || hotel.data.description;
     <div class="flex items-center gap-3 max-w-lg mx-auto">
       <div class="flex-1 min-w-0">
         <p class="font-body text-warm-400 text-xs">From</p>
-        <p class="font-display font-bold text-warm-950 text-base truncate">{hotel.data.priceRange.split(' - ')[0]}<span class="font-body text-warm-400 text-xs font-normal"> / night</span></p>
+        <p class="font-display font-bold text-warm-950 text-base truncate">{hotel.data.priceRange.split(/\s[-–]\s/)[0]}<span class="font-body text-warm-400 text-xs font-normal"> / night</span></p>
       </div>
       <a
         href={hotel.data.bookingUrl}

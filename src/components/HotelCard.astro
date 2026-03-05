@@ -22,7 +22,7 @@ const {
   highlights, bookingUrl, slug, category, featured, coverImage,
 } = Astro.props;
 
-const startingPrice = priceRange ? priceRange.split(' - ')[0].replace('$', '') : '—';
+const startingPrice = priceRange ? priceRange.split(/\s[-–]\s/)[0].replace('$', '').trim() : '—';
 
 const categoryMeta: Record<string, { color: string; bg: string; fallback: string }> = {
   'treehouse-hotels':    { color: 'text-forest-700', bg: 'bg-forest-50',  fallback: 'from-forest-100 to-forest-200' },
