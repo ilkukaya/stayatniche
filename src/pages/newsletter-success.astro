@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="You're In! | StayAtNiche Newsletter"
+  description="Thank you for subscribing to the StayAtNiche newsletter. Extraordinary stays await."
+  noIndex={true}
+>
+
+  <section class="relative min-h-[80vh] flex items-center bg-warm-50 overflow-hidden">
+    <div class="dot-pattern absolute inset-0 opacity-60 pointer-events-none" />
+    <div class="absolute -top-32 -right-32 w-96 h-96 bg-gold-100/40 rounded-full blur-3xl pointer-events-none" />
+    <div class="absolute -bottom-20 -left-20 w-80 h-80 bg-forest-100/30 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="relative max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center w-full">
+
+      <!-- Success icon -->
+      <div class="w-24 h-24 bg-forest-50 border-2 border-forest-200 rounded-full flex items-center justify-center mx-auto mb-8">
+        <svg class="w-12 h-12 text-forest-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+        </svg>
+      </div>
+
+      <div class="inline-flex items-center gap-2 bg-white border border-warm-200 rounded-full px-4 py-1.5 mb-6 shadow-soft">
+        <span class="text-gold-500">✦</span>
+        <span class="font-body text-warm-600 text-sm">You're on the list</span>
+      </div>
+
+      <h1 class="font-display text-4xl sm:text-5xl font-bold text-warm-950 mb-5 leading-tight">
+        Welcome to the<br /><span class="text-gold-500">Inner Circle</span>
+      </h1>
+      <p class="font-body text-warm-600 text-lg leading-relaxed mb-10 max-w-xl mx-auto">
+        You'll receive your first extraordinary stay recommendation within the week. Keep an eye on your inbox — we don't do ordinary.
+      </p>
+
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a
+          href="/categories"
+          class="inline-flex items-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-8 py-4 rounded-full transition-all hover:shadow-lg"
+        >
+          Browse Extraordinary Stays
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+        <a
+          href="/"
+          class="inline-flex items-center gap-2 bg-white hover:bg-warm-50 text-warm-800 border border-warm-200 font-body font-semibold px-8 py-4 rounded-full transition-all"
+        >
+          Back to Home
+        </a>
+      </div>
+
+      <!-- What to expect next -->
+      <div class="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-4 text-left">
+        {[
+          { icon: "📬", title: "Weekly drops", desc: "Every week: one hand-picked extraordinary stay you probably didn't know existed." },
+          { icon: "🔍", title: "Deep dives", desc: "Occasional long-reads on the most fascinating hotels and destinations in the world." },
+          { icon: "💰", title: "Exclusive rates", desc: "When we find a deal or special package at a partner property, you hear first." },
+        ].map(item => (
+          <div class="bg-white border border-warm-100 rounded-2xl p-5 shadow-soft">
+            <div class="text-2xl mb-3">{item.icon}</div>
+            <h3 class="font-display text-base font-bold text-warm-950 mb-2">{item.title}</h3>
+            <p class="font-body text-warm-500 text-sm leading-relaxed">{item.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

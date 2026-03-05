@@ -1,0 +1,154 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Newsletter — Extraordinary Stays Weekly | StayAtNiche"
+  description="Join 2,400+ travelers who get weekly hand-picks of the world's most extraordinary hotels. Free, no spam, unsubscribe anytime."
+>
+
+  <!-- Hero -->
+  <section class="relative bg-warm-50 overflow-hidden py-20">
+    <div class="dot-pattern absolute inset-0 opacity-60 pointer-events-none" />
+    <div class="absolute -top-32 -right-32 w-96 h-96 bg-gold-100/40 rounded-full blur-3xl pointer-events-none" />
+    <div class="absolute -bottom-20 -left-20 w-80 h-80 bg-forest-100/30 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300">/</span>
+        <span class="text-warm-800 font-medium">Newsletter</span>
+      </nav>
+
+      <div class="inline-flex items-center gap-2 bg-white border border-warm-200 rounded-full px-4 py-1.5 mb-6 shadow-soft">
+        <span class="w-2 h-2 rounded-full bg-forest-500 animate-pulse" />
+        <span class="font-body text-warm-600 text-sm font-medium">Free weekly newsletter</span>
+      </div>
+
+      <h1 class="font-display text-5xl sm:text-6xl font-bold text-warm-950 mb-6 leading-tight">
+        Never Miss an<br /><span class="text-gold-500">Extraordinary Stay</span>
+      </h1>
+      <p class="font-body text-warm-600 text-xl max-w-2xl mx-auto leading-relaxed mb-12">
+        Every week, one hand-picked extraordinary accommodation you probably didn't know existed — treehouses, underwater rooms, glass igloos, cliff-edge infinity pools. No filler. Just wonder.
+      </p>
+
+      <!-- Sign up form -->
+      <div class="bg-white rounded-3xl border border-warm-200 shadow-card-hover p-8 sm:p-10 max-w-xl mx-auto">
+        <form netlify name="newsletter" method="POST" action="/newsletter-success/" class="space-y-4">
+          <input type="hidden" name="form-name" value="newsletter" />
+          <p class="hidden"><label>Don't fill: <input name="bot-field" /></label></p>
+
+          <div>
+            <label for="newsletter-name" class="block font-body text-sm font-medium text-warm-700 mb-1.5 text-left">First Name</label>
+            <input
+              type="text"
+              id="newsletter-name"
+              name="name"
+              placeholder="Jane"
+              class="w-full bg-warm-50 border border-warm-200 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-3 rounded-xl outline-none transition-all"
+            />
+          </div>
+
+          <div>
+            <label for="newsletter-email" class="block font-body text-sm font-medium text-warm-700 mb-1.5 text-left">Email Address *</label>
+            <input
+              type="email"
+              id="newsletter-email"
+              name="email"
+              required
+              placeholder="jane@example.com"
+              class="w-full bg-warm-50 border border-warm-200 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-3 rounded-xl outline-none transition-all"
+            />
+          </div>
+
+          <button
+            type="submit"
+            class="w-full bg-forest-600 hover:bg-forest-700 text-white font-body font-bold text-base px-8 py-4 rounded-full transition-all hover:shadow-lg active:scale-[0.99]"
+          >
+            Subscribe — It's Free
+          </button>
+
+          <p class="font-body text-warm-400 text-xs text-center">
+            No spam, ever. Unsubscribe with one click anytime.<br />
+            Your email is never shared with third parties.
+          </p>
+        </form>
+      </div>
+
+      <!-- Social proof -->
+      <div class="mt-8 flex items-center justify-center gap-2">
+        <div class="flex -space-x-1.5">
+          {[
+            'https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=40&q=80',
+            'https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=40&q=80',
+            'https://images.unsplash.com/photo-1561221694-4ddc9fc73b49?w=40&q=80',
+            'https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=40&q=80',
+          ].map((img, i) => (
+            <img src={img} alt="" class="w-8 h-8 rounded-full border-2 border-white object-cover" loading="lazy" />
+          ))}
+        </div>
+        <span class="font-body text-warm-600 text-sm font-medium">Joined by 2,400+ curious travelers</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- What you get -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <h2 class="font-display text-3xl font-bold text-warm-950 text-center mb-12">
+      What You'll <span class="text-gold-500">Receive</span>
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+      {[
+        {
+          icon: "📬",
+          title: "Weekly Hotel Pick",
+          desc: "Every week, one extraordinary accommodation that stopped us in our tracks. Complete with why we love it, best room, price range, and booking link."
+        },
+        {
+          icon: "🗺️",
+          title: "Destination Deep Dives",
+          desc: "Occasional long-form guides to the world's most extraordinary travel destinations — from Finnish Lapland to Peruvian cloud forests."
+        },
+        {
+          icon: "💡",
+          title: "Insider Tips",
+          desc: "How to book the best room, when to visit, what to pack, and everything the hotel websites don't tell you — straight from our research."
+        }
+      ].map(item => (
+        <div class="bg-white rounded-2xl border border-warm-100 shadow-card p-7 text-center hover:shadow-card-hover transition-shadow">
+          <div class="text-4xl mb-4">{item.icon}</div>
+          <h3 class="font-display text-lg font-bold text-warm-950 mb-3">{item.title}</h3>
+          <p class="font-body text-warm-600 text-sm leading-relaxed">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Sample preview section -->
+  <section class="bg-warm-100 border-y border-warm-200">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <h2 class="font-display text-2xl font-bold text-warm-950 text-center mb-10">
+        From a Recent <span class="text-gold-500">Issue</span>
+      </h2>
+      <div class="bg-white rounded-2xl border border-warm-200 shadow-card overflow-hidden">
+        <div class="bg-warm-950 px-6 py-3 flex items-center gap-2">
+          <span class="text-gold-400 text-sm">✦</span>
+          <span class="font-body text-white/80 text-xs font-semibold uppercase tracking-widest">StayAtNiche Weekly</span>
+        </div>
+        <div class="p-8">
+          <p class="font-body text-warm-500 text-xs font-semibold uppercase tracking-widest mb-2">This week's pick</p>
+          <h3 class="font-display text-2xl font-bold text-warm-950 mb-3">The Hotel That's Invisible From Outside</h3>
+          <p class="font-body text-warm-600 leading-relaxed mb-4">
+            Sweden's Treehotel has a room that perfectly mirrors the surrounding forest — from the outside, it simply disappears. Inside, panoramic windows frame the pine trees of Swedish Lapland from every angle. We've been recommending this one for years and it never gets old.
+          </p>
+          <div class="flex items-center justify-between pt-4 border-t border-warm-100">
+            <span class="font-body text-warm-400 text-sm">Harads, Swedish Lapland</span>
+            <span class="font-body text-warm-700 text-sm font-semibold">$300 - $600/night</span>
+          </div>
+        </div>
+      </div>
+      <p class="text-center font-body text-warm-400 text-sm mt-6">One email like this, every week. That's it.</p>
+    </div>
+  </section>
+
+</BaseLayout>

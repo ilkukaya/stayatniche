@@ -1,7 +1,14 @@
 {
-  "provider": "netlify",
-  "formUrl": "",
-  "listId": "",
-  "successMessage": "You're in! Extraordinary stays are heading to your inbox.",
-  "privacyNote": "No spam, ever. Unsubscribe with one click."
+  "provider": "mailchimp",
+  "mailchimpActionUrl": "",
+  "convertKitFormId": "",
+  "brevoListId": "",
+  "netlifyFormName": "newsletter",
+  "successRedirect": "/newsletter-success/",
+  "title": "Never Miss an Extraordinary Stay",
+  "subtitle": "Weekly hand-picks from the world's most unique hotels. Unsubscribe with one click, anytime.",
+  "buttonText": "Subscribe Free",
+  "badgeText": "No spam. Extraordinary stays only.",
+  "placeholderText": "your@email.com",
+  "socialProof": "Join 2,400+ travelers"
 }

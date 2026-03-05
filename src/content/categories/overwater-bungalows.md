@@ -1,24 +1,42 @@
 ---
 title: Overwater Bungalows
-description: Step directly from your bedroom into a turquoise lagoon. Overwater bungalows — born in French Polynesia, now found across the tropics — are the gold standard of tropical luxury. Glass floors, private sundecks, and direct ocean access define the experience.
-icon: "overwater"
+tagline: Your own private paradise above the lagoon
+description: Step directly from your bedroom into a warm turquoise lagoon. Overwater bungalows — born in French Polynesia and now found across the tropical world — are the gold standard of island luxury. Glass floors revealing the reef below, private sun decks above flawless water, and the ocean as your constant, immersive companion.
+icon: overwater
 coverImage: "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800&q=80&auto=format&fit=crop"
 stats:
-  hotelCount: 43
-  avgPrice: 780
-  topDestination: Maldives
-featured: false
+  hotelCount: 74
+  avgPrice: 720
+  topDestination: "Maldives"
+featured: true
 order: 12
-metaTitle: Overwater Bungalows — The Ultimate Tropical Luxury | StayAtNiche
-metaDescription: Sleep directly above the ocean in the world's finest overwater bungalows. Maldives, Bora Bora, and the Maldives' most exclusive over-water villas.
+seo:
+  metaTitle: Overwater Bungalows — Tropical Luxury Above the Ocean | StayAtNiche
+  metaDescription: Discover the world's finest overwater bungalows in the Maldives, Bora Bora, and beyond. Sleep directly above tropical lagoons in the ultimate island luxury experience.
 ---
 
-The overwater bungalow is perhaps the most photographed hotel concept in the world — and for good reason. Standing at the end of a timber walkway, surrounded entirely by ocean, you have complete privacy combined with complete immersion in one of the planet's most beautiful environments.
+The overwater bungalow is one of the most iconic images in travel — a wooden villa extending over glass-clear tropical water, a staircase descending directly into a lagoon, a private deck where the only decision is whether to watch the sunrise from the sunlounger or from the water directly below. First developed in French Polynesia in the late 1960s as a pragmatic response to limited land on coral atolls, the concept has evolved into perhaps the most aspirational accommodation form in the world, the subject of more travel bucket lists and social media wish-lists than any other single category.
 
-## Why Choose an Overwater Bungalow?
+## The Overwater Bungalow Experience
 
-The glass floor panels showing tropical fish below your living room. The wooden staircase descending directly into a lagoon so clear you can see the sandy bottom at 4 metres depth. Waking to the sound of water on all sides. Overwater bungalows deliver a sensory experience unlike any land-based accommodation.
+What distinguishes an overwater bungalow from every other tropical accommodation is the continuous physical relationship with the water. You are not near the ocean — you are above it, on it, surrounded by it. The sound of water is constant. In still conditions, the surface visible through your glass floor panels is clear to the sandy bottom metres below; tropical fish navigate the coral formations in plain sight from your living room. At night, submersible lights fitted beneath many properties attract plankton, which in turn attracts small fish, creating a private marine display visible through the floor.
 
-## Top Destinations
+The deck is the heart of the overwater bungalow experience. Private, extending over the water on three sides, accessed through bedroom doors that open directly onto it — this is where mornings are spent with coffee, afternoons rested, and sundowners watched. The staircase down into the lagoon removes the psychological barrier between land and sea entirely: there are no beaches to cross, no pools to reach, just four steps down to swimming depth in water that has been warming under a tropical sun all day.
 
-The Maldives has arguably overtaken French Polynesia as the world's overwater bungalow capital, with hundreds of properties across 26 atolls offering everything from accessible mid-range options to extraordinary ultra-luxury villas with private pools. Bora Bora remains the romantic ideal, with Mount Otemanu rising dramatically from the lagoon. The Philippines, Thailand, and Fiji offer more accessible price points without sacrificing the essential experience.
+## Why Choose an Overwater Bungalow
+
+Privacy is paramount. Overwater bungalows are self-contained units separated from their neighbours by water, which creates a sense of isolation that even the most private land-based villa cannot replicate. The view from your deck in any direction contains no other human structure — just water, sky, and occasionally a distant reef break. For couples seeking a genuinely private, romantic setting, this is the gold standard.
+
+The marine access is also unmatched. Snorkelling from your own staircase means encountering reef life in its most undisturbed state — no crowds, no boat noise, no artificial feeding. Hawksbill turtles, reef sharks, rays, and extraordinary fish diversity are regular companions at the best Maldivian and French Polynesian properties.
+
+## Top Overwater Bungalow Destinations
+
+The **Maldives** has become the world's overwater bungalow capital. Spread across 26 atolls, the country's 170-plus resorts offer everything from accessible entry-level overwater options at around $400 per night to extraordinary ultra-luxury villas with private pools, butler service, and in-villa spa facilities at several thousand dollars. The atoll geography — shallow lagoons enclosed by coral reefs — creates the calm, clear, warm water conditions that make the overwater experience most spectacular. Best visited November through April.
+
+**French Polynesia** — particularly Bora Bora with its dramatic volcanic peak, and the quieter atolls of Rangiroa and Fakarava — remains the romantic ideal. The light quality in the Society Islands is extraordinary: a golden softness that makes the already-beautiful lagoons appear luminous. **The Philippines**, **Fiji**, and **Thailand's** Koh Samui and Koh Lanta offer more accessible overwater options that sacrifice little of the essential experience. **The Maldives** and **French Polynesia** represent the pinnacle; the others represent intelligent alternatives.
+
+## Planning Your Overwater Stay
+
+Book at least four to six months in advance for peak season (December–April in the Maldives). Request a central or end-of-pier position rather than a mid-pier bungalow for maximum privacy and unobstructed views. Many resorts offer complimentary snorkelling equipment — bring your own if you have preferences for mask fit.
+
+For guests looking to extend their aquatic experience into the more extreme end of the spectrum, [underwater rooms](/categories/underwater-rooms) offer a submerged counterpart to the overwater perspective, while [floating hotels](/categories/floating-hotels) bring a similar water-immersed sensibility to river and city waterway settings worldwide.
