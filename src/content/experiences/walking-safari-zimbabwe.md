@@ -4,7 +4,7 @@ type: wildlife
 destination: "Hwange National Park"
 country: "Zimbabwe"
 description: "Leave the vehicle behind and walk through one of Africa's greatest wildlife sanctuaries alongside a professional guide who reads the bush at close quarters — tracking lion by the scent of a kill, following elephant sign through mopane woodland, and stopping to examine the micro-world of insects, fungi, and plants that a game drive rolls over without slowing. Hwange's walking safaris are conducted by some of Africa's most experienced guides, in a park that hosts the continent's largest elephant population and a full complement of predators."
-coverImage: /images/experiences/walking-safari-zimbabwe.md.jpg
+coverImage: /images/experiences/walking-safari-zimbabwe.jpg
 booking:
   provider: direct
   url: "https://www.stayatniche.com/contact?experience=walking-safari-zimbabwe"
