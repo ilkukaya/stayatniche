@@ -22,7 +22,7 @@ seo:
   metaDescription: "The definitive first safari guide, best destinations, top safari lodges, when to go, what to pack, and how to plan the trip of a lifetime on any budget."
 ---
 
-Your first African safari will almost certainly be nothing like you expect — and better. A lion 15 metres from your vehicle, regarding you with absolute indifference. An elephant herd crossing the road at dusk, matriarch at the front, calves flanked by aunts. The sound of a hyena at midnight so close it seems impossible. The Africa of documentary footage becomes actual and immediate, and no amount of prior research quite prepares you for it.
+Your first African safari will almost certainly be nothing like you expect, and better. A lion 15 metres from your vehicle, regarding you with absolute indifference. An elephant herd crossing the road at dusk, matriarch at the front, calves flanked by aunts. The sound of a hyena at midnight so close it seems impossible. The Africa of documentary footage becomes actual and immediate, and no amount of prior research quite prepares you for it.
 
 Planning that first safari, however, is genuinely overwhelming. The destinations span half a continent. Lodges range from $50/night bush camps to $5,000/night ultra-luxury tented suites. The "Big Five," the Great Migration, seasonal rains: an avalanche of terminology surrounds a trip that is, at its simplest, about sitting in a vehicle in the African bush and paying attention.
 
@@ -42,7 +42,7 @@ Kenya is where modern safari began. The Masai Mara ecosystem — Kenya's share o
 - Relatively accessible from Europe (8 hours from London)
 
 **The Great Migration:**
-Between July and October, approximately 1.5 million wildebeest and 250,000 zebra move from Tanzania's Serengeti into Kenya's Masai Mara, following seasonal rains northward. The Mara River crossings — spectacular, chaotic events in which the herds plunge into crocodile-patrolled water in explosive mass jumps — are the Migration's signature spectacle. Viewing the crossings requires patience (the herds cross unpredictably; you may wait hours), but when it happens, it is overwhelming.
+Between July and October, approximately 1.5 million wildebeest and 250,000 zebra move from Tanzania's Serengeti into Kenya's Masai Mara, following seasonal rains northward. The Mara River crossings, spectacular and chaotic events in which the herds plunge into crocodile-patrolled water in explosive mass jumps, are the Migration's signature spectacle. Viewing the crossings requires patience (the herds cross unpredictably; you may wait hours), but when it happens, it is overwhelming.
 
 ---
 
@@ -50,13 +50,13 @@ Between July and October, approximately 1.5 million wildebeest and 250,000 zebra
 
 Tanzania offers Africa's most varied safari experience in a single country: the Serengeti (the Migration's main stage, with game density that makes Kenya's Mara look understocked in the right season); the Ngorongoro Crater (a self-contained ecosystem within a volcanic caldera, housing the continent's most dense concentration of predators); the Ruaha and Selous wilderness areas (remote, wild, and virtually tourism-free for those who want solitude); and Tarangire (elephant and baobab country with a distinct atmospheric quality).
 
-A Tanzania first safari typically combines three or four areas for a 10–14 day itinerary, using light aircraft to connect camps — one of Africa's great travel experiences in itself.
+A Tanzania first safari typically combines three or four areas for a 10–14 day itinerary, using light aircraft to connect camps, one of Africa's great travel experiences in itself.
 
 ---
 
 
 
-Botswana has positioned itself as Africa's "quality over quantity" safari destination: high cost, low visitor numbers, outstanding wildlife, and some of the continent's clearest wilderness. The Okavango Delta (a UNESCO World Heritage Site and one of Africa's great natural wonders — an inland river delta that floods into the Kalahari Desert) and the Chobe River corridor (the world's largest elephant concentration) are Botswana's headline attractions.
+Botswana has positioned itself as Africa's "quality over quantity" safari destination: high cost, low visitor numbers, outstanding wildlife, and some of the continent's clearest wilderness. The Okavango Delta (a UNESCO World Heritage Site and one of Africa's great natural wonders, an inland river delta that floods into the Kalahari Desert) and the Chobe River corridor (the world's largest elephant concentration) are Botswana's headline attractions.
 
 For first-timers, Botswana's remoteness and cost make it more challenging than Kenya or Tanzania. It is, however, one of Africa's finest safari experiences for those willing to invest. The combination of mokoro (dugout canoe) game viewing in the Delta, walking safaris in the Kalahari, and the Chobe elephant experience creates a trip unlike any other on the continent.
 
@@ -74,7 +74,7 @@ Already profiled in our glamping guide. The gold standard: private concession, e
 Singita's 1920s explorer-era tented camp aesthetic, positioned on the central Serengeti with exceptional game density year-round and Migration access in season. Eight tents; genuine privacy.
 
 **&Beyond Ngorongoro Crater Lodge, Tanzania ($1,500+/person/night):**
-Perched on the rim of the Ngorongoro Crater with arguably the most dramatic views of any safari lodge in Africa. The descent into the crater each morning — through mist, past elephant herds, to the crater floor — is an experience guests describe for years.
+Perched on the rim of the Ngorongoro Crater with arguably the most dramatic views of any safari lodge in Africa. The descent into the crater each morning, through mist, past elephant herds, to the crater floor, is an experience guests describe for years.
 
 ---
 
@@ -83,7 +83,7 @@ Perched on the rim of the Ngorongoro Crater with arguably the most dramatic view
 One of the Mara's most established premium camps: 37 tents on the Mara River, a strong guiding team, and a position that gives excellent Migration crossing access in season. The infrastructure is slightly older than ultra-luxury competitors, but the wildlife and guiding quality are consistently exceptional.
 
 **Ndutu Safari Lodge, Serengeti, Tanzania ($400–600/person/night):**
-Positioned in the Ndutu woodlands — the wildebeest calving ground in January–March — Ndutu is the outstanding value option for Serengeti wildlife during the calving season. Infant wildebeest attract enormous predator concentrations; this is arguably the most dramatic wildlife viewing in Africa during those months.
+Positioned in the Ndutu woodlands, the wildebeest calving ground in January–March, Ndutu is the outstanding value option for Serengeti wildlife during the calving season. Infant wildebeest attract enormous predator concentrations; this is arguably the most dramatic wildlife viewing in Africa during those months.
 
 ---
 
@@ -98,11 +98,11 @@ A dependable, well-managed lodge in the central Serengeti with consistent wildli
 
 
 
-The "Big Five" — lion, elephant, leopard, rhinoceros, and Cape buffalo — were historically named by big game hunters as the five most dangerous animals to hunt on foot. They've become shorthand for a safari "success." First-timers should know a few things:
+The "Big Five" (lion, elephant, leopard, rhinoceros, and Cape buffalo) were historically named by big game hunters as the five most dangerous animals to hunt on foot. They've become shorthand for a safari "success." First-timers should know a few things:
 
 **Lions** are the most reliably seen of the five in most ecosystems. They spend most of their day sleeping in grasslands and are relatively easy to find by tracking their calls and following other vehicles.
 
-**Elephants** are plentiful in most major safari areas. Their size makes them easy to spot, and their social behaviour — family interactions, calf play, musth bulls — provides some of the most extended and engaging wildlife viewing available.
+**Elephants** are plentiful in most major safari areas. Their size makes them easy to spot, and their social behaviour, including family interactions, calf play, and musth bulls, provides some of the most extended and engaging wildlife viewing available.
 
 **Leopards** are genuinely difficult: solitary, nocturnal, and expert at concealment. South Luangwa in Zambia is the best destination for leopard sightings; the Mara and Serengeti offer chances but not guarantees. When you do find one — usually curled in an acacia or draped over a branch — the sighting is all the more powerful for being earned.
 
