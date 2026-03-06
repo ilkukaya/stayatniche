@@ -68,7 +68,7 @@ seo:
   metaDescription: "The Ghan crosses 2,979 km of Australia from Adelaide to Darwin through the Red Centre. Platinum cabin service, Alice Springs, and Katherine Gorge. From $1,200."
 ---
 
-To understand the scale of Australia, you need to cross it. And there is no crossing that makes the continent's extraordinary scale and geological antiquity more vivid than the 54-hour journey The Ghan makes from Adelaide on the Southern Ocean to Darwin on the Timor Sea, traversing almost 3,000 kilometres of the Red Centre through landscapes that were ancient when the first humans arrived on this continent 50,000 years ago.
+The Ghan crosses Australia from south to north: 2,979 kilometres in 54 hours, from Adelaide on the Southern Ocean to Darwin on the Timor Sea, through landscapes of the Red Centre that were ancient when humans first arrived on this continent 50,000 years ago. No other journey makes the scale of the Australian interior as viscerally clear.
 
 The train takes its name from the Afghan cameleers who were brought to Australia in the nineteenth century to carry supplies across the interior, their caravans proving more reliable than horses in the extreme heat and waterless distances of the Outback. The first rail line to Alice Springs was completed in 1929; the full connection to Darwin was not finished until 2004, making the complete north-south traverse one of Australia's most recently completed great infrastructure projects.
 
@@ -78,4 +78,4 @@ Platinum Service provides the most comfortable experience: a private cabin with 
 
 Alice Springs, in the geographic heart of Australia, provides a two-to-four hour off-train excursion opportunity that can include a visit to the Desert Park, cultural centres, or, for those willing to take a charter flight, an extraordinary day at Uluru, the great sandstone monolith that is the spiritual centre of Australian Indigenous culture. Katherine, further north, delivers access to Katherine Gorge in Nitmiluk National Park, an extraordinary sandstone canyon system carved by millions of years of Arnhem Land rivers.
 
-The Ghan Expedition, departing on selected dates, extends the journey to four days with additional off-train activities and is the version to choose if time permits. This is Australia's greatest rail journey, and it rewards time.
+The Ghan Expedition, departing on selected dates, extends the journey to four days with additional off-train activities and is the version to choose if time permits. This is Australia's greatest rail journey, and it genuinely rewards giving it the full four days.

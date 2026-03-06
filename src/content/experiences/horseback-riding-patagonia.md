@@ -45,7 +45,7 @@ seo:
   metaDescription: "Ride through Patagonia's most dramatic landscapes with gaucho guides on Criollo horses. Access remote wilderness in Torres del Paine. From $120 per day."
 ---
 
-The Patagonian wind is a character in every experience you have here. It comes from the west, off the Southern Patagonian Ice Field, and it moves across the steppe with a directness that is simultaneously maddening and clarifying. On horseback, with a gaucho riding ten metres ahead reading the terrain with the casual expertise of someone who learned this landscape from someone who learned it from someone else, the wind becomes part of the rhythm of the ride rather than an obstacle to it.
+The Patagonian wind is not an inconvenience you adjust to. It is the defining fact of the landscape, coming off the Southern Patagonian Ice Field with a directness that is simultaneously maddening and clarifying. On horseback, with a gaucho riding ten metres ahead and reading the terrain with the easy expertise of someone who learned this country from someone who learned it from someone else, the wind becomes part of the rhythm of the ride rather than an obstacle to it.
 
 Criollo horses are the product of 500 years of natural selection in South America's most demanding conditions. They are not the tall, refined horses of European tradition: they are compact, strong, and practical, with an intuitive sure-footedness on wet rock and loose scree that gives riders confidence they have no right to feel in terrain like this. Your gaucho will match you to a horse based on your experience level in the first minutes, and most people find the relationship with the animal develops quickly and feels unexpectedly intuitive.
 

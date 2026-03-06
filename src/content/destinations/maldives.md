@@ -38,18 +38,18 @@ seo:
   metaDescription: "Discover the Maldives beyond the brochure, overwater bungalows, private atolls, bioluminescent beaches, and the world's best dive sites. Complete travel guide."
 ---
 
-Few places on earth deliver on their promise quite like the Maldives. The images you've seen, turquoise water so clear it looks artificial, villas on stilts hovering above coral gardens, sand so white it squeaks underfoot, are all real. But what the photographs don't capture is the silence. Out here, 800 kilometres south-west of India, the Indian Ocean stretches in every direction to the horizon, and the only sound is water.
+The images are all real. Turquoise water so clear it looks artificial, villas on stilts hovering above coral gardens, sand that squeaks underfoot. But what photographs don't capture is the silence. Out here, 800 kilometres south-west of India, the Indian Ocean stretches to every horizon and the only sound is water. It's a particular kind of quiet you don't forget.
 
 
-The Maldives is the world's most dispersed country: 26 natural atolls, 1,200 coral islands, and a land area of just 300 square kilometres spread across 90,000 square kilometres of ocean. No island rises more than two metres above sea level. It's as close as you can get to living on water without actually being at sea.
+The Maldives is the world's most dispersed country: 26 natural atolls, 1,200 coral islands, 300 square kilometres of land scattered across 90,000 square kilometres of ocean. No island rises more than two metres above sea level. It's as close as you can get to living on water without actually being at sea.
 
 
-The overwater bungalow was not invented in the Maldives, but it was perfected here. Early resorts in the 1970s were modest affairs; today's offerings are architectural achievements, private infinity pools cantilevering over the lagoon, glass floor panels revealing the reef below, slide-into-the-sea access from your own deck. The better properties limit villa count deliberately, meaning you may share a five-star atoll with fewer than 50 other guests.
+The overwater bungalow wasn't invented here, but it was refined to its logical extreme. The modest 1970s resorts have been replaced by architectural achievements: private infinity pools cantilevering over the lagoon, glass floor panels showing the reef below, slide-into-the-sea access from your own deck. The better properties cap villa counts deliberately — you may share a five-star atoll with fewer than 50 other guests.
 
 
-Many visitors never leave their resort island, which is a genuine shame. Male, the capital, is one of the world's most densely populated cities: a chaotic, fascinating contrast to the solitude of the atolls. Local islands like Maafushi offer an authentic glimpse of Maldivian life: guest houses, local restaurants, and the kind of interactions that a private resort simply cannot provide.
+Many visitors never leave their resort island, which is a genuine missed opportunity. Malé, the capital, is one of the world's most densely populated cities: a chaotic, fascinating contrast to the atoll solitude. Local islands like Maafushi offer guesthouses, local restaurants, and the kind of encounters that a private resort simply can't replicate. Alcohol is only available on resort islands — plan accordingly if you're mixing itinerary types.
 
 
-The Maldives sits in one of the richest marine ecosystems on earth. Whale sharks and manta rays are near-guaranteed sightings at the right atolls in season. The coral gardens here, particularly in the outer atolls, escaped the worst bleaching events and remain kaleidoscopic. Even non-divers find that snorkelling directly from a house reef delivers experiences that rival dedicated dive trips elsewhere.
+The marine ecosystem here is among the richest on earth. Whale sharks and manta rays are near-guaranteed at the right atolls in season. The coral gardens in the outer atolls escaped the worst bleaching events and remain dense with life. Even non-divers find that snorkelling directly from a house reef delivers experiences that rival dedicated dive trips elsewhere.
 
-This is a destination that rewards those who look beyond the Instagram version: find the right atoll, the right property, the right guide, and the Maldives becomes something genuinely memorable.
+Find the right atoll, the right property, the right guide, and the Maldives earns every superlative.

@@ -35,19 +35,19 @@ seo:
   metaDescription: "Inle Lake travel guide, floating villages, stilted hotels over the water, leg-rowing fishermen, and Myanmar's most extraordinary highland destination."
 ---
 
-There is a particular quality to mornings on Inle Lake that no amount of description fully captures. The mist sits on the water like something solid, the silhouettes of leg-rowing fishermen emerge from it in slow motion, and the whole scene has the quality of a woodblock print animated by a gentle breeze. It is one of the most visually arresting places in Asia, and also one of the most genuinely otherworldly in terms of how people actually live.
+Mornings on Inle Lake have a quality that photographs approach but don't quite capture. Mist sits on the water like something solid; the silhouettes of leg-rowing fishermen emerge from it in slow motion; the whole scene has the stillness of a woodblock print. It is one of the most visually arresting places in Asia — and also one of the most genuinely unusual in terms of how people actually live.
 
 
-The Intha people have inhabited Inle Lake for centuries, building an entire civilization on and above the water. Houses, monasteries, markets, and workshops stand on stilts sunk into the lake bed. Entire agricultural plots float on mats of water hyacinth and organic matter, tethered to the bottom with bamboo poles. The floating tomato gardens are particularly extraordinary, a form of hydroponics developed centuries before the concept had a name in Western horticulture.
+The Intha people have inhabited Inle Lake for centuries, building an entire civilization on and above the water. Houses, monasteries, markets, and workshops stand on stilts sunk into the lake bed. Agricultural plots float on mats of water hyacinth and organic matter, tethered to the bottom with bamboo poles. The floating tomato gardens are a form of hydroponics developed centuries before the concept had a name in Western horticulture.
 
-Getting around the lake means hiring a longtail boat, a narrow wooden craft powered by a modified lawn mower engine, and spending a day moving between villages, workshops, and pagodas at water level. The intimacy of the experience comes from this low perspective: you pass beneath wooden walkways, through narrow channels between garden plots, and alongside the wooden houses where daily life continues in full view.
-
-
-The most memorable way to experience Inle Lake is to sleep on it. A handful of boutique hotels have been built on stilts directly over the lake surface, with rooms extending out over the water on wooden platforms. Waking up here, opening the curtains to reveal nothing but lake in every direction, watching the fishing boats pass beneath your private terrace at dawn, this is accommodation as genuine immersion rather than mere shelter.
-
-The best stilted lake hotels combine traditional Shan architectural details, teak wood, pitched roofs, carved screens, with modern comforts. Some have private longtail boats moored at their docks for guests to explore independently. The sensation of the lake gently moving beneath the floorboards at night is the closest most people will come to sleeping aboard a houseboat without actually doing so.
+Getting around means hiring a longtail boat — a narrow wooden craft powered by a modified lawn mower engine — and spending a day moving between villages, workshops, and pagodas at water level. You pass beneath wooden walkways, through narrow channels between garden plots, alongside wooden houses where daily life continues in full view. The low-water perspective is everything.
 
 
-Beyond the lake itself, Nyaungshwe, the main gateway town, has a low-key charm with independent restaurants, bicycle-rental shops, and monasteries worth visiting at dawn when monks collect alms. The five-day rotating market circuit brings vendors from surrounding hill tribe villages to different lakeside locations on a rolling schedule, creating a genuinely local shopping experience rather than a tourist market.
+The most memorable way to experience Inle Lake is to sleep on it. A handful of boutique hotels are built on stilts directly over the water, with rooms extending out on wooden platforms above the lake surface. Open the curtains in the morning and there is nothing but lake in every direction. Fishing boats pass beneath your terrace at dawn. This is accommodation as genuine immersion, not a novelty.
 
-The Shan State's unexpected wine country, hillside vineyards producing surprisingly competent red and white wines from grapes grown at altitude, offers an incongruous but genuinely enjoyable afternoon of tasting above the lake.
+The best stilted hotels combine traditional Shan architectural details — teak wood, pitched roofs, carved screens — with proper modern comforts. Some have private longtail boats at their docks for independent exploration. The sensation of the lake moving gently beneath the floorboards at night is the closest most people will come to sleeping aboard a houseboat without actually doing so.
+
+
+Nyaungshwe, the main gateway town, has a low-key charm with independent restaurants, bicycle rental, and monasteries worth visiting at dawn when monks collect alms. The five-day rotating market circuit brings vendors from surrounding hill tribe villages to different lakeside locations on a rolling schedule — a genuinely local market, not a tourist construct.
+
+The Shan State's hillside wine country at Red Mountain Estate above Nyaungshwe produces surprisingly competent reds and whites from grapes grown at altitude. An incongruous but genuinely enjoyable afternoon of tasting above the lake.

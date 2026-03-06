@@ -35,18 +35,15 @@ seo:
   metaDescription: "Cambodia travel guide, Angkor Wat temples, boutique jungle lodges, floating villages on Tonle Sap, and pristine island beaches. Plan your Cambodia trip."
 ---
 
-The first sight of Angkor Wat's towers reflected in the moat at dawn is one of those travel moments that justify every hour of preparation, every long-haul flight, every logistical compromise made to get here. This is architecture on a scale that exceeds imagination: 500 acres of stone galleries, towers, and courtyards built over three centuries by the Khmer Empire, reclaimed by jungle for five hundred years, and now standing more or less intact as one of humanity's greatest achievements.
+The first sight of Angkor Wat's towers reflected in the moat at dawn justifies every hour of preparation, every long-haul flight, every logistical compromise made to get here. This is architecture on a scale that exceeds imagination: 500 acres of stone galleries, towers, and courtyards built over three centuries by the Khmer Empire, reclaimed by jungle for five hundred years, and now standing more or less intact as one of humanity's greatest achievements.
 
+Angkor is not one monument but a landscape of hundreds of temples, towers, and reservoirs spread across 400 square kilometers of jungle north of Siem Reap. The three-day pass gives access to the most significant sites, but the more you explore beyond the main circuit, the more the jungle reveals. Preah Khan, Neak Pean, and the distant Kbal Spean, a river carved with thousands of lingam and figurative carvings in a mountain stream, reward those who look past the main attractions.
 
-Angkor is not one monument but a landscape of hundreds of temples, towers, and reservoirs spread across 400 square kilometers of jungle north of Siem Reap. The three-day pass gives access to the most significant sites, but the more you explore beyond the main circuit, the more the jungle reveals. Preah Khan, Neak Pean, and the distant Kbal Spean, a river carved with thousands of lingam and figurative carvings in a mountain stream, reward visitors who look past the main attractions.
-
-The experience of the temples depends enormously on timing. At first light, before the day-trippers arrive, Angkor Wat has a profound stillness: monks chanting inside the inner sanctuary, incense smoke curling through bas-reliefs that tell the entire Hindu cosmological story in stone. Ta Prohm in the early morning, when the trees are still, the bird noise is extraordinary, and the root systems that have grown through walls and over towers over five centuries look genuinely otherworldly.
-
+Timing matters enormously. At first light, before the day-trippers arrive, Angkor Wat has a profound stillness: monks chanting inside the inner sanctuary, incense smoke curling through bas-reliefs that tell the entire Hindu cosmological story in stone. Ta Prohm in the early morning, when the trees are still and the bird noise is extraordinary, and root systems that have grown through walls and over towers over five centuries look genuinely otherworldly.
 
 Siem Reap has developed one of Southeast Asia's most sophisticated boutique hotel scenes, in part because the proximity to Angkor guarantees a wealthy international visitor base. The best properties sit in forested grounds outside the town centre, [jungle lodges](/categories/jungle-lodges) with wooden sala pavilions, infinity pools that look across rice paddies, and open-air restaurants serving Khmer tasting menus made entirely from local ingredients.
 
 Several heritage hotels occupy former French colonial residences with high ceilings, ceiling fans, and verandas overlooking tropical gardens. The aesthetic is deliberately understated, stripped teak, white linen, natural stone, in contrast to the visual intensity of the temples that dominate each day.
-
 
 Cambodia is significantly more than its temples. Phnom Penh, the capital, has been transformed over the past decade into a genuinely interesting city with excellent restaurants, a vibrant contemporary art scene, and riverside neighborhoods worth spending two or three days in. The Tuol Sleng museum and Choeung Ek killing fields are essential visits for anyone who wants to understand how Cambodia arrived at the present from the trauma of the 1970s.
 

@@ -68,9 +68,9 @@ seo:
   metaDescription: "An eco-luxury Berber camp in Morocco's Agafay stone desert, just 40km from Marrakech. Camel rides, hammam spa, and starlit dinners. Scarabeo Camp from $350/night."
 ---
 
-Morocco has two deserts, and most visitors know only one. The great Saharan erg of Merzouga, with its cinematic orange dunes, its camel caravans, and its two-day drive from Marrakech, gets all the postcards. But the Agafay, the mineral stone plateau that begins just forty kilometres south of the city in the foothills of the Atlas, is a different proposition entirely: rawer, more mysterious, and genuinely accessible to anyone staying in Marrakech without the commitment of a three-day excursion.
+Morocco has two deserts, and most visitors know only one. The great Saharan erg of Merzouga — cinematic orange dunes, camel caravans, two-day drive from Marrakech — gets all the postcards. The Agafay, the mineral stone plateau forty kilometres south of the city in the Atlas foothills, is rawer and considerably more accessible to anyone based in Marrakech.
 
-Scarabeo Camp has made the Agafay its home, and in doing so has become the finest articulation of what luxury desert camping in Morocco can be when it is done with authentic care.
+Scarabeo Camp has built its reputation in the Agafay, and the result is one of the more honest articulations of what luxury desert camping in Morocco can actually be.
 
 The camp's tents are Berber in their architectural language, low, broad, and connected to the earth rather than imposing upon it, but the interiors speak a contemporary fluency of handwoven Beni Ourain rugs, embroidered cotton linens, and the warm amber glow of solar-powered lanterns. Each tent has a proper bathroom with hot water (no glamping compromise here), and the beds are dressed with the kind of weight and warmth that the desert night, which drops far more sharply than visitors expect, genuinely demands.
 
@@ -78,4 +78,4 @@ The Agafay itself is not a comfortable landscape. The plateau is composed of com
 
 Days at Scarabeo are built around the simple rhythms of the desert: a camel trek at sunrise while the plateau is still cool, a long lazy brunch, hammam treatments using argan oil sourced from the cooperative farms near Essaouira, and a slow afternoon in the shade before the theatrical transformation of the evening begins. Dinner is served outdoors on long tables lit entirely by candles, with the night sky filling in above as the last light leaves the horizon. The cooking is deeply Moroccan, tagines of slow-cooked lamb, bastilla with almonds and cinnamon, mechoui from the camp's traditional clay ovens, and the quality consistently surprises guests who expected desert camp cuisine to be a concession to logistics.
 
-And then darkness falls on the Agafay, and the generator stays off, and the lights of Marrakech are far enough away to matter nothing. The stars over the Moroccan plateau are an event in themselves.
+And then darkness falls on the Agafay, the generator stays off, and the lights of Marrakech are far enough away to stop mattering. The stars over the Moroccan plateau are worth the drive alone.

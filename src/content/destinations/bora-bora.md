@@ -39,15 +39,12 @@ seo:
   metaDescription: "Plan your Bora Bora escape, from the island's best overwater bungalows to lagoon safaris, Mount Otemanu hikes, and pristine coral gardens. Complete guide."
 ---
 
-There are places that become so famous they risk becoming parody. Bora Bora has teetered on that edge for decades: the honeymoon cliché, the screensaver island, the place everyone claims is "too touristy" while quietly adding it to their own list. The truth is more subtle and more rewarding: Bora Bora is extraordinary precisely because the reality lives up to the mythology.
+Bora Bora has teetered on the edge of parody for decades: the honeymoon cliché, the screensaver island, the place everyone claims is "too touristy" while quietly adding it to their own list. The truth is more interesting: Bora Bora is one of those rare places where the reality matches the mythology. The colour of the lagoon is not a filter.
 
-
-The colour of Bora Bora's lagoon is not a filter. The spectrum of blues, from pale turquoise in the shallows to deep sapphire where the coral drops away, shifts hour by hour with the sun. The lagoon is protected by an almost complete barrier reef, making it calm even when the outer ocean churns. Below the surface, the ecosystem is one of the Pacific's healthiest: blacktip reef sharks and lemon sharks glide over sand flats, eagle rays soar in formation, and the coral gardens on the eastern motu hold forest-like formations rarely disturbed by divers.
-
+The spectrum of blues, from pale turquoise in the shallows to deep sapphire where the coral drops away, shifts hour by hour with the sun. The lagoon is protected by an almost complete barrier reef, making it calm even when the outer ocean churns. Below the surface, the ecosystem is one of the Pacific's healthiest: blacktip reef sharks and lemon sharks glide over sand flats, eagle rays soar in formation, and the coral gardens on the eastern motu hold forest-like formations rarely disturbed by divers.
 
 In 1967, three American expats built the first overwater bungalows at the Bora Bora Hotel, partly for adventure, partly because land was scarce. The concept took hold and never let go. Today's overwater suites bear little resemblance to those original timber huts; they are architect-designed pavilions with private plunge pools, glass floor panels for in-room reef viewing, and butler service delivering breakfast by canoe. The best face Mount Otemanu, that volcanic tooth piercing the sky above the island, providing a backdrop that makes sunrise coffee an event in itself.
 
+Most visitors make the mistake of never leaving their resort island. The main island of Bora Bora rewards exploration: the ring road passes vanilla plantations, small villages, and Second World War American gun emplacements positioned to protect the Pacific supply route. Matira Beach, at the island's southern tip, is one of the most beautiful stretches of sand in the Pacific, and it's free, public, and often uncrowded.
 
-Most visitors make the mistake of never leaving their resort island. The main island of Bora Bora rewards exploration: the ring road passes vanilla plantations, small villages, and Second World War American gun emplacements positioned to protect the Pacific supply route. Matira Beach, at the island's southern tip, is genuinely one of the most beautiful stretches of sand in the world: and it's free, public, and often uncrowded.
-
-Bora Bora is not cheap, and it is not undiscovered. But for those seeking the pinnacle of overwater accommodation paired with a living coral ecosystem, no destination on earth quite matches it.
+Bora Bora is not cheap, and it is not undiscovered. But for those seeking the pinnacle of overwater accommodation paired with a living coral ecosystem, no destination quite matches it.

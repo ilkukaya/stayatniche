@@ -45,7 +45,7 @@ seo:
   metaDescription: "Cook authentic Thai dishes after a dawn wet market tour in Bangkok. Small-group classes teaching real Thai flavour technique. From $65 per person."
 ---
 
-Bangkok's wet markets operate on a time zone of their own. By 5am, the stalls are fully set up, pyramid arrangements of fresh galangal, whole fish on ice, banana leaves folded into detailed containers, Thai basil in varieties most visitors cannot name, and the chefs who supply the city's restaurants move through the aisles with a speed and purpose that makes tourist market visits look like a different activity entirely. Following your instructor through this environment is not a sanitised food tour. It is an education.
+Bangkok's wet markets run on their own schedule. By 5am the stalls are fully set up: pyramid arrangements of fresh galangal, whole fish on ice, banana leaves folded into detailed containers, Thai basil in varieties most visitors cannot name. The chefs supplying the city's restaurants move through the aisles with a speed and purpose that makes tourist market visits look like a different activity entirely. Following your instructor through this environment is not a sanitised food tour. It is the beginning of an education.
 
 The market section of the class is where the cooking begins, philosophically if not practically. Your instructor will stop at a galangal stall and explain the difference between galangal and ginger, not a trivial distinction in Thai cooking, then pick up kaffir lime leaves and explain why dried versions are functionally useless. The lesson continues through the chilli section (fresh bird's eye, dried red, roasted paste), the fish sauce corner, the palm sugar block, and the fresh coconut milk station. By the time you reach the cooking school, you understand the architecture of Thai flavour in a way that no amount of restaurant eating would have taught you.
 
@@ -57,4 +57,4 @@ The dishes you cook will depend on the class but typically include a fresh herb 
 
 **Best time to visit:** Bangkok's cooking schools operate year-round and are unaffected by weather. Avoid major Thai holidays (Songkran in April, Chinese New Year in January-February) when markets operate on reduced hours.
 
-**Who it's for:** Anyone with even a basic interest in food. No cooking experience is required. This experience is particularly valuable for people who travel primarily to eat and want to bring something concrete home beyond photographs.
+**Who it's for:** Anyone with a genuine interest in food. No cooking experience required. Particularly valuable for people who travel primarily to eat and want to bring home a skill rather than a photograph.

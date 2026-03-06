@@ -45,7 +45,7 @@ seo:
   metaDescription: "Fly over Denali and Alaska's glaciers on a 2-hour flightseeing tour from Talkeetna. Includes optional glacier landing on North America's greatest peak. From $350."
 ---
 
-Talkeetna is a small, eccentric town at the confluence of three rivers where the Alaska Range rises abruptly to the north, and it has one defining purpose in summer: it is the base camp for every expedition attempting Denali's summit. The mountain dominates the skyline the way few peaks dominate their surroundings anywhere on Earth, because Denali rises from near sea level, its base-to-summit vertical relief of approximately 5,500 metres exceeds that of Everest measured the same way.
+Talkeetna is a small, eccentric town at the confluence of three rivers where the Alaska Range rises abruptly to the north. In summer it has one defining purpose: it is the base camp for every expedition attempting Denali. The mountain dominates the skyline the way few peaks dominate their surroundings anywhere on Earth, because Denali rises from near sea level. Its base-to-summit vertical relief of roughly 5,500 metres exceeds that of Everest measured the same way.
 
 The flightseeing experience begins at Talkeetna's small airstrip, where pilots who have spent careers in Alaska bush flying brief passengers on the route and what to expect. The aircraft, typically a de Havilland Beaver or Otter, purpose-built for this terrain, climbs steeply as soon as it clears the treeline, because the landscape ahead demands altitude immediately.
 

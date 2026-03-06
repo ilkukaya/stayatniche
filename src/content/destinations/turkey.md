@@ -35,15 +35,12 @@ seo:
   metaDescription: "Explore Turkey's most extraordinary stays, from Cappadocia cave hotels to Aegean coast retreats. Your complete travel guide."
 ---
 
-Turkey sits at the crossroads of continents, cultures, and millennia. It's a country where you can sleep inside a cave carved by Byzantine monks, float over surreal volcanic valleys at sunrise, or wake to the call to prayer echoing across Ottoman rooftops.
+Sleep in a cave carved by Byzantine monks in Cappadocia. Float over eroded volcanic valleys at sunrise in a hot air balloon. Walk between Hagia Sophia — a 6th-century church-turned-mosque-turned-museum-turned-mosque — and the Blue Mosque across a courtyard in Istanbul. Turkey compresses enormous historical range into a single, eminently travelable country.
 
 
-Turkey is one of the world's great overachievers when it comes to unique accommodation. Cappadocia alone has dozens of cave hotels ranging from budget to ultra-luxury. The region's soft volcanic rock (tuff) was carved by early Christians seeking refuge: today, those same chambers have been transformed into beautifully appointed hotel rooms.
+Cappadocia alone has dozens of cave hotels ranging from budget to ultra-luxury. Early Christians carved the region's soft volcanic tuff into churches, monasteries, and dwellings; the same chambers are now hotel rooms with underfloor heating and minibars. The Museum Hotel near Göreme occupies an actual cave complex on the valley rim, with Michelin-quality dining and terrace views over the fairy chimneys at dawn.
+
+The Göreme valley's fairy chimneys, underground cities of Derinkuyu and Kaymakli (carved to shelter tens of thousands of people from Arab raids), and the rock-cut churches of the Ihlara Canyon create a landscape with no real parallel elsewhere. Book balloon rides months ahead — they sell out fast and the pre-dawn ascent over the valleys in pink light is worth every lira.
 
 
-The crown jewel of Turkish niche travel. The fairy chimneys, underground cities, and rock-cut churches of Göreme create a landscape unlike anywhere else on earth. Stay in a cave hotel, float over the valleys at dawn, and explore 3,000-year-old underground cities.
-
-**Recommended stay:** [Museum Hotel Cappadocia](/hotels/museum-hotel-cappadocia), an extraordinary cave hotel with Michelin-quality dining and panoramic valley views.
-
-
-Turkey's biggest city is a gateway between East and West. Stay in boutique hotels within the old city walls, within walking distance of Hagia Sophia, the Grand Bazaar, and the Bosphorus.
+Istanbul rewards extended attention. The Sultanahmet district contains Hagia Sophia, the Grand Bazaar, Topkapi Palace, and the Blue Mosque within walking distance of each other. But the city's contemporary life — the Karaköy restaurant and bar scene, the Kadıköy food market on the Asian side, the evening ferry crossings on the Bosphorus with both European and Asian shores in view — is what makes it one of Europe's most compelling cities to spend time in. Boutique hotels within the old city walls put you in one of the world's great urban environments.

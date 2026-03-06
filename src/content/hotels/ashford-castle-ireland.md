@@ -38,16 +38,10 @@ coordinates:
 featured: true
 ---
 
-Ashford Castle is Ireland distilled to its magnificent essence: wild natural beauty, centuries of history, warm hospitality, and exceptional luxury, all contained within one extraordinary property.
+Ashford Castle has been around since 1228, when the Anglo-Norman de Burgo family built the original tower on the shores of Lough Corrib. The Guinness family expanded it significantly in the 19th century, and the result is 350 acres of Irish estate with a castle at its centre that is unambiguously the real thing — not a Victorian folly, not a hotel that happens to have a turret.
 
+The 83 rooms are individually designed around the castle's medieval bones. Many look out over Lough Corrib, which at 68 square kilometres is Ireland's second-largest lake, stretching to the horizon in a view that makes sitting in a window seat with a whiskey feel like a moral obligation.
 
-The original tower dates to 1228, built by the Anglo-Norman de Burgo family. Subsequent centuries of ownership, including the Guinness family in the 19th century, saw the castle expanded and embellished until it reached its current magnificent scale. Every stone of the walls, every turret and tower, is genuinely historic.
+The Ireland School of Falconry on the estate is consistently rated among the best in the world. Beyond that, the activity list runs to sea trout and salmon fishing on Lough Corrib, clay pigeon shooting, archery, horse riding, and boat trips on the lake. The George V Dining Room takes the setting seriously, with a kitchen focused on the exceptional produce of the surrounding region.
 
-
-No two of Ashford's 83 rooms are identical. Each has been individually designed to balance contemporary luxury with the castle's medieval character. Many offer views across Lough Corrib, where Ireland's largest island lake stretches to the horizon.
-
-
-The estate offers an extraordinary range of activities: the Ireland School of Falconry (rated the world's best), sea trout and salmon fishing in Lough Corrib, clay pigeon shooting, archery, and horse riding. In the evening, the George V Dining Room delivers cuisine worthy of the setting.
-
-
-Set in County Mayo, one of Ireland's most dramatically beautiful regions, Ashford provides easy access to the wild Connemara landscape, ancient abbeys, and the islands of Clew Bay. The nearby village of Cong featured in the classic film "The Quiet Man," filmed partly on the castle estate.
+County Mayo is one of the more dramatically beautiful parts of Ireland. Connemara is on the doorstep, the islands of Clew Bay are within reach, and the village of Cong — where John Ford filmed most of The Quiet Man on the castle estate in 1951 — is worth an hour of wandering. Ashford is one of the few castle hotels that would justify Ireland as a destination on its own.

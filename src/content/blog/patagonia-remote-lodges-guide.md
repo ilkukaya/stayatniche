@@ -57,11 +57,11 @@ The lodge sits on the shore of Lago Pehoé in the Patagonian steppe, with views 
 ---
 
 
-Awasi Patagonia, 15km from Torres del Paine's main entrance near Puerto Natales, operates a model that distinguishes it from Explora: each of the 12 private villas comes with a dedicated guide and private 4WD vehicle for the duration of the stay. No group excursions, no schedule you share with other guests: your guide, your vehicle, your itinerary.
+Awasi Patagonia, 15km from Torres del Paine's main entrance near Puerto Natales, does something Explora doesn't: each of the 12 private villas comes with a dedicated guide and private 4WD vehicle for your entire stay. No group excursions. No schedule shared with other guests. Your guide, your vehicle, your call on where to go.
 
-The villas are extraordinary: low, organic forms designed by architect Sebastián Irarrázaval, using raw concrete, locally sourced stone, and timber that weathers to the same grey-brown as the Patagonian landscape. Each villa has panoramic glazing facing the Torres massif, a fireplace, and an outdoor hot tub for return after cold afternoon expeditions.
+The villas were designed by architect Sebastián Irarrázaval in raw concrete, locally sourced stone, and timber that weathers to the same grey-brown as the surrounding steppe. Panoramic glazing faces the Torres massif; each villa has a fireplace and an outdoor hot tub that becomes essential after cold afternoon expeditions.
 
-**What private guiding changes:** The Awasi model means you can track a puma for four hours and return at sunset. Or spend a day on a remote lake that group excursions never reach. Or abandon the original plan entirely because the morning light on a particular valley demands it. The guide becomes a collaborator rather than a leader.
+**What private guiding actually changes:** You can spend four hours following a puma and return at sunset when the light is right. Or go to a remote lake that group excursions never reach. Or change the plan entirely because the morning light on a valley demands something else. The guide becomes a genuine collaborator rather than a schedule-keeper.
 
 **Price range:** From $1,400/person/night (all-inclusive)
 **Minimum stay:** 3 nights
@@ -70,24 +70,20 @@ The villas are extraordinary: low, organic forms designed by architect Sebastiá
 ---
 
 
-EcoCamp occupies the most dramatic position of any Patagonian accommodation: a collection of geodesic dome tents at the base of the Torres del Paine massif, within the national park boundary, accessible by foot or horse from the main park gate.
+EcoCamp sits inside Torres del Paine National Park itself, at the base of the massif, accessible by foot or horse from the main gate. No other accommodation in the region has this position. The domes range from Standard (shared bathroom, basic furnishing) to Suite level (private bathroom, panoramic view, elevated platform). All are heated.
 
-The domes range from Standard (shared bathroom, basic furnishing) to Suite level (private bathroom, panoramic view, elevated position). All are heated; all have the extraordinary context of waking inside Torres del Paine National Park, with the towers visible from the dome entrance at sunrise.
+The operation is entirely solar-powered, uses a biological wastewater system, and is built on raised platforms that leave the soil beneath undisturbed. The guiding team and kitchen staff are drawn from local towns.
 
-EcoCamp's sustainability credentials are substantial: the entire operation is solar-powered, uses a biological wastewater system, and is built on raised platforms that don't disturb the soil beneath. The community of guides, kitchen staff, and maintenance workers is drawn from local towns.
-
-**The experience:** Closer to authentic wilderness camping than the luxury lodge model, nights are cold, the wind can be extraordinary, and the facilities are simpler than Explora or Awasi. But the position, inside the park, at the foot of the towers: is irreplaceable, and the guiding program (day hikes to the Towers base, W-Circuit sections, condor observation) is excellent.
+This is closer to wilderness camping than luxury lodge — nights are cold, the Patagonian wind makes itself known, and the facilities are simpler than Explora or Awasi. But the position at the foot of the towers, with the granite spires filling the dome entrance at sunrise, is something the more comfortable lodges outside the park cannot replicate.
 
 **Price range:** Standard Dome from $400/person/night (all-inclusive); Suite Dome from $700/person/night
 
 ---
 
 
-Tierra Patagonia's building, designed by Chilean architect Cazú Zegers, is the most architecturally celebrated in Patagonian hospitality: a long, sinuous form inspired by the weathered wood of a bleached tree trunk, following the shore of Lake Sarmiento with the Paine massif visible at every angle.
+Tierra Patagonia's building, designed by Chilean architect Cazú Zegers, is the most architecturally recognised in Patagonian hospitality: a long, sinuous timber form inspired by a bleached tree trunk, curving along the shore of Lake Sarmiento with the Paine massif visible at every angle. The 40 rooms are simply and well-furnished, with floor-to-ceiling glazing on the lake and mountain side. The shared outdoor observation deck runs the full length of the building. The spa, in the lower level, uses the lake view as its primary design element.
 
-The 40 rooms are simply and well-furnished, with floor-to-ceiling glazing on the lake and mountain side and shared outdoor observation deck running the full length of the building. The spa, carved into the building's lower level, uses the lake views as its defining aesthetic.
-
-**Position:** Tierra Patagonia sits outside the main national park gate, with the full massif visible but at greater distance than EcoCamp's inside-the-park position. This is a good compromise for guests who want comfort without sacrificing location.
+The lodge sits outside the main national park gate, so the full massif is visible but at greater distance than EcoCamp's inside-the-park position. For guests who want real comfort without entirely sacrificing location, it's the sensible middle ground between EcoCamp and Explora.
 
 **Price range:** From $700/person/night (all-inclusive)
 
@@ -95,16 +91,16 @@ The 40 rooms are simply and well-furnished, with floor-to-ceiling glazing on the
 
 
 
-El Chaltén, the Argentine trekking capital at the foot of the Fitz Roy massif, offers some of the world's finest alpine scenery and the most dramatic granite spire geology outside Yosemite or the Dolomites. Explora's El Chaltén property (opened 2019) brings the same private-guide, all-inclusive model to the Argentine side, with access to trekking, ice-climbing on the Southern Ice Field margins, and the Laguna de los Tres (the Fitz Roy viewpoint lake, one of South America's great landscape photographs).
+El Chaltén sits at the foot of the Fitz Roy massif in Argentina, with granite spire geology that rivals Yosemite and the Dolomites for drama. Explora's El Chaltén property (opened 2019) brings the same private-guide, all-inclusive model to the Argentine side, with access to serious trekking, ice-climbing on the Southern Ice Field margins, and the Laguna de los Tres — the Fitz Roy viewpoint lake that produces one of South America's most copied landscape photographs.
 
 **Price range:** From $1,000/person/night (all-inclusive)
 
 ---
 
 
-Ushuaia, the world's southernmost city, is positioned on the Beagle Channel in Argentine Tierra del Fuego, a landscape of sub-Antarctic forests (the famous "lenga" beech, which turns brilliant red and orange in March–April), mountain ranges descending to the channel, and a maritime wildness that announces proximity to Cape Horn and Antarctica.
+Ushuaia is the world's southernmost city, sitting on the Beagle Channel in Argentine Tierra del Fuego. The sub-Antarctic lenga beech forests turn brilliant red and orange in March–April; mountain ranges descend directly to the channel; the maritime light announces proximity to Cape Horn and Antarctica in a way that's difficult to describe without sounding excessive.
 
-Los Cauquenes, on the Beagle Channel shore 5km from Ushuaia, offers 54 rooms with channel views, a spa using native plant extracts, and access to the Tierra del Fuego National Park and boat excursions on the channel (sea lions, Magellanic penguins, and seabirds are common sightings).
+Los Cauquenes sits on the Beagle Channel shore 5km from Ushuaia: 54 rooms with channel views, a spa using native plant extracts, and access to Tierra del Fuego National Park. Boat excursions on the channel produce reliable sightings of sea lions, Magellanic penguins, and seabirds.
 
 **Price range:** From $300/night
 **Getting there:** Fly to Ushuaia (direct from Buenos Aires, 3.5 hours); hotel shuttle
@@ -113,16 +109,16 @@ Los Cauquenes, on the Beagle Channel shore 5km from Ushuaia, offers 54 rooms wit
 
 
 
-Yagan Camp is the most exclusive accommodation in the Torres del Paine region: a maximum of four guests at any time in a pair of private domes on the edge of the national park, with their own dedicated guide and chef. The domes are luxuriously furnished; the food program is exceptional; the exclusivity is complete.
+Yagan Camp takes the exclusivity question to its logical conclusion: a maximum of four guests at any time, a pair of private domes on the edge of the national park, a dedicated guide, and a dedicated chef. The domes are genuinely luxurious. The food programme is outstanding. No other guests.
 
 **Price range:** From $2,500/person/night (all-inclusive, minimum 4 nights)
 
 ---
 
 
-Parque Patagonia, in Chile's Aysén Region along the Carretera Austral, is a conservation project of extraordinary ambition: Kris McDivitt Tompkins (former CEO of Patagonia outdoor brand) and the late Doug Tompkins donated 200,000 acres to create a new national park focused on restoring the guanaco, puma, condor, and huemul deer populations.
+Parque Patagonia in Chile's Aysén Region is one of the most ambitious conservation projects in South America. Kris McDivitt Tompkins (former CEO of the Patagonia clothing brand) and the late Doug Tompkins donated 200,000 acres to create a new national park focused on restoring guanaco, puma, condor, and huemul deer populations. The lodge at Valle Chacabuco sits within this landscape.
 
-The lodge at Valle Chacabuco sits within this conservation landscape, offering a different kind of Patagonian experience from Torres del Paine: fewer tourists, more wildlife, and the genuine sense of participating in an ongoing conservation story.
+The experience here is different from Torres del Paine: fewer visitors, more wildlife per square kilometre, and the clear sense of being part of an active conservation project rather than a well-developed tourist circuit.
 
 **Price range:** From $400/person/night (all-inclusive)
 **Getting there:** Fly to Balmaceda; drive 2 hours north on the Carretera Austral
@@ -177,13 +173,13 @@ Patagonia's accessible season is October–April (Southern Hemisphere spring–a
 
 
 
-Consistently, travellers who visit Patagonia describe it as the most extraordinary landscape experience of their lives. The distance is real, it requires a significant international flight (Buenos Aires is 13+ hours from London, 9 hours from Miami) followed by internal connections. But the combination of landscape scale, wildlife quality, and the experience of genuine remoteness is unavailable anywhere else at this intensity.
+People who visit Patagonia reliably describe it as the most powerful landscape experience of their lives. The distance is real — Buenos Aires is 13+ hours from London, 9 hours from Miami, plus internal connections. But the combination of scale, wildlife, and genuine remoteness is not available anywhere else at this intensity. The journey is part of the point.
 
 
 The Torres del Paine ecosystem supports pumas (the region's iconic predator, and one of the world's best places to see wild mountain lions), guanacos (wild camelids, relatives of the llama), Andean condors (with 3.2m wingspans, one of the world's largest flying birds), grey foxes, armadillos, and the endangered huemul deer. Marine wildlife, penguins, sea lions, dolphins, and occasionally orca, is accessible on the Chilean fjords and in Ushuaia's Beagle Channel.
 
 
-Budget for a Patagonia lodge experience (not camping or dormitory): **Entry level** (EcoCamp standard dome): from $400/person/night. **Mid-range** (Tierra Patagonia, Explora standard room): $700–1,200/person/night. **Ultra-luxury** (Awasi, Yagan Camp): $1,400–2,500/person/night. A 7-night, two-destination itinerary (Torres del Paine + Calafate) at mid-range lodges typically costs $5,000–9,000/person inclusive of accommodation and meals, excluding international flights.
+Lodge-based Patagonia (not camping or dormitories): **Entry level** (EcoCamp standard dome): from $400/person/night. **Mid-range** (Tierra Patagonia, Explora standard room): $700–1,200/person/night. **Ultra-luxury** (Awasi, Yagan Camp): $1,400–2,500/person/night. A 7-night, two-destination itinerary at mid-range lodges (Torres del Paine + Calafate) typically costs $5,000–9,000/person including accommodation and meals, excluding international flights.
 
 
-Yes. While trekking is the primary activity, the lodges listed here (particularly Explora and Awasi) offer horseback riding, kayaking, 4WD excursions, and wildlife spotting that don't require significant hiking. The wildlife experience, puma tracking, condor observation, is often done from vehicles or on short walks. The landscape itself is visible from lodge windows, hot tubs, and terraces without any exertion.
+No. Trekking is the primary activity, but Explora and Awasi both offer horseback riding, kayaking, 4WD excursions, and wildlife spotting that require no significant hiking. Puma tracking and condor observation are typically done from vehicles or on short, flat walks. And the landscape is visible from lodge windows, hot tubs, and terraces without moving at all.

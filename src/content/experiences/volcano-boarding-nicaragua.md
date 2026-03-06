@@ -46,7 +46,7 @@ seo:
   metaDescription: "Hike an active volcano then board down volcanic ash at 95km/h near Leon, Nicaragua. The world's most unusual extreme sport. From $35 per person."
 ---
 
-Cerro Negro erupted most recently in 1999, and it will erupt again. The youngest volcano in Central America, formed in 1850, a geological eyeblink, it has been active 23 times since then, and the evidence is everywhere: the entire surface of the cone is fresh volcanic material, black and loose, with no vegetation except sparse grass at the base. Steam vents hiss near the summit. The air smells of sulphur. This is a live volcano, and hiking it feels like it.
+Cerro Negro erupted most recently in 1999 and will erupt again. The youngest volcano in Central America, formed in 1850 — a geological eyeblink — it has been active 23 times since then. The evidence is everywhere on the surface of the cone: fresh volcanic material, black and loose, with no vegetation except sparse grass at the base. Steam vents hiss near the summit. The air smells of sulphur. This is a live volcano and hiking it feels like it.
 
 The hike to the summit takes roughly 45 minutes. The lower slopes are relatively gentle through loose scoria and black ash; the upper section steepens considerably, and the loose material underfoot means two steps forward and one step back in places. Your board, strapped to your back, adds to the effort. The summit arrives at 728 metres with views that justify every step: the volcanic chain of Nicaragua stretching along the Pacific coast, Momotombo rising above Lake Managua to the east, the Pacific glittering to the west, and the active crater below you steaming gently in the morning air.
 

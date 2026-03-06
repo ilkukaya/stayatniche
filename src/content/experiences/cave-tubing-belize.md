@@ -47,7 +47,7 @@ seo:
   metaDescription: "Float through ancient Maya ceremonial caves on inner tubes in Belize's Caves Branch river system. A unique underground adventure. From $75 per person."
 ---
 
-There is no way to fully prepare for the moment the jungle light disappears. One stroke of your arms takes you from bright Central American sunlight into absolute, geological dark, and for a second the only sound is the river and your own breathing. Then your headlamp clicks on, and the cave opens above you: a vaulted ceiling of limestone hung with thousands of stalactites, each one a drop of mineral-laden water frozen in geological time, and stretching ahead of you a river that has been carving this passage for millions of years.
+One stroke of your arms takes you from bright Central American sunlight into absolute geological dark. For a second the only sound is the river and your own breathing. Then your headlamp clicks on, and the cave opens above you: a vaulted limestone ceiling hung with thousands of stalactites, each one a deposit of mineral-laden water accumulated across geological time, and ahead of you a river that has been carving this passage for millions of years.
 
 The Caves Branch river system in Belize's Cayo District cuts through a network of limestone hills, emerging at intervals into daylight before plunging back underground. The Maya, who inhabited this region for millennia, used the caves as ceremonial spaces: places of sacrifice, ritual, and contact with the underworld they called Xibalba. Your guide will point out the evidence: pottery fragments on ledges above the waterline, depressions where offerings were placed, formations given names by Maya priests that have survived in oral tradition to the present day.
 

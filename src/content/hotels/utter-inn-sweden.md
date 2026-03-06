@@ -90,7 +90,7 @@ The image is deliberately, almost aggressively Swedish. The red exterior, painte
 
 **The Descent**
 
-Climbing down the ladder into the Utter Inn's bedroom is a transition unlike any other in travel. Above: the familiar world of wood, air, and Swedish countryside. Below: a quiet chamber with a bed, two porthole-style windows, and the cold, dark water of Lake Mälaren pressing silently against the glass.
+Climbing down the ladder into the Utter Inn's bedroom is a specific transition that travel rarely offers. Above: the familiar world of wood, air, and Swedish countryside. Below: a quiet chamber with a bed, two porthole-style windows, and the cold, dark water of Lake Mälaren pressing silently against the glass.
 
 The lake visibility is different from the Indian Ocean's crystalline blue: it is darker, more northern, and strangely intimate. The freshwater fish that gather at the windows are not the neon-bright reef species of tropical waters, but pike and perch and bream, drifting with the unhurried calm of creatures who have nothing to fear in their own medium. At night, with the bedroom light on, smaller fish collect at the glass in larger numbers, drawn to the warmth and glow. The effect is of floating in an aquarium from the inside.
 

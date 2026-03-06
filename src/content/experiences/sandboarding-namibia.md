@@ -45,9 +45,9 @@ seo:
   metaDescription: "Board down 300-metre dunes at 80km/h in Namibia's Sossusvlei. The world's most beautiful desert becomes an adrenaline playground. From $80 per person."
 ---
 
-Big Daddy dune rises 325 metres from the floor of the Deadvlei pan. It takes about 45 minutes to climb it, following the knife-edge ridge with desert on both sides and the white clay pan of Deadvlei shrinking below. At the top, the wind is strong enough to strip the sand from the crest in horizontal curtains, and the view, the Namib Desert stretching to every horizon, the dead camel thorn trees in the pan below casting blue shadows across white ground, the line of dunes receding into the heat shimmer, is something that even the best travel photography consistently undersells.
+Big Daddy dune rises 325 metres from the floor of the Deadvlei pan. The climb takes about 45 minutes, following the knife-edge ridge with desert on both sides and the white clay pan shrinking below. At the top, wind strips the sand from the crest in horizontal curtains. The view — the Namib stretching to every horizon, dead camel thorn trees casting blue shadows across white ground, dune ridges receding into heat shimmer — is something travel photography consistently fails to do justice to.
 
-Then you point the sandboard at the face of the dune and let go.
+Then you point the sandboard at the face and let go.
 
 Sandboarding can be done lying down or standing up, and the two experiences are quite different. The lie-down position, chest on the board, feet trailing, is faster and more immediately accessible, with speeds regularly exceeding 80km/h on a steep face like Big Daddy's. The standing position requires board control and balance more analogous to snowboarding; it is slower on descent but offers a completely different physical sensation and, on a deep powder-sand face, is one of the most unusual and enjoyable sporting experiences in adventure travel.
 

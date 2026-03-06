@@ -40,16 +40,16 @@ seo:
   metaDescription: "Explore Vermont's most extraordinary places to stay, from Stowe historic inns and Mad River Valley farmhouses to Northeast Kingdom wilderness retreats. Your complete niche travel guide."
 ---
 
-Vermont is small enough to feel intimate and varied enough to reward extended exploration. Drive across the state in two hours, but settle into any one of its valleys and you'll find yourself still discovering things a week later: a backroad cheese farm, a one-room library with a wood stove, a river swimming hole that the locals have somehow kept secret.
+Drive across Vermont in two hours, but settle into one of its valleys and you'll find yourself still discovering things a week later: a backroad cheese farm doing clothbound cheddar, a one-room library with a wood stove, a river swimming hole the locals have managed to keep largely quiet. It's a small state with unusual depth.
 
 
-Vermont's inn culture is among America's most distinguished. The state has been receiving travelers since the 18th century, and the traditions are deeply embedded: fireplaces in every room, locally sourced breakfasts, innkeepers who genuinely know the territory. The farm-stay movement has added a new layer: working farms with on-site maple sugaring, cheese-making, and farm-to-table dinners that blur the line between accommodation and experience.
+Vermont's inn culture is among America's most established. The state has been receiving travelers since the 18th century, and the traditions hold: fireplaces in rooms, locally sourced breakfasts, innkeepers who genuinely know the territory. The farm-stay movement has added a distinct layer — working farms with maple sugaring operations, cheese caves, and farm-to-table dinners where the distance from field to plate is measured in yards. Several farms in the Northeast Kingdom and Mad River Valley now offer accommodation that blurs the line between lodging and lived experience.
 
 
-Stowe is Vermont's most iconic mountain village, a perfect New England small town at the base of Mount Mansfield, with a ski resort that has operated since 1937 and a summer hiking culture of equal quality. The von Trapp Family Lodge (yes, that von Trapp family) operates a cross-country ski center and lodge above town that is genuinely extraordinary as a piece of living history.
+Stowe is the most iconic mountain village in Vermont — Mount Mansfield at its back, a ski resort operating since 1937, and a summer hiking culture of equal caliber to the skiing. The von Trapp Family Lodge above town (yes, those von Trapps) runs a cross-country ski center and lodge on 2,500 acres that is, among other things, a genuinely odd piece of living American history.
 
 
-Waitsfield and Warren, tucked into the Mad River Valley south of Stowe, offer a quieter and more authentically agricultural alternative. Mad River Glen is the region's cult ski destination: steep, rocky, famously uncrowded by resort standards, and run by a member cooperative that has rejected snowboarders since the 1990s.
+Waitsfield and Warren in the Mad River Valley are quieter and more agricultural than Stowe. Mad River Glen is the cult ski destination of New England: steep, rocky, famously uncrowded, cooperatively owned, and still banning snowboards — a policy held since the 1990s with evident conviction. It skis like no other resort in the East.
 
 
-Vermont's northeast corner is its wildest and most remote quadrant: a landscape of dairy farms, boreal forest, and clear lakes that more resembles Quebec than southern New England. It is a destination for travelers who want Vermont without the foliage-season crowds.
+Vermont's Northeast Kingdom, the three counties in the state's upper-right corner, resembles Quebec more than southern New England. Dairy farms, boreal forest, and clear lakes with no visible development on the opposite shore. It's where you go when you want Vermont without the foliage-season foot traffic, and it's reliably one of the most beautiful landscapes in the region any time of year.

@@ -45,9 +45,9 @@ seo:
   metaDescription: "Soar above the Eiger, Monch, and Jungfrau on a tandem paraglide over Interlaken. One of Europe's most spectacular aerial experiences. From $180 per person."
 ---
 
-The launch is the part people worry about most and the part that, in retrospect, they remember least. Your pilot has done this thousands of times. You run six steps down a grassy slope, the canopy fills with air behind you, and then the ground simply stops being where your feet are. What happens next is not what most first-time fliers expect.
+The launch is the part people worry about most and the part they remember least afterward. Your pilot has done this thousands of times. You run six steps down a grassy slope, the canopy fills with air behind you, and then the ground simply stops being where your feet are.
 
-There is no violent sensation. No roar of engines, no sudden drop, no adrenaline spike of the kind associated with bungee jumping or skydiving. Paragliding is quiet in a way that surprises people, the only sound is the wind over the canopy and the occasional instruction from your pilot, and the transition from running to soaring is so smooth that your body takes a few seconds to register what has happened. Then you look down.
+What happens next is not what most first-time fliers expect. No violent sensation. No roar of engines, no sudden drop, nothing like the adrenaline spike of bungee jumping or skydiving. Paragliding is quiet in a way that consistently surprises people — the only sound is wind over the canopy and the occasional instruction from your pilot. The transition from running to soaring is so smooth that your body takes a few seconds to process it. Then you look down.
 
 Below Beatenberg, the launch site above Interlaken, the land falls away to both lakes simultaneously: Thunersee to the west and Brienzersee to the east, both a shade of turquoise that seems too saturated to be real, connected by the thin line of the town between them. To the south, the wall of the Bernese Alps rises in sequence: the dark north faces of the Eiger, the broader mass of the Monch, and the white crown of the Jungfrau catching afternoon light. The entire frame is too large for any single photograph to contain.
 

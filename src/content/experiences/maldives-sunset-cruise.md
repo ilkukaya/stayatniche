@@ -45,7 +45,7 @@ seo:
   metaDescription: "Watch spinner dolphins leap alongside your private dhoni as the Indian Ocean sun sets over South Malé Atoll. A 2.5-hour unforgettable Maldives cruise. From $90."
 ---
 
-The Maldives does sunset better than almost anywhere on Earth: low elevation, 360-degree ocean horizons, and the particular clarity of equatorial light combine to produce evenings of almost unreasonable beauty. Add a pod of spinner dolphins to the equation and you have something that moves beyond scenic into genuinely euphoric.
+The Maldives has good sunsets. Low elevation, 360-degree ocean horizons, and the clarity of equatorial light combine to produce evenings that are, by any objective standard, difficult to beat. Add a pod of spinner dolphins and the whole thing tips into something else.
 
 Spinner dolphins are present in Maldivian waters year-round, living in social pods of between 50 and several hundred individuals. In the late afternoon they begin to move from their deepwater resting areas toward the shallower atoll edges where they feed at dusk, and their route reliably takes them through the channels between South Malé Atoll's islands. The dhoni's captain, who has been running these waters for decades, knows the timing and the corridors well.
 
@@ -53,6 +53,6 @@ The boat itself is part of the experience. Traditional Maldivian dhonis, wooden 
 
 When the dolphins appear, they often come all at once, a sudden surge of dorsal fins and the percussive sound of bodies clearing the water. Spinner dolphins earn their name from their habit of rotating multiple times through the air on a single leap, sometimes reaching heights of two metres. They approach bow wakes deliberately and ride them with evident pleasure, giving passengers sustained, close-range viewing from the deck directly above.
 
-As the pod disperses with the fading light, the sunset takes over. The crew brings out a platter of fresh tropical fruit, and the sky performs its nightly extravagance in silence.
+As the pod disperses with the fading light, the sunset takes over. The crew brings out a platter of fresh tropical fruit, and the sky does the rest.
 
-**Practical tip:** The private format means the departure time can be adjusted to the season's sunset time. Confirm the specific timing when booking.
+**Practical tip:** The private format means departure can be adjusted to the season's exact sunset time. Confirm this when booking.

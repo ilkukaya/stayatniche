@@ -46,7 +46,7 @@ seo:
   metaDescription: "Discover the Maldives reef after dark, bioluminescence, nocturnal sharks, sleeping parrotfish, and feeding mantas. From $95 per person."
 ---
 
-The briefing covers the extra considerations of night diving: how to signal to your guide, what to do if you lose your light, how to avoid kicking the coral in reduced visibility, and the technique for checking for other divers and boats before ascending. Then you step off the dhoni's boarding platform into water that is 29°C and pitch black, and for three seconds before you clear your mask and check your gauge, the darkness is absolute.
+The briefing covers the extra considerations: how to signal to your guide, what to do if you lose your light, how to avoid kicking coral in reduced visibility, and the technique for checking for other divers before ascending. Then you step off the dhoni's boarding platform into water that is 29°C and pitch black. For three seconds before you clear your mask and check your gauge, the darkness is total.
 
 Then your torch clicks on.
 
@@ -54,7 +54,7 @@ The reef at night is the same architecture as the reef by day, the same coral fo
 
 The bioluminescence is not guaranteed but is frequently present in the Maldives. When it is, the effect is one of the most extraordinary in all of diving: every movement through the water, the sweep of a fin, the rise of a bubble stream, the disturbance of water at the edge of your torch beam, generates blue sparks. The plankton responsible are dinoflagellates, single-celled organisms that produce light as a mechanical defence response, and their concentration in Maldivian waters can be dense enough that turning off your torch briefly reveals the blue glow of your own disturbance moving ahead of you in the darkness.
 
-Night diving adds a layer of sensory engagement that even the most experienced divers find revelatory. The reduced field of vision focuses attention in a way that open daylight diving does not: you look at what is in the torch beam, and the rest of the ocean is your imagination. Sounds are more apparent: the crackle of snapping shrimp, the grinding of parrotfish, the distant thrum of a boat engine above the surface. The psychological experience of being forty minutes underwater in darkness, in the open Indian Ocean, is genuinely profound in ways that resist straightforward description.
+Night diving focuses attention in a way that daylight diving does not. The torch beam is all you have, and the rest of the ocean becomes sound and imagination: the crackle of snapping shrimp, the grinding of parrotfish, the distant thrum of a boat engine above the surface. Even experienced divers who have logged hundreds of dives report that their first proper night dive changed how they thought about the reef. Being forty minutes underwater in darkness in the Indian Ocean does something to your sense of scale that is genuinely difficult to describe to anyone who hasn't done it.
 
 **Mantas at night:** Certain sites in the North and South Male Atolls are visited by reef manta rays at night, when plankton blooms near the surface attract them for feeding. A manta ray ten metres across, barrel-rolling through a column of light in total darkness, circling the dive torch again and again as it feeds on the plankton attracted to the beam, is one of the most spectacular underwater events in the world. Ask your dive operator which sites are currently producing manta activity.
 

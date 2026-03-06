@@ -40,16 +40,16 @@ seo:
   metaDescription: "Discover Maine's most extraordinary places to stay, from Acadia National Park inn retreats and island escapes to historic lighthouse stations and lakeside wilderness lodges. Your complete niche travel guide."
 ---
 
-Maine makes you slow down. The roads are narrow and winding, the villages are clustered around harbors, and the coastline refuses to be driven quickly. This is a destination that rewards those who take the wrong turn and end up at a lobster pound on a working wharf where the traps are still drying on the dock.
+Maine resists being rushed. The roads are narrow and winding, the villages cluster around harbors, and the coastline refuses to be driven quickly. The best Maine moments are unplanned: a wrong turn that ends at a lobster pound on a working wharf where traps are still drying on the dock; a fog-clearing to reveal a lighthouse on a granite headland you weren't expecting. This is a destination that rewards wandering.
 
 
-Maine's accommodation culture has deep roots in the American inn tradition, and some of the country's finest historic inns line its coastal villages. Captain's houses converted to boutique properties with wood-burning fireplaces and oceanfront breakfast rooms. Working lighthouse stations that now accept overnight guests. And inland, sporting camps, Maine's century-old tradition of remote lakeside lodges for fishing, hunting, and wilderness immersion, represent some of the most authentic and enduring niche accommodation in the country.
+Maine's accommodation culture runs deep. Captain's houses converted to boutique inns with wood-burning fireplaces and oceanfront breakfast rooms are common along the coastal villages. Working lighthouse stations now accept overnight guests. Inland, sporting camps — Maine's century-old tradition of remote lakeside lodges for fishing, hunting, and wilderness immersion — remain some of the most authentic niche accommodation in the country, largely unchanged from what they were 80 years ago.
 
 
-The only national park in New England, Acadia occupies much of Mount Desert Island on the mid-coast. Cadillac Mountain is the first place in the continental United States to see sunrise from October through March. The park's carriage roads, 45 miles of crushed stone paths built by John D. Rockefeller Jr. in the early 20th century, offer exceptional cycling through forested hills and along ocean headlands.
+Acadia National Park occupies much of Mount Desert Island on the mid-coast and is the only national park in New England. Cadillac Mountain (1,528 feet) is the first place in the continental United States to see sunrise from October through March. The park's carriage roads — 45 miles of crushed stone paths built by John D. Rockefeller Jr. in the early 20th century — are exceptional for cycling through forested hills and along ocean headlands.
 
 
-Maine's coast is not a single scene but a series of distinct characters: the resort wealth of Kennebunkport, the working fishing culture of Pemaquid and Vinalhaven, the island isolation of Monhegan, the culinary ambition of Portland. Each requires a different pace and a different expectation.
+Maine's coast is not a single scene but a sequence of distinct characters: the resort wealth of Kennebunkport, the working fishing communities of Pemaquid and Vinalhaven, the car-free isolation of Monhegan Island 12 miles offshore, the culinary ambition of Portland's Old Port. Each requires different expectations and a different pace.
 
 
-North of Augusta, Maine becomes a different country: vast forests, remote lakes, and a moose population so dense that wildlife-watching drives along Route 15 near Moosehead Lake are near-certain. Baxter State Park's wilderness is among the most primeval remaining in the eastern United States.
+North of Augusta, Maine becomes a different country entirely. Vast boreal forest, remote lakes, and a moose population dense enough that wildlife-watching drives along Route 15 near Moosehead Lake are near-certain. Baxter State Park — where the Appalachian Trail ends on Mount Katahdin's summit — protects wilderness that is among the most primeval remaining in the eastern United States.

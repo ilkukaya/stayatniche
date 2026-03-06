@@ -39,17 +39,17 @@ seo:
   metaDescription: "Matera, Italy, the 9,000-year-old cave city of southern Italy. Cave hotel stays, UNESCO sassi exploration, and Basilicata's extraordinary culinary scene."
 ---
 
-Carlo Levi, exiled here in 1935 by the Fascist government, wrote of Matera's sassi: "No one has touched a stone or changed its position." He meant it as indictment: the poverty of the cave dwellings, the malaria, the near-medieval conditions of life in this ravine city in southern Italy's instep. By 1952, the Italian government had forcibly evacuated the 15,000 people living in the sassi, deeming them a national embarrassment. Matera became a metaphor for southern Italian backwardness.
+Carlo Levi, exiled here in 1935 by the Fascist government, wrote of Matera's sassi: "No one has touched a stone or changed its position." He meant it as indictment — the poverty of the cave dwellings, the malaria, the near-medieval conditions in this ravine city in southern Italy's instep. By 1952, the Italian government had forcibly evacuated the 15,000 people living in the sassi, deeming them a national embarrassment. Matera became a metaphor for southern Italian backwardness.
 
-What happened next is one of travel's most extraordinary reversals. In 1993, UNESCO declared the sassi a World Heritage Site. In 2019, Matera was European Capital of Culture. The cave dwellings, those same chambers where families slept alongside their animals within living memory, are now among the most sought-after hotel accommodations in Italy.
-
-
-The two sassi districts, Sasso Caveoso and Sasso Barisano, tumble down the sides of a ravine called the Gravina, a maze of stacked cave homes, church facades, cisterns, and staircases that has no equivalent in Europe. From the Belvedere viewpoint across the ravine, the city looks almost geological rather than architectural, as if the buildings grew from the rock rather than being imposed upon it.
+What happened next is one of travel's great reversals. In 1993, UNESCO declared the sassi a World Heritage Site. In 2019, Matera was European Capital of Culture. The cave dwellings where families slept alongside their animals within living memory are now among the most sought-after hotel accommodations in Italy.
 
 
-Matera is the undisputed capital of the cave hotel. The finest properties have transformed ancient palazzi and cave systems into accommodation of genuine luxury: exposed tuff walls, candlelit wine cellars, private terraces overlooking the ravine lit at night, breakfast served in vaulted rooms that once stored grain. The Sextantio Le Grotte della Civita, a restored cave complex in the Sasso Caveoso, sets the benchmark for the genre worldwide.
+The two sassi districts — Sasso Caveoso and Sasso Barisano — tumble down the sides of the Gravina ravine in a maze of stacked cave homes, church facades, cisterns, and staircases that has no equivalent in Europe. From the Belvedere viewpoint across the gorge, the city looks almost geological rather than architectural, as if the buildings grew from the rock rather than were imposed upon it.
 
 
-The Gravina gorge opposite the sassi contains dozens of rupestrian (cave) churches carved directly into the rock face, many still bearing Byzantine frescoes. Few tourists cross the ravine to explore them, which is exactly the reason to do so. A morning with a local guide in the Murgia Materana park, scrambling into cave chapels reached by goat trails, represents Matera at its most unmediated and extraordinary.
+Matera is the undisputed capital of the cave hotel. The best properties have transformed ancient palazzi and cave systems into accommodation of genuine quality: exposed tuff walls, candlelit wine cellars, private terraces over the ravine lit at night, breakfast served in vaulted rooms that once stored grain. The Sextantio Le Grotte della Civita, a restored cave complex in the Sasso Caveoso, sets the benchmark for the genre worldwide.
 
-The food, too, rewards exploration: Basilicata's cuisine is based on chilli, hand-rolled pasta, ancient grain breads, and sheep's milk cheeses that have been made the same way for centuries. In a small restaurant cut into a cave wall, eating cialledda and drinking Aglianico wine, Matera's transformation from embarrassment to revelation feels complete.
+
+The Gravina gorge opposite the sassi holds dozens of rupestrian cave churches carved directly into the rock face, many bearing Byzantine frescoes. Few tourists cross the ravine to explore them, which is exactly the reason to go. A morning with a local guide in the Murgia Materana park, scrambling into cave chapels reached by goat trails, shows you a Matera that the cave hotels can't.
+
+Basilicata's cuisine is built on chilli, hand-rolled pasta, ancient grain breads, and sheep's milk cheeses made the same way for centuries. In a small restaurant cut into a cave wall, eating cialledda and drinking Aglianico del Vulture, Matera's transformation from embarrassment to revelation feels complete.

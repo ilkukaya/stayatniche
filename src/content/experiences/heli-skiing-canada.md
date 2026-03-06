@@ -47,7 +47,7 @@ seo:
   metaDescription: "Drop into untouched Selkirk powder from a helicopter. 3,000 vertical metres per day of pristine wilderness skiing in BC. From $1,200 per person per day."
 ---
 
-There is a specific kind of silence that exists only at the top of a mountain reached by helicopter. No chair lift hum, no other skiers, no distant piste-groomer, just the retreating thwump of rotors fading into the valley below and then nothing except wind, altitude, and an untracked field of snow that stretches for a kilometre ahead of you with not a single previous track in it. Your guide says go. You push off.
+The helicopter deposits you at the top and pulls away. The rotor sound fades into the valley below. Then: nothing. No chair lift hum, no other skiers, no distant groomer. Just wind, altitude, and an untracked field of snow stretching for a kilometre ahead of you with not a single previous track in it. Your guide says go. You push off.
 
 The Selkirk Mountains of interior British Columbia have a specific claim on the attention of serious powder skiers. The interior location means the moisture from Pacific storms loses most of its water content crossing the Coast Range before reaching the Selkirks, depositing snow that is drier, lighter, and deeper than almost anywhere else in North America. CMH Heli-Skiing, which has operated in these mountains since 1965, calls it Selkirk powder, and skiers who have experienced it tend to use words like "memorable" without embarrassment.
 
