@@ -36,7 +36,7 @@ coordinates:
 featured: true
 ---
 
-Seven architects were each given a pine tree and asked to build a room in it. The results, standing in the Lule River valley forest outside the village of Harads, 60 kilometres south of the Arctic Circle, are some of the most photographed hotel rooms in the world — and they earn the attention.
+Seven architects were each given a pine tree and asked to build a room in it. The results, standing in the Lule River valley forest outside the village of Harads, 60 kilometres south of the Arctic Circle, are some of the most photographed hotel rooms in the world, and they earn the attention.
 
 Each room at Treehotel is a distinct architectural proposition:
 
@@ -48,4 +48,4 @@ Each room at Treehotel is a distinct architectural proposition:
 
 Additional rooms — the 7th Room, the Cabin, and the Dragon Fly — round out the collection, each commissioned from different designers.
 
-The surrounding Swedish Lapland landscape changes radically by season. Summer brings the midnight sun and long golden evenings from the treetop deck; winter brings the prospect of northern lights visible from bed, and the forest blanketed in snow and reachable by husky sled or snowshoe. Activities, from ice fishing on the river to moose safaris and foraging walks, are organized through the main lodge. Meals are served in the Granön building on the riverbank below, with a kitchen focused on local Lapland ingredients.
+The surrounding Swedish Lapland landscape changes radically by season. Summer brings the midnight sun and long golden evenings from the treetop deck. Winter brings the prospect of northern lights visible from bed, and the forest blanketed in snow and reachable by husky sled or snowshoe. Activities, from ice fishing on the river to moose safaris and foraging walks, are organized through the main lodge. Meals are served in the Granön building on the riverbank below, with a kitchen focused on local Lapland ingredients.

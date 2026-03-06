@@ -32,7 +32,7 @@ Here is honest, specific advice: where to go, which lodges offer the best value 
 
 
 
-Kenya is where modern safari began. The Masai Mara ecosystem — Kenya's share of the greater Serengeti — remains the most accessible, best-organised, and arguably most wildlife-dense safari environment in Africa. The Mara receives significant visitor numbers, particularly during the Great Migration (July–October). But "well-visited" should not be confused with "less worthwhile." The quality of wildlife encounters in the Masai Mara, the density of big cats, the elephant concentrations, the sheer quantity of plains game, is during peak season genuinely hard to beat.
+Kenya is where modern safari began. The Masai Mara ecosystem, Kenya's share of the greater Serengeti, remains the most accessible, best-organised, and arguably most wildlife-dense safari environment in Africa. The Mara receives significant visitor numbers, particularly during the Great Migration (July–October). But "well-visited" should not be confused with "less worthwhile." The quality of wildlife encounters in the Masai Mara, the density of big cats, the elephant concentrations, the sheer quantity of plains game, is during peak season genuinely hard to beat.
 
 **Kenya's advantages for first-timers:**
 - Well-developed infrastructure (domestic flights, roads within reserves, multiple quality lodges at all price points)
@@ -104,9 +104,9 @@ The "Big Five" (lion, elephant, leopard, rhinoceros, and Cape buffalo) were hist
 
 **Elephants** are plentiful in most major safari areas. Their size makes them easy to spot, and their social behaviour, including family interactions, calf play, and musth bulls, provides some of the most extended and engaging wildlife viewing available.
 
-**Leopards** are genuinely difficult: solitary, nocturnal, and expert at concealment. South Luangwa in Zambia is the best destination for leopard sightings; the Mara and Serengeti offer chances but not guarantees. When you do find one — usually curled in an acacia or draped over a branch — the sighting is all the more powerful for being earned.
+**Leopards** are genuinely difficult: solitary, nocturnal, and expert at concealment. South Luangwa in Zambia is the best destination for leopard sightings; the Mara and Serengeti offer chances but not guarantees. When you do find one, usually curled in an acacia or draped over a branch, the sighting is all the more powerful for being earned.
 
-**Rhinoceros** are in genuine trouble: poaching has dramatically reduced populations. White rhino are most reliably seen in South Africa's private reserves (Sabi Sand, Phinda); black rhino are even rarer. Ngorongoro Crater has a small but reliable black rhino population — the crater's enclosed ecosystem makes tracking them feasible.
+**Rhinoceros** are in genuine trouble: poaching has dramatically reduced populations. White rhino are most reliably seen in South Africa's private reserves (Sabi Sand, Phinda); black rhino are even rarer. Ngorongoro Crater has a small but reliable black rhino population. The crater's enclosed ecosystem makes tracking them feasible.
 
 **Cape buffalo** are often the least photogenic but the most interesting to safari veterans: vast herds with complex social dynamics, capable of extremely dangerous behaviour, and possessed of a peculiarity of expression (the "death stare") that makes them compelling subjects.
 
@@ -119,7 +119,7 @@ The "Big Five" (lion, elephant, leopard, rhinoceros, and Cape buffalo) were hist
 **Wet season (November–December, March–June):** Lush vegetation, baby animals (calving season December–March in Tanzania), fewer visitors, lower prices. Green season photography has exceptional quality: dramatic skies, vivid green grasslands. The wildebeest calving in Ndutu (January–March) is arguably the most dramatic wildlife event in Africa.
 
 
-**Dry season (May–October):** The prime safari window: game concentrations at permanent water, minimal vegetation, excellent predator-prey action. The Chobe River in August/September — elephants from across the region converging on the water — is one of Africa's great wildlife spectacles.
+**Dry season (May–October):** The prime safari window: game concentrations at permanent water, minimal vegetation, excellent predator-prey action. The Chobe River in August/September, with elephants from across the region converging on the water, is one of Africa's great wildlife spectacles.
 
 **Wet season (November–April):** Green and scenic, with baby animals and excellent birding, but game viewing is more challenging in thick vegetation.
 
@@ -132,10 +132,10 @@ Most East African safaris are conducted in open-topped 4WD Land Cruisers or Land
 The best safaris allow off-road driving within private conservancies. The ability to follow a leopard off-track, or position the vehicle optimally for a lion kill, is a significant advantage over national park safaris where off-road driving is prohibited.
 
 
-The guide is the difference between a great safari and a merely good one. A great guide knows where animals are likely to be found, can interpret animal behaviour, and can read subtle signs — broken grass, paw prints, distant vulture behaviour — that locate wildlife before it's visible. When choosing between similarly priced camps, ask specifically about the guiding team's experience and qualifications.
+The guide is the difference between a great safari and a merely good one. A great guide knows where animals are likely to be found, can interpret animal behaviour, and can read subtle signs, such as broken grass, paw prints, and distant vulture behaviour, that locate wildlife before it's visible. When choosing between similarly priced camps, ask specifically about the guiding team's experience and qualifications.
 
 
-Game drives depart before dawn, typically 5:30–6:00am, to catch the period of peak predator activity that follows the night. Most guests are initially reluctant. By the end of the first drive, everyone understands. The light at dawn in the African bush — horizontal, golden, directional — is the most beautiful light available for wildlife photography. The activity level in the first two hours after dawn typically exceeds what the rest of the day offers.
+Game drives depart before dawn, typically 5:30–6:00am, to catch the period of peak predator activity that follows the night. Most guests are initially reluctant. By the end of the first drive, everyone understands. The light at dawn in the African bush, horizontal, golden, and directional, is the most beautiful light available for wildlife photography. The activity level in the first two hours after dawn typically exceeds what the rest of the day offers.
 
 ---
 
@@ -153,10 +153,10 @@ Game drives depart before dawn, typically 5:30–6:00am, to catch the period of 
 
 
 
-The main safari destinations — Kenya, Tanzania, Botswana, Zambia, South Africa's safari regions — are generally safe for tourist visitors. The political and security situation varies; check your government's current travel advisory before departure. The specific concern in safari regions is not urban crime but wildlife encounters: your guides are trained to manage these, and following their instructions is the only protocol required.
+The main safari destinations, Kenya, Tanzania, Botswana, Zambia, and South Africa's safari regions, are generally safe for tourist visitors. The political and security situation varies; check your government's current travel advisory before departure. The specific concern in safari regions is not urban crime but wildlife encounters: your guides are trained to manage these, and following their instructions is the only protocol required.
 
 
-An 8–10 day first safari can range from approximately $3,000–5,000/person (budget camps, shared vehicles) to $15,000–25,000/person (ultra-luxury camps, private vehicles). A realistic mid-range first safari — quality camps in the Masai Mara and Serengeti, shared game vehicles, with internal flights — runs approximately $6,000–10,000/person including international flights from Europe.
+An 8–10 day first safari can range from approximately $3,000–5,000/person (budget camps, shared vehicles) to $15,000–25,000/person (ultra-luxury camps, private vehicles). A realistic mid-range first safari, with quality camps in the Masai Mara and Serengeti, shared game vehicles, and internal flights, runs approximately $6,000–10,000/person including international flights from Europe.
 
 
 For first-timers, a reputable specialist safari operator (Abercrombie & Kent, andBeyond Journeys, Natural Habitat Adventures, Wilderness Safaris, or one of dozens of regional specialists) adds real value: they know which camps have the best guides, which areas are producing the best wildlife in the current month, and how to structure an itinerary that makes geographic sense. The fee premium over self-booking is typically modest relative to the total trip cost and the value of expert knowledge.

@@ -47,7 +47,7 @@ seo:
   metaDescription: "Drive your own dog sled through the Yukon's boreal wilderness with Alaskan huskies. Northern lights, log cabin lunch, and genuine wilderness. From $250."
 ---
 
-You hear the kennel before you see it. Half a kilometre away, sixty Alaskan huskies know a run is coming — and they are making that point loudly. At 7am in Yukon darkness, the combined volume operates at a frequency that registers in your chest. By the time you walk into the yard, every dog is pulling against its chain, and the noise is continuous and total.
+You hear the kennel before you see it. Half a kilometre away, sixty Alaskan huskies know a run is coming, and they are making that point loudly. At 7am in Yukon darkness, the combined volume operates at a frequency that registers in your chest. By the time you walk into the yard, every dog is pulling against its chain, and the noise is continuous and total.
 
 This enthusiasm is not performance. Alaskan huskies are not companion animals who have been trained to pull sleds. They are working dogs bred across many generations specifically for this work, and the need to run is as fundamental to them as feeding. Your musher will explain, as you help harness your team, that the ethical standard for working sled dogs is straightforward: a dog that doesn't want to run is not put in a team, and a dog that shows distress is rested. The dogs you harness this morning would be genuinely upset to be left behind.
 

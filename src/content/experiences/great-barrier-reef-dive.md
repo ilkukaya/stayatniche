@@ -55,6 +55,6 @@ The variety across two days earns its keep. Shallow bommie tops where parrotfish
 
 Non-certified divers can join on a Discover Scuba programme: instructors run sessions off the vessel's back deck before entry, allowing absolute beginners to get in the water under direct supervision. It works well.
 
-Meals on board are hearty, the crew are experienced, and the sound of the reef at anchor — gentle current, occasional fish splash, the creak of the mooring line — makes for surprisingly good sleeping between dives.
+Meals on board are hearty, the crew are experienced, and the sound of the reef at anchor (gentle current, occasional fish splash, the creak of the mooring line) makes for surprisingly good sleeping between dives.
 
 **Best time to visit:** Year-round. June to October offers the best visibility, often 20–30 metres, and the most comfortable temperatures for logging multiple dives per day.

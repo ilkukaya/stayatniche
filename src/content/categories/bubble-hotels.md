@@ -39,11 +39,11 @@ Book at least two nights to improve your statistical chances of a clear sky. Che
 **Spain's interior plateau regions**, Extremadura and Castile particularly, have seen new bubble hotel development capitalising on the peninsula's exceptional astronomical darkness.
 
 
-Finnish bubble hotels provide heavy duvets and quality bedding, but pack wool base layers if you run cold. Even well-heated domes can have cool spots near the panels on the hardest nights. Blackout eye masks are counterproductive by definition — accept that dawn will wake you naturally, which is generally a pleasure in a forest landscape. Robes and slippers are standard.
+Finnish bubble hotels provide heavy duvets and quality bedding, but pack wool base layers if you run cold. Even well-heated domes can have cool spots near the panels on the hardest nights. Blackout eye masks are counterproductive by definition. Accept that dawn will wake you naturally, which is generally a pleasure in a forest landscape. Robes and slippers are standard.
 
 Privacy varies more than you'd expect. Some bubble hotels are positioned with genuine visual separation between units; others are closer together than the photography suggests. Check the site layout carefully at booking if privacy matters.
 
 For winter stays in Finland, combine the bubble hotel with snowshoe excursions, reindeer farm visits, and husky safaris during daylight hours. The bubble is the centrepiece, not the whole experience.
 
 
-Bubble hotel stays pair naturally with [ice hotels](/categories/ice-hotels) for a fully committed Arctic winter itinerary — the two experiences complement rather than overlap. For summer visits to Nordic destinations, [treehouse hotels](/categories/treehouse-hotels) in Swedish forests offer canopy-level landscape immersion of a different kind.
+Bubble hotel stays pair naturally with [ice hotels](/categories/ice-hotels) for a fully committed Arctic winter itinerary, and the two experiences complement rather than overlap. For summer visits to Nordic destinations, [treehouse hotels](/categories/treehouse-hotels) in Swedish forests offer canopy-level landscape immersion of a different kind.

@@ -21,17 +21,17 @@ seo:
   metaDescription: "The most unique places to stay in Bali, jungle treehouses, clifftop retreats, floating villas, and extraordinary boutique hotels beyond the ordinary villa rental."
 ---
 
-Bali's hospitality landscape has grown enormous — and uneven. Thousands of villas compete for your booking, many perfectly fine, most indistinguishable from one another. Then there are the properties that are genuinely unlike anything else: the handful that deliver experiences unavailable anywhere else on the island, or in some cases anywhere else on Earth.
+Bali's hospitality landscape has grown enormous, and uneven. Thousands of villas compete for your booking, many perfectly fine, most indistinguishable from one another. Then there are the properties that are genuinely unlike anything else: the handful that deliver experiences unavailable anywhere else on the island, or in some cases anywhere else on Earth.
 
-This guide is organised by region — Ubud/highland, Seminyak/Canggu, Uluwatu/south coast, and East Bali — because Bali's geography shapes the experience as much as the hotel itself.
+This guide is organised by region: Ubud/highland, Seminyak/Canggu, Uluwatu/south coast, and East Bali, because Bali's geography shapes the experience as much as the hotel itself.
 
 ---
 
 
 
-Ask experienced Bali travellers which single hotel best captures what the island can be at its highest expression, and Capella Ubud is the answer that comes up most consistently. Bill Bensley's masterwork — a collection of colonial-era "explorer" tents perched on stilts in the Wos River jungle, each individually designed to reference the story of a fictional Victorian adventurer — is both the most theatrical and the most genuinely luxurious accommodation on the island.
+Ask experienced Bali travellers which single hotel best captures what the island can be at its highest expression, and Capella Ubud is the answer that comes up most consistently. Bill Bensley's masterwork, a collection of colonial-era "explorer" tents perched on stilts in the Wos River jungle, each individually designed to reference the story of a fictional Victorian adventurer, is both the most theatrical and the most genuinely luxurious accommodation on the island.
 
-Each of Capella's 22 tents (plus a treehouse) sits on its own platform above the rainforest floor, connected by raised walkways. Inside, the design is exact and deliberate: the fictional backstory of each tent's original "owner" — a botanist, a hunter, a river trader — is brought to life through selected objects, custom furniture, and materials sourced from across the region. The beds are exceptional, the bathrooms generous, and the outdoor showers positioned to face the jungle.
+Each of Capella's 22 tents (plus a treehouse) sits on its own platform above the rainforest floor, connected by raised walkways. Inside, the design is exact and deliberate: the fictional backstory of each tent's original "owner," a botanist, a hunter, or a river trader, is brought to life through selected objects, custom furniture, and materials sourced from across the region. The beds are exceptional, the bathrooms generous, and the outdoor showers positioned to face the jungle.
 
 This is also one of Bali's finest dining properties. The all-day Jungle restaurant overlooks a rice terrace; the chef uses produce from the hotel's own garden and relationships with local farmers to create contemporary Indonesian cuisine that is, course by course, among the best on the island.
 
@@ -43,9 +43,9 @@ This is also one of Bali's finest dining properties. The all-day Jungle restaura
 ---
 
 
-Bambu Indah, on the Sayan ridge above the Ayung River gorge, is the creation of John and Cynthia Hardy — the couple behind the Green School Bali — and it shares their philosophy of sustainable beauty executed without compromise. The accommodation consists of six antique Javanese bridal houses (joglo) transported from East Java and re-erected on the hillside, plus a collection of bale accommodation and a spectacular bamboo-constructed treehouse.
+Bambu Indah, on the Sayan ridge above the Ayung River gorge, is the creation of John and Cynthia Hardy, the couple behind the Green School Bali, and it shares their philosophy of sustainable beauty executed without compromise. The accommodation consists of six antique Javanese bridal houses (joglo) transported from East Java and re-erected on the hillside, plus a collection of bale accommodation and a spectacular bamboo-constructed treehouse.
 
-The joglo houses are genuinely antique — 150–200 years old — with the carved teak panels, hand-painted ceilings, and latticed windows of their era. Inside, modern plumbing and beds have been installed with care not to disturb the historical fabric. Sleeping in a house that was already old when your great-grandparents were born, surrounded by Balinese jungle, is an experience that no purpose-built hotel can replicate.
+The joglo houses are genuinely antique, 150–200 years old, with the carved teak panels, hand-painted ceilings, and latticed windows of their era. Inside, modern plumbing and beds have been installed with care not to disturb the historical fabric. Sleeping in a house that was already old when your great-grandparents were born, surrounded by Balinese jungle, is an experience that no purpose-built hotel can replicate.
 
 The riverside pool, carved from stone at the base of the gorge, is one of Bali's most spectacular: fed by a natural spring, positioned next to the Ayung River, with jungle canopy overhead and the sound of the river constant.
 
@@ -66,9 +66,9 @@ The architecture uses local stone, reclaimed wood, and thatch in a contemporary 
 
 
 
-Alila Villas Uluwatu is one of the great architectural hotels of Asia: 65 villas and a clifftop pool complex by WOHA Architects, positioned on the limestone escarpment of the Bukit Peninsula with the Indian Ocean visible in every direction. The design is rigorous — low, horizontal, and minimal — using the same limestone from which the cliff is formed as the primary building material.
+Alila Villas Uluwatu is one of the great architectural hotels of Asia: 65 villas and a clifftop pool complex by WOHA Architects, positioned on the limestone escarpment of the Bukit Peninsula with the Indian Ocean visible in every direction. The design is rigorous: low, horizontal, and minimal, using the same limestone from which the cliff is formed as the primary building material.
 
-The villas are large, private, and impeccably finished. Each has an outdoor terrace and private pool, but Alila's communal spaces — the clifftop Temple Bar, the Wave Pool at the cliff edge, the beach club 100 metres below accessible by lift through the limestone — are equally central to the experience. The sunsets here are genuinely among Bali's best.
+The villas are large, private, and impeccably finished. Each has an outdoor terrace and private pool, but Alila's communal spaces, including the clifftop Temple Bar, the Wave Pool at the cliff edge, and the beach club 100 metres below accessible by lift through the limestone, are equally central to the experience. The sunsets here are genuinely among Bali's best.
 
 **Price range:** Pool Villas from $700/night; One-Bedroom Cliff Villas from $1,000/night
 **Restaurant:** Cire Restaurant's clifftop position and contemporary Asian menu make it one of the south's finest dining venues
@@ -85,7 +85,7 @@ Karma Kandara combines private villa accommodation with one of Bali's most spect
 
 
 
-Katamama is the most architecturally considered small hotel in Seminyak — a 30-suite property built in the Balinese architectural idiom but using materials and craftsmanship of exceptional quality. Every room uses handmade terracotta tiles from a family-run workshop in East Java. The furniture was commissioned from local artisans. The textiles are handwoven using traditional techniques. The result is a hotel that feels genuinely Balinese rather than Bali-influenced.
+Katamama is the most architecturally considered small hotel in Seminyak, a 30-suite property built in the Balinese architectural idiom but using materials and craftsmanship of exceptional quality. Every room uses handmade terracotta tiles from a family-run workshop in East Java. The furniture was commissioned from local artisans. The textiles are handwoven using traditional techniques. The result is a hotel that feels genuinely Balinese rather than Bali-influenced.
 
 The rooftop bar, Akademi, is one of Seminyak's finest, with craft cocktails and views over the low-rise neighbourhood roofscape.
 
@@ -104,7 +104,7 @@ Beyond the sustainability credentials, Desa Potato Head is one of Canggu's best 
 
 
 
-East Bali — spice-growing country, quieter and more authentically village-oriented — is where Alila Manggis sits in a working salak (snake fruit) orchard facing Mount Agung across Amuk Bay. The 56-room property is elegant and modest in scale, with a long pool facing the black sand beach and a cooking school that focuses on genuine Balinese technique.
+East Bali, spice-growing country, quieter and more authentically village-oriented, is where Alila Manggis sits in a working salak (snake fruit) orchard facing Mount Agung across Amuk Bay. The 56-room property is elegant and modest in scale, with a long pool facing the black sand beach and a cooking school that focuses on genuine Balinese technique.
 
 Alila Manggis is the best base for East Bali exploration: the palace town of Klungkung, the pre-Hindu Water Palace at Tirta Gangga, the Besakih mother temple, and the volcanic lakes of Batur are all within reasonable driving distance.
 

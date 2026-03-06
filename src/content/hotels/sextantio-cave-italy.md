@@ -104,4 +104,4 @@ The hotel's greatest asset may be its address. Matera is one of the oldest conti
 
 The hotel restaurant serves traditional Lucanian cooking: the cuisine of Basilicata, a region still little known to most tourists but exceptional in its honest, ingredient-led cooking. Handmade pasta with wild boar ragù, salt cod with dried peppers, lamb slow-cooked with local herbs. The wine list focuses on southern Italian varietals: Aglianico del Vulture from the volcanic soils to the north, Primitivo from Puglia just across the regional border.
 
-Sextantio Le Grotte della Civita is not a hotel that happens to be in a cave. It's a considered act of cultural recovery — a city's forgotten dwellings brought back to life as somewhere genuinely worth the journey to reach.
+Sextantio Le Grotte della Civita is not a hotel that happens to be in a cave. It's a considered act of cultural recovery: a city's forgotten dwellings brought back to life as somewhere genuinely worth the journey to reach.

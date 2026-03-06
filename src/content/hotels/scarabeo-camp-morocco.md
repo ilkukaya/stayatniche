@@ -68,7 +68,7 @@ seo:
   metaDescription: "An eco-luxury Berber camp in Morocco's Agafay stone desert, just 40km from Marrakech. Camel rides, hammam spa, and starlit dinners. Scarabeo Camp from $350/night."
 ---
 
-Morocco has two deserts, and most visitors know only one. The great Saharan erg of Merzouga — cinematic orange dunes, camel caravans, two-day drive from Marrakech — gets all the postcards. The Agafay, the mineral stone plateau forty kilometres south of the city in the Atlas foothills, is rawer and considerably more accessible to anyone based in Marrakech.
+Morocco has two deserts, and most visitors know only one. The great Saharan erg of Merzouga, cinematic orange dunes, camel caravans, two-day drive from Marrakech, gets all the postcards. The Agafay, the mineral stone plateau forty kilometres south of the city in the Atlas foothills, is rawer and considerably more accessible to anyone based in Marrakech.
 
 Scarabeo Camp has built its reputation in the Agafay, and the result is one of the more honest articulations of what luxury desert camping in Morocco can actually be.
 

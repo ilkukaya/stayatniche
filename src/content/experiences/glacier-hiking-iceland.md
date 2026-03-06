@@ -45,7 +45,7 @@ seo:
   metaDescription: "Hike Europe's largest glacier with crampons and a certified guide. Explore ice caves, crevasses, and seracs on Vatnajokull in Iceland. From $85 per person."
 ---
 
-The ice beneath your crampons is not white. Up close, in the compression zones where centuries of snowfall have been squeezed into crystalline density, Vatnajokull is blue — a deep, saturated glaciological blue that photographs consistently fail to capture accurately. This is 8,000-year-old ice. The air in the bubbles visible through the surface was there before Europe as a concept existed.
+The ice beneath your crampons is not white. Up close, in the compression zones where centuries of snowfall have been squeezed into crystalline density, Vatnajokull is blue, a deep, saturated glaciological blue that photographs consistently fail to capture accurately. This is 8,000-year-old ice. The air in the bubbles visible through the surface was there before Europe as a concept existed.
 
 Vatnajokull covers 7,900 square kilometres of southeastern Iceland, sitting atop a cluster of active volcanoes including Grimsvotn and Bardarbunga. The glacier flows outward in dozens of outlet tongues, the most accessible of which, Skaftafellsjokull, Falljokull, and Solheimajokull, are reached by short walks from car parks on the Ring Road. This accessibility is part of the magic: within an hour of arriving at the glacier edge, you can be deep inside a landscape that feels genuinely extraterrestrial.
 

@@ -97,7 +97,7 @@ Stepping outside is to enter one of the most biodiverse ecosystems in the Southe
 
 **The Spa**
 
-The hotel's spa is among the finest in southern Chile. Thermal pools fed by natural volcanic hot springs sit outdoors within the forest — soaking in them as rain drips through the canopy above is the kind of thing that makes you extend your stay. Treatment rooms offer massages and body wraps using native botanical ingredients sourced from within the reserve.
+The hotel's spa is among the finest in southern Chile. Thermal pools fed by natural volcanic hot springs sit outdoors within the forest. Soaking in them as rain drips through the canopy above is the kind of thing that makes you extend your stay. Treatment rooms offer massages and body wraps using native botanical ingredients sourced from within the reserve.
 
 **Food and Drink**
 

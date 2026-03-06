@@ -38,7 +38,7 @@ coordinates:
 featured: true
 ---
 
-Ashford Castle has been around since 1228, when the Anglo-Norman de Burgo family built the original tower on the shores of Lough Corrib. The Guinness family expanded it significantly in the 19th century, and the result is 350 acres of Irish estate with a castle at its centre that is unambiguously the real thing — not a Victorian folly, not a hotel that happens to have a turret.
+Ashford Castle has been around since 1228, when the Anglo-Norman de Burgo family built the original tower on the shores of Lough Corrib. The Guinness family expanded it significantly in the 19th century, and the result is 350 acres of Irish estate with a castle at its centre that is unambiguously the real thing: not a Victorian folly, not a hotel that happens to have a turret.
 
 The 83 rooms are individually designed around the castle's medieval bones. Many look out over Lough Corrib, which at 68 square kilometres is Ireland's second-largest lake, stretching to the horizon in a view that makes sitting in a window seat with a whiskey feel like a moral obligation.
 

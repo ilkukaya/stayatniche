@@ -67,7 +67,7 @@ seo:
   metaDescription: "Stay in the keeper's cottage at Portland Bill's iconic striped lighthouse on the Jurassic Coast. Birdwatching, fossil hunting, and dramatic coastal scenery in Dorset. From $150/night."
 ---
 
-The Isle of Portland pushes south from the Dorset coast like a clenched fist — a four-mile limestone plateau connected to the mainland by Chesil Beach and rising to the Bill, where the Channel's tides create one of the most violent tidal races in European waters. The Portland Race is visible from the lighthouse as a confused, tumbling line of white water even in calm conditions. It has wrecked ships for centuries, and it was to warn mariners away from it that the first lighthouse was built here in 1716.
+The Isle of Portland pushes south from the Dorset coast like a clenched fist: a four-mile limestone plateau connected to the mainland by Chesil Beach and rising to the Bill, where the Channel's tides create one of the most violent tidal races in European waters. The Portland Race is visible from the lighthouse as a confused, tumbling line of white water even in calm conditions. It has wrecked ships for centuries, and it was to warn mariners away from it that the first lighthouse was built here in 1716.
 
 The current structure, the third lighthouse to stand on the Bill, built in 1906 in the distinctive red-and-white candy-stripe pattern that has made it one of the most recognisable lighthouses in England, still operates as an active navigational aid. The keeper's cottages that once housed the families responsible for maintaining the light have been converted to self-catering holiday accommodation, and to stay in them is to occupy one of the most atmospherically charged addresses on the English coast.
 

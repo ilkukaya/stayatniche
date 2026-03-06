@@ -4,7 +4,7 @@ category: train-hotels
 destination: "Pretoria to Cape Town (and beyond)"
 country: "South Africa"
 continent: "Africa"
-description: "Widely considered the world's most luxurious train, Rovos Rail runs privately owned vintage carriages — each restored to period specification — across southern Africa's most dramatic routes. The Pretoria to Cape Town journey crosses the Karoo; the Cape to Cairo epic takes two weeks. Service and comfort surpass most five-star hotels."
+description: "Widely considered the world's most luxurious train, Rovos Rail runs privately owned vintage carriages, each restored to period specification, across southern Africa's most dramatic routes. The Pretoria to Cape Town journey crosses the Karoo; the Cape to Cairo epic takes two weeks. Service and comfort surpass most five-star hotels."
 coverImage: /images/hotels/rovos-rail-south-africa.jpg
 gallery:
   - /images/hotels/rovos-rail-south-africa-2.jpg
@@ -78,4 +78,4 @@ The dining car operates on a formal table setting basis that is entirely appropr
 
 Off-train excursions are included at selected stops: Kimberley's diamond mines, Matjiesfontein's extraordinary time-capsule of Victorian colonial culture, the Cape Winelands at the end of the journey. But the train itself is the destination: the sound of the steam engine (on heritage sections), the rhythm of the tracks, the slow revelation of a continent through plate glass and open air.
 
-The Cape to Cairo route — 15 days through Zimbabwe, Zambia, Tanzania, and Kenya — is the journey to plan toward. It has very few rivals in any form of travel.
+The Cape to Cairo route (15 days through Zimbabwe, Zambia, Tanzania, and Kenya) is the journey to plan toward. It has very few rivals in any form of travel.

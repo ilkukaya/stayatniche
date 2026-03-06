@@ -45,7 +45,7 @@ seo:
   metaDescription: "Kayak through the world's brightest bioluminescent bay on Vieques, Puerto Rico. A 2-hour guided night experience through Mosquito Bay's glowing waters. From $55."
 ---
 
-Mosquito Bay looks unremarkable in daylight — less than a kilometre across, fringed by mangroves on three sides. The Guinness World Records designation as the world's brightest bioluminescent bay gives you no visual clue until you paddle into it after dark. Then your first stroke lights up.
+Mosquito Bay looks unremarkable in daylight, less than a kilometre across, fringed by mangroves on three sides. The Guinness World Records designation as the world's brightest bioluminescent bay gives you no visual clue until you paddle into it after dark. Then your first stroke lights up.
 
 The bioluminescence comes from Pyrodinium bahamense, dinoflagellates that emit light when physically disturbed. Mosquito Bay's combination of warm, calm, nutrient-rich water and limited tidal exchange concentrates these organisms to around one million per gallon at peak. The result is not a subtle glow. The paddle blade emerges trailing a curtain of blue-green fire. The wake behind the boat glows with every ripple. Trail your fingers over the side and each one leaves a contrail that fades slowly in the dark water.
 

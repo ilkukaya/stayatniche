@@ -47,7 +47,7 @@ seo:
   metaDescription: "Camp at 3,700m and watch Fuego volcano erupt through the night. One of Central America's greatest adventures from Antigua, Guatemala. From $55 per person."
 ---
 
-By 2am, Fuego has erupted thirty times and any attempt at sleep has been abandoned. The eruptions are loud enough to feel in your chest — a deep thud followed by a roar that rolls across the highland plateau — and the lava spilling down Fuego's flanks illuminates the underside of the ash column in flickering orange. This is not a distant spectacle. The two volcanoes share a saddle; you are camped three kilometres from the vent. Most people at camp agree it is the most dramatic thing they have ever seen from a sleeping bag.
+By 2am, Fuego has erupted thirty times and any attempt at sleep has been abandoned. The eruptions are loud enough to feel in your chest, a deep thud followed by a roar that rolls across the highland plateau, and the lava spilling down Fuego's flanks illuminates the underside of the ash column in flickering orange. This is not a distant spectacle. The two volcanoes share a saddle; you are camped three kilometres from the vent. Most people at camp agree it is the most dramatic thing they have ever seen from a sleeping bag.
 
 Getting there is the hard part. The ascent from the small village of La Soledad takes four to six hours depending on your fitness and acclimatisation. The trail climbs steeply through farmland and then pine forest before breaking into a lunar landscape of volcanic ash and pumice near the upper reaches. Altitude is the main challenge: the air at 3,700 metres contains significantly less oxygen than at sea level, and the pace of even the fittest hikers slows considerably above 3,000 metres.
 

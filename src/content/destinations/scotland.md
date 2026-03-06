@@ -42,13 +42,13 @@ seo:
 Scotland's landscape does most of the talking. Jagged peaks tumble into black sea lochs, ancient pinewoods shelter red squirrels and ospreys, and stone castles rise from every prominent crag as if deposited by the glaciers themselves. Leave the main roads and you quickly understand why people come back repeatedly.
 
 
-Scotland's accommodation scene has become one of Europe's most inventive. Converted castle hotels with baronial dining rooms and fires that actually warm the rooms. Remote bothies accessible only on foot, where the reward is a stone shelter and silence. Luxury glamping pods above sea lochs with nothing but seals and the odd passing seal for company. Low population density means genuine solitude is achievable without going far — a rarity in Western Europe.
+Scotland's accommodation scene has become one of Europe's most inventive. Converted castle hotels with baronial dining rooms and fires that actually warm the rooms. Remote bothies accessible only on foot, where the reward is a stone shelter and silence. Luxury glamping pods above sea lochs with nothing but seals and the odd passing seal for company. Low population density means genuine solitude is achievable without going far, a rarity in Western Europe.
 
 
 The Scottish Highlands are the country's emotional center: a vast, sparsely populated terrain of mountains, moorland, and water. The North Coast 500 route connects 500 miles of coastal and inland scenery, passing through Torridon's ancient sandstone mountains, Assynt's lochan-scattered moorland, and the dramatic coastline approaching Cape Wrath. Accommodation ranges from luxury fishing lodges to converted crofters' cottages with low beamed ceilings and views over the water.
 
 
-Scotland's 790 islands include some of Europe's most compelling slow-travel territory. Skye is the most visited, and justifiably — the Quiraing and Fairy Pools hold up to the photographs. But the Outer Hebrides offer machair beaches of white shell sand that look more Caribbean than North Atlantic. Orkney and Shetland carry Norse DNA in their culture and place names, while Islay is a legitimate whisky pilgrimage: eight distilleries, each with a distinct peat and salt character, on a single island.
+Scotland's 790 islands include some of Europe's most compelling slow-travel territory. Skye is the most visited, and justifiably: the Quiraing and Fairy Pools hold up to the photographs. But the Outer Hebrides offer machair beaches of white shell sand that look more Caribbean than North Atlantic. Orkney and Shetland carry Norse DNA in their culture and place names, while Islay is a legitimate whisky pilgrimage: eight distilleries, each with a distinct peat and salt character, on a single island.
 
 
-Edinburgh delivers culture and architecture at concentration — the Royal Mile, Arthur's Seat, and one of the world's great whisky bar scenes all walkable. But the point at which Scotland becomes Scotland is when the cities are behind you and the landscape takes over entirely.
+Edinburgh delivers culture and architecture at concentration: the Royal Mile, Arthur's Seat, and one of the world's great whisky bar scenes all walkable. But the point at which Scotland becomes Scotland is when the cities are behind you and the landscape takes over entirely.

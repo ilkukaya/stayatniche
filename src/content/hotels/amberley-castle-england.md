@@ -86,9 +86,9 @@ seo:
   metaDescription: "A working portcullis, original battlements, and tower bedrooms in England's most romantically preserved medieval castle. Amberley Castle in the South Downs is an hour from London."
 ---
 
-The portcullis at Amberley Castle closes behind you with a sound — iron on stone, ancient and heavy — that makes the situation clear. You are inside the castle now. The world outside is on the other side of 60 feet of medieval curtain wall. This is not a figure of speech.
+The portcullis at Amberley Castle closes behind you with a sound (iron on stone, ancient and heavy) that makes the situation clear. You are inside the castle now. The world outside is on the other side of 60 feet of medieval curtain wall. This is not a figure of speech.
 
-Built in the 12th century as a country retreat for the Bishops of Chichester, Amberley has survived 900 years with its structure substantially intact. The curtain walls still stand at full original height. The gatehouse remains a building of genuine consequence. The walled grounds — ancient yew trees, croquet lawn, manicured lawns — have the enclosed, timeless quality that only genuinely old gardens achieve. With just 19 rooms, the guest count matches the scale of the place.
+Built in the 12th century as a country retreat for the Bishops of Chichester, Amberley has survived 900 years with its structure substantially intact. The curtain walls still stand at full original height. The gatehouse remains a building of genuine consequence. The walled grounds, with their ancient yew trees, croquet lawn, and manicured lawns, have the enclosed, timeless quality that only genuinely old gardens achieve. With just 19 rooms, the guest count matches the scale of the place.
 
 **The Rooms**
 
@@ -106,4 +106,4 @@ The bar, where pre-dinner drinks are served in leather chairs beside an open fir
 
 Amberley is 90 minutes from London by a combination of train and taxi: a negligible journey for what is, in effect, a complete withdrawal from the city. The South Downs surrounding the castle offer excellent walking, and the market town of Arundel, eight kilometres east, has a fine castle of its own along with good independent shops and restaurants.
 
-For couples marking an occasion, Amberley Castle is among the most reliably right answers in England — memorable without requiring any effort from the guests, which is a skill in itself.
+For couples marking an occasion, Amberley Castle is among the most reliably right answers in England, memorable without requiring any effort from the guests, which is a skill in itself.
