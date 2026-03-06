@@ -1,7 +1,7 @@
 {
   "hero": {
     "headline": "The World's Most Extraordinary Stays",
-    "subheadline": "From treetop suites to underwater bedrooms, ancient castles to transparent bubble domes — discover accommodations that go far beyond ordinary.",
+    "subheadline": "From treetop suites to underwater bedrooms, ancient castles to transparent bubble domes. Find stays that go well beyond the ordinary.",
     "bgImage": "https://images.unsplash.com/photo-1540541338537-3cfb4e9a5ab8?w=1600&q=80&auto=format&fit=crop",
     "ctaText": "Explore Categories",
     "ctaUrl": "/categories",
@@ -11,7 +11,7 @@
   "featuredSection": {
     "show": true,
     "title": "Featured Stays",
-    "subtitle": "Our editors' selection of the most unforgettable properties in the world right now."
+    "subtitle": "Our editors' picks: the most distinctive properties in the world right now."
   },
   "newsletter": {
     "show": true,

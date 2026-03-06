@@ -6,34 +6,34 @@ country: Turkey
 description: Carved into the volcanic tufa of Cappadocia's ancient Uçhisar Castle rock, Museum Hotel is widely regarded as the region's finest property. Each of its 30 antique-furnished cave suites is unique, featuring private terraces with panoramic valley views and collections of Anatolian artifacts.
 coverImage: /images/hotels/museum-hotel-cappadocia.jpg
 gallery:
-  - /images/hotels/museum-hotel-cappadocia-2.jpg
-  - /images/hotels/museum-hotel-cappadocia-3.jpg
+ - /images/hotels/museum-hotel-cappadocia-2.jpg
+ - /images/hotels/museum-hotel-cappadocia-3.jpg
 priceRange: "$400 - $900"
 priceIndicator: 4
 highlights:
-  - 30 unique antique-furnished cave suites
-  - Panoramic Cappadocian valley views
-  - Lil'a Restaurant with award-winning cuisine
-  - Infinity pool carved into the rock
-  - Expert-led hot air balloon arrangements
+ - 30 unique antique-furnished cave suites
+ - Panoramic Cappadocian valley views
+ - Lil'a Restaurant with award-winning cuisine
+ - Infinity pool carved into the rock
+ - Expert-led hot air balloon arrangements
 amenities:
-  - Private cave terrace
-  - Heated cave bathroom
-  - Antique furnishings
-  - Wireless internet
-  - Room service
-  - Spa facilities
+ - Private cave terrace
+ - Heated cave bathroom
+ - Antique furnishings
+ - Wireless internet
+ - Room service
+ - Spa facilities
 bestFor:
-  - Couples
-  - History enthusiasts
-  - Foodies
-  - Honeymooners
+ - Couples
+ - History enthusiasts
+ - Foodies
+ - Honeymooners
 bookingUrl: https://www.booking.com/hotel/tr/museum-hotel-cappadocia.html
 rating: 9.6
 reviewCount: 1243
 coordinates:
-  lat: 38.6328
-  lng: 34.8144
+ lat: 38.6328
+ lng: 34.8144
 featured: true
 ---
 
@@ -41,7 +41,7 @@ Museum Hotel in Uçhisar is the crown jewel of Cappadocia's extraordinary cave h
 
 ## The Suites
 
-Each of Museum Hotel's 30 suites is genuinely one-of-a-kind. The hotel's founder spent decades collecting Anatolian antiques, and these pieces — carpets, ceramics, textiles, and furniture — fill every room. Many suites feature private terraces where you can watch the dawn hot air balloons rise over the valley.
+Each of Museum Hotel's 30 suites is genuinely one-of-a-kind. The hotel's founder spent decades collecting Anatolian antiques, and these pieces, carpets, ceramics, textiles, and furniture, fill every room. Many suites feature private terraces where you can watch the dawn hot air balloons rise over the valley.
 
 ## Dining & Wellness
 
