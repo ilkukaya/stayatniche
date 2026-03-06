@@ -3,36 +3,36 @@ name: "Bora Bora Nui Resort & Spa"
 category: overwater-bungalows
 destination: "Bora Bora, Society Islands"
 country: "French Polynesia"
-description: "Expansive overwater bungalow resort on Bora Bora's legendary lagoon, with direct views of Mount Otemanu and some of the most spacious overwater accommodations in French Polynesia. A classic South Pacific paradise combining exceptional snorkelling with Polynesian hospitality."
+description: "Expansive overwater bungalow resort on Bora Bora's legendary lagoon, with direct views of Mount Otemanu and some of the most spacious overwater accommodations in French Polynesia. A classic South Pacific paradise combining world-class snorkelling with Polynesian hospitality."
 coverImage: /images/hotels/bora-bora-nui-resort.jpg
 gallery:
- - /images/hotels/bora-bora-nui-resort-2.jpg
- - /images/hotels/bora-bora-nui-resort-3.jpg
+  - /images/hotels/bora-bora-nui-resort-2.jpg
+  - /images/hotels/bora-bora-nui-resort-3.jpg
 priceRange: "$800 - $2,500"
 priceIndicator: 4
 highlights:
- - "Overwater bungalows with direct Mount Otemanu views"
- - "Private lagoon access with some of the world's clearest water"
- - "exceptional snorkelling with sharks, rays, and tropical fish"
- - "Polynesian cultural experiences and outrigger canoe tours"
+  - "Overwater bungalows with direct Mount Otemanu views"
+  - "Private lagoon access with some of the world's clearest water"
+  - "World-class snorkelling with sharks, rays, and tropical fish"
+  - "Polynesian cultural experiences and outrigger canoe tours"
 amenities:
- - "Overwater bungalow with glass floor panels"
- - "Private deck with lagoon steps"
- - "Full-service spa"
- - "Multiple restaurants"
- - "Water sports centre"
- - "Lagoon excursions and shark feeding snorkelling"
+  - "Overwater bungalow with glass floor panels"
+  - "Private deck with lagoon steps"
+  - "Full-service spa"
+  - "Multiple restaurants"
+  - "Water sports centre"
+  - "Lagoon excursions and shark feeding snorkelling"
 bestFor:
- - "Honeymooners"
- - "Couples"
- - "Snorkellers and divers"
- - "Bucket-list South Pacific travellers"
+  - "Honeymooners"
+  - "Couples"
+  - "Snorkellers and divers"
+  - "Bucket-list South Pacific travellers"
 bookingUrl: https://www.booking.com/hotel/pf/bora-bora-nui-resort-spa.html
 rating: 9.2
 reviewCount: 1876
 coordinates:
- lat: -16.4833
- lng: -151.7500
+  lat: -16.4833
+  lng: -151.7500
 featured: false
 ---
 

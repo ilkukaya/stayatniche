@@ -6,33 +6,33 @@ country: "United States"
 description: "The world's only underwater hotel, resting on the floor of a marine habitat lagoon in Key Largo, guests must scuba dive or snorkel down 6 metres to reach their room. The original and still most extreme underwater accommodation experience on Earth, operating since 1986."
 coverImage: /images/hotels/jules-undersea-lodge-florida.jpg
 gallery:
- - /images/hotels/jules-undersea-lodge-florida-2.jpg
- - /images/hotels/jules-undersea-lodge-florida-3.jpg
+  - /images/hotels/jules-undersea-lodge-florida-2.jpg
+  - /images/hotels/jules-undersea-lodge-florida-3.jpg
 priceRange: "$800 - $1,500"
 priceIndicator: 4
 highlights:
- - "The world's only true underwater hotel, entered by diving 6 metres"
- - "Guests must be scuba-certified or complete a 3-hour mini dive course"
- - "Views of fish and marine life through large underwater porthole windows"
- - "The lodge previously served as an underwater research habitat"
+  - "The world's only true underwater hotel, entered by diving 6 metres"
+  - "Guests must be scuba-certified or complete a 3-hour mini dive course"
+  - "Views of fish and marine life through large underwater porthole windows"
+  - "The lodge previously served as an underwater research habitat"
 amenities:
- - "Underwater bedroom with porthole views"
- - "Shared common area and kitchen"
- - "Full scuba equipment provided"
- - "Underwater pizza and meal delivery"
- - "Hot showers and private sleeping cabins"
- - "Unlimited diving during stay"
+  - "Underwater bedroom with porthole views"
+  - "Shared common area and kitchen"
+  - "Full scuba equipment provided"
+  - "Underwater pizza and meal delivery"
+  - "Hot showers and private sleeping cabins"
+  - "Unlimited diving during stay"
 bestFor:
- - "Certified divers"
- - "Adventure seekers"
- - "Underwater enthusiasts"
- - "Bucket-list travellers"
+  - "Certified divers"
+  - "Adventure seekers"
+  - "Underwater enthusiasts"
+  - "Bucket-list travellers"
 bookingUrl: https://www.booking.com/
 rating: 9.0
 reviewCount: 892
 coordinates:
- lat: 25.1167
- lng: -80.4167
+  lat: 25.1167
+  lng: -80.4167
 featured: false
 ---
 

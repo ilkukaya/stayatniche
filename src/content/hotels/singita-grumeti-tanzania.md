@@ -7,66 +7,66 @@ continent: "Africa"
 description: "Singita Grumeti occupies an exclusive 350,000-acre private concession on the western corridor of the Serengeti ecosystem, offering some of Africa's finest safari experiences in a landscape of remarkable diversity. With three distinct lodges and a tented camp, Singita delivers its legendary service standards within a conservation concession where guests have the wilderness entirely to themselves."
 coverImage: /images/hotels/singita-grumeti-tanzania.jpg
 gallery:
- - /images/hotels/singita-grumeti-tanzania-2.jpg
- - /images/hotels/singita-grumeti-tanzania-3.jpg
+  - /images/hotels/singita-grumeti-tanzania-2.jpg
+  - /images/hotels/singita-grumeti-tanzania-3.jpg
 priceRange: "$1,800 - $4,500"
 priceIndicator: 5
 highlights:
- - "Exclusive 350,000-acre private concession adjacent to the Serengeti National Park"
- - "The Great Migration passes through the concession (June–July)"
- - "Resident lion, leopard, cheetah, elephant, and rare species"
- - "Exceptional game viewing with no other vehicles present"
- - "Singita Grumeti Fund conservation programme directly protecting the ecosystem"
- - "Night drives and off-road driving permitted within the private concession"
+  - "Exclusive 350,000-acre private concession adjacent to the Serengeti National Park"
+  - "The Great Migration passes through the concession (June–July)"
+  - "Resident lion, leopard, cheetah, elephant, and rare species"
+  - "Exceptional game viewing with no other vehicles present"
+  - "Singita Grumeti Fund conservation programme directly protecting the ecosystem"
+  - "Night drives and off-road driving permitted within the private concession"
 amenities:
- - "Private plunge pools at each suite"
- - "Full-board with exceptional wine cellar and dining"
- - "Twice-daily game drives in private Land Cruisers"
- - "Experienced and highly trained ranger/tracker teams"
- - "Bush walks with armed guides"
- - "Spa and wellness facilities"
- - "Singita's acclaimed wine and cellar programme"
- - "Private aircraft landing strips"
+  - "Private plunge pools at each suite"
+  - "Full-board with exceptional wine cellar and dining"
+  - "Twice-daily game drives in private Land Cruisers"
+  - "Experienced and highly trained ranger/tracker teams"
+  - "Bush walks with armed guides"
+  - "Spa and wellness facilities"
+  - "Singita's acclaimed wine and cellar programme"
+  - "Private aircraft landing strips"
 bestFor:
- - "Discerning safari travellers seeking exclusivity"
- - "Wildlife photographers requiring minimal vehicle pressure"
- - "Couples on milestone safari honeymoons"
- - "Conservation-conscious travellers"
+  - "Discerning safari travellers seeking exclusivity"
+  - "Wildlife photographers requiring minimal vehicle pressure"
+  - "Couples on milestone safari honeymoons"
+  - "Conservation-conscious travellers"
 prosAndCons:
- pros:
- - "Private concession means no competition for sightings: game viewing is exceptional"
- - "Singita's service standards are among the highest in African safari"
- - "The conservation work directly funds protection of one of Africa's greatest ecosystems"
- - "Multiple lodge styles within the concession allow for different experiences"
- cons:
- - "Among the most expensive safari options in Africa"
- - "The Great Migration peaks here for a relatively short window (June–July)"
- - "Remote location requires charter flight connections"
- - "The premium pricing puts this beyond the reach of most budgets"
+  pros:
+    - "Private concession means no competition for sightings, game viewing is exceptional"
+    - "Singita's service standards are among the highest in African safari"
+    - "The conservation work directly funds protection of one of Africa's greatest ecosystems"
+    - "Multiple lodge styles within the concession allow for different experiences"
+  cons:
+    - "Among the most expensive safari options in Africa"
+    - "The Great Migration peaks here for a relatively short window (June–July)"
+    - "Remote location requires charter flight connections"
+    - "The premium pricing puts this beyond the reach of most budgets"
 bookingUrl: https://www.booking.com/
 rating: 9.8
 reviewCount: 612
 seasonalInfo:
- bestTime: June to July for Great Migration river crossings; December to March for calving season
- peakSeason: June to August (dry season and migration)
- notes: The western Serengeti corridor is the first section of the ecosystem that the Great Migration enters when moving north from the Ndutu calving grounds. June and July bring enormous herds, and the predator concentrations that follow them. The dry season (June–October) offers excellent year-round game viewing with sparse vegetation. The green season (November–May) brings spectacular birdlife and the calving season on the southern plains.
+  bestTime: June to July for Great Migration river crossings; December to March for calving season
+  peakSeason: June to August (dry season and migration)
+  notes: The western Serengeti corridor is the first section of the ecosystem that the Great Migration enters when moving north from the Ndutu calving grounds. June and July bring enormous herds, and the predator concentrations that follow them. The dry season (June–October) offers excellent year-round game viewing with sparse vegetation. The green season (November–May) brings spectacular birdlife and the calving season on the southern plains.
 nearbyAttractions:
- - name: Serengeti National Park
- distance: Adjacent
- - name: Lake Victoria
- distance: 80 km
- - name: Ngorongoro Crater
- distance: 250 km
- - name: Rubondo Island National Park
- distance: 120 km
+  - name: Serengeti National Park
+    distance: Adjacent
+  - name: Lake Victoria
+    distance: 80 km
+  - name: Ngorongoro Crater
+    distance: 250 km
+  - name: Rubondo Island National Park
+    distance: 120 km
 coordinates:
- lat: -2.1000
- lng: 34.1500
+  lat: -2.1000
+  lng: 34.1500
 featured: false
 status: published
 seo:
- metaTitle: "Singita Grumeti Review, Exclusive Private Concession, Western Serengeti, Tanzania"
- metaDescription: "Singita's private 350,000-acre Grumeti concession in the western Serengeti corridor. The Great Migration, exceptional game viewing, and Africa's finest safari service. From $1,800/night."
+  metaTitle: "Singita Grumeti Review, Exclusive Private Concession, Western Serengeti, Tanzania"
+  metaDescription: "Singita's private 350,000-acre Grumeti concession in the western Serengeti corridor. The Great Migration, exceptional game viewing, and Africa's finest safari service. From $1,800/night."
 ---
 
 The western corridor of the Serengeti ecosystem has a different quality from the more visited central and northern sections. The landscape here is more densely vegetated, the rivers more persistent, and the sense of African wilderness more immediate: a country of fever trees, rocky kopjes, and the broad loops of the Grumeti River where crocodiles have grown to lengths that represent millions of years of undisturbed evolutionary success. Into this landscape, Singita has embedded one of Africa's most remarkable safari operations.

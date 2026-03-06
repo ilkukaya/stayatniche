@@ -6,33 +6,33 @@ country: "India"
 description: "Traditional Kerala rice boat converted into a luxurious floating home, gliding through the backwaters of Alleppey on a private overnight cruise through one of Asia's most extraordinary waterway landscapes. An intimate, slow-paced immersion in Kerala's ancient network of canals, lagoons, and paddy fields."
 coverImage: /images/hotels/houseboat-alleppey-kerala.jpg
 gallery:
- - /images/hotels/houseboat-alleppey-kerala-2.jpg
- - /images/hotels/houseboat-alleppey-kerala-3.jpg
+  - /images/hotels/houseboat-alleppey-kerala-2.jpg
+  - /images/hotels/houseboat-alleppey-kerala-3.jpg
 priceRange: "$150 - $500"
 priceIndicator: 2
 highlights:
- - "Traditional kettuvallam rice boat converted to floating hotel"
- - "Private overnight cruise through Kerala's backwater network"
- - "Dedicated cook preparing fresh Kerala seafood on board"
- - "Paddling through narrow canals lined with coconut palms and villages"
+  - "Traditional kettuvallam rice boat converted to floating hotel"
+  - "Private overnight cruise through Kerala's backwater network"
+  - "Dedicated cook preparing fresh Kerala seafood on board"
+  - "Paddling through narrow canals lined with coconut palms and villages"
 amenities:
- - "Private air-conditioned cabin with en-suite bathroom"
- - "Covered observation deck"
- - "Dedicated cook and crew of two"
- - "All meals included, fresh Kerala cuisine"
- - "Fishing equipment"
- - "Village stop excursions"
+  - "Private air-conditioned cabin with en-suite bathroom"
+  - "Covered observation deck"
+  - "Dedicated cook and crew of two"
+  - "All meals included, fresh Kerala cuisine"
+  - "Fishing equipment"
+  - "Village stop excursions"
 bestFor:
- - "Couples"
- - "Nature lovers"
- - "Cultural travellers"
- - "Slow travel enthusiasts"
+  - "Couples"
+  - "Nature lovers"
+  - "Cultural travellers"
+  - "Slow travel enthusiasts"
 bookingUrl: https://www.booking.com/
 rating: 9.1
 reviewCount: 2134
 coordinates:
- lat: 9.4981
- lng: 76.3388
+  lat: 9.4981
+  lng: 76.3388
 featured: false
 ---
 

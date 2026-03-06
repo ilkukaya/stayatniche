@@ -9,63 +9,63 @@ coverImage: /images/hotels/al-maha-dubai.jpg
 priceRange: "$900 - $2,500"
 priceIndicator: 5
 highlights:
- - Located in Dubai's only protected nature reserve, 225 square kilometres of conserved desert
- - Arabian oryx and gazelles roam freely around the suites
- - Each suite has a private temperature-controlled infinity pool
- - Falconry demonstrations with traditional Emirati falcons
- - Camel trekking and desert walks guided by Bedouin experts
- - All-inclusive format with fine dining and beverages
- - Children under 12 not permitted, serenely adult atmosphere
- - Desert Conservation Reserve supports critically endangered species recovery
+  - Located in Dubai's only protected nature reserve, 225 square kilometres of conserved desert
+  - Arabian oryx and gazelles roam freely around the suites
+  - Each suite has a private temperature-controlled infinity pool
+  - Falconry demonstrations with traditional Emirati falcons
+  - Camel trekking and desert walks guided by Bedouin experts
+  - All-inclusive format with fine dining and beverages
+  - Children under 12 not permitted, serenely adult atmosphere
+  - Desert Conservation Reserve supports critically endangered species recovery
 amenities:
- - Private infinity pool for each suite
- - Full-service Timeless Spa
- - Desert-facing sun decks and loungers
- - All meals and selected beverages included
- - Falconry, archery, and camel trekking included
- - Guided wildlife walks and dune drives
- - 24-hour butler service
- - Private airport transfers from Dubai
+  - Private infinity pool for each suite
+  - Full-service Timeless Spa
+  - Desert-facing sun decks and loungers
+  - All meals and selected beverages included
+  - Falconry, archery, and camel trekking included
+  - Guided wildlife walks and dune drives
+  - 24-hour butler service
+  - Private airport transfers from Dubai
 bestFor:
- - Couples seeking a private luxury desert escape near Dubai city
- - Wildlife enthusiasts wanting to see Arabian oryx in a protected setting
- - Adults wanting to experience authentic Emirati culture and traditions
- - Honeymoon and anniversary travellers in the Gulf region
+  - Couples seeking a private luxury desert escape near Dubai city
+  - Wildlife enthusiasts wanting to see Arabian oryx in a protected setting
+  - Adults wanting to experience authentic Emirati culture and traditions
+  - Honeymoon and anniversary travellers in the Gulf region
 prosAndCons:
- pros:
- - The private infinity pool experience with wild oryx grazing beyond the fence is genuinely extraordinary
- - Strict adults-only policy and limited suite count creates exceptional exclusivity
- - All-inclusive format executed at the highest level
- - The conservation mission adds genuine meaning to the experience
- cons:
- - Dubai summer (May-September) is extremely hot, outdoor activity is limited to early morning and evening
- - Premium pricing even by Gulf luxury standards
- - Only 42 suites, books out quickly during peak periods
- - Some guests find the desert setting isolating without the city connection
+  pros:
+    - The private infinity pool experience with wild oryx grazing beyond the fence is genuinely extraordinary
+    - Strict adults-only policy and limited suite count creates exceptional exclusivity
+    - All-inclusive format executed at the highest level
+    - The conservation mission adds genuine meaning to the experience
+  cons:
+    - Dubai summer (May-September) is extremely hot, outdoor activity is limited to early morning and evening
+    - Premium pricing even by Gulf luxury standards
+    - Only 42 suites, books out quickly during peak periods
+    - Some guests find the desert setting isolating without the city connection
 bookingUrl: https://www.booking.com/hotel/ae/al-maha-a-luxury-collection-desert-resort-and-spa.html
 rating: 9.5
 reviewCount: 1123
 seasonalInfo:
- bestTime: October to April for outdoor activity and comfortable temperatures
- peakSeason: December to February and New Year
- notes: The winter months are ideal, crisp desert mornings, warm sunny days, and cool evenings that make outdoor dining and sunset dune walks a genuine pleasure. Summer is survivable but outdoor activity is restricted to brief windows in the early morning and after sunset.
+  bestTime: October to April for outdoor activity and comfortable temperatures
+  peakSeason: December to February and New Year
+  notes: The winter months are ideal, crisp desert mornings, warm sunny days, and cool evenings that make outdoor dining and sunset dune walks a genuine pleasure. Summer is survivable but outdoor activity is restricted to brief windows in the early morning and after sunset.
 nearbyAttractions:
- - name: Dubai Desert Conservation Reserve, self-guided wildlife drives
- distance: Within the reserve
- - name: Dubai city, Mall of the Emirates, Downtown
- distance: 45 km
- - name: Al Ain, UNESCO Heritage city
- distance: 80 km
- - name: Dubai International Airport
- distance: 50 km
+  - name: Dubai Desert Conservation Reserve, self-guided wildlife drives
+    distance: Within the reserve
+  - name: Dubai city, Mall of the Emirates, Downtown
+    distance: 45 km
+  - name: Al Ain, UNESCO Heritage city
+    distance: 80 km
+  - name: Dubai International Airport
+    distance: 50 km
 coordinates:
- lat: 24.9667
- lng: 55.5167
+  lat: 24.9667
+  lng: 55.5167
 featured: false
 status: published
 seo:
- metaTitle: "Al Maha Desert Resort Review, Private Pool Suites and Arabian Oryx Near Dubai"
- metaDescription: "A Bedouin-inspired luxury desert resort in Dubai's protected nature reserve. Private infinity pools, wild oryx, and falconry. Al Maha Desert Resort from $900/night."
+  metaTitle: "Al Maha Desert Resort Review, Private Pool Suites and Arabian Oryx Near Dubai"
+  metaDescription: "A Bedouin-inspired luxury desert resort in Dubai's protected nature reserve. Private infinity pools, wild oryx, and falconry. Al Maha Desert Resort from $900/night."
 ---
 
 The Arabian oryx, the animal that almost certainly inspired the myth of the unicorn, viewed in profile with its long straight horns appearing as one, was declared extinct in the wild in 1972. Forty years of conservation effort, led in part by the Dubai Desert Conservation Reserve, has brought it back. Today, a protected population of more than 500 oryx roam the 225 square kilometres of protected desert that surrounds Al Maha Desert Resort & Spa, and on a good morning you can watch them from your private infinity pool while your coffee cools.

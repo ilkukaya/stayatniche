@@ -3,36 +3,36 @@ name: "Wadi Rum Bubble Camp"
 category: bubble-hotels
 destination: "Wadi Rum, Aqaba Governorate"
 country: "Jordan"
-description: "Luxury transparent bubble tents on the rust-red desert floor of Wadi Rum, offering exceptional stargazing beneath one of the world's darkest and most spectacular skies. Sleep surrounded by ancient sandstone cliffs in a landscape that has barely changed since Lawrence of Arabia crossed it on horseback."
+description: "Luxury transparent bubble tents on the rust-red desert floor of Wadi Rum, offering unparalleled stargazing beneath one of the world's darkest and most spectacular skies. Sleep surrounded by ancient sandstone cliffs in a landscape that has barely changed since Lawrence of Arabia crossed it on horseback."
 coverImage: /images/hotels/wadi-rum-bubble-camp-jordan.jpg
 gallery:
- - /images/hotels/wadi-rum-bubble-camp-jordan-2.jpg
- - /images/hotels/wadi-rum-bubble-camp-jordan-3.jpg
+  - /images/hotels/wadi-rum-bubble-camp-jordan-2.jpg
+  - /images/hotels/wadi-rum-bubble-camp-jordan-3.jpg
 priceRange: "$200 - $450"
 priceIndicator: 3
 highlights:
- - "Transparent bubble tents on the Wadi Rum desert floor"
- - "exceptional dark sky stargazing in a UNESCO World Heritage landscape"
- - "Surrounding sandstone cliffs and ancient rock art"
- - "Traditional Bedouin dinner under the stars included"
+  - "Transparent bubble tents on the Wadi Rum desert floor"
+  - "World-class dark sky stargazing in a UNESCO World Heritage landscape"
+  - "Surrounding sandstone cliffs and ancient rock art"
+  - "Traditional Bedouin dinner under the stars included"
 amenities:
- - "Air-conditioned transparent bubble tent"
- - "King-sized bed with panoramic views"
- - "Private en-suite bathroom"
- - "Traditional Bedouin breakfast and dinner"
- - "Guided jeep safari through Wadi Rum"
- - "Camel ride to sunset viewpoint"
+  - "Air-conditioned transparent bubble tent"
+  - "King-sized bed with panoramic views"
+  - "Private en-suite bathroom"
+  - "Traditional Bedouin breakfast and dinner"
+  - "Guided jeep safari through Wadi Rum"
+  - "Camel ride to sunset viewpoint"
 bestFor:
- - "Stargazers and astronomers"
- - "Adventure travellers"
- - "Couples"
- - "Desert explorers"
+  - "Stargazers and astronomers"
+  - "Adventure travellers"
+  - "Couples"
+  - "Desert explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.2
 reviewCount: 634
 coordinates:
- lat: 29.5833
- lng: 35.4167
+  lat: 29.5833
+  lng: 35.4167
 featured: false
 ---
 

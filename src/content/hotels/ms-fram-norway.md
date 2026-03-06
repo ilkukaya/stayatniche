@@ -6,33 +6,33 @@ country: "Norway"
 description: "Hurtigruten's legendary polar expedition vessel, the world's most experienced polar ship, carrying adventurous travellers into the Arctic wilderness of Svalbard, Greenland, and Antarctica. An extraordinary floating hotel where the destination is both the journey and the reward."
 coverImage: /images/hotels/ms-fram-norway.jpg
 gallery:
- - /images/hotels/ms-fram-norway-2.jpg
- - /images/hotels/ms-fram-norway-3.jpg
+  - /images/hotels/ms-fram-norway-2.jpg
+  - /images/hotels/ms-fram-norway-3.jpg
 priceRange: "$1,500 - $6,000"
 priceIndicator: 4
 highlights:
- - "Named after Nansen and Amundsen's legendary polar exploration vessel"
- - "Expert team of naturalists, historians, and polar guides on every voyage"
- - "Zodiacs and kayaks for close-up exploration of ice and wildlife"
- - "Northern lights, polar bears, and calving glaciers from the deck"
+  - "Named after Nansen and Amundsen's legendary polar exploration vessel"
+  - "Expert team of naturalists, historians, and polar guides on every voyage"
+  - "Zodiacs and kayaks for close-up exploration of ice and wildlife"
+  - "Northern lights, polar bears, and calving glaciers from the deck"
 amenities:
- - "Expedition cabin or suite with polar views"
- - "Multiple restaurants and bars"
- - "Science centre and lecture theatre"
- - "Expedition team of 16+ specialists"
- - "Zodiac landing craft"
- - "Observation deck and polar hot tub"
+  - "Expedition cabin or suite with polar views"
+  - "Multiple restaurants and bars"
+  - "Science centre and lecture theatre"
+  - "Expedition team of 16+ specialists"
+  - "Zodiac landing craft"
+  - "Observation deck and polar hot tub"
 bestFor:
- - "Expedition travellers"
- - "Wildlife enthusiasts"
- - "Photographers"
- - "Adventurers"
+  - "Expedition travellers"
+  - "Wildlife enthusiasts"
+  - "Photographers"
+  - "Adventurers"
 bookingUrl: https://www.booking.com/
 rating: 9.2
 reviewCount: 1876
 coordinates:
- lat: 78.2200
- lng: 15.6500
+  lat: 78.2200
+  lng: 15.6500
 featured: false
 ---
 
@@ -44,4 +44,4 @@ Svalbard, the Norwegian archipelago at 78 degrees north, is the ship's primary s
 
 The experience of standing on the bow deck of the MS Fram as it moves through an ice field at midnight sun, when the light is golden and horizontal and the icebergs glow in colours that range from turquoise through white to the deepest blue, is one that travellers describe as permanently changing their relationship with scale, wilderness, and the natural world. This is not comfortable nature tourism; it is expedition travel with proper intellectual seriousness, proper physical engagement with wild environments, and the irreplaceable reward of genuine remoteness.
 
-Cabins and suites range from practical explorer doubles to panoramic view suites, all designed for the practical realities of polar travel: good storage, warm materials, and windows large enough to make the most of the extraordinary light. The dining room serves Norwegian cuisine with an emphasis on Arctic ingredients, king crab, reindeer, Arctic char, and the cloudberry desserts that are among the most purely pleasurable things the Norwegian landscape produces.
+Cabins and suites range from practical explorer doubles to panoramic view suites, all designed for the practical realities of polar travel: good storage, warm materials, and windows large enough to make the most of the extraordinary light. The dining room serves Norwegian cuisine with an emphasis on Arctic ingredients: king crab, reindeer, Arctic char, and the cloudberry desserts that are among the most purely pleasurable things the Norwegian landscape produces.

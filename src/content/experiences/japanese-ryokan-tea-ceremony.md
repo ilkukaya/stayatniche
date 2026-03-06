@@ -6,44 +6,44 @@ country: "Japan"
 description: "Immerse yourself in two of Japan's most refined cultural practices, the meditative art of the tea ceremony and the deeply restorative experience of staying in a traditional ryokan, in a combined overnight experience in ancient Kyoto. A certified tea master guides you through the precise choreography of chado, the Way of Tea, before you retire to a tatami room for a kaiseki dinner, yukata robes, and a night in one of the world's most thoughtfully designed sleeping environments."
 coverImage: /images/experiences/japanese-ryokan-tea-ceremony.jpg
 booking:
- provider: airbnb-experiences
- url: "https://www.airbnb.com/experiences/japanese-ryokan-tea-ceremony-kyoto"
- price: "From $280 per person"
- duration: "1 day"
+  provider: airbnb-experiences
+  url: "https://www.airbnb.com/experiences/japanese-ryokan-tea-ceremony-kyoto"
+  price: "From $280 per person"
+  duration: "1 day"
 highlights:
- - "Private tea ceremony led by a certified tea master"
- - "One night in an authentic tatami-floored ryokan room"
- - "Traditional multi-course kaiseki dinner served in your room"
- - "Japanese breakfast including miso soup, pickles, and grilled fish"
- - "Yukata robe and geta sandals provided for ryokan wear"
- - "Advice on nearby Kyoto temples, gardens, and morning walks"
+  - "Private tea ceremony led by a certified tea master"
+  - "One night in an authentic tatami-floored ryokan room"
+  - "Traditional multi-course kaiseki dinner served in your room"
+  - "Japanese breakfast including miso soup, pickles, and grilled fish"
+  - "Yukata robe and geta sandals provided for ryokan wear"
+  - "Advice on nearby Kyoto temples, gardens, and morning walks"
 included:
- - Private tea ceremony (approximately 90 minutes)
- - One night's ryokan accommodation
- - Kaiseki dinner (served in room or dining area)
- - Traditional Japanese breakfast
- - Yukata, towels, and ryokan amenities
- - Onsen (hot spring bath) access where available
+  - Private tea ceremony (approximately 90 minutes)
+  - One night's ryokan accommodation
+  - Kaiseki dinner (served in room or dining area)
+  - Traditional Japanese breakfast
+  - Yukata, towels, and ryokan amenities
+  - Onsen (hot spring bath) access where available
 notIncluded:
- - Transport to/from the ryokan
- - Additional meals or beverages beyond included meals
- - Personal travel insurance
- - Sake or additional drink orders
+  - Transport to/from the ryokan
+  - Additional meals or beverages beyond included meals
+  - Personal travel insurance
+  - Sake or additional drink orders
 rating: 9.6
 reviewCount: 423
 featured: false
 tags:
- - tea-ceremony
- - ryokan
- - kyoto
- - japan
- - cultural
- - kaiseki
- - traditional-japan
- - chado
+  - tea-ceremony
+  - ryokan
+  - kyoto
+  - japan
+  - cultural
+  - kaiseki
+  - traditional-japan
+  - chado
 seo:
- metaTitle: "Traditional Tea Ceremony & Ryokan Overnight, Kyoto Japan | StayAtNiche"
- metaDescription: "Experience a private Japanese tea ceremony with a certified master and stay overnight in a traditional Kyoto ryokan with kaiseki dinner. From $280 per person."
+  metaTitle: "Traditional Tea Ceremony & Ryokan Overnight, Kyoto Japan | StayAtNiche"
+  metaDescription: "Experience a private Japanese tea ceremony with a certified master and stay overnight in a traditional Kyoto ryokan with kaiseki dinner. From $280 per person."
 ---
 
 Japan is a country of disciplines refined to the level of art, and nowhere is this more evident than in Kyoto, the city that preserved classical Japanese culture while the rest of the country modernised. The combination of a formal tea ceremony and a night in a traditional ryokan offers the most concentrated possible immersion in this aesthetic, two practices that have been refined across centuries into something that is simultaneously deeply functional and profoundly beautiful.

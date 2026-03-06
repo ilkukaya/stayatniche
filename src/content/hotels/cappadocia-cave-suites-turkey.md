@@ -6,33 +6,33 @@ country: "Turkey"
 description: "Boutique cave hotel carved into Göreme's ancient volcanic tufa rock, offering elegantly appointed cave suites with private terraces commanding sweeping views over the fairy chimneys and hot air balloons of Cappadocia. One of the region's most celebrated cave accommodation experiences."
 coverImage: /images/hotels/cappadocia-cave-suites-turkey.jpg
 gallery:
- - /images/hotels/cappadocia-cave-suites-turkey-2.jpg
- - /images/hotels/cappadocia-cave-suites-turkey-3.jpg
+  - /images/hotels/cappadocia-cave-suites-turkey-2.jpg
+  - /images/hotels/cappadocia-cave-suites-turkey-3.jpg
 priceRange: "$180 - $450"
 priceIndicator: 3
 highlights:
- - "Authentic cave suites carved into Göreme's volcanic tufa"
- - "Private terraces with panoramic balloon and fairy chimney views"
- - "Rooftop terrace with 360-degree Cappadocia panorama"
- - "Daily hot air balloon flights from the property"
+  - "Authentic cave suites carved into Göreme's volcanic tufa"
+  - "Private terraces with panoramic balloon and fairy chimney views"
+  - "Rooftop terrace with 360-degree Cappadocia panorama"
+  - "Daily hot air balloon flights from the property"
 amenities:
- - "Cave suite with carved tufa walls"
- - "Private terrace or balcony"
- - "Stone hammam and spa"
- - "Turkish breakfast included"
- - "Rooftop bar and terrace"
- - "Hot air balloon booking service"
+  - "Cave suite with carved tufa walls"
+  - "Private terrace or balcony"
+  - "Stone hammam and spa"
+  - "Turkish breakfast included"
+  - "Rooftop bar and terrace"
+  - "Hot air balloon booking service"
 bestFor:
- - "Couples"
- - "Honeymoon travellers"
- - "Photography enthusiasts"
- - "Cultural explorers"
+  - "Couples"
+  - "Honeymoon travellers"
+  - "Photography enthusiasts"
+  - "Cultural explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.1
 reviewCount: 1876
 coordinates:
- lat: 38.6431
- lng: 34.8289
+  lat: 38.6431
+  lng: 34.8289
 featured: false
 ---
 

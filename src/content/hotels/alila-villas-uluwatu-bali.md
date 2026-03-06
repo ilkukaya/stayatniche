@@ -6,33 +6,33 @@ country: "Indonesia"
 description: "Ultra-luxurious clifftop villa resort perched 100 metres above the Indian Ocean on Bali's dramatic Bukit Peninsula, offering infinite-edge pools and uninterrupted ocean panoramas from every villa. A benchmark of contemporary tropical design and sustainable luxury."
 coverImage: /images/hotels/alila-villas-uluwatu-bali.jpg
 gallery:
- - /images/hotels/alila-villas-uluwatu-bali-2.jpg
- - /images/hotels/alila-villas-uluwatu-bali-3.jpg
+  - /images/hotels/alila-villas-uluwatu-bali-2.jpg
+  - /images/hotels/alila-villas-uluwatu-bali-3.jpg
 priceRange: "$800 - $3,000"
 priceIndicator: 4
 highlights:
- - "100-metre clifftop location above the Indian Ocean"
- - "Private infinity pools in every villa overlooking the ocean"
- - "AWOL restaurant serving Balinese and contemporary cuisine"
- - "Alila Spa with indigenous treatments and cliffside pavilions"
+  - "100-metre clifftop location above the Indian Ocean"
+  - "Private infinity pools in every villa overlooking the ocean"
+  - "AWOL restaurant serving Balinese and contemporary cuisine"
+  - "Alila Spa with indigenous treatments and cliffside pavilions"
 amenities:
- - "Private villa with infinity plunge pool"
- - "Panoramic Indian Ocean views"
- - "Butler service"
- - "AWOL restaurant and Sunset Lounge bar"
- - "Alila Spa"
- - "Yoga and wellness programmes"
+  - "Private villa with infinity plunge pool"
+  - "Panoramic Indian Ocean views"
+  - "Butler service"
+  - "AWOL restaurant and Sunset Lounge bar"
+  - "Alila Spa"
+  - "Yoga and wellness programmes"
 bestFor:
- - "Couples"
- - "Honeymooners"
- - "Luxury travellers"
- - "Design enthusiasts"
+  - "Couples"
+  - "Honeymooners"
+  - "Luxury travellers"
+  - "Design enthusiasts"
 bookingUrl: https://www.booking.com/hotel/id/alila-villas-uluwatu.html
 rating: 9.4
 reviewCount: 2341
 coordinates:
- lat: -8.8291
- lng: 115.0853
+  lat: -8.8291
+  lng: 115.0853
 featured: false
 ---
 

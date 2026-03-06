@@ -6,33 +6,33 @@ country: "Maldives"
 description: "The most extraordinary underwater dining and sleeping experience in the Maldives, the SEA restaurant sits 5 metres below the ocean surface amid coral reef, while overwater villas with underwater viewing panels offer the most intimate marine experience in the archipelago. Located in UNESCO Biosphere Reserve Baa Atoll."
 coverImage: /images/hotels/anantara-maldives-underwater.jpg
 gallery:
- - /images/hotels/anantara-maldives-underwater-2.jpg
- - /images/hotels/anantara-maldives-underwater-3.jpg
+  - /images/hotels/anantara-maldives-underwater-2.jpg
+  - /images/hotels/anantara-maldives-underwater-3.jpg
 priceRange: "$1,200 - $6,000"
 priceIndicator: 5
 highlights:
- - "SEA, award-winning underwater restaurant 5 metres below the ocean"
- - "Overwater villas with underwater glass floors above living reef"
- - "UNESCO Biosphere Reserve location in Baa Atoll"
- - "Private beach villas and overwater villas with butler service"
+  - "SEA, award-winning underwater restaurant 5 metres below the ocean"
+  - "Overwater villas with underwater glass floors above living reef"
+  - "UNESCO Biosphere Reserve location in Baa Atoll"
+  - "Private beach villas and overwater villas with butler service"
 amenities:
- - "Overwater villa with underwater floor panels"
- - "SEA underwater restaurant experience"
- - "Over-water spa"
- - "Resident marine biologist and reef activities"
- - "Butler service"
- - "FIRE, SKY, and SEA dining venues"
+  - "Overwater villa with underwater floor panels"
+  - "SEA underwater restaurant experience"
+  - "Over-water spa"
+  - "Resident marine biologist and reef activities"
+  - "Butler service"
+  - "FIRE, SKY, and SEA dining venues"
 bestFor:
- - "Couples"
- - "Honeymooners"
- - "Marine life enthusiasts"
- - "Underwater dining experience seekers"
+  - "Couples"
+  - "Honeymooners"
+  - "Marine life enthusiasts"
+  - "Underwater dining experience seekers"
 bookingUrl: https://www.booking.com/hotel/mv/anantara-kihavah-maldives-villas.html
 rating: 9.5
 reviewCount: 2134
 coordinates:
- lat: 5.0833
- lng: 73.0333
+  lat: 5.0833
+  lng: 73.0333
 featured: false
 ---
 

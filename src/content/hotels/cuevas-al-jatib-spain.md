@@ -6,33 +6,33 @@ country: "Spain"
 description: "Ancient Moorish cave dwellings carved into the white cliffs of the Serranía de Ronda, lovingly restored into intimate boutique suites that honour eight centuries of Andalusian cave-dwelling tradition. Each cueva retains its original rock walls and vaulted ceilings while offering every modern comfort."
 coverImage: /images/hotels/cuevas-al-jatib-spain.jpg
 gallery:
- - /images/hotels/cuevas-al-jatib-spain-2.jpg
- - /images/hotels/cuevas-al-jatib-spain-3.jpg
+  - /images/hotels/cuevas-al-jatib-spain-2.jpg
+  - /images/hotels/cuevas-al-jatib-spain-3.jpg
 priceRange: "$120 - $280"
 priceIndicator: 2
 highlights:
- - "Authentic Moorish cave dwellings carved into white limestone cliffs"
- - "Natural rock walls and vaulted cave ceilings throughout"
- - "Panoramic views over the Genal Valley and Serranía de Ronda"
- - "Traditional Andalusian breakfast with local mountain produce"
+  - "Authentic Moorish cave dwellings carved into white limestone cliffs"
+  - "Natural rock walls and vaulted cave ceilings throughout"
+  - "Panoramic views over the Genal Valley and Serranía de Ronda"
+  - "Traditional Andalusian breakfast with local mountain produce"
 amenities:
- - "Cave suite with original rock walls"
- - "Private terrace with valley views"
- - "Rustic en-suite bathroom"
- - "Air conditioning and heating"
- - "Andalusian breakfast included"
- - "Swimming pool"
+  - "Cave suite with original rock walls"
+  - "Private terrace with valley views"
+  - "Rustic en-suite bathroom"
+  - "Air conditioning and heating"
+  - "Andalusian breakfast included"
+  - "Swimming pool"
 bestFor:
- - "Couples"
- - "History and culture enthusiasts"
- - "Nature lovers"
- - "Rural escape seekers"
+  - "Couples"
+  - "History and culture enthusiasts"
+  - "Nature lovers"
+  - "Rural escape seekers"
 bookingUrl: https://www.booking.com/
 rating: 9.0
 reviewCount: 478
 coordinates:
- lat: 36.6333
- lng: -5.2500
+  lat: 36.6333
+  lng: -5.2500
 featured: false
 ---
 

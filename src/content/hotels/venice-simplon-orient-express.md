@@ -4,68 +4,68 @@ category: train-hotels
 destination: "London to Venice (and beyond)"
 country: "Multiple"
 continent: "Europe"
-description: "The most famous train in the world, the Venice Simplon-Orient-Express is a rolling museum of 1920s Art Deco grandeur, operating its original restored carriages across the great rail routes of Europe. From London to Venice, Paris to Istanbul, or the Swiss Alps to the Adriatic, this is travel as it was experienced in the golden age of railways: unhurried, beautiful, and irreplaceable."
+description: "The most famous train in the world, the Venice Simplon-Orient-Express is a rolling museum of 1920s Art Deco grandeur, operating its original restored carriages across the great rail routes of Europe. From London to Venice, Paris to Istanbul, or the Swiss Alps to the Adriatic, this is travel as it was experienced in the golden age of railways, unhurried, beautiful, and irreplaceable."
 coverImage: /images/hotels/venice-simplon-orient-express.jpg
 gallery:
- - /images/hotels/venice-simplon-orient-express-2.jpg
- - /images/hotels/venice-simplon-orient-express-3.jpg
+  - /images/hotels/venice-simplon-orient-express-2.jpg
+  - /images/hotels/venice-simplon-orient-express-3.jpg
 priceRange: "$3,000 - $12,000"
 priceIndicator: 5
 highlights:
- - "Original 1920s and 1930s Pullman and wagon-lits carriages, lovingly restored"
- - "London to Venice route through the Swiss Alps and Italian lakes"
- - "Paris to Istanbul route, the original Orient Express journey"
- - "Three-course dinner service in the restaurant car with white-glove service"
- - "New La Dolce Vita Orient Express Italian itineraries"
- - "Private cabin suites with Art Deco marquetry and period fittings"
+  - "Original 1920s and 1930s Pullman and wagon-lits carriages, lovingly restored"
+  - "London to Venice route through the Swiss Alps and Italian lakes"
+  - "Paris to Istanbul route, the original Orient Express journey"
+  - "Three-course dinner service in the restaurant car with white-glove service"
+  - "New La Dolce Vita Orient Express Italian itineraries"
+  - "Private cabin suites with Art Deco marquetry and period fittings"
 amenities:
- - "Private en-suite cabin suites (Grand Suites on selected routes)"
- - "Three-course dinner in the restaurant car"
- - "Bar car with live piano entertainment"
- - "Full board on overnight routes"
- - "Turn-down service and cabin butler attention"
- - "Exclusive onboard boutique"
- - "Complimentary champagne and welcome aboard service"
+  - "Private en-suite cabin suites (Grand Suites on selected routes)"
+  - "Three-course dinner in the restaurant car"
+  - "Bar car with live piano entertainment"
+  - "Full board on overnight routes"
+  - "Turn-down service and cabin butler attention"
+  - "Exclusive onboard boutique"
+  - "Complimentary champagne and welcome aboard service"
 bestFor:
- - "Romantics and honeymooners"
- - "Art Deco and railway history enthusiasts"
- - "European itinerary travellers connecting iconic cities"
- - "Anyone celebrating a major milestone in exceptional style"
+  - "Romantics and honeymooners"
+  - "Art Deco and railway history enthusiasts"
+  - "European itinerary travellers connecting iconic cities"
+  - "Anyone celebrating a major milestone in exceptional style"
 prosAndCons:
- pros:
- - "Incomparable historic atmosphere in genuinely original carriages"
- - "The London to Venice journey through the Alps is one of Europe's great travel experiences"
- - "Dining aboard is an event in itself, exceptional food in extraordinary surroundings"
- - "The sense of occasion from departure to arrival is unlike any other form of travel"
- cons:
- - "Cabins are small by modern standards, the romance is of a period that prefers intimacy over space"
- - "Extremely expensive for journey duration, London to Venice is approximately 31 hours"
- - "Not all routes operate year-round; scheduling requires advance planning"
- - "The bar car can be noisy late into the evening for those wanting early sleep"
+  pros:
+    - "Incomparable historic atmosphere in genuinely original carriages"
+    - "The London to Venice journey through the Alps is one of Europe's great travel experiences"
+    - "Dining aboard is an event in itself, exceptional food in extraordinary surroundings"
+    - "The sense of occasion from departure to arrival is unlike any other form of travel"
+  cons:
+    - "Cabins are small by modern standards, the romance is of a period that prefers intimacy over space"
+    - "Extremely expensive for journey duration, London to Venice is approximately 31 hours"
+    - "Not all routes operate year-round; scheduling requires advance planning"
+    - "The bar car can be noisy late into the evening for those wanting early sleep"
 bookingUrl: https://www.belmond.com/trains/europe/venice-simplon-orient-express/
 rating: 9.6
 reviewCount: 2341
 seasonalInfo:
- bestTime: Spring (April–May) and autumn (September–October) for the best Alpine and Italian landscape
- peakSeason: Summer (June–August) and the Valentine's Day period
- notes: The VSOE operates year-round on its flagship London–Venice route and seasonally on other European itineraries. Spring offers the freshest Alpine landscape and the warmth of an Italian spring arrival. Autumn brings the extraordinary colour of the Swiss forests and the golden Italian late-season light. A winter crossing can be magical but the Alpine scenery is reduced in low visibility.
+  bestTime: Spring (April–May) and autumn (September–October) for the best Alpine and Italian landscape
+  peakSeason: Summer (June–August) and the Valentine's Day period
+  notes: The VSOE operates year-round on its flagship London–Venice route and seasonally on other European itineraries. Spring offers the freshest Alpine landscape and the warmth of an Italian spring arrival. Autumn brings the extraordinary colour of the Swiss forests and the golden Italian late-season light. A winter crossing can be magical but the Alpine scenery is reduced in low visibility.
 nearbyAttractions:
- - name: Venice Santa Lucia station
- distance: Terminus
- - name: London Victoria station
- distance: Departure point
- - name: Paris Gare de l'Est
- distance: Via route
- - name: Innsbruck and Austrian Alps
- distance: Via route
+  - name: Venice Santa Lucia station
+    distance: Terminus
+  - name: London Victoria station
+    distance: Departure point
+  - name: Paris Gare de l'Est
+    distance: Via route
+  - name: Innsbruck and Austrian Alps
+    distance: Via route
 coordinates:
- lat: 45.4408
- lng: 12.3155
+  lat: 45.4408
+  lng: 12.3155
 featured: false
 status: published
 seo:
- metaTitle: "Venice Simplon-Orient-Express Review, The World's Most Famous Train, Europe"
- metaDescription: "Travel aboard the legendary Venice Simplon-Orient-Express in original 1920s Pullman carriages. London to Venice through the Swiss Alps. The ultimate European luxury train journey. From $3,000."
+  metaTitle: "Venice Simplon-Orient-Express Review, The World's Most Famous Train, Europe"
+  metaDescription: "Travel aboard the legendary Venice Simplon-Orient-Express in original 1920s Pullman carriages. London to Venice through the Swiss Alps. The ultimate European luxury train journey. From $3,000."
 ---
 
 There is a moment aboard the Venice Simplon-Orient-Express, somewhere in the late afternoon, in the Swiss Alps, when the train curves around a long bend and the full extent of the composition is suddenly visible through the window, a procession of cream and navy carriages against a backdrop of mountains and impossibly blue sky, when the experience of being here, on this train, becomes something more than transport and enters the territory of theatre. This is travel as an act in itself, not a means to an end but the destination.

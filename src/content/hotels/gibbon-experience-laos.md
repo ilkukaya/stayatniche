@@ -3,36 +3,36 @@ name: "The Gibbon Experience"
 category: treehouse-hotels
 destination: "Bokeo Nature Reserve, Houaphan"
 country: "Laos"
-description: "The world's most adventurous treehouse experience: platforms suspended 40 metres high in the jungle canopy of Laos's Bokeo Nature Reserve, connected by one of the world's longest zipline networks. Sleep above the clouds and wake to the haunting morning calls of black-crested gibbons in primary rainforest."
+description: "The world's most adventurous treehouse experience, platforms suspended 40 metres high in the jungle canopy of Laos's Bokeo Nature Reserve, connected by one of the world's longest zipline networks. Sleep above the clouds and wake to the haunting morning calls of black-crested gibbons in primary rainforest."
 coverImage: /images/hotels/gibbon-experience-laos.jpg
 gallery:
- - /images/hotels/gibbon-experience-laos-2.jpg
- - /images/hotels/gibbon-experience-laos-3.jpg
+  - /images/hotels/gibbon-experience-laos-2.jpg
+  - /images/hotels/gibbon-experience-laos-3.jpg
 priceRange: "$200 - $350"
 priceIndicator: 2
 highlights:
- - "Treehouse platforms 40 metres high in primary rainforest"
- - "Zipline network connecting treehouses through the jungle canopy"
- - "Black-crested gibbon sightings at dawn, one of the rarest primates"
- - "Community-owned ecotourism project protecting Bokeo Nature Reserve"
+  - "Treehouse platforms 40 metres high in primary rainforest"
+  - "Zipline network connecting treehouses through the jungle canopy"
+  - "Black-crested gibbon sightings at dawn, one of the rarest primates"
+  - "Community-owned ecotourism project protecting Bokeo Nature Reserve"
 amenities:
- - "Treehouse platform with basic but comfortable sleeping quarters"
- - "Zipline access throughout the canopy network"
- - "All meals included, jungle kitchen"
- - "Gibbon spotting at dawn with experienced local guides"
- - "Waterfall and forest trail access"
- - "Total immersion in primary rainforest"
+  - "Treehouse platform with basic but comfortable sleeping quarters"
+  - "Zipline access throughout the canopy network"
+  - "All meals included, jungle kitchen"
+  - "Gibbon spotting at dawn with experienced local guides"
+  - "Waterfall and forest trail access"
+  - "Total immersion in primary rainforest"
 bestFor:
- - "Adventure travellers"
- - "Wildlife enthusiasts"
- - "Primate conservation supporters"
- - "Intrepid explorers"
+  - "Adventure travellers"
+  - "Wildlife enthusiasts"
+  - "Primate conservation supporters"
+  - "Intrepid explorers"
 bookingUrl: https://www.booking.com/
 rating: 9.4
 reviewCount: 2341
 coordinates:
- lat: 20.6333
- lng: 100.6667
+  lat: 20.6333
+  lng: 100.6667
 featured: false
 ---
 

@@ -5,51 +5,48 @@ continent: "Africa"
 description: "Mozambique is Africa's most underrated beach and marine destination, a 2,500-kilometer Indian Ocean coastline of powder-white beaches, dhow-sailing archipelagos, and coral reef systems that rival the Maldives in clarity and diversity. Remote island lodges and barefoot-luxury beach camps offer an intimacy and wildness that more famous Indian Ocean destinations have long since lost."
 coverImage: /images/destinations/mozambique.jpg
 essentials:
- currency: "MZN (Mozambican Metical); USD accepted at most lodges and tourist businesses"
- language: "Portuguese (official); Emakhuwa, Xichangana, and other Bantu languages"
- timezone: "UTC+2 (CAT, Central Africa Time)"
- visaInfo: "Visa on arrival available for most Western nationalities ($50 USD); e-Visa also available online"
- plugType: "Type C, F, M (220V)"
+  currency: "MZN (Mozambican Metical); USD accepted at most lodges and tourist businesses"
+  language: "Portuguese (official); Emakhuwa, Xichangana, and other Bantu languages"
+  timezone: "UTC+2 (CAT, Central Africa Time)"
+  visaInfo: "Visa on arrival available for most Western nationalities ($50 USD); e-Visa also available online"
+  plugType: "Type C, F, M (220V)"
 bestTimeToVisit:
- summary: "April–November (dry season)"
- details: "April to November is the prime season, dry, sunny, and with the excellent marine visibility that makes Mozambique's reefs so extraordinary. June to October is peak whale shark and humpback whale season around the Bazaruto Archipelago. The wet season from December to March brings heavy rainfall, occasional cyclones (particularly January–March), and reduced visibility underwater. The shoulder months of April–May and October–November offer the best combination of price and conditions."
+  summary: "April–November (dry season)"
+  details: "April to November is the prime season, dry, sunny, and with the excellent marine visibility that makes Mozambique's reefs so extraordinary. June to October is peak whale shark and humpback whale season around the Bazaruto Archipelago. The wet season from December to March brings heavy rainfall, occasional cyclones (particularly January–March), and reduced visibility underwater. The shoulder months of April–May and October–November offer the best combination of price and conditions."
 mustSee:
- - "Bazaruto Archipelago, five islands of dazzling white sand and turquoise water with endemic dugong population"
- - "Quirimbas Archipelago, a remote chain of 32 islands in the far north with clear reefs and Swahili ruins"
- - "Tofo Beach, the best spot in Africa for reliable whale shark encounters on snorkel"
- - "Ibo Island, Quirimbas, a decaying Portuguese colonial island town with a fascinating Arab-African-Portuguese heritage"
- - "Pemba, the gateway city to the north, with a beautiful bay and a Portuguese-influenced old town"
- - "Vilanculos, the southern gateway town with dhow sailing excursions across the Bazaruto Archipelago"
+  - "Bazaruto Archipelago, five islands of dazzling white sand and turquoise water with endemic dugong population"
+  - "Quirimbas Archipelago, a remote chain of 32 islands in the far north with pristine reefs and Swahili ruins"
+  - "Tofo Beach, the best spot in Africa for reliable whale shark encounters on snorkel"
+  - "Ibo Island, Quirimbas, a decaying Portuguese colonial island town with a fascinating Arab-African-Portuguese heritage"
+  - "Pemba, the gateway city to the north, with a beautiful bay and a Portuguese-influenced old town"
+  - "Vilanculos, the southern gateway town with dhow sailing excursions across the Bazaruto Archipelago"
 travelTips:
- - "Book island lodges well in advance, the best Bazaruto and Quirimbas properties have very limited capacity and fill up for the peak July–October season months ahead."
- - "Malaria prophylaxis is essential throughout coastal Mozambique; consult a travel doctor about the appropriate medication."
- - "Portuguese language basics are genuinely useful outside major tourist areas, English is not widely spoken in local communities."
- - "Internal flights to Vilanculos, Pemba, and the Quirimbas airstrips are served by small charter operators: book early and confirm flights 48 hours before departure."
- - "Dugong are extremely sensitive to boat disturbance, only snorkel and swim with them, never use motorized approaches. Your lodge's guides will know the ethical protocols."
+  - "Book island lodges well in advance, the best Bazaruto and Quirimbas properties have very limited capacity and fill up for the peak July–October season months ahead."
+  - "Malaria prophylaxis is essential throughout coastal Mozambique; consult a travel doctor about the appropriate medication."
+  - "Portuguese language basics are genuinely useful outside major tourist areas, English is not widely spoken in local communities."
+  - "Internal flights to Vilanculos, Pemba, and the Quirimbas airstrips are served by small charter operators, book early and confirm flights 48 hours before departure."
+  - "Dugong are extremely sensitive to boat disturbance, only snorkel and swim with them, never use motorized approaches. Your lodge's guides will know the ethical protocols."
 coordinates:
- lat: -18.6657
- lng: 35.5296
+  lat: -18.6657
+  lng: 35.5296
 featured: false
 seo:
- metaTitle: "Mozambique Travel Guide, Island Lodges, Whale Sharks & clear Reefs | StayAtNiche"
- metaDescription: "Mozambique travel guide, Bazaruto Archipelago, Quirimbas island lodges, whale sharks at Tofo, dugong, and Africa's finest Indian Ocean beach destination."
+  metaTitle: "Mozambique Travel Guide, Island Lodges, Whale Sharks & Pristine Reefs | StayAtNiche"
+  metaDescription: "Mozambique travel guide, Bazaruto Archipelago, Quirimbas island lodges, whale sharks at Tofo, dugong, and Africa's finest Indian Ocean beach destination."
 ---
 
-Mozambique is what the Indian Ocean used to be everywhere before everything became a resort. The beaches here are genuinely undeveloped in places, powder-white and uninterrupted for kilometers, with dhows visible on the horizon and no high-rise development breaking the tree line. The marine environment is extraordinary: coral reefs, whale sharks, humpback whales, manta rays, dugongs, and sea turtle nesting beaches, served by a handful of lodges so carefully placed and so limited in capacity that the impression of having discovered something is not entirely wrong.
+Mozambique is what the Indian Ocean used to be everywhere before everything became a resort. The beaches here are genuinely undeveloped in places: powder-white and uninterrupted for kilometers, with dhows visible on the horizon and no high-rise development breaking the tree line. The marine environment is extraordinary: coral reefs, whale sharks, humpback whales, manta rays, dugongs, and sea turtle nesting beaches, served by a handful of lodges so carefully placed and so limited in capacity that the impression of having discovered something is not entirely wrong.
 
-## The Archipelagos
 
 Mozambique's twin archipelagos represent two very different modes of island travel. The Bazaruto Archipelago, five islands 25 kilometers off the coast from Vilanculos in the south, is the more accessible: a national marine park of spectacular white sand, brilliant turquoise water, and a marine ecosystem notable for hosting one of the last viable populations of dugong on the eastern African coast. The islands are large enough to have significant dune systems, freshwater lakes, and diverse bird populations, making day trips inland as rewarding as time on the reef.
 
-The Quirimbas Archipelago, 32 islands off the far northern coast, is genuinely remote. Access requires either a charter flight to a grass airstrip or a multi-hour boat journey from Pemba. Several islands have no permanent accommodation at all. Those that do tend to operate as ultra-exclusive barefoot-luxury properties, 10 to 20 rooms maximum, generator or solar power, food programs centered on the morning's catch and kitchen gardens, and service ratios that feel more like a private house than a hotel.
+The Quirimbas Archipelago, 32 islands off the far northern coast, is genuinely remote. Access requires either a charter flight to a grass airstrip or a multi-hour boat journey from Pemba. Several islands have no permanent accommodation at all. Those that do tend to operate as ultra-exclusive barefoot-luxury properties: 10 to 20 rooms maximum, generator or solar power, food programs centered on the morning's catch and kitchen gardens, and service ratios that feel more like a private house than a hotel.
 
-## The Reefs and the Wild Life
 
-Tofo Beach, in Inhambane Province, has built an international reputation for one thing: whale sharks. The nutrient-rich waters off Tofo aggregate whale sharks in numbers that make it one of the most reliable snorkel encounters with the world's largest fish on earth. Manta ray encounters are equally predictable in season. The diving here is remarkable for abundance, grouper, barracuda, and reef sharks at concentrations that indicate a genuinely healthy ecosystem.
+Tofo Beach, in Inhambane Province, has built an international reputation for one thing: whale sharks. The nutrient-rich waters off Tofo aggregate whale sharks in numbers that make it one of the most reliable snorkel encounters with the world's largest fish on earth. Manta ray encounters are equally predictable in season. The diving here is remarkable for abundance: grouper, barracuda, and reef sharks at concentrations that indicate a genuinely healthy ecosystem.
 
-Humpback whales migrate through Mozambican waters between July and October, and the whale watching from boats in the Bazaruto and around Tofo is among the best in Africa: breach counts that rival dedicated whale-watching destinations in New Zealand and Iceland.
+Humpback whales migrate through Mozambican waters between July and October, and the whale watching from boats in the Bazaruto and around Tofo is among the best in Africa, breach counts that rival dedicated whale-watching destinations in New Zealand and Iceland.
 
-## Island Architecture
 
 The accommodation aesthetic across Mozambique's islands follows a barefoot-luxury logic that suits the environment perfectly: raised thatched bandas (open-sided bungalows) built from local materials with indoor-outdoor bathrooms that open to private gardens, direct beach access, and a general conviction that the ocean and the sky are sufficient entertainment. Several properties on Ibo Island, a hauntingly atmospheric Portuguese colonial island town with crumbling 18th-century forts and a small community of craftspeople, combine historic architecture with contemporary comfort.
 

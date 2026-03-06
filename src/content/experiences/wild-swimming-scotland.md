@@ -6,48 +6,48 @@ country: "Scotland"
 description: "Plunge into the peat-dark lochs, crystal rivers, and hidden mountain pools of the Scottish Highlands, guided by a wild swimming expert who knows where the water is deep and clean, where waterfalls form natural plunge pools, and why this increasingly popular practice of immersing yourself in cold, wild water does things to your nervous system that no spa can replicate. Scotland has more freshwater than any other part of the UK, and the legal right to swim in it, a remarkable cultural inheritance that remains unique in Britain."
 coverImage: /images/experiences/wild-swimming-scotland.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=wild-swimming-scotland"
- price: "From $95 per person"
- duration: "Half day"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=wild-swimming-scotland"
+  price: "From $95 per person"
+  duration: "Half day"
 highlights:
- - "Swim in remote Highland lochs, rivers, and waterfalls with an expert guide"
- - "Scotland's legal right to roam, access to virtually any body of water"
- - "Cold water immersion technique and breathing guidance from a qualified instructor"
- - "Cairngorm mountain pools and the dark-water lochs of the Great Glen"
- - "Post-swim warm-up ritual: fire, hot drinks, and Highland atmosphere"
- - "Year-round availability, winter dips are the most memorable of all"
+  - "Swim in remote Highland lochs, rivers, and waterfalls with an expert guide"
+  - "Scotland's legal right to roam, access to virtually any body of water"
+  - "Cold water immersion technique and breathing guidance from a qualified instructor"
+  - "Cairngorm mountain pools and the dark-water lochs of the Great Glen"
+  - "Post-swim warm-up ritual: fire, hot drinks, and Highland atmosphere"
+  - "Year-round availability, winter dips are the most transformative of all"
 included:
- - Qualified wild swimming guide and cold water instructor
- - Wetsuit available on request
- - Post-swim warm-up (fire, hot drinks, towel)
- - Safety equipment and throw lines
- - Location briefing and water quality information
- - Transport between swim sites
+  - Qualified wild swimming guide and cold water instructor
+  - Wetsuit available on request
+  - Post-swim warm-up (fire, hot drinks, towel)
+  - Safety equipment and throw lines
+  - Location briefing and water quality information
+  - Transport between swim sites
 notIncluded:
- - Swimwear and personal towel
- - Wetsuit (bringing your own recommended for cold months)
- - Personal travel insurance
- - Meals beyond warm drinks
- - Accommodation in the Highlands
+  - Swimwear and personal towel
+  - Wetsuit (bringing your own recommended for cold months)
+  - Personal travel insurance
+  - Meals beyond warm drinks
+  - Accommodation in the Highlands
 rating: 9.3
 reviewCount: 1432
 featured: false
 tags:
- - wild-swimming
- - scotland
- - highlands
- - water
- - outdoor
- - cold-water
- - adventure
- - cairngorms
+  - wild-swimming
+  - scotland
+  - highlands
+  - water
+  - outdoor
+  - cold-water
+  - adventure
+  - cairngorms
 seo:
- metaTitle: "Wild Swimming in the Scottish Highlands | StayAtNiche"
- metaDescription: "Swim in remote Highland lochs and mountain pools with an expert guide. Cold water immersion in Scotland's most beautiful wild water. From $95 per person."
+  metaTitle: "Wild Swimming in the Scottish Highlands | StayAtNiche"
+  metaDescription: "Swim in remote Highland lochs and mountain pools with an expert guide. Cold water immersion in Scotland's most beautiful wild water. From $95 per person."
 ---
 
-The water is brown. Not murkily, alarmingly brown, it is a clear, rich amber, like very weak whisky, the colour given to Scottish Highland water by the peat through which it has filtered for years before reaching the loch. You stand at the edge and look across a surface that reflects the heather hillside and the enormous sky above it, and then you step in.
+The water is brown. Not murkily, alarmingly brown: it is a clear, rich amber, like very weak whisky, the colour given to Scottish Highland water by the peat through which it has filtered for years before reaching the loch. You stand at the edge and look across a surface that reflects the heather hillside and the enormous sky above it, and then you step in.
 
 The cold is immediate and total and, once your breathing normalises in the first thirty seconds, surprisingly welcome.
 

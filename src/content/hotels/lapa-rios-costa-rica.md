@@ -6,33 +6,33 @@ country: "Costa Rica"
 description: "Award-winning eco-lodge in a private 1,000-acre rainforest reserve on Costa Rica's wild Osa Peninsula, one of the world's most biodiverse regions. Bungalows elevated in the rainforest canopy overlook the Pacific while the surrounding jungle teems with scarlet macaws, jaguars, and four species of monkey."
 coverImage: /images/hotels/lapa-rios-costa-rica.jpg
 gallery:
- - /images/hotels/lapa-rios-costa-rica-2.jpg
- - /images/hotels/lapa-rios-costa-rica-3.jpg
+  - /images/hotels/lapa-rios-costa-rica-2.jpg
+  - /images/hotels/lapa-rios-costa-rica-3.jpg
 priceRange: "$400 - $900"
 priceIndicator: 3
 highlights:
- - "1,000-acre private rainforest reserve on the Osa Peninsula"
- - "Resident scarlet macaw colony visible from the main lodge"
- - "Four species of monkey in the surrounding forest"
- - "Pacific Ocean views from the canopy bungalows"
+  - "1,000-acre private rainforest reserve on the Osa Peninsula"
+  - "Resident scarlet macaw colony visible from the main lodge"
+  - "Four species of monkey in the surrounding forest"
+  - "Pacific Ocean views from the canopy bungalows"
 amenities:
- - "Elevated canopy bungalow with forest and ocean views"
- - "All meals included, locally sourced Costa Rican cuisine"
- - "Daily guided rainforest excursions"
- - "Private beach access at Playa Carbonera"
- - "Night walks and wildlife spotting"
- - "Kayaking and snorkelling"
+  - "Elevated canopy bungalow with forest and ocean views"
+  - "All meals included, locally sourced Costa Rican cuisine"
+  - "Daily guided rainforest excursions"
+  - "Private beach access at Playa Carbonera"
+  - "Night walks and wildlife spotting"
+  - "Kayaking and snorkelling"
 bestFor:
- - "Wildlife enthusiasts"
- - "Eco-travellers"
- - "Nature photographers"
- - "Families"
+  - "Wildlife enthusiasts"
+  - "Eco-travellers"
+  - "Nature photographers"
+  - "Families"
 bookingUrl: https://www.booking.com/hotel/cr/lapa-rios.html
 rating: 9.4
 reviewCount: 1234
 coordinates:
- lat: 8.3833
- lng: -83.4167
+  lat: 8.3833
+  lng: -83.4167
 featured: false
 ---
 

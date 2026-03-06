@@ -6,45 +6,45 @@ country: "Maldives"
 description: "Slip beneath the surface of the Indian Ocean and find yourself alongside the world's largest fish, a whale shark that may be twelve metres long gliding past at a depth of five metres, its spotted skin illuminated by equatorial sunlight filtering through water so clear you can see the full length of the animal at once. South Ari Atoll in the Maldives has a resident population of whale sharks present year-round, making it one of the only places on Earth where a diving encounter with these gentle giants is a near-certainty rather than a possibility."
 coverImage: /images/experiences/diving-with-whale-sharks-maldives.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=diving-with-whale-sharks-maldives"
- price: "From $120 per person"
- duration: "Half day"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=diving-with-whale-sharks-maldives"
+  price: "From $120 per person"
+  duration: "Half day"
 highlights:
- - "Year-round resident whale shark population in South Ari Atoll"
- - "Dive alongside the world's largest fish, up to 12 metres in length"
- - "Among the highest whale shark encounter rates of any site globally"
- - "Crystal-clear Indian Ocean water with 30+ metre visibility"
- - "PADI-certified dive guides with extensive whale shark knowledge"
- - "Snorkelling option available for non-divers alongside SCUBA groups"
+  - "Year-round resident whale shark population in South Ari Atoll"
+  - "Dive alongside the world's largest fish, up to 12 metres in length"
+  - "Among the highest whale shark encounter rates of any site globally"
+  - "Crystal-clear Indian Ocean water with 30+ metre visibility"
+  - "PADI-certified dive guides with extensive whale shark knowledge"
+  - "Snorkelling option available for non-divers alongside SCUBA groups"
 included:
- - PADI dive guide and boat crew
- - All SCUBA equipment (BCD, regulator, wetsuit, fins, mask)
- - Two-tank dive trip to South Ari Atoll whale shark sites
- - Marine biologist briefing on whale shark behaviour and identification
- - Dhoni boat transfer to and between dive sites
- - Post-dive refreshments
+  - PADI dive guide and boat crew
+  - All SCUBA equipment (BCD, regulator, wetsuit, fins, mask)
+  - Two-tank dive trip to South Ari Atoll whale shark sites
+  - Marine biologist briefing on whale shark behaviour and identification
+  - Dhoni boat transfer to and between dive sites
+  - Post-dive refreshments
 notIncluded:
- - PADI Open Water certification (required for diving, must be completed before)
- - Personal travel insurance
- - Underwater camera (rentals available)
- - Gratuities for dive guides
- - Resort or liveaboard accommodation
+  - PADI Open Water certification (required for diving, must be completed before)
+  - Personal travel insurance
+  - Underwater camera (rentals available)
+  - Gratuities for dive guides
+  - Resort or liveaboard accommodation
 rating: 9.8
 reviewCount: 1876
 featured: false
 tags:
- - whale-sharks
- - maldives
- - diving
- - scuba
- - water
- - ocean
- - wildlife
- - south-ari-atoll
+  - whale-sharks
+  - maldives
+  - diving
+  - scuba
+  - water
+  - ocean
+  - wildlife
+  - south-ari-atoll
 seo:
- metaTitle: "Diving with Whale Sharks in the Maldives | StayAtNiche"
- metaDescription: "Dive with the world's largest fish in South Ari Atoll, Maldives. Year-round resident whale sharks and exceptional 30m+ visibility. From $120 per person."
+  metaTitle: "Diving with Whale Sharks in the Maldives | StayAtNiche"
+  metaDescription: "Dive with the world's largest fish in South Ari Atoll, Maldives. Year-round resident whale sharks and exceptional 30m+ visibility. From $120 per person."
 ---
 
 No diving experience quite compares to the moment a whale shark arrives. You may have been hovering at five metres for ten minutes, half-watching the reef below and half-scanning the blue water column ahead, and then something moves at the edge of visibility, a shape that is distinctly wrong in terms of scale, too large to be any other fish you have seen here, moving with the unhurried efficiency of an animal that has been doing this for forty million years. The spots resolve. The enormous, flat-topped head swings slightly as it adjusts course. It is heading directly toward you.

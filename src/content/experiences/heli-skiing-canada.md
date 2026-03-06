@@ -6,45 +6,45 @@ country: "Canada"
 description: "Drop into untouched powder fields in the Canadian Selkirks from a helicopter that deposits you at the top of terrain no lift system will ever reach, vast, silent, perfectly white wilderness where each run is measured in vertical kilometres and the snow quality is legendary among the world's most serious skiers. Heli-skiing in British Columbia is the pinnacle of downhill skiing, offering the best skiers on Earth a completely private mountain experience in some of the deepest powder on the planet."
 coverImage: /images/experiences/heli-skiing-canada.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=heli-skiing-canada"
- price: "From $1,200 per person per day"
- duration: "Full day (3-7 day packages available)"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=heli-skiing-canada"
+  price: "From $1,200 per person per day"
+  duration: "Full day (3-7 day packages available)"
 highlights:
- - "Access terrain only reachable by helicopter, no crowds, no lift lines"
- - "Average 3,000 vertical metres of skiing per day in the Selkirks"
- - "Legendary Selkirk Powder: deep, light, interior British Columbia snow"
- - "Expert mountain guides and certified avalanche safety professionals"
- - "Luxury lodge accommodation available in multi-day packages"
- - "Maximum four skiers per guide for highly personalised terrain selection"
+  - "Access terrain only reachable by helicopter, no crowds, no lift lines"
+  - "Average 3,000 vertical metres of skiing per day in the Selkirks"
+  - "Legendary Selkirk Powder: deep, light, interior British Columbia snow"
+  - "Expert mountain guides and certified avalanche safety professionals"
+  - "Luxury lodge accommodation available in multi-day packages"
+  - "Maximum four skiers per guide for highly personalised terrain selection"
 included:
- - Helicopter flights between runs throughout the day
- - Certified ACMG mountain guide (4:1 skier-to-guide ratio)
- - Avalanche safety equipment (transceiver, probe, shovel)
- - Guaranteed vertical metres (typically 3,000m per day)
- - Lunch delivered to the mountain
- - Safety briefing and beacon practice session
+  - Helicopter flights between runs throughout the day
+  - Certified ACMG mountain guide (4:1 skier-to-guide ratio)
+  - Avalanche safety equipment (transceiver, probe, shovel)
+  - Guaranteed vertical metres (typically 3,000m per day)
+  - Lunch delivered to the mountain
+  - Safety briefing and beacon practice session
 notIncluded:
- - Accommodation (lodge packages available separately)
- - Ski equipment rental (demos available at most operators)
- - Personal travel insurance and emergency evacuation cover
- - Gratuities for guides and pilots
- - Flights to Revelstoke or Golden, BC
+  - Accommodation (lodge packages available separately)
+  - Ski equipment rental (demos available at most operators)
+  - Personal travel insurance and emergency evacuation cover
+  - Gratuities for guides and pilots
+  - Flights to Revelstoke or Golden, BC
 rating: 9.9
 reviewCount: 892
 featured: false
 tags:
- - heli-skiing
- - canada
- - british-columbia
- - selkirks
- - skiing
- - adventure
- - powder
- - luxury
+  - heli-skiing
+  - canada
+  - british-columbia
+  - selkirks
+  - skiing
+  - adventure
+  - powder
+  - luxury
 seo:
- metaTitle: "Heli-Skiing in the Selkirk Mountains, British Columbia | StayAtNiche"
- metaDescription: "Drop into untouched Selkirk powder from a helicopter. 3,000 vertical metres per day of clear wilderness skiing in BC. From $1,200 per person per day."
+  metaTitle: "Heli-Skiing in the Selkirk Mountains, British Columbia | StayAtNiche"
+  metaDescription: "Drop into untouched Selkirk powder from a helicopter. 3,000 vertical metres per day of pristine wilderness skiing in BC. From $1,200 per person per day."
 ---
 
 There is a specific kind of silence that exists only at the top of a mountain reached by helicopter. No chair lift hum, no other skiers, no distant piste-groomer, just the retreating thwump of rotors fading into the valley below and then nothing except wind, altitude, and an untracked field of snow that stretches for a kilometre ahead of you with not a single previous track in it. Your guide says go. You push off.

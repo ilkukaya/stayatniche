@@ -6,45 +6,45 @@ country: "Zimbabwe"
 description: "Leave the vehicle behind and walk through one of Africa's greatest wildlife sanctuaries alongside a professional guide who reads the bush at close quarters, tracking lion by the scent of a kill, following elephant sign through mopane woodland, and stopping to examine the micro-world of insects, fungi, and plants that a game drive rolls over without slowing. Hwange's walking safaris are conducted by some of Africa's most experienced guides, in a park that hosts the continent's largest elephant population and a full complement of predators."
 coverImage: /images/experiences/walking-safari-zimbabwe.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=walking-safari-zimbabwe"
- price: "From $180 per person"
- duration: "Half day (full day and multi-day expeditions available)"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=walking-safari-zimbabwe"
+  price: "From $180 per person"
+  duration: "Half day (full day and multi-day expeditions available)"
 highlights:
- - "Walk within the Big Five's territory with a licensed professional guide and armed scout"
- - "Track elephant, lion, and buffalo by footprint, scent, and sign"
- - "Hwange: Zimbabwe's largest national park and home to 40,000+ elephants"
- - "Slow travel that reveals the small wildlife and plant life game drives ignore"
- - "Remote wilderness camps accessible only on foot"
- - "Camp under the African stars with predator sounds at the fire's edge"
+  - "Walk within the Big Five's territory with a licensed professional guide and armed scout"
+  - "Track elephant, lion, and buffalo by footprint, scent, and sign"
+  - "Hwange: Zimbabwe's largest national park and home to 40,000+ elephants"
+  - "Slow travel that reveals the small wildlife and plant life game drives ignore"
+  - "Remote wilderness camps accessible only on foot"
+  - "Camp under the African stars with predator sounds at the fire's edge"
 included:
- - ZPWMA-licensed professional guide and armed scout
- - Full safety briefing and behavioural protocols
- - Water and snacks during the walk
- - Bush breakfast or sundowner depending on departure time
- - Vehicle backup for emergencies and return
- - Small groups (maximum 6 walkers per guide)
+  - ZPWMA-licensed professional guide and armed scout
+  - Full safety briefing and behavioural protocols
+  - Water and snacks during the walk
+  - Bush breakfast or sundowner depending on departure time
+  - Vehicle backup for emergencies and return
+  - Small groups (maximum 6 walkers per guide)
 notIncluded:
- - Hwange National Park entry fees (approx $20 per person per day)
- - Accommodation at Hwange lodges or camps
- - Flights to Victoria Falls or Hwange
- - Personal travel insurance
- - Gratuities for guides and scouts
+  - Hwange National Park entry fees (approx $20 per person per day)
+  - Accommodation at Hwange lodges or camps
+  - Flights to Victoria Falls or Hwange
+  - Personal travel insurance
+  - Gratuities for guides and scouts
 rating: 9.8
 reviewCount: 1087
 featured: false
 tags:
- - walking-safari
- - zimbabwe
- - hwange
- - wildlife
- - africa
- - big-five
- - elephant
- - conservation
+  - walking-safari
+  - zimbabwe
+  - hwange
+  - wildlife
+  - africa
+  - big-five
+  - elephant
+  - conservation
 seo:
- metaTitle: "Walking Safari in Hwange National Park, Zimbabwe | StayAtNiche"
- metaDescription: "Walk through Zimbabwe's Hwange on foot with a licensed guide. Track lion, buffalo, and 40,000 elephants in Africa's most hands-on safari experience. From $180."
+  metaTitle: "Walking Safari in Hwange National Park, Zimbabwe | StayAtNiche"
+  metaDescription: "Walk through Zimbabwe's Hwange on foot with a licensed guide. Track lion, buffalo, and 40,000 elephants in Africa's most immersive safari experience. From $180."
 ---
 
 There is a specific feeling that comes with putting your feet on the ground in African wilderness and beginning to walk. The vehicle provides comfort and distance; walking removes both. You are no longer an observer in a steel box. You are in the ecosystem, at the same height as the impala, breathing the same air as the lion you are following, reading the same ground that the leopard crossed before dawn.

@@ -6,43 +6,43 @@ country: "Maldives"
 description: "Slip beneath the surface of the Indian Ocean after dark and enter a world lit only by the blue-green glow of millions of bioluminescent dinoflagellates. This two-hour night dive in the North Malé Atoll is one of the Maldives' most surreal aquatic encounters, combining the eerie beauty of bio-luminescence with resident reef life that behaves entirely differently once the sun sets. Suitable for certified divers of all experience levels."
 coverImage: /images/experiences/maldives-bioluminescent-diving.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=maldives-bioluminescent-diving"
- price: "From $150 per person"
- duration: "2 hours"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=maldives-bioluminescent-diving"
+  price: "From $150 per person"
+  duration: "2 hours"
 highlights:
- - "Swim through clouds of glowing bioluminescent plankton"
- - "Night reef dive reveals nocturnal species unseen in daylight"
- - "Watch sleeping reef fish and active hunting moray eels"
- - "Gentle, warm-water conditions perfect for night diving"
- - "Maximum group size of six divers for an intimate experience"
- - "Expert Divemaster with deep North Malé Atoll knowledge"
+  - "Swim through clouds of glowing bioluminescent plankton"
+  - "Night reef dive reveals nocturnal species unseen in daylight"
+  - "Watch sleeping reef fish and active hunting moray eels"
+  - "Gentle, warm-water conditions perfect for night diving"
+  - "Maximum group size of six divers for an intimate experience"
+  - "Expert Divemaster with deep North Malé Atoll knowledge"
 included:
- - Full scuba equipment including wetsuit and torch
- - Divemaster guide (max 6 guests per guide)
- - Boat transfer to and from the dive site
- - Pre-dive safety briefing
- - Post-dive warm drinks and towels
+  - Full scuba equipment including wetsuit and torch
+  - Divemaster guide (max 6 guests per guide)
+  - Boat transfer to and from the dive site
+  - Pre-dive safety briefing
+  - Post-dive warm drinks and towels
 notIncluded:
- - Resort or hotel accommodation
- - Dive certification (PADI Open Water minimum required)
- - Personal travel insurance
- - Gratuities
+  - Resort or hotel accommodation
+  - Dive certification (PADI Open Water minimum required)
+  - Personal travel insurance
+  - Gratuities
 rating: 9.4
 reviewCount: 312
 featured: false
 tags:
- - bioluminescence
- - night-dive
- - scuba-diving
- - maldives
- - plankton
- - reef
- - marine-life
- - underwater
+  - bioluminescence
+  - night-dive
+  - scuba-diving
+  - maldives
+  - plankton
+  - reef
+  - marine-life
+  - underwater
 seo:
- metaTitle: "Bioluminescent Night Dive, North Malé Atoll, Maldives | StayAtNiche"
- metaDescription: "Dive into glowing bioluminescent waters in the Maldives at night. A magical 2-hour guided night dive through plankton-lit reef in North Malé Atoll. From $150."
+  metaTitle: "Bioluminescent Night Dive, North Malé Atoll, Maldives | StayAtNiche"
+  metaDescription: "Dive into glowing bioluminescent waters in the Maldives at night. A magical 2-hour guided night dive through plankton-lit reef in North Malé Atoll. From $150."
 ---
 
 After the Indian Ocean sun drops below the horizon and resort guests settle in for cocktails, a different world awakens beneath the water's surface. The bioluminescent night dive in North Malé Atoll is one of those experiences that divides a traveller's life into before and after, once you have floated weightless in ink-black water while millions of microscopic organisms pulse and flash around your body like living stars, ordinary diving never quite feels the same.

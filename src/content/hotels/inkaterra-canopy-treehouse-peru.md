@@ -6,33 +6,33 @@ country: "Peru"
 description: "Elevated treehouse platform 30 metres above the Amazon rainforest floor in Peru's Tambopata Reserve, the world's most biodiverse tropical ecosystem. Sleep in the canopy of the Amazon with a resident naturalist team and access to one of South America's finest wildlife-watching locations."
 coverImage: /images/hotels/inkaterra-canopy-treehouse-peru.jpg
 gallery:
- - /images/hotels/inkaterra-canopy-treehouse-peru-2.jpg
- - /images/hotels/inkaterra-canopy-treehouse-peru-3.jpg
+  - /images/hotels/inkaterra-canopy-treehouse-peru-2.jpg
+  - /images/hotels/inkaterra-canopy-treehouse-peru-3.jpg
 priceRange: "$400 - $800"
 priceIndicator: 3
 highlights:
- - "Treehouse platform 30 metres above the Amazon canopy"
- - "Access to Tambopata Reserve, one of Earth's most biodiverse areas"
- - "Resident naturalist team with specialist fauna and flora knowledge"
- - "Macaw clay lick and oxbow lake wildlife excursions"
+  - "Treehouse platform 30 metres above the Amazon canopy"
+  - "Access to Tambopata Reserve, one of Earth's most biodiverse areas"
+  - "Resident naturalist team with specialist fauna and flora knowledge"
+  - "Macaw clay lick and oxbow lake wildlife excursions"
 amenities:
- - "Elevated treehouse with canopy-level sleeping platform"
- - "Private bathroom and shower"
- - "Full board, Amazon cuisine"
- - "Daily naturalist-guided excursions"
- - "Night walks and caiman spotting"
- - "Boat excursions on the Tambopata River"
+  - "Elevated treehouse with canopy-level sleeping platform"
+  - "Private bathroom and shower"
+  - "Full board, Amazon cuisine"
+  - "Daily naturalist-guided excursions"
+  - "Night walks and caiman spotting"
+  - "Boat excursions on the Tambopata River"
 bestFor:
- - "Wildlife enthusiasts"
- - "Nature photographers"
- - "Adventure couples"
- - "Birdwatchers"
+  - "Wildlife enthusiasts"
+  - "Nature photographers"
+  - "Adventure couples"
+  - "Birdwatchers"
 bookingUrl: https://www.booking.com/hotel/pe/inkaterra-reserva-amazonica.html
 rating: 9.3
 reviewCount: 876
 coordinates:
- lat: -12.5500
- lng: -69.0500
+  lat: -12.5500
+  lng: -69.0500
 featured: false
 ---
 

@@ -7,82 +7,82 @@ continent: "Africa"
 description: "A free-floating underwater bedroom anchored off the coast of remote Pemba Island in the Indian Ocean, sleep fully submerged beneath the waves, watching reef fish and octopus drift past your windows through the night."
 coverImage: "/images/hotels/manta-resort-zanzibar.jpg"
 gallery:
- - "/images/hotels/manta-resort-zanzibar-1.jpg"
- - "/images/hotels/manta-resort-zanzibar-2.jpg"
- - "/images/hotels/manta-resort-zanzibar-3.jpg"
+  - "/images/hotels/manta-resort-zanzibar-1.jpg"
+  - "/images/hotels/manta-resort-zanzibar-2.jpg"
+  - "/images/hotels/manta-resort-zanzibar-3.jpg"
 priceRange: "$1,500 - $2,500"
 priceIndicator: 5
 highlights:
- - "The entire bedroom is submerged 4 meters below the Indian Ocean surface"
- - "360-degree underwater windows with live reef views at night"
- - "Floating structure includes rooftop deck, sea-level lounge, and underwater bedroom"
- - "Located off remote Pemba Island, one of the Indian Ocean's least-visited destinations"
- - "Voted among the world's most extraordinary hotel experiences repeatedly"
+  - "The entire bedroom is submerged 4 meters below the Indian Ocean surface"
+  - "360-degree underwater windows with live reef views at night"
+  - "Floating structure includes rooftop deck, sea-level lounge, and underwater bedroom"
+  - "Located off remote Pemba Island, one of the Indian Ocean's least-visited destinations"
+  - "Voted among the world's most extraordinary hotel experiences repeatedly"
 amenities:
- - "Submerged underwater bedroom"
- - "Rooftop deck with open ocean views"
- - "Sea-level lounge and dining area"
- - "Full-time host and private chef on the structure"
- - "Kayak and snorkeling equipment"
- - "Sunset cocktail service"
- - "Transfer by boat from the main resort"
- - "Diving arranged through Manta Resort dive centre"
+  - "Submerged underwater bedroom"
+  - "Rooftop deck with open ocean views"
+  - "Sea-level lounge and dining area"
+  - "Full-time host and private chef on the structure"
+  - "Kayak and snorkeling equipment"
+  - "Sunset cocktail service"
+  - "Transfer by boat from the main resort"
+  - "Diving arranged through Manta Resort dive centre"
 bestFor:
- - "Bucket-list once-in-a-lifetime experiences"
- - "Marine biology enthusiasts"
- - "Couples celebrating milestones"
- - "Divers wanting to sleep inside the ocean"
+  - "Bucket-list once-in-a-lifetime experiences"
+  - "Marine biology enthusiasts"
+  - "Couples celebrating milestones"
+  - "Divers wanting to sleep inside the ocean"
 tags:
- - "underwater"
- - "tanzania"
- - "pemba-island"
- - "indian-ocean"
- - "luxury"
- - "unique"
- - "bucket-list"
- - "marine"
+  - "underwater"
+  - "tanzania"
+  - "pemba-island"
+  - "indian-ocean"
+  - "luxury"
+  - "unique"
+  - "bucket-list"
+  - "marine"
 prosAndCons:
- pros:
- - "The most extraordinary sleeping experience available anywhere on earth"
- - "Nocturnal reef life through the bedroom windows is genuinely magical"
- - "Total privacy, the structure sits alone in the open ocean"
- - "The main Manta Resort offers excellent diving as a complement"
- - "Dedicated host means service is attentive and personal"
- cons:
- - "Among the most expensive hotel experiences in Africa"
- - "Pemba Island is extremely remote and difficult to reach"
- - "The underwater room can feel claustrophobic for some guests"
- - "Ocean conditions occasionally affect access and comfort"
- - "Advance booking essential, very limited availability"
+  pros:
+    - "The most extraordinary sleeping experience available anywhere on earth"
+    - "Nocturnal reef life through the bedroom windows is genuinely magical"
+    - "Total privacy, the structure sits alone in the open ocean"
+    - "The main Manta Resort offers excellent diving as a complement"
+    - "Dedicated host means service is attentive and personal"
+  cons:
+    - "Among the most expensive hotel experiences in Africa"
+    - "Pemba Island is extremely remote and difficult to reach"
+    - "The underwater room can feel claustrophobic for some guests"
+    - "Ocean conditions occasionally affect access and comfort"
+    - "Advance booking essential, very limited availability"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Manta+Resort+Pemba+Island+Tanzania"
 rating: 9.6
 reviewCount: 234
 checkInOut:
- checkIn: "15:00"
- checkOut: "11:00"
+  checkIn: "15:00"
+  checkOut: "11:00"
 seasonalInfo:
- bestTime: "June to October (dry season)"
- notes: "Pemba's dry season (June-October) brings the clearest water and calmest seas, ideal conditions for the underwater room experience. The short rainy season (November) and long rains (April-May) can bring rougher conditions. Whale shark season runs October to February."
+  bestTime: "June to October (dry season)"
+  notes: "Pemba's dry season (June-October) brings the clearest water and calmest seas, ideal conditions for the underwater room experience. The short rainy season (November) and long rains (April-May) can bring rougher conditions. Whale shark season runs October to February."
 nearbyAttractions:
- - name: "Pemba Channel (exceptional deep sea fishing)"
- distance: "2 km"
- - name: "Mesali Island Marine Reserve"
- distance: "8 km"
- - name: "Pemba Island coral reefs"
- distance: "on-site"
- - name: "Chake Chake (Pemba's main town)"
- distance: "25 km"
+  - name: "Pemba Channel (world-class deep sea fishing)"
+    distance: "2 km"
+  - name: "Mesali Island Marine Reserve"
+    distance: "8 km"
+  - name: "Pemba Island coral reefs"
+    distance: "on-site"
+  - name: "Chake Chake (Pemba's main town)"
+    distance: "25 km"
 coordinates:
- lat: -5.0667
- lng: 39.7833
+  lat: -5.0667
+  lng: 39.7833
 featured: true
 editorsPick: true
 trending: true
 status: "published"
 publishedDate: 2025-01-10
 seo:
- metaTitle: "The Manta Resort Underwater Room Review, Sleep Under the Indian Ocean, Pemba Island"
- metaDescription: "The world's most extraordinary sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
+  metaTitle: "The Manta Resort Underwater Room Review, Sleep Under the Indian Ocean, Pemba Island"
+  metaDescription: "The world's most extraordinary sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
 ---
 
 At 4 meters below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past your windows in the darkness, the concept of an "unusual hotel experience" begins to feel wholly inadequate. The Manta Resort's Underwater Room is not an unusual hotel experience. It is something for which the language of travel has not yet found the right words.
@@ -93,7 +93,7 @@ The structure itself is a floating platform anchored in open water off the coast
 
 The room itself is a circular chamber with floor-to-ceiling windows on every side. The walls of glass are not there to give you a view of the ocean in the way a hotel window gives you a view of a city, they place you inside the ocean. The reef begins just beyond the glass. In daylight, the Indian Ocean's signature aquamarine light filters down through the water column. At night, the resort's underwater lights attract a rotating cast of marine life to the windows, reef fish gathering in silver shoals, a squid moving in precise, alien jerks, an octopus pressing itself against the glass with apparent curiosity.
 
-Guests who have experienced it most commonly report being entirely unable to sleep, not from discomfort, but from the unwillingness to close their eyes.
+Guests who have experienced it most commonly report being entirely unable to sleep: not from discomfort, but from the unwillingness to close their eyes.
 
 **The Structure**
 

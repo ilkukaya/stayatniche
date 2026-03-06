@@ -6,45 +6,45 @@ country: "New Zealand"
 description: "Paddle a sea kayak through the mirror-still waters of Milford or Doubtful Sound at dawn, when the fiord belongs entirely to you and the reflection of sheer granite walls in the water below is so perfect that depth and height become indistinguishable. Fiordland is one of the wettest and most remote places in New Zealand, carved by glaciers and draped in forest that grows from cliff faces directly into the sea, and experiencing it from the waterline, not from a tour boat, is the only way to understand the true scale of what you are inside."
 coverImage: /images/experiences/kayaking-fiordland-new-zealand.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=kayaking-fiordland-new-zealand"
- price: "From $155 per person"
- duration: "Full day"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=kayaking-fiordland-new-zealand"
+  price: "From $155 per person"
+  duration: "Full day"
 highlights:
- - "Dawn paddle through Milford or Doubtful Sound before tour boats arrive"
- - "Waterfall access only possible by kayak, paddle directly under cascades"
- - "Marine wildlife encounters: bottlenose dolphins, fur seals, Fiordland penguins"
- - "Silent travel at water level with unobstructed views of 1,200m cliff faces"
- - "Overnight multi-day paddles available deep into Doubtful Sound's arms"
- - "Expert guiding through one of the most remote wilderness areas in the Pacific"
+  - "Dawn paddle through Milford or Doubtful Sound before tour boats arrive"
+  - "Waterfall access only possible by kayak, paddle directly under cascades"
+  - "Marine wildlife encounters: bottlenose dolphins, fur seals, Fiordland penguins"
+  - "Silent travel at water level with unobstructed views of 1,200m cliff faces"
+  - "Overnight multi-day paddles available deep into Doubtful Sound's arms"
+  - "Expert guiding through one of the most remote wilderness areas in the Pacific"
 included:
- - Experienced sea kayak guide
- - Sea kayak and all paddle equipment (paddle, spray skirt, dry bags)
- - Full safety kit including VHF radio and flares
- - Waterproof clothing and buoyancy aid
- - Lunch and snacks on full-day trips
- - Transport to and from the kayak launch point
+  - Experienced sea kayak guide
+  - Sea kayak and all paddle equipment (paddle, spray skirt, dry bags)
+  - Full safety kit including VHF radio and flares
+  - Waterproof clothing and buoyancy aid
+  - Lunch and snacks on full-day trips
+  - Transport to and from the kayak launch point
 notIncluded:
- - Personal travel insurance
- - Accommodation in Te Anau or at the fiord (required before day trips)
- - Flights or transport to Te Anau
- - Gratuities for guides
- - Meals beyond included lunch
+  - Personal travel insurance
+  - Accommodation in Te Anau or at the fiord (required before day trips)
+  - Flights or transport to Te Anau
+  - Gratuities for guides
+  - Meals beyond included lunch
 rating: 9.7
 reviewCount: 1654
 featured: false
 tags:
- - kayaking
- - fiordland
- - new-zealand
- - milford-sound
- - doubtful-sound
- - water
- - adventure
- - paddle
+  - kayaking
+  - fiordland
+  - new-zealand
+  - milford-sound
+  - doubtful-sound
+  - water
+  - adventure
+  - paddle
 seo:
- metaTitle: "Sea Kayaking in Fiordland, New Zealand | StayAtNiche"
- metaDescription: "Paddle through Milford or Doubtful Sound at dawn by sea kayak. Wildlife, waterfalls, and 1,200m cliffs from the waterline. From $155 per person."
+  metaTitle: "Sea Kayaking in Fiordland, New Zealand | StayAtNiche"
+  metaDescription: "Paddle through Milford or Doubtful Sound at dawn by sea kayak. Wildlife, waterfalls, and 1,200m cliffs from the waterline. From $155 per person."
 ---
 
 Milford Sound receives an average of 7,000 millimetres of rain per year. More than half the days here are wet to some degree, and the clouds that move through the fiord are part of the experience rather than a disappointment: they reveal the peaks in sections, hiding and exposing the cliff faces at intervals, and they feed the dozens of waterfalls that cascade directly into the saltwater. The most famous, Stirling Falls, drops 151 metres and can be paddled to within arm's reach by kayak. You will be soaked by the spray and laughing.

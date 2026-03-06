@@ -6,33 +6,33 @@ country: "Greece"
 description: "Iconic cliffside boutique hotel carved into the volcanic rock above Mykonos Town, featuring cave-like suites and the famous champagne pool overlooking the Aegean Sea. The definitive expression of Cycladic luxury, beloved by architects, designers, and discerning travellers worldwide."
 coverImage: /images/hotels/cavo-tagoo-mykonos-greece.jpg
 gallery:
- - /images/hotels/cavo-tagoo-mykonos-greece-2.jpg
- - /images/hotels/cavo-tagoo-mykonos-greece-3.jpg
+  - /images/hotels/cavo-tagoo-mykonos-greece-2.jpg
+  - /images/hotels/cavo-tagoo-mykonos-greece-3.jpg
 priceRange: "$600 - $2,500"
 priceIndicator: 4
 highlights:
- - "Iconic cave-cut suites above Mykonos Town and the Aegean"
- - "Famous champagne pool suspended over the cliff edge"
- - "Architect-designed Cycladic interiors in pure white and natural stone"
- - "Sunset views among the finest in the Greek islands"
+  - "Iconic cave-cut suites above Mykonos Town and the Aegean"
+  - "Famous champagne pool suspended over the cliff edge"
+  - "Architect-designed Cycladic interiors in pure white and natural stone"
+  - "Sunset views among the finest in the Greek islands"
 amenities:
- - "Cave suite or villa with sea views"
- - "Private or shared infinity pool"
- - "On-site restaurant and champagne pool bar"
- - "Spa and wellness centre"
- - "Butler service"
- - "Transfers to Mykonos Town and beaches"
+  - "Cave suite or villa with sea views"
+  - "Private or shared infinity pool"
+  - "On-site restaurant and champagne pool bar"
+  - "Spa and wellness centre"
+  - "Butler service"
+  - "Transfers to Mykonos Town and beaches"
 bestFor:
- - "Couples"
- - "Luxury design travellers"
- - "Honeymooners"
- - "Celebrity and VIP travellers"
+  - "Couples"
+  - "Luxury design travellers"
+  - "Honeymooners"
+  - "Celebrity and VIP travellers"
 bookingUrl: https://www.booking.com/hotel/gr/cavo-tagoo.html
 rating: 9.3
 reviewCount: 1876
 coordinates:
- lat: 37.4500
- lng: 25.3290
+  lat: 37.4500
+  lng: 25.3290
 featured: false
 ---
 

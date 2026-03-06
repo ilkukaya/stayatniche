@@ -6,33 +6,33 @@ country: "Thailand"
 description: "Fantasy hilltop villas inspired by the nests of mythical bird-people, perched on poles above a tropical jungle ravine in Kamala, Phuket. The Bird's Nest Pool Villas at Keemala are among Asia's most imaginative and photographed luxury treehouse-style accommodations."
 coverImage: /images/hotels/keemala-bird-nest-phuket.jpg
 gallery:
- - /images/hotels/keemala-bird-nest-phuket-2.jpg
- - /images/hotels/keemala-bird-nest-phuket-3.jpg
+  - /images/hotels/keemala-bird-nest-phuket-2.jpg
+  - /images/hotels/keemala-bird-nest-phuket-3.jpg
 priceRange: "$700 - $1,500"
 priceIndicator: 4
 highlights:
- - "Spherical Bird's Nest villas perched on poles above the jungle"
- - "Private infinity pool with Andaman Sea views"
- - "Inspired by the mythology of four ancient Thai clans"
- - "exceptional Marbas Spa and jungle wellness experiences"
+  - "Spherical Bird's Nest villas perched on poles above the jungle"
+  - "Private infinity pool with Andaman Sea views"
+  - "Inspired by the mythology of four ancient Thai clans"
+  - "World-class Marbas Spa and jungle wellness experiences"
 amenities:
- - "Bird's Nest Pool Villa on elevated structure"
- - "Private infinity pool with sea and jungle views"
- - "Outdoor rain shower"
- - "Marbas Spa"
- - "Two restaurants and swim-up pool bar"
- - "Butlers available on request"
+  - "Bird's Nest Pool Villa on elevated structure"
+  - "Private infinity pool with sea and jungle views"
+  - "Outdoor rain shower"
+  - "Marbas Spa"
+  - "Two restaurants and swim-up pool bar"
+  - "Butlers available on request"
 bestFor:
- - "Couples"
- - "Honeymooners"
- - "Design enthusiasts"
- - "Luxury wellness seekers"
+  - "Couples"
+  - "Honeymooners"
+  - "Design enthusiasts"
+  - "Luxury wellness seekers"
 bookingUrl: https://www.booking.com/hotel/th/keemala.html
 rating: 9.5
 reviewCount: 1432
 coordinates:
- lat: 7.9508
- lng: 98.2817
+  lat: 7.9508
+  lng: 98.2817
 featured: false
 ---
 

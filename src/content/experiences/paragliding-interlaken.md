@@ -6,43 +6,43 @@ country: "Switzerland"
 description: "Run off the edge of a mountain above Interlaken and soar above one of the most spectacular alpine landscapes on Earth, turquoise lakes, glaciated peaks, and the iconic silhouettes of the Eiger, Monch, and Jungfrau filling the horizon as you glide in silence for up to 30 minutes above the Bernese Oberland. Tandem paragliding in Interlaken is accessible to anyone with the nerve to take those first running steps, and the view from altitude here is genuinely among the finest in Europe."
 coverImage: /images/experiences/paragliding-interlaken.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=paragliding-interlaken"
- price: "From $180 per person"
- duration: "2-3 hours (including transport and launch)"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=paragliding-interlaken"
+  price: "From $180 per person"
+  duration: "2-3 hours (including transport and launch)"
 highlights:
- - "Tandem flight above Interlaken with views of the Eiger, Monch, and Jungfrau"
- - "Soar above lakes Thun and Brienz, two of Switzerland's most beautiful lakes"
- - "Up to 30 minutes of airborne flight time on thermal currents"
- - "Licensed Swiss paragliding pilot with thousands of hours of mountain experience"
- - "Option to take the controls during the flight under pilot supervision"
- - "Action camera footage provided of your flight"
+  - "Tandem flight above Interlaken with views of the Eiger, Monch, and Jungfrau"
+  - "Soar above lakes Thun and Brienz, two of Switzerland's most beautiful lakes"
+  - "Up to 30 minutes of airborne flight time on thermal currents"
+  - "Licensed Swiss paragliding pilot with thousands of hours of mountain experience"
+  - "Option to take the controls during the flight under pilot supervision"
+  - "Action camera footage provided of your flight"
 included:
- - Tandem flight with certified Swiss paragliding pilot
- - All paragliding equipment (harness, helmet, reserve parachute)
- - Transport to launch site from Interlaken
- - GoPro footage of the flight
- - Landing in central Interlaken
+  - Tandem flight with certified Swiss paragliding pilot
+  - All paragliding equipment (harness, helmet, reserve parachute)
+  - Transport to launch site from Interlaken
+  - GoPro footage of the flight
+  - Landing in central Interlaken
 notIncluded:
- - Meals and refreshments
- - Personal travel insurance
- - Gratuities for pilots
- - Additional professional photography packages
- - Accommodation
+  - Meals and refreshments
+  - Personal travel insurance
+  - Gratuities for pilots
+  - Additional professional photography packages
+  - Accommodation
 rating: 9.6
 reviewCount: 3891
 featured: false
 tags:
- - paragliding
- - interlaken
- - switzerland
- - alps
- - aerial
- - adventure
- - bernese-oberland
+  - paragliding
+  - interlaken
+  - switzerland
+  - alps
+  - aerial
+  - adventure
+  - bernese-oberland
 seo:
- metaTitle: "Tandem Paragliding over Interlaken, Swiss Alps | StayAtNiche"
- metaDescription: "Soar above the Eiger, Monch, and Jungfrau on a tandem paraglide over Interlaken. One of Europe's most spectacular aerial experiences. From $180 per person."
+  metaTitle: "Tandem Paragliding over Interlaken, Swiss Alps | StayAtNiche"
+  metaDescription: "Soar above the Eiger, Monch, and Jungfrau on a tandem paraglide over Interlaken. One of Europe's most spectacular aerial experiences. From $180 per person."
 ---
 
 The launch is the part people worry about most and the part that, in retrospect, they remember least. Your pilot has done this thousands of times. You run six steps down a grassy slope, the canopy fills with air behind you, and then the ground simply stops being where your feet are. What happens next is not what most first-time fliers expect.
@@ -57,4 +57,4 @@ The flight typically lasts 20-30 minutes and ends on a flat landing zone in cent
 
 **Best time to visit:** Paragliding in Interlaken operates year-round on weather-appropriate days. Summer (June-September) offers the most consistent thermal activity and longest days. Spring brings dramatic light and snow-covered peaks. Winter flights are quiet and strikingly beautiful when the valleys are under cloud and the peaks rise above it. Always book with operators who are willing to reschedule on genuine weather grounds, a cancelled flight is far safer than a marginal one.
 
-**Who it's for:** Almost anyone between 16 and 100 kilograms in good general health. No experience is required for tandem flights. Those with heart conditions, epilepsy, or severe vertigo should consult a doctor before booking. The experience is genuinely suitable for nervous first-timers: the pilots are exceptionally good at managing anxiety.
+**Who it's for:** Almost anyone between 16 and 100 kilograms in good general health. No experience is required for tandem flights. Those with heart conditions, epilepsy, or severe vertigo should consult a doctor before booking. The experience is genuinely suitable for nervous first-timers, the pilots are exceptionally good at managing anxiety.

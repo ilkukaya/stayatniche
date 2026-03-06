@@ -9,66 +9,66 @@ coverImage: /images/hotels/icehotel-sweden.jpg
 priceRange: "$500 - $1,800"
 priceIndicator: 4
 highlights:
- - World's first and most famous ice hotel: in operation since 1990
- - ICEHOTEL 365 open year-round with 20 refrigerated art suites
- - Winter hotel rebuilt annually by international artists in ice and snow
- - Each art suite is a unique collaboration between artists and architecture
- - Ice bar serving cocktails in carved ice glasses at -5°C
- - Northern lights viewing in winter; midnight sun exploration in summer
- - Dog sledding, snowmobile expeditions, and ice sculpting workshops
- - On-site chapel, the world's coldest wedding venue
+  - World's first and most famous ice hotel, in operation since 1990
+  - ICEHOTEL 365 open year-round with 20 refrigerated art suites
+  - Winter hotel rebuilt annually by international artists in ice and snow
+  - Each art suite is a unique collaboration between artists and architecture
+  - Ice bar serving cocktails in carved ice glasses at -5°C
+  - Northern lights viewing in winter; midnight sun exploration in summer
+  - Dog sledding, snowmobile expeditions, and ice sculpting workshops
+  - On-site chapel, the world's coldest wedding venue
 amenities:
- - Art suite carved from Torne River ice (kept at -5°C)
- - Reindeer hide sleeping bag on ice bed (warm room also available)
- - ICEHOTEL Restaurant serving Nordic cuisine
- - ICEBAR with signature ice cocktail menu
- - Sauna access (traditional Swedish sauna)
- - Thermal sleeping bag and Arctic clothing provided
- - Guided northern lights experiences in winter
- - Ice sculpting workshop participation
+  - Art suite carved from Torne River ice (kept at -5°C)
+  - Reindeer hide sleeping bag on ice bed (warm room also available)
+  - ICEHOTEL Restaurant serving Nordic cuisine
+  - ICEBAR with signature ice cocktail menu
+  - Sauna access (traditional Swedish sauna)
+  - Thermal sleeping bag and Arctic clothing provided
+  - Guided northern lights experiences in winter
+  - Ice sculpting workshop participation
 bestFor:
- - Design and art lovers seeking a genuinely unique creative environment
- - Aurora hunters and winter wilderness adventurers
- - Honeymoon and bucket-list couples
- - Arctic experience enthusiasts
+  - Design and art lovers seeking a genuinely unique creative environment
+  - Aurora hunters and winter wilderness adventurers
+  - Honeymoon and bucket-list couples
+  - Arctic experience enthusiasts
 prosAndCons:
- pros:
- - The original and most iconic ice hotel: impossible to replicate elsewhere
- - Art suites created by international artists ensure every year is completely different
- - Year-round operation via ICEHOTEL 365 means no season is a bad season to visit
- - The complete Arctic experience, dog sledding, aurora, ice, midnight sun
- cons:
- - Sleeping in the ice rooms is genuinely cold: not a conventional comfort experience
- - Premium pricing for art suites; warm rooms in the adjacent building are more affordable
- - Very remote, requires flights to Kiruna plus transfer
- - The winter hotel melts and is rebuilt each year: art suites are temporary by design
+  pros:
+    - The original and most iconic ice hotel, impossible to replicate elsewhere
+    - Art suites created by international artists ensure every year is completely different
+    - Year-round operation via ICEHOTEL 365 means no season is a bad season to visit
+    - The complete Arctic experience, dog sledding, aurora, ice, midnight sun
+  cons:
+    - Sleeping in the ice rooms is genuinely cold, not a conventional comfort experience
+    - Premium pricing for art suites; warm rooms in the adjacent building are more affordable
+    - Very remote, requires flights to Kiruna plus transfer
+    - The winter hotel melts and is rebuilt each year, art suites are temporary by design
 bookingUrl: https://www.booking.com/hotel/se/icehotel.html
 rating: 9.4
 reviewCount: 2134
 seasonalInfo:
- bestTime: December to March for the full winter ice hotel; June to August for midnight sun
- peakSeason: December to February (northern lights season) and Midsummer
- notes: The classic winter ice hotel is fully operational from December through April. ICEHOTEL 365 suites are maintained year-round at -5°C, while the surrounding river landscape is spectacularly transformed by the midnight sun in summer.
+  bestTime: December to March for the full winter ice hotel; June to August for midnight sun
+  peakSeason: December to February (northern lights season) and Midsummer
+  notes: The classic winter ice hotel is fully operational from December through April. ICEHOTEL 365 suites are maintained year-round at -5°C, while the surrounding river landscape is spectacularly transformed by the midnight sun in summer.
 nearbyAttractions:
- - name: Torne River, ice fishing and midnight sun kayaking
- distance: Adjacent
- - name: Kiruna, space centre and Sámi culture
- distance: 17 km
- - name: Kiruna Airport
- distance: 17 km
- - name: Abisko National Park, premier northern lights location
- distance: 80 km
+  - name: Torne River, ice fishing and midnight sun kayaking
+    distance: Adjacent
+  - name: Kiruna, space centre and Sámi culture
+    distance: 17 km
+  - name: Kiruna Airport
+    distance: 17 km
+  - name: Abisko National Park, premier northern lights location
+    distance: 80 km
 coordinates:
- lat: 67.8500
- lng: 20.6000
+  lat: 67.8500
+  lng: 20.6000
 featured: true
 status: published
 seo:
- metaTitle: "ICEHOTEL 365 Review, The Original Ice Hotel in Swedish Lapland"
- metaDescription: "The world's first ice hotel, rebuilt from Torne River ice every winter since 1990. Art suites at -5°C, northern lights, and midnight sun. ICEHOTEL 365 from $500/night."
+  metaTitle: "ICEHOTEL 365 Review, The Original Ice Hotel in Swedish Lapland"
+  metaDescription: "The world's first ice hotel, rebuilt from Torne River ice every winter since 1990. Art suites at -5°C, northern lights, and midnight sun. ICEHOTEL 365 from $500/night."
 ---
 
-Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre, a mass of exceptionally pure, crystal-clear ice that has no equal in the world for architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.
+Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal-clear ice that has no equal in the world for architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.
 
 More than three decades later, ICEHOTEL remains in operation in Jukkasjärvi, a village of some 900 people on the Arctic Circle in Swedish Lapland, and it has never been more extraordinary than it is today.
 

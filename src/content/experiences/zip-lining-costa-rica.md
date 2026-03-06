@@ -6,43 +6,43 @@ country: "Costa Rica"
 description: "Fly through the mist-laden canopy of Monteverde's cloud forest on a network of zip lines that reaches speeds of 80km/h and includes a Tarzan swing and Superman line that sends you horizontal above a 400-metre valley. This is not a tame tourist activity, Monteverde's terrain is steep, wild, and genuinely spectacular, and the cloud forest canopy seen from inside it rather than below it is one of the most magical environments in all of Central America."
 coverImage: /images/experiences/zip-lining-costa-rica.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=zip-lining-costa-rica"
- price: "From $65 per person"
- duration: "3-4 hours"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=zip-lining-costa-rica"
+  price: "From $65 per person"
+  duration: "3-4 hours"
 highlights:
- - "13 zip lines through the Monteverde cloud forest canopy at up to 80km/h"
- - "Superman line: fly face-down, horizontally, over a 400-metre forested valley"
- - "Tarzan swing from a 30-metre platform for a pure freefall moment"
- - "Suspension bridges offering quiet canopy observation between lines"
- - "Spot quetzals, toucans, and monkeys in the cloud forest mid-flight"
- - "Night zip-lining option for an entirely different sensory experience"
+  - "13 zip lines through the Monteverde cloud forest canopy at up to 80km/h"
+  - "Superman line: fly face-down, horizontally, over a 400-metre forested valley"
+  - "Tarzan swing from a 30-metre platform for a pure freefall moment"
+  - "Suspension bridges offering quiet canopy observation between lines"
+  - "Spot quetzals, toucans, and monkeys in the cloud forest mid-flight"
+  - "Night zip-lining option for an entirely different sensory experience"
 included:
- - All zip-line safety equipment (harness, helmet, gloves)
- - Certified and bilingual guide
- - Briefing and safety instruction
- - Entrance to the zip-line course property
- - Suspension bridge walks between platforms
+  - All zip-line safety equipment (harness, helmet, gloves)
+  - Certified and bilingual guide
+  - Briefing and safety instruction
+  - Entrance to the zip-line course property
+  - Suspension bridge walks between platforms
 notIncluded:
- - Transport from Santa Elena or La Fortuna
- - Meals and drinks
- - Personal travel insurance
- - Gratuities for guides
- - Photography (camera recommended but secured on harness)
+  - Transport from Santa Elena or La Fortuna
+  - Meals and drinks
+  - Personal travel insurance
+  - Gratuities for guides
+  - Photography (camera recommended but secured on harness)
 rating: 9.4
 reviewCount: 6782
 featured: false
 tags:
- - zip-lining
- - costa-rica
- - monteverde
- - cloud-forest
- - adventure
- - canopy
- - central-america
+  - zip-lining
+  - costa-rica
+  - monteverde
+  - cloud-forest
+  - adventure
+  - canopy
+  - central-america
 seo:
- metaTitle: "Zip-Lining Through Monteverde Cloud Forest, Costa Rica | StayAtNiche"
- metaDescription: "Fly through Monteverde's cloud forest canopy on 13 zip lines at 80km/h, including the Superman line and Tarzan swing. From $65 per person."
+  metaTitle: "Zip-Lining Through Monteverde Cloud Forest, Costa Rica | StayAtNiche"
+  metaDescription: "Fly through Monteverde's cloud forest canopy on 13 zip lines at 80km/h, including the Superman line and Tarzan swing. From $65 per person."
 ---
 
 The cloud forest at Monteverde exists in a state of perpetual, beautiful ambiguity. Mist drifts through the canopy at treetop level, beading on leaves and epiphytes, and the light, filtered through a hundred metres of green, layered vegetation, has a quality that photographers spend entire careers trying to capture. Most visitors walk through this forest from below, craning upward. Zip-lining sends you through it.

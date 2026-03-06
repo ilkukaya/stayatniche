@@ -6,33 +6,33 @@ country: "France"
 description: "Alpine bubble suites perched above the ski resort of Les Deux Alpes in the French Alps, combining transparent stargazing domes with direct ski-in access and panoramic mountain views. A rare marriage of snow sports and luxury bubble accommodation at 1,650 metres altitude."
 coverImage: /images/hotels/aigle-des-neiges-france.jpg
 gallery:
- - /images/hotels/aigle-des-neiges-france-2.jpg
- - /images/hotels/aigle-des-neiges-france-3.jpg
+  - /images/hotels/aigle-des-neiges-france-2.jpg
+  - /images/hotels/aigle-des-neiges-france-3.jpg
 priceRange: "$300 - $600"
 priceIndicator: 3
 highlights:
- - "Transparent bubble suites at 1,650m in the French Alps"
- - "Panoramic mountain views and alpine stargazing"
- - "Direct access to Les Deux Alpes ski domain"
- - "On-site restaurant with Savoyard cuisine and fondue"
+  - "Transparent bubble suites at 1,650m in the French Alps"
+  - "Panoramic mountain views and alpine stargazing"
+  - "Direct access to Les Deux Alpes ski domain"
+  - "On-site restaurant with Savoyard cuisine and fondue"
 amenities:
- - "Climate-controlled Alpine bubble suite"
- - "King-sized bed with mountain panorama"
- - "Private bathroom"
- - "Ski storage and boot room"
- - "Restaurant serving Savoyard cuisine"
- - "Mountain breakfast included"
+  - "Climate-controlled Alpine bubble suite"
+  - "King-sized bed with mountain panorama"
+  - "Private bathroom"
+  - "Ski storage and boot room"
+  - "Restaurant serving Savoyard cuisine"
+  - "Mountain breakfast included"
 bestFor:
- - "Skiers and snowboarders"
- - "Couples"
- - "Alpine adventure seekers"
- - "Stargazers"
+  - "Skiers and snowboarders"
+  - "Couples"
+  - "Alpine adventure seekers"
+  - "Stargazers"
 bookingUrl: https://www.booking.com/
 rating: 8.8
 reviewCount: 356
 coordinates:
- lat: 45.0167
- lng: 6.1167
+  lat: 45.0167
+  lng: 6.1167
 featured: false
 ---
 

@@ -7,84 +7,84 @@ continent: "Africa"
 description: "An extraordinary eco-treehouse lodge built within the ancient ruined walls of a 19th-century Arab trading post on Chole Island, in the waters of the Mafia Island Marine Park."
 coverImage: "/images/hotels/chole-mjini-tanzania.jpg"
 gallery:
- - "/images/hotels/chole-mjini-tanzania-1.jpg"
- - "/images/hotels/chole-mjini-tanzania-2.jpg"
- - "/images/hotels/chole-mjini-tanzania-3.jpg"
+  - "/images/hotels/chole-mjini-tanzania-1.jpg"
+  - "/images/hotels/chole-mjini-tanzania-2.jpg"
+  - "/images/hotels/chole-mjini-tanzania-3.jpg"
 priceRange: "$380 - $650"
 priceIndicator: 4
 highlights:
- - "Treehouses built within 19th-century Arab trading post ruins"
- - "One of Africa's most remote and authentic eco-lodges"
- - "Inside the Mafia Island Marine Park, exceptional diving and snorkeling"
- - "Community-owned and operated, supporting the island's 2,000 residents"
- - "No electricity, lit entirely by lanterns and candles"
+  - "Treehouses built within 19th-century Arab trading post ruins"
+  - "One of Africa's most remote and authentic eco-lodges"
+  - "Inside the Mafia Island Marine Park, world-class diving and snorkeling"
+  - "Community-owned and operated, supporting the island's 2,000 residents"
+  - "No electricity, lit entirely by lanterns and candles"
 amenities:
- - "Open-air treehouse rooms with mosquito netting"
- - "En-suite bathroom"
- - "Fresh seafood restaurant"
- - "Bar"
- - "Diving and snorkeling excursions"
- - "Dhow sailing trips"
- - "Historical guided walks of Chole ruins"
- - "Whale shark swimming (seasonal)"
+  - "Open-air treehouse rooms with mosquito netting"
+  - "En-suite bathroom"
+  - "Fresh seafood restaurant"
+  - "Bar"
+  - "Diving and snorkeling excursions"
+  - "Dhow sailing trips"
+  - "Historical guided walks of Chole ruins"
+  - "Whale shark swimming (seasonal)"
 bestFor:
- - "Serious divers and marine enthusiasts"
- - "Travelers seeking genuine off-grid experiences"
- - "Cultural and historical explorers"
- - "Eco-conscious travelers"
+  - "Serious divers and marine enthusiasts"
+  - "Travelers seeking genuine off-grid experiences"
+  - "Cultural and historical explorers"
+  - "Eco-conscious travelers"
 tags:
- - "treehouse"
- - "eco-lodge"
- - "diving"
- - "mafia-island"
- - "africa"
- - "ruins"
- - "off-grid"
- - "community-owned"
+  - "treehouse"
+  - "eco-lodge"
+  - "diving"
+  - "mafia-island"
+  - "africa"
+  - "ruins"
+  - "off-grid"
+  - "community-owned"
 prosAndCons:
- pros:
- - "Among the most authentic and remote eco-lodges in Africa"
- - "Exceptional diving in an uncrowded, clear marine park"
- - "Genuinely community-owned with direct local benefit"
- - "The atmosphere of the ruins at night is memorable"
- - "Whale shark encounters (October-March) are exceptional"
- cons:
- - "No electricity, requires genuine embrace of off-grid living"
- - "Significant travel required to reach (fly Dar es Salaam → Mafia, boat to Chole)"
- - "Open-air rooms mean insects are part of the experience"
- - "Not suitable for light packers, mosquito repellent essential"
+  pros:
+    - "Among the most authentic and remote eco-lodges in Africa"
+    - "Exceptional diving in an uncrowded, pristine marine park"
+    - "Genuinely community-owned with direct local benefit"
+    - "The atmosphere of the ruins at night is unforgettable"
+    - "Whale shark encounters (October-March) are world-class"
+  cons:
+    - "No electricity, requires genuine embrace of off-grid living"
+    - "Significant travel required to reach (fly Dar es Salaam → Mafia, boat to Chole)"
+    - "Open-air rooms mean insects are part of the experience"
+    - "Not suitable for light packers, mosquito repellent essential"
 bookingUrl: "https://www.booking.com/searchresults.html?ss=Chole+Mjini+Lodge+Tanzania"
 rating: 9.0
 reviewCount: 178
 checkInOut:
- checkIn: "14:00"
- checkOut: "10:00"
+  checkIn: "14:00"
+  checkOut: "10:00"
 seasonalInfo:
- bestTime: "June to October (dry season) and October to March (whale sharks)"
- notes: "The dry season (June-October) offers the best diving visibility and calmer seas. Whale sharks aggregate around Mafia Island from October to March. The short rains (November) and long rains (April-May) can make access difficult."
+  bestTime: "June to October (dry season) and October to March (whale sharks)"
+  notes: "The dry season (June-October) offers the best diving visibility and calmer seas. Whale sharks aggregate around Mafia Island from October to March. The short rains (November) and long rains (April-May) can make access difficult."
 nearbyAttractions:
- - name: "Mafia Island Marine Park"
- distance: "0.5 km (by boat)"
- - name: "Chole Island Ruins"
- distance: "on-site"
- - name: "Juani Island"
- distance: "2 km"
- - name: "Mafia Island main town (Kilindoni)"
- distance: "12 km by boat"
+  - name: "Mafia Island Marine Park"
+    distance: "0.5 km (by boat)"
+  - name: "Chole Island Ruins"
+    distance: "on-site"
+  - name: "Juani Island"
+    distance: "2 km"
+  - name: "Mafia Island main town (Kilindoni)"
+    distance: "12 km by boat"
 coordinates:
- lat: -7.8833
- lng: 39.8667
+  lat: -7.8833
+  lng: 39.8667
 featured: false
 editorsPick: true
 trending: false
 status: "published"
 publishedDate: 2025-02-05
 seo:
- metaTitle: "Chole Mjini Lodge Review, Treehouse Lodge in Mafia Island Ruins, Tanzania"
- metaDescription: "Sleep in treehouses built within 19th-century Arab trading post ruins on Chole Island, Tanzania. Community-owned eco-lodge with exceptional diving in Mafia Island Marine Park."
+  metaTitle: "Chole Mjini Lodge Review, Treehouse Lodge in Mafia Island Ruins, Tanzania"
+  metaDescription: "Sleep in treehouses built within 19th-century Arab trading post ruins on Chole Island, Tanzania. Community-owned eco-lodge with world-class diving in Mafia Island Marine Park."
 ---
 
-Chole Island holds its secrets quietly. From the water, it appears as a dense tangle of baobab trees and mangroves rising from the Indian Ocean, one of dozens of small islands scattered within the Mafia Island Marine Park. But step ashore and walk into the forest, and the ruins find you, great coral-stone walls, collapsed archways, and roofless rooms smothered in fig trees and dense vegetation. These are the remains of a 19th-century Arab trading post, once one of the most prosperous settlements on Tanzania's Swahili Coast, now slowly being reclaimed by the island's extraordinary vegetation.
+Chole Island holds its secrets quietly. From the water, it appears as a dense tangle of baobab trees and mangroves rising from the Indian Ocean, one of dozens of small islands scattered within the Mafia Island Marine Park. But step ashore and walk into the forest, and the ruins find you: great coral-stone walls, collapsed archways, and roofless rooms smothered in fig trees and dense vegetation. These are the remains of a 19th-century Arab trading post, once one of the most prosperous settlements on Tanzania's Swahili Coast, now slowly being reclaimed by the island's extraordinary vegetation.
 
 Chole Mjini Lodge has grown within and around these ruins for over twenty years. The seven treehouse rooms, open-sided platforms of timber and thatch, perched on stilts above the forest floor, use the old walls as their backdrop. Some rooms incorporate the coral-stone directly into their structure. At night, lit only by oil lanterns hung from baobab branches, the effect is somewhere between archaeological site and fever dream.
 

@@ -9,63 +9,63 @@ coverImage: /images/hotels/scarabeo-camp-morocco.jpg
 priceRange: "$350 - $650"
 priceIndicator: 3
 highlights:
- - Located in the Agafay stone desert, closer to Marrakech than the Sahara
- - Traditional Berber tents with contemporary luxury interiors
- - Hammam and spa treatments using Moroccan argan and rose products
- - Camel treks at sunrise into the desert landscape
- - Candlelit dinner under the stars with Moroccan feast
- - Atlas Mountains visible on the horizon
- - No electricity grid, solar-powered, generator-free after dark
- - Yoga and meditation sessions on the desert floor
+  - Located in the Agafay stone desert, closer to Marrakech than the Sahara
+  - Traditional Berber tents with contemporary luxury interiors
+  - Hammam and spa treatments using Moroccan argan and rose products
+  - Camel treks at sunrise into the desert landscape
+  - Candlelit dinner under the stars with Moroccan feast
+  - Atlas Mountains visible on the horizon
+  - No electricity grid, solar-powered, generator-free after dark
+  - Yoga and meditation sessions on the desert floor
 amenities:
- - Luxury Berber tent with proper beds and linens
- - En-suite bathroom with hot shower
- - Hammam spa on-site
- - All meals included (Moroccan cuisine)
- - Camel trekking available
- - Fire pit and communal lounge area
- - Solar lighting throughout
- - Yoga and meditation available
+  - Luxury Berber tent with proper beds and linens
+  - En-suite bathroom with hot shower
+  - Hammam spa on-site
+  - All meals included (Moroccan cuisine)
+  - Camel trekking available
+  - Fire pit and communal lounge area
+  - Solar lighting throughout
+  - Yoga and meditation available
 bestFor:
- - Marrakech visitors seeking a desert extension without a long drive
- - Couples wanting a romantic North African escape
- - Wellness seekers combining hammam and outdoor activities
- - Food lovers interested in authentic Moroccan cooking
+  - Marrakech visitors seeking a desert extension without a long drive
+  - Couples wanting a romantic North African escape
+  - Wellness seekers combining hammam and outdoor activities
+  - Food lovers interested in authentic Moroccan cooking
 prosAndCons:
- pros:
- - Genuinely hands-on desert experience only 40 minutes from Marrakech
- - The Agafay's mineral landscape is visually unique: neither sand dune nor conventional desert
- - Outstanding Moroccan cuisine cooked over traditional methods
- - Solar-powered operation creates authentic darkness after sunset
- cons:
- - The Agafay is a rocky plateau, not a classic sand dune desert: different visual experience from the Sahara
- - Summer temperatures (July-August) can be extreme even at night
- - Limited to one night for most visitors: not a multi-day destination
- - Accessibility requires a hired car or resort transfer from Marrakech
+  pros:
+    - Genuinely immersive desert experience only 40 minutes from Marrakech
+    - The Agafay's mineral landscape is visually unique, neither sand dune nor conventional desert
+    - Outstanding Moroccan cuisine cooked over traditional methods
+    - Solar-powered operation creates authentic darkness after sunset
+  cons:
+    - The Agafay is a rocky plateau, not a classic sand dune desert, different visual experience from the Sahara
+    - Summer temperatures (July-August) can be extreme even at night
+    - Limited to one night for most visitors, not a multi-day destination
+    - Accessibility requires a hired car or resort transfer from Marrakech
 bookingUrl: https://www.booking.com/hotel/ma/scarabeo-camp.html
 rating: 9.2
 reviewCount: 834
 seasonalInfo:
- bestTime: October to April for comfortable temperatures; March-April for spring wildflowers
- peakSeason: December to February
- notes: The shoulder seasons of spring and autumn are ideal: warm days, cool nights, and the beautiful clarity that the Atlas Mountains display when not obscured by summer haze. Ramadan brings a unique cultural dimension to the experience.
+  bestTime: October to April for comfortable temperatures; March-April for spring wildflowers
+  peakSeason: December to February
+  notes: The shoulder seasons of spring and autumn are ideal, warm days, cool nights, and the beautiful clarity that the Atlas Mountains display when not obscured by summer haze. Ramadan brings a unique cultural dimension to the experience.
 nearbyAttractions:
- - name: Marrakech, Medina and Jemaa el-Fna
- distance: 40 km
- - name: Lalla Takerkoust Lake
- distance: 10 km
- - name: High Atlas Mountains, Toubkal trailhead
- distance: 60 km
- - name: Ourika Valley
- distance: 50 km
+  - name: Marrakech, Medina and Jemaa el-Fna
+    distance: 40 km
+  - name: Lalla Takerkoust Lake
+    distance: 10 km
+  - name: High Atlas Mountains, Toubkal trailhead
+    distance: 60 km
+  - name: Ourika Valley
+    distance: 50 km
 coordinates:
- lat: 31.4444
- lng: -8.0833
+  lat: 31.4444
+  lng: -8.0833
 featured: false
 status: published
 seo:
- metaTitle: "Scarabeo Camp Review, Luxury Berber Desert Camp Near Marrakech, Morocco"
- metaDescription: "An eco-luxury Berber camp in Morocco's Agafay stone desert, just 40km from Marrakech. Camel rides, hammam spa, and starlit dinners. Scarabeo Camp from $350/night."
+  metaTitle: "Scarabeo Camp Review, Luxury Berber Desert Camp Near Marrakech, Morocco"
+  metaDescription: "An eco-luxury Berber camp in Morocco's Agafay stone desert, just 40km from Marrakech. Camel rides, hammam spa, and starlit dinners. Scarabeo Camp from $350/night."
 ---
 
 Morocco has two deserts, and most visitors know only one. The great Saharan erg of Merzouga, with its cinematic orange dunes, its camel caravans, and its two-day drive from Marrakech, gets all the postcards. But the Agafay, the mineral stone plateau that begins just forty kilometres south of the city in the foothills of the Atlas, is a different proposition entirely: rawer, more mysterious, and genuinely accessible to anyone staying in Marrakech without the commitment of a three-day excursion.

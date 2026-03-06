@@ -9,63 +9,63 @@ coverImage: /images/hotels/aman-i-khas-india.jpg
 priceRange: "$1,200 - $3,000"
 priceIndicator: 5
 highlights:
- - Only 10 pavilion tents, ensuring an intimate, exclusive experience
- - Direct access to Ranthambore Tiger Reserve for morning and evening game drives
- - Ranthambore has the highest Bengal tiger sighting rate of any Indian reserve
- - Mughal-inspired architecture referencing the nearby historic fort
- - Twice-daily safari drives in dedicated Aman jeeps with expert naturalists
- - Hammam tent and outdoor fire pit for evening gatherings
- - All-inclusive format including safaris and meals
- - Traditional Rajasthani cultural experiences: folk music, puppet shows
+  - Only 10 pavilion tents, ensuring an intimate, exclusive experience
+  - Direct access to Ranthambore Tiger Reserve for morning and evening game drives
+  - Ranthambore has the highest Bengal tiger sighting rate of any Indian reserve
+  - Mughal-inspired architecture referencing the nearby historic fort
+  - Twice-daily safari drives in dedicated Aman jeeps with expert naturalists
+  - Hammam tent and outdoor fire pit for evening gatherings
+  - All-inclusive format including safaris and meals
+  - Traditional Rajasthani cultural experiences, folk music, puppet shows
 amenities:
- - Luxury canvas pavilion tent with hardwood floors
- - En-suite bathroom with deep soaking tub
- - Private verandah with desert and forest views
- - All meals and beverages included
- - Twice-daily tiger safaris with private naturalist
- - Hammam tent and spa treatments
- - Yoga and meditation on the camp platform
- - 24-hour butler service
+  - Luxury canvas pavilion tent with hardwood floors
+  - En-suite bathroom with deep soaking tub
+  - Private verandah with desert and forest views
+  - All meals and beverages included
+  - Twice-daily tiger safaris with private naturalist
+  - Hammam tent and spa treatments
+  - Yoga and meditation on the camp platform
+  - 24-hour butler service
 bestFor:
- - Wildlife enthusiasts prioritising Bengal tiger encounters
- - Luxury travellers seeking India's finest safari experience
- - Couples combining a Rajasthan cultural itinerary with a wildlife stay
- - Photographers chasing India's most iconic wildlife imagery
+  - Wildlife enthusiasts prioritising Bengal tiger encounters
+  - Luxury travellers seeking India's finest safari experience
+  - Couples combining a Rajasthan cultural itinerary with a wildlife stay
+  - Photographers chasing India's most iconic wildlife imagery
 prosAndCons:
- pros:
- - Ranthambore offers consistently the highest tiger sighting rates in India
- - Only 10 tents guarantees true exclusivity and personalised service
- - Aman's all-inclusive format executed at the highest standard for India
- - The combination of wildlife, Mughal history, and Rajasthani culture is unique to this region
- cons:
- - Wildlife sightings are never guaranteed: even Ranthambore's tigers are wild animals
- - The camp closes in late June through early September (monsoon season)
- - Remote location requires a connecting train or flight from Delhi or Jaipur
- - Premium pricing is among the highest in India
+  pros:
+    - Ranthambore offers consistently the highest tiger sighting rates in India
+    - Only 10 tents guarantees true exclusivity and personalised service
+    - Aman's all-inclusive format executed at the highest standard for India
+    - The combination of wildlife, Mughal history, and Rajasthani culture is unique to this region
+  cons:
+    - Wildlife sightings are never guaranteed, even Ranthambore's tigers are wild animals
+    - The camp closes in late June through early September (monsoon season)
+    - Remote location requires a connecting train or flight from Delhi or Jaipur
+    - Premium pricing is among the highest in India
 bookingUrl: https://www.booking.com/hotel/in/aman-i-khas.html
 rating: 9.6
 reviewCount: 423
 seasonalInfo:
- bestTime: October to March for the finest wildlife activity and comfortable temperatures
- peakSeason: November to February
- notes: The reserve closes entirely from June to September for the monsoon. October-November sees the forest re-emerge lush and green after the rains, with excellent tiger sighting prospects. March and April bring increasing heat but tigers are more visible near water sources.
+  bestTime: October to March for the finest wildlife activity and comfortable temperatures
+  peakSeason: November to February
+  notes: The reserve closes entirely from June to September for the monsoon. October-November sees the forest re-emerge lush and green after the rains, with excellent tiger sighting prospects. March and April bring increasing heat but tigers are more visible near water sources.
 nearbyAttractions:
- - name: Ranthambore National Park, tiger safari zones
- distance: Adjacent, direct park access
- - name: Ranthambore Fort (UNESCO World Heritage)
- distance: 8 km
- - name: Jaipur, Pink City
- distance: 160 km
- - name: Sawai Madhopur railway station
- distance: 7 km
+  - name: Ranthambore National Park, tiger safari zones
+    distance: Adjacent, direct park access
+  - name: Ranthambore Fort (UNESCO World Heritage)
+    distance: 8 km
+  - name: Jaipur, Pink City
+    distance: 160 km
+  - name: Sawai Madhopur railway station
+    distance: 7 km
 coordinates:
- lat: 26.0000
- lng: 76.5000
+  lat: 26.0000
+  lng: 76.5000
 featured: false
 status: published
 seo:
- metaTitle: "Aman-i-Khás Review, Bengal Tiger Safari Luxury Camp, Ranthambore, India"
- metaDescription: "Ten Mughal-inspired luxury tented pavilions at Ranthambore Tiger Reserve, India's finest address for Bengal tiger encounters. Aman-i-Khás from $1,200/night."
+  metaTitle: "Aman-i-Khás Review, Bengal Tiger Safari Luxury Camp, Ranthambore, India"
+  metaDescription: "Ten Mughal-inspired luxury tented pavilions at Ranthambore Tiger Reserve, India's finest address for Bengal tiger encounters. Aman-i-Khás from $1,200/night."
 ---
 
 Ranthambore is where India's tigers live without apology. The 1,334 square kilometres of dry deciduous forest, grassland, and ancient lake that constitute this reserve in eastern Rajasthan are home to one of the highest concentrations of Bengal tigers in the world, and it is here, not in the more celebrated Corbett or Kanha, but here, within the shadow of a twelfth-century Rajput fort, that India offers its most compelling case for the survival of the world's most charismatic predator.

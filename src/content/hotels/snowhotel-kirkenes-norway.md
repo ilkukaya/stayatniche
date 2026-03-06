@@ -6,33 +6,33 @@ country: "Norway"
 description: "Intimate snow and ice hotel in Arctic Norway near the Russian border, carved anew each winter with themed suites illustrated by local and international artists. Just a snowmobile ride from the wilderness of the Pasvik Valley nature reserve and the king crab safari waters of the Varangerfjord."
 coverImage: /images/hotels/snowhotel-kirkenes-norway.jpg
 gallery:
- - /images/hotels/snowhotel-kirkenes-norway-2.jpg
- - /images/hotels/snowhotel-kirkenes-norway-3.jpg
+  - /images/hotels/snowhotel-kirkenes-norway-2.jpg
+  - /images/hotels/snowhotel-kirkenes-norway-3.jpg
 priceRange: "$300 - $700"
 priceIndicator: 3
 highlights:
- - "Unique artistic ice suites carved and painted by commissioned artists"
- - "King crab fishing safari in the Varangerfjord waters"
- - "Husky dog sledding through the Arctic wilderness"
- - "Northern lights viewing 69 degrees north"
+  - "Unique artistic ice suites carved and painted by commissioned artists"
+  - "King crab fishing safari in the Varangerfjord waters"
+  - "Husky dog sledding through the Arctic wilderness"
+  - "Northern lights viewing 69 degrees north"
 amenities:
- - "Artistic ice suite with thermal sleeping bag"
- - "Warm cabin accommodation adjacent"
- - "King crab safari with fresh crab dinner"
- - "Dog sledding and snowmobile excursions"
- - "Northern lights service"
- - "Arctic breakfast"
+  - "Artistic ice suite with thermal sleeping bag"
+  - "Warm cabin accommodation adjacent"
+  - "King crab safari with fresh crab dinner"
+  - "Dog sledding and snowmobile excursions"
+  - "Northern lights service"
+  - "Arctic breakfast"
 bestFor:
- - "Adventure couples"
- - "Aurora hunters"
- - "Foodies"
- - "Dog sled enthusiasts"
+  - "Adventure couples"
+  - "Aurora hunters"
+  - "Foodies"
+  - "Dog sled enthusiasts"
 bookingUrl: https://www.booking.com/hotel/no/snowhotel-kirkenes.html
 rating: 9.1
 reviewCount: 734
 coordinates:
- lat: 69.7272
- lng: 30.0452
+  lat: 69.7272
+  lng: 30.0452
 featured: false
 ---
 

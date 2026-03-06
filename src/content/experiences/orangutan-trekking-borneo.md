@@ -3,48 +3,48 @@ title: "Orangutan Trekking in the Danum Valley"
 type: wildlife
 destination: "Danum Valley Conservation Area"
 country: "Malaysia (Borneo)"
-description: "Trek through one of Southeast Asia's last clear lowland dipterocarp rainforests in search of wild Bornean orangutans, the great apes found only on this island, in the 438 square kilometre wilderness of the Danum Valley. This is not a rehabilitation centre or a feeding platform visit. These are genuinely wild animals living in genuinely wild forest, and finding them requires patience, knowledge, and a willingness to move slowly through one of the most biodiverse patches of land on Earth."
+description: "Trek through one of Southeast Asia's last pristine lowland dipterocarp rainforests in search of wild Bornean orangutans, the great apes found only on this island, in the 438 square kilometre wilderness of the Danum Valley. This is not a rehabilitation centre or a feeding platform visit. These are genuinely wild animals living in genuinely wild forest, and finding them requires patience, knowledge, and a willingness to move slowly through one of the most biodiverse patches of land on Earth."
 coverImage: /images/experiences/orangutan-trekking-borneo.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=orangutan-trekking-borneo"
- price: "From $220 per person"
- duration: "Full day"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=orangutan-trekking-borneo"
+  price: "From $220 per person"
+  duration: "Full day"
 highlights:
- - "Track wild Bornean orangutans in undisturbed lowland dipterocarp rainforest"
- - "Danum Valley: one of Southeast Asia's most biodiverse and least-visited wildernesses"
- - "Expert Kadazan-Dusun guides with deep forest knowledge"
- - "Pygmy elephants, clouded leopards, and proboscis monkeys in the same ecosystem"
- - "No feeding stations, all sightings of genuinely wild animals"
- - "Night drives for nocturnal wildlife including tarsiers and civets"
+  - "Track wild Bornean orangutans in undisturbed lowland dipterocarp rainforest"
+  - "Danum Valley: one of Southeast Asia's most biodiverse and least-visited wildernesses"
+  - "Expert Kadazan-Dusun guides with deep forest knowledge"
+  - "Pygmy elephants, clouded leopards, and proboscis monkeys in the same ecosystem"
+  - "No feeding stations, all sightings of genuinely wild animals"
+  - "Night drives for nocturnal wildlife including tarsiers and civets"
 included:
- - Expert Danum Valley field guide
- - Full day of guided trekking with multiple habitat types covered
- - All park entry fees and Conservation Area permits
- - Lunch in the field
- - Optional night drive with spotlight guide
- - Basic accommodation in Danum Valley Field Centre (if multi-day)
+  - Expert Danum Valley field guide
+  - Full day of guided trekking with multiple habitat types covered
+  - All park entry fees and Conservation Area permits
+  - Lunch in the field
+  - Optional night drive with spotlight guide
+  - Basic accommodation in Danum Valley Field Centre (if multi-day)
 notIncluded:
- - Transport from Lahad Datu (4WD transfer required, arrange through operator)
- - Personal travel insurance
- - Gratuities for guides
- - Flights to Lahad Datu, Sabah
- - Meals beyond field lunch
+  - Transport from Lahad Datu (4WD transfer required, arrange through operator)
+  - Personal travel insurance
+  - Gratuities for guides
+  - Flights to Lahad Datu, Sabah
+  - Meals beyond field lunch
 rating: 9.7
 reviewCount: 743
 featured: false
 tags:
- - orangutan
- - borneo
- - wildlife
- - trekking
- - malaysia
- - rainforest
- - danum-valley
- - conservation
+  - orangutan
+  - borneo
+  - wildlife
+  - trekking
+  - malaysia
+  - rainforest
+  - danum-valley
+  - conservation
 seo:
- metaTitle: "Orangutan Trekking in Danum Valley, Borneo | StayAtNiche"
- metaDescription: "Track wild Bornean orangutans in the clear Danum Valley rainforest. Genuine wilderness, expert guides, and extraordinary biodiversity. From $220 per person."
+  metaTitle: "Orangutan Trekking in Danum Valley, Borneo | StayAtNiche"
+  metaDescription: "Track wild Bornean orangutans in the pristine Danum Valley rainforest. Genuine wilderness, expert guides, and extraordinary biodiversity. From $220 per person."
 ---
 
 The Danum Valley is what most tropical rainforest no longer is: intact, continuous, and unharvested. The 438 square kilometres of protected lowland dipterocarp forest in Sabah, Malaysian Borneo contain trees that rise 60 metres to their crowns, a forest floor so layered with life that every square metre contains species that have not yet been described by science, and a population of wild Bornean orangutans that has never been fed, habituated to close human contact, or disrupted by agricultural clearing around its habitat. Coming here is different from visiting any other orangutan site.

@@ -4,67 +4,67 @@ category: lighthouse-hotels
 destination: "Augusta, Western Australia"
 country: "Australia"
 continent: "Oceania"
-description: "Sleep where two great oceans meet at Australia's most powerful lighthouse, perched at the dramatic southwestern tip of the continent. The restored keeper's cottages at Cape Leeuwin offer an hard to beat wild coastal experience where the Southern and Indian Oceans collide in perpetual spectacle."
+description: "Sleep where two great oceans meet at Australia's most powerful lighthouse, perched at the dramatic southwestern tip of the continent. The restored keeper's cottages at Cape Leeuwin offer an unmatched wild coastal experience where the Southern and Indian Oceans collide in perpetual spectacle."
 coverImage: /images/hotels/cape-leeuwin-lighthouse-australia.jpg
 gallery:
- - /images/hotels/cape-leeuwin-lighthouse-australia-2.jpg
- - /images/hotels/cape-leeuwin-lighthouse-australia-3.jpg
+  - /images/hotels/cape-leeuwin-lighthouse-australia-2.jpg
+  - /images/hotels/cape-leeuwin-lighthouse-australia-3.jpg
 priceRange: "$280 - $450"
 priceIndicator: 3
 highlights:
- - "Stay at the meeting point of the Indian and Southern Oceans"
- - "Historic 1895 limestone lighthouse on the UNESCO Tentative World Heritage list"
- - "Guided lighthouse tower climbs with panoramic ocean views"
- - "Whale watching from the headland (June–September)"
- - "Proximity to the famous Margaret River wine region"
- - "Some of Australia's most dramatic and untouched coastal scenery"
+  - "Stay at the meeting point of the Indian and Southern Oceans"
+  - "Historic 1895 limestone lighthouse on the UNESCO Tentative World Heritage list"
+  - "Guided lighthouse tower climbs with panoramic ocean views"
+  - "Whale watching from the headland (June–September)"
+  - "Proximity to the famous Margaret River wine region"
+  - "Some of Australia's most dramatic and untouched coastal scenery"
 amenities:
- - "Self-contained heritage cottage accommodation"
- - "Full kitchen facilities"
- - "Private outdoor seating area"
- - "Guided lighthouse tours included"
- - "Nearby Augusta township for provisions"
- - "On-site visitor centre"
+  - "Self-contained heritage cottage accommodation"
+  - "Full kitchen facilities"
+  - "Private outdoor seating area"
+  - "Guided lighthouse tours included"
+  - "Nearby Augusta township for provisions"
+  - "On-site visitor centre"
 bestFor:
- - "Couples seeking remote coastal romance"
- - "History and heritage enthusiasts"
- - "Wildlife watchers"
- - "Surfers and ocean lovers"
+  - "Couples seeking remote coastal romance"
+  - "History and heritage enthusiasts"
+  - "Wildlife watchers"
+  - "Surfers and ocean lovers"
 prosAndCons:
- pros:
- - "Utterly unique location at the continental tip where two oceans meet"
- - "Genuine heritage atmosphere in authentically restored cottages"
- - "Outstanding whale and dolphin watching directly from the property"
- - "Close enough to Margaret River for excellent winery day trips"
- cons:
- - "Self-catering accommodation, no on-site restaurant"
- - "Remote location requires a vehicle (430 km south of Perth)"
- - "Coastal winds can be intense, not suited to those seeking calm beach holidays"
- - "Limited availability; books out quickly during whale season"
+  pros:
+    - "Utterly unique location at the continental tip where two oceans meet"
+    - "Genuine heritage atmosphere in authentically restored cottages"
+    - "Outstanding whale and dolphin watching directly from the property"
+    - "Close enough to Margaret River for excellent winery day trips"
+  cons:
+    - "Self-catering accommodation, no on-site restaurant"
+    - "Remote location requires a vehicle (430 km south of Perth)"
+    - "Coastal winds can be intense, not suited to those seeking calm beach holidays"
+    - "Limited availability; books out quickly during whale season"
 bookingUrl: https://www.booking.com/
 rating: 9.0
 reviewCount: 187
 seasonalInfo:
- bestTime: June to September for whale watching; October to April for calmer weather
- peakSeason: Australian school holidays and winter whale season (July–August)
- notes: The Cape is extraordinary year-round but each season offers something different. Winter brings dramatic storms and humpback whale migrations directly offshore. Spring and autumn offer mild conditions and wildflower blooms in the surrounding Leeuwin-Naturaliste National Park. Summer is warm but persistent south-westerly winds keep conditions lively.
+  bestTime: June to September for whale watching; October to April for calmer weather
+  peakSeason: Australian school holidays and winter whale season (July–August)
+  notes: The Cape is extraordinary year-round but each season offers something different. Winter brings dramatic storms and humpback whale migrations directly offshore. Spring and autumn offer mild conditions and wildflower blooms in the surrounding Leeuwin-Naturaliste National Park. Summer is warm but persistent south-westerly winds keep conditions lively.
 nearbyAttractions:
- - name: Margaret River Wine Region
- distance: 70 km
- - name: Leeuwin-Naturaliste National Park
- distance: 1 km
- - name: Augusta township
- distance: 9 km
- - name: Hamelin Bay
- distance: 50 km
+  - name: Margaret River Wine Region
+    distance: 70 km
+  - name: Leeuwin-Naturaliste National Park
+    distance: 1 km
+  - name: Augusta township
+    distance: 9 km
+  - name: Hamelin Bay
+    distance: 50 km
 coordinates:
- lat: -34.3739
- lng: 115.1347
+  lat: -34.3739
+  lng: 115.1347
 featured: false
 status: published
 seo:
- metaTitle: "Cape Leeuwin Lighthouse Cottages Review, Where Two Oceans Meet, Western Australia"
- metaDescription: "Stay in the historic keeper's cottages at Cape Leeuwin, where the Indian and Southern Oceans collide at Australia's southwestern tip. Whale watching, lighthouse climbs, and wild coastal scenery. From $280/night."
+  metaTitle: "Cape Leeuwin Lighthouse Cottages Review, Where Two Oceans Meet, Western Australia"
+  metaDescription: "Stay in the historic keeper's cottages at Cape Leeuwin, where the Indian and Southern Oceans collide at Australia's southwestern tip. Whale watching, lighthouse climbs, and wild coastal scenery. From $280/night."
 ---
 
 At the very southwestern tip of Australia, where the continent finally runs out of land and two great oceans, the Indian and the Southern, meet in a perpetual collision of swells and spray, stands Cape Leeuwin Lighthouse. Built in 1895 from local limestone and rising 39 metres above the headland, it is Australia's tallest mainland lighthouse and one of its most significant maritime heritage sites. To stay in the restored keeper's cottages at its base is to occupy one of the most geographically and atmospherically charged addresses on the continent.

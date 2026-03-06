@@ -6,33 +6,33 @@ country: "French Polynesia"
 description: "Pioneering overwater bungalow resort on the outer reef of Bora Bora, featuring the world's first deep-sea water air conditioning system using cold water from 900 metres below the Pacific. Overwater villas with direct access to the world's clearest lagoon and the award-winning Deep Ocean Spa."
 coverImage: /images/hotels/intercontinental-thalasso-bora-bora.jpg
 gallery:
- - /images/hotels/intercontinental-thalasso-bora-bora-2.jpg
- - /images/hotels/intercontinental-thalasso-bora-bora-3.jpg
+  - /images/hotels/intercontinental-thalasso-bora-bora-2.jpg
+  - /images/hotels/intercontinental-thalasso-bora-bora-3.jpg
 priceRange: "$900 - $3,500"
 priceIndicator: 4
 highlights:
- - "World's first deep seawater air conditioning system"
- - "Award-winning Deep Ocean Spa on the outer reef"
- - "Overwater villas with direct Bora Bora lagoon access"
- - "Outstanding snorkelling from the villa decks"
+  - "World's first deep seawater air conditioning system"
+  - "Award-winning Deep Ocean Spa on the outer reef"
+  - "Overwater villas with direct Bora Bora lagoon access"
+  - "Outstanding snorkelling from the villa decks"
 amenities:
- - "Overwater villa with lagoon steps"
- - "Glass floor viewing panels"
- - "Deep Ocean Spa and thalassotherapy"
- - "Two restaurants and swim-up bar"
- - "Water sports centre"
- - "Direct reef access"
+  - "Overwater villa with lagoon steps"
+  - "Glass floor viewing panels"
+  - "Deep Ocean Spa and thalassotherapy"
+  - "Two restaurants and swim-up bar"
+  - "Water sports centre"
+  - "Direct reef access"
 bestFor:
- - "Wellness seekers"
- - "Couples"
- - "Honeymooners"
- - "Environmental sustainability enthusiasts"
+  - "Wellness seekers"
+  - "Couples"
+  - "Honeymooners"
+  - "Environmental sustainability enthusiasts"
 bookingUrl: https://www.booking.com/hotel/pf/intercontinental-bora-bora-resort-thalasso-spa.html
 rating: 9.3
 reviewCount: 2145
 coordinates:
- lat: -16.4917
- lng: -151.7417
+  lat: -16.4917
+  lng: -151.7417
 featured: false
 ---
 

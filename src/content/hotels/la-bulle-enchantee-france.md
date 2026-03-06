@@ -6,37 +6,37 @@ country: "France"
 description: "Enchanting transparent bubble domes nestled in the orchards and meadows of rural Normandy, offering guests an intimate connection with the French countryside sky. Each 'enchanted bubble' is individually decorated and set within a private garden for complete seclusion."
 coverImage: /images/hotels/la-bulle-enchantee-france.jpg
 gallery:
- - /images/hotels/la-bulle-enchantee-france-2.jpg
- - /images/hotels/la-bulle-enchantee-france-3.jpg
+  - /images/hotels/la-bulle-enchantee-france-2.jpg
+  - /images/hotels/la-bulle-enchantee-france-3.jpg
 priceRange: "$180 - $320"
 priceIndicator: 2
 highlights:
- - "Transparent bubble domes in Norman orchards and meadows"
- - "Individually themed and decorated interiors"
- - "Private terrace with countryside views"
- - "Locally sourced Normandy breakfast included"
+  - "Transparent bubble domes in Norman orchards and meadows"
+  - "Individually themed and decorated interiors"
+  - "Private terrace with countryside views"
+  - "Locally sourced Normandy breakfast included"
 amenities:
- - "Climate-controlled transparent bubble dome"
- - "Double or king-sized bed"
- - "Private terrace"
- - "En-suite bathroom facilities"
- - "Normandy breakfast basket"
- - "Outdoor seating and fire pit"
+  - "Climate-controlled transparent bubble dome"
+  - "Double or king-sized bed"
+  - "Private terrace"
+  - "En-suite bathroom facilities"
+  - "Normandy breakfast basket"
+  - "Outdoor seating and fire pit"
 bestFor:
- - "Couples"
- - "Nature lovers"
- - "Weekend breaks from Paris"
- - "Stargazers"
+  - "Couples"
+  - "Nature lovers"
+  - "Weekend breaks from Paris"
+  - "Stargazers"
 bookingUrl: https://www.booking.com/
 rating: 8.7
 reviewCount: 287
 coordinates:
- lat: 49.1833
- lng: 0.3500
+  lat: 49.1833
+  lng: 0.3500
 featured: false
 ---
 
-Normandy is a region of deep greens and soft silences, apple orchards, hedgerow-bordered meadows, and skies that shift through a hundred shades of grey and blue in the space of a single afternoon. La Bulle Enchantée plants its transparent domes directly within this landscape, creating a sleeping experience that feels simultaneously rooted in the French countryside and entirely removed from ordinary life.
+Normandy is a region of deep greens and soft silences: apple orchards, hedgerow-bordered meadows, and skies that shift through a hundred shades of grey and blue in the space of a single afternoon. La Bulle Enchantée plants its transparent domes directly within this landscape, creating a sleeping experience that feels simultaneously rooted in the French countryside and entirely removed from ordinary life.
 
 The property operates with the warmth of a family-run establishment, and that human quality permeates every detail. The bubbles themselves are individually styled, no two are identical, with interiors that draw on the materials and colour palette of rural Normandy: linen, aged oak, hand-thrown ceramics, and textiles that echo the tones of the surrounding landscape. The effect is romantic without being fussy, and the transparency of the dome walls ensures that the view, orchards in blossom, night sky, morning mist rolling in from the bocage, is always the centrepiece.
 

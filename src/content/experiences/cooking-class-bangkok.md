@@ -6,43 +6,43 @@ country: "Thailand"
 description: "Start at dawn in a wet market navigating alongside chefs who have been shopping here for decades, then spend a half-day in a traditional Thai kitchen learning to make five authentic dishes that bear no resemblance to their restaurant approximations. Bangkok's cooking classes are a world apart from the tourist-oriented versions found in beach resorts, this is serious culinary education in a city that treats food with a reverence bordering on religion."
 coverImage: /images/experiences/cooking-class-bangkok.jpg
 booking:
- provider: direct
- url: "https://www.stayatniche.com/contact?experience=cooking-class-bangkok"
- price: "From $65 per person"
- duration: "Half day (4-5 hours)"
+  provider: direct
+  url: "https://www.stayatniche.com/contact?experience=cooking-class-bangkok"
+  price: "From $65 per person"
+  duration: "Half day (4-5 hours)"
 highlights:
- - "Pre-dawn wet market tour with your chef-instructor identifying key Thai ingredients"
- - "Cook five authentic dishes including pad thai, green curry, and tom yum from scratch"
- - "Learn to balance the four pillars of Thai flavour: sour, sweet, salty, and spicy"
- - "Handwritten recipe cards to recreate every dish at home"
- - "Intimate class sizes (maximum 8 people) for genuine hands-on learning"
- - "Eat everything you cook as a full Thai lunch"
+  - "Pre-dawn wet market tour with your chef-instructor identifying key Thai ingredients"
+  - "Cook five authentic dishes including pad thai, green curry, and tom yum from scratch"
+  - "Learn to balance the four pillars of Thai flavour: sour, sweet, salty, and spicy"
+  - "Handwritten recipe cards to recreate every dish at home"
+  - "Intimate class sizes (maximum 8 people) for genuine hands-on learning"
+  - "Eat everything you cook as a full Thai lunch"
 included:
- - Market tour with chef-instructor
- - All ingredients and cooking equipment
- - Five-dish cooking lesson with individual guidance
- - Full meal of everything you prepare
- - Recipe booklet
- - Cooking apron to keep
+  - Market tour with chef-instructor
+  - All ingredients and cooking equipment
+  - Five-dish cooking lesson with individual guidance
+  - Full meal of everything you prepare
+  - Recipe booklet
+  - Cooking apron to keep
 notIncluded:
- - Transport to the cooking school
- - Additional drinks beyond water and tea
- - Personal travel insurance
- - Gratuities for instructors
+  - Transport to the cooking school
+  - Additional drinks beyond water and tea
+  - Personal travel insurance
+  - Gratuities for instructors
 rating: 9.4
 reviewCount: 3104
 featured: false
 tags:
- - cooking-class
- - bangkok
- - thailand
- - culinary
- - thai-cuisine
- - food
- - market-tour
+  - cooking-class
+  - bangkok
+  - thailand
+  - culinary
+  - thai-cuisine
+  - food
+  - market-tour
 seo:
- metaTitle: "Thai Cooking Class with Market Tour, Bangkok | StayAtNiche"
- metaDescription: "Cook authentic Thai dishes after a dawn wet market tour in Bangkok. Small-group classes teaching real Thai flavour technique. From $65 per person."
+  metaTitle: "Thai Cooking Class with Market Tour, Bangkok | StayAtNiche"
+  metaDescription: "Cook authentic Thai dishes after a dawn wet market tour in Bangkok. Small-group classes teaching real Thai flavour technique. From $65 per person."
 ---
 
 Bangkok's wet markets operate on a time zone of their own. By 5am, the stalls are fully set up, pyramid arrangements of fresh galangal, whole fish on ice, banana leaves folded into detailed containers, Thai basil in varieties most visitors cannot name, and the chefs who supply the city's restaurants move through the aisles with a speed and purpose that makes tourist market visits look like a different activity entirely. Following your instructor through this environment is not a sanitised food tour. It is an education.
