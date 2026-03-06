@@ -70,9 +70,9 @@ The St. Regis Bora Bora's Royal Estate overwater villa is a two-bedroom, private
 
 
 
-Fiji-Over-Water is not as widespread as the Maldives/Polynesia circuit, but Likuliku Lagoon Resort on Malolo Island offers the only true overwater bungalows in Fiji (most other "overwater" Fiji stays are actually extended-land-over-water rather than fully overwater). The 10 Overwater Bures are genuine: thatched-roof Fijian bures elevated directly over the Malolo Lagoon, with glass-floor panels and direct water access.
+Likuliku Lagoon Resort on Malolo Island is the only resort in Fiji offering true overwater bungalows — most others are extended-land-over-water rather than fully overwater, a meaningful distinction if you care about the glass-floor-panel experience. The 10 Overwater Bures are genuine: thatched-roof Fijian bures elevated directly over Malolo Lagoon, with glass-floor panels and steps into the water.
 
-What Fiji adds to the overwater formula is the Pacific's warmth: Fijian hospitality culture, which is genuine and extensive, creates a different emotional experience from the Maldives' more formal luxury service style. The Fijian village visits, kava ceremonies, and community integration available from Likuliku give the trip cultural dimensions that Maldives resorts rarely offer.
+Fiji's difference from the Maldives is cultural. Fijian hospitality is warm and genuine in a way that reads differently from the Maldives' more formal luxury service style. Village visits, kava ceremonies, and community engagement are available and authentic from Likuliku — the kind of cultural depth that most Maldives resorts, which are designed to feel like islands unto themselves, simply don't offer.
 
 **Price range:** Overwater Bures from $1,100/night (all-inclusive)
 **Getting there:** Fly to Nadi International Airport; 60-minute boat transfer to Malolo Island
@@ -80,7 +80,7 @@ What Fiji adds to the overwater formula is the Pacific's warmth: Fijian hospital
 ---
 
 
-Kokomo Private Island, on a private island off the Kadavu group, represents Fiji's most complete luxury experience: a 142-acre island with 21 residences (including overwater villas), access to the Great Astrolabe Reef (one of the world's largest barrier reefs), and an activity program that includes exceptional diving, fishing, and helicopter excursions.
+Kokomo Private Island off the Kadavu group takes Fiji's overwater offer to its logical extreme: a 142-acre private island with 21 residences including overwater villas, direct access to the Great Astrolabe Reef (one of the world's largest barrier reefs), and an activity programme that includes serious diving, fishing, and helicopter excursions.
 
 **Price range:** From $1,500/person/night all-inclusive
 
@@ -88,9 +88,9 @@ Kokomo Private Island, on a private island off the Kadavu group, represents Fiji
 
 
 
-Song Saa Private Island, in Cambodia's Koh Rong Archipelago in the Gulf of Thailand, offers overwater villas in a context enriched by the surrounding region's extraordinary cultural depth. Angkor Wat is a short flight away; the Khmer Rouge history is proximity-available for those who want to engage with Cambodia's complex past; and the island's own marine reserve status (Song Saa Foundation manages a 1km marine protected zone around the island) gives the stay environmental substance.
+Song Saa Private Island sits in Cambodia's Koh Rong Archipelago in the Gulf of Thailand, and the surrounding region's cultural depth is a genuine reason to choose it over the Maldives. Angkor Wat is a short flight away. The island itself manages a 1km marine protected zone through the Song Saa Foundation, which gives the stay more environmental substance than the average resort's green policy document.
 
-The overwater villas are genuinely beautiful: infinity pools, high-pitched thatched roofs, and a design that references traditional Khmer architecture in contemporary form. The surrounding water is not the clearest in Southeast Asia (the Gulf of Thailand's seasonal plankton blooms affect visibility) but the snorkelling on the marine reserve is excellent during dry season.
+The overwater villas are beautiful — infinity pools, high-pitched thatched roofs, design that references traditional Khmer architecture. The water here is not the clearest in Southeast Asia; the Gulf of Thailand's seasonal plankton blooms affect visibility. Come in dry season and the snorkelling on the marine reserve is strong.
 
 **Price range:** Overwater Villas from $800/night
 **Best time:** November–April (dry season; clear water)
@@ -98,9 +98,9 @@ The overwater villas are genuinely beautiful: infinity pools, high-pitched thatc
 ---
 
 
-Raja Ampat, in West Papua's Bird's Head Seascape, is widely considered to offer the world's greatest marine biodiversity, home to 75% of the world's coral species. Misool Eco Resort sits on a private lease of 300,000 acres of marine environment, with overwater bungalows and beach bungalows positioned over some of the most spectacular reef systems on the planet.
+Raja Ampat in West Papua's Bird's Head Seascape holds 75% of the world's coral species. If marine biodiversity is what you're measuring, nothing on this list beats it. Misool Eco Resort sits on a private lease of 300,000 acres of marine environment, with overwater bungalows positioned over reef systems that experienced divers describe as the best they've encountered anywhere.
 
-This is not the Maldives' immaculate luxury: Misool is a genuine eco-resort, remote and adventurous, where the diving and snorkelling are the primary experience. But the quality of the marine environment is hard to beat anywhere in this guide: manta rays, whale sharks, pigmy seahorses, wobbegong sharks, and reef fish in concentrations that experienced divers describe as surreal.
+Misool is not the Maldives. This is a genuine eco-resort — remote, adventurous, without the immaculate luxury finish. The diving and snorkelling are everything. Manta rays, whale sharks, pygmy seahorses, wobbegong sharks, and reef fish in concentrations that seem implausible until you're in the water.
 
 **Price range:** From $350/person/night (all-inclusive meals and two dives daily)
 **Getting there:** Fly to Sorong, West Papua; 3-hour speedboat to Misool. Access is challenging and weather-dependent.

@@ -36,16 +36,16 @@ coordinates:
 featured: true
 ---
 
-Treehotel in Swedish Lapland is perhaps the world's most celebrated treehouse hotel. Located in the small village of Harads, 60km south of the Arctic Circle, it has redefined what's possible in elevated accommodation.
+Seven architects were each given a pine tree and asked to build a room in it. The results, standing in the Lule River valley forest outside the village of Harads, 60 kilometres south of the Arctic Circle, are some of the most photographed hotel rooms in the world — and they earn the attention.
 
+Each room at Treehotel is a distinct architectural proposition:
 
-Each of Treehotel's rooms is a separately designed architectural statement:
+**The Mirrored Cube** is a perfectly reflective box suspended between the pines, its exterior so precisely mirrored that birds occasionally fly into it (there are now UV wires to prevent this). Inside, panoramic windows frame the forest from every angle; the room itself appears almost to vanish from outside.
 
-**The Mirrored Cube**, A perfectly mirrored box that reflects the surrounding forest, appearing almost invisible from a distance. Inside, panoramic windows frame the pine forest from every angle.
+**The Bird's Nest** looks, from below, exactly like what it sounds: a rough tangle of branches the size of a room. Inside is a tight, warm cabin with forest-facing windows and heated floors that make the austere exterior all the more satisfying.
 
-**The Bird's Nest**, Designed to look like a large bird's nest from outside, this room hides a supremely comfortable interior with forest-facing windows.
+**The UFO** is a silver disc on a rope bridge, reached across a swaying walkway and entered through a hatch. Small, but the atmosphere of a thing from another era floating in the pines is its own reward.
 
-**The UFO**: A retro-futuristic disc suspended between trees, reached by a rope bridge. Limited in size but unlimited in atmosphere.
+Additional rooms — the 7th Room, the Cabin, and the Dragon Fly — round out the collection, each commissioned from different designers.
 
-
-Staying at Treehotel means embracing Swedish Lapland's extraordinary seasons. In summer, experience the midnight sun from your treetop perch. In winter, fall asleep hoping for the Northern Lights and wake to a snow-dusted forest. Activities range from forest walks and wildlife spotting to husky sledding and ice fishing.
+The surrounding Swedish Lapland landscape changes radically by season. Summer brings the midnight sun and long golden evenings from the treetop deck; winter brings the prospect of northern lights visible from bed, and the forest blanketed in snow and reachable by husky sled or snowshoe. Activities, from ice fishing on the river to moose safaris and foraging walks, are organized through the main lodge. Meals are served in the Granön building on the riverbank below, with a kitchen focused on local Lapland ingredients.
