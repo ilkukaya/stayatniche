@@ -45,7 +45,7 @@ seo:
   metaDescription: "Float above the Serengeti at sunrise on a 4-hour hot air balloon safari. Watch the Great Migration from the sky and end with a champagne bush breakfast. From $550."
 ---
 
-There is a particular moment, just as the balloon clears the acacia canopy and the full sweep of the Serengeti opens beneath you, when conversation stops entirely. The plains stretch to every horizon, turning gold as the sun climbs above the Kenyan border, and somewhere below a pride of lions is finishing a night hunt while thousands of wildebeest resume their ancient, circular migration. You see all of it at once.
+As the balloon clears the acacia canopy and the full sweep of the Serengeti opens beneath you, conversation stops. The plains stretch to every horizon, turning gold as the sun climbs above the Kenyan border. Somewhere below, a pride of lions is finishing a night hunt while thousands of wildebeest resume their migration. You see all of it at once, and from this height, the scale of the ecosystem is suddenly coherent in a way that no amount of game driving quite delivers.
 
 Balloon flights launch an hour before dawn so passengers can watch the full sunrise sequence from altitude. Ground crews prepare the balloon with military efficiency, the inflation process alone is worth watching, before your pilot briefs the group on safety and what to expect. Baskets hold between eight and sixteen passengers depending on the operator, and the pilot manages the altitude with skilled burner work, dropping low over river crossings to watch hippo pods and soaring high for panoramic views of the plains.
 

@@ -39,16 +39,16 @@ seo:
   metaDescription: "Discover Scotland's most extraordinary places to stay, from castle hotels and remote Highland lodges to Isle of Skye hideaways. Your complete niche travel guide."
 ---
 
-Scotland is where the landscape does all the talking. Jagged peaks tumble into black sea lochs, ancient pinewoods shelter red squirrels and ospreys, and stone castles rise from every prominent crag as if deposited by the glaciers themselves. This is a country that rewards those willing to leave the main roads behind.
+Scotland's landscape does most of the talking. Jagged peaks tumble into black sea lochs, ancient pinewoods shelter red squirrels and ospreys, and stone castles rise from every prominent crag as if deposited by the glaciers themselves. Leave the main roads and you quickly understand why people come back repeatedly.
 
 
-Scotland's accommodation scene has quietly become one of Europe's most inventive. Converted castle hotels with baronial dining rooms and crackling fires. Remote bothies accessible only on foot. Luxury glamping pods perched above sea lochs with nothing but seals for company. The country's relatively low population density means true solitude is achievable without going far.
+Scotland's accommodation scene has become one of Europe's most inventive. Converted castle hotels with baronial dining rooms and fires that actually warm the rooms. Remote bothies accessible only on foot, where the reward is a stone shelter and silence. Luxury glamping pods above sea lochs with nothing but seals and the odd passing seal for company. Low population density means genuine solitude is achievable without going far — a rarity in Western Europe.
 
 
-The Scottish Highlands are the emotional heart of the country: a vast, sparsely populated terrain of mountains, moorland, and water. The NC500 route links together extraordinary coastal and inland scenery over 500 miles, passing through Torridon, Assynt, and Cape Wrath. Accommodation along the route ranges from luxury fishing lodges to converted crofters' cottages.
+The Scottish Highlands are the country's emotional center: a vast, sparsely populated terrain of mountains, moorland, and water. The North Coast 500 route connects 500 miles of coastal and inland scenery, passing through Torridon's ancient sandstone mountains, Assynt's lochan-scattered moorland, and the dramatic coastline approaching Cape Wrath. Accommodation ranges from luxury fishing lodges to converted crofters' cottages with low beamed ceilings and views over the water.
 
 
-Scotland's 790 islands represent some of Europe's most compelling slow-travel destinations. Skye is the most visited, justifiably, but the Outer Hebrides offer white-sand beaches (machairs) that look more Caribbean than North Atlantic. Orkney and Shetland carry Norse DNA in their culture and landscape, while Islay is a whisky-lover's pilgrimage site.
+Scotland's 790 islands include some of Europe's most compelling slow-travel territory. Skye is the most visited, and justifiably — the Quiraing and Fairy Pools hold up to the photographs. But the Outer Hebrides offer machair beaches of white shell sand that look more Caribbean than North Atlantic. Orkney and Shetland carry Norse DNA in their culture and place names, while Islay is a legitimate whisky pilgrimage: eight distilleries, each with a distinct peat and salt character, on a single island.
 
 
-Scotland's capital delivers culture and architecture in concentrated form: the Royal Mile, Arthur's Seat, and a exceptional whisky scene all within walking distance. But Scotland's real magic begins when you leave the cities behind and let the landscape claim you entirely.
+Edinburgh delivers culture and architecture at concentration — the Royal Mile, Arthur's Seat, and one of the world's great whisky bar scenes all walkable. But the point at which Scotland becomes Scotland is when the cities are behind you and the landscape takes over entirely.

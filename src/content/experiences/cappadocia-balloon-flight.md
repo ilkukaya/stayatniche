@@ -40,18 +40,12 @@ seo:
   metaDescription: "Float over Cappadocia's fairy chimneys at sunrise. Book a hot air balloon flight, the ultimate bucket list experience in Turkey."
 ---
 
-There are travel experiences, and then there are moments that genuinely alter your perspective. A sunrise balloon flight over Cappadocia is firmly in the second category.
+Cappadocia's fairy chimneys look improbable from the ground. Seen from a balloon at 500 metres as the sun comes up, they look like something geology invented specifically for this moment. It is one of the handful of places on Earth where the landscape and the activity have been so perfectly matched that neither one would make sense without the other.
 
+You are collected from your hotel before dawn, around 4:30–5am depending on the season. At the launch site, crews are already inflating dozens of balloons simultaneously, each one lit from within against the dark sky. Give yourself time to watch this. The baskets are large — anywhere from eight to twenty-four passengers — and your pilot briefs the group before boarding.
 
-You'll be collected from your hotel in the pre-dawn darkness, around 4:30–5am depending on season. The preparation site buzzes with quiet activity as crews inflate dozens of balloons simultaneously. The sight of them lit from within against the dark sky is spectacular in itself.
+The flight lasts approximately one hour. A skilled pilot works the altitude constantly: down low over the valley floors to weave between the chimneys at eye level, then up high for the panoramic sweep across the plateau. The volcanic formations of the Rose, Love, and Pigeon Valleys look entirely different from above, the honeycombed cave dwellings carved into them suddenly legible in a way they are not from the ground.
 
-The flight itself lasts approximately one hour. Your pilot will guide you low over the valley floors, weaving between the fairy chimneys at tree level, then lift you high above the plateau for panoramic views stretching to the horizon.
+**Book well in advance.** Spring and autumn slots sell out months ahead. Dress in layers — the air at altitude is genuinely cold even in summer. Flights are cancelled in wind, and good operators will reschedule or offer a full refund; check this policy before you pay.
 
-
-- **Book well in advance.** Popular slots, especially in spring and autumn, sell out months ahead.
-- **Dress in layers.** It's cold at altitude, even in summer.
-- **Bring a good camera.** The light at sunrise is extraordinary.
-- **Flights can be cancelled due to wind.** Most operators will reschedule or refund, check the cancellation policy.
-
-
-Champagne (or juice) is served on landing, wherever that may be, landings are wind-dependent. The toast and certificate ceremony is a lovely ritual that caps an memorable morning.
+Champagne or juice is served on landing, wherever that ends up being — wind determines the exact spot. The certificate ceremony is a small, cheerful ritual and a reasonable way to end a morning that most people spend the rest of the trip trying to describe to people who weren't there.

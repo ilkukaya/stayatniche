@@ -101,37 +101,37 @@ Twenty minutes north of Queenstown along Lake Wakatipu, Blanket Bay sits where t
 
 
 
-New Zealand is one of the world's great self-drive destinations: the distances are manageable, the roads well-maintained (on sealed routes), and the freedom to stop wherever a view demands it is integral to the experience. A self-drive itinerary through the South Island, staying at a combination of extraordinary lodges and simpler accommodation, is one of travel's most rewarding road trip options.
+New Zealand is one of the world's best self-drive destinations. Distances are manageable, roads are well-maintained on sealed routes, and the South Island in particular rewards stopping wherever a view demands it. A self-drive itinerary combining one or two lodge stays with simpler accommodation is one of the more satisfying road trips available anywhere.
 
-For guests interested in properties like Minaret Station (helicopter access) or guided wilderness experiences, a specialist New Zealand travel agency (World Journeys, Luxury Lodge of New Zealand member properties, or the Virgin Limited Edition NZ itineraries) can add logistical value.
-
-
-**Summer (December–February):** Long days, warm temperatures, peak season for outdoor activities. All properties open; highest prices and most advance booking required.
-**Autumn (March–May):** The South Island is particularly beautiful: beech forests turn gold, high-country light becomes rich and horizontal. Fewer visitors, lower prices, excellent conditions for fishing.
-**Winter (June–August):** North Island lodges remain accessible; South Island high-country properties like Minaret Station close. Ski lodges near Queenstown and Mt Cook are excellent. Not typically aurora season at New Zealand's latitude, but clear winter nights offer brilliant Southern Hemisphere stargazing.
-**Spring (September–November):** Lambing season on high-country stations, flowers in mountain valleys, excellent fishing from October.
+For helicopter-access properties like Minaret Station, or for guests building multi-lodge itineraries, a specialist New Zealand travel agency — World Journeys, Luxury Lodges of New Zealand member properties, or Virgin Limited Edition NZ itineraries — is worth using. They have allocations and local knowledge that general OTAs don't.
 
 
-Both Air New Zealand and Jetstar operate comprehensive domestic networks connecting Auckland, Wellington, Christchurch, Queenstown, Nelson, and regional centres. Helicopter access to remote properties is provided by the properties themselves.
+**Summer (December–February):** Long days, warm temperatures, all properties open. Peak prices and the most advance booking required.
+**Autumn (March–May):** The South Island's strongest season for those who know it. Beech forests turn gold, high-country light gets rich and horizontal, fishing conditions are excellent, and visitors thin out.
+**Winter (June–August):** North Island lodges stay open; South Island high-country properties close. Ski lodges near Queenstown and Mt Cook are good alternatives. Clear winter nights produce serious Southern Hemisphere stargazing.
+**Spring (September–November):** Lambing season on high-country stations, mountain valley wildflowers, and fishing from October.
 
 
-- **Layers for variable conditions:** New Zealand weather is famously changeable; even summer requires fleece and waterproofs for highland excursions.
-- **Merino wool base layers:** New Zealand's merino industry produces exceptional base layers (Icebreaker, Smartwool); these work excellently in both hot and cold conditions.
-- **Quality walking/hiking footwear:** Even the most luxurious lodge stays typically involve some walking on rough terrain.
-- **Polarised sunglasses:** The UV index at New Zealand's latitudes is significantly higher than in Europe or North America; polarised lenses also improve visibility on rivers and lakes.
-- **Binoculars:** Kaikōura wildlife, Southern Alps birds of prey, and high-country landscapes all reward close observation.
+Both Air New Zealand and Jetstar run comprehensive domestic networks covering Auckland, Wellington, Christchurch, Queenstown, Nelson, and regional centres. Helicopter access to remote properties is arranged directly by the lodges.
+
+
+- **Layers for variable conditions:** New Zealand weather cycles fast; even summer requires fleece and waterproofs for highland excursions.
+- **Merino wool base layers:** The local merino industry (Icebreaker, Smartwool) produces excellent base layers that work across a wide temperature range.
+- **Quality walking/hiking footwear:** Even the most comfortable lodge stays involve some walking on rough terrain.
+- **Polarised sunglasses:** UV at New Zealand's latitudes is significantly higher than in Europe or North America; polarised lenses also help on rivers and lakes.
+- **Binoculars:** Kaikōura wildlife, Southern Alps raptors, and high-country landscapes all reward a closer look.
 
 ---
 
 
 
-New Zealand's top lodge properties charge at the very high end of the global market, NZD $1,500–2,500/night is common for all-inclusive lodge stays. Whether this represents value depends on what you're buying: at properties like Huka Lodge, The Lindis, or Minaret Station, you are paying for exclusive access to private landscapes, personalised guiding, and a level of hospitality that cannot be purchased at any price point in the mass-market travel world. Many guests describe these stays as among the best experiences of their lives, which is a different calculation from a price-per-room-night comparison.
+New Zealand's top lodges charge at the upper end of the global market — NZD $1,500–2,500/night all-inclusive is standard. At properties like Huka Lodge, The Lindis, or Minaret Station, you're paying for exclusive access to private landscapes, a dedicated guide, and meals that compare with Auckland's best restaurants. Measured against a week's hotel costs in a major European city, the comparison is less alarming than it first appears.
 
 
-The Luxury Lodges of New Zealand (LLNZ) is a membership organisation encompassing the country's premier lodge properties, including most of those listed in this guide. Membership implies a quality standard; properties that are not members should be researched more carefully.
+The Luxury Lodges of New Zealand (LLNZ) is a membership organisation covering the country's premier lodge properties, including most on this list. It functions as a quality benchmark — properties outside the membership are worth researching more carefully before booking.
 
 
-For peak summer season (December–February), 6–12 months in advance is standard for the most sought-after properties. Huka Lodge and Eagles Nest regularly sell out their best rooms 9–12 months ahead. Shoulder season (March–May, September–November) offers more flexibility but advance booking of 2–4 months is still advisable.
+For December–February, book 6–12 months ahead at the most sought-after properties. Huka Lodge and Eagles Nest regularly sell their best rooms 9–12 months out. Shoulder season (March–May and September–November) offers more flexibility, but 2–4 months' notice is still sensible.
 
 
-New Zealand and Australia are commonly combined in Southern Hemisphere itineraries. Auckland is approximately 3 hours from Sydney; Queenstown is 3 hours from Melbourne. A 10–14 day itinerary might combine Sydney and New South Wales with a fly-in to Queenstown and a South Island lodge circuit.
+New Zealand and Australia slot together naturally in Southern Hemisphere itineraries. Auckland is about 3 hours from Sydney; Queenstown is 3 hours from Melbourne. A 10–14 day trip combining Sydney and New South Wales with a fly-in to Queenstown and a South Island lodge circuit is one of the better long-haul itineraries available.

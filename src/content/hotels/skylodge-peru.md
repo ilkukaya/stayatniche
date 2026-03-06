@@ -68,7 +68,7 @@ seo:
   metaDescription: "The world's most daring hotel: transparent pods suspended 400 metres above the Sacred Valley. Reach them by via ferrata or zip line. Skylodge Adventure Suites from $450/night."
 ---
 
-There is a moment, roughly two-thirds of the way up the via ferrata route carved into the red granite face of the Pachar mountain, when the Sacred Valley of the Incas unfolds beneath you in its full, staggering breadth. The Urubamba River is a silver thread a hundred metres below; the terraced fields of Ollantaytambo glow green against the ochre earth; the snowcapped peaks of the Andes stand in their ancient ranks along every horizon. At this point, most climbers pause. Not from exhaustion, but from the sudden, piercing awareness that what they are looking at is one of the most beautiful things they have ever seen.
+Roughly two-thirds of the way up the via ferrata route carved into the red granite face of the Pachar mountain, the Sacred Valley of the Incas unfolds beneath you in its full width. The Urubamba River is a silver thread a hundred metres below; the terraced fields of Ollantaytambo glow green against ochre earth; the snowcapped Andes stand along every horizon. Most climbers pause here — not from exhaustion, but because the view stops them cold.
 
 Then they look up, and see their bed for the night bolted to the cliff face fifty metres above.
 

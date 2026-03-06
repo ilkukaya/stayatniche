@@ -47,7 +47,7 @@ seo:
   metaDescription: "Walk through Zimbabwe's Hwange on foot with a licensed guide. Track lion, buffalo, and 40,000 elephants in Africa's most immersive safari experience. From $180."
 ---
 
-There is a specific feeling that comes with putting your feet on the ground in African wilderness and beginning to walk. The vehicle provides comfort and distance; walking removes both. You are no longer an observer in a steel box. You are in the ecosystem, at the same height as the impala, breathing the same air as the lion you are following, reading the same ground that the leopard crossed before dawn.
+Game drives are comfortable, productive, and fundamentally removed. The vehicle is a steel box that keeps the bush at a managed distance. A walking safari removes that buffer entirely. You are in the ecosystem at impala height, breathing the same air as the lion you are following, reading the same ground the leopard crossed before dawn. It is a different activity, not a variation on the same one.
 
 Zimbabwe's professional guides are, by the assessment of most safari industry professionals, the best walking guides in Africa. The country's guide licensing system, the ZPWMA Professional Hunter and Guide qualification, is one of the most demanding in the continent, requiring years of apprenticeship, documented walking experience, and examination in bush craft, wildlife behaviour, first aid, and firearm handling. The guides who lead Hwange walks have typically been learning this specific landscape for a decade before they take independent responsibility for a group.
 
