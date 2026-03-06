@@ -85,7 +85,7 @@ seo:
   metaDescription: "The world's most extraordinary sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
 ---
 
-At 4 meters below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past your windows in the darkness, the concept of an "unusual hotel experience" begins to feel wholly inadequate. The Manta Resort's Underwater Room is not an unusual hotel experience. It is something for which the language of travel has not yet found the right words.
+At 4 metres below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past your windows in the darkness, the standard categories of hotel experience stop being useful. The Manta Resort's Underwater Room is something separate: a submerged bedroom off one of the most remote islands in the Western Indian Ocean, where the fish are more curious about you than you are about them.
 
 The structure itself is a floating platform anchored in open water off the coast of Pemba Island, one of the most remote inhabited islands in the Western Indian Ocean, 80 kilometres north of Zanzibar and visited by a tiny fraction of the tourists who pass through Tanzania each year. The platform has three levels: a rooftop deck open to the stars and the vast open ocean; a sea-level lounge with a wrap-around deck for swimming and sunset cocktails; and the bedroom, which sits 4 meters underwater, accessible via a hatch and ladder from the sea-level lounge.
 
@@ -105,4 +105,4 @@ A dedicated host lives on the floating structure with you for the duration of yo
 
 Pemba itself is worth the journey even without the Underwater Room as the destination. The island's diving is exceptional, the Pemba Channel drops to enormous depths just offshore, creating upwellings of nutrient-rich water that sustain some of the healthiest coral in the Indian Ocean. The island has almost no tourist infrastructure beyond a handful of lodges, and the villages of clove farmers and fishermen along the coast feel entirely removed from the modern world.
 
-The Manta Resort's mainland lodge provides a comfortable base, excellent diving, and all the necessary logistics for reaching the Underwater Room by boat. The room itself takes the meaning of that journey and multiplies it. This is not the world's most luxurious hotel. It is, by consensus of almost everyone who has experienced it, the world's most extraordinary.
+The Manta Resort's mainland lodge provides a comfortable base, excellent diving, and the logistics for reaching the Underwater Room by boat. The room itself is not the most luxurious hotel experience in the Indian Ocean. It is, by the account of nearly everyone who has slept in it, the most singular.

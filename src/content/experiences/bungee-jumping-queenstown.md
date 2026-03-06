@@ -45,18 +45,16 @@ seo:
   metaDescription: "Jump from the world's first commercial bungee site at Kawarau Bridge, Queenstown. 43 metres above a glacial river. The original thrill. From $175 per person."
 ---
 
-You have thought about it for weeks, maybe years. You have watched the videos, read the accounts, and told yourself you would do it. Now you are standing on the wooden platform of the Kawarau Bridge, 43 metres above a river the colour of glacier ice, and your jump master is asking if you are ready.
+The Kawarau Bridge bungee is not the highest jump in Queenstown — the Nevis runs from 134 metres, nearly three times higher. But this is the one that matters. AJ Hackett and Henry van Asch made the first commercial bungee jump here in November 1988, from this specific stone bridge over the Kawarau Gorge, and the site has operated continuously ever since. Standing on that wooden platform 43 metres above a river the colour of glacier ice is to stand at the actual origin point of modern adventure travel.
 
-The Kawarau Bridge bungee is not the highest in New Zealand, Queenstown offers jumps from 134 metres at the Nevis, but it is the most significant. This is where AJ Hackett and Henry van Asch made the first-ever commercial bungee jump in November 1988, turning a Polynesian vine-jumping ritual and an Oxford University experiment into one of the defining experiences of adventure travel. The bridge itself is a single-arch stone structure from 1880, spanning the gorge with the kind of solidity that makes the act of leaping from it feel all the more deliberate.
+The briefing is thorough and calm. Staff wrap your ankles with practised efficiency, walk you through the jump posture — arms out, chin up, eyes forward — and answer every question without impatience. The cord is selected to your body weight with engineering precision. AJ Hackett's safety record across millions of jumps is spotless, and the ground team's professionalism is obvious from the first minute.
 
-The briefing is thorough and calm. Staff wrap your ankles in the padded harness with practised efficiency, walk you through the jump posture, arms out, chin up, eyes forward, and answer every question without a trace of impatience. The cord is selected to your body weight with engineering precision. AJ Hackett's safety record across millions of jumps worldwide is spotless, and the professionalism of the ground team is immediately apparent.
-
-Walking to the edge, you look down at the turquoise Kawarau churning through the gorge, at the viewing platform where companions and strangers with cameras watch your every step, at the absurd, magnificent distance between your feet and the water. The jump master counts down. Every rational instinct says no.
+Walking to the edge, you look down at the turquoise Kawarau churning through the gorge, at the viewing platform where companions and strangers with cameras are watching your every step, at the distance between your feet and the water. The jump master counts down. Every rational instinct says no.
 
 Then you jump.
 
-The freefall lasts approximately three seconds and feels simultaneously like an eternity and an instant. The rebound pulls you back up as the cord takes your weight, the gorge walls rush past, and a deep, physiological wave of relief and euphoria floods through you. Most jumpers report the rebound as the best part, the moment when your body understands it has survived.
+Freefall lasts roughly three seconds and feels like a great deal longer. The cord takes your weight, the gorge walls blur past, and a wave of physiological relief and euphoria arrives with the first rebound. Most jumpers report the rebound as the best moment — when the body registers that it has survived and the adrenaline shifts register.
 
-**Who it's for:** Anyone between 10 and 75 years old weighing between 35 and 230 kilograms. No prior experience required. First-timers are encouraged to book the tandem option, where a jump master accompanies you. The optional water touch, where the cord is lengthened so your hands or head graze the river surface, is highly recommended for those who want the full sensory experience.
+**Who it's for:** Anyone aged 10 to 75 weighing between 35 and 230 kilograms. No experience required. First-timers should consider the tandem option, where a jump master goes with you. The water touch — cord lengthened so your hands or head graze the river — is worth requesting.
 
-**Best time to visit:** Queenstown's bungee operations run year-round. Spring (September-November) and autumn (March-May) offer the most reliable weather and smaller crowds. Arrive early morning for the clearest light and shortest queues.
+**Best time:** Year-round operation. Spring (September–November) and autumn (March–May) offer reliable weather and shorter queues. Arrive early for the best light and the fastest turnaround.

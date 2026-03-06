@@ -79,4 +79,4 @@ The conservation work that underpins the entire operation is significant and gen
 
 The Great Migration passes through the western corridor between June and July, when the vast herds move north from the calving grounds in a spectacle that constitutes the greatest wildlife event on Earth. River crossings in the Grumeti River, at the mercy of its famously large crocodile population, are among safari's defining experiences. But the concession offers exceptional game viewing year-round, with resident populations of all the major species and a density and diversity of wildlife that reflects decades of sustained protection.
 
-Plan an itinerary that combines Grumeti with another Singita property, Lamai in the Mara or the Sabi Sand lodges in South Africa, for a safari experience that has no peer in the world.
+An itinerary that combines Grumeti with another Singita property — Lamai in the Mara or the Sabi Sand lodges in South Africa — is among the most complete multi-destination safari programmes available.
