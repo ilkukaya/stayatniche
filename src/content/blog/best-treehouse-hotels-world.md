@@ -33,7 +33,7 @@ Sweden's legendary Treehotel is the gold standard. Seven architect-designed room
 **[Check Rates →](https://www.booking.com/hotel/se/treehotel.html)**
 
 
-Nestled in the Monteverde Cloud Forest, these luxury treehouse suites offer exceptional access to Costa Rica's extraordinary biodiversity. Wake to howler monkeys, hummingbirds, and resplendent quetzals directly from your private deck.
+Set deep in the Monteverde Cloud Forest, these luxury treehouse suites put you in the middle of Costa Rica's extraordinary biodiversity. Wake to howler monkeys, hummingbirds, and resplendent quetzals directly from your private deck.
 
 
 Beyond the novelty, treehouse stays offer something rare in modern travel: genuine connection with the natural world. You fall asleep to wind moving through branches. You wake to birdsong rather than alarm clocks. The forest becomes your living room.

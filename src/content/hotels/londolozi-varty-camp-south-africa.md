@@ -17,7 +17,7 @@ highlights:
   - "Unfenced border with Kruger National Park, free movement of all wildlife"
   - "Five generations of leopard families documented and photographed here"
   - "The Sand River provides exceptional waterside wildlife viewing"
-  - "Londolozi's 50+ years of leopard tracking creates unparalleled ranger knowledge"
+  - "Londolozi's 50+ years of leopard tracking gives rangers a depth of knowledge that few camps can match"
 amenities:
   - "Suites with private plunge pools and outdoor showers"
   - "Full board with extensive wine selection"

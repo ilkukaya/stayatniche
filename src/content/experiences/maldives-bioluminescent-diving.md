@@ -42,7 +42,7 @@ tags:
   - underwater
 seo:
   metaTitle: "Bioluminescent Night Dive, North Malé Atoll, Maldives | StayAtNiche"
-  metaDescription: "Dive into glowing bioluminescent waters in the Maldives at night. A magical 2-hour guided night dive through plankton-lit reef in North Malé Atoll. From $150."
+  metaDescription: "Swim through glowing bioluminescent waters in the Maldives at night. A 2-hour guided night dive through plankton-lit reef in North Malé Atoll. From $150."
 ---
 
 Wait until after sunset, when the resort settles into its cocktail hour rhythm, and then get in the water. The bioluminescent night dive in North Malé Atoll is among the genuinely strange things the Maldives offers — and this is a destination that does not lack for spectacle.

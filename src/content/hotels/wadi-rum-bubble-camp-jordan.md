@@ -3,7 +3,7 @@ name: "Wadi Rum Bubble Camp"
 category: bubble-hotels
 destination: "Wadi Rum, Aqaba Governorate"
 country: "Jordan"
-description: "Luxury transparent bubble tents on the rust-red desert floor of Wadi Rum, offering unparalleled stargazing beneath one of the world's darkest and most spectacular skies. Sleep surrounded by ancient sandstone cliffs in a landscape that has barely changed since Lawrence of Arabia crossed it on horseback."
+description: "Transparent bubble tents on the rust-red floor of Wadi Rum, one of the world's darkest skies overhead. Sleep surrounded by ancient sandstone cliffs in a landscape that has barely changed since Lawrence of Arabia crossed it on horseback."
 coverImage: /images/hotels/wadi-rum-bubble-camp-jordan.jpg
 gallery:
   - /images/hotels/wadi-rum-bubble-camp-jordan-2.jpg

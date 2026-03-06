@@ -4,7 +4,7 @@ category: train-hotels
 destination: "Pretoria to Cape Town (and beyond)"
 country: "South Africa"
 continent: "Africa"
-description: "Widely considered the world's most luxurious train, Rovos Rail operates privately owned, meticulously restored vintage carriages across southern Africa's most spectacular routes. From the Pretoria to Cape Town journey through the Karoo to the extraordinary Cape to Cairo epic, Rovos combines the romance of the golden age of rail with a level of personal service and comfort that surpasses most five-star hotels."
+description: "Widely considered the world's most luxurious train, Rovos Rail runs privately owned vintage carriages — each restored to period specification — across southern Africa's most dramatic routes. The Pretoria to Cape Town journey crosses the Karoo; the Cape to Cairo epic takes two weeks. Service and comfort surpass most five-star hotels."
 coverImage: /images/hotels/rovos-rail-south-africa.jpg
 gallery:
   - /images/hotels/rovos-rail-south-africa-2.jpg

@@ -3,7 +3,7 @@ name: "La Bulle Enchantée"
 category: bubble-hotels
 destination: "Normandy"
 country: "France"
-description: "Enchanting transparent bubble domes nestled in the orchards and meadows of rural Normandy, offering guests an intimate connection with the French countryside sky. Each 'enchanted bubble' is individually decorated and set within a private garden for complete seclusion."
+description: "Transparent bubble domes set among the orchards and meadows of rural Normandy, giving guests a direct connection to the French countryside sky. Each bubble is individually decorated and surrounded by a private garden."
 coverImage: /images/hotels/la-bulle-enchantee-france.jpg
 gallery:
   - /images/hotels/la-bulle-enchantee-france-2.jpg
