@@ -109,16 +109,16 @@ Misool is not the Maldives. This is a genuine eco-resort — remote, adventurous
 
 
 
-For travellers seeking the overwater experience without the Maldives price tag and Pacific travel time, the Caribbean has begun developing overwater bungalow offerings. Sandals Royal Caribbean's floating overwater bungalows in Montego Bay's Doctor's Cave are a North American-accessible entry point: a 5-hour flight from New York or Chicago rather than 20+ hours to the Maldives.
+If the Pacific and Indian Ocean travel times put you off, the Caribbean is now a credible option. Sandals Royal Caribbean's floating overwater bungalows in Montego Bay are a 5-hour flight from New York or Chicago rather than 20+ hours to the Maldives.
 
-These are not the marine-biology-enriched waters of the Indian or Pacific Oceans, Montego Bay's water is warm and pleasant but not exceptional for snorkelling. What Sandals offers is the overwater aesthetic, a beach-resort experience, and the cultural richness of Jamaica at a fraction of the Maldives price.
+Montego Bay's water is warm and pleasant but not exceptional for snorkelling — this isn't the marine-biology-rich Indian or Pacific Ocean. What Sandals provides is the overwater aesthetic and a full beach-resort experience, with Jamaica's cultural richness as context, at a fraction of the Maldives price.
 
 **Price range:** From $500/night (all-inclusive, including meals, drinks, and activities)
 
 ---
 
 
-For total privacy and a Caribbean overwater experience at the highest level, Over Yonder Cay is a private Bahamas island available for exclusive hire (whole-island booking only). The overwater bungalow component combines with a private 75-acre island, superb Bahamian reef diving, and a dedicated staff of 22 for a maximum of 12 guests.
+At the other end of the Caribbean price range, Over Yonder Cay is a private Bahamas island available for exclusive hire only. The overwater bungalow sits within a 75-acre private island with a staff of 22 for a maximum of 12 guests and access to some of the Bahamas' best reef diving.
 
 **Price range:** From $35,000/week (whole island exclusive hire)
 
@@ -153,13 +153,13 @@ For total privacy and a Caribbean overwater experience at the highest level, Ove
 
 
 
-The overwater bungalow experience, waking directly above water, with marine life visible below, sunrises and sunsets unobstructed, and the sound of the sea constant, is genuinely unique and not replicated by any beachfront or island room. Whether the premium (which is typically 30–100% more than a comparable beach villa) is worthwhile depends on personal priorities. For most guests who have done it, the answer is yes.
+Waking directly above water, with marine life visible through the floor panel, sunrises unobstructed in every direction, and the sound of the sea constant — no beachfront room replicates this. The premium over a comparable beach villa typically runs 30–100%. Most people who've done it say it was worth it.
 
 
-Misool Eco Resort in Raja Ampat offers the best value for serious divers and wildlife enthusiasts. Sandals Royal Caribbean offers the most accessible price point. Likuliku Lagoon in Fiji offers the best cultural integration at a reasonable luxury price point.
+Misool Eco Resort in Raja Ampat is the choice for serious divers who prioritise marine life over comfort. Sandals Royal Caribbean is the most accessible price point for North Americans. Likuliku Lagoon in Fiji offers the strongest cultural integration at a reasonable luxury price.
 
 
-Newer and higher-end overwater villas increasingly include private infinity pools as standard: Conrad Maldives, St. Regis Bora Bora, and Kokomo Fiji all offer this. Older and entry-level overwater rooms typically rely on the lagoon itself for swimming.
+Newer and higher-end overwater villas now include private infinity pools as standard — Conrad Maldives, St. Regis Bora Bora, and Kokomo Fiji all offer this. Older and entry-level overwater rooms rely on the lagoon for swimming, which for most people is sufficient.
 
 
-For pure water quality, marine biodiversity (particularly manta rays, whale sharks, and clear coral), and the isolation experience, yes, the Maldives remains the benchmark. For travellers who want the overwater experience combined with other activities, cultural context, or manageable budgets, French Polynesia (Bora Bora), Fiji, and even the Caribbean offer compelling alternatives.
+For pure water quality, marine biodiversity, and isolation, the Maldives is still the benchmark. If you want the overwater experience combined with other activities, cultural depth, or a more manageable budget, Bora Bora, Fiji, and even the Caribbean make strong cases.
