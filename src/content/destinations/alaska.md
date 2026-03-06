@@ -40,16 +40,12 @@ seo:
   metaDescription: "Discover Alaska's most extraordinary places to stay, from remote bear-viewing lodges and glacier-view cabins to northern lights retreats and fly-in wilderness camps. Your complete niche travel guide."
 ---
 
-Alaska defies ordinary travel language. Superlatives fail it: the biggest, wildest, emptiest descriptions all fall short of the actual experience of standing on a gravel bar watching a brown bear fish for salmon ten meters away, or watching a tidewater glacier calve a house-sized block of ice into a fjord with a sound like rolling thunder.
+Stand on a gravel bar at Brooks Falls in July and watch a brown bear open its mouth and catch a sockeye salmon mid-leap, and you understand immediately why no travel writing about Alaska quite works. The scale defeats language. The scale also defeats photographs. A tidewater glacier calving a house-sized block of ice into a fjord produces a sound like rolling thunder and a wave that rocks any boat within half a mile. You had to be there.
 
+Alaska's accommodation landscape is built around genuine remoteness. Fly-in lodges accessible only by bush plane position guests at the edge of wilderness most people will never reach: private rivers, glacial moraines, mountain valleys where the only sounds are wind and wildlife. Bear-viewing lodges at Katmai and Lake Clark offer front-row access to one of nature's great spectacles. The state's network of public-use cabins, accessible by floatplane or boat, provides some of the most affordable and memorable overnight experiences in America.
 
-Alaska's accommodation landscape is defined by genuine remoteness. Fly-in lodges accessible only by bush plane position guests at the edge of wilderness that most humans will never reach: private rivers, glacial moraines, mountain valleys where the only sounds are wind and wildlife. Bear-viewing lodges at Katmai and Lake Clark offer front-row access to one of nature's great spectacles. And the state's network of public-use cabins, accessible by floatplane or boat, provides some of the most affordable and memorable accommodation in America.
+Brooks Falls in Katmai National Park is one of wildlife photography's most iconic locations, a waterfall where sockeye salmon leap directly into the waiting mouths of brown bears, with as many as 60 bears visible at peak season in July. Access is limited and demand is enormous. Planning begins six months to a year ahead.
 
+South of Anchorage, the Kenai Peninsula makes Alaska accessible. Seward is the gateway to Kenai Fjords National Park, where boat tours deliver encounters with calving glaciers, Steller sea lions, orcas, and vast seabird colonies. Homer, at the end of the road, is a fishing town turned arts community with one of the state's most distinctive characters: halibut charters, galleries, and the Spit's mile-long causeway jutting into Kachemak Bay.
 
-Brooks Falls in Katmai National Park represents one of wildlife photography's most iconic locations, a waterfall where sockeye salmon leap directly into the waiting mouths of brown bears, with as many as 60 bears visible at peak season (July). Access is limited and demand is enormous; planning begins 6 months to a year ahead.
-
-
-South of Anchorage, the Kenai Peninsula is Alaska made accessible. Seward is the gateway to Kenai Fjords National Park, where boat tours deliver extraordinary encounters with calving glaciers, Steller sea lions, orcas, and vast seabird colonies. Homer, at the end of the road, is a fishing-town-turned-arts-community with one of the state's most distinctive characters.
-
-
-Fairbanks is Alaska's interior hub, the best base for winter aurora viewing and dog mushing, and in summer a gateway to Denali's northern flanks. The Dalton Highway north to the Arctic Circle and Prudhoe Bay is one of America's great and genuinely demanding road trips.
+Fairbanks is Alaska's interior hub, the best base for winter aurora viewing and dog mushing, and in summer a gateway to Denali's northern flanks. The Dalton Highway north to the Arctic Circle and Prudhoe Bay is one of America's great and genuinely demanding road trips: 414 miles of mostly unpaved road through boreal forest, tundra, and the Brooks Range, with one truck stop along the way.
