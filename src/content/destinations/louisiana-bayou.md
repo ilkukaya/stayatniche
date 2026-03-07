@@ -50,7 +50,7 @@ The cultural heart of Louisiana's bayou country lies west of the Atchafalaya in 
 Breaux Bridge, the Crawfish Capital of the World, hosts a Crawfish Festival in May. New Iberia is the gateway to Avery Island, where Tabasco has been made since 1868 and where the Jungle Gardens contain a heron rookery and wild peacocks.
 
 
-South of the bayou towns, Louisiana dissolves into coastal wetland — the most biologically productive in North America and one of the fastest-disappearing landscapes on earth. Morgan City and Houma serve as gateways to shrimping communities, crab processing operations, and wildlife refuges where migratory waterfowl congregate in numbers that seem impossible until you see them.
+South of the bayou towns, Louisiana dissolves into coastal wetland, the most biologically productive in North America and one of the fastest-disappearing landscapes on earth. Morgan City and Houma serve as gateways to shrimping communities, crab processing operations, and wildlife refuges where migratory waterfowl congregate in numbers that seem impossible until you see them.
 
 
-Lafayette has a regional airport and a restaurant scene that represents some of Louisiana's finest cooking outside New Orleans. New Orleans lies two hours east. Roads throughout bayou country can be narrow, winding, and subject to flooding — download offline maps and check road conditions before every outing.
+Lafayette has a regional airport and a restaurant scene that represents some of Louisiana's finest cooking outside New Orleans. New Orleans lies two hours east. Roads throughout bayou country can be narrow, winding, and subject to flooding; download offline maps and check road conditions before every outing.
