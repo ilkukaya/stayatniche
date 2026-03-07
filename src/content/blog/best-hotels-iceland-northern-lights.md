@@ -142,7 +142,7 @@ A rental car is near-essential for serious aurora chasing. The ability to drive 
 During the current solar maximum (2025–2026), clear nights between October and February offer perhaps a 70–80% chance of some auroral activity. The constraint is cloud cover. Iceland's Atlantic weather systems bring frequent cloud. A stay of at least three nights substantially improves your odds versus a single overnight. Properties with aurora chase vehicles (like Deplar Farm) can improve success rates by driving to clear-sky windows.
 
 
-At most of the properties listed above, no — the aurora is clearly visible from outdoor hot tubs, glass-walled rooms, and hotel grounds. For photography and the most hands-on experience, driving a short distance from any lighting to a dark location makes a significant difference. Most hotels can direct you to a nearby dark-sky spot.
+At most of the properties listed above, no, the aurora is clearly visible from outdoor hot tubs, glass-walled rooms, and hotel grounds. For photography and the most hands-on experience, driving a short distance from any lighting to a dark location makes a significant difference. Most hotels can direct you to a nearby dark-sky spot.
 
 
 Iceland's roads require caution in winter, particularly on mountain passes (F-roads are closed in winter). The Ring Road (Route 1) is generally maintained year-round, but conditions can be icy or snowy. Always check road.is for current conditions. If driving for aurora viewing, stay on paved roads and avoid mountain tracks after dark.

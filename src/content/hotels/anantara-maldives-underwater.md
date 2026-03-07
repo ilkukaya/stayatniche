@@ -38,7 +38,7 @@ featured: false
 
 Anantara Kihavah Maldives Villas organises its main experiences around four acronyms: FIRE (the grill), SKY (the observatory), ICE (the wine cellar), and SEA (the underwater restaurant). SEA is why people book this resort.
 
-It sits five metres below the ocean surface, circular in form, its 270-degree glass panels looking out onto a living coral reef. Reef fish move through the water in constant motion, sea turtles cruise past with complete indifference to the candlelit dinner in progress two metres away, and at night the reef is illuminated by concealed lighting while the water above stays dark. The kitchen — contemporary Maldivian and international cuisine using Indian Ocean ingredients — works to match a setting that would embarrass lesser food. It largely succeeds.
+It sits five metres below the ocean surface, circular in form, its 270-degree glass panels looking out onto a living coral reef. Reef fish move through the water in constant motion, sea turtles cruise past with complete indifference to the candlelit dinner in progress two metres away, and at night the reef is illuminated by concealed lighting while the water above stays dark. The kitchen, contemporary Maldivian and international cuisine using Indian Ocean ingredients, works to match a setting that would embarrass lesser food. It largely succeeds.
 
 The overwater villas continue the underwater theme in subtler form. Glass floor panels in the living areas are positioned over living reef sections, letting guests watch reef fish, invertebrates, and the occasional ray below their feet. It's not the same as being in an underwater room, but sitting in a bath over a glass panel while a hawksbill turtle feeds on coral two metres below is a specific and genuine experience.
 

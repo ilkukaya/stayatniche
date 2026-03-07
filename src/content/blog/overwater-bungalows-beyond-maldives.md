@@ -28,12 +28,12 @@ French Polynesia, Fiji, Southeast Asia, and the Caribbean all offer overwater ex
 ---
 
 
-Before looking elsewhere, be clear about what the Maldives actually delivers that can't be replicated. The Indian Ocean's clarity and colour — that electric blue created by extreme depth over white sand in direct equatorial light — is genuinely hard to match. The house reef quality at the best atolls (Baa, North Malé, Ari) provides snorkelling and diving that experienced divers rate highly. And the isolation, with most properties accessible only by seaplane and no other structures visible in any direction, creates a sense of separation from the world that alternative destinations rarely approach.
+Before looking elsewhere, be clear about what the Maldives actually delivers that can't be replicated. The Indian Ocean's clarity and colour, that electric blue created by extreme depth over white sand in direct equatorial light, is genuinely hard to match. The house reef quality at the best atolls (Baa, North Malé, Ari) provides snorkelling and diving that experienced divers rate highly. And the isolation, with most properties accessible only by seaplane and no other structures visible in any direction, creates a sense of separation from the world that alternative destinations rarely approach.
 
 
 Conrad Maldives on Rangali Island has become the property most associated with Maldivian extravagance: 150 water villas across two islands, the world's first all-glass underwater restaurant (Ithaa Undersea), and the Two-Bedroom Water Villa that shows up in every roundup of the category's finest examples.
 
-The overwater villas have everything: glass-floor panels, direct lagoon access via steps, outdoor decks with sunbeds over the water, bathrooms with ocean views. The marine life in the channel between the two resort islands is genuinely strong — manta rays are frequent, and the South Ari Atoll position puts you near the whale shark aggregation zone.
+The overwater villas have everything: glass-floor panels, direct lagoon access via steps, outdoor decks with sunbeds over the water, bathrooms with ocean views. The marine life in the channel between the two resort islands is genuinely strong, manta rays are frequent, and the South Ari Atoll position puts you near the whale shark aggregation zone.
 
 **Price range:** Water Villas from $1,200/night; Two-Bedroom Water Villas from $2,500/night
 **See also:** Our full [overwater bungalows category](/categories/overwater-bungalows) for the global range.
@@ -41,7 +41,7 @@ The overwater villas have everything: glass-floor panels, direct lagoon access v
 ---
 
 
-COMO Cocoa Island's design references the traditional Maldivian dhoni fishing boat — 33 overwater suites with a distinctive double-curved roofline and a minimal, spa-focused aesthetic that steps back from the extravagance of competitors. The COMO Shambhala spa program here is genuinely well-designed rather than just expensive, and at 33 suites the scale feels human in a way that properties with 150+ villas rarely manage.
+COMO Cocoa Island's design references the traditional Maldivian dhoni fishing boat, 33 overwater suites with a distinctive double-curved roofline and a minimal, spa-focused aesthetic that steps back from the extravagance of competitors. The COMO Shambhala spa program here is genuinely well-designed rather than just expensive, and at 33 suites the scale feels human in a way that properties with 150+ villas rarely manage.
 
 **Price range:** Water Suites from $1,000/night
 
@@ -51,7 +51,7 @@ COMO Cocoa Island's design references the traditional Maldivian dhoni fishing bo
 
 The overwater bungalow was actually invented in French Polynesia, not the Maldives. The Bali Hai hotel in Moorea claims the first overwater rooms in 1967, with the concept spreading quickly across Tahiti and Bora Bora. The Maldives simply perfected and marketed it more aggressively.
 
-Bora Bora's lagoon — a near-perfectly circular turquoise expanse surrounding an extinct volcanic peak wrapped in jungle — is a completely different visual experience from the flat Maldives atolls. The InterContinental Bora Bora's overwater bungalows sit in the lagoon with direct views of Mount Otemanu. The coral gardens here support diverse fish populations, and you can snorkel with rays and sharks in relatively shallow water without joining a guided boat tour.
+Bora Bora's lagoon, a near-perfectly circular turquoise expanse surrounding an extinct volcanic peak wrapped in jungle, is a completely different visual experience from the flat Maldives atolls. The InterContinental Bora Bora's overwater bungalows sit in the lagoon with direct views of Mount Otemanu. The coral gardens here support diverse fish populations, and you can snorkel with rays and sharks in relatively shallow water without joining a guided boat tour.
 
 **The French Polynesia difference:** A week here is genuinely varied. Mountain hiking, 4WD tours, boat excursions, Polynesian culture, and French culinary standards (the food is noticeably better than most Maldives resorts) add up to an itinerary that doesn't feel repetitive. The flat Maldives atoll experience doesn't offer this variety.
 
@@ -61,7 +61,7 @@ Bora Bora's lagoon — a near-perfectly circular turquoise expanse surrounding a
 ---
 
 
-The St. Regis Bora Bora's Royal Estate overwater villa is a two-bedroom, private-pool structure that ranks among the world's largest private overwater accommodations. The standard overwater villas are strong enough on their own — the lagoon position and quality of finish compete with anything the Maldives offers at a comparable price point. The 24-hour butler assigned to each villa is the kind of service infrastructure that category purists care about.
+The St. Regis Bora Bora's Royal Estate overwater villa is a two-bedroom, private-pool structure that ranks among the world's largest private overwater accommodations. The standard overwater villas are strong enough on their own, the lagoon position and quality of finish compete with anything the Maldives offers at a comparable price point. The 24-hour butler assigned to each villa is the kind of service infrastructure that category purists care about.
 
 **Price range:** Overwater Villas from $1,200/night; Royal Estate from $15,000/night
 **Note:** French Polynesia prices in CFP francs pegged to the euro; confirm rates at time of booking as dollar-euro movements affect the final figure.
@@ -70,9 +70,9 @@ The St. Regis Bora Bora's Royal Estate overwater villa is a two-bedroom, private
 
 
 
-Likuliku Lagoon Resort on Malolo Island is the only resort in Fiji offering true overwater bungalows — most others are extended-land-over-water rather than fully overwater, a meaningful distinction if you care about the glass-floor-panel experience. The 10 Overwater Bures are genuine: thatched-roof Fijian bures elevated directly over Malolo Lagoon, with glass-floor panels and steps into the water.
+Likuliku Lagoon Resort on Malolo Island is the only resort in Fiji offering true overwater bungalows, most others are extended-land-over-water rather than fully overwater, a meaningful distinction if you care about the glass-floor-panel experience. The 10 Overwater Bures are genuine: thatched-roof Fijian bures elevated directly over Malolo Lagoon, with glass-floor panels and steps into the water.
 
-Fiji's difference from the Maldives is cultural. Fijian hospitality is warm and genuine in a way that reads differently from the Maldives' more formal luxury service style. Village visits, kava ceremonies, and community engagement are available and authentic from Likuliku — the kind of cultural depth that most Maldives resorts, which are designed to feel like islands unto themselves, simply don't offer.
+Fiji's difference from the Maldives is cultural. Fijian hospitality is warm and genuine in a way that reads differently from the Maldives' more formal luxury service style. Village visits, kava ceremonies, and community engagement are available and authentic from Likuliku, the kind of cultural depth that most Maldives resorts, which are designed to feel like islands unto themselves, simply don't offer.
 
 **Price range:** Overwater Bures from $1,100/night (all-inclusive)
 **Getting there:** Fly to Nadi International Airport; 60-minute boat transfer to Malolo Island
@@ -90,7 +90,7 @@ Kokomo Private Island off the Kadavu group takes Fiji's overwater offer to its l
 
 Song Saa Private Island sits in Cambodia's Koh Rong Archipelago in the Gulf of Thailand, and the surrounding region's cultural depth is a genuine reason to choose it over the Maldives. Angkor Wat is a short flight away. The island itself manages a 1km marine protected zone through the Song Saa Foundation, which gives the stay more environmental substance than the average resort's green policy document.
 
-The overwater villas are beautiful — infinity pools, high-pitched thatched roofs, design that references traditional Khmer architecture. The water here is not the clearest in Southeast Asia; the Gulf of Thailand's seasonal plankton blooms affect visibility. Come in dry season and the snorkelling on the marine reserve is strong.
+The overwater villas are beautiful, infinity pools, high-pitched thatched roofs, design that references traditional Khmer architecture. The water here is not the clearest in Southeast Asia; the Gulf of Thailand's seasonal plankton blooms affect visibility. Come in dry season and the snorkelling on the marine reserve is strong.
 
 **Price range:** Overwater Villas from $800/night
 **Best time:** November–April (dry season; clear water)
@@ -100,7 +100,7 @@ The overwater villas are beautiful — infinity pools, high-pitched thatched roo
 
 Raja Ampat in West Papua's Bird's Head Seascape holds 75% of the world's coral species. If marine biodiversity is what you're measuring, nothing on this list beats it. Misool Eco Resort sits on a private lease of 300,000 acres of marine environment, with overwater bungalows positioned over reef systems that experienced divers describe as the best they've encountered anywhere.
 
-Misool is not the Maldives. This is a genuine eco-resort — remote, adventurous, without the immaculate luxury finish. The diving and snorkelling are everything. Manta rays, whale sharks, pygmy seahorses, wobbegong sharks, and reef fish in concentrations that seem implausible until you're in the water.
+Misool is not the Maldives. This is a genuine eco-resort, remote, adventurous, without the immaculate luxury finish. The diving and snorkelling are everything. Manta rays, whale sharks, pygmy seahorses, wobbegong sharks, and reef fish in concentrations that seem implausible until you're in the water.
 
 **Price range:** From $350/person/night (all-inclusive meals and two dives daily)
 **Getting there:** Fly to Sorong, West Papua; 3-hour speedboat to Misool. Access is challenging and weather-dependent.
@@ -111,7 +111,7 @@ Misool is not the Maldives. This is a genuine eco-resort — remote, adventurous
 
 If the Pacific and Indian Ocean travel times put you off, the Caribbean is now a credible option. Sandals Royal Caribbean's floating overwater bungalows in Montego Bay are a 5-hour flight from New York or Chicago rather than 20+ hours to the Maldives.
 
-Montego Bay's water is warm and pleasant but not exceptional for snorkelling — this isn't the marine-biology-rich Indian or Pacific Ocean. What Sandals provides is the overwater aesthetic and a full beach-resort experience, with Jamaica's cultural richness as context, at a fraction of the Maldives price.
+Montego Bay's water is warm and pleasant but not exceptional for snorkelling, this isn't the marine-biology-rich Indian or Pacific Ocean. What Sandals provides is the overwater aesthetic and a full beach-resort experience, with Jamaica's cultural richness as context, at a fraction of the Maldives price.
 
 **Price range:** From $500/night (all-inclusive, including meals, drinks, and activities)
 
@@ -153,13 +153,13 @@ At the other end of the Caribbean price range, Over Yonder Cay is a private Baha
 
 
 
-Waking directly above water, with marine life visible through the floor panel, sunrises unobstructed in every direction, and the sound of the sea constant — no beachfront room replicates this. The premium over a comparable beach villa typically runs 30–100%. Most people who've done it say it was worth it.
+Waking directly above water, with marine life visible through the floor panel, sunrises unobstructed in every direction, and the sound of the sea constant, no beachfront room replicates this. The premium over a comparable beach villa typically runs 30–100%. Most people who've done it say it was worth it.
 
 
 Misool Eco Resort in Raja Ampat is the choice for serious divers who prioritise marine life over comfort. Sandals Royal Caribbean is the most accessible price point for North Americans. Likuliku Lagoon in Fiji offers the strongest cultural integration at a reasonable luxury price.
 
 
-Newer and higher-end overwater villas now include private infinity pools as standard — Conrad Maldives, St. Regis Bora Bora, and Kokomo Fiji all offer this. Older and entry-level overwater rooms rely on the lagoon for swimming, which for most people is sufficient.
+Newer and higher-end overwater villas now include private infinity pools as standard, Conrad Maldives, St. Regis Bora Bora, and Kokomo Fiji all offer this. Older and entry-level overwater rooms rely on the lagoon for swimming, which for most people is sufficient.
 
 
 For pure water quality, marine biodiversity, and isolation, the Maldives is still the benchmark. If you want the overwater experience combined with other activities, cultural depth, or a more manageable budget, Bora Bora, Fiji, and even the Caribbean make strong cases.

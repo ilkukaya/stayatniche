@@ -21,16 +21,16 @@ seo:
   metaDescription: "Discover Africa's finest safari lodges from Tanzania to Botswana. Expert tips on the best properties, seasons, and how to book your ultimate wildlife adventure."
 ---
 
-Waking before dawn in an African bush camp and listening to lions calling across the darkness before climbing into an open Land Cruiser as the first light breaks over the savanna — it's a set of sensory experiences that stack together in a way no other travel does. Safari lodges are built around what's outside, not inside. The accommodation at the best ones is excellent; the point is that it exists in service of the wildlife encounter.
+Waking before dawn in an African bush camp and listening to lions calling across the darkness before climbing into an open Land Cruiser as the first light breaks over the savanna, it's a set of sensory experiences that stack together in a way no other travel does. Safari lodges are built around what's outside, not inside. The accommodation at the best ones is excellent; the point is that it exists in service of the wildlife encounter.
 
-The safari lodge market has matured significantly. It now ranges from ultra-minimalist fly camps in wilderness concessions with a staff of three to multi-suite private villas with infinity pools overlooking watering holes and personal butlers. The top properties compete with the world's best urban hotels on service, food, and room quality — and beat them comprehensively on setting.
+The safari lodge market has matured significantly. It now ranges from ultra-minimalist fly camps in wilderness concessions with a staff of three to multi-suite private villas with infinity pools overlooking watering holes and personal butlers. The top properties compete with the world's best urban hotels on service, food, and room quality, and beat them comprehensively on setting.
 
 This guide covers the key destinations and recommends specific lodges for different budgets and priorities.
 
 ---
 
 
-East Africa is where most safari travellers start, and for good reason. The Serengeti-Masai Mara ecosystem hosts the Great Migration — 1.5 million wildebeest and 250,000 zebra moving across the plains in a seasonal cycle — and the wildlife density outside Migration season remains among the highest in Africa. The infrastructure is well-developed compared to other destinations on the continent, which makes it the most practical first safari.
+East Africa is where most safari travellers start, and for good reason. The Serengeti-Masai Mara ecosystem hosts the Great Migration, 1.5 million wildebeest and 250,000 zebra moving across the plains in a seasonal cycle, and the wildlife density outside Migration season remains among the highest in Africa. The infrastructure is well-developed compared to other destinations on the continent, which makes it the most practical first safari.
 
 For a deeper look at Tanzania's lodges specifically, see our guide to [safari lodges in the Serengeti and Masai Mara](/blog/best-safari-lodges-serengeti-masai-mara).
 
@@ -39,7 +39,7 @@ The Serengeti National Park covers 14,763 square kilometres of open grassland an
 
 **Singita Grumeti, Serengeti**
 
-Singita's Grumeti concession in the western Serengeti covers 350,000 private acres directly in the path of the Migration's western route. The Grumeti River crossings — where wildebeest navigate crocodile-filled water in their thousands — rival the Mara crossings for drama and have a fraction of the observer crowd. Sasakwa Lodge's hilltop position and Edwardian design make it one of East Africa's most architecturally distinctive properties.
+Singita's Grumeti concession in the western Serengeti covers 350,000 private acres directly in the path of the Migration's western route. The Grumeti River crossings, where wildebeest navigate crocodile-filled water in their thousands, rival the Mara crossings for drama and have a fraction of the observer crowd. Sasakwa Lodge's hilltop position and Edwardian design make it one of East Africa's most architecturally distinctive properties.
 
 **Price range:** From $1,800/person/night (fully inclusive)
 **Best for:** Those who want the Migration without the Mara's game vehicle congestion
@@ -53,13 +53,13 @@ The Four Seasons Serengeti is in the central Seronera area, near a permanent wat
 
 **andBeyond Ngorongoro Crater Lodge**
 
-Technically at the edge of the Ngorongoro Conservation Area rather than the Serengeti itself, andBeyond Ngorongoro Crater Lodge sits on the rim of the world's largest intact volcanic caldera — a 260 square kilometre enclosed ecosystem with an estimated 25,000 large mammals and the densest lion population in Africa. The lodge's thatched-roof suites with banana-leaf ceilings, ornate Baroque furniture, and private fireplaces create a theatrical atmosphere that plays deliberately against the raw wilderness outside. It is, by design, slightly absurd and completely memorable.
+Technically at the edge of the Ngorongoro Conservation Area rather than the Serengeti itself, andBeyond Ngorongoro Crater Lodge sits on the rim of the world's largest intact volcanic caldera, a 260 square kilometre enclosed ecosystem with an estimated 25,000 large mammals and the densest lion population in Africa. The lodge's thatched-roof suites with banana-leaf ceilings, ornate Baroque furniture, and private fireplaces create a theatrical atmosphere that plays deliberately against the raw wilderness outside. It is, by design, slightly absurd and completely memorable.
 
 **Price range:** From $1,500/person/night
 **Best for:** Honeymooners, special occasions, anyone who wants the most dramatically designed lodge in East Africa
 
 
-Kenya's Masai Mara is the northern extension of the same ecosystem. The Mara River crossings — wildebeest plunging into crocodile-filled water in their thousands during July–October — are the most spectacular events in wildlife photography. Outside Migration season, the Mara's big cat density remains among the highest in Africa.
+Kenya's Masai Mara is the northern extension of the same ecosystem. The Mara River crossings, wildebeest plunging into crocodile-filled water in their thousands during July–October, are the most spectacular events in wildlife photography. Outside Migration season, the Mara's big cat density remains among the highest in Africa.
 
 **Angama Mara**
 
@@ -70,7 +70,7 @@ Angama sits on the edge of the Oloololo Escarpment 1,800 feet above the Mara pla
 
 **Mahali Mzuri, Richard Branson's Kenyan Safari Camp**
 
-Mahali Mzuri sits in the Olare Motorogi Conservancy on the Mara's northern boundary — a private conservancy that sees far fewer vehicles than the main reserve while sitting directly in the migration path. Twelve curved canvas suites with Maasai-inspired interiors; the design is among the Mara's most refined. Conservation exclusivity at a lower price point than the Kenyan ultra-luxury tier.
+Mahali Mzuri sits in the Olare Motorogi Conservancy on the Mara's northern boundary, a private conservancy that sees far fewer vehicles than the main reserve while sitting directly in the migration path. Twelve curved canvas suites with Maasai-inspired interiors; the design is among the Mara's most refined. Conservation exclusivity at a lower price point than the Kenyan ultra-luxury tier.
 
 **Price range:** From $900/person/night
 **Best for:** Couples, small groups, anyone who wants the Mara without the game vehicle crowd

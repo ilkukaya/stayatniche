@@ -40,16 +40,16 @@ seo:
   metaDescription: "Explore Tuscany's most extraordinary places to stay, from converted monastery hotels to vineyard estates and hilltop borgo retreats. Your complete niche travel guide."
 ---
 
-Hand-cut pici pasta in a stone-vaulted cantina in Montalcino, Val d'Orcia light turning rose-gold at dusk over lone cypress ridgelines, a converted 13th-century farmhouse with vines pressing against the shuttered windows — Tuscany tends to recalibrate expectations of what travel can deliver.
+Hand-cut pici pasta in a stone-vaulted cantina in Montalcino, Val d'Orcia light turning rose-gold at dusk over lone cypress ridgelines, a converted 13th-century farmhouse with vines pressing against the shuttered windows, Tuscany tends to recalibrate expectations of what travel can deliver.
 
 
-The accommodation density here is remarkable. Converted convents and monastery hotels where monks once prayed now have candlelit restaurants and infinity pools overlooking the hills. Centuries-old borghi — fortified villages — have been transformed wholesale into private resort estates where you are the only guests. Wine estates in Chianti and Montalcino offer rooms among the vines, with the winemaker on hand for private tastings during harvest. The region's agriturismo tradition means even modest farm stays deliver locally produced olive oil, wine, and cured meats at breakfast.
+The accommodation density here is remarkable. Converted convents and monastery hotels where monks once prayed now have candlelit restaurants and infinity pools overlooking the hills. Centuries-old borghi, fortified villages, have been transformed wholesale into private resort estates where you are the only guests. Wine estates in Chianti and Montalcino offer rooms among the vines, with the winemaker on hand for private tastings during harvest. The region's agriturismo tradition means even modest farm stays deliver locally produced olive oil, wine, and cured meats at breakfast.
 
 
-The Val d'Orcia south of Siena — a UNESCO World Heritage landscape of rolling hills, lone cypress ridgelines, and medieval towns above fog-filled valleys — is the visual center of gravity. Pienza, Montalcino, and Montepulciano form a triangle of serious food, wine, and architecture within easy driving distance of each other. Pienza was redesigned in the 15th century as a model Renaissance town by Pope Pius II and remains essentially unchanged; its pecorino cheese is a reason to stop on its own.
+The Val d'Orcia south of Siena, a UNESCO World Heritage landscape of rolling hills, lone cypress ridgelines, and medieval towns above fog-filled valleys, is the visual center of gravity. Pienza, Montalcino, and Montepulciano form a triangle of serious food, wine, and architecture within easy driving distance of each other. Pienza was redesigned in the 15th century as a model Renaissance town by Pope Pius II and remains essentially unchanged; its pecorino cheese is a reason to stop on its own.
 
 
 Tuscany's wine geography rewards exploration beyond the label. Chianti Classico, Brunello di Montalcino, Vino Nobile di Montepulciano, and Morellino di Scansano each have distinct terroir and character. The Strada del Vino through Chianti connects Florence and Siena through ancient estates, olive groves, and family cellars where tasting with the producer directly is still the norm rather than the exception.
 
 
-Florence is a world-class city compressed into a walkable historic center — the Uffizi alone contains more Renaissance masterworks than most countries' entire collections. But Siena, Lucca, Arezzo, and Cortona offer comparable medieval grandeur with a fraction of the crowds, and the accommodation in those smaller cities tends to be better value and more characterful.
+Florence is a world-class city compressed into a walkable historic center, the Uffizi alone contains more Renaissance masterworks than most countries' entire collections. But Siena, Lucca, Arezzo, and Cortona offer comparable medieval grandeur with a fraction of the crowds, and the accommodation in those smaller cities tends to be better value and more characterful.

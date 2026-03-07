@@ -44,10 +44,10 @@ The images are all real. Turquoise water so clear it looks artificial, villas on
 The Maldives is the world's most dispersed country: 26 natural atolls, 1,200 coral islands, 300 square kilometres of land scattered across 90,000 square kilometres of ocean. No island rises more than two metres above sea level. It's as close as you can get to living on water without actually being at sea.
 
 
-The overwater bungalow wasn't invented here, but it was refined to its logical extreme. The modest 1970s resorts have been replaced by architectural achievements: private infinity pools cantilevering over the lagoon, glass floor panels showing the reef below, slide-into-the-sea access from your own deck. The better properties cap villa counts deliberately — you may share a five-star atoll with fewer than 50 other guests.
+The overwater bungalow wasn't invented here, but it was refined to its logical extreme. The modest 1970s resorts have been replaced by architectural achievements: private infinity pools cantilevering over the lagoon, glass floor panels showing the reef below, slide-into-the-sea access from your own deck. The better properties cap villa counts deliberately, you may share a five-star atoll with fewer than 50 other guests.
 
 
-Many visitors never leave their resort island, which is a genuine missed opportunity. Malé, the capital, is one of the world's most densely populated cities: a chaotic, fascinating contrast to the atoll solitude. Local islands like Maafushi offer guesthouses, local restaurants, and the kind of encounters that a private resort simply can't replicate. Alcohol is only available on resort islands — plan accordingly if you're mixing itinerary types.
+Many visitors never leave their resort island, which is a genuine missed opportunity. Malé, the capital, is one of the world's most densely populated cities: a chaotic, fascinating contrast to the atoll solitude. Local islands like Maafushi offer guesthouses, local restaurants, and the kind of encounters that a private resort simply can't replicate. Alcohol is only available on resort islands, plan accordingly if you're mixing itinerary types.
 
 
 The marine ecosystem here is among the richest on earth. Whale sharks and manta rays are near-guaranteed at the right atolls in season. The coral gardens in the outer atolls escaped the worst bleaching events and remain dense with life. Even non-divers find that snorkelling directly from a house reef delivers experiences that rival dedicated dive trips elsewhere.

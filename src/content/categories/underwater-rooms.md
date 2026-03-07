@@ -20,26 +20,26 @@ There are approximately eighteen places in the world where you can fall asleep b
 
 The Conrad Maldives Rangali Island's The Muraka descends five metres below the ocean surface. Its master bedroom panels are 1.5-metre-thick acrylic glass, the same material used in submarine observation windows, engineered to withstand continuous hydrostatic pressure from the Indian Ocean while maintaining optical clarity comparable to architectural glass. Manufacturing panels to this specification requires controlled factory environments and bonding tolerances measured in fractions of a millimetre. A microscopic imperfection in the sealing compromises structural integrity over time. Marine structures engineers sign off alongside traditional hotel architects.
 
-Lighting requires its own calibration. Visible artificial light attracts marine life and alters natural behaviours — the best properties use diffuse, warm-spectrum illumination that lets guests enjoy the room while minimising disruption to the surrounding reef. Plumbing, electrical, and climate control all require specialised marine-grade installation. The engineering complexity is why this category has stayed small.
+Lighting requires its own calibration. Visible artificial light attracts marine life and alters natural behaviours, the best properties use diffuse, warm-spectrum illumination that lets guests enjoy the room while minimising disruption to the surrounding reef. Plumbing, electrical, and climate control all require specialised marine-grade installation. The engineering complexity is why this category has stayed small.
 
 
 Not all underwater rooms work the same way. Fully submerged suites like The Muraka at Conrad Maldives place the sleeping space entirely below the waterline, accessible via spiral staircase from a surface-level living area. Ocean on all sides, reef below, the surface visible only as a shimmering ceiling of light above.
 
-Half-in, half-out designs split the difference. The Manta Resort's floating room off Pemba Island in Tanzania positions the bedroom at water level — upper half above the surface, lower hull submerged — so lying in bed puts your eye line exactly at the waterline. Fish pass below your window; the open ocean and African stars are visible above. More accessible to construct, genuinely extraordinary in its own right.
+Half-in, half-out designs split the difference. The Manta Resort's floating room off Pemba Island in Tanzania positions the bedroom at water level, upper half above the surface, lower hull submerged, so lying in bed puts your eye line exactly at the waterline. Fish pass below your window; the open ocean and African stars are visible above. More accessible to construct, genuinely extraordinary in its own right.
 
-Underwater restaurants like Anantara Kihavah in the Maldives offer day-visit experiences for non-overnight guests — dining five metres below the surface surrounded by reef life — which is worth knowing if the overnight rates are out of range.
+Underwater restaurants like Anantara Kihavah in the Maldives offer day-visit experiences for non-overnight guests, dining five metres below the surface surrounded by reef life, which is worth knowing if the overnight rates are out of range.
 
 
-The marine life visible from an underwater room depends on destination and season. Maldivian reef fish — parrotfish, surgeonfish, wrasse, Napoleon wrasse — are present throughout the day. At the Conrad Maldives, blacktip reef sharks visit the exterior panels regularly. At dusk, bioluminescent plankton occasionally creates a natural light show as currents carry it past the glass.
+The marine life visible from an underwater room depends on destination and season. Maldivian reef fish, parrotfish, surgeonfish, wrasse, Napoleon wrasse, are present throughout the day. At the Conrad Maldives, blacktip reef sharks visit the exterior panels regularly. At dusk, bioluminescent plankton occasionally creates a natural light show as currents carry it past the glass.
 
 At Tanzania's Pemba Island, the open-ocean position of the Manta Resort room brings different encounters: batfish, barracuda, and on fortunate nights, the manta rays the property is named for. Visibility in the Pemba Channel can exceed 30 metres, creating a sense of suspended space that reef-enclosed positions don't provide.
 
-In Sweden, the Utter Inn in Lake Malaren operates in freshwater — perch and pike replace tropical reef fish, and the lake ecosystem has its own visual character, especially in autumn when low light gives the water a pewter luminosity unlike anything in the tropics. It's also bookable at a fraction of what the Maldivian options cost.
+In Sweden, the Utter Inn in Lake Malaren operates in freshwater, perch and pike replace tropical reef fish, and the lake ecosystem has its own visual character, especially in autumn when low light gives the water a pewter luminosity unlike anything in the tropics. It's also bookable at a fraction of what the Maldivian options cost.
 
 
-The **Maldives** hosts more underwater accommodation than any other destination. The atoll geography provides calm, clear, warm lagoon water ideal for maintaining visibility from below. **Zanzibar, Tanzania** offers the Manta Resort's floating-underwater hybrid in the open Indian Ocean. **Sweden's** Utter Inn provides the most accessible underwater room experience in the world — modest in scale, remarkable in character.
+The **Maldives** hosts more underwater accommodation than any other destination. The atoll geography provides calm, clear, warm lagoon water ideal for maintaining visibility from below. **Zanzibar, Tanzania** offers the Manta Resort's floating-underwater hybrid in the open Indian Ocean. **Sweden's** Utter Inn provides the most accessible underwater room experience in the world, modest in scale, remarkable in character.
 
 
 Rates start at approximately $850 per night and extend to several thousand for the most exclusive villas. Book six months or more ahead for peak season. The Maldives is best visited November through April, when calm seas maximise visibility and the underwater room experience reaches its full potential.
 
-Combine an underwater stay with nights in an [overwater bungalow](/categories/overwater-bungalows) at the same or adjacent resort — the two perspectives on the same ocean are genuinely complementary.
+Combine an underwater stay with nights in an [overwater bungalow](/categories/overwater-bungalows) at the same or adjacent resort, the two perspectives on the same ocean are genuinely complementary.

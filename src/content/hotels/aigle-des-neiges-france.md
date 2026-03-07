@@ -36,10 +36,10 @@ coordinates:
 featured: false
 ---
 
-The Snow Eagle's pitch is straightforward: ski in a world-class Alpine domain by day, then sleep in a transparent bubble at 1,650 metres with the Écrins massif overhead. What makes L'Aigle des Neiges work is the location. Les Deux Alpes isn't a novelty resort — it's one of France's serious ski destinations, 225 kilometres of runs plus a glacier that stays open into July, with a vertical drop of more than 2,100 metres.
+The Snow Eagle's pitch is straightforward: ski in a world-class Alpine domain by day, then sleep in a transparent bubble at 1,650 metres with the Écrins massif overhead. What makes L'Aigle des Neiges work is the location. Les Deux Alpes isn't a novelty resort, it's one of France's serious ski destinations, 225 kilometres of runs plus a glacier that stays open into July, with a vertical drop of more than 2,100 metres.
 
 The bubble suites sit on a terrace with unobstructed views across the Romanche valley toward La Muzelle's 3,568-metre summit. Unobstructed means genuinely unobstructed: no cable cars in the way, no adjacent chalets. In good weather the view from your bed at night is a full arc of Alpine stars above a jagged white ridge line.
 
 Alpine air at this altitude is measurably drier and cleaner than the valleys below, which matters for stargazing. Clear nights are more frequent here than at lower elevations, particularly in the shoulder seasons when the mountain crowds have thinned. Snow falling silently on the outside of a heated transparent dome while you're lying in a warm bed watching it is the kind of thing that justifies the trip on its own.
 
-The lodge restaurant does the Savoyard canon properly — tartiflette, fondue, raclette — with a wine list that stays firmly in the Savoie and Rhône appellations where it belongs. Ski hard, eat well, sleep under the mountain. It's a very French formula and it works.
+The lodge restaurant does the Savoyard canon properly, tartiflette, fondue, raclette, with a wine list that stays firmly in the Savoie and Rhône appellations where it belongs. Ski hard, eat well, sleep under the mountain. It's a very French formula and it works.

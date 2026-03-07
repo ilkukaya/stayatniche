@@ -3,7 +3,7 @@ name: Conrad Maldives Muraka
 category: underwater-rooms
 destination: Rangali Island
 country: Maldives
-description: The world's first two-story underwater hotel suite, Muraka at Conrad Maldives Rangali Island sits 5 metres beneath the Indian Ocean's surface. The lower level is a curved bedroom and bathroom entirely surrounded by coral reef — 180-degree views of the ocean floor from your bed.
+description: The world's first two-story underwater hotel suite, Muraka at Conrad Maldives Rangali Island sits 5 metres beneath the Indian Ocean's surface. The lower level is a curved bedroom and bathroom entirely surrounded by coral reef, 180-degree views of the ocean floor from your bed.
 coverImage: /images/hotels/conrad-maldives-muraka.jpg
 gallery:
   - /images/hotels/conrad-maldives-muraka-2.jpg

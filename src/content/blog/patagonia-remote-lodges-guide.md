@@ -21,9 +21,9 @@ seo:
   metaDescription: "The world's most remote and extraordinary lodges in Patagonia, Torres del Paine, Tierra del Fuego, Atacama, and beyond. Prices, puma tracking, and how to get there."
 ---
 
-Patagonia sits at the southern cone of South America, where the next landmass south is Antarctica. The towers of Torres del Paine rise sheer from the steppe. The Southern Patagonian Ice Field — the world's third-largest after Antarctica and Greenland — calves glaciers directly into fjords. Andean condors with 3.2-metre wingspans circle above mountain ranges that have no trails.
+Patagonia sits at the southern cone of South America, where the next landmass south is Antarctica. The towers of Torres del Paine rise sheer from the steppe. The Southern Patagonian Ice Field, the world's third-largest after Antarctica and Greenland, calves glaciers directly into fjords. Andean condors with 3.2-metre wingspans circle above mountain ranges that have no trails.
 
-The lodges that have established themselves in this landscape over the past two decades required genuine logistical ambition to build. Food comes from communities hundreds of kilometres away. Staff live on-site for weeks at a time. The experiences they deliver — puma tracking, glacier trekking, condor observation from hot tubs — don't exist at this quality level anywhere else.
+The lodges that have established themselves in this landscape over the past two decades required genuine logistical ambition to build. Food comes from communities hundreds of kilometres away. Staff live on-site for weeks at a time. The experiences they deliver, puma tracking, glacier trekking, condor observation from hot tubs, don't exist at this quality level anywhere else.
 
 This guide covers the best lodges in Chilean and Argentine Patagonia, with honest information on access, seasonality, and what the journey actually involves.
 
@@ -42,13 +42,13 @@ Most international visitors focus on the Chilean Torres del Paine and Argentine 
 
 
 
-Explora Hotels invented the remote exploration lodge model in Patagonia when they opened at Torres del Paine in 1993. The formula — a remote all-inclusive lodge where expert guides run personalised daily expeditions, then you return to good food and Pisco Sours — has been widely copied but not bettered in Patagonia.
+Explora Hotels invented the remote exploration lodge model in Patagonia when they opened at Torres del Paine in 1993. The formula, a remote all-inclusive lodge where expert guides run personalised daily expeditions, then you return to good food and Pisco Sours, has been widely copied but not bettered in Patagonia.
 
-The lodge sits on the shore of Lago Pehoé in the Patagonian steppe, with views of the Paine Massif that genuinely compete with any hotel setting in the world. The architecture is long, low, horizontal — dark timber and stone that reads as part of the landscape rather than an intrusion into it. Inside: 49 rooms with floor-to-ceiling windows facing the mountains, a serious all-inclusive food and wine programme, and a guiding team of around 40 naturalists and trekking specialists.
+The lodge sits on the shore of Lago Pehoé in the Patagonian steppe, with views of the Paine Massif that genuinely compete with any hotel setting in the world. The architecture is long, low, horizontal, dark timber and stone that reads as part of the landscape rather than an intrusion into it. Inside: 49 rooms with floor-to-ceiling windows facing the mountains, a serious all-inclusive food and wine programme, and a guiding team of around 40 naturalists and trekking specialists.
 
-**The Explora model:** Each morning, guides present the day's range of excursions, differentiated by duration, difficulty, and focus — trekking, horseback riding, kayaking, puma tracking. Groups rarely exceed 8 people. Over a stay of several nights, the personalisation creates access to the landscape that park tours simply can't replicate.
+**The Explora model:** Each morning, guides present the day's range of excursions, differentiated by duration, difficulty, and focus, trekking, horseback riding, kayaking, puma tracking. Groups rarely exceed 8 people. Over a stay of several nights, the personalisation creates access to the landscape that park tours simply can't replicate.
 
-**Puma tracking:** Torres del Paine has one of South America's healthiest puma populations, and Explora's guides have been tracking them for decades. Sightings aren't guaranteed — these are wild animals in wild terrain — but success rates are high. Many guests find pumas on multiple consecutive days. For most people who visit, it's the memory that stays longest.
+**Puma tracking:** Torres del Paine has one of South America's healthiest puma populations, and Explora's guides have been tracking them for decades. Sightings aren't guaranteed, these are wild animals in wild terrain, but success rates are high. Many guests find pumas on multiple consecutive days. For most people who visit, it's the memory that stays longest.
 
 **Price range:** From $1,200/person/night (all-inclusive: meals, drinks, guides, excursions). Minimum stay is 3 nights.
 **Getting there:** Fly to Punta Arenas; private transfer to Puerto Natales (3 hours); lodge transfer (2 hours). The property arranges all transfers.
@@ -74,7 +74,7 @@ EcoCamp sits inside Torres del Paine National Park itself, at the base of the ma
 
 The operation is entirely solar-powered, uses a biological wastewater system, and is built on raised platforms that leave the soil beneath undisturbed. The guiding team and kitchen staff are drawn from local towns.
 
-This is closer to wilderness camping than luxury lodge — nights are cold, the Patagonian wind makes itself known, and the facilities are simpler than Explora or Awasi. But the position at the foot of the towers, with the granite spires filling the dome entrance at sunrise, is something the more comfortable lodges outside the park cannot replicate.
+This is closer to wilderness camping than luxury lodge, nights are cold, the Patagonian wind makes itself known, and the facilities are simpler than Explora or Awasi. But the position at the foot of the towers, with the granite spires filling the dome entrance at sunrise, is something the more comfortable lodges outside the park cannot replicate.
 
 **Price range:** Standard Dome from $400/person/night (all-inclusive); Suite Dome from $700/person/night
 
@@ -91,7 +91,7 @@ The lodge sits outside the main national park gate, so the full massif is visibl
 
 
 
-El Chaltén sits at the foot of the Fitz Roy massif in Argentina, with granite spire geology that rivals Yosemite and the Dolomites for drama. Explora's El Chaltén property (opened 2019) brings the same private-guide, all-inclusive model to the Argentine side, with access to serious trekking, ice-climbing on the Southern Ice Field margins, and the Laguna de los Tres — the Fitz Roy viewpoint lake that produces one of South America's most copied landscape photographs.
+El Chaltén sits at the foot of the Fitz Roy massif in Argentina, with granite spire geology that rivals Yosemite and the Dolomites for drama. Explora's El Chaltén property (opened 2019) brings the same private-guide, all-inclusive model to the Argentine side, with access to serious trekking, ice-climbing on the Southern Ice Field margins, and the Laguna de los Tres, the Fitz Roy viewpoint lake that produces one of South America's most copied landscape photographs.
 
 **Price range:** From $1,000/person/night (all-inclusive)
 
@@ -173,7 +173,7 @@ Patagonia's accessible season is October–April (Southern Hemisphere spring–a
 
 
 
-People who visit Patagonia reliably describe it as the most powerful landscape experience of their lives. The distance is real — Buenos Aires is 13+ hours from London, 9 hours from Miami, plus internal connections. But the combination of scale, wildlife, and genuine remoteness is not available anywhere else at this intensity. The journey is part of the point.
+People who visit Patagonia reliably describe it as the most powerful landscape experience of their lives. The distance is real, Buenos Aires is 13+ hours from London, 9 hours from Miami, plus internal connections. But the combination of scale, wildlife, and genuine remoteness is not available anywhere else at this intensity. The journey is part of the point.
 
 
 The Torres del Paine ecosystem supports pumas (the region's iconic predator, and one of the world's best places to see wild mountain lions), guanacos (wild camelids, relatives of the llama), Andean condors (with 3.2m wingspans, one of the world's largest flying birds), grey foxes, armadillos, and the endangered huemul deer. Marine wildlife, penguins, sea lions, dolphins, and occasionally orca, is accessible on the Chilean fjords and in Ushuaia's Beagle Channel.

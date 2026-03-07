@@ -39,17 +39,17 @@ seo:
   metaDescription: "Plan your Swedish Lapland adventure, glass igloo aurora cabins, ICEHOTEL stays, dog sledding, and Sami culture above the Arctic Circle. Full travel guide."
 ---
 
-At -20°C in the Arctic winter, sound seems to freeze. The spruce trees stand white and motionless under their snow load, the frozen Torne River stretches to a horizon of birch and pine, and the sky waits. When the aurora finally comes — sweeping green across the zenith, occasionally exploding into curtains of violet and white — the silence shifts into something closer to awe.
+At -20°C in the Arctic winter, sound seems to freeze. The spruce trees stand white and motionless under their snow load, the frozen Torne River stretches to a horizon of birch and pine, and the sky waits. When the aurora finally comes, sweeping green across the zenith, occasionally exploding into curtains of violet and white, the silence shifts into something closer to awe.
 
 
 The ICEHOTEL in Jukkasjärvi has been rebuilt entirely from Torne River ice and snow every November since 1990. Each suite is designed by a different international artist, carved in ice so pure it glows blue. The temperature inside is kept at -5°C, and you sleep in a reindeer-skin sleeping bag on an ice bed. It is not comfortable in any conventional sense, but for those who have done it, the experience holds its ground against almost anything else in travel.
 
-Beyond the ICEHOTEL, Swedish Lapland has built a constellation of glass-ceiling aurora cabins on frozen lakeshores, heated geodesic domes, and remote wilderness lodges accessible only by snowmobile. The best combine heated beds and private saunas with unobstructed sky views — Arctic comfort paired with total immersion in the northern landscape.
+Beyond the ICEHOTEL, Swedish Lapland has built a constellation of glass-ceiling aurora cabins on frozen lakeshores, heated geodesic domes, and remote wilderness lodges accessible only by snowmobile. The best combine heated beds and private saunas with unobstructed sky views, Arctic comfort paired with total immersion in the northern landscape.
 
 
 Abisko National Park sits at the southern tip of Lake Torneträsk, in a microclimate created by a gap in the regional cloud patterns. The result: statistically clearer skies for aurora viewing than anywhere else in accessible Sweden. The Aurora Sky Station on Nuolja Mountain runs chairlifts into the darkness above the cloud layer. It is the most reliable aurora setup in the country.
 
 
-The Sami have herded reindeer across this landscape for thousands of years. A growing number of Sami-led experiences — reindeer herding, joik singing sessions, traditional lavvu (tent) meals — offer genuine exchange rather than performance. These encounters are often unhurried and unscripted, which is precisely why they tend to become the most lasting memory of a Lapland trip.
+The Sami have herded reindeer across this landscape for thousands of years. A growing number of Sami-led experiences, reindeer herding, joik singing sessions, traditional lavvu (tent) meals, offer genuine exchange rather than performance. These encounters are often unhurried and unscripted, which is precisely why they tend to become the most lasting memory of a Lapland trip.
 
 The darkness that defines a Lapland winter is the point, not a drawback. Without it, the aurora doesn't exist. Without the cold, the ice sculptures melt. Swedish Lapland has built a world of distinctive experiences around what other places consider deficiencies.

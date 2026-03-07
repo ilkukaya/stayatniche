@@ -22,11 +22,11 @@ relatedHotels:
   - conrad-maldives-muraka
 ---
 
-The Conrad Maldives Muraka is the obvious answer for first-timers with unlimited budgets. If you want value without sacrifice, Gili Lankanfushi wins. And if you want the most space money can buy — with a retractable bedroom roof and a water slide — Soneva Jani is the one to book.
+The Conrad Maldives Muraka is the obvious answer for first-timers with unlimited budgets. If you want value without sacrifice, Gili Lankanfushi wins. And if you want the most space money can buy, with a retractable bedroom roof and a water slide, Soneva Jani is the one to book.
 
 Not all overwater bungalows are created equal. Some sit in shallow tidal flats with murky water; others perch above crystalline lagoons teeming with marine life. Some are glorified sheds with a view; others are architectural achievements with butler service, glass-floor panels, and direct ocean access.
 
-Here are the 15 best overwater bungalows across six destinations — with honest notes on price, what makes each property stand out, and who each one suits best.
+Here are the 15 best overwater bungalows across six destinations, with honest notes on price, what makes each property stand out, and who each one suits best.
 
 ---
 
@@ -48,7 +48,7 @@ Sitting within a UNESCO Biosphere Reserve, the Four Seasons Landaa Giraavaru is 
 **Best for:** Eco-conscious luxury travellers, marine biology enthusiasts, families (excellent children's programs)
 
 
-Gili Lankanfushi has earned its reputation as one of the most romantic resorts in the world. The over-water "villa suites" are set on private jetties with resident "Mr. Friday" butlers who intuit your preferences before you ask. There's no key — you're trusted. The emphasis is on barefoot luxury: no shoes required anywhere on property.
+Gili Lankanfushi has earned its reputation as one of the most romantic resorts in the world. The over-water "villa suites" are set on private jetties with resident "Mr. Friday" butlers who intuit your preferences before you ask. There's no key, you're trusted. The emphasis is on barefoot luxury: no shoes required anywhere on property.
 
 **What makes it special:** The barefoot philosophy, outstanding house reef, and genuinely personalised service set this apart from the flashier competition.
 **Price range:** Villa Suites from $1,500/night
@@ -81,14 +81,14 @@ The definitive Bora Bora property. Mount Otemanu rises dramatically behind you; 
 **Best for:** Honeymooners, those visiting Bora Bora for the first time wanting guaranteed quality
 
 
-The St. Regis competes closely with the Four Seasons for the title of Bora Bora's best. Its overwater villas — some of the largest in Polynesia — come with butler service as standard (a St. Regis hallmark), plunge pools, and the brand's signature evening ritual. The lagoon views toward Otemanu are among the island's finest.
+The St. Regis competes closely with the Four Seasons for the title of Bora Bora's best. Its overwater villas, some of the largest in Polynesia, come with butler service as standard (a St. Regis hallmark), plunge pools, and the brand's signature evening ritual. The lagoon views toward Otemanu are among the island's finest.
 
 **What makes it special:** The largest overwater villas in Bora Bora, butler service, excellent position facing the iconic mountain.
 **Price range:** Overwater Villa from $1,800/night
 **Best for:** Couples who prize service above all, those who want maximum space
 
 
-For travellers who want the authentic French Polynesian overwater experience without Bora Bora prices, Moorea is the answer. The Hilton Moorea sits on one of the most beautiful lagoons in the South Pacific — Cook's Bay and Opunohu Bay frame a landscape so theatrical it looks artificial. Overwater bungalows here represent outstanding value compared to Bora Bora.
+For travellers who want the authentic French Polynesian overwater experience without Bora Bora prices, Moorea is the answer. The Hilton Moorea sits on one of the most beautiful lagoons in the South Pacific, Cook's Bay and Opunohu Bay frame a landscape so theatrical it looks artificial. Overwater bungalows here represent outstanding value compared to Bora Bora.
 
 **What makes it special:** Moorea's dramatic mountainous backdrop, snorkelling with rays and sharks in the lagoon, better value than Bora Bora.
 **Price range:** Overwater Bungalows from $550/night
@@ -97,7 +97,7 @@ For travellers who want the authentic French Polynesian overwater experience wit
 ---
 
 
-Fiji's overwater bungalows come with something no other destination can quite replicate: the legendary Fijian welcome. The warmth is genuine, and the island interiors — lush, volcanic, deeply cultural — provide a richer backdrop than the more resort-focused Maldives experience.
+Fiji's overwater bungalows come with something no other destination can quite replicate: the legendary Fijian welcome. The warmth is genuine, and the island interiors, lush, volcanic, deeply cultural, provide a richer backdrop than the more resort-focused Maldives experience.
 
 
 Fiji's original overwater bungalow resort, and still its finest. Likuliku is adults-only and deliberately intimate, with 10 overwater bures (traditional Fijian bungalows) that blend Fijian architectural traditions with contemporary luxury. The lagoon here is impressive: calm, clear, and rich with marine life. The cultural program is one of the most authentic in the Pacific.
@@ -107,7 +107,7 @@ Fiji's original overwater bungalow resort, and still its finest. Likuliku is adu
 **Best for:** Couples, honeymooners, those who value cultural authenticity alongside luxury
 
 
-One of Fiji's most remote and exclusive properties, Kokomo offers overwater bungalows within a private island resort in the Kadavu Group, home to some of the clearest coral in the South Pacific. The Great Astrolabe Reef — one of the world's largest barrier reefs — is right outside. Guest numbers are kept deliberately small.
+One of Fiji's most remote and exclusive properties, Kokomo offers overwater bungalows within a private island resort in the Kadavu Group, home to some of the clearest coral in the South Pacific. The Great Astrolabe Reef, one of the world's largest barrier reefs, is right outside. Guest numbers are kept deliberately small.
 
 **What makes it special:** Outstanding reef access, private island exclusivity, some of the best scuba diving in Fiji.
 **Price range:** Overwater Bure from $1,600/night (all-inclusive)
@@ -117,14 +117,14 @@ One of Fiji's most remote and exclusive properties, Kokomo offers overwater bung
 
 
 
-Palau is one of the world's great diving destinations — Jellyfish Lake, the Blue Corner wall, the German Channel — and the overwater options here serve as a base for serious marine encounters. The Palau Pacific Resort's overwater bungalows sit above warm, still water with visibility that regularly exceeds 30 metres. The destination is harder to reach than the Maldives, but the underwater world rewards the effort.
+Palau is one of the world's great diving destinations, Jellyfish Lake, the Blue Corner wall, the German Channel, and the overwater options here serve as a base for serious marine encounters. The Palau Pacific Resort's overwater bungalows sit above warm, still water with visibility that regularly exceeds 30 metres. The destination is harder to reach than the Maldives, but the underwater world rewards the effort.
 
 **What makes it special:** Access to Palau's extraordinary diving and snorkelling; genuinely off-the-beaten-track for the Pacific.
 **Price range:** Overwater Bungalows from $650/night
 **Best for:** Experienced divers, travellers who want adventure alongside luxury
 
 
-Often overlooked in favour of Bora Bora, Tahiti itself has excellent overwater options, and the advantage of being the arrival hub for French Polynesia — meaning no inter-island transfer costs. The Pearl Beach Resort's overwater bungalows face the lagoon at Arue, with views of Moorea on the horizon. The sunset from the deck is worth planning around.
+Often overlooked in favour of Bora Bora, Tahiti itself has excellent overwater options, and the advantage of being the arrival hub for French Polynesia, meaning no inter-island transfer costs. The Pearl Beach Resort's overwater bungalows face the lagoon at Arue, with views of Moorea on the horizon. The sunset from the deck is worth planning around.
 
 **What makes it special:** Tahiti's lower-key feel versus Bora Bora; lower prices; ideal for a first-night or last-night splurge on your French Polynesia trip.
 **Price range:** Overwater Bungalows from $480/night
@@ -195,7 +195,7 @@ For first-timers, the Maldives offers the most consistent combination of warm wa
 For most travellers who prioritise sleeping directly above the ocean with immediate water access, yes, the premium is justified. The magic of waking up with the sea literally beneath you, slipping into the water from your private steps at sunrise, is genuinely unlike any other travel experience. That said, value varies enormously by property. Research the specific water quality and reef access before booking.
 
 
-Polarised sunglasses (essential for seeing into the water), reef-safe sunscreen (many destinations now require it), a lightweight rashguard, underwater camera or GoPro, and insect repellent (relevant in Fiji and Bora Bora, less so in the Maldives). Pack light — most resorts offer laundry service.
+Polarised sunglasses (essential for seeing into the water), reef-safe sunscreen (many destinations now require it), a lightweight rashguard, underwater camera or GoPro, and insect repellent (relevant in Fiji and Bora Bora, less so in the Maldives). Pack light, most resorts offer laundry service.
 
 
 Many overwater bungalow resorts are adults-only (Likuliku in Fiji, Gili Lankanfushi in the Maldives). Those that accept children (Four Seasons Bora Bora, Soneva Jani, Sandals) typically have safety railings on decks and life rings. Always confirm the property's family policy and deck safety measures when booking with young children.

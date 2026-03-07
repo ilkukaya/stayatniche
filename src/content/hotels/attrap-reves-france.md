@@ -68,11 +68,11 @@ seo:
   metaDescription: "Sleep inside transparent bubble domes in the Provençal countryside near Marseille at Attrap'Rêves. France's premier stargazing hotel from $280/night."
 ---
 
-Twenty minutes from Marseille's Vieux-Port and a complete removal from it, Attrap'Rêves sits in the garrigue-scented hills above Allauch — rosemary, native oak, Mediterranean light. Each transparent PVC dome is set privately in the Provençal scrubland, screened from its neighbours. You don't see other bubbles. You see the Provençal countryside and, at night, the sky.
+Twenty minutes from Marseille's Vieux-Port and a complete removal from it, Attrap'Rêves sits in the garrigue-scented hills above Allauch, rosemary, native oak, Mediterranean light. Each transparent PVC dome is set privately in the Provençal scrubland, screened from its neighbours. You don't see other bubbles. You see the Provençal countryside and, at night, the sky.
 
 What separates this property from the growing category of bubble hotels is the interiors. These are not themed in the half-hearted way that novelty accommodation often is. Step through an airlock door and you might find yourself in an opulent baroque environment of velvet drapes and gilded mirrors, or a bohemian space of Moroccan lanterns and hand-knotted rugs, or a lean minimalist sanctuary designed specifically for two. The bubbles are executed with genuine conviction, and they reward the kind of careful attention that comes from spending two nights in one place.
 
-The beds are positioned directly beneath the transparent dome ceiling. On clear nights — and Provence, despite its reputation for sunshine, does produce some of southern France's clearest dark skies — the Milky Way is visible in its full arc. The silence of the garrigue is broken only by crickets and the occasional distant bark of a fox.
+The beds are positioned directly beneath the transparent dome ceiling. On clear nights, and Provence, despite its reputation for sunshine, does produce some of southern France's clearest dark skies, the Milky Way is visible in its full arc. The silence of the garrigue is broken only by crickets and the occasional distant bark of a fox.
 
 Mornings: a breakfast basket arrives at the door. Local cheeses, Provençal honey, fresh pastries, seasonal fruit. Coffee on your private terrace, thyme warming in the sun, no lobby to negotiate. The lack of a restaurant is not a con; it's the correct decision for this kind of property.
 
