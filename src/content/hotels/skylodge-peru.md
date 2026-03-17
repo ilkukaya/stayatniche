@@ -4,7 +4,7 @@ category: cliffside-hotels
 destination: Sacred Valley, Cusco Region
 country: Peru
 continent: South America
-description: The world's most daring accommodation, transparent pods suspended 400 metres above the Sacred Valley, accessible only by a via ferrata climb or zip line, with panoramic Andean views. Skylodge Adventure Suites redefines the boundary between adventure sport and luxury travel.
+description: Three aerospace-grade transparent pods bolted into the red granite face of Pachar mountain, 400 metres above the Sacred Valley floor, reachable only by a one-to-two-hour via ferrata climb or zip line descent. Gourmet Novo-Andean dinners are carried up the cliff face by guides; the sunrise over snowcapped peaks through polycarbonate walls follows at no extra charge.
 coverImage: /images/hotels/skylodge-peru.jpg
 priceRange: "$450 - $750"
 priceIndicator: 4

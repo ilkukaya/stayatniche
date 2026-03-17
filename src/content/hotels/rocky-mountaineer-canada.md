@@ -4,7 +4,7 @@ category: train-hotels
 destination: "Vancouver to Banff / Jasper"
 country: "Canada"
 continent: "North America"
-description: "Rocky Mountaineer is the premier way to experience the Canadian Rockies from ground level, operating glass-domed GoldLeaf and SilverLeaf carriages through some of the most dramatic mountain scenery in the world. The train travels only by day, ensuring passengers see every kilometre of the spectacular journey through British Columbia and Alberta."
+description: "Rocky Mountaineer operates glass-domed GoldLeaf and SilverLeaf carriages on daytime-only journeys between Vancouver and the Canadian Rockies, covering the Fraser Canyon, Rogers Pass, and the approach to Banff and Jasper National Parks. The train runs only in daylight so passengers see every kilometre of the route."
 coverImage: /images/hotels/rocky-mountaineer-canada.jpg
 gallery:
   - /images/hotels/rocky-mountaineer-canada-2.jpg

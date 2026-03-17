@@ -3,7 +3,7 @@ name: "Jules' Undersea Lodge"
 category: underwater-rooms
 destination: "Key Largo, Florida"
 country: "United States"
-description: "The world's only underwater hotel, resting on the floor of a marine habitat lagoon in Key Largo, guests must scuba dive or snorkel down 6 metres to reach their room. The original and still most extreme underwater accommodation experience on Earth, operating since 1986."
+description: "Resting on the floor of a Key Largo lagoon since 1986, Jules' Undersea Lodge is entered through a moon pool in its floor — guests scuba dive 6 metres down to reach their room, making it the only hotel on Earth where checking in requires a wetsuit."
 coverImage: /images/hotels/jules-undersea-lodge-florida.jpg
 gallery:
   - /images/hotels/jules-undersea-lodge-florida-2.jpg

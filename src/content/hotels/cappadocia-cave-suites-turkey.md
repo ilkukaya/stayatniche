@@ -3,7 +3,7 @@ name: "Cappadocia Cave Suites"
 category: cave-hotels
 destination: "Göreme, Cappadocia"
 country: "Turkey"
-description: "Boutique cave hotel carved into Göreme's ancient volcanic tufa rock, offering elegantly appointed cave suites with private terraces commanding sweeping views over the fairy chimneys and hot air balloons of Cappadocia. One of the region's most celebrated cave accommodation experiences."
+description: "Carved into the volcanic tufa hillside at the centre of Göreme, Cappadocia Cave Suites occupies rooms that range from smoothed Byzantine cave spaces with barrel-vaulted ceilings to sharply cut suites finished with Anatolian tiles and kilim cushions. The rooftop terrace faces directly into the valley where 60 to 80 hot air balloons rise at dawn each morning — one of the more singular hotel views in Turkey."
 coverImage: /images/hotels/cappadocia-cave-suites-turkey.jpg
 gallery:
   - /images/hotels/cappadocia-cave-suites-turkey-2.jpg

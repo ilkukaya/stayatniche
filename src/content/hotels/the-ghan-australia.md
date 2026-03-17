@@ -4,7 +4,7 @@ category: train-hotels
 destination: "Adelaide to Darwin (and return)"
 country: "Australia"
 continent: "Oceania"
-description: "The Ghan is one of the world's great railway journeys: a 2,979-kilometre traverse of the Australian continent from Adelaide on the Southern Ocean to Darwin on the Timor Sea, crossing the red desert heart of Australia through landscapes of extraordinary ancient beauty. Named for the Afghan cameleers who pioneered these inland routes, the Ghan makes the crossing in 54 hours of immersive outback travel."
+description: "A 2,979-kilometre traverse of the Australian continent from Adelaide on the Southern Ocean to Darwin on the Timor Sea, completed in 54 hours. The Ghan crosses the Red Centre through Alice Springs, with off-train excursions to Katherine Gorge and an optional charter flight to Uluru on selected departures."
 coverImage: /images/hotels/the-ghan-australia.jpg
 gallery:
   - /images/hotels/the-ghan-australia-2.jpg
