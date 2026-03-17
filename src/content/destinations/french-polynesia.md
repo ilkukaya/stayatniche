@@ -2,7 +2,7 @@
 name: "French Polynesia"
 type: country
 continent: "Oceania"
-description: "French Polynesia is the archetype of the South Pacific dream, 118 islands and atolls scattered across a turquoise expanse larger than Western Europe, where overwater bungalows hover above lagoons so clear you can count the coral heads below. Tahiti, Bora Bora, Moorea, and the remote Tuamotu atolls offer some of the most extravagant and ecologically remarkable accommodation experiences on the planet."
+description: "French Polynesia spans 118 islands and atolls across a stretch of Pacific Ocean larger than Western Europe, where overwater bungalows sit above lagoons so clear you can count the coral heads below. Tahiti, Bora Bora, Moorea, and the remote Tuamotu atolls deliver some of the most extravagant and ecologically significant accommodation experiences in the world."
 coverImage: /images/destinations/french-polynesia.jpg
 essentials:
   currency: "CFP Franc (XPF); USD and EUR widely accepted at resorts"

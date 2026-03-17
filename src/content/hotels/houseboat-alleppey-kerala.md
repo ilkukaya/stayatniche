@@ -3,7 +3,7 @@ name: "Kettuvallam Houseboat Alleppey"
 category: floating-hotels
 destination: "Alleppey, Kerala"
 country: "India"
-description: "Traditional Kerala rice boat converted into a luxurious floating home, gliding through the backwaters of Alleppey on a private overnight cruise through one of Asia's most extraordinary waterway landscapes. An intimate, slow-paced immersion in Kerala's ancient network of canals, lagoons, and paddy fields."
+description: "A traditional Kerala rice boat converted to a floating home, moving through the backwaters of Alleppey on a private overnight cruise. A dedicated on-board cook prepares fresh Kerala seafood daily, and narrow canals pass through paddy fields, coconut groves, and villages accessible only by water."
 coverImage: /images/hotels/houseboat-alleppey-kerala.jpg
 gallery:
   - /images/hotels/houseboat-alleppey-kerala-2.jpg
