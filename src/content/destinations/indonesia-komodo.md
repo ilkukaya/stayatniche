@@ -35,19 +35,19 @@ seo:
   metaDescription: "Komodo travel guide, Komodo dragons, exceptional diving, pink-sand beaches, manta rays, and liveaboard adventures in Indonesia's Nusa Tenggara."
 ---
 
-You come to Komodo for a dragon. You stay, in the mind and in the memory, for everything else. The volcanic archipelago strung between Flores and Sumbawa in eastern Indonesia is one of those places that refuses to be summarized by any single attraction, however remarkable that attraction happens to be.
+You come to Komodo for a dragon. You stay, in the mind and in the memory, for everything else. The volcanic archipelago strung between Flores and Sumbawa in eastern Indonesia is one of those places that refuses to be reduced to any single attraction, however singular that attraction happens to be.
 
 
-Komodo dragons are the world's largest living lizards, up to three meters long, weighing 70 kilograms, capable of running at 20 kilometers per hour, and equipped with a saliva laced with enough bacteria and venom to incapacitate animals far larger than themselves. Seeing one in the scrub forest of Komodo or Rinca island, with a ranger guide tracking it at a respectful distance, is genuinely primal. There is something about an animal this large and this ancient, the species has existed in this form for four million years, that rearranges your understanding of the natural world.
+Komodo dragons are the world's largest living lizards — up to three meters long, weighing 70 kilograms, capable of running at 20 kilometers per hour, and equipped with a saliva laced with enough bacteria and venom to incapacitate animals far larger than themselves. Seeing one in the scrub forest of Komodo or Rinca island, with a ranger guide tracking it at a respectful distance, is genuinely primal. There is something about an animal this large and this ancient — the species has existed in this form for four million years — that rearranges your understanding of the natural world.
 
-The national park protects both Komodo and Rinca islands, plus a marine area extending across the surrounding strait. Rinca tends to offer more reliable dragon sightings (larger resident population, more open terrain); Komodo island adds deeper forest walks and more dramatic scenery.
-
-
-The Komodo Strait sits at the confluence of the Indian Ocean and the Flores Sea, generating extraordinary nutrient upwelling that supports a marine ecosystem of staggering richness. The diving here is consistently rated among the best in the world, not for visibility (which can be moderate due to plankton) but for density and diversity of life. Batu Bolong, a submerged seamount, carries so much coral cover and so many fish species that photographers run out of memory before they run out of subjects.
-
-Manta Point hosts predictable aggregations of reef and oceanic manta rays throughout the dry season, animals with wingspans up to five meters performing barrel rolls in the current beside you. For non-divers, the snorkeling at several sites is extraordinary, and glass-bottom boat tours from Labuan Bajo offer a window into the shallower reefs.
+The national park protects both Komodo and Rinca islands, plus a marine area extending across the surrounding strait. Rinca tends to offer more reliable dragon sightings thanks to a larger resident population and more open terrain; Komodo island adds deeper forest walks and more dramatic scenery.
 
 
-The most hands-on way to experience Komodo is a [liveaboard dive vessel](/categories/overwater-bungalows), typically a phinisi (traditional Indonesian two-masted wooden sailing ship) converted for dive travel, with 8–16 passengers and daily dives from sunrise to sunset. These trips access remote sites unreachable from Labuan Bajo by day boat, including the northern reefs around Gili Lawa Darat where green turtles congregate in numbers.
+The Komodo Strait sits at the confluence of the Indian Ocean and the Flores Sea, generating extraordinary nutrient upwelling that supports a marine ecosystem of staggering richness. The diving here is consistently rated among the best in the world — not for visibility (which can be moderate due to plankton) but for density and diversity of life. Batu Bolong, a submerged seamount, carries so much coral cover and so many fish species that photographers run out of memory before they run out of subjects.
 
-Flores offers an increasingly compelling overland alternative, the Ruteng highlands with their unusual spider-web rice paddies, the traditional village of Todo, and the journey east to the Kelimutu volcanic crater lakes, whose water changes color seasonally between black, turquoise, and red.
+Manta Point hosts predictable aggregations of reef and oceanic manta rays throughout the dry season, animals with wingspans up to five meters performing barrel rolls in the current alongside you. For non-divers, the snorkeling at several sites is exceptional, and glass-bottom boat tours from Labuan Bajo offer a window into the shallower reefs.
+
+
+The most hands-on way to experience Komodo is a [liveaboard dive vessel](/categories/overwater-bungalows) — typically a phinisi, a traditional Indonesian two-masted wooden sailing ship converted for dive travel, with 8 to 16 passengers and daily dives from sunrise to sunset. These trips access remote sites unreachable from Labuan Bajo by day boat, including the northern reefs around Gili Lawa Darat where green turtles congregate in numbers.
+
+Flores offers an increasingly compelling overland alternative: the Ruteng highlands with their unusual spider-web rice paddies, the traditional village of Todo, and the journey east to the Kelimutu volcanic crater lakes, whose water shifts between black, turquoise, and red across the seasons.
