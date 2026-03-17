@@ -39,16 +39,12 @@ seo:
   metaDescription: "Explore Dubai and the UAE's most extraordinary places to stay, from overwater villas to desert eco-camps and Abu Dhabi's cultural district. Your complete niche travel guide."
 ---
 
-Dubai built an indoor ski slope in the desert, constructed an archipelago of islands in the shape of a palm tree, and opened a hotel, the Burj Al Arab, where butler service is standard and a suite runs over $10,000 a night. The city's commitment to audacity is consistent and, whatever you think of it, worth experiencing directly rather than dismissing from a distance.
+Dubai built an indoor ski slope in the desert, constructed an archipelago of islands in the shape of a palm tree, and opened a hotel — the Burj Al Arab — where butler service is standard and a suite runs over $10,000 a night. The city's commitment to audacity is consistent and, whatever you think of it, worth experiencing directly rather than dismissing from a distance.
 
+The UAE's accommodation range is genuinely without parallel. The Burj Al Arab's helipad, 27-metre atrium, and submarine excursions define one end. Desert eco-camps at the edge of the Liwa oasis — simple, carefully designed shelters facing the world's largest contiguous sand desert — occupy the other. Between those poles: overwater villas on private islands, palazzo-style resorts, and boutique properties in restored coral stone merchant houses along the historic Dubai Creek.
 
-The UAE's accommodation range is genuinely without parallel. The Burj Al Arab's helipad, 27-metre atrium, and submarine excursions define one end. Desert eco-camps at the edge of the Liwa oasis, simple, sophisticated shelters facing the world's largest contiguous sand desert, occupy the other. Between those poles: overwater villas on private islands, palazzo-style resorts, and boutique properties in restored coral stone merchant houses along the historic Dubai Creek.
+The city pays back those who push past the obvious. Al Fahidi Historic District preserves a Dubai of narrow lanes, wind towers, and wooden dhows — the city that existed before the oil revenue arrived. The gold, spice, and textile souqs of Deira are still genuinely working markets rather than tourist reconstructions. The abra water taxis crossing the Creek cost 5 dirhams and have been unchanged in character for decades.
 
+Abu Dhabi has become a serious cultural destination. The Louvre Abu Dhabi — Jean Nouvel's domed structure where light filters through a geometric lattice onto 23 galleries of world art — is architecturally brilliant and substantive as a museum. The Sheikh Zayed Grand Mosque is one of the most beautiful buildings of the 21st century: 82 domes, 1,000 columns, and the world's largest hand-knotted carpet.
 
-The city pays back those who push past the obvious. Al Fahidi Historic District preserves a Dubai of narrow lanes, wind towers, and wooden dhows, the city that existed before the oil revenue arrived. The gold, spice, and textile souqs of Deira are still genuinely working markets rather than tourist reconstructions, and the abra water taxis crossing the Creek are 5 dirhams and unchanged in character for decades.
-
-
-Abu Dhabi has become a serious cultural destination. The Louvre Abu Dhabi, Jean Nouvel's domed structure where light streams through a geometric lattice onto 23 galleries of world art, is architecturally brilliant and substantive as a museum. The Sheikh Zayed Grand Mosque is one of the most beautiful buildings of the 21st century: 82 domes, 1,000 columns, and the world's largest hand-knotted carpet.
-
-
-An hour south of Dubai, the Empty Quarter (Rub' al Khali) begins. Overnight desert camps with traditional Arabic hospitality, camel treks at sunrise, and dune drives at dusk deliver the landscape that shaped everything the UAE has become, and provide necessary counterweight to the towers of Sheikh Zayed Road.
+An hour south of Dubai, the Empty Quarter (Rub' al Khali) begins. Overnight desert camps with traditional Arabic hospitality, camel treks at sunrise, and dune drives at dusk deliver the landscape that shaped everything the UAE has become — and provide necessary counterweight to the towers of Sheikh Zayed Road.
