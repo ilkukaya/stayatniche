@@ -4,7 +4,7 @@ category: safari-lodges
 destination: "Hwange National Park, Matabeleland North"
 country: "Zimbabwe"
 continent: "Africa"
-description: "Davison's Camp is an intimate tented safari camp set beside a productive waterhole deep within Zimbabwe's Hwange National Park, offering exceptional elephant encounters, superb Big Five game viewing, and the authentic Wilderness Safaris ethos of responsible luxury in a national park that is one of Africa's most underrated wildlife destinations."
+description: "Davison's Camp is an intimate tented safari camp set beside a productive waterhole deep within Zimbabwe's Hwange National Park, offering exceptional elephant encounters, superb Big Five game viewing, and the Wilderness Safaris ethos of responsible luxury in a national park that is one of Africa's most underrated wildlife destinations."
 coverImage: /images/hotels/wilderness-davisons-camp-zimbabwe.md
 gallery:
   - /images/hotels/wilderness-davisons-camp-zimbabwe-2.jpg

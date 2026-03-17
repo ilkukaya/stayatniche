@@ -37,7 +37,7 @@ seo:
   metaDescription: "Discover Big Sur's most extraordinary places to stay, cliffside retreats, redwood creek cabins, and iconic California coastal lodges. Your complete niche travel guide."
 ---
 
-The Santa Lucia Mountains rise almost directly from the Pacific, creating a coastal wall so steep that Highway 1 had to be carved into the cliff face when it was built in the 1930s. A feat of engineering that still feels barely credible when you're driving it. The result is 90 miles of coastline that is simultaneously one of America's most visited corridors and one of its most isolated, genuinely unlike anywhere else in the United States.
+The Santa Lucia Mountains rise almost directly from the Pacific, creating a coastal wall so steep that Highway 1 had to be carved into the cliff face when it was built in the 1930s — a feat of engineering that still feels barely credible when you're driving it. The result is 90 miles of coastline that is simultaneously one of America's most visited corridors and one of its most isolated, genuinely unlike anywhere else in the United States.
 
 Big Sur's accommodation scene is defined by properties that have embraced their setting rather than fought it. Post Ranch Inn sits on a ridgeline 1,200 feet above the ocean with tree houses built around living oaks and cliff edge infinity pools oriented toward the sunset. Ventana Big Sur, rebuilt after the 2016 Soberanes Fire, offers canvas glamping tents tucked into redwood forest above the coast. The Esalen Institute, famous since the 1960s as a center for humanistic psychology, maintains cliff-hanging hot springs open to overnight bathing guests. None of these are conventional hotels. All of them are experiences organized around a specific idea of what a place can offer.
 

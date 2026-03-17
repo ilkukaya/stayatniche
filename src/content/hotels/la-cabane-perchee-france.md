@@ -81,7 +81,7 @@ trending: true
 status: "published"
 publishedDate: 2025-01-15
 seo:
-  metaTitle: "La Cabane Perchée Review, Award-Winning Luxury Treehouses in the Dordogne, France"
+  metaTitle: "La Cabane Perchée Review, Luxury Treehouses in the Dordogne, France"
   metaDescription: "Glass floors, private hot tubs, and champagne breakfasts in the treetops of medieval Dordogne Valley. La Cabane Perchée is Europe's most romantic treehouse hotel."
 ---
 

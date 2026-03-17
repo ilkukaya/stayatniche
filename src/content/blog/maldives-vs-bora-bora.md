@@ -25,7 +25,7 @@ The debate has been running for decades at travel agencies, on honeymoon forums,
 This comparison covers every dimension that matters: cost, logistics, marine life, romance, what to do when you're not in the water, family suitability, and the specific hotels that represent the best of each destination. By the end, you'll know which one is yours.
 
 
-**Maldives** offers total aquatic immersion on a flat, remote coral atoll with nothing but ocean in every direction. **Bora Bora** offers overwater bungalows with a dramatic volcanic mountain backdrop and more to do on land. Neither is better, they're just different holidays.
+**Maldives** offers total aquatic immersion on a flat, remote coral atoll with nothing but ocean in every direction. **Bora Bora** offers overwater bungalows with a dramatic volcanic mountain backdrop and more to do on land. Neither is better — they're just different holidays.
 
 
 Both destinations are expensive. Neither is a budget destination. But the price structures differ.
@@ -35,7 +35,7 @@ Both destinations are expensive. Neither is a budget destination. But the price 
 - **Luxury resorts:** $1,800–$5,000+/night (Soneva Jani, Six Senses Laamu, Four Seasons Kuda Huraa)
 - **Ultra-luxury:** $5,000–$15,000+/night (private island rentals, Soneva Fushi private residences)
 
-The Maldives pricing typically includes **full-board or all-inclusive** rates because there are no restaurants off-resort, you're on a private island. Factor this in: what looks expensive often includes three meals a day, snorkelling equipment, and sometimes water sports.
+The Maldives pricing typically includes **full-board or all-inclusive** rates because there are no restaurants off-resort — you're on a private island. Factor this in: what looks expensive often includes three meals a day, snorkelling equipment, and sometimes water sports.
 
 **Speedboat or seaplane transfers from Malé** add $200–$600 per person to your bill and are non-negotiable for most resorts. This is the hidden cost most first-timers miss.
 
@@ -53,7 +53,7 @@ Bora Bora pricing is typically **room-only or bed-and-breakfast.** You can take 
 - From Malé, reach your resort by:
   - **Speedboat:** 20–90 minutes, ~$80–$200pp, operates until early evening
   - **Domestic flight:** 30–45 minutes to an outer atoll airport, then speedboat
-  - **Seaplane:** The most dramatic arrival you can have anywhere in the world. Turquoise atolls below you, then a water landing beside your jetty. ~$300–$600pp return. Must arrive at Malé in daylight, a critical timing constraint.
+  - **Seaplane:** The most dramatic arrival you can have anywhere in the world. Turquoise atolls below you, then a water landing beside your jetty. ~$300–$600pp return. Must arrive at Malé in daylight — a critical timing constraint.
 
 The seaplane window is non-negotiable: seaplanes only fly in daylight, typically 6am–4pm. If your international flight lands late, you spend the night in Malé and transfer the next morning. Plan flights accordingly.
 
@@ -61,7 +61,7 @@ The seaplane window is non-negotiable: seaplanes only fly in daylight, typically
 - From Papeete, take **Air Tahiti** to Bora Bora Airport (BOB): ~50 minutes on a small propeller aircraft
 - From the airport (on a small motu), take a **boat shuttle** to your resort or Vaitape, 10–20 minutes
 
-The Air Tahiti leg is often the sticking point. Flights from Papeete to Bora Bora are limited (typically 3–5 per day), fill quickly, and the small aircraft mean luggage restrictions. From the US West Coast, the routing is relatively straightforward. From Europe, it involves two long haul legs plus the inter-island hop, a longer journey than to the Maldives for most European travellers.
+The Air Tahiti leg is often the sticking point. Flights from Papeete to Bora Bora are limited (typically 3–5 per day), fill quickly, and the small aircraft mean luggage restrictions. From the US West Coast, the routing is relatively straightforward. From Europe, it involves two long haul legs plus the inter-island hop — a longer journey than to the Maldives for most European travellers.
 
 **Verdict on getting there:** The Maldives has more direct international flight options and the seaplane transfer is an experience in itself. Bora Bora's routing is more complex, especially from Europe, but Papeete itself is worth an extra night if you have time.
 
@@ -75,7 +75,7 @@ The Maldives sits in the Indian Ocean on one of the world's most productive mari
 - **Bioluminescence** on certain beaches (particularly Vaadhoo Island)
 - **Coral:** Variable, significant bleaching damage from 1998 and subsequent events, but recovering strongly in many atolls
 
-The Maldives has **house reefs**, coral reefs directly accessible from your bungalow steps or resort beach. Strap on a mask, step off the jetty, and you're snorkelling immediately. This is the Maldives' killer feature.
+The Maldives has **house reefs** — coral reefs directly accessible from your bungalow steps or resort beach. Strap on a mask, step off the jetty, and you're snorkelling immediately. This is the Maldives' killer feature.
 
 Bora Bora's lagoon is world-famous for its colour and clarity, but it's a **protected lagoon** rather than open ocean, meaning different (less varied) marine life:
 
@@ -103,7 +103,7 @@ Bora Bora's overwater bungalows are romantic by any standard, but the setting is
 
 Overwater bungalow quality in Bora Bora is very high at the top properties (Four Seasons, St Regis, Conrad). The **glass-floor coffee tables** over the lagoon are a Bora Bora signature. The mountain backdrop in your photos looks more dramatic than the flat Maldivian horizon.
 
-**Verdict on romance:** The Maldives wins on pure privacy and isolation. Bora Bora wins on **visual drama**, the mountain backdrop is simply more photogenic.
+**Verdict on romance:** The Maldives wins on pure privacy and isolation. Bora Bora wins on **visual drama** — the mountain backdrop is simply more photogenic.
 
 
 - **Best time:** November–April (dry season, north-east monsoon)
@@ -155,7 +155,7 @@ If you are someone who gets restless after two days lying still, the Maldives ca
 
 **Six Senses Laamu** (Laamu Atoll), Among the most sustainably run resorts in the Maldives. Strong environmental credentials, extraordinary marine programme, remote location. From $1,200–$3,000/night.
 
-**JOALI Being** (Raa Atoll), The newest entrant in the ultra-luxury wellness space. hands-on wellbeing programme, impressive design, exceptional service. From $2,000–$5,000/night.
+**JOALI Being** (Raa Atoll), The newest entrant in the ultra-luxury wellness space. Hands-on wellbeing programme, impressive design, exceptional service. From $2,000–$5,000/night.
 
 **Baros Maldives** (North Malé Atoll): Excellent value by Maldivian luxury standards, beautiful house reef, extremely accessible location (20-minute speedboat from Malé). From $600–$1,200/night.
 
@@ -190,7 +190,7 @@ Both are extraordinary. Neither will disappoint if you've matched the destinatio
 They are broadly comparable at the luxury end, with both reaching $3,000–$5,000+/night for top-tier overwater villas. The Maldives often includes full-board (as there's nowhere else to eat on a private island), while Bora Bora pricing is more commonly room-only. When total trip cost is calculated, including transfers, meals, and activities, the destinations are close in price. Budget slightly more for Maldives transfer costs (especially seaplane).
 
 **Do you need to go to both, or is one enough?**
-Most people find one trip satisfying for years. If you do both, do the Maldives first for the pure water experience, then Bora Bora for the scenic and land element, the contrast will feel complementary rather than repetitive.
+Most people find one trip satisfying for years. If you do both, do the Maldives first for the pure water experience, then Bora Bora for the scenic and land element — the contrast will feel complementary rather than repetitive.
 
 **What is the best time of year to visit Bora Bora?**
 May through October is the dry season, the best weather window. This period also overlaps with humpback whale season (July–November), making July–October the optimal window for both weather and wildlife.

@@ -68,7 +68,7 @@ The architecture uses local stone, reclaimed wood, and thatch in a contemporary 
 
 Alila Villas Uluwatu is one of the great architectural hotels of Asia: 65 villas and a clifftop pool complex by WOHA Architects, positioned on the limestone escarpment of the Bukit Peninsula with the Indian Ocean visible in every direction. The design is rigorous: low, horizontal, and minimal, using the same limestone from which the cliff is formed as the primary building material.
 
-The villas are large, private, and impeccably finished. Each has an outdoor terrace and private pool, but Alila's communal spaces, including the clifftop Temple Bar, the Wave Pool at the cliff edge, and the beach club 100 metres below accessible by lift through the limestone, are equally central to the experience. The sunsets here are genuinely among Bali's best.
+The villas are large, private, and impeccably finished. Each has an outdoor terrace and private pool, but Alila's communal spaces, including the clifftop Temple Bar, the Wave Pool at the cliff edge, and the beach club 100 metres below accessible by lift through the limestone, are equally central to the experience. The sunsets here are consistently among Bali's best.
 
 **Price range:** Pool Villas from $700/night; One-Bedroom Cliff Villas from $1,000/night
 **Restaurant:** Cire Restaurant's clifftop position and contemporary Asian menu make it one of the south's finest dining venues
