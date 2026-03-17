@@ -59,15 +59,12 @@ seo:
   metaDescription: "Sleep 3 metres below the Arabian Gulf in Dubai's extraordinary Floating Seahorse villas, semi-submerged luxury on private artificial islands with rooftop sundeck."
 ---
 
-Dubai has never done anything at half measures, and The Floating Seahorse is quintessentially Dubai in its audacity. These semi-submerged villas sit on The World Islands, a artificial archipelago shaped like a world map, and descend three metres below the surface of the Arabian Gulf.
+Dubai has never done restraint particularly well, and The Floating Seahorse is entirely in keeping with that tradition. These semi-submerged villas sit on The World Islands — an artificial archipelago in the shape of a world map — and descend three metres below the surface of the Arabian Gulf.
 
+The upper levels are familiar luxury: rooftop sundeck, overwater hammock, a living room with sea views on all sides. Descend the spiral staircase and the register changes. The bedroom sits fully submerged, ringed by panoramic windows through which the residents of your own coral reef are continuously visible.
 
-The upper levels are familiar luxury: rooftop sundeck, overwater hammock, living room with sea views. But descend the spiral staircase and you enter another realm entirely. Your bedroom sits fully submerged, ringed by panoramic windows through which you can watch the fish population of your own artificial coral reef.
+Each villa was fitted with a coral garden at the seabed level at the time of construction. The reefs have since matured into functioning ecosystems. Angelfish and parrotfish work the coral during the day; the occasional reef shark passes at a polite distance. The fauna is not as dense as a Maldivian lagoon, but the fact that it exists at all — cultivated beneath a floating villa off an artificial island off a desert city — says something specific about how far human ambition and the right marine conditions can stretch.
 
-Each villa has a coral garden installed at the seabed level, planted at the time of construction. Within a few years, the reefs have matured into living ecosystems: angelfish, parrotfish, and occasional reef sharks patrol the neighbourhood while you sleep.
+At night the rooftop deck becomes one of the more theatrical outdoor spaces in the emirate. The Burj Khalifa's light show is visible on the horizon, the rest of Dubai's illuminated outline spread across the water in both directions. Out here, the only sound is the Gulf water against the hull. The city's energy registers only as a very distant hum.
 
-
-At night, the above-water deck becomes one of the most dramatic settings in the emirate. Dubai's skyline blazes on the horizon, the Burj Khalifa's light show visible from your hammock, the city's relentless energy audible only as a distant hum. Out here, the only sound is the gentle lapping of Arabian Gulf water against your hull.
-
-
-The Floating Seahorse is accessible by private speedboat only. Owner Kleindienst Group provides boat transfers and a dedicated concierge. Private chef service can be arranged in advance.
+The Floating Seahorse is reached by private speedboat only. Kleindienst Group provides transfers and a dedicated concierge; a private chef can be arranged ahead of arrival.

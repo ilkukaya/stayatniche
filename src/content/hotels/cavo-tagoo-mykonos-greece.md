@@ -3,7 +3,7 @@ name: "Cavo Tagoo Mykonos"
 category: cliffside-hotels
 destination: "Mykonos Town, Mykonos"
 country: "Greece"
-description: "Iconic cliffside boutique hotel carved into the volcanic rock above Mykonos Town, featuring cave-style suites and the famous champagne pool overlooking the Aegean Sea. The definitive expression of Cycladic luxury, beloved by architects, designers, and discerning travellers worldwide."
+description: "Rooms cut from volcanic cliff above Mykonos Town's old harbour, their irregular walls following the rock's own geometry rather than any rectangular plan. The champagne pool — a raised basin cantilevered toward the Aegean — has become one of Greece's most recognized images, though sitting in it on a late afternoon with Moët cooling in your hand is better than any photograph suggests."
 coverImage: /images/hotels/cavo-tagoo-mykonos-greece.jpg
 gallery:
   - /images/hotels/cavo-tagoo-mykonos-greece-2.jpg

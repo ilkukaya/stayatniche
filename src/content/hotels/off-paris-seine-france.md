@@ -3,7 +3,7 @@ name: "OFF Paris Seine"
 category: floating-hotels
 destination: "Paris, Île-de-France"
 country: "France"
-description: "Paris's first floating hotel, moored on the Seine between Notre-Dame and the Bibliothèque Nationale, offering contemporary river rooms that provide an entirely new perspective on the world's most visited city. Architecture-forward design meets the romance of life on the river in the heart of the French capital."
+description: "Paris's only floating hotel, moored between the fifth and thirteenth arrondissements with Notre-Dame upstream and the Bibliothèque Nationale downstream — rooms face the river directly, giving a view of the city that most Parisians only get from a passing bateau-mouche."
 coverImage: /images/hotels/off-paris-seine-france.jpg
 gallery:
   - /images/hotels/off-paris-seine-france-2.jpg

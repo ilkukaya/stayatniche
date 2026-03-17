@@ -21,17 +21,17 @@ seo:
   metaDescription: "Discover the world's most romantic and extraordinary hotels for couples. From Maldives overwater villas to Arctic bubble domes, find the perfect romantic escape."
 ---
 
-Rose petals at turndown don't hurt, but they're not what makes a hotel romantic. What works is simpler: accommodation that removes the ordinary world and puts two people in an extraordinary place, together. The best romantic hotels do this through location and immersion, an overwater villa where no other structures are visible, a glass igloo with the aurora overhead, a castle with a thousand years of weather in its walls.
+Rose petals at turndown don't hurt, but they're not what makes a hotel romantic. What works is simpler: accommodation that removes the ordinary world and puts two people in an extraordinary place, together. The best romantic hotels do this through location and immersion — an overwater villa where no other structures are visible, a glass igloo with the aurora overhead, a castle with a thousand years of weather in its walls.
 
-This guide covers the best of these stays by occasion and style, the definitive Maldives honeymoon, the Arctic aurora proposal, the safari anniversary, the castle that costs less than the clichés suggest.
+This guide covers the best of these stays by occasion and style: the definitive Maldives honeymoon, the Arctic aurora proposal, the safari anniversary, the castle that costs less than the clichés suggest.
 
 ---
 
 
-The overwater bungalow category has dominated the visual language of romantic travel for twenty years, and with reason. The combination of turquoise lagoon, private deck above the water, and tropical light at sunrise and sunset creates a setting that's genuinely difficult to replicate on land. But not all overwater rooms are equal, choosing the right property matters considerably.
+The overwater bungalow category has dominated the visual language of romantic travel for twenty years, and with reason. The combination of turquoise lagoon, private deck above the water, and tropical light at sunrise and sunset creates a setting that's genuinely difficult to replicate on land. But not all overwater rooms are equal — choosing the right property matters considerably.
 
 
-Gili Lankanfushi is built around a single operating principle: give each couple a completely private overwater villa with an unusually high ratio of personal service. The "no news, no shoes" policy actively discourages phones during the stay, and the effect on the experience is real, you notice the difference.
+Gili Lankanfushi is built around a single operating principle: give each couple a completely private overwater villa with an unusually high ratio of personal service. The "no news, no shoes" policy actively discourages phones during the stay, and the effect on the experience is real. You notice the difference.
 
 The Crusoe Residences are what to book: multi-room overwater villas with private pool, bedroom, and living areas, isolated at the end of their own jetty over the lagoon. The villa host is available 24 hours; manta rays and sea turtles pass regularly through the water below.
 
@@ -48,7 +48,7 @@ If pure relaxation isn't enough, watching the northern lights from a glass-roofe
 
 Kakslauttanen in Finnish Lapland at 69°N latitude is the original and still the benchmark. The resort's aurora prediction service and wake-up calls mean you won't sleep through the lights; reindeer and husky activities during the day round out the Arctic experience properly.
 
-**Romantic tip:** Upgrade to the Luxury Glass Igloo category, larger interior, better finishes, and a slightly more separated position from neighbouring igloos.
+**Romantic tip:** Upgrade to the Luxury Glass Igloo category — larger interior, better finishes, and a slightly more separated position from neighbouring igloos.
 
 **Price range:** Glass igloos from €400/night; Luxury Glass Igloos from €700/night
 **Best for:** Proposals, milestone anniversaries, anyone who wants something that feels genuinely unlike ordinary travel
@@ -58,10 +58,10 @@ See our full [bubble hotels and stargazing guide](/blog/bubble-hotels-stargazing
 ---
 
 
-Castle hotels work for couples who want history and atmosphere rather than tropical heat. A purpose built hotel can't manufacture what a medieval castle with 800 years of continuous occupation gives you for free: the weight of the building, the quality of the silence, the sense of time that has nothing to do with you.
+Castle hotels work for couples who want history and atmosphere rather than tropical heat. A purpose-built hotel can't manufacture what a medieval castle with 800 years of continuous occupation gives you for free: the weight of the building, the quality of the silence, the sense of time that has nothing to do with you.
 
 
-Ashford Castle, on 350 acres on the shores of Lough Corrib in County Mayo, dates to 1228 and has been a hotel since 1939. Ireland's finest, by most reckonings. The estate provides days of activity, horse riding, falconry, clay shooting, fishing, boating, and the dining is serious.
+Ashford Castle, on 350 acres on the shores of Lough Corrib in County Mayo, dates to 1228 and has been a hotel since 1939. Ireland's finest, by most reckonings. The estate provides days of activity — horse riding, falconry, clay shooting, fishing, boating — and the dining is serious.
 
 **Romantic tip:** Request a lakeside room for views across Lough Corrib at sunset; book the Cullen's at the Cottage experience for a private dinner in a cottage on the estate grounds.
 
@@ -79,17 +79,17 @@ Explore the full [castle hotels collection](/categories/castle-hotels) for more 
 ---
 
 
-A safari honeymoon works differently from a beach holiday. The bush at night, fire-lit, alive with sound, the Milky Way overhead in a darkness that urban life makes impossible, creates intimacy that a pool villa in the Maldives doesn't approach. And two game drives a day give you hours of shared focus on something genuinely astonishing.
+A safari honeymoon works differently from a beach holiday. The bush at night — fire-lit, alive with sound, the Milky Way overhead in a darkness that urban life makes impossible — creates intimacy that a pool villa in the Maldives doesn't approach. And two game drives a day give you hours of shared focus on something genuinely astonishing.
 
 
-Singita Boulders in South Africa's Sabi Sand private reserve: twelve suites in a 45,000-acre private concession, private pool and sun deck on each suite, and the Sabi Sand's legendary leopard density for game viewing. The private bush dinner, a table set under stars in the concession, your own guide and ranger, no other guests, is worth requesting specifically.
+Singita Boulders in South Africa's Sabi Sand private reserve: twelve suites in a 45,000-acre private concession, private pool and sun deck on each suite, and the Sabi Sand's legendary leopard density for game viewing. The private bush dinner — a table set under stars in the concession, your own guide and ranger, no other guests — is worth requesting specifically.
 
 **Price range:** From $1,900/person/night (all-inclusive)
 **Best for:** Safari honeymooners, couples who want maximum luxury alongside serious wildlife
 
 **Angama Mara: Masai Mara, Kenya**
 
-Angama sits 1,800 feet above the Mara plains on the Oloololo Escarpment, with views across the triangle to the Tanzanian hills. The light at sunrise and sunset at this elevation is extraordinary, photographers who've been on safari for decades say so. The Out of Africa breakfast picnic, staged on a specific kopje where much of the film was shot, is set with white linen and champagne and is as good as it sounds.
+Angama sits 1,800 feet above the Mara plains on the Oloololo Escarpment, with views across the triangle to the Tanzanian hills. The light at sunrise and sunset at this elevation is something photographers who've been on safari for decades still comment on. The Out of Africa breakfast picnic — staged on a specific kopje where much of the film was shot, set with white linen and champagne — is as good as it sounds.
 
 **Price range:** From $1,200/person/night (all-inclusive)
 **Best for:** Photography-focused couples; anyone who's read Beryl Markham or Karen Blixen
@@ -102,7 +102,7 @@ See our [Africa safari lodges guide](/blog/safari-lodges-africa-complete-guide) 
 Some hotels exist specifically to create the conditions for a proposal. The setting does significant work before you say anything.
 
 
-Necker Island in the British Virgin Islands, Richard Branson's private island, takes 30 guests on exclusive hire or runs Celebration Weeks when the island is shared with a small number of other guests. The combination of Caribbean natural beauty, private staff, beach bonfires, and sunset sailing means a proposal can be arranged in any format imaginable. The island's flexibility is the point.
+Necker Island in the British Virgin Islands — Richard Branson's private island — takes 30 guests on exclusive hire or runs Celebration Weeks when the island is shared with a small number of other guests. The combination of Caribbean natural beauty, private staff, beach bonfires, and sunset sailing means a proposal can be arranged in any format imaginable. The island's flexibility is the point.
 
 **Price range:** From $80,000/night for exclusive hire; Celebration week rates from $30,000/person/week
 **Best for:** Grand gestures, wedding proposals, significant milestone celebrations
@@ -114,7 +114,7 @@ The Muraka underwater villa at Conrad Maldives sits 5 metres below the Indian Oc
 **Best for:** Those who want the most unusual proposal setting on the planet
 
 
-Wadi Rum in Jordan costs a fraction of the above and does something different. Rose-red mountains, the silence of the desert, the Milky Way overhead without light pollution interference, and, from a good camp, a genuinely dramatic landscape at sunrise. Jordan's [desert camps](/categories/desert-camps) range from basic to seriously luxurious.
+Wadi Rum in Jordan costs a fraction of the above and does something different. Rose-red mountains, the silence of the desert, the Milky Way overhead without light pollution, and — from a good camp — a genuinely dramatic landscape at sunrise. Jordan's [desert camps](/categories/desert-camps) range from basic to seriously luxurious.
 
 **Price range:** From $150/night
 **Best for:** Adventure-oriented couples, proposals that prioritise natural drama over expense
@@ -126,7 +126,7 @@ Wadi Rum in Jordan costs a fraction of the above and does something different. R
 A treehouse suite elevated above a forest floor, with birds at eye level and wind in the canopy as your soundtrack, is one of the most naturally romantic room types available. See our [treehouse hotels guide](/blog/treehouse-hotels-guide) for the best worldwide.
 
 
-Cappadocia's cave suites, private terraces overlooking the fairy chimneys at sunset, and Matera's sassi hotels, carved into ravine walls that have housed humans for 9,000 years, offer cave accommodation at the highest level. The quality of enclosure in ancient stone has its own weight. See our [cave hotels guide](/blog/cave-hotels-complete-guide) for details.
+Cappadocia's cave suites — private terraces overlooking the fairy chimneys at sunset — and Matera's sassi hotels, carved into ravine walls that have housed humans for 9,000 years, offer cave accommodation at the highest level. The quality of enclosure in ancient stone has its own weight. See our [cave hotels guide](/blog/cave-hotels-complete-guide) for details.
 
 
 Santorini caldera suites are the default image of European romantic travel for a reason: infinity pool, volcanic caldera view, the most photographed sunset in the Mediterranean. The Amalfi Coast adds better food and cultural complexity to a comparable level of drama. See our [cliffside hotels guide](/blog/cliffside-hotels-world-guide) for both.
@@ -138,10 +138,10 @@ Sweden's ICEHOTEL in Jukkasjärvi is built new each winter from ice harvested fr
 
 
 
-Valentine's Day, Christmas week, New Year's Eve, and peak summer at destinations like Santorini or Bora Bora book out fast. For the most sought after properties, six to twelve months ahead is not excessive, and for Gili Lankanfushi Crusoe Residences or Kakslauttanen's premium igloos in winter, it's often necessary.
+Valentine's Day, Christmas week, New Year's Eve, and peak summer at destinations like Santorini or Bora Bora book out fast. For the most sought after properties, six to twelve months ahead is not excessive — and for Gili Lankanfushi Crusoe Residences or Kakslauttanen's premium igloos in winter, it's often necessary.
 
 
-Tell the property what you're celebrating. Honeymoon, anniversary, proposal, the best hotels will respond with upgrades where available, welcome amenities, and specific table or room assignments that aren't automatic. They're in the business of memorable experiences; give them the information they need to deliver.
+Tell the property what you're celebrating. Honeymoon, anniversary, proposal — the best hotels will respond with upgrades where available, welcome amenities, and specific table or room assignments that aren't automatic. They're in the business of memorable experiences; give them the information they need to deliver.
 
 
 Small castle hotels, private island resorts, and exclusive-use desert camps can often be hired entirely for a fixed premium. For proposals or significant anniversaries, private hire removes the background noise of other guests entirely and allows a level of personalisation that changes the experience substantially.

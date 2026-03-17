@@ -4,7 +4,7 @@ category: "cave-hotels"
 destination: "Ayvali, Cappadocia"
 country: "Turkey"
 continent: "Asia"
-description: "Luxuriously restored Byzantine monastery cave rooms in the quieter Ayvali valley of Cappadocia, away from tourist crowds, set within a rock-cut monastery complex dating to the 6th century AD."
+description: "Gamirasu occupies a genuine 6th-century Byzantine rock-cut monastery in the quieter Ayvali valley, thirty minutes from Göreme, where rooms still carry the carved niches and vaulted proportions of their original design. Balloon launches from the fields immediately below the hotel, a wine cellar stocked with volcanic-soil Cappadocian bottles, and a Turkish breakfast served on the terrace as the morning light moves across the fairy chimneys complete a stay that feels found rather than packaged."
 coverImage: "/images/hotels/gamirasu-cave-turkey.jpg"
 gallery:
   - "/images/hotels/gamirasu-cave-turkey-1.jpg"
@@ -84,9 +84,9 @@ seo:
   metaDescription: "Stay in a 6th-century Byzantine monastery in Cappadocia's quiet Ayvali valley. Gamirasu Cave Hotel offers hot air balloon views, original frescoes, and authentic Turkish hospitality."
 ---
 
-Cappadocia has become one of Turkey's most visited destinations, and with good reason: the landscape of volcanic tuff formations, fairy chimneys, and rock-cut valleys is among the most visually arresting on earth. But the popularity of Göreme and Üçhisar means that the cave hotel experience can feel, in high season, like sharing something private with a very large crowd. Gamirasu offers a different proposition entirely.
+Cappadocia has become one of Turkey's most visited destinations, and with good reason: the landscape of volcanic tuff formations, fairy chimneys, and rock-cut valleys is among the most visually arresting on earth. But the popularity of Göreme and Üçhisar means that the cave hotel experience can feel, in high season, like sharing something private with a very large crowd. Gamirasu offers an entirely different proposition.
 
-Set in the Ayvali valley, a quieter fold of Cappadocian landscape about thirty minutes from Göreme, Gamirasu occupies a genuine Byzantine rock-cut monastery complex. The monks who carved these rooms from the soft volcanic tuff began their work in the 6th century AD, and the site remained a functioning religious community for over a thousand years. The carved niches, the vaulted ceilings, the proportions of the rooms, all of these are the product of Byzantine design sensibility, not a modern architect's interpretation of it.
+Set in the Ayvali valley — a quieter fold of Cappadocian landscape about thirty minutes from Göreme — Gamirasu occupies a genuine Byzantine rock-cut monastery complex. The monks who carved these rooms from the soft volcanic tuff began their work in the 6th century AD, and the site remained a functioning religious community for over a thousand years. The carved niches, the vaulted ceilings, the proportions of the rooms — all of it is the product of Byzantine design sensibility, not a modern architect's interpretation of it.
 
 **The Rooms**
 
