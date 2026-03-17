@@ -3,7 +3,7 @@ name: "Atlantis Paradise Island"
 category: underwater-rooms
 destination: "Paradise Island, Nassau"
 country: "Bahamas"
-description: "Iconic mega-resort on Nassau's Paradise Island, home to the Atlantis Aquaventure waterpark and the extraordinary Dig, an underwater aquarium experience woven through the resort's corridors and guest suites. Some rooms feature floor-to-ceiling underwater viewing panels overlooking the massive Atlantis marine habitat."
+description: "A large resort complex on Nassau's Paradise Island built around The Dig, an 11-million-litre marine habitat system woven through the resort's corridors and suites, holding sand tiger sharks, sawfish, and stingrays. Aquaventure, the resort's 141-acre waterpark, includes 20-plus slides and 11 pools, making it the Caribbean's most complete family water complex."
 coverImage: /images/hotels/atlantis-aquaventure-bahamas.jpg
 gallery:
   - /images/hotels/atlantis-aquaventure-bahamas-2.jpg
