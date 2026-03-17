@@ -4,7 +4,7 @@ category: "treehouse-hotels"
 destination: "Huilo-Huilo Biological Reserve"
 country: "Chile"
 continent: "South America"
-description: "A remarkable treehouse hotel built directly into ancient Nothofagus trees deep inside a private Patagonian rainforest reserve, where rushing waterfalls, volcanic lakes, and endemic wildlife surround you on all sides."
+description: "A treehouse hotel built around living ancient Nothofagus trees inside the 100,000-hectare Huilo-Huilo Biological Reserve, where the world's smallest deer graze beneath your window and thermal pools fed by volcanic hot springs sit open to the forest canopy. The Huilo-Huilo waterfall is half a kilometre from the front door."
 coverImage: "/images/hotels/nothofagus-hotel-chile.jpg"
 gallery:
   - "/images/hotels/nothofagus-hotel-chile-1.jpg"

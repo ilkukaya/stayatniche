@@ -3,7 +3,7 @@ name: "Cuevas Al Jatib"
 category: cave-hotels
 destination: "Benalauría, Málaga, Andalusia"
 country: "Spain"
-description: "Ancient Moorish cave dwellings carved into the white cliffs of the Serranía de Ronda, lovingly restored into intimate boutique suites that honour eight centuries of Andalusian cave-dwelling tradition. Each cueva retains its original rock walls and vaulted ceilings while offering every modern comfort."
+description: "In the village of Benalauría, perched above 700 metres in the Genal Valley, Cuevas Al Jatib has restored a cluster of Moorish cave dwellings — cut directly into the limestone cliff — into cave suites whose rough rock arches and curved ceilings maintain 18°C year-round. The breakfast terrace looks out over chestnut forest dropping away to the blue shadow of the Sierra Bermeja, and Ronda is thirty kilometres down the valley road."
 coverImage: /images/hotels/cuevas-al-jatib-spain.jpg
 gallery:
   - /images/hotels/cuevas-al-jatib-spain-2.jpg

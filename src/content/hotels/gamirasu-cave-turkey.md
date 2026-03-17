@@ -90,18 +90,18 @@ Set in the Ayvali valley — a quieter fold of Cappadocian landscape about thirt
 
 **The Rooms**
 
-Walking into a Gamirasu room is to walk into something genuinely old. The walls are pale tuff stone, cool and slightly rough to the touch. Niche recesses, originally used for oil lamps and religious icons, punctuate the walls, some still bearing faint traces of the frescoes that once covered the entire monastery. The sense of layered time is palpable: the Byzantine stonework, then the Ottoman modifications visible in certain archways, then the discreet modern plumbing and electrical fittings threaded carefully through it all.
+Walking into a Gamirasu room is to walk into something genuinely old. The walls are pale tuff stone, cool and slightly rough to the touch. Niche recesses — originally used for oil lamps and religious icons — punctuate the walls, some still bearing faint traces of the frescoes that once covered the entire monastery. The sense of layered time is palpable: Byzantine stonework, Ottoman modifications visible in certain archways, and the discreet modern plumbing and electrical fittings threaded carefully through it all.
 
-Beds are comfortable and dressed in excellent linens. Bathrooms incorporate traditional Turkish hammam elements: warm stone surfaces, good water pressure, and the particular luxury of a steam shower after a morning balloon flight. Rooms vary considerably in size and character, so it is worth corresponding with the hotel about which suits your preferences before booking.
+Beds are comfortable and dressed in good linens. Bathrooms incorporate traditional Turkish hammam elements: warm stone surfaces, good water pressure, and the particular satisfaction of a steam shower after a morning balloon flight. Rooms vary considerably in size and character, so it is worth corresponding with the hotel about which suits your preferences before booking.
 
 **Hot Air Balloons**
 
-Cappadocia's hot air balloon industry is one of Turkey's great tourist experiences, and Gamirasu's location in the Ayvali valley puts guests directly within the flight zone. Most mornings between April and November, dozens of balloons rise from the surrounding landscape at dawn: visible from the hotel terrace in their full, multi-coloured flotilla. Gamirasu can arrange balloon flights through local operators, and the takeoff from the fields immediately below the hotel property is as cinematic a way to start a morning as exists anywhere.
+Gamirasu's location in the Ayvali valley puts guests directly within the balloon flight zone. Most mornings between April and November, dozens of balloons rise from the surrounding landscape at dawn, visible from the hotel terrace in their full, multi-coloured flotilla. The hotel can arrange flights through local operators, and the takeoff from the fields directly below the property is as cinematic a way to start a morning as Cappadocia offers.
 
 **Food and Drink**
 
-The Turkish breakfast here is serious. Served on the terrace as the morning light moves across the fairy chimneys, it involves an assembly of small plates: aged cheeses, cured olives, hand-made jams from local fruit, eggs prepared to order, warm bread from the village bakery. It is the kind of breakfast that makes checking out feel like an interruption.
+The Turkish breakfast here is serious. Served on the terrace as the morning light moves across the fairy chimneys, it arrives as an assembly of small plates: aged cheeses, cured olives, hand-made jams from local fruit, eggs prepared to order, warm bread from the village bakery. It is the kind of breakfast that makes checking out feel like an interruption.
 
-The wine cellar specialises in Cappadocian wines, produced from grapes grown in the volcanic soil of the region, these are among Turkey's most distinctive and underrated bottles. The Öküzgözü and Boğazkere varietals from nearby wineries are worth exploring over dinner.
+The wine cellar specialises in Cappadocian bottles — produced from grapes grown in the volcanic soil of the region, these are among Turkey's most distinctive and underrated wines. The Öküzgözü and Boğazkere varietals from nearby wineries are worth exploring over dinner.
 
-Gamirasu appeals most strongly to travelers who want their Cappadocia experience to feel found rather than packaged. The valley is quiet, the history is genuine, and the hotel has been run with the care that only family ownership tends to produce.
+Gamirasu appeals most to travellers who want their Cappadocia experience to feel found rather than packaged. The valley is quiet, the history is genuine, and the hotel has been run with the attention that family ownership tends to produce.
