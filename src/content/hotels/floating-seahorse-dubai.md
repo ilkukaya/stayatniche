@@ -4,7 +4,7 @@ category: floating-hotels
 destination: The World Islands, Dubai
 country: UAE
 continent: Asia
-description: Dubai's most audacious accommodation concept, semi-submerged floating villas on private artificial islands, with bedrooms that descend three metres below the Arabian Gulf surface.
+description: "Semi-submerged floating villas on The World Islands archipelago, each with a bedroom 3 metres below the Arabian Gulf surface and a personal coral reef installed at construction — with Dubai's skyline visible from the rooftop deck at night."
 coverImage: /images/hotels/floating-seahorse-dubai.jpg
 priceRange: "$2,000 - $5,000"
 priceIndicator: 5
