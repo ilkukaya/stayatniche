@@ -3,7 +3,7 @@ name: Florida Keys
 type: region
 continent: north-america
 country: USA
-description: "The Florida Keys are a 120-mile arc of coral islands connected by the Overseas Highway, the only road in America that runs over open ocean for miles at a stretch. They offer the most accessible tropical reef diving in the United States, a laid-back culture that genuinely earns the word, and accommodation ranging from barefoot fishing camps to design-forward boutique properties that have made Key West one of America's most distinctive small cities."
+description: "The Florida Keys are a 120-mile arc of coral islands connected by the Overseas Highway, the only road in America that runs over open ocean for miles at a stretch. They offer the most accessible tropical reef diving in the United States, a laid-back culture that genuinely earns the word, and accommodation ranging from barefoot fishing camps to thoughtfully designed boutique properties that have made Key West one of America's most distinctive small cities."
 coverImage: /images/destinations/florida-keys.jpg
 essentials:
   currency: "USD (US Dollar)"

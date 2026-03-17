@@ -15,10 +15,10 @@ seo:
   metaDescription: "Stay on the water in floating hotels and luxury houseboats worldwide. Maldives, Bora Bora, Ha Long Bay, Norway fjords, discover aquatic accommodation unlike any other."
 ---
 
-Water reflects light differently than any surface on land. It bounces, shifts with the sun's angle, and fills a room with luminous, ever-changing energy that no land-based property replicates. That's the baseline case for floating hotels, and it's a convincing one before you've even considered the view.
+Water reflects light differently than any surface on land. It bounces, shifts with the sun's angle, and fills a room with luminous, ever-changing energy that no land-based property can replicate. That's the baseline case for floating hotels, and it's a convincing one before you've even considered the view.
 
 
-The floating hotel category spans a wider range than the name suggests. At the most engineered end sit purpose-built overwater structures in the Maldives and French Polynesia: architectural platforms anchored above coral lagoons, with the water simultaneously supporting and surrounding them. These are not boats. They are buildings that chose to sit on water rather than land, and the distinction shapes the experience entirely.
+The floating hotel category spans a wider range than the name suggests. At the most engineered end sit purpose built overwater structures in the Maldives and French Polynesia: architectural platforms anchored above coral lagoons, with the water simultaneously supporting and surrounding them. These are not boats. They are buildings that chose to sit on water rather than land, and the distinction shapes the experience entirely.
 
 True floating structures, vessels or platforms designed to move but typically moored in permanent or semi-permanent positions, represent a different interpretation. Norway's Havila Kystruten coastal ships double as floating hotels along the fjord route. Vietnam's Ha Long Bay is navigated by traditional wooden junk vessels that moor for the night among limestone karsts, guests sleeping in teak-panelled cabins as the rock formations loom overhead in darkness.
 
@@ -27,7 +27,7 @@ Converted boats, including Dutch canal barges, Southeast Asian river craft, and 
 European city houseboats are the most accessible interpretation: permanently moored vessels on Amsterdam's canals, Paris's Seine quays, and Stockholm's waterways, offering city hotel convenience with the particular life-on-water perspective that no land address provides.
 
 
-Modern floating hotel construction has evolved considerably from the simple pontoon-and-bungalow model. Contemporary purpose-built floating structures use buoyancy systems engineered for minimal environmental footprint: closed-loop water systems that treat and recycle, solar and wind energy integration, and hull designs that minimise wake disturbance to surrounding marine ecosystems.
+Modern floating hotel construction has evolved considerably from the simple pontoon-and-bungalow model. Contemporary purpose built floating structures use buoyancy systems engineered for minimal environmental footprint: closed-loop water systems that treat and recycle, solar and wind energy integration, and hull designs that minimise wake disturbance to surrounding marine ecosystems.
 
 The Maldives has led innovation in sustainable floating architecture as land scarcity has intensified pressure to develop above the lagoon rather than on the island. Several major resort groups now operate overwater and floating accommodation meeting international sustainability certification standards, with waste management, energy, and water systems designed to function with minimal impact on the reef ecosystems below.
 
@@ -36,10 +36,10 @@ The **Maldives** leads globally for luxury floating accommodation, with its atol
 
 **Bora Bora, French Polynesia** provides the romantic archetype: overwater bungalows above a lagoon of extraordinary colour, the volcanic peak of Mount Otemanu visible from every deck, the light quality in the Society Islands creating a golden softness that photographers have been chasing for decades.
 
-**Vietnam's Ha Long Bay** offers the junk-boat floating hotel experience in one of Southeast Asia's most spectacular natural settings: 1,600 limestone islands rising from emerald water, navigated by traditional wooden vessels that moor for the night in sheltered coves. **Cambodia's Mekong** and **Tonle Sap Lake** floating lodges place guests on rivers that function as arteries of daily life. **Norway's fjords** host a new generation of purpose-built floating architecture: glass-walled pods anchored in waters of extraordinary depth and clarity. **European river houseboats** in Amsterdam, Paris, and Copenhagen offer city access with a wholly different urban perspective.
+**Vietnam's Ha Long Bay** offers the junk-boat floating hotel experience in one of Southeast Asia's most spectacular natural settings: 1,600 limestone islands rising from emerald water, navigated by traditional wooden vessels that moor for the night in sheltered coves. **Cambodia's Mekong** and **Tonle Sap Lake** floating lodges place guests on rivers that function as arteries of daily life. **Norway's fjords** host a new generation of purpose built floating architecture: glass walled pods anchored in waters of extraordinary depth and clarity. **European river houseboats** in Amsterdam, Paris, and Copenhagen offer city access with a wholly different urban perspective.
 
 
-Motion sensitivity varies enormously between floating hotel types. Purpose-built overwater bungalows on protected lagoons in the Maldives offer virtually no perceptible movement. The water is so sheltered and the structures so stable that motion simply isn't a factor. Large river barges on sheltered waterways are similarly stable.
+Motion sensitivity varies enormously between floating hotel types. Purpose built overwater bungalows on protected lagoons in the Maldives offer virtually no perceptible movement. The water is so sheltered and the structures so stable that motion simply isn't a factor. Large river barges on sheltered waterways are similarly stable.
 
 Converted boats, smaller vessels, and properties on tidal or exposed anchorages can have meaningful movement, particularly in wind. If you have motion sensitivity, ask properties specifically about stability conditions during your intended travel period, as seasonal weather patterns affect this considerably.
 

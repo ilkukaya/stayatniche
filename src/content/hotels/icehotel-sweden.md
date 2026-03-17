@@ -29,7 +29,7 @@ amenities:
 bestFor:
   - Design and art lovers seeking a genuinely unique creative environment
   - Aurora hunters and winter wilderness adventurers
-  - Honeymoon and bucket-list couples
+  - Honeymoon and unmissable couples
   - Arctic experience enthusiasts
 prosAndCons:
   pros:
@@ -68,7 +68,7 @@ seo:
   metaDescription: "The world's first ice hotel, rebuilt from Torne River ice every winter since 1990. Art suites at -5°C, northern lights, and midnight sun. ICEHOTEL 365 from $500/night."
 ---
 
-Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal-clear ice that has no equal in the world for architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.
+Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal clear ice that has no equal in the world for architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.
 
 More than three decades later, ICEHOTEL remains in operation in Jukkasjärvi, a village of some 900 people on the Arctic Circle in Swedish Lapland, and it has never been more extraordinary than it is today.
 

@@ -22,7 +22,7 @@ amenities:
   - "GoldLeaf dome cars with upper observation level and lower dining section"
   - "SilverLeaf single-level dome cars with panoramic windows"
   - "All meals and snacks included in GoldLeaf Service"
-  - "Open-air viewing platforms at selected stops"
+  - "Outdoor viewing platforms at selected stops"
   - "Expert host commentary on history, geology, and wildlife"
   - "Onboard naturalist programming"
   - "Hotel accommodation overnight at Kamloops between journey days"
@@ -35,7 +35,7 @@ prosAndCons:
   pros:
     - "The glass dome cars provide views that cannot be experienced any other way"
     - "Daytime-only travel is a brilliant operating decision, nothing is missed"
-    - "The Fraser Canyon and mountain scenery are genuinely world-class"
+    - "The Fraser Canyon and mountain scenery are genuinely exceptional"
     - "Easy to combine with Banff, Jasper, and Vancouver itineraries"
   cons:
     - "The train does not run overnight, hotel stays are required at Kamloops, adding cost"

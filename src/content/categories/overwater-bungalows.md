@@ -15,26 +15,26 @@ seo:
   metaDescription: Discover the world's finest overwater bungalows in the Maldives, Bora Bora, and beyond. Sleep directly above tropical lagoons in the ultimate island luxury experience.
 ---
 
-The concept is simple and it works: a wooden villa extending over clear tropical water, a staircase descending directly into the lagoon, a private deck where the only decision is whether to watch the sunrise from the sunlounger or from the water below. First developed in French Polynesia in the late 1960s as a practical response to limited land on coral atolls, overwater bungalows have since become the most recognisable image in aspirational travel. The bucket-list status is earned.
+The concept is simple and it works: a wooden villa extending over clear tropical water, a staircase descending directly into the lagoon, a private deck where the only decision is whether to watch the sunrise from the sunlounger or from the water below. First developed in French Polynesia in the late 1960s as a practical response to limited land on coral atolls, overwater bungalows have since become the most recognisable image in aspirational travel. The status is earned.
 
-Most overwater bungalows in the Maldives are excellent. The gap is in house reef quality, some are spectacular, some are barely worth getting wet for. Research that before you book.
-
-
-The difference between an overwater bungalow and every other tropical accommodation is the continuous physical relationship with the water. You are not near the ocean: you are above it. The sound of water is constant. In still conditions, the glass floor panels reveal sandy bottom metres below; tropical fish navigate coral formations in plain sight from your living room. At night, submersible lights fitted beneath many properties attract plankton, which attracts small fish, creating a private marine display visible through the floor.
-
-The deck is where you spend most of your time. Private, extending over water on three sides, accessed directly from the bedroom, this is where mornings happen, afternoons pass, and sundowners get watched. Four steps down from the deck staircase puts you at swimming depth in water that has been warming in tropical sun all day. No beach to cross, no pool to reach.
+Most overwater bungalows in the Maldives are excellent. The gap is in house reef quality — some are spectacular, some are barely worth getting wet for. Research that before you book.
 
 
-Privacy is the main structural advantage. Overwater bungalows are self-contained units separated from their neighbours by water. The view from your deck contains no other human structure, just water, sky, and occasionally a distant reef break. For couples looking for a genuinely private setting, the format delivers.
+What separates an overwater bungalow from every other tropical accommodation is the continuous physical relationship with the water. You are not near the ocean: you are above it. The sound of water is constant. In still conditions, the glass floor panels reveal the sandy bottom metres below; tropical fish move through coral formations in plain sight from your living room. At night, submersible lights fitted beneath many properties attract plankton, which attracts small fish, creating a private marine display visible through the floor.
+
+The deck is where most of your time goes. Private, extending over water on three sides, accessed directly from the bedroom — this is where mornings happen, afternoons pass, and sundowners get watched. Four steps down the staircase puts you at swimming depth in water that has been warming in tropical sun all day. No beach to cross, no pool to reach.
+
+
+Privacy is the main structural advantage. Overwater bungalows are self-contained units separated from their neighbours by water. The view from your deck contains no other human structure — just water, sky, and occasionally a distant reef break. For couples after a genuinely private setting, the format delivers.
 
 The marine access is also hard to beat. Snorkelling from your own staircase means encountering reef life in its least disturbed state: no crowds, no boat noise, no artificial feeding. Hawksbill turtles, reef sharks, rays, and high fish diversity are regular companions at the best Maldivian and French Polynesian properties.
 
 
-The **Maldives** is the overwater bungalow capital. Spread across 26 atolls with 170-plus resorts, options run from entry-level overwater rooms at around $400 per night to ultra-luxury villas with private pools, butler service, and in-villa spa facilities at several thousand dollars. The atoll geography creates shallow, calm, clear lagoons enclosed by coral reefs, the conditions that make the overwater experience work best. November through April is the dry season.
+The **Maldives** is the overwater bungalow capital. Spread across 26 atolls with more than 170 resorts, options run from entry-level overwater rooms at around $400 per night to ultra-luxury villas with private pools, butler service, and in-villa spa facilities at several thousand dollars. The atoll geography creates shallow, calm, clear lagoons enclosed by coral reefs — the conditions that make the overwater experience work best. November through April is the dry season.
 
 **French Polynesia**, particularly Bora Bora with its volcanic peak backdrop, and the quieter atolls of Rangiroa and Fakarava, is the romantic ideal. The light quality in the Society Islands is unlike anywhere else: a golden softness that makes the already-beautiful lagoons appear luminous. **The Philippines**, **Fiji**, and **Thailand's** Koh Samui and Koh Lanta offer more accessible overwater options at lower price points without sacrificing the essential experience.
 
 
 Book four to six months ahead for peak season (December–April in the Maldives). Request a central or end-of-pier position rather than mid-pier for maximum privacy and unobstructed views. Many resorts provide snorkelling equipment; bring your own if mask fit matters to you.
 
-For the submerged counterpart to the overwater perspective, [underwater rooms](/categories/underwater-rooms) go the other direction entirely. [Floating hotels](/categories/floating-hotels) bring a similar water-immersed sensibility to river and city waterway settings.
+For the submerged counterpart to the overwater perspective, [underwater rooms](/categories/underwater-rooms) go the other direction entirely. [Floating hotels](/categories/floating-hotels) bring a similar relationship with water to river and city waterway settings.

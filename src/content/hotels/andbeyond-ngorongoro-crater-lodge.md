@@ -27,7 +27,7 @@ amenities:
   - "Forest walks on the crater rim"
   - "Helicopter excursions to remote Serengeti areas"
 bestFor:
-  - "Once-in-a-lifetime Africa experiences"
+  - "Once in a lifetime Africa experiences"
   - "First-time safari visitors wanting guaranteed Big Five access"
   - "Design and architecture enthusiasts"
   - "Honeymooners"
@@ -74,4 +74,4 @@ The Ngorongoro Crater is a 20-kilometre-wide volcanic caldera, 600 metres deep, 
 
 The game viewing is the crater's main argument, and it is a strong one. All of the Big Five are present every day on the crater floor. The Big Five checklist that elsewhere in Africa requires days of searching and considerable luck can be completed in a single morning here. Black rhino sightings, extended, unhurried views of one of Africa's most endangered animals, are routine. The lion prides on the open short-grass plains have been studied continuously for decades and are highly visible.
 
-The crater descents are shared with other operators, which means vehicles at the water holes. That's the trade-off for the reliability. Rim walks through the Afromontane forest provide colobus monkeys and forest birds at a completely different pace. Olduvai Gorge is 45 kilometres west, where some of the earliest evidence of human evolution was excavated, a half-day excursion worth adding to any itinerary.
+The crater descents are shared with other operators, which means vehicles at the water holes. That's the trade-off for the reliability. Rim walks through the Afromontane forest provide colobus monkeys and forest birds at a completely different pace. Olduvai Gorge is 45 kilometres west, where some of the earliest evidence of human evolution was excavated, a half day excursion worth adding to any itinerary.

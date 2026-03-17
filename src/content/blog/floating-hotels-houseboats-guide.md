@@ -87,10 +87,10 @@ Myanmar's Inle Lake is one of Southeast Asia's most extraordinary landscapes: a 
 
 **Inle Princess Resort**
 
-Among the lake's finest addresses, Inle Princess operates over-water bungalows in the traditional Shan architectural style, steeply pitched roofs, wooden construction, teak-accented interiors, with unobstructed views across the lake to the surrounding mountains. Sunrise and sunset from the private deck of an over-lake bungalow are among Southeast Asia's most atmospheric experiences.
+Among the lake's finest addresses, Inle Princess operates overwater bungalows in the traditional Shan architectural style, steeply pitched roofs, wooden construction, teak-accented interiors, with unobstructed views across the lake to the surrounding mountains. Sunrise and sunset from the private deck of an over-lake bungalow are among Southeast Asia's most atmospheric experiences.
 
 **Price range:** From $120/night
-**Best for:** Couples, photographers, travellers wanting authentic Southeast Asian over-water accommodation
+**Best for:** Couples, photographers, travellers wanting authentic Southeast Asian overwater accommodation
 
 
 The Mekong River, flowing through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam, offers floating hotel experiences ranging from basic overnight slow-boat ferries to exceptional boutique river cruisers.

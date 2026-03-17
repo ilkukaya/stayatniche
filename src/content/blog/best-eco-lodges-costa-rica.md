@@ -2,7 +2,7 @@
 title: "Best Eco-Lodges in Costa Rica: Extraordinary Jungle Stays Done Right"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "Costa Rica pioneered the eco-lodge concept and still does it best. These extraordinary properties balance rainforest immersion, world-class wildlife access, and genuine sustainability."
+excerpt: "Costa Rica pioneered the eco-lodge concept and still does it best. These extraordinary properties balance rainforest immersion, exceptional wildlife access, and genuine sustainability."
 coverImage: /images/blog/best-eco-lodges-costa-rica.jpg
 publishedDate: 2025-02-15T00:00:00.000Z
 tags:

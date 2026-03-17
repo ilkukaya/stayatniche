@@ -19,7 +19,7 @@ mustSee:
   - "Cape Hatteras Lighthouse, the tallest brick lighthouse in America (climb it)"
   - "Wright Brothers National Memorial at Kill Devil Hills"
   - "Ocracoke Island, accessible only by ferry; a genuinely remote village with singular character"
-  - "Pea Island National Wildlife Refuge, world-class birding on the Atlantic Flyway"
+  - "Pea Island National Wildlife Refuge, exceptional birding on the Atlantic Flyway"
   - "Currituck Beach Lighthouse and the Wild Horses of Corolla"
 travelTips:
   - "Access to Ocracoke requires a ferry, the free North Carolina state ferry from Hatteras is 40 minutes; the toll ferries from Swan Quarter and Cedar Island are 2.5 hours. Plan accordingly."

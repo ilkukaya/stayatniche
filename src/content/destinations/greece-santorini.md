@@ -15,13 +15,13 @@ bestTimeToVisit:
   details: "May–June and September–October offer warm temperatures (22–28°C), calm Aegean seas, and significantly fewer visitors than the July–August peak, when accommodation prices are at their highest and Oia's famous sunset viewpoint becomes uncomfortably crowded. Spring brings wildflowers and lower prices. October is the local harvest, and Santorinian Assyrtiko white wine from the current vintage is available at wineries. Winter (November–March) is quiet and very cheap but some facilities close."
 mustSee:
   - "Oia sunset, despite the crowds, the view of the caldera turning orange and the sun dropping below the volcanic rim remains one of Europe's great spectacles"
-  - "Caldera rim walk, the 10km cliff-edge path from Fira to Oia, with continuous caldera views and dramatic drop-offs"
+  - "Caldera rim walk, the 10km cliff edge path from Fira to Oia, with continuous caldera views and dramatic drop-offs"
   - "Akrotiri archaeological site, a Minoan city buried by the 3,600-year-old volcanic eruption, often called the 'Greek Pompeii'"
   - "Perissa and Perivolos black sand beaches, volcanic black sand beaches on the island's south coast"
   - "Santorinian winery tours, indigenous Assyrtiko grape grown in basket-trained vines surviving 3,000 years of Aegean wind"
   - "Volcanic hot springs at Palea Kameni, swim in the warm sulfurous waters at the caldera's centre island"
 travelTips:
-  - "Book cave hotel suites 6–12 months in advance for peak summer (July–August), the most sought-after rooms with private infinity pools facing the caldera sell out nearly a year ahead."
+  - "Book cave hotel suites 6–12 months in advance for peak summer (July–August), the most sought after rooms with private infinity pools facing the caldera sell out nearly a year ahead."
   - "Oia sunset draws 2,000+ visitors daily in summer, arrive 2 hours early for a caldera wall position or watch from the Skaros Rock trail above Imerovigli for fewer crowds."
   - "The island's famous donkey rides down the Fira cable car path have been controversially maintained but are ethically questionable, use the cable car or walk."
   - "Santorini is expensive even by Greek standards, budget €300–800+ per night for a caldera-view suite; the island is priced as a premium destination and resists discount."

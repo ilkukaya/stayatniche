@@ -2,7 +2,7 @@
 name: "New Zealand South Island"
 type: country
 continent: "Oceania"
-description: "The South Island of New Zealand concentrates some of the southern hemisphere's most spectacular scenery into a single landmass: glaciers calving into fiords, alpine lakes reflecting snow-capped peaks, ancient rainforests, and wine country rolling toward a cobalt Pacific. It is a landscape built for adventure and quiet awe in equal measure."
+description: "The South Island of New Zealand concentrates some of the southern hemisphere's most spectacular scenery into a single landmass: glaciers calving into fiords, alpine lakes reflecting snow capped peaks, ancient rainforests, and wine country rolling toward a cobalt Pacific. It is a landscape built for adventure and quiet awe in equal measure."
 coverImage: /images/destinations/new-zealand-south-island.jpg
 essentials:
   currency: "NZD (New Zealand Dollar)"

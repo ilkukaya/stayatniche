@@ -4,7 +4,7 @@ category: "treehouse-hotels"
 destination: "Dordogne Valley"
 country: "France"
 continent: "Europe"
-description: "Award-winning luxury treehouses perched above the medieval Dordogne Valley, some featuring glass floors, private hot tubs, and wraparound terraces suspended over ancient French woodlands."
+description: "Individually designed treehouses set eight metres above the medieval Dordogne Valley, several with glass-panel floors directly above the woodland below, private hot tubs on cantilevered decks, and morning breakfast delivered by basket to your door."
 coverImage: "/images/hotels/la-cabane-perchee-france.jpg"
 gallery:
   - "/images/hotels/la-cabane-perchee-france-1.jpg"
@@ -13,7 +13,7 @@ gallery:
 priceRange: "$250 - $450"
 priceIndicator: 3
 highlights:
-  - "Multiple award-winning treehouse designs, each entirely unique"
+  - "Multiple acclaimed treehouse designs, each entirely unique"
   - "Some suites feature glass floors with views straight to the forest below"
   - "Private outdoor hot tubs in selected treehouses"
   - "Heart of the Dordogne, medieval castles, Lascaux caves, and fine food nearby"
@@ -101,6 +101,6 @@ Each morning, a basket is delivered to your treehouse, fresh croissants from the
 
 **The Dordogne Setting**
 
-The Dordogne Valley is extraordinary raw material for a hotel. Within an hour's drive of most La Cabane Perchée locations: the magnificent cliff-top village of Beynac, the perfectly preserved medieval town of Sarlat (its Saturday market is unmissable), and the Vézère Valley's prehistoric caves: including the replica of Lascaux, which contains some of the most significant paleolithic art in the world. The food culture here is among the richest in France. Foie gras is produced locally, Périgord truffles turn up in everything from eggs to pasta, and the walnut orchards that line the valley produce oils and wines of remarkable quality.
+The Dordogne Valley is extraordinary raw material for a hotel. Within an hour's drive of most La Cabane Perchée locations: the magnificent clifftop village of Beynac, the perfectly preserved medieval town of Sarlat (its Saturday market is unmissable), and the Vézère Valley's prehistoric caves: including the replica of Lascaux, which contains some of the most significant paleolithic art in the world. The food culture here is among the richest in France. Foie gras is produced locally, Périgord truffles turn up in everything from eggs to pasta, and the walnut orchards that line the valley produce oils and wines of remarkable quality.
 
 For couples planning a romantic trip to France who have already done Paris, the Dordogne offers everything the capital promises, beauty, food, history, wine, without the noise. La Cabane Perchée adds the one thing the valley was missing: the chance to sleep above it all.

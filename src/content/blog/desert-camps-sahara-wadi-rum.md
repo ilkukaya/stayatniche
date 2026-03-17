@@ -46,7 +46,7 @@ The camp's design ethos is thoughtful rather than theatrical: no fake torches or
 
 **Dar Ahlam, Skoura (with desert expeditions)**
 
-Technically a kasbah hotel in the Skoura Oasis rather than a desert camp, Dar Ahlam earns its place in any serious Moroccan desert guide. The riad's owner, Thierry Teyssier, pioneered a model of "expeditionary luxury" in which guests are transported into the desert for multi-day journeys using Dar Ahlam's fleet of camp equipment: the finest tents, rugs, and kitchen equipment following guests by camel and 4WD while they ride or walk between camps. This is Morocco's most sophisticated desert experience.
+Technically a kasbah hotel in the Skoura Oasis rather than a desert camp, Dar Ahlam earns its place in any serious Moroccan desert guide. The riad's owner, Thierry Teyssier, pioneered a model of "expeditionary luxury" in which guests are transported into the desert for multi day journeys using Dar Ahlam's fleet of camp equipment: the finest tents, rugs, and kitchen equipment following guests by camel and 4WD while they ride or walk between camps. This is Morocco's most sophisticated desert experience.
 
 **Price range:** Expeditions from €900/person/night (all-inclusive)
 **Best for:** Adventure travellers with high comfort expectations, special occasions
@@ -97,11 +97,11 @@ One of Wadi Rum's most respected traditional camps, Sun City was established by 
 
 
 
-Oman's Wahiba Sands (also known as the Sharqiya Sands) offer a desert camp experience that combines the grandeur of genuine sand dunes with the relative accessibility of Oman's well-developed tourism infrastructure.
+Oman's Wahiba Sands (also known as the Sharqiya Sands) offer a desert camp experience that combines the grandeur of genuine sand dunes with the relative accessibility of Oman's established tourism infrastructure.
 
 **Desert Nights Camp**
 
-Award-winning several times over, Desert Nights Camp near the village of Al Wasil operates 30 luxury air-conditioned tents on the edge of the Wahiba Sands. The camp's design, traditional Bedouin styling applied to genuinely comfortable structures, is the gold standard for Oman's desert accommodation, and its proximity to Muscat (three hours by road) makes it an achievable addition to any Oman itinerary.
+Acclaimed several times over, Desert Nights Camp near the village of Al Wasil operates 30 luxury air-conditioned tents on the edge of the Wahiba Sands. The camp's design, traditional Bedouin styling applied to genuinely comfortable structures, is the gold standard for Oman's desert accommodation, and its proximity to Muscat (three hours by road) makes it an achievable addition to any Oman itinerary.
 
 **Price range:** From $400/night (full board)
 **Best for:** Travellers combining Oman city exploration with desert experience

@@ -2,7 +2,7 @@
 name: "Bali, Indonesia"
 type: country
 continent: "Asia"
-description: "A small island of extraordinary spiritual richness, Bali blends terraced rice paddies, ancient Hindu temples, and dense jungle with a world-class hospitality culture that has produced some of Asia's most inventive boutique hotels. Beyond the tourist strip of Seminyak lies a landscape of immense beauty and genuine cultural depth."
+description: "A small island of extraordinary spiritual richness, Bali blends terraced rice paddies, ancient Hindu temples, and dense jungle with a exceptional hospitality culture that has produced some of Asia's most inventive boutique hotels. Beyond the tourist strip of Seminyak lies a landscape of immense beauty and genuine cultural depth."
 coverImage: /images/destinations/bali-indonesia.jpg
 essentials:
   currency: "IDR (Indonesian Rupiah); USD accepted at most tourist establishments"
@@ -39,7 +39,7 @@ Bali runs on a different frequency. The island's Hindu culture, a unique form th
 
 Bali's reputation as a party destination has obscured what is genuinely one of Asia's most culturally rich islands. Venture north from Seminyak toward the highlands of Ubud and the landscape shifts dramatically. The Agung and Batur volcanoes dominate the horizon. Rice terraces cascade down hillsides in the geometric precision of the traditional subak irrigation system, a UNESCO-recognized cultural landscape that has functioned without interruption for over a thousand years. Villages specialise in single crafts: silversmithing in Celuk, stone carving in Batubulan, woodcarving in Mas, painting in Batuan.
 
-Bali has arguably done more than any destination in Southeast Asia to elevate the concept of boutique accommodation. The island's [treehouse hotels](/categories/treehouse-hotels) and [jungle lodges](/categories/jungle-lodges) set among the rice terraces and river valleys around Ubud offer a level of design sophistication that rivals anything in Europe or the Americas. Open-air bathrooms where you shower beneath the jungle canopy, private infinity pools overlooking terraced valleys, villa complexes built from reclaimed teak and river stone: Bali's designers understand that the landscape itself is the luxury.
+Bali has arguably done more than any destination in Southeast Asia to elevate the concept of boutique accommodation. The island's [treehouse hotels](/categories/treehouse-hotels) and [jungle lodges](/categories/jungle-lodges) set among the rice terraces and river valleys around Ubud offer a level of design sophistication that rivals anything in Europe or the Americas. Outdoor bathrooms where you shower beneath the jungle canopy, private infinity pools overlooking terraced valleys, villa complexes built from reclaimed teak and river stone: Bali's designers understand that the landscape itself is the luxury.
 
 Private pool villas remain the island's signature accommodation format. The concept was pioneered here in the 1990s and has since been exported worldwide, but the original execution, a walled compound with open-sided pavilions, a private plunge pool, and a resident butler, still feels most authentic in Bali. Properties in the Ubud area offer jungle settings; those in Seminyak and Canggu front the Indian Ocean.
 

@@ -19,7 +19,7 @@ mustSee:
   - "Nungwi beach, the sheltered northern tip with calm swimming and sunset dhow trips"
   - "Kendwa Rocks, full moon beach parties on the northwest coast"
   - "Mnemba Atoll Marine Conservation Area, some of East Africa's finest coral reef diving"
-  - "Pemba Island, remote northern island with sheer coral walls and world-class scuba"
+  - "Pemba Island, remote northern island with sheer coral walls and exceptional scuba"
 travelTips:
   - "Zanzibar combines perfectly with a Tanzania mainland safari, one week in the Serengeti followed by one week on the island is the classic East Africa itinerary."
   - "Stone Town wandering is best done in late afternoon, the labyrinthine streets are confusing by design; get lost, then find your way by the sound of the harbour."
@@ -38,7 +38,7 @@ seo:
 Zanzibar occupies a mythological position in the geography of East Africa. The name alone carries connotations of spice routes and Arab sailing dhows, of ivory and cloves and a trading culture that operated across the Indian Ocean centuries before European colonialism arrived. The physical reality of the archipelago, particularly the main island of Unguja and the less-visited Pemba to the north, delivers on this mythology and adds layers of beach, reef, and forest experience that make it one of the Indian Ocean's most complete island destinations.
 
 
-Stone Town, Zanzibar's old city and UNESCO World Heritage Site, is one of Africa's most atmospheric urban environments. The medina, a labyrinth of narrow lanes between whitewashed coral-stone houses, defies systematic navigation. Carved wooden doors, many with brass studs and detailed geometric designs that encode the status and religious affiliation of the family within, line every street. Mosques, Hindu temples, and Catholic and Anglican cathedrals exist within metres of each other, a palimpsest of the trading cultures that passed through over five centuries.
+Stone Town, Zanzibar's old city and UNESCO World Heritage Site, is one of Africa's most atmospheric urban environments. The medina, a labyrinth of narrow lanes between whitewashed coral stone houses, defies systematic navigation. Carved wooden doors, many with brass studs and detailed geometric designs that encode the status and religious affiliation of the family within, line every street. Mosques, Hindu temples, and Catholic and Anglican cathedrals exist within metres of each other, a palimpsest of the trading cultures that passed through over five centuries.
 
 The spice trade that made Zanzibar the most important port in 19th-century East Africa gave it its nickname and its most distinctive sensory characteristic: the smell of cloves, nutmeg, cinnamon, and vanilla drifts through the old city's streets from warehouses that have stored these products for generations. A guided spice plantation tour into the island's rural interior reveals how these products are grown and processed, a genuinely engaging agricultural experience.
 

@@ -78,4 +78,4 @@ The restaurant car is the social centre of the train and the location of some of
 
 The London to Venice route, departing London Victoria in the morning, crossing the Channel by ferry or tunnel, joining the train at Calais or Paris, crossing the Alps through the Brenner Pass, and arriving in Venice the following afternoon, covers some of the most beautiful landscapes in Europe in a single continuous journey. The Istanbul itinerary, operated seasonally, follows the original route through the Balkans and across the Bosphorus to the Asian shore.
 
-Book far in advance. The VSOE is one of the world's most sought-after travel experiences, and the most popular routes and dates sell out many months ahead.
+Book far in advance. The VSOE is one of the world's most sought after travel experiences, and the most popular routes and dates sell out many months ahead.

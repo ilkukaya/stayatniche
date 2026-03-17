@@ -4,7 +4,7 @@ category: bubble-hotels
 destination: Hunter Valley, New South Wales
 country: Australia
 continent: Oceania
-description: Crystal-clear stargazing bubbles in Australia's premier wine region, fall asleep watching the Southern Cross in the Southern Hemisphere's darkest skies. BubbleTent offers an intimate, off-grid encounter with the Australian night sky amid rolling vineyard landscapes.
+description: Transparent bubble tents on private land in the Hunter Valley, each oriented toward a Southern Hemisphere sky where the Southern Cross, Magellanic Clouds, and the full arc of the Milky Way appear on clear winter nights. Two hours from Sydney, with 150-plus cellar doors on the doorstep for the days.
 coverImage: /images/hotels/bubbletent-australia.jpg
 priceRange: "$320 - $550"
 priceIndicator: 3
@@ -36,7 +36,7 @@ prosAndCons:
     - Southern Hemisphere skies offer unique constellations rarely seen in Europe or North America
     - Excellent base for Hunter Valley wine tours
     - Close enough to Sydney for a long weekend
-    - Genuinely eco-friendly and off-grid operation
+    - Genuinely eco-friendly and off grid operation
   cons:
     - Australian summer nights can be hot even with ventilation
     - Limited on-site dining, guests need to plan meals at nearby restaurants

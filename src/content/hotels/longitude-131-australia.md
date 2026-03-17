@@ -4,7 +4,7 @@ category: desert-camps
 destination: Uluru, Northern Territory
 country: Australia
 continent: Oceania
-description: The most exclusive address in the Australian Outback, sixteen luxury tented pavilions on a private red-sand dune with direct sunrise views of Uluru from your bed. Longitude 131° combines extraordinary cultural access with the finest accommodation in the Australian desert.
+description: "Sixteen tented pavilions on a private red-sand dune, each oriented so the bed faces Uluru directly — the 348-metre sandstone monolith turns from deep violet to coral pink in the twenty minutes after dawn, visible from the pillow."
 coverImage: /images/hotels/longitude-131-australia.jpg
 priceRange: "$1,500 - $3,000"
 priceIndicator: 5
@@ -72,6 +72,6 @@ Uluru in the minutes after dawn is a spectacle worth planning a trip around. The
 
 That's the defining feature of the place: not just proximity to Uluru, but a direct line of sight to it from a horizontal position. The sixteen tented pavilions sit on a private red-sand dune elevated just enough to clear the surrounding desert scrub, each oriented so that the floor-to-ceiling view from the bed frames the rock directly. Wake at five, make coffee on the private verandah, watch the world's most recognisable geological formation do what it does every morning: transform, slowly, without any apparent concern for the people watching it.
 
-The all-inclusive format removes most of the friction. Meals are taken at Dune Top, the open-air dining platform, where the kitchen works with Outback-sourced ingredients in ways that are genuinely rooted in this landscape: native quandong, wattleseed, desert limes, kangaroo prepared with real precision. Selected wines and beverages are included throughout. Dining in the desert air as the last light leaves the horizon and the stars begin to assert themselves is the kind of meal that doesn't need theatrical staging.
+The all-inclusive format removes most of the friction. Meals are taken at Dune Top, the outdoor dining platform, where the kitchen works with Outback-sourced ingredients in ways that are genuinely rooted in this landscape: native quandong, wattleseed, desert limes, kangaroo prepared with real precision. Selected wines and beverages are included throughout. Dining in the desert air as the last light leaves the horizon and the stars begin to assert themselves is the kind of meal that doesn't need theatrical staging.
 
 Cultural access here has more substance than most outback properties manage. Longitude 131° works closely with Anangu traditional owners, and the guided experiences, exploring the base of Uluru with Anangu guides who interpret the Tjukurpa, the law and narrative structure that gives the rock its meaning, provide a depth of understanding that most of Uluru's 250,000 annual visitors never reach. The rock is not a backdrop here. It's the point, and the guiding team treats it accordingly.

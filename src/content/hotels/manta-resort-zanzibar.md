@@ -15,20 +15,20 @@ priceIndicator: 5
 highlights:
   - "The entire bedroom is submerged 4 meters below the Indian Ocean surface"
   - "360-degree underwater windows with live reef views at night"
-  - "Floating structure includes rooftop deck, sea-level lounge, and underwater bedroom"
+  - "Floating structure includes rooftop deck, sea level lounge, and underwater bedroom"
   - "Located off remote Pemba Island, one of the Indian Ocean's least-visited destinations"
   - "Voted among the world's most extraordinary hotel experiences repeatedly"
 amenities:
   - "Submerged underwater bedroom"
   - "Rooftop deck with open ocean views"
-  - "Sea-level lounge and dining area"
+  - "Sea level lounge and dining area"
   - "Full-time host and private chef on the structure"
   - "Kayak and snorkeling equipment"
   - "Sunset cocktail service"
   - "Transfer by boat from the main resort"
   - "Diving arranged through Manta Resort dive centre"
 bestFor:
-  - "Bucket-list once-in-a-lifetime experiences"
+  - "Unmissable once in a lifetime experiences"
   - "Marine biology enthusiasts"
   - "Couples celebrating milestones"
   - "Divers wanting to sleep inside the ocean"
@@ -39,7 +39,7 @@ tags:
   - "indian-ocean"
   - "luxury"
   - "unique"
-  - "bucket-list"
+  - "unmissable"
   - "marine"
 prosAndCons:
   pros:
@@ -64,7 +64,7 @@ seasonalInfo:
   bestTime: "June to October (dry season)"
   notes: "Pemba's dry season (June-October) brings the clearest water and calmest seas, ideal conditions for the underwater room experience. The short rainy season (November) and long rains (April-May) can bring rougher conditions. Whale shark season runs October to February."
 nearbyAttractions:
-  - name: "Pemba Channel (world-class deep sea fishing)"
+  - name: "Pemba Channel (exceptional deep sea fishing)"
     distance: "2 km"
   - name: "Mesali Island Marine Reserve"
     distance: "8 km"
@@ -87,7 +87,7 @@ seo:
 
 At 4 metres below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past your windows in the darkness, the standard categories of hotel experience stop being useful. The Manta Resort's Underwater Room is something separate: a submerged bedroom off one of the most remote islands in the Western Indian Ocean, where the fish are more curious about you than you are about them.
 
-The structure itself is a floating platform anchored in open water off the coast of Pemba Island, one of the most remote inhabited islands in the Western Indian Ocean, 80 kilometres north of Zanzibar and visited by a tiny fraction of the tourists who pass through Tanzania each year. The platform has three levels: a rooftop deck open to the stars and the vast open ocean; a sea-level lounge with a wrap-around deck for swimming and sunset cocktails; and the bedroom, which sits 4 meters underwater, accessible via a hatch and ladder from the sea-level lounge.
+The structure itself is a floating platform anchored in open water off the coast of Pemba Island, one of the most remote inhabited islands in the Western Indian Ocean, 80 kilometres north of Zanzibar and visited by a tiny fraction of the tourists who pass through Tanzania each year. The platform has three levels: a rooftop deck open to the stars and the vast open ocean; a sea level lounge with a wrap-around deck for swimming and sunset cocktails; and the bedroom, which sits 4 meters underwater, accessible via a hatch and ladder from the sea level lounge.
 
 **The Underwater Bedroom**
 
@@ -99,10 +99,10 @@ Guests who have experienced it most commonly report being entirely unable to sle
 
 The rooftop deck is among the finest places to watch a sunrise in Tanzania. There is nothing between you and the Indian Ocean horizon in every direction; the mainland is invisible, the horizon is unbroken, and the dhow silhouettes that occasionally cross the dawn light are unchanged from what the Swahili traders of the 9th century would have seen on this same stretch of water.
 
-A dedicated host lives on the floating structure with you for the duration of your stay, providing meals, cocktails, and service on the sea-level deck. The food is excellent, fresh seafood, tropical fruit, proper coffee, prepared in the structure's small galley kitchen.
+A dedicated host lives on the floating structure with you for the duration of your stay, providing meals, cocktails, and service on the sea level deck. The food is excellent, fresh seafood, tropical fruit, proper coffee, prepared in the structure's small galley kitchen.
 
 **Pemba Island**
 
-Pemba itself is worth the journey even without the Underwater Room as the destination. The island's diving is exceptional, the Pemba Channel drops to enormous depths just offshore, creating upwellings of nutrient-rich water that sustain some of the healthiest coral in the Indian Ocean. The island has almost no tourist infrastructure beyond a handful of lodges, and the villages of clove farmers and fishermen along the coast feel entirely removed from the modern world.
+Pemba itself is worth the journey even without the Underwater Room as the destination. The island's diving is exceptional, the Pemba Channel drops to enormous depths just offshore, creating upwellings of nutrient rich water that sustain some of the healthiest coral in the Indian Ocean. The island has almost no tourist infrastructure beyond a handful of lodges, and the villages of clove farmers and fishermen along the coast feel entirely removed from the modern world.
 
 The Manta Resort's mainland lodge provides a comfortable base, excellent diving, and the logistics for reaching the Underwater Room by boat. The room itself is not the most luxurious hotel experience in the Indian Ocean. It is, by the account of nearly everyone who has slept in it, the most singular.

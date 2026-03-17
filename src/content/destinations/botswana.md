@@ -2,7 +2,7 @@
 name: "Botswana"
 type: country
 continent: "Africa"
-description: "Botswana has built its entire tourism identity on a single, powerful idea: fewer visitors, higher spending, greater conservation impact. The result is the finest high-end safari experience in Africa, vast private concessions of unfenced wilderness, elephant populations of 130,000 animals, and the singular beauty of the Okavango Delta, the world's largest inland river delta and one of its last great wildernesses."
+description: "Botswana has built its entire tourism identity on a single, powerful idea: fewer visitors, higher spending, greater conservation impact. The result is the finest premium safari experience in Africa, vast private concessions of unfenced wilderness, elephant populations of 130,000 animals, and the singular beauty of the Okavango Delta, the world's largest inland river delta and one of its last great wildernesses."
 coverImage: /images/destinations/botswana.jpg
 essentials:
   currency: "BWP (Botswana Pula); USD and ZAR accepted at most lodges"
@@ -35,7 +35,7 @@ seo:
   metaDescription: "Botswana travel guide, Okavango Delta mokoro safaris, Chobe elephants, and Africa's most extraordinary all-inclusive luxury safari camp experiences."
 ---
 
-Botswana's approach to tourism is one of the most principled in Africa, and one of the most successful. When the country gained independence in 1966, it was among the poorest nations on earth, with 12 kilometres of paved road and an economy based almost entirely on beef exports. The discovery of diamonds transformed the national income; the decision to adopt a high-value, low-volume tourism model transformed the wilderness. Today, Botswana's wildlife populations are among the healthiest in Africa, its private concession system is the model other countries attempt to replicate, and the [safari lodges](/categories/safari-lodges) operating within the Okavango and Linyanti ecosystems represent the benchmark of the African safari experience.
+Botswana's approach to tourism is one of the most principled in Africa, and one of the most successful. When the country gained independence in 1966, it was among the poorest nations on earth, with 12 kilometres of paved road and an economy based almost entirely on beef exports. The discovery of diamonds transformed the national income; the decision to adopt a high value, low volume tourism model transformed the wilderness. Today, Botswana's wildlife populations are among the healthiest in Africa, its private concession system is the model other countries attempt to replicate, and the [safari lodges](/categories/safari-lodges) operating within the Okavango and Linyanti ecosystems represent the benchmark of the African safari experience.
 
 The Okavango is a geographical anomaly: a river that flows north from the Angolan highlands, spreads into a vast fan-shaped delta in the Kalahari Desert, and then evaporates, never reaching the sea. The result is 15,000 square kilometres of channels, islands, lagoons, and floodplains in the middle of one of the world's great desert systems. Permanent water in the Kalahari supports an ecosystem of striking richness: elephant, buffalo, hippo, crocodile, leopard, lion, wild dog, and 540 species of birds.
 

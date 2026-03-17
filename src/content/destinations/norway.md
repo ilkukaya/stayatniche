@@ -12,7 +12,7 @@ essentials:
   plugType: "Type C/F (230V)"
 bestTimeToVisit:
   summary: "May–September for fjords; November–February for northern lights"
-  details: "Late May through August offers the midnight sun north of the Arctic Circle, passable hiking trails, and the fjords at their most vivid green. June–August is peak season with crowds and higher prices. Winter delivers aurora viewing, dog sledding, and the extraordinary visual contrast of snow-covered fjord landscapes."
+  details: "Late May through August offers the midnight sun north of the Arctic Circle, passable hiking trails, and the fjords at their most vivid green. June–August is peak season with crowds and higher prices. Winter delivers aurora viewing, dog sledding, and the extraordinary visual contrast of snow covered fjord landscapes."
 mustSee:
   - "Geirangerfjord, UNESCO-listed fjord with Seven Sisters and Suitor waterfalls"
   - "Pulpit Rock (Preikestolen), flat clifftop 604m above Lysefjord"

@@ -2,7 +2,7 @@
 name: "Bhutan"
 type: country
 continent: "Asia"
-description: "Bhutan is the world's only carbon-negative country, a Buddhist Himalayan kingdom that measures national success in Gross National Happiness rather than GDP, and the last truly high-value, low-volume destination on earth. Its dzongs (fortress-monasteries), tiger's nest monasteries, and pristine high-altitude landscapes remain among the most extraordinary in Asia."
+description: "Bhutan is the world's only carbon-negative country, a Buddhist Himalayan kingdom that measures national success in Gross National Happiness rather than GDP, and the last truly high value, low volume destination on earth. Its dzongs (fortress-monasteries), tiger's nest monasteries, and pristine high-altitude landscapes remain among the most extraordinary in Asia."
 coverImage: /images/destinations/bhutan.jpg
 essentials:
   currency: "BTN (Bhutanese Ngultrum); Indian Rupee accepted at parity; USD exchanged at banks"
@@ -14,7 +14,7 @@ bestTimeToVisit:
   summary: "March–May and September–November"
   details: "Spring (March to May) brings rhododendron forests in full bloom and the spectacular Paro Tsechu festival in March/April, one of Bhutan's most important religious festivals. Autumn (September to November) offers the clearest mountain views (Jomolhari, Gangkhar Puensum) and ideal trekking conditions. Summer (June to August) is the monsoon season, roads can wash out and trails become muddy, but the country is intensely green and festivals continue. Winter (December to February) is cold at altitude but Bhutan receives remarkably few visitors, an increasingly appealing trade-off."
 mustSee:
-  - "Paro Taktsang (Tiger's Nest Monastery), iconic cliff-face monastery 900m above the valley floor"
+  - "Paro Taktsang (Tiger's Nest Monastery), iconic cliff face monastery 900m above the valley floor"
   - "Punakha Dzong, the most beautiful fortress-monastery in Bhutan, at the river confluence"
   - "Dochula Pass, 108 memorial chortens with panoramic Himalayan views on clear days"
   - "Gangtey Monastery and Black-necked Crane Valley, winter crane migration (October–March)"
@@ -35,7 +35,7 @@ seo:
   metaDescription: "Bhutan travel guide, Tiger's Nest monastery, dzong festivals, Himalayan trekking, and the kingdom's most extraordinary boutique lodge experiences."
 ---
 
-Bhutan occupies a singular position in global travel: a country that has chosen to remain itself. While neighbouring nations opened to mass tourism and accepted the consequences, overcrowded sites, eroded culture, architectural homogeneity, Bhutan spent decades developing a policy of high-value, low-volume tourism that prioritises cultural preservation over visitor numbers. The result is a country where Buddhism is a living framework for daily life rather than a heritage attraction, where dzongs still function as centres of civil and religious administration, and where the Himalayas remain a sacred backdrop rather than an Instagram destination.
+Bhutan occupies a singular position in global travel: a country that has chosen to remain itself. While neighbouring nations opened to mass tourism and accepted the consequences, overcrowded sites, eroded culture, architectural homogeneity, Bhutan spent decades developing a policy of high value, low volume tourism that prioritises cultural preservation over visitor numbers. The result is a country where Buddhism is a living framework for daily life rather than a heritage attraction, where dzongs still function as centres of civil and religious administration, and where the Himalayas remain a sacred backdrop rather than an Instagram destination.
 
 Bhutan's Gross National Happiness framework was developed in the 1970s by the fourth king and has since been studied by economists and governments worldwide. It incorporates nine domains including psychological wellbeing, cultural resilience, time use, and ecological diversity. This is not simply a clever slogan; it manifests in real policy decisions: tobacco sales are banned, plastic bags are illegal, forest cover is constitutionally mandated at a minimum of 60% (currently 71%), and development projects are evaluated against GNH criteria before approval. The country it has produced is genuinely different to travel through.
 
@@ -47,4 +47,4 @@ Bhutan's dzongs are fortress-monasteries that served for centuries as the combin
 
 Bhutan's accommodation landscape, particularly in the premium bracket, has developed exceptional properties over the past two decades. A cluster of high-design lodge brands (Amankora, Six Senses Bhutan, COMO Uma Paro) operate across the country's different valleys, with properties sensitively designed in vernacular Bhutanese architectural style. Wood-panelled rooms with hand-painted Buddhist motifs, private outdoor hot stone baths (dotsho, a traditional Bhutanese bathing ritual using fire-heated river stones), and farm-to-table menus built around local red rice, yak cheese, and ema datshi (chili-cheese stew) create a distinctly Bhutanese luxury experience.
 
-Bhutan's mountains are the least explored in the Himalayan arc. The Druk Path Trek (5 days, Paro to Thimphu) passes high-altitude lakes and ruins of ancient fortresses with Himalayan panoramas. The Snowman Trek, at 25 days and crossing 11 passes above 5,000 metres, is the most demanding multi-day trek in the Himalayas and is completed by fewer than 100 trekkers per year. The Gangtey Valley, at 2,900 metres, hosts the winter migration of black-necked cranes: a bird considered sacred in Bhutanese Buddhism, whose annual arrival is celebrated with a festival combining crane conservation and religious ceremony.
+Bhutan's mountains are the least explored in the Himalayan arc. The Druk Path Trek (5 days, Paro to Thimphu) passes high-altitude lakes and ruins of ancient fortresses with Himalayan panoramas. The Snowman Trek, at 25 days and crossing 11 passes above 5,000 metres, is the most demanding multi day trek in the Himalayas and is completed by fewer than 100 trekkers per year. The Gangtey Valley, at 2,900 metres, hosts the winter migration of black-necked cranes: a bird considered sacred in Bhutanese Buddhism, whose annual arrival is celebrated with a festival combining crane conservation and religious ceremony.

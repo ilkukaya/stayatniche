@@ -2,7 +2,7 @@
 name: "Morocco & the Atlas Mountains"
 type: country
 continent: "Africa"
-description: "Morocco layers ancient medinas, Saharan sand dunes, and the snow-capped High Atlas Mountains into a single country of extraordinary contrasts. From the labyrinthine souks of Fez to the silence of the Erg Chebbi dunes at dawn, it offers one of the world's most richly sensory travel experiences, and an accommodation culture of unmatched craft and beauty."
+description: "Morocco layers ancient medinas, Saharan sand dunes, and the snow capped High Atlas Mountains into a single country of extraordinary contrasts. From the labyrinthine souks of Fez to the silence of the Erg Chebbi dunes at dawn, it offers one of the world's most richly sensory travel experiences, and an accommodation culture of unmatched craft and beauty."
 coverImage: /images/destinations/morocco-atlas.jpg
 essentials:
   currency: "MAD (Moroccan Dirham); cash essential outside major cities"
@@ -14,7 +14,7 @@ bestTimeToVisit:
   summary: "March–May and September–November"
   details: "Spring (March to May) and autumn (September to November) are the prime seasons, comfortable temperatures in the medinas (20–28°C), clear conditions in the mountains, and dunes that haven't yet hit summer's 45°C extremes. Summer is brutally hot in the Sahara but surprisingly cool in the Atlas highlands. December to February is ideal for Atlas ski season (Oukaimeden resort) and for experiencing Fez and Marrakech without peak-season crowds."
 mustSee:
-  - "Fez el-Bali medina, UNESCO-listed medieval city, world's largest car-free urban area"
+  - "Fez el-Bali medina, UNESCO-listed medieval city, world's largest car free urban area"
   - "Erg Chebbi dunes, Merzouga, camel trek to a desert camp for sunrise over the Sahara"
   - "Aït Benhaddou, fortified ksar (mud-brick citadel) used in countless film productions"
   - "Chefchaouen, the famous blue-painted mountain city of the Rif"

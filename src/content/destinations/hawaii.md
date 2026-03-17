@@ -13,7 +13,7 @@ essentials:
   plugType: "Type A/B (120V)"
 bestTimeToVisit:
   summary: "April–June and September–November"
-  details: "The shoulder seasons deliver warm, dry weather with significantly lower prices and fewer crowds than peak summer or Christmas. Winter (December–March) brings large north swells to Oahu's North Shore, world-class surfing but rough water for swimming. The Big Island's Kona coast is drier and sunnier year-round than its windward side."
+  details: "The shoulder seasons deliver warm, dry weather with significantly lower prices and fewer crowds than peak summer or Christmas. Winter (December–March) brings large north swells to Oahu's North Shore, exceptional surfing but rough water for swimming. The Big Island's Kona coast is drier and sunnier year-round than its windward side."
 mustSee:
   - "Hawaii Volcanoes National Park, active lava landscapes on the Big Island"
   - "Na Pali Coast, Kauai, by boat, helicopter, or the Kalalau Trail"

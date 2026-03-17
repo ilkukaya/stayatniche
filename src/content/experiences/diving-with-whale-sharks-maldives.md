@@ -14,7 +14,7 @@ highlights:
   - "Year-round resident whale shark population in South Ari Atoll"
   - "Dive alongside the world's largest fish, up to 12 metres in length"
   - "Among the highest whale shark encounter rates of any site globally"
-  - "Crystal-clear Indian Ocean water with 30+ metre visibility"
+  - "Crystal clear Indian Ocean water with 30+ metre visibility"
   - "PADI-certified dive guides with extensive whale shark knowledge"
   - "Snorkelling option available for non-divers alongside SCUBA groups"
 included:
@@ -47,7 +47,7 @@ seo:
   metaDescription: "Dive with the world's largest fish in South Ari Atoll, Maldives. Year-round resident whale sharks and exceptional 30m+ visibility. From $120 per person."
 ---
 
-The moment a whale shark arrives is distinctive. You may have been hovering at five metres for ten minutes, watching the reef below, scanning the blue water column ahead, and then something moves at the edge of visibility, a shape that is wrong in terms of scale. Too large to be any other fish you have seen here, moving with the unhurried efficiency of an animal that has been doing this for forty million years. The spots resolve. The enormous flat-topped head swings slightly as it adjusts course. It is heading directly toward you.
+The moment a whale shark arrives is distinctive. You may have been hovering at five metres for ten minutes, watching the reef below, scanning the blue water column ahead, and then something moves at the edge of visibility, a shape that is wrong in terms of scale. Too large to be any other fish you have seen here, moving with the unhurried efficiency of an animal that has been doing this for forty million years. The spots resolve. The enormous flat topped head swings slightly as it adjusts course. It is heading directly toward you.
 
 South Ari Atoll in the central Maldives has a resident population of whale sharks that remains in the atoll year-round, drawn by the dense concentrations of zooplankton that bloom in its shallow lagoon waters. This is what makes it one of the world's top whale shark diving sites: not just the presence of the animals, but the consistency of that presence. While most whale shark encounters around the world depend on seasonal aggregations or lucky timing, South Ari offers near-guaranteed sightings throughout the calendar year.
 

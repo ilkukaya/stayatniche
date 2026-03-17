@@ -41,7 +41,7 @@ tags:
   - africa
   - wildlife
   - conservation
-  - bucket-list
+  - unmissable
 seo:
   metaTitle: "Mountain Gorilla Trekking in Bwindi, Uganda | StayAtNiche"
   metaDescription: "Trek through Uganda's Bwindi Impenetrable Forest for a one-hour encounter with wild mountain gorillas. One of Earth's greatest wildlife experiences. From $700 per permit."

@@ -4,7 +4,7 @@ category: "cave-hotels"
 destination: "Coober Pedy"
 country: "Australia"
 continent: "Oceania"
-description: "An underground hotel carved into opal-bearing sandstone in the remote outback mining town of Coober Pedy, where 80% of residents live underground to escape the scorching 50°C summer heat."
+description: "Carved into the opal-bearing sandstone of Coober Pedy — the town that produces 70% of the world's gem-quality opals and where most residents live underground to escape 50°C summers — the Desert Cave Hotel keeps a constant 23°C year-round, with gemstone seams visible in the corridor walls."
 coverImage: "/images/hotels/desert-cave-hotel-australia.jpg"
 gallery:
   - "/images/hotels/desert-cave-hotel-australia-1.jpg"
@@ -95,10 +95,10 @@ The underground rooms are functional and comfortable rather than dramatic. Sands
 
 **The Opal Experience**
 
-The hotel's underground showroom displays an impressive collection of raw and polished Coober Pedy opals, some of the most spectacular gemstones found anywhere. The play of colour in high-quality opal (green to blue to orange to red, shifting as the stone moves) is among nature's more improbable visual achievements. Tours to working opal mines in the area can be arranged, and fossicking (amateur searching) for opals on designated public ground is legal and genuinely popular.
+The hotel's underground showroom displays an impressive collection of raw and polished Coober Pedy opals, some of the most spectacular gemstones found anywhere. The play of colour in high quality opal (green to blue to orange to red, shifting as the stone moves) is among nature's more improbable visual achievements. Tours to working opal mines in the area can be arranged, and fossicking (amateur searching) for opals on designated public ground is legal and genuinely popular.
 
 **The Landscape**
 
-If the hotel is remarkable, the landscape around Coober Pedy is extraordinary in a quieter, stranger way. The Breakaways Reserve, 33 kilometres north, is a series of low flat-topped hills in red, ochre, and white: a landscape of total, ancient silence. At dusk, the colours shift and deepen in ways that make the South Australian outback one of the most visually compelling environments on earth.
+If the hotel is remarkable, the landscape around Coober Pedy is extraordinary in a quieter, stranger way. The Breakaways Reserve, 33 kilometres north, is a series of low flat topped hills in red, ochre, and white: a landscape of total, ancient silence. At dusk, the colours shift and deepen in ways that make the South Australian outback one of the most visually compelling environments on earth.
 
 Desert Cave Hotel is not the most polished or luxurious cave hotel in the world. It is something better: a genuinely authentic piece of an extraordinary Australian story, in a town that would be pure fiction if it were not entirely real.

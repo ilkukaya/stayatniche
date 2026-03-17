@@ -32,7 +32,7 @@ coordinates:
 featured: false
 seo:
   metaTitle: "Komodo Indonesia Travel Guide, Dragons, Diving & Pink Beaches | StayAtNiche"
-  metaDescription: "Komodo travel guide, Komodo dragons, world-class diving, pink-sand beaches, manta rays, and liveaboard adventures in Indonesia's Nusa Tenggara."
+  metaDescription: "Komodo travel guide, Komodo dragons, exceptional diving, pink-sand beaches, manta rays, and liveaboard adventures in Indonesia's Nusa Tenggara."
 ---
 
 You come to Komodo for a dragon. You stay, in the mind and in the memory, for everything else. The volcanic archipelago strung between Flores and Sumbawa in eastern Indonesia is one of those places that refuses to be summarized by any single attraction, however remarkable that attraction happens to be.

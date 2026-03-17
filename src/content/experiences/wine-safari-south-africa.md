@@ -3,7 +3,7 @@ title: "Private Wine Farm Helicopter Safari"
 type: food-drink
 destination: "Cape Winelands"
 country: "South Africa"
-description: "Lift off from Cape Town or Stellenbosch in a private helicopter for a half-day tour of the Cape Winelands that combines the breathtaking aerial scenery of the Franschhoek and Stellenbosch valleys with exclusive private tastings at award-winning estate cellars accessible only by air. The Winelands from above, valley floors quilted with vines, Cape Dutch manor houses gleaming white against mountain backdrops, is one of South Africa's most spectacular views."
+description: "Lift off from Cape Town or Stellenbosch in a private helicopter for a half day tour of the Cape Winelands that combines the breathtaking aerial scenery of the Franschhoek and Stellenbosch valleys with exclusive private tastings at acclaimed estate cellars accessible only by air. The Winelands from above, valley floors quilted with vines, Cape Dutch manor houses gleaming white against mountain backdrops, is one of South Africa's most spectacular views."
 coverImage: /images/experiences/wine-safari-south-africa.jpg
 booking:
   provider: viator

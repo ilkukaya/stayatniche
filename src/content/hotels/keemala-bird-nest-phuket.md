@@ -3,7 +3,7 @@ name: "Keemala Bird's Nest Pool Villa"
 category: treehouse-hotels
 destination: "Kamala, Phuket"
 country: "Thailand"
-description: "Fantasy hilltop villas inspired by the nests of mythical bird-people, perched on poles above a tropical jungle ravine in Kamala, Phuket. The Bird's Nest Pool Villas at Keemala are among Asia's most imaginative and photographed luxury treehouse-style accommodations."
+description: "Spherical villas perched on angled timber poles above a jungle ravine in Kamala, Phuket, inspired by the mythology of four ancient Thai forest clans. Each Bird's Nest Pool Villa has a private infinity pool with Andaman Sea views, and the Marbas Spa offers treatments in outdoor pavilions above the ravine."
 coverImage: /images/hotels/keemala-bird-nest-phuket.jpg
 gallery:
   - /images/hotels/keemala-bird-nest-phuket-2.jpg
@@ -14,7 +14,7 @@ highlights:
   - "Spherical Bird's Nest villas perched on poles above the jungle"
   - "Private infinity pool with Andaman Sea views"
   - "Inspired by the mythology of four ancient Thai clans"
-  - "World-class Marbas Spa and jungle wellness experiences"
+  - "Exceptional Marbas Spa and jungle wellness experiences"
 amenities:
   - "Bird's Nest Pool Villa on elevated structure"
   - "Private infinity pool with sea and jungle views"
@@ -36,10 +36,10 @@ coordinates:
 featured: false
 ---
 
-Keemala occupies a hillside above the relatively quiet Kamala Beach on Phuket's west coast, and from the moment of arrival it is clear that this is a resort with a fully developed conceptual identity. The property is designed around the mythology of four ancient Thai forest-dwelling clans, each with its own distinct relationship to the natural world, and each represented by a different type of villa accommodation. The Bird's Nest Pool Villas, the most remarkable of the four, draw on the Mud Clan's relationship with flight and nesting, and their architectural form is accordingly airborne: spherical or ovoid structures perched on angled timber poles above a jungle ravine, their rounded forms suggesting an enormous nest observed from below.
+Keemala occupies a hillside above the relatively quiet Kamala Beach on Phuket's west coast, and from arrival it is clear that the resort operates with a fully developed conceptual identity. The property is built around the mythology of four ancient Thai forest clans, each with a distinct relationship to the natural world, each represented by a different category of villa. The Bird's Nest Pool Villas, the most architecturally distinctive of the four, draw on the Pa-Hin clan's relationship with flight and nesting. The result is spherical and ovoid structures perched on angled timber poles above a jungle ravine, their rounded forms suggesting an enormous nest seen from below.
 
-The villas are not merely sculptural gestures, they are fully habitable luxury suites of considerable quality. Interiors are designed in warm organic materials, teak, rattan, handwoven Thai textiles, with a circular living plan that follows the external form. The private infinity pool sits on a deck that appears to float above the jungle canopy, with views extending to the Andaman Sea visible through the palm and rubber tree canopy. The outdoor rain shower occupies a separate pavilion within the villa's private garden, positioned for full garden privacy. All of this is achieved on elevated platforms that give the guest the physical sensation, walking to the pool, sitting at the outdoor dining table, of being genuinely suspended above the forest floor.
+These are not sculptural gestures alone: they are fully habitable suites of genuine quality. Interiors use warm organic materials, teak, rattan, and handwoven Thai textiles, arranged in a circular plan that follows the external form. The private infinity pool occupies a deck that appears to float above the canopy, with views through palm and rubber trees to the Andaman Sea. The rain shower stands in a separate pavilion within the private garden. On the elevated walkways and at the outdoor dining table, the physical sensation of being genuinely suspended over the forest floor is consistent and convincing.
 
-The Marbas Spa is one of the better hotel spas in Thailand, drawing on both traditional Thai healing traditions and Ayurvedic practices imported from the Indian subcontinent. The treatment menu includes a full Thai herbal compress massage, four-hand synchronised treatment, and a range of wellness journeys designed around the resort's clan mythology. Jungle treatments in open-air pavilions above the ravine are the most atmospherically distinctive option.
+The Marbas Spa is among the stronger hotel spas in Thailand. The treatment menu includes Thai herbal compress massage, a four-hand synchronised session, and wellness programmes organised around the resort's clan mythology. Treatments in outdoor pavilions above the ravine are the most atmospherically distinct option on the menu.
 
-Dining at Keemala is handled at two main venues: Manta, a restaurant specialising in traditional Thai home-cooking with garden produce, and the Raw restaurant offering organic, plant-forward cuisine with a particular focus on Thai botanical ingredients. The combination, coupled with the Andaman Sea views and the extraordinary architectural setting, makes Keemala one of the most complete luxury resort experiences in Thailand.
+Dining runs across two main venues: Manta, which focuses on traditional Thai home cooking made with garden produce, and Raw, an organic restaurant built around plant-forward cuisine with an emphasis on Thai botanical ingredients. The food, the sea views, and the architectural setting together make Keemala one of the more complete resort experiences currently operating in Thailand.

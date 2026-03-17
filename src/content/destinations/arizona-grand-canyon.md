@@ -19,10 +19,10 @@ mustSee:
   - "Bright Angel Trail, the most traveled inner canyon route, descending 4,380 feet over 9.5 miles to the Colorado River"
   - "Point Imperial and Cape Royal, North Rim viewpoints that reveal a completely different canyon than the South Rim shows"
   - "Desert View Watchtower, Mary Colter's 1932 stone tower at the canyon's east rim, designed in Puebloan architectural tradition"
-  - "Havasu Falls, turquoise waterfalls on the Havasupai Reservation below the western canyon; requires a permit and multi-day trek"
+  - "Havasu Falls, turquoise waterfalls on the Havasupai Reservation below the western canyon; requires a permit and multi day trek"
 travelTips:
   - "Inner canyon hiking reverses the difficulty, you go down first. Ascending in the heat of the day is where injuries and rescues occur. Start before dawn and be back at the rim by noon in summer."
-  - "Phantom Ranch reservations are conducted by lottery (open 15 months in advance) and are among the most sought-after bookings in the National Park system. Check the NPS website for current procedures."
+  - "Phantom Ranch reservations are conducted by lottery (open 15 months in advance) and are among the most sought after bookings in the National Park system. Check the NPS website for current procedures."
   - "The South Rim village area is accessible by free shuttle bus, private vehicles are restricted during peak season. Park at the visitor center or the outlying Tusayan lots."
   - "Havasu Falls permits are distributed by lottery through the Havasupai Tribe's website; demand is overwhelming and permits sell out within minutes of release."
 coordinates:
@@ -42,7 +42,7 @@ The most compelling accommodation the canyon offers is Phantom Ranch, the only p
 
 The North Rim receives only about 10% of Grand Canyon visitors despite offering views that many canyon veterans consider superior to the South Rim. The Grand Canyon Lodge, perched on Bright Angel Point, is a 1928 structure rebuilt after a 1932 fire; its main hall with floor-to-ceiling windows framing the canyon is one of the great architectural viewpoints in America. Cabins scattered along the rim offer private terraces with canyon views. The North Rim closes in mid-October when the first snows arrive; the access road (Arizona Highway 67) runs through ponderosa pine forest and meadows full of mule deer for its final miles.
 
-The Colorado River corridor at the canyon bottom is a world entirely separate from the rim experience. Multi-day rafting trips, ranging from 7 to 21 days depending on whether motorized or oar-powered craft are used, run the entire canyon length through 160 named rapids, with camping on sandy beaches beside the river each night. These are not casual adventures: permits are distributed by lottery, commercial trips book out years in advance, and the experience is physically demanding. A week floating the Colorado beneath the canyon's mile-high walls produces a relationship with this landscape that no amount of rim-standing can replicate.
+The Colorado River corridor at the canyon bottom is a world entirely separate from the rim experience. Multi day rafting trips, ranging from 7 to 21 days depending on whether motorized or oar-powered craft are used, run the entire canyon length through 160 named rapids, with camping on sandy beaches beside the river each night. These are not casual adventures: permits are distributed by lottery, commercial trips book out years in advance, and the experience is physically demanding. A week floating the Colorado beneath the canyon's mile-high walls produces a relationship with this landscape that no amount of rim-standing can replicate.
 
 The Havasupai Reservation occupies the western Grand Canyon, a sovereign nation whose village of Supai is the most remote community in the contiguous United States, accessible only by an 8-mile trail from the rim. The reservation's waterfalls, Havasu, Mooney, and Beaver Falls, cascade over travertine into pools of turquoise water that look photoshopped in person. The tribe operates a lodge and campground at the falls; permits are released by lottery each February and are exhausted within hours.
 

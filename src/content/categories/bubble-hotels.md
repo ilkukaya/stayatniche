@@ -17,10 +17,10 @@ seo:
 
 The entire concept starts with Kakslauttanen Arctic Resort in Saariselka, Finland. In the early 2000s, the property built thermally insulated transparent domes specifically so guests could watch the northern lights from bed. By 2010 it had attracted global attention and spawned a category. Kakslauttanen remains one of the most searched hotel properties on earth. It books out months in advance during aurora season, and that popularity has never really cooled.
 
-The engineering problem that had to be solved first: standard glass frosts over within minutes at -30°C. The double-walled, thermally treated panels used in modern bubble hotels maintain optical clarity through the night even at those temperatures. No condensation, no frosting, no interruption between you and the sky.
+There was an engineering problem to solve first: standard glass frosts over within minutes at -30°C. The double-walled, thermally treated panels used in modern bubble hotels maintain optical clarity through the night even at those temperatures. No condensation, no frosting, no interruption between you and the sky.
 
 
-A well-engineered bubble dome is no small achievement. The transparent panels, high-grade polycarbonate or double-pane thermally insulated glass, are curved to distribute structural stress evenly, letting the dome handle heavy snow loads without internal supports that would cut across your view. Heating elements within the panels prevent ice formation on the outer surface while interior climate control holds the bedroom at 18–22°C whatever is happening outside.
+A well-engineered bubble dome is no small achievement. The transparent panels — high-grade polycarbonate or double-pane thermally insulated glass — are curved to distribute structural stress evenly, letting the dome handle heavy snow loads without internal supports that would cut across your view. Heating elements within the panels prevent ice formation on the outer surface while interior climate control holds the bedroom at 18–22°C whatever is happening outside.
 
 The sky becomes your ceiling. The forest or dunes or vineyard around you becomes your walls. It's a sensation no conventional room with windows replicates: you're sheltered but visually surrounded by landscape.
 
@@ -36,7 +36,7 @@ Book at least two nights to improve your statistical chances of a clear sky. Che
 
 **Belgium, Sweden, and the Netherlands** each have established properties. **Jordan's Wadi Rum** makes the most dramatic case outside the Arctic: transparent domes inside a UNESCO World Heritage desert landscape of sandstone formations, under some of the world's darkest skies.
 
-**Spain's interior plateau regions**, Extremadura and Castile particularly, have seen new bubble hotel development capitalising on the peninsula's exceptional astronomical darkness.
+**Spain's interior plateau regions** — Extremadura and Castile particularly — have seen new bubble hotel development capitalising on the peninsula's exceptional astronomical darkness.
 
 
 Finnish bubble hotels provide heavy duvets and quality bedding, but pack wool base layers if you run cold. Even well-heated domes can have cool spots near the panels on the hardest nights. Blackout eye masks are counterproductive by definition. Accept that dawn will wake you naturally, which is generally a pleasure in a forest landscape. Robes and slippers are standard.

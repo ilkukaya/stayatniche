@@ -26,7 +26,7 @@ bestFor:
   - "Aurora hunters"
   - "Adventure couples"
   - "Arctic experience seekers"
-  - "Bucket-list travellers"
+  - "Unmissable travellers"
 bookingUrl: https://www.booking.com/hotel/no/sorrisniva-igloo-hotel.html
 rating: 9.0
 reviewCount: 847

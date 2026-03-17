@@ -1,6 +1,6 @@
 ---
 title: "Private Sunset Dolphin Cruise"
-type: water-activity
+type: water activity
 destination: "South Malé Atoll"
 country: "Maldives"
 description: "Sail into the golden hour aboard a traditional Maldivian dhoni as spinner dolphins arc and leap alongside the bow in one of the Indian Ocean's most joyful wildlife spectacles. This 2.5-hour private sunset cruise in South Malé Atoll times your departure to intersect with the atoll's resident dolphin pods as they begin their evening feeding runs, setting the scene for a sunset that turns the horizon every shade of amber, pink, and violet."
@@ -37,7 +37,7 @@ tags:
   - maldives
   - dhoni
   - south-male-atoll
-  - water-activity
+  - water activity
   - private-tour
   - indian-ocean
 seo:

@@ -4,7 +4,7 @@ category: desert-camps
 destination: Dubai Desert Conservation Reserve
 country: UAE
 continent: Asia
-description: A private Bedouin-inspired luxury resort within Dubai's only nature reserve, Arabian oryx graze outside your private pool, while falcons circle overhead in one of the Gulf's most remarkable wildlife sanctuaries. Al Maha offers an authentic desert encounter without leaving the Dubai emirate.
+description: "Set inside Dubai's 225-square-kilometre protected desert reserve, Al Maha's 42 suites each have a private infinity pool facing open sand where Arabian oryx — declared extinct in the wild in 1972 — now roam freely around the property."
 coverImage: /images/hotels/al-maha-dubai.jpg
 priceRange: "$900 - $2,500"
 priceIndicator: 5

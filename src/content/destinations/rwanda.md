@@ -43,7 +43,7 @@ Roughly 1,000 mountain gorillas remain on earth, all of them in a single transbo
 The trek ranges from 30 minutes to a full day, depending on where the assigned family has moved since the previous morning. Rangers track each family daily; scouts radio ahead to guide trekkers to the gorillas' location. The forest itself, bamboo at lower elevations, then Hagenia woodland, then moorland approaching the volcanic summits, is worth the journey on its own terms.
 
 
-Rwanda has deliberately positioned gorilla trekking as high-value, low-volume. The $1,500 permit isn't arbitrary: 10% of all park revenue goes directly to communities on the park boundary, giving local families a direct economic stake in gorilla survival. Rwanda's gorilla population has grown from 620 in 2010 to over 1,000 today. The model works.
+Rwanda has deliberately positioned gorilla trekking as high value, low volume. The $1,500 permit isn't arbitrary: 10% of all park revenue goes directly to communities on the park boundary, giving local families a direct economic stake in gorilla survival. Rwanda's gorilla population has grown from 620 in 2010 to over 1,000 today. The model works.
 
 The [safari lodges](/categories/safari-lodges) surrounding Volcanoes National Park have responded with some of Africa's most considered wilderness properties. Stone-walled lodges with fireplaces (the altitude means evenings are genuinely cold at 2,300m) sit at the forest edge where golden monkeys visit the gardens. Ranger-guided night walks and cultural visits to neighboring communities extend the experience well beyond the trek itself.
 
@@ -53,4 +53,4 @@ Nyungwe Forest in the southwest is one of Africa's oldest and most biodiverse ra
 Lake Kivu borders the DRC to the west: a vast freshwater lake surrounded by volcanic hills, its depths holding dissolved carbon dioxide and methane that the Rwandan government is actively extracting for energy. Beach lodges on Kivu's shore offer straightforward recovery from the physical demands of gorilla trekking.
 
 
-Kigali International Airport now receives direct flights from Brussels, London, Nairobi, and Addis Ababa. The drive to Volcanoes National Park takes around two and a half hours on well-maintained paved roads, refreshingly straightforward by East African standards. Rwanda's tourism infrastructure is among the best in continental Africa, which is one more thing that would have been impossible to predict in 1994.
+Kigali International Airport now receives direct flights from Brussels, London, Nairobi, and Addis Ababa. The drive to Volcanoes National Park takes around two and a half hours on well maintained paved roads, refreshingly straightforward by East African standards. Rwanda's tourism infrastructure is among the best in continental Africa, which is one more thing that would have been impossible to predict in 1994.

@@ -15,7 +15,7 @@ highlights:
   - "Average 3,000 vertical metres of skiing per day in the Selkirks"
   - "Legendary Selkirk Powder: deep, light, interior British Columbia snow"
   - "Expert mountain guides and certified avalanche safety professionals"
-  - "Luxury lodge accommodation available in multi-day packages"
+  - "Luxury lodge accommodation available in multi day packages"
   - "Maximum four skiers per guide for highly personalised terrain selection"
 included:
   - Helicopter flights between runs throughout the day
@@ -57,6 +57,6 @@ Runs in the Selkirks are measured in vertical kilometres. A typical run descends
 
 The quality of the skiing is impossible to fully convey to anyone who has only skied groomed pistes. Untracked powder at speed engages different muscles and different instincts; the skis float and the turns feel more like surfing than the edge-to-edge mechanics of piste skiing. Most participants report that their first run in genuine deep powder changes their understanding of what skiing is.
 
-**Best time to visit:** British Columbia's heli-skiing season runs from December through April. January and February typically offer the deepest snow and coldest temperatures. March brings better light and longer days while snow quality remains excellent. Most operators run multi-day packages (3-7 days) based out of luxury lodges in the mountains, creating a completely hands-on experience.
+**Best time to visit:** British Columbia's heli-skiing season runs from December through April. January and February typically offer the deepest snow and coldest temperatures. March brings better light and longer days while snow quality remains excellent. Most operators run multi day packages (3-7 days) based out of luxury lodges in the mountains, creating a completely hands-on experience.
 
 **Who it's for:** Advanced to expert skiers only. Operators assess skill levels honestly and will decline to take guests who cannot safely ski challenging off-piste terrain. Strong intermediate skiers may be accepted in powder-friendly conditions at the discretion of guides.

@@ -141,7 +141,7 @@ Cappadocia's valleys are walkable without guides, though a local map or GPS is a
 Derinkuyu, 29km south of Göreme, is the most impressive of Cappadocia's underground cities: an 8-level labyrinthine complex descending 60 metres, capable of sheltering 20,000 people along with their livestock and provisions. The carved ventilation shafts, churches, wine cellars, and communal spaces are extraordinary in scale. Plan 1.5–2 hours; the tunnels are low and narrow in places, claustrophobics should be forewarned.
 
 
-Several operators in Göreme offer half-day cooking classes focused on Anatolian cuisine: manti (Turkish dumplings), gözleme (flatbread), and slow-cooked clay pot dishes. A cultural experience that complements the historical immersion.
+Several operators in Göreme offer half day cooking classes focused on Anatolian cuisine: manti (Turkish dumplings), gözleme (flatbread), and slow-cooked clay pot dishes. A cultural experience that complements the historical immersion.
 
 
 A UNESCO site within the UNESCO site: a Byzantine monastic complex containing a dozen rock-cut churches with remarkably preserved 10th–13th century frescoes. Admission is modest; the Dark Church's frescoes (additional fee) are the finest examples.
@@ -153,7 +153,7 @@ A UNESCO site within the UNESCO site: a Byzantine monastic complex containing a 
 Cappadocia's ballooning industry has an excellent overall safety record, though a small number of incidents have occurred over the years, typically involving unlicensed or inexperienced operators. Turkey's Civil Aviation Authority (SHGM) licenses both operators and pilots; flying with a licensed operator significantly reduces risk. The major operators (Royal Balloon, Butterfly Balloons, Kapadokya Balloons) have strong safety cultures and internationally qualified pilots.
 
 
-The range is enormous. Budget cave guesthouses in Göreme start from €40–60/night. Mid-range boutique properties like Kelebek run €80–180/night. Premium experiences like Argos in Cappadocia and Museum Hotel range from €280–600+/night for standard rooms, with flagship suites exceeding €1,000/night.
+The range is enormous. Budget cave guesthouses in Göreme start from €40–60/night. Mid range boutique properties like Kelebek run €80–180/night. Premium experiences like Argos in Cappadocia and Museum Hotel range from €280–600+/night for standard rooms, with flagship suites exceeding €1,000/night.
 
 
 Absolutely. The valley landscapes, underground cities, cave churches, and the experience of staying in a cave hotel are all extraordinary independently. However, the balloon flight is the experience that most guests describe as the defining memory of their visit: the combination of silence, height, and the surreal landscape below is difficult to replicate.

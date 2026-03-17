@@ -4,7 +4,7 @@ category: "treehouse-hotels"
 destination: "Kaikōura"
 country: "New Zealand"
 continent: "Oceania"
-description: "Five luxury tree house suites perched 8 meters above a native manuka grove with sweeping views of the snow-capped Kaikōura Ranges on one side and the wild South Pacific on the other."
+description: "Five tree house suites perched 8 metres above a native manuka grove on a working deer farm, with the snow-dusted Kaikōura Ranges to the west and the South Pacific to the east. One of the few properties in New Zealand where you can watch sperm whales from a boat in the morning and eat venison from the farm at dinner."
 coverImage: "/images/hotels/hapuku-lodge-new-zealand.jpg"
 gallery:
   - "/images/hotels/hapuku-lodge-new-zealand-1.jpg"
@@ -96,10 +96,10 @@ The tree houses sleep two, making them ideal for couples, though families can bo
 
 **Kaikōura's Wildlife**
 
-Hapuku's location on the Kaikōura Peninsula is one of the great coincidences of New Zealand geography: a deep underwater canyon runs close to shore here, bringing sperm whales within viewing distance of land year-round. Whale Watch Kaikōura, operating from the town just five kilometers away, has an extraordinary 95% success rate for whale sightings. Dusky dolphins gather in superpods of hundreds, and swimming with them is possible most mornings. New Zealand fur seals loll on rocks at Ohau Point. Few places on earth pack this density of marine wildlife encounters into such a small area.
+Hapuku's location on the Kaikōura Peninsula is one of the great coincidences of New Zealand geography: a deep underwater canyon runs close to shore here, bringing sperm whales within viewing distance of land year-round. Whale Watch Kaikōura, operating from the town just five kilometres away, has a 95% success rate for whale sightings. Dusky dolphins gather in superpods of hundreds, and swimming with them is possible most mornings. New Zealand fur seals loll on rocks at Ohau Point. Few places on earth pack this density of marine wildlife encounters into such a small area.
 
 **The Food**
 
 The lodge restaurant is a genuine asset. Meals are built around ingredients from the on-site kitchen garden and the deer farm: venison features prominently and deservedly, whether cured, slow-braised, or grilled over charcoal. Local crayfish (Kaikōura is justly famous for them), New Zealand cheeses, and Central Otago wines round out a menu that is honest, seasonal, and excellent.
 
-Hapuku Lodge is one of those places that succeeds because it knows exactly what it is: a beautifully made, generously hosted property in a landscape of extraordinary natural drama. The tree houses are the headline, but it is the whole experience, the food, the wildlife, the mountains, the sea, that makes guests return.
+Hapuku Lodge succeeds because it knows exactly what it is: a beautifully made, generously hosted property in a landscape of genuine natural drama. The tree houses are the headline, but it is the whole experience — the food, the wildlife, the mountains, the sea — that makes guests return.

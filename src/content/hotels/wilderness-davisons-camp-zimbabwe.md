@@ -65,7 +65,7 @@ featured: false
 status: published
 seo:
   metaTitle: "Wilderness Davison's Camp Review, Hwange National Park, Zimbabwe"
-  metaDescription: "Intimate tented camp at Hwange's Ngweshla Pan, extraordinary elephant encounters, wild dog sightings, and Zimbabwe's world-class guiding. Easy combination with Victoria Falls. From $650/night."
+  metaDescription: "Intimate tented camp at Hwange's Ngweshla Pan, extraordinary elephant encounters, wild dog sightings, and Zimbabwe's exceptional guiding. Easy combination with Victoria Falls. From $650/night."
 ---
 
 Zimbabwe's safari reputation has always rested more on the quality of its guides than the luxury of its lodges, and Davison's Camp exemplifies this priority. The camp itself is intentionally intimate, nine tents positioned around a central pan area, their viewing decks oriented toward the waterhole that is the camp's defining feature, and what it lacks in the architectural drama of newer, more expensive operations it compensates for with something harder to manufacture: the knowledge, skill, and genuine passion of its Zimbabwean guiding team.

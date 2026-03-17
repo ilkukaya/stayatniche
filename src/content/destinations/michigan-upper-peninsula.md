@@ -20,13 +20,13 @@ mustSee:
   - "Porcupine Mountains Wilderness State Park, the largest old-growth forest in the Midwest"
   - "Presque Isle Park, Marquette, a rocky lake Superior shoreline within city limits"
   - "Miners Beach and Miners Castle rock formations at Pictured Rocks"
-  - "Mackinac Island, a car-free Victorian resort island in the Straits of Mackinac"
+  - "Mackinac Island, a car free Victorian resort island in the Straits of Mackinac"
 travelTips:
   - "The UP is genuinely remote, gas stations can be 40+ miles apart in the western sections. Keep your tank above half and carry a paper map."
   - "Blackflies (late May through mid-July) and mosquitoes are voracious in the UP's forests, pack bug net, DEET, and long sleeves for evening activities."
   - "Lake Superior's water temperature rarely exceeds 55°F even in August, hypothermia is a real risk; strong currents and large wave action make open-water swimming hazardous."
   - "Yoopers (UP residents) have a distinct cultural identity and dialect that outsiders find immediately charming, the pasty (a Finnish-Cornish meat pie) is the regional food."
-  - "Kayaking Pictured Rocks requires a permit for multi-day trips; guided kayak tours are the safest and most informative way to see the cliffs from the water."
+  - "Kayaking Pictured Rocks requires a permit for multi day trips; guided kayak tours are the safest and most informative way to see the cliffs from the water."
 coordinates:
   lat: 46.5607
   lng: -86.6687

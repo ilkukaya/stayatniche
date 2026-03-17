@@ -3,7 +3,7 @@ name: "Bora Bora Nui Resort & Spa"
 category: overwater-bungalows
 destination: "Bora Bora, Society Islands"
 country: "French Polynesia"
-description: "Expansive overwater bungalow resort on Bora Bora's legendary lagoon, with direct views of Mount Otemanu and some of the most spacious overwater accommodations in French Polynesia. A classic South Pacific paradise combining world-class snorkelling with Polynesian hospitality."
+description: "Bora Bora's lagoon produces a turquoise that photographs can't fully account for, and this resort sits on the outer reef with unobstructed views of Mount Otemanu from every bungalow deck. The 'Nui' in the name means big — the overwater living areas here are genuinely spacious, and the snorkelling from the private deck steps is among the best in French Polynesia."
 coverImage: /images/hotels/bora-bora-nui-resort.jpg
 gallery:
   - /images/hotels/bora-bora-nui-resort-2.jpg
@@ -13,7 +13,7 @@ priceIndicator: 4
 highlights:
   - "Overwater bungalows with direct Mount Otemanu views"
   - "Private lagoon access with some of the world's clearest water"
-  - "World-class snorkelling with sharks, rays, and tropical fish"
+  - "Exceptional snorkelling with sharks, rays, and tropical fish"
   - "Polynesian cultural experiences and outrigger canoe tours"
 amenities:
   - "Overwater bungalow with glass floor panels"
@@ -26,7 +26,7 @@ bestFor:
   - "Honeymooners"
   - "Couples"
   - "Snorkellers and divers"
-  - "Bucket-list South Pacific travellers"
+  - "Unmissable South Pacific travellers"
 bookingUrl: https://www.booking.com/hotel/pf/bora-bora-nui-resort-spa.html
 rating: 9.2
 reviewCount: 1876

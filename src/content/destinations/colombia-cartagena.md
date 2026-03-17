@@ -22,7 +22,7 @@ mustSee:
   - "Cartagena's rooftop sundowner bars, the best views of the illuminated old city walls and Caribbean sunset"
 travelTips:
   - "Stay inside the Walled City or in Getsemaní, proximity to the historic center transforms the experience. Bocagrande is the beach suburb but lacks character."
-  - "Book boat trips to the Rosario Islands early, day-trip boats from the main pier are crowded. Charter a private boat or book through your hotel."
+  - "Book boat trips to the Rosario Islands early, day trip boats from the main pier are crowded. Charter a private boat or book through your hotel."
   - "The heat and humidity are intense from 11am–4pm, plan walking tours for early morning or evening when the light is also better."
   - "Haggling is expected at craft markets but not in restaurants or established shops, read the room."
   - "Colombia's safety situation has improved dramatically but research your specific routes and areas, especially outside the main cities."

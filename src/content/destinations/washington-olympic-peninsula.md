@@ -13,7 +13,7 @@ essentials:
   plugType: "Type A/B (120V)"
 bestTimeToVisit:
   summary: "July–September"
-  details: "Summer (July–September) is the window for reliable weather and full trail access in the mountains, high passes are snowbound into June and may close again by October. The rainforest is magnificent year-round (the moss and ferns are most vivid in winter rain) but summer brings drier conditions and better trail access. The wilderness coast is dramatic in any season, fall and winter storms are extraordinary, but summer offers the most stable conditions for backpacking the Ozette Triangle and other multi-day coastal routes."
+  details: "Summer (July–September) is the window for reliable weather and full trail access in the mountains, high passes are snowbound into June and may close again by October. The rainforest is magnificent year-round (the moss and ferns are most vivid in winter rain) but summer brings drier conditions and better trail access. The wilderness coast is dramatic in any season, fall and winter storms are extraordinary, but summer offers the most stable conditions for backpacking the Ozette Triangle and other multi day coastal routes."
 mustSee:
   - "Hoh Rain Forest, ancient Sitka spruce and bigleaf maple smothered in club moss"
   - "Hurricane Ridge, mountain views and wildflower meadows above 5,000 feet"

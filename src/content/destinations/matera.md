@@ -41,7 +41,7 @@ seo:
 
 Carlo Levi, exiled here in 1935 by the Fascist government, wrote of Matera's sassi: "No one has touched a stone or changed its position." He meant it as indictment, the poverty of the cave dwellings, the malaria, the near-medieval conditions in this ravine city in southern Italy's instep. By 1952, the Italian government had forcibly evacuated the 15,000 people living in the sassi, deeming them a national embarrassment. Matera became a metaphor for southern Italian backwardness.
 
-What happened next is one of travel's great reversals. In 1993, UNESCO declared the sassi a World Heritage Site. In 2019, Matera was European Capital of Culture. The cave dwellings where families slept alongside their animals within living memory are now among the most sought-after hotel accommodations in Italy.
+What happened next is one of travel's great reversals. In 1993, UNESCO declared the sassi a World Heritage Site. In 2019, Matera was European Capital of Culture. The cave dwellings where families slept alongside their animals within living memory are now among the most sought after hotel accommodations in Italy.
 
 
 The two sassi districts, Sasso Caveoso and Sasso Barisano, tumble down the sides of the Gravina ravine in a maze of stacked cave homes, church facades, cisterns, and staircases that has no equivalent in Europe. From the Belvedere viewpoint across the gorge, the city looks almost geological rather than architectural, as if the buildings grew from the rock rather than were imposed upon it.

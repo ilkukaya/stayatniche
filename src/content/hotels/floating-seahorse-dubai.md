@@ -4,7 +4,7 @@ category: floating-hotels
 destination: The World Islands, Dubai
 country: UAE
 continent: Asia
-description: Dubai's most audacious accommodation concept, semi-submerged floating villas on private man-made islands, with bedrooms that descend three metres below the Arabian Gulf surface.
+description: Dubai's most audacious accommodation concept, semi-submerged floating villas on private artificial islands, with bedrooms that descend three metres below the Arabian Gulf surface.
 coverImage: /images/hotels/floating-seahorse-dubai.jpg
 priceRange: "$2,000 - $5,000"
 priceIndicator: 5
@@ -56,10 +56,10 @@ status: published
 publishedDate: 2025-01-22
 seo:
   metaTitle: "Floating Seahorse Dubai, Underwater Villa on The World Islands | StayAtNiche"
-  metaDescription: "Sleep 3 metres below the Arabian Gulf in Dubai's extraordinary Floating Seahorse villas, semi-submerged luxury on private man-made islands with rooftop sundeck."
+  metaDescription: "Sleep 3 metres below the Arabian Gulf in Dubai's extraordinary Floating Seahorse villas, semi-submerged luxury on private artificial islands with rooftop sundeck."
 ---
 
-Dubai has never done anything at half measures, and The Floating Seahorse is quintessentially Dubai in its audacity. These semi-submerged villas sit on The World Islands, a man-made archipelago shaped like a world map, and descend three metres below the surface of the Arabian Gulf.
+Dubai has never done anything at half measures, and The Floating Seahorse is quintessentially Dubai in its audacity. These semi-submerged villas sit on The World Islands, a artificial archipelago shaped like a world map, and descend three metres below the surface of the Arabian Gulf.
 
 
 The upper levels are familiar luxury: rooftop sundeck, overwater hammock, living room with sea views. But descend the spiral staircase and you enter another realm entirely. Your bedroom sits fully submerged, ringed by panoramic windows through which you can watch the fish population of your own artificial coral reef.

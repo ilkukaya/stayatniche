@@ -35,7 +35,7 @@ Here is honest, specific advice: where to go, which lodges offer the best value 
 Kenya is where modern safari began. The Masai Mara ecosystem, Kenya's share of the greater Serengeti, remains the most accessible, best-organised, and arguably most wildlife-dense safari environment in Africa. The Mara receives significant visitor numbers, particularly during the Great Migration (July–October). But "well-visited" should not be confused with "less worthwhile." The quality of wildlife encounters in the Masai Mara, the density of big cats, the elephant concentrations, the sheer quantity of plains game, is during peak season genuinely hard to beat.
 
 **Kenya's advantages for first-timers:**
-- Well-developed infrastructure (domestic flights, roads within reserves, multiple quality lodges at all price points)
+- Established infrastructure (domestic flights, roads within reserves, multiple quality lodges at all price points)
 - Experienced guiding community (Masai guides who grew up within the ecosystem)
 - Year-round wildlife (the Mara's resident population is exceptional even outside Migration season)
 - Cultural richness beyond wildlife (Masai culture is accessible and ethically engageable from quality lodges)
@@ -156,7 +156,7 @@ Game drives depart before dawn, typically 5:30–6:00am, to catch the period of 
 The main safari destinations, Kenya, Tanzania, Botswana, Zambia, and South Africa's safari regions, are generally safe for tourist visitors. The political and security situation varies; check your government's current travel advisory before departure. The specific concern in safari regions is not urban crime but wildlife encounters: your guides are trained to manage these, and following their instructions is the only protocol required.
 
 
-An 8–10 day first safari can range from approximately $3,000–5,000/person (budget camps, shared vehicles) to $15,000–25,000/person (ultra-luxury camps, private vehicles). A realistic mid-range first safari, with quality camps in the Masai Mara and Serengeti, shared game vehicles, and internal flights, runs approximately $6,000–10,000/person including international flights from Europe.
+An 8–10 day first safari can range from approximately $3,000–5,000/person (budget camps, shared vehicles) to $15,000–25,000/person (ultra-luxury camps, private vehicles). A realistic mid range first safari, with quality camps in the Masai Mara and Serengeti, shared game vehicles, and internal flights, runs approximately $6,000–10,000/person including international flights from Europe.
 
 
 For first-timers, a reputable specialist safari operator (Abercrombie & Kent, andBeyond Journeys, Natural Habitat Adventures, Wilderness Safaris, or one of dozens of regional specialists) adds real value: they know which camps have the best guides, which areas are producing the best wildlife in the current month, and how to structure an itinerary that makes geographic sense. The fee premium over self-booking is typically modest relative to the total trip cost and the value of expert knowledge.

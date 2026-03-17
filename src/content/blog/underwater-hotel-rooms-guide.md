@@ -55,7 +55,7 @@ While not strictly an underwater sleeping room, Huvafen Fushi's underground spa,
 ---
 
 
-The Manta Resort's underwater room on Pemba Island off Tanzania's coast is the most atmospheric and characterful underwater bedroom experience in the world, even if it cannot match the Maldives properties for technical polish. The structure, a floating platform anchored over a coral reef in the warm Indian Ocean, has three levels: a rooftop sundeck and lounge area, a sea-level platform with a ladder into the water, and a submerged bedroom 4 metres below the surface. Two portholes and a full-length window look directly into the coral reef.
+The Manta Resort's underwater room on Pemba Island off Tanzania's coast is the most atmospheric and characterful underwater bedroom experience in the world, even if it cannot match the Maldives properties for technical polish. The structure, a floating platform anchored over a coral reef in the warm Indian Ocean, has three levels: a rooftop sundeck and lounge area, a sea level platform with a ladder into the water, and a submerged bedroom 4 metres below the surface. Two portholes and a full-length window look directly into the coral reef.
 
 The underwater bedroom is surprisingly spacious and genuinely cosy, the underwater world visible through the glass provides both entertainment and atmosphere, and the isolation of the structure (it can only be reached by boat from the main resort on shore) creates a sense of extraordinary seclusion. Manta rays, turtles, octopus, and reef fish pass through the field of view regularly. At night, the underwater lights attract plankton, which in turn attract fish, the night-time underwater view is a bioluminescent spectacle.
 

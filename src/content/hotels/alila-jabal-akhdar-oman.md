@@ -4,7 +4,7 @@ category: cliffside-hotels
 destination: Al Dakhiliyah Governorate
 country: Oman
 continent: Asia
-description: A dramatic clifftop luxury resort 2,000 metres above sea level in the Al Hajar Mountains of Oman, with infinity pools seemingly hanging over a 1,000-metre gorge. Alila Jabal Akhdar offers an encounter with Oman's ancient mountain culture wrapped in world-class contemporary luxury.
+description: "Perched at 2,000 metres on the edge of Wadi Ghul in Oman's Al Hajar Mountains, Alila Jabal Akhdar has infinity pools and private plunge pools hanging over a gorge with a kilometre of vertical drop — and sits 10°C cooler than the coast year-round."
 coverImage: /images/hotels/alila-jabal-akhdar-oman.jpg
 priceRange: "$500 - $1,200"
 priceIndicator: 4
@@ -21,7 +21,7 @@ amenities:
   - Private plunge pool or terrace (most rooms)
   - Clifftop infinity pool
   - Overcliff Spa with signature treatments
-  - Multiple dining venues including open-air clifftop restaurant
+  - Multiple dining venues including outdoor clifftop restaurant
   - Fitness centre with panoramic gorge views
   - Complimentary via ferrata equipment
   - 24-hour butler service

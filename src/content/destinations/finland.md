@@ -27,7 +27,7 @@ travelTips:
   - "Aurora forecasts are unpredictable, book at least 5–7 nights in Lapland for a reasonable chance of a clear-sky sighting."
   - "Glass igloo cabins are heated and comfortable, the glass is double-glazed and thermostatically controlled."
   - "Finland's Everyman's Right (jokamiehenoikeus) allows free access to forests, lakes, and countryside for hiking and camping."
-  - "Finnish food has had a quiet revolution, Helsinki's restaurant scene is genuinely world-class; seek out tasting menus using lake fish and forest forage."
+  - "Finnish food has had a quiet revolution, Helsinki's restaurant scene is genuinely exceptional; seek out tasting menus using lake fish and forest forage."
 coordinates:
   lat: 61.9241
   lng: 25.7482

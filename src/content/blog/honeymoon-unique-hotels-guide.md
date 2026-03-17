@@ -23,7 +23,7 @@ seo:
 
 The honeymooners who remember their trip for the rest of their lives are not the ones who booked a nice resort and lay on a beach for a week. They're the ones who woke up above turquoise lagoons, walked through cloud forests at dawn, watched the Northern Lights from bed, or floated over fairy chimneys in a hot air balloon at sunrise. The accommodation choices in this guide share one criterion: they deliver the kind of experience that becomes part of a couple's shared story, the reference points invoked years later, the nights that become the answer to "what's the most extraordinary thing you've ever done together?"
 
-This guide is organised by experience type, with honest assessments of what makes each category special and practical advice on booking the most sought-after romantic stays.
+This guide is organised by experience type, with honest assessments of what makes each category special and practical advice on booking the most sought after romantic stays.
 
 ---
 
@@ -31,7 +31,7 @@ This guide is organised by experience type, with honest assessments of what make
 
 North Island in the Seychelles appears most consistently at the top of "best romantic hotels in the world" lists, and the property has earned that. Eleven villas on an 11-villa island, meaning each villa has approximately 1km of beach per couple on a good occupancy day, positioned in a landscape of extraordinary natural beauty: giant granite boulders emerging from brilliant white beaches, dense vegetation hosting the Seychelles' most endangered bird species (the property funds significant conservation programmes), and an Indian Ocean of spectacular marine richness.
 
-The villas themselves are 450 square metres each, with indoor and outdoor living spaces, private plunge pool, and a design that uses reclaimed timber, pandanus thatch, and local stone in ways that feel simultaneously luxurious and entirely organic to the island. The beds are under mosquito nets in open-air sleeping areas; the bath is in the garden; the overall feeling is of sleeping in the island itself.
+The villas themselves are 450 square metres each, with indoor and outdoor living spaces, private plunge pool, and a design that uses reclaimed timber, pandanus thatch, and local stone in ways that feel simultaneously luxurious and entirely organic to the island. The beds are under mosquito nets in outdoor sleeping areas; the bath is in the garden; the overall feeling is of sleeping in the island itself.
 
 **Why it's extraordinary for honeymooners:** North Island offers genuine privacy in a setting of exceptional natural beauty. The island's guided conservation activities, tortoise feeding, turtle nest monitoring, reef restoration snorkelling, give couples shared experiences of substance beyond the beach.
 
@@ -93,9 +93,9 @@ What makes Amangiri outstanding for honeymooners is the combination of architect
 ---
 
 
-Soneva Jani's Chapter Two over-water villas have a feature that no other overwater accommodation offers: a retractable roof. Slide it open from bed, and you are sleeping under the stars, or the Milky Way, since the Maldives' position away from light pollution makes the night sky genuinely extraordinary. Close it when it rains; open it again when the sky clears at 2am.
+Soneva Jani's Chapter Two overwater villas have a feature that no other overwater accommodation offers: a retractable roof. Slide it open from bed, and you are sleeping under the stars, or the Milky Way, since the Maldives' position away from light pollution makes the night sky genuinely extraordinary. Close it when it rains; open it again when the sky clears at 2am.
 
-One switch. One mechanism. One moment of revelation. This single architectural detail makes Soneva Jani one of the most sought-after honeymoon properties in the Indian Ocean.
+One switch. One mechanism. One moment of revelation. This single architectural detail makes Soneva Jani one of the most sought after honeymoon properties in the Indian Ocean.
 
 **Price range:** Chapter Two Overwater Villas from $3,500/night
 
@@ -103,7 +103,7 @@ One switch. One mechanism. One moment of revelation. This single architectural d
 
 
 
-Capella Ubud's treehouse (described in detail in our Bali guide) is the single most sought-after accommodation on the island for honeymooners: a private treehouse suite elevated 10 metres into the rainforest canopy, designed with theatrical imagination, and accessed by a suspension bridge.
+Capella Ubud's treehouse (described in detail in our Bali guide) is the single most sought after accommodation on the island for honeymooners: a private treehouse suite elevated 10 metres into the rainforest canopy, designed with theatrical imagination, and accessed by a suspension bridge.
 
 The treehouse concept, the childhood fantasy elevated to adult luxury, resonates strongly for couples beginning a new chapter. Sleeping in the trees, above the world, feels both escapist and celebratory.
 
@@ -150,7 +150,7 @@ The classic luxury honeymoon formula is two contrasting destinations: culture + 
 - **Japan + Maldives** (cultural extraordinary + relaxation)
 
 
-Honeymoon budgets vary enormously. This guide skews luxury because extraordinary honeymoon experiences tend to cost what extraordinary hotels cost. But the principle of "most memorable experience" applies at every price point: a tent at Capella Ubud is more romantic than a standard room at a five-star resort; a cave room at Kelebek in Cappadocia creates more memories than a beach hotel anywhere.
+Honeymoon budgets vary enormously. This guide skews luxury because extraordinary honeymoon experiences tend to cost what extraordinary hotels cost. But the principle of "most memorable experience" applies at every price point: a tent at Capella Ubud is more romantic than a standard room at a five star resort; a cave room at Kelebek in Cappadocia creates more memories than a beach hotel anywhere.
 
 ---
 

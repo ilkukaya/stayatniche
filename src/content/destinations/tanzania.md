@@ -2,7 +2,7 @@
 name: Tanzania
 type: country
 continent: Africa
-description: "Home to the Serengeti, Ngorongoro Crater, Zanzibar's spice-scented islands, and the roof of Africa on Mount Kilimanjaro, Tanzania packs more bucket-list landmarks per square kilometre than almost any country on earth. It is wildlife travel and island escape combined in a single extraordinary destination."
+description: "Home to the Serengeti, Ngorongoro Crater, Zanzibar's spice-scented islands, and the roof of Africa on Mount Kilimanjaro, Tanzania packs more unmissable landmarks per square kilometre than almost any country on earth. It is wildlife travel and island escape combined in a single extraordinary destination."
 coverImage: /images/destinations/tanzania.jpg
 essentials:
   currency: "TZS (Tanzanian Shilling); USD widely used for lodge payments and park fees"

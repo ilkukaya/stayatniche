@@ -3,7 +3,7 @@ name: "Gili Lankanfushi"
 category: overwater-bungalows
 destination: "North Malé Atoll, Maldives"
 country: "Maldives"
-description: "Award-winning eco-luxury resort in North Malé Atoll, home to the world's largest overwater villa, the Private Reserve, and a commitment to sustainability that has made it the benchmark for responsible Maldivian hospitality. Just 20 minutes by speedboat from Malé airport."
+description: "Twenty minutes by speedboat from Malé, Gili Lankanfushi is home to the world's largest overwater villa — the 1,600 sqm Private Reserve — and a coral restoration programme that puts its sustainability credentials well ahead of the Maldivian pack."
 coverImage: /images/hotels/gili-lankanfushi-maldives.jpg
 gallery:
   - /images/hotels/gili-lankanfushi-maldives-2.jpg
@@ -12,7 +12,7 @@ priceRange: "$1,000 - $10,000"
 priceIndicator: 5
 highlights:
   - "World's largest overwater villa, the Private Reserve at 1,600 sqm"
-  - "Multiple award-winning sustainable luxury resort"
+  - "Multiple acclaimed sustainable luxury resort"
   - "Dedicated 'Mr. Friday' personal butler for every villa"
   - "Pristine house reef with exceptional snorkelling directly from the villas"
 amenities:
@@ -36,12 +36,12 @@ coordinates:
 featured: false
 ---
 
-In the competitive landscape of Maldivian luxury resorts, and it is a genuinely competitive landscape, with more than a hundred exceptional properties strung across 1,000 islands, Gili Lankanfushi has carved out a position of particular distinction through a combination of outstanding accommodation, exceptional service, and a sustainability commitment that goes far beyond the ceremonial green credentials that many resorts adopt for marketing purposes.
+More than a hundred exceptional resorts are strung across a thousand Maldivian islands, and Gili Lankanfushi occupies a clear position at the top of that field — earned through accommodation, service, and a sustainability commitment that runs considerably deeper than the obligatory green credentials most resorts display for marketing purposes.
 
-The resort occupies a private island in North Malé Atoll, just twenty minutes from the international airport by speedboat, a location that eliminates the seaplane transfer and internal flight connections required by more remote atolls. The house reef wraps around the island and is accessible directly from most villas, offering snorkelling of consistent quality: reef sharks, turtles, eagle rays, and the extraordinary density of coral fish that characterises an undisturbed Maldivian reef are standard sightings on morning swims.
+The North Malé Atoll location is a practical advantage as much as a scenic one. A twenty-minute speedboat transfer from the international airport replaces the seaplane connections and internal flights required to reach more remote atolls, meaning the journey begins quickly and the island reef is accessible almost immediately. That reef wraps the entire island, and it justifies the early alarm: reef sharks, hawksbill turtles, eagle rays, and the dense shoals of coral fish that characterise an undisturbed Maldivian ecosystem are routine morning sightings from the steps of the villas.
 
-The villa architecture represents the state of the art in overwater design. Structures are built on stilts above the lagoon from sustainably certified timber and local materials, with thatched roofs that maintain natural ventilation in the tropical heat. Each villa has a private deck with sun loungers and a hammock suspended over the water, steps descending to the lagoon for swimming, and an outdoor bathroom with a rain shower positioned above the sea. The Private Reserve, which occupies its own isolated section of the lagoon, is the largest overwater villa in the world at 1,600 square metres: a private compound with its own swimming pool, cinema, multiple bathrooms, and a guest house, the kind of accommodation that exists at the absolute frontier of what luxury hospitality can construct above a tropical lagoon.
+The villa architecture is built on stilts from sustainably certified timber, with thatched roofs that work with the tropical heat rather than against it. Each has a private deck with a hammock slung above the water, direct lagoon steps, and an outdoor rain shower positioned over the sea. The Private Reserve sits in its own isolated section of the lagoon and occupies 1,600 square metres — a private compound with a pool, cinema, multiple bathrooms, and a separate guest house. It is, by measure, the largest overwater villa in the world, and the experience of occupying it is about as far from ordinary hotel accommodation as the industry currently gets.
 
-The "Mr. Friday" butler system, each guest pair is assigned their own personal butler for the duration of their stay, is a service model that is often imitated but rarely matched in genuine attentiveness. The Friday team is selected for emotional intelligence as much as professional competence, and the result is service that anticipates without intruding, the mark of the very best hospitality.
+Each guest pair is assigned their own "Mr. Friday" personal butler for the full duration of their stay. The Friday team is chosen for emotional intelligence as much as professional competence, and the result is service that anticipates without intruding — still, after all the imitators, one of the more genuinely impressive hospitality models in the Indian Ocean.
 
-Gili Lankanfushi's sustainability credentials are substantive: the island runs an active coral restoration programme, operates a desalination plant to avoid groundwater depletion, eliminates single-use plastics rigorously, and publishes annual sustainability reports with measurable targets. It is a resort that takes seriously the fragility of the environment it inhabits, and that seriousness makes the beauty it offers feel more rather than less precious.
+The sustainability work is concrete and verifiable: an active coral restoration programme with measurable transplant targets, a desalination plant that avoids groundwater depletion, the rigorous elimination of single-use plastics, and annual sustainability reports that publish actual numbers rather than aspirational language. The resort takes the fragility of the ecosystem it profits from seriously, and that seriousness makes the beauty it offers feel more, not less, worth the price.

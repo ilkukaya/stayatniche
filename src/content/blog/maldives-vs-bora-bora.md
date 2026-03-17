@@ -31,7 +31,7 @@ This comparison covers every dimension that matters: cost, logistics, marine lif
 Both destinations are expensive. Neither is a budget destination. But the price structures differ.
 
 - **Budget overwater bungalows:** $600–$900/night (guesthouses on local islands, small resorts)
-- **Mid-range resorts:** $900–$1,800/night (includes most meals, transfers)
+- **Mid range resorts:** $900–$1,800/night (includes most meals, transfers)
 - **Luxury resorts:** $1,800–$5,000+/night (Soneva Jani, Six Senses Laamu, Four Seasons Kuda Huraa)
 - **Ultra-luxury:** $5,000–$15,000+/night (private island rentals, Soneva Fushi private residences)
 
@@ -39,7 +39,7 @@ The Maldives pricing typically includes **full-board or all-inclusive** rates be
 
 **Speedboat or seaplane transfers from Malé** add $200–$600 per person to your bill and are non-negotiable for most resorts. This is the hidden cost most first-timers miss.
 
-- **Mid-range overwater bungalows:** $800–$1,500/night
+- **Mid range overwater bungalows:** $800–$1,500/night
 - **Luxury resorts:** $1,500–$3,500/night (Four Seasons, Intercontinental, St Regis)
 - **Ultra-luxury:** $3,500–$5,000+/night (Conrad Bora Bora Nui, Le Bora Bora by Pearl Resorts)
 
@@ -61,7 +61,7 @@ The seaplane window is non-negotiable: seaplanes only fly in daylight, typically
 - From Papeete, take **Air Tahiti** to Bora Bora Airport (BOB): ~50 minutes on a small propeller aircraft
 - From the airport (on a small motu), take a **boat shuttle** to your resort or Vaitape, 10–20 minutes
 
-The Air Tahiti leg is often the sticking point. Flights from Papeete to Bora Bora are limited (typically 3–5 per day), fill quickly, and the small aircraft mean luggage restrictions. From the US West Coast, the routing is relatively straightforward. From Europe, it involves two long-haul legs plus the inter-island hop, a longer journey than to the Maldives for most European travellers.
+The Air Tahiti leg is often the sticking point. Flights from Papeete to Bora Bora are limited (typically 3–5 per day), fill quickly, and the small aircraft mean luggage restrictions. From the US West Coast, the routing is relatively straightforward. From Europe, it involves two long haul legs plus the inter-island hop, a longer journey than to the Maldives for most European travellers.
 
 **Verdict on getting there:** The Maldives has more direct international flight options and the seaplane transfer is an experience in itself. Bora Bora's routing is more complex, especially from Europe, but Papeete itself is worth an extra night if you have time.
 
@@ -196,4 +196,4 @@ Most people find one trip satisfying for years. If you do both, do the Maldives 
 May through October is the dry season, the best weather window. This period also overlaps with humpback whale season (July–November), making July–October the optimal window for both weather and wildlife.
 
 **Can you do both destinations on one trip?**
-Logistically yes, but it is complex. Maldives (via Dubai/Doha) and Bora Bora (via Los Angeles or Sydney) are in different oceanic hemispheres, combining them means multiple long-haul legs. A more practical approach is to visit one on the current trip and save the other for a future milestone.
+Logistically yes, but it is complex. Maldives (via Dubai/Doha) and Bora Bora (via Los Angeles or Sydney) are in different oceanic hemispheres, combining them means multiple long haul legs. A more practical approach is to visit one on the current trip and save the other for a future milestone.

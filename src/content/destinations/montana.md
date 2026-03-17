@@ -27,7 +27,7 @@ travelTips:
   - "Glacier National Park requires timed entry reservations on Recreation.gov for the Going-to-the-Sun Road corridor during summer peak season."
   - "Bears, both black and grizzly, are common throughout the state; always carry bear spray and make noise while hiking."
   - "Montana's distances are enormous, towns are far apart and fuel up frequently in rural areas; 'next gas 80 miles' signs are real."
-  - "Fly-fishing the Madison, Gallatin, or Blackfoot rivers is world-class; guided half-day trips from outfitters in Bozeman or Missoula are the best introduction."
+  - "Fly-fishing the Madison, Gallatin, or Blackfoot rivers is exceptional; guided half day trips from outfitters in Bozeman or Missoula are the best introduction."
   - "Summer wildfire smoke can significantly affect air quality and mountain views in July and August, have flexible plans."
   - "Ranching culture is pervasive and genuine; treat private land boundaries with respect and always ask before crossing."
 coordinates:

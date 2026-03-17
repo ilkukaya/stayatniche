@@ -2,7 +2,7 @@
 name: "Japan, Kyoto & Beyond"
 type: country
 continent: "Asia"
-description: "Kyoto is the spiritual and cultural heart of Japan, a city of 1,600 Buddhist temples, 400 Shinto shrines, and 17 UNESCO World Heritage Sites that somehow functions as a living, working city rather than an open-air museum. Beyond the imperial capital, Japan's ryokan inns, forest onsen, and mountain village guesthouses offer the world's most refined intimate accommodation tradition."
+description: "Kyoto is the spiritual and cultural heart of Japan, a city of 1,600 Buddhist temples, 400 Shinto shrines, and 17 UNESCO World Heritage Sites that somehow functions as a living, working city rather than an outdoor museum. Beyond the imperial capital, Japan's ryokan inns, forest onsen, and mountain village guesthouses offer the world's most refined intimate accommodation tradition."
 coverImage: /images/destinations/japan-kyoto.jpg
 essentials:
   currency: "JPY (Japanese Yen); Japan is still substantially cash-based, carry yen at all times"
@@ -40,10 +40,10 @@ Kyoto was Japan's imperial capital for over a thousand years, from 794 to 1869, 
 
 Japan's ryokan, the traditional inn, typically family-run and built around the same site for generations, is one of the world's great accommodation formats. The best combine tatami-floored rooms, futon bedding, private or shared outdoor onsen (geothermal hot spring baths), and kaiseki cuisine into a total immersion in Japanese aesthetic values: wabi-sabi (the beauty of imperfection), ichigo ichie (the unrepeatable nature of each moment), omotenashi (hospitality that anticipates needs before they are expressed).
 
-The onsen ryokan tradition runs deepest away from Kyoto in mountain resort towns: Kinosaki Onsen, where seven public bathhouses are strolled between in yukata robes on willow-lined canal streets; Kurokawa Onsen, a village of 30 ryokan with open-air rotenburo baths above a river gorge; Hakone, with Fuji visible across the caldera lake on clear mornings. These are the closest Japanese equivalent to the intimate, environment-defined stays you find in [bubble hotels](/categories/bubble-hotels) or [cave hotels](/categories/cave-hotels) elsewhere.
+The onsen ryokan tradition runs deepest away from Kyoto in mountain resort towns: Kinosaki Onsen, where seven public bathhouses are strolled between in yukata robes on willow-lined canal streets; Kurokawa Onsen, a village of 30 ryokan with outdoor rotenburo baths above a river gorge; Hakone, with Fuji visible across the caldera lake on clear mornings. These are the closest Japanese equivalent to the intimate, environment-defined stays you find in [bubble hotels](/categories/bubble-hotels) or [cave hotels](/categories/cave-hotels) elsewhere.
 
 
-The Kii Peninsula, south of Osaka, contains the Kumano Kodo pilgrimage routes, mountain trails through cryptomeria forest connecting a series of grand shrines. The multi-day walk (4–6 days from Kii-Tanabe to the grand shrines) is the closest Japan comes to the Camino de Santiago in terms of difficulty and atmosphere. Simple mountain guesthouses (minshuku) along the route provide meals, futon beds, and the conversation of fellow pilgrims.
+The Kii Peninsula, south of Osaka, contains the Kumano Kodo pilgrimage routes, mountain trails through cryptomeria forest connecting a series of grand shrines. The multi day walk (4–6 days from Kii-Tanabe to the grand shrines) is the closest Japan comes to the Camino de Santiago in terms of difficulty and atmosphere. Simple mountain guesthouses (minshuku) along the route provide meals, futon beds, and the conversation of fellow pilgrims.
 
 In the Japanese Alps, the mountain village of Shirakawa-go (UNESCO World Heritage) preserves farmhouses with steeply pitched thatched roofs, gassho-zukuri, literally 'hands in prayer', in a landscape of rice paddy and mountain backdrop. Several operate as guesthouses. Sleeping in a structure built in the 17th century that still functions as it was designed to is a quietly profound thing.
 

@@ -3,7 +3,7 @@ name: Ashford Castle
 category: castle-hotels
 destination: Cong, County Mayo
 country: Ireland
-description: Built in 1228 and set on 350 acres of stunning Irish countryside on the shores of Lough Corrib, Ashford Castle is Ireland's most celebrated castle hotel. Five-star luxury meets medieval grandeur across 83 uniquely decorated rooms and suites within the authentic castle walls.
+description: Built in 1228 on the shores of Lough Corrib in County Mayo, Ashford Castle is the real thing — not a Victorian hotel with a turret, but 800 years of Irish history spread across 350 acres with 83 individually designed rooms, Ireland's best falconry school, and a dining room that takes the surrounding land seriously.
 coverImage: /images/hotels/ashford-castle-ireland.jpg
 gallery:
   - /images/hotels/ashford-castle-ireland-2.jpg
@@ -18,7 +18,7 @@ highlights:
   - Full sporting estate with fishing, shooting, archery
 amenities:
   - Individually designed castle rooms
-  - Award-winning spa
+  - Acclaimed spa
   - Multiple dining venues
   - Heated indoor pool
   - Private cinema

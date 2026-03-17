@@ -16,7 +16,7 @@ highlights:
   - "Maya pottery shards and ceremonial artefacts visible in the caves"
   - "Jungle hike to the cave entrance through Tapir Mountain Nature Reserve"
   - "Expert local guides with deep cultural and geological knowledge"
-  - "Swimming in crystal-clear underground river pools"
+  - "Swimming in crystal clear underground river pools"
 included:
   - Certified cave tubing guide
   - Inner tube and life jacket

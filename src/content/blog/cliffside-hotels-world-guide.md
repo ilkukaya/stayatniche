@@ -23,7 +23,7 @@ seo:
 
 A cliffside hotel does one thing no other property category can: it puts you at the actual edge of the land, with everything dropping away beneath you. Sea, valley, or desert below; sky above; the horizon unbroken. The finest properties have understood for decades that the view is not an amenity, it is the product. Everything else (the food, the pool, the service) is secondary.
 
-Infinity pools that merge with the sea; full glass walls that remove the boundary between room and landscape; cliff-edge dining terraces where you're eating against a sunset that looks theatrical because it genuinely is, the world's best cliffside hotels are defined by architecture that serves the position rather than competing with it.
+Infinity pools that merge with the sea; full glass walls that remove the boundary between room and landscape; cliff edge dining terraces where you're eating against a sunset that looks theatrical because it genuinely is, the world's best cliffside hotels are defined by architecture that serves the position rather than competing with it.
 
 This guide covers the most celebrated cliffside destinations, recommends specific properties, and gives you the practical information you need to book the right one.
 
@@ -41,13 +41,13 @@ The newest and most ambitious of the Canaves group's Santorini properties, Canav
 **Best for:** Honeymoons, special occasions, design-conscious travellers who want Santorini's finest contemporary architecture
 
 
-Grace was among the first Santorini hotels to attract serious international media attention for the quality of its design. Positioned at Imerovigli, the highest point on the caldera rim, the hotel's cliff-edge infinity pool photographs are among the most reproduced hotel images in travel. The 21 rooms and suites are whitewashed and minimal, allowing the caldera view to dominate everything. The champagne terrace at sunset is one of the defining Santorini experiences.
+Grace was among the first Santorini hotels to attract serious international media attention for the quality of its design. Positioned at Imerovigli, the highest point on the caldera rim, the hotel's cliff edge infinity pool photographs are among the most reproduced hotel images in travel. The 21 rooms and suites are whitewashed and minimal, allowing the caldera view to dominate everything. The champagne terrace at sunset is one of the defining Santorini experiences.
 
 **Price range:** Rooms from €600/night; suites from €1,200/night
 **Best for:** Couples, photographers, travellers who value position and view over room size
 
 
-One of Santorini's oldest and most celebrated luxury hotels, Katikies occupies a prime caldera position in Oia and operates three cliff-face pools visible from below, a signature architectural element that has appeared in countless travel magazine features. The 27 rooms and suites are individually decorated with a sophisticated mix of Cycladic tradition and contemporary design; the Chateau Nico wine bar holds the world's most extensive collection of Santorini wines.
+One of Santorini's oldest and most celebrated luxury hotels, Katikies occupies a prime caldera position in Oia and operates three cliff face pools visible from below, a signature architectural element that has appeared in countless travel magazine features. The 27 rooms and suites are individually decorated with a sophisticated mix of Cycladic tradition and contemporary design; the Chateau Nico wine bar holds the world's most extensive collection of Santorini wines.
 
 **Price range:** Rooms from €500/night
 **Best for:** Wine enthusiasts, couples, those wanting Oia's most celebrated historic hotel address
@@ -60,7 +60,7 @@ Italy's Amalfi Coast combines cliffside drama with one of the world's greatest c
 
 Set in a 12th-century villa on the cliffs above Ravello, perched 350 metres above the sea, the highest town on the coast, Palazzo Avino is among Italy's finest coastal hotels. The former private palazzo was converted to a hotel in 1997; the 43 rooms and suites maintain an aristocratic atmosphere of frescoed ceilings, antique furnishings, and carefully selected art. The pool terrace and restaurant overlook the entire coastline from Amalfi to Capri, and the Michelin-starred Pink Sapphire restaurant is the finest dining on the coast.
 
-**Price range:** Deluxe rooms from €600/night; cliff-face suites from €1,500/night
+**Price range:** Deluxe rooms from €600/night; cliff face suites from €1,500/night
 **Best for:** Food lovers, couples celebrating milestones, those wanting the finest Amalfi address
 
 
@@ -83,7 +83,7 @@ Converted from a 19th-century manor house on the banks of the Douro, Six Senses'
 ---
 
 
-Jordan's extraordinary desert landscapes have produced some of the world's most dramatic cliff-face hotel experiences. Petra, the Nabataean city carved directly into rose-red sandstone cliffs 2,000 years ago, has several hotels positioned at the city's edges with outstanding views of the cliff faces and carved facades.
+Jordan's extraordinary desert landscapes have produced some of the world's most dramatic cliff face hotel experiences. Petra, the Nabataean city carved directly into rose-red sandstone cliffs 2,000 years ago, has several hotels positioned at the city's edges with outstanding views of the cliff faces and carved facades.
 
 **Mövenpick Resort Petra**
 
@@ -110,7 +110,7 @@ Colombia's walled city of Cartagena, a UNESCO World Heritage Site on the Caribbe
 
 **Casa San Agustin, Cartagena**
 
-Within Cartagena's walled city, Casa San Agustin connects three historic colonial mansions through a network of courtyards and terraces, with the city walls and their views across the Caribbean bay providing the cliff-edge drama. This is an urban cliff-top experience, the hotel stands on ancient fortifications rather than a natural cliff position, but the combination of view and historical architecture makes it compelling.
+Within Cartagena's walled city, Casa San Agustin connects three historic colonial mansions through a network of courtyards and terraces, with the city walls and their views across the Caribbean bay providing the cliff edge drama. This is an urban clifftop experience, the hotel stands on ancient fortifications rather than a natural cliff position, but the combination of view and historical architecture makes it compelling.
 
 **Price range:** Rooms from $400/night
 **Best for:** History and architecture enthusiasts, Caribbean itinerary travellers, couples

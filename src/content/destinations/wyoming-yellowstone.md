@@ -13,7 +13,7 @@ essentials:
   plugType: "Type A/B (120V)"
 bestTimeToVisit:
   summary: "June–September and December–March"
-  details: "Summer (July–August) is peak season with all roads and facilities open, maximum wildlife activity, and maximum crowds. June is excellent for wildflowers and newborn wildlife with slightly fewer visitors. September is arguably ideal, elk rut fills the valleys with bugling, aspen trees turn gold, and summer crowds have thinned substantially. Winter transforms Yellowstone into a snow-covered thermal landscape of extraordinary drama; the park is accessible by snowcoach or snowmobile from the West and North entrances, and wildlife is highly concentrated and visible."
+  details: "Summer (July–August) is peak season with all roads and facilities open, maximum wildlife activity, and maximum crowds. June is excellent for wildflowers and newborn wildlife with slightly fewer visitors. September is arguably ideal, elk rut fills the valleys with bugling, aspen trees turn gold, and summer crowds have thinned substantially. Winter transforms Yellowstone into a snow covered thermal landscape of extraordinary drama; the park is accessible by snowcoach or snowmobile from the West and North entrances, and wildlife is highly concentrated and visible."
 mustSee:
   - "Old Faithful and the Upper Geyser Basin, the world's greatest concentration of geysers"
   - "Grand Prismatic Spring, the largest hot spring in the US, vivid rainbow colors visible from the overlook trail"

@@ -16,7 +16,7 @@ highlights:
   - "Exceptional cheetah populations and sightings"
   - "Black and white rhino on the same reserve"
   - "Africa's only sand forest ecosystem housing secretive forest cats and rare birds"
-  - "Award-winning community conservation model"
+  - "Acclaimed community conservation model"
   - "The acclaimed Ocean Lodge offers combination bush-and-beach experiences"
 amenities:
   - "Six camp options from intimate glass-and-steel suites to classic canvas"

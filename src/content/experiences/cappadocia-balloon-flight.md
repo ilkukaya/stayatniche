@@ -31,7 +31,7 @@ reviewCount: 4821
 featured: true
 tags:
   - adventure
-  - bucket-list
+  - unmissable
   - cappadocia
   - aerial
   - sunrise

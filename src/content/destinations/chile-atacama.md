@@ -32,7 +32,7 @@ coordinates:
 featured: false
 seo:
   metaTitle: "Atacama Desert Chile Travel Guide, Desert Lodges & Stargazing | StayAtNiche"
-  metaDescription: "Atacama Desert travel guide, Valle de la Luna, El Tatio geysers, salt flat flamingos, world-class stargazing, and boutique desert lodges in San Pedro."
+  metaDescription: "Atacama Desert travel guide, Valle de la Luna, El Tatio geysers, salt flat flamingos, exceptional stargazing, and boutique desert lodges in San Pedro."
 ---
 
 The comparison to Mars is not hyperbole. It is the conclusion reached independently by scientists, astronauts, and ordinary travelers who encounter a landscape where it has not rained meaningfully for decades, where volcanoes steam on the horizon, where the salt flats are large enough to see the curvature of the planet, and where the night sky is so dense with stars that the Milky Way casts a shadow. The Atacama does not look like Earth.
@@ -45,6 +45,6 @@ El Tatio, at 4,300 meters, requires a 4am departure from San Pedro to arrive bef
 
 Atacama's lodge accommodation has reached a level of sophistication that justifies making the destination primarily about the stay rather than the excursions. The best desert lodges are built in adobe and volcanic stone, with private plunge pools heated against the cold Andean nights, outdoor fireplaces, and astronomy decks with telescopes trained on skies that include nebulae visible to the naked eye.
 
-Several properties operate entirely off-grid: solar-powered, water-recycling, with food gardens that somehow produce vegetables in the driest place on earth through careful drip irrigation. The architectural language throughout draws from vernacular Atacameño building traditions: low horizontal forms, rough-textured walls, internal courtyards that trap warmth from the intense desert sun.
+Several properties operate entirely off grid: solar-powered, water-recycling, with food gardens that somehow produce vegetables in the driest place on earth through careful drip irrigation. The architectural language throughout draws from vernacular Atacameño building traditions: low horizontal forms, rough-textured walls, internal courtyards that trap warmth from the intense desert sun.
 
 The reason the European Southern Observatory built its Very Large Telescope in the Atacama, and why the ALMA array of 66 radio antennas sits at 5,000 meters altitude nearby, is that the atmosphere here is dryer and more transparent than anywhere else on earth at accessible altitude. Night sky tours with professional astronomers, using research-grade equipment, reveal details of the southern hemisphere sky unavailable from any other location where travelers actually go: the Carina Nebula, Centaurus A, the Magellanic Clouds at their most brilliant. These are not casual stargazing experiences. They are encounters with deep space that leave people permanently altered in their sense of scale.

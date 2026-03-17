@@ -4,7 +4,7 @@ category: "cave-hotels"
 destination: "Matera"
 country: "Italy"
 continent: "Europe"
-description: "A sublime boutique hotel carved into the ancient sassi cave dwellings of Matera, a UNESCO World Heritage city continuously inhabited for 9,000 years and once considered the 'shame of Italy', now one of its most extraordinary destinations."
+description: "Eighteen cave chambers in Matera's ancient sassi district, restored to expose their original tuff-stone walls and vaulted ceilings rather than conceal them — a city once called 'the shame of Italy' now home to one of its most sought-after hotels."
 coverImage: "/images/hotels/sextantio-cave-italy.jpg"
 gallery:
   - "/images/hotels/sextantio-cave-italy-1.jpg"

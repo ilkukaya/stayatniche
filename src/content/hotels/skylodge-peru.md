@@ -30,7 +30,7 @@ bestFor:
   - Adventure travellers with a head for heights
   - Couples seeking the world's most dramatic romantic experience
   - Photographers chasing Andean dawn and dusk light
-  - Bucket-list experience seekers
+  - Unmissable experience seekers
 prosAndCons:
   pros:
     - Absolutely unrivalled views, arguably the most dramatic hotel vantage point on Earth

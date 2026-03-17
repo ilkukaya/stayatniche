@@ -23,7 +23,7 @@ seo:
 
 Scotland makes extraordinary accommodation feel inevitable. A country of this dramatic beauty, where Highland glens descend to sea lochs, where the ruins of medieval fortifications crown every promontory, where the weather delivers a light that transforms landscape moment by moment, naturally produces hotels that understand their setting as the primary asset.
 
-The castle hotel is Scotland's most distinctive contribution to the world's extraordinary accommodation catalogue. Unlike the tower-house conversions of Ireland or the Renaissance palazzo hotels of Italy, Scotland's castle hotels are often working estates that have been continuously inhabited since the Middle Ages, preserving, in the most successful cases, an authenticity of atmosphere that purpose-built luxury hotels cannot manufacture. You don't feel transported to Scotland in a Scottish castle hotel. You feel that you're inside Scotland itself.
+The castle hotel is Scotland's most distinctive contribution to the world's extraordinary accommodation catalogue. Unlike the tower-house conversions of Ireland or the Renaissance palazzo hotels of Italy, Scotland's castle hotels are often working estates that have been continuously inhabited since the Middle Ages, preserving, in the most successful cases, an authenticity of atmosphere that purpose built luxury hotels cannot manufacture. You don't feel transported to Scotland in a Scottish castle hotel. You feel that you're inside Scotland itself.
 
 This guide covers the finest castle hotels and Highland retreats across Scotland, organised by region, with practical information on distillery visits, outdoor activities, and how to structure an extraordinary Scottish journey.
 
@@ -78,7 +78,7 @@ Near Glasgow, Crossbasket Castle is a 16th-century tower house conversion that o
 ---
 
 
-For those who want the castle hotel experience within Edinburgh itself, Prestonfield House is the city's most distinctive hotel: a 1687 Baroque mansion in its own grounds below Arthur's Seat, with 23 rooms furnished in extraordinary eclectic opulence: tapestries, antlers, red damask, and the general aesthetic of a 17th-century aristocratic collector with magnificent taste and no restraint.
+For those who want the castle hotel experience within Edinburgh itself, Prestonfield House is the city's most distinctive hotel: a 1687 Baroque mansion in its own grounds below Arthur's Seat, with 23 rooms furnished in extraordinary eclectic opulence: range, antlers, red damask, and the general aesthetic of a 17th-century aristocratic collector with magnificent taste and no restraint.
 
 The Rhubarb Restaurant is Edinburgh's most theatrically appointed dining room; the whisky selection at the bar represents Scotland's distilleries comprehensively. Peacocks wander the grounds.
 
@@ -99,7 +99,7 @@ The family-run property serves a fixed four-course dinner each evening, predomin
 ---
 
 
-Kinloch Lodge, at the head of Loch na Dal on Skye's Sleat peninsula, has been managed by the MacDonald family, the clan chiefs of Clan MacDonald, for over five decades. The 19 rooms in the historic lodge and adjacent cottages combine genuine Highland character with well-maintained comfort; the kitchen, under chef Marcello Tully, has maintained a Michelin star and uses the island's extraordinary larder, langoustines, sea trout, wild venison, Skye lamb, with technical precision.
+Kinloch Lodge, at the head of Loch na Dal on Skye's Sleat peninsula, has been managed by the MacDonald family, the clan chiefs of Clan MacDonald, for over five decades. The 19 rooms in the historic lodge and adjacent cottages combine genuine Highland character with well maintained comfort; the kitchen, under chef Marcello Tully, has maintained a Michelin star and uses the island's extraordinary larder, langoustines, sea trout, wild venison, Skye lamb, with technical precision.
 
 **Price range:** Rooms from £250/night (includes breakfast); dinner from £85/person
 

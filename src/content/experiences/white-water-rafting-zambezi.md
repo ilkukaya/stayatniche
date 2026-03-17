@@ -3,7 +3,7 @@ title: "White Water Rafting the Zambezi River"
 type: adventure
 destination: "Batoka Gorge, Victoria Falls"
 country: "Zambia / Zimbabwe"
-description: "The Zambezi below Victoria Falls is widely regarded as the world's best single-day white water rafting experience, offering 23 kilometres of continuous Grade IV and V rapids through a dramatic basalt gorge that channels one of Africa's mightiest rivers into a churning gauntlet of waves, holes, and hydraulics. This is not a scenic float, it is a full-day physical and psychological test that most participants rank among the greatest experiences of their travelling lives."
+description: "The Zambezi below Victoria Falls is widely regarded as the world's best single-day white water rafting experience, offering 23 kilometres of continuous Grade IV and V rapids through a dramatic basalt gorge that channels one of Africa's mightiest rivers into a churning gauntlet of waves, holes, and hydraulics. This is not a scenic float, it is a full day physical and psychological test that most participants rank among the greatest experiences of their travelling lives."
 coverImage: /images/experiences/white-water-rafting-zambezi.jpg
 booking:
   provider: direct
@@ -18,9 +18,9 @@ highlights:
   - "Optional cliff jumping and swimming in calmer sections"
   - "Riverside lunch on a sandy beach deep in the gorge"
 included:
-  - Full-day guided rafting trip with experienced river guide
+  - Full day guided rafting trip with experienced river guide
   - All rafting equipment (paddle, helmet, life jacket, wetsuit)
-  - Cliff-face ascent equipment for the exit climb
+  - Cliff face ascent equipment for the exit climb
   - Riverside lunch and snacks
   - Safety kayakers in the water throughout
   - Return transport to Victoria Falls town

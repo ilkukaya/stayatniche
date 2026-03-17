@@ -3,7 +3,7 @@ title: "Thai Cooking Class with Market Tour, Bangkok"
 type: culinary
 destination: "Bangkok"
 country: "Thailand"
-description: "Start at dawn in a wet market navigating alongside chefs who have been shopping here for decades, then spend a half-day in a traditional Thai kitchen learning to make five authentic dishes that bear no resemblance to their restaurant approximations. Bangkok's cooking classes are a world apart from the tourist-oriented versions found in beach resorts, this is serious culinary education in a city that treats food with a reverence bordering on religion."
+description: "Start at dawn in a wet market navigating alongside chefs who have been shopping here for decades, then spend a half day in a traditional Thai kitchen learning to make five authentic dishes that bear no resemblance to their restaurant approximations. Bangkok's cooking classes are a world apart from the tourist-oriented versions found in beach resorts, this is serious culinary education in a city that treats food with a reverence bordering on religion."
 coverImage: /images/experiences/cooking-class-bangkok.jpg
 booking:
   provider: direct

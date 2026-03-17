@@ -16,7 +16,7 @@ highlights:
   - "Expert astronomer guide explaining the southern sky's mythology and science"
   - "Naked-eye Milky Way, Large and Small Magellanic Clouds, and Southern Cross"
   - "Zero light pollution, the Atacama hosts major international observatories"
-  - "Laser pointer constellation tours and real-time astrophotography guidance"
+  - "Laser pointer constellation tours and real time astrophotography guidance"
 included:
   - Certified astronomer guide
   - Professional telescope time (at least three objects per person)

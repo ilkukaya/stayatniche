@@ -3,7 +3,7 @@ name: "Sextantio Le Grotte della Civita"
 category: cave-hotels
 destination: "Matera, Basilicata"
 country: "Italy"
-description: "Extraordinary cave hotel carved into the ancient sassi cave dwellings of Matera, a UNESCO World Heritage site continuously inhabited for 9,000 years. These raw, minimalist cave rooms honour Matera's remarkable history while providing an atmosphere of profound, timeless beauty."
+description: "Cave rooms cut into Matera's Sasso Caveoso district, with rough tuff-stone walls and vaulted ceilings left as the 9,000-year-old rock formed them. Breakfast is served in a Rupestrian church where medieval frescoes still mark the walls."
 coverImage: /images/hotels/sassi-hotel-matera-italy.jpg
 gallery:
   - /images/hotels/sassi-hotel-matera-italy-2.jpg
@@ -36,7 +36,7 @@ coordinates:
 featured: false
 ---
 
-Matera is among the oldest continuously inhabited cities on Earth. Its sassi, the cave dwellings carved into the two ravines that flank the city's dramatic ridgeline, have housed human beings for at least nine thousand years, and possibly considerably longer. For much of the twentieth century, this antiquity was a source of shame: the Italian government forcibly evacuated the cave dwellers in the 1950s, appalled by what they saw as primitive conditions in one of Europe's poorest regions. Since Matera's designation as a UNESCO World Heritage Site in 1993 and its celebrated year as European Capital of Culture in 2019, the sassi have undergone a remarkable reappraisal, and the cave hotel experience, of which Sextantio Le Grotte della Civita is the most refined example, is now among Italy's most sought-after accommodation experiences.
+Matera is among the oldest continuously inhabited cities on Earth. Its sassi, the cave dwellings carved into the two ravines that flank the city's dramatic ridgeline, have housed human beings for at least nine thousand years, and possibly considerably longer. For much of the twentieth century, this antiquity was a source of shame: the Italian government forcibly evacuated the cave dwellers in the 1950s, appalled by what they saw as primitive conditions in one of Europe's poorest regions. Since Matera's designation as a UNESCO World Heritage Site in 1993 and its celebrated year as European Capital of Culture in 2019, the sassi have undergone a remarkable reappraisal, and the cave hotel experience, of which Sextantio Le Grotte della Civita is the most refined example, is now among Italy's most sought after accommodation experiences.
 
 The property occupies a series of ancient cave dwellings in the Sasso Caveoso district, the older and less visited of Matera's two ravines. The rooms have been restored with a philosophy of radical preservation: where other cave hotels plaster, smooth, and modernise, Sextantio has chosen to expose and honour the raw materiality of the rock. Cave walls are left in their original rough state, ceilings rise in irregular vaults of golden tuff, and the furnishings, handmade by local craftspeople using traditional materials including linen, iron, and salvaged wood, are chosen to feel continuous with the history of the space rather than imposed upon it.
 

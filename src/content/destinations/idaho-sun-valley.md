@@ -3,7 +3,7 @@ name: Idaho Sun Valley
 type: region
 continent: north-america
 country: USA
-description: "Sun Valley is America's original destination ski resort, created by Union Pacific Railroad in 1936 to fill passenger trains, and it has evolved into a year-round mountain destination that combines world-class skiing, summer fly fishing, and hiking with a small-town sophistication that draws celebrities, serious outdoor athletes, and travelers who want the mountains without pretension. The Wood River Valley below Bald Mountain is one of the most livable mountain environments in the American West."
+description: "Sun Valley is America's original destination ski resort, created by Union Pacific Railroad in 1936 to fill passenger trains, and it has evolved into a year-round mountain destination that combines exceptional skiing, summer fly fishing, and hiking with a small-town sophistication that draws celebrities, serious outdoor athletes, and travelers who want the mountains without pretension. The Wood River Valley below Bald Mountain is one of the most livable mountain environments in the American West."
 coverImage: /images/destinations/idaho-sun-valley.jpg
 essentials:
   currency: "USD (US Dollar)"

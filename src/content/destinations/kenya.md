@@ -43,7 +43,7 @@ Kenya established the template for wildlife travel, and despite five decades of 
 
 The annual wildebeest migration, 1.5 million animals crossing the Mara River between Tanzania's Serengeti and Kenya's Mara, peaks between July and October. The river crossings, where the wildebeest launch themselves into crocodile-filled water in thundering, chaotic masses, are the kind of spectacle that photographs can't adequately represent. Standing on the bank watching it happen is a different thing entirely.
 
-The finest wildlife experiences are increasingly found in the private conservancies bordering the main reserve: Olare Motorogi, Mara North, and Naboisho. These operate on a high-fee, low-volume model: fewer than 20 guests per camp, unrestricted game drives (off-road, night drives, walking safaris), and wildlife encounters that are intimate rather than theatrical. If you're doing the Mara, these conservancies are worth the premium.
+The finest wildlife experiences are increasingly found in the private conservancies bordering the main reserve: Olare Motorogi, Mara North, and Naboisho. These operate on a high-fee, low volume model: fewer than 20 guests per camp, unrestricted game drives (off-road, night drives, walking safaris), and wildlife encounters that are intimate rather than theatrical. If you're doing the Mara, these conservancies are worth the premium.
 
 
 Kenya pioneered the luxury tented camp, and it remains most convincingly executed here. Canvas walls and raised wooden platforms, rainfall showers, Persian rugs, champagne at sundowners. The sound of hyenas in the darkness and wood smoke from a fire that stayed lit all night are part of the offering. Not glamping compromises. Genuine wilderness immersions with serious food and service.

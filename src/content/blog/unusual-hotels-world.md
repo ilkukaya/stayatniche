@@ -7,7 +7,7 @@ publishedDate: 2025-01-28
 tags:
   - unusual-hotels
   - unique-stays
-  - bucket-list
+  - unmissable
   - luxury-travel
   - adventure-travel
   - listicle
@@ -70,7 +70,7 @@ Four mirrored panels suspend 10 metres above the forest floor, reflecting the pi
 
 **Vancouver Island, Canada | From CAD $200/night**
 
-Three hand-built wooden spheres, Eve, Eryn, and Melody, hang by cable from Douglas firs on British Columbia's Vancouver Island. Tom Chudleigh has spent decades refining the concept: the spheres are genuinely beautiful objects, and the experience of sleeping suspended in a west coast rainforest, rocking gently with the wind, is unlike anything else in Canada. Book months ahead; there are only three spheres.
+Three handbuilt wooden spheres, Eve, Eryn, and Melody, hang by cable from Douglas firs on British Columbia's Vancouver Island. Tom Chudleigh has spent decades refining the concept: the spheres are genuinely beautiful objects, and the experience of sleeping suspended in a west coast rainforest, rocking gently with the wind, is unlike anything else in Canada. Book months ahead; there are only three spheres.
 
 **Mafia Island, Tanzania | From $400/night all-inclusive**
 
@@ -92,11 +92,11 @@ Cappadocia's fairy chimneys, volcanic rock formations created by millennia of er
 
 **County Mayo, Ireland | From $450/night**
 
-A 13th-century castle on the shores of Lough Corrib in County Mayo, now one of Ireland's leading luxury hotels. The renovation has been careful: medieval stonework, tapestries, and genuine antiques alongside contemporary comfort. The estate offers falconry, horse riding, and clay pigeon shooting. A genuine fortress with a genuine moat, now serving afternoon tea. From $450/night.
+A 13th-century castle on the shores of Lough Corrib in County Mayo, now one of Ireland's leading luxury hotels. The renovation has been careful: medieval stonework, range, and genuine antiques alongside contemporary comfort. The estate offers falconry, horse riding, and clay pigeon shooting. A genuine fortress with a genuine moat, now serving afternoon tea. From $450/night.
 
 **County Clare, Ireland | From $350/night**
 
-The ancestral home of the O'Brien family (descendants of the High King of Ireland, Brian Boru) is now a five-star hotel surrounded by 450 acres of woodland and a private lake. Golf, fishing, falconry, and the kind of baronial grandeur that makes Ireland's castle hotel scene the best in the world.
+The ancestral home of the O'Brien family (descendants of the High King of Ireland, Brian Boru) is now a five star hotel surrounded by 450 acres of woodland and a private lake. Golf, fishing, falconry, and the kind of baronial grandeur that makes Ireland's castle hotel scene the best in the world.
 
 **Sutherland, Scotland | From $900/night (member rates vary)**
 
@@ -118,7 +118,7 @@ The retractable roof over the master bedroom, through which you watch the Milky 
 
 **Bora Bora, French Polynesia | From $1,800/night**
 
-Split-level overwater villas with Mount Otemanu filling the view from the outdoor plunge pool. The St Regis brings genuine five-star service to French Polynesia's most iconic lagoon. The glass floor panels above the lagoon, the butler service, and the extraordinary sunset position make this one of the Pacific's best.
+Split-level overwater villas with Mount Otemanu filling the view from the outdoor plunge pool. The St Regis brings genuine five star service to French Polynesia's most iconic lagoon. The glass floor panels above the lagoon, the butler service, and the extraordinary sunset position make this one of the Pacific's best.
 
 
 **Sacred Valley, Peru | From $450/night**
@@ -176,4 +176,4 @@ Not necessarily. Utter Inn in Sweden and Coober Pedy's Desert Cave Hotel both of
 Properties with only one or two unique rooms, the Manta Resort Underwater Room, Free Spirit Spheres, Skylodge, often book out 6–12 months ahead. Most glass igloo and ice hotel properties sell winter dates by July or August of the preceding year. For any specific unusual property, earlier is always better.
 
 **Which unusual hotel category is most family-friendly?**
-Castle hotels and safari lodges are generally the most family-friendly unusual category: plenty of space, organised activities for children, and the "unusual" element (medieval fortress, giraffe at the window) is viscerally exciting for younger guests. Underwater rooms, ice hotels, and cliff-face pods involve practical considerations (cold, altitude, age restrictions) that make them more suitable for adults.
+Castle hotels and safari lodges are generally the most family-friendly unusual category: plenty of space, organised activities for children, and the "unusual" element (medieval fortress, giraffe at the window) is viscerally exciting for younger guests. Underwater rooms, ice hotels, and cliff face pods involve practical considerations (cold, altitude, age restrictions) that make them more suitable for adults.

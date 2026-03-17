@@ -12,7 +12,7 @@ booking:
   duration: "3 hours"
 highlights:
   - "Snowmobile through silent Arctic wilderness at night"
-  - "Expert aurora guide with real-time solar activity monitoring"
+  - "Expert aurora guide with real time solar activity monitoring"
   - "Minimum light-pollution viewing locations chosen on the night"
   - "Hot berry juice and campfire snacks under the stars"
   - "Photography tips and assistance from your guide"
@@ -45,7 +45,7 @@ seo:
   metaDescription: "Chase the Aurora Borealis by snowmobile through Finnish Lapland on this expert-guided 3-hour northern lights safari from Rovaniemi. From $120 per person."
 ---
 
-The aurora is not guaranteed. Anyone who tells you otherwise is selling something. What a snowmobile safari from Rovaniemi does offer is the best possible shot at seeing it: a guide monitoring real-time Kp-index data, routes chosen specifically to maximise distance from light pollution, and the flexibility to reposition if conditions shift. That is worth more than any fixed viewing platform.
+The aurora is not guaranteed. Anyone who tells you otherwise is selling something. What a snowmobile safari from Rovaniemi does offer is the best possible shot at seeing it: a guide monitoring real time Kp-index data, routes chosen specifically to maximise distance from light pollution, and the flexibility to reposition if conditions shift. That is worth more than any fixed viewing platform.
 
 Rovaniemi sits at the Arctic Circle, directly under the Auroral Oval, and the Finnish forest around it is flat enough that the entire sky is visible from the frozen lakebeds where guides typically stop. Before departure, the guide explains how solar wind interacts with Earth's magnetosphere: what the Kp scale means in practice, and what tonight's forecast looks like. The snowmobiles are modern and straightforward; a full Arctic oversuit, helmet, and gloves are provided.
 

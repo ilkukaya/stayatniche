@@ -51,7 +51,7 @@ Near Rovaniemi, the "official" hometown of Santa Claus on the Arctic Circle, the
 **Best for:** Couples, families with older children, travellers combining with a Santa Claus Village visit
 
 
-Sweden's STF (Swedish Tourist Association) and several Norwegian operators offer wilderness star camp experiences using high-quality transparent tent structures in remote locations accessible only by dogsled or snowmobile in winter. These are more experiential and less luxurious than the Finnish resort bubbles, but the sense of genuine Arctic wilderness, no other structures visible, complete darkness, the sounds of the winter forest, creates a qualitatively different experience.
+Sweden's STF (Swedish Tourist Association) and several Norwegian operators offer wilderness star camp experiences using high quality transparent tent structures in remote locations accessible only by dogsled or snowmobile in winter. These are more experiential and less luxurious than the Finnish resort bubbles, but the sense of genuine Arctic wilderness, no other structures visible, complete darkness, the sounds of the winter forest, creates a qualitatively different experience.
 
 **Price range:** From €250/person/night (inclusive of meals and activities)
 **Best for:** Adventurous travellers, those who value remoteness over luxury, dog sledding enthusiasts

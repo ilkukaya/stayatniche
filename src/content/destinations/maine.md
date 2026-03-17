@@ -20,8 +20,8 @@ mustSee:
   - "Pemaquid Point Lighthouse, one of New England's most photographed"
   - "Kennebunkport, Walker's Point and the Cape Arundel coastline"
   - "Baxter State Park and Mount Katahdin, the northern terminus of the Appalachian Trail"
-  - "Monhegan Island, a car-free art colony 12 miles offshore"
-  - "Portland's Old Port and the James Beard Award-winning food scene"
+  - "Monhegan Island, a car free art colony 12 miles offshore"
+  - "Portland's Old Port and the James Beard Acclaimed food scene"
   - "Moosehead Lake region, Maine's largest lake and moose country"
 travelTips:
   - "Fresh lobster is dramatically cheaper at roadside pound shacks than in restaurants, look for outdoor picnic-table establishments near working wharves."
@@ -49,7 +49,7 @@ Maine's accommodation culture runs deep. Captain's houses converted to boutique 
 Acadia National Park occupies much of Mount Desert Island on the mid-coast and is the only national park in New England. Cadillac Mountain (1,528 feet) is the first place in the continental United States to see sunrise from October through March. The park's carriage roads, 45 miles of crushed stone paths built by John D. Rockefeller Jr. in the early 20th century, are exceptional for cycling through forested hills and along ocean headlands.
 
 
-Maine's coast is not a single scene but a sequence of distinct characters: the resort wealth of Kennebunkport, the working fishing communities of Pemaquid and Vinalhaven, the car-free isolation of Monhegan Island 12 miles offshore, the culinary ambition of Portland's Old Port. Each requires different expectations and a different pace.
+Maine's coast is not a single scene but a sequence of distinct characters: the resort wealth of Kennebunkport, the working fishing communities of Pemaquid and Vinalhaven, the car free isolation of Monhegan Island 12 miles offshore, the culinary ambition of Portland's Old Port. Each requires different expectations and a different pace.
 
 
 North of Augusta, Maine becomes a different country entirely. Vast boreal forest, remote lakes, and a moose population dense enough that wildlife-watching drives along Route 15 near Moosehead Lake are near-certain. Baxter State Park, where the Appalachian Trail ends on Mount Katahdin's summit, protects wilderness that is among the most primeval remaining in the eastern United States.

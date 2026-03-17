@@ -58,7 +58,7 @@ See our full [bubble hotels and stargazing guide](/blog/bubble-hotels-stargazing
 ---
 
 
-Castle hotels work for couples who want history and atmosphere rather than tropical heat. A purpose-built hotel can't manufacture what a medieval castle with 800 years of continuous occupation gives you for free: the weight of the building, the quality of the silence, the sense of time that has nothing to do with you.
+Castle hotels work for couples who want history and atmosphere rather than tropical heat. A purpose built hotel can't manufacture what a medieval castle with 800 years of continuous occupation gives you for free: the weight of the building, the quality of the silence, the sense of time that has nothing to do with you.
 
 
 Ashford Castle, on 350 acres on the shores of Lough Corrib in County Mayo, dates to 1228 and has been a hotel since 1939. Ireland's finest, by most reckonings. The estate provides days of activity, horse riding, falconry, clay shooting, fishing, boating, and the dining is serious.
@@ -138,7 +138,7 @@ Sweden's ICEHOTEL in Jukkasjärvi is built new each winter from ice harvested fr
 
 
 
-Valentine's Day, Christmas week, New Year's Eve, and peak summer at destinations like Santorini or Bora Bora book out fast. For the most sought-after properties, six to twelve months ahead is not excessive, and for Gili Lankanfushi Crusoe Residences or Kakslauttanen's premium igloos in winter, it's often necessary.
+Valentine's Day, Christmas week, New Year's Eve, and peak summer at destinations like Santorini or Bora Bora book out fast. For the most sought after properties, six to twelve months ahead is not excessive, and for Gili Lankanfushi Crusoe Residences or Kakslauttanen's premium igloos in winter, it's often necessary.
 
 
 Tell the property what you're celebrating. Honeymoon, anniversary, proposal, the best hotels will respond with upgrades where available, welcome amenities, and specific table or room assignments that aren't automatic. They're in the business of memorable experiences; give them the information they need to deliver.

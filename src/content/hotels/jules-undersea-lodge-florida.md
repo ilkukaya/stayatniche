@@ -26,7 +26,7 @@ bestFor:
   - "Certified divers"
   - "Adventure seekers"
   - "Underwater enthusiasts"
-  - "Bucket-list travellers"
+  - "Unmissable travellers"
 bookingUrl: https://www.booking.com/
 rating: 9.0
 reviewCount: 892

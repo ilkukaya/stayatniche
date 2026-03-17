@@ -13,7 +13,7 @@ essentials:
   plugType: "Type A/B (120V)"
 bestTimeToVisit:
   summary: "June–September and December–March"
-  details: "Summer brings wildflower meadows, clear mountain trails, and outdoor festival culture. The mountains are genuinely cool even in July, Aspen and Telluride host music and food festivals throughout summer. Winter delivers world-class skiing at resorts like Telluride, Aspen, Breckenridge, and Vail. Fall foliage (late September–mid October) is spectacular and underrated, aspens turn electric gold across the high country."
+  details: "Summer brings wildflower meadows, clear mountain trails, and outdoor festival culture. The mountains are genuinely cool even in July, Aspen and Telluride host music and food festivals throughout summer. Winter delivers exceptional skiing at resorts like Telluride, Aspen, Breckenridge, and Vail. Fall foliage (late September–mid October) is spectacular and underrated, aspens turn electric gold across the high country."
 mustSee:
   - "Rocky Mountain National Park, Trail Ridge Road and elk rut in September"
   - "Mesa Verde National Park, ancient Ancestral Puebloan cliff dwellings"

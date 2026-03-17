@@ -3,7 +3,7 @@ title: "Truffle Hunting in the Périgord"
 type: culinary
 destination: "Périgord Noir, Dordogne"
 country: "France"
-description: "Walk through ancient oak woodland in France's most celebrated truffle country with a trained dog, a passionate trufficulteur, and the possibility of unearthing the black diamond of French cuisine, the Périgord truffle, Tuber melanosporum, just centimetres below the surface of centuries-old chêne pubescent groves. This half-day experience combines the thrill of the hunt, an intimate education in one of the world's most rarified food cultures, and a tasting that will permanently alter your relationship with this extraordinary ingredient."
+description: "Walk through ancient oak woodland in France's most celebrated truffle country with a trained dog, a passionate trufficulteur, and the possibility of unearthing the black diamond of French cuisine, the Périgord truffle, Tuber melanosporum, just centimetres below the surface of centuries-old chêne pubescent groves. This half day experience combines the thrill of the hunt, an intimate education in one of the world's most rarified food cultures, and a tasting that will permanently alter your relationship with this extraordinary ingredient."
 coverImage: /images/experiences/truffle-hunting-perigord.jpg
 booking:
   provider: direct

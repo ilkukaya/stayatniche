@@ -23,7 +23,7 @@ seo:
 
 The locomotive was the defining technology of the 19th century, and the great sleeping cars of the Pullman era transformed long-distance rail travel into something approaching a mobile hotel: mahogany panelling, white-glove dining service, crisp linen on narrow but comfortable berths, and a landscape rolling past the window that no modern aircraft window can match. The romance of train travel has never really departed; it has simply found new expression in a small number of genuinely extraordinary luxury rail operations that treat the journey not as transport but as the centrepiece of a travel experience.
 
-Today's finest train hotels operate in the upper reaches of the luxury accommodation market. The Venice Simplon-Orient-Express charges rates comparable to European five-star hotels; South Africa's Rovos Rail is arguably the most luxurious train in the world; Japan's Twilight Express Mizukaze offers a standard of cuisine that would earn serious attention in Tokyo's finest restaurants. These are not merely comfortable ways to travel; they are hands-on journeys in which the movement, the landscape, the food, the service, and the extraordinary community of other guests combine into a genuinely distinctive travel experience.
+Today's finest train hotels operate in the upper reaches of the luxury accommodation market. The Venice Simplon-Orient-Express charges rates comparable to European five star hotels; South Africa's Rovos Rail is arguably the most luxurious train in the world; Japan's Twilight Express Mizukaze offers a standard of cuisine that would earn serious attention in Tokyo's finest restaurants. These are not merely comfortable ways to travel; they are hands-on journeys in which the movement, the landscape, the food, the service, and the extraordinary community of other guests combine into a genuinely distinctive travel experience.
 
 This guide covers the world's great train hotel experiences, organised by region and train operator, with practical advice on booking and what to expect on board.
 
@@ -71,7 +71,7 @@ The flagship journey runs from Pretoria to Cape Town over two nights, crossing t
 **Booking tip:** Rovos operates infrequent departures, some routes run only monthly. Book six to twelve months ahead, particularly for the full Cape Town to Cairo journey.
 
 
-South Africa's Blue Train is the more accessible alternative to Rovos, running between Pretoria and Cape Town on a similar schedule. The train is government-operated and the standard, while high, is less rarefied than Rovos, think a four-star hotel on wheels rather than a five-star. The advantage is price and accessibility; the Blue Train is significantly easier to book on shorter notice and at lower cost.
+South Africa's Blue Train is the more accessible alternative to Rovos, running between Pretoria and Cape Town on a similar schedule. The train is government-operated and the standard, while high, is less rarefied than Rovos, think a four-star hotel on wheels rather than a five star. The advantage is price and accessibility; the Blue Train is significantly easier to book on shorter notice and at lower cost.
 
 **Price range:** From R22,000/person (approximately $1,200) for the Pretoria–Cape Town journey
 **Best for:** Travellers who want the South African train experience at a lower price point, first-time luxury rail travellers

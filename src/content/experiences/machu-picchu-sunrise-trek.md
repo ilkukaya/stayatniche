@@ -3,7 +3,7 @@ title: "Machu Picchu Sunrise Inca Trail Trek"
 type: adventure
 destination: "Aguas Calientes"
 country: "Peru"
-description: "Ascend the mountain switchbacks above Aguas Calientes before dawn to watch the sun rise over the ancient Inca citadel of Machu Picchu, one of the defining moments in South American travel. This full-day guided trek covers the most dramatic approach route to the ruins, entering through the Sun Gate at first light when mist still pools in the valleys below and the mountains glow orange above the cloud line. A knowledgeable guide brings the site's history and archaeology to vivid life."
+description: "Ascend the mountain switchbacks above Aguas Calientes before dawn to watch the sun rise over the ancient Inca citadel of Machu Picchu, one of the defining moments in South American travel. This full day guided trek covers the most dramatic approach route to the ruins, entering through the Sun Gate at first light when mist still pools in the valleys below and the mountains glow orange above the cloud line. A knowledgeable guide brings the site's history and archaeology to vivid life."
 coverImage: /images/experiences/machu-picchu-sunrise-trek.jpg
 booking:
   provider: viator
@@ -40,15 +40,15 @@ tags:
   - south-america
   - trekking
   - archaeology
-  - bucket-list
+  - unmissable
 seo:
   metaTitle: "Machu Picchu Sunrise Inca Trail Trek, Peru | StayAtNiche"
-  metaDescription: "Trek to Machu Picchu before dawn and watch the sunrise illuminate the Inca citadel from the Sun Gate. Full-day guided experience from Aguas Calientes. From $80."
+  metaDescription: "Trek to Machu Picchu before dawn and watch the sunrise illuminate the Inca citadel from the Sun Gate. Full day guided experience from Aguas Calientes. From $80."
 ---
 
 The alarm goes off at 4am in Aguas Calientes. You dress in darkness and join a short queue of similarly sleep-deprived people at the bus stop below the ruins. The road up winds through cloud forest in sharp switchbacks, and by the time the bus reaches the gate the sky above the surrounding peaks is just beginning to grey.
 
-The route to the Sun Gate, Inti Punku in Quechua, climbs away from the main citadel along a well-maintained Inca path the conquistadors never found and most modern tourists never bother with. Your guide sets a steady pace through humid cloud forest, pointing out orchids and bromeliad-draped Inca waypoints along the path. After roughly ninety minutes, the trail rounds a final corner and the Sun Gate appears, and through it, for the first time, Machu Picchu.
+The route to the Sun Gate, Inti Punku in Quechua, climbs away from the main citadel along a well maintained Inca path the conquistadors never found and most modern tourists never bother with. Your guide sets a steady pace through humid cloud forest, pointing out orchids and bromeliad-draped Inca waypoints along the path. After roughly ninety minutes, the trail rounds a final corner and the Sun Gate appears, and through it, for the first time, Machu Picchu.
 
 The citadel laid out in full below you. Emerald terraces cascading down the mountain. The peak of Huayna Picchu rising behind it. The Urubamba River looping far below in its green valley. If you've timed the approach correctly, the sun is still rising as you arrive, burning off the morning mist in real time and casting long shadows across the stone. This is why you got up at 4am.
 

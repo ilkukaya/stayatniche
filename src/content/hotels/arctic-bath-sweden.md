@@ -3,7 +3,7 @@ name: "Arctic Bath"
 category: floating-hotels
 destination: "Harads, Swedish Lapland"
 country: "Sweden"
-description: "Breathtaking floating hotel on the Lule River in Swedish Lapland, a ring of driftwood cabins surrounding a central open-air ice bath, offering a transformative Arctic wellness experience between dog sledding, northern lights, and the silence of the boreal forest."
+description: "A wooden driftwood ring floating on the Lule River at 66 degrees north, with six private cabins and a central pool open to the sky year-round — an ice bath when the river freezes solid in winter, a wild swim in summer. Architects Bertil Harström and Johan Kauppi built something that makes the Arctic feel entirely habitable."
 coverImage: /images/hotels/arctic-bath-sweden.jpg
 gallery:
   - /images/hotels/arctic-bath-sweden-2.jpg
@@ -12,7 +12,7 @@ priceRange: "$500 - $1,200"
 priceIndicator: 4
 highlights:
   - "Floating driftwood ring hotel on the frozen Lule River"
-  - "Central open-air pool becomes a natural ice bath in winter"
+  - "Central outdoor pool becomes a natural ice bath in winter"
   - "Six floating cabins and four forest cabins with river views"
   - "Nordic spa and wellness treatments year-round"
 amenities:

@@ -42,7 +42,7 @@ seo:
 Dubai built an indoor ski slope in the desert, constructed an archipelago of islands in the shape of a palm tree, and opened a hotel, the Burj Al Arab, where butler service is standard and a suite runs over $10,000 a night. The city's commitment to audacity is consistent and, whatever you think of it, worth experiencing directly rather than dismissing from a distance.
 
 
-The UAE's accommodation range is genuinely without parallel. The Burj Al Arab's helipad, 27-metre atrium, and submarine excursions define one end. Desert eco-camps at the edge of the Liwa oasis, simple, sophisticated shelters facing the world's largest contiguous sand desert, occupy the other. Between those poles: overwater villas on private islands, palazzo-style resorts, and boutique properties in restored coral-stone merchant houses along the historic Dubai Creek.
+The UAE's accommodation range is genuinely without parallel. The Burj Al Arab's helipad, 27-metre atrium, and submarine excursions define one end. Desert eco-camps at the edge of the Liwa oasis, simple, sophisticated shelters facing the world's largest contiguous sand desert, occupy the other. Between those poles: overwater villas on private islands, palazzo-style resorts, and boutique properties in restored coral stone merchant houses along the historic Dubai Creek.
 
 
 The city pays back those who push past the obvious. Al Fahidi Historic District preserves a Dubai of narrow lanes, wind towers, and wooden dhows, the city that existed before the oil revenue arrived. The gold, spice, and textile souqs of Deira are still genuinely working markets rather than tourist reconstructions, and the abra water taxis crossing the Creek are 5 dirhams and unchanged in character for decades.

@@ -1,6 +1,6 @@
 ---
 title: "Night Dive with Bioluminescent Plankton"
-type: water-activity
+type: water activity
 destination: "North Malé Atoll"
 country: "Maldives"
 description: "Slip beneath the surface of the Indian Ocean after dark and enter a world lit only by the blue-green glow of millions of bioluminescent dinoflagellates. This two-hour night dive in the North Malé Atoll is one of the Maldives' most surreal aquatic encounters, combining the eerie beauty of bio-luminescence with resident reef life that behaves entirely differently once the sun sets. Suitable for certified divers of all experience levels."

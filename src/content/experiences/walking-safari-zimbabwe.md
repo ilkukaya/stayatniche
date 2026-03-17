@@ -9,7 +9,7 @@ booking:
   provider: direct
   url: "https://www.stayatniche.com/contact?experience=walking-safari-zimbabwe"
   price: "From $180 per person"
-  duration: "Half day (full day and multi-day expeditions available)"
+  duration: "Half day (full day and multi day expeditions available)"
 highlights:
   - "Walk within the Big Five's territory with a licensed professional guide and armed scout"
   - "Track elephant, lion, and buffalo by footprint, scent, and sign"
@@ -59,6 +59,6 @@ Lion tracking requires reading the ground. Your guide stops to examine soil depr
 
 The walk typically covers five to ten kilometres over three to four hours, with frequent stops for sign-reading, botanical explanation, and photography. A bush breakfast in the shade of an acacia or a sundowner at a waterhole concludes the experience.
 
-**Multi-day walking safaris**, sleeping in fly camps deep in the concession, covering terrain accessible only to walkers, represent the pinnacle of the Hwange walking experience. Operators including Wilderness Safaris and Imvelo offer three to five-day expeditions that follow elephant migration routes through the park's interior.
+**Multi day walking safaris**, sleeping in fly camps deep in the concession, covering terrain accessible only to walkers, represent the pinnacle of the Hwange walking experience. Operators including Wilderness Safaris and Imvelo offer three to five-day expeditions that follow elephant migration routes through the park's interior.
 
 **Best time to visit:** May through October (dry season) is the optimal walking period. Wildlife concentrates around Hwange's remaining water sources as the dry season progresses, making September and October exceptional for animal density. November through April is hotter and wetter, with denser vegetation reducing visibility.

@@ -47,7 +47,7 @@ seo:
 
 Talkeetna is a small, eccentric town at the confluence of three rivers where the Alaska Range rises abruptly to the north. In summer it has one defining purpose: it is the base camp for every expedition attempting Denali. The mountain dominates the skyline the way few peaks dominate their surroundings anywhere on Earth, because Denali rises from near sea level. Its base-to-summit vertical relief of roughly 5,500 metres exceeds that of Everest measured the same way.
 
-The flightseeing experience begins at Talkeetna's small airstrip, where pilots who have spent careers in Alaska bush flying brief passengers on the route and what to expect. The aircraft, typically a de Havilland Beaver or Otter, purpose-built for this terrain, climbs steeply as soon as it clears the treeline, because the landscape ahead demands altitude immediately.
+The flightseeing experience begins at Talkeetna's small airstrip, where pilots who have spent careers in Alaska bush flying brief passengers on the route and what to expect. The aircraft, typically a de Havilland Beaver or Otter, purpose built for this terrain, climbs steeply as soon as it clears the treeline, because the landscape ahead demands altitude immediately.
 
 Within minutes you are above the glacier systems that feed the rivers below. The Ruth Glacier is one of the most dramatic in Alaska, a slow-moving river of ice 60 kilometres long whose walls, the Great Gorge, rise nearly 2,700 metres on either side, making it one of the deepest gorges on Earth. The pilot banks to give both sides of the aircraft clear views as you transit the gorge, and the scale defeats comprehension in the way that only the most extreme wilderness can.
 

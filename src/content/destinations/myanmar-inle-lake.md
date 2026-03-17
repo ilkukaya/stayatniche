@@ -48,6 +48,6 @@ The most memorable way to experience Inle Lake is to sleep on it. A handful of b
 The best stilted hotels combine traditional Shan architectural details, teak wood, pitched roofs, carved screens, with proper modern comforts. Some have private longtail boats at their docks for independent exploration. The sensation of the lake moving gently beneath the floorboards at night is the closest most people will come to sleeping aboard a houseboat without actually doing so.
 
 
-Nyaungshwe, the main gateway town, has a low-key charm with independent restaurants, bicycle rental, and monasteries worth visiting at dawn when monks collect alms. The five-day rotating market circuit brings vendors from surrounding hill tribe villages to different lakeside locations on a rolling schedule, a genuinely local market, not a tourist construct.
+Nyaungshwe, the main gateway town, has a relaxed charm with independent restaurants, bicycle rental, and monasteries worth visiting at dawn when monks collect alms. The five-day rotating market circuit brings vendors from surrounding hill tribe villages to different lakeside locations on a rolling schedule, a genuinely local market, not a tourist construct.
 
 The Shan State's hillside wine country at Red Mountain Estate above Nyaungshwe produces surprisingly competent reds and whites from grapes grown at altitude. An incongruous but genuinely enjoyable afternoon of tasting above the lake.

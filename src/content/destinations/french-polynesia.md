@@ -15,7 +15,7 @@ bestTimeToVisit:
   details: "The dry season from May to October brings warm, sunny weather with low humidity, ideal for snorkeling, diving, and time on the water. July and August are peak season with the highest prices. November to April is wetter and more humid, with occasional cyclones, but accommodations are cheaper and crowds are minimal. Whale watching season runs July–October."
 mustSee:
   - "Bora Bora's Mount Otemanu, the island's dramatic basalt peak rising from the lagoon"
-  - "Tuamotu Atolls, remote pearl-farming atolls with world-class drift diving at Fakarava and Rangiroa"
+  - "Tuamotu Atolls, remote pearl-farming atolls with exceptional drift diving at Fakarava and Rangiroa"
   - "Moorea's Cook's Bay, a dramatic fjord-like bay ringed by jagged volcanic peaks"
   - "Huahine, the 'Wild Island' with ancient marae temples and genuine Polynesian culture"
   - "Tikehau, a pink-sand atoll with extraordinary manta ray and shark diving"

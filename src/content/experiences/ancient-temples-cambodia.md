@@ -43,7 +43,7 @@ tags:
   - cultural-heritage
 seo:
   metaTitle: "Angkor Wat Sunrise Private Tour by Tuk-Tuk, Siem Reap Cambodia | StayAtNiche"
-  metaDescription: "Watch sunrise over Angkor Wat and explore the Khmer temples of Cambodia on a private full-day tuk-tuk tour with an expert guide. From $45 per person."
+  metaDescription: "Watch sunrise over Angkor Wat and explore the Khmer temples of Cambodia on a private full day tuk-tuk tour with an expert guide. From $45 per person."
 ---
 
 Angkor Wat was built between 1113 and 1150 AD, covers 200 hectares, and remains the largest religious monument ever constructed. The Western Causeway approaching the main temple is oriented deliberately to frame the sunrise over the central tower complex on the equinox, a detail that tells you something important about the Khmer architects' intentions. This was a cosmic map as much as a place of worship. Standing on that causeway before dawn, watching the sky slowly grey behind the towers with the first birds of the Cambodian morning calling around you, is one of those moments that earns the early alarm.

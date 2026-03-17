@@ -11,7 +11,7 @@ tags:
   - sweden
   - arctic-travel
   - winter-travel
-  - bucket-list
+  - unmissable
 featured: false
 affiliateDisclosure: true
 status: published
@@ -36,9 +36,9 @@ The original. The gold standard. Everything else is an imitation.
 
 ICEHOTEL sits on the banks of the Torne River in Jukkasjärvi, a village of 500 people in Swedish Lapland, 200km north of the Arctic Circle. Every autumn, 5,000 tonnes of river ice are harvested and stored, then used from November onwards to sculpt a new hotel from scratch. Each year's design is unique, a collaboration between artists selected from global open calls, who spend weeks carving their individual rooms into sculptures that guests then sleep inside.
 
-The result is unlike anything else in hospitality. You might sleep in a room where the walls are carved into an detailed forest of ice trees. Or a chamber designed to evoke an underwater world. Or a minimalist cube of pure translucent blue. Each Art Suite is a one-of-a-kind work of art that ceases to exist when the ice melts in spring.
+The result is unlike anything else in hospitality. You might sleep in a room where the walls are carved into an detailed forest of ice trees. Or a chamber designed to evoke an underwater world. Or a minimalist cube of pure translucent blue. Each Art Suite is a one of a kind work of art that ceases to exist when the ice melts in spring.
 
-**The room temperature:** Art Suites and Classic Ice Rooms are maintained at -5°C to -8°C. This sounds brutal, but the combination of high-quality Arctic sleeping bags (rated to -35°C), reindeer hides, and the thermal mass of the ice itself makes sleeping genuinely comfortable once you're in your bag.
+**The room temperature:** Art Suites and Classic Ice Rooms are maintained at -5°C to -8°C. This sounds brutal, but the combination of high quality Arctic sleeping bags (rated to -35°C), reindeer hides, and the thermal mass of the ice itself makes sleeping genuinely comfortable once you're in your bag.
 
 **Warm rooms:** ICEHOTEL also offers heated cabins and suites (the Deluxe Cabins and the year-round ICEHOTEL 365 property) for guests who want the experience without committing to sleeping on ice. Many guests book one ice room night and one warm room night.
 
@@ -70,7 +70,7 @@ What distinguishes Hôtel de Glace from the Scandinavian competition is accessib
 ---
 
 
-Finland's contribution to the ice hotel genre is SnowCastle (Lumilinna) in Kemi, on the Gulf of Bothnia. Built annually from approximately 20 million kilograms of snow, it's one of the largest snow fortresses in the world. The SnowHotel within it offers snow rooms, a snow restaurant, and a snow chapel: and unlike the Swedish and Canadian alternatives, the rooms here are primarily constructed from snow rather than ice, giving them a softer, more cave-like quality.
+Finland's contribution to the ice hotel genre is SnowCastle (Lumilinna) in Kemi, on the Gulf of Bothnia. Built annually from approximately 20 million kilograms of snow, it's one of the largest snow fortresses in the world. The SnowHotel within it offers snow rooms, a snow restaurant, and a snow chapel: and unlike the Swedish and Canadian alternatives, the rooms here are primarily constructed from snow rather than ice, giving them a softer, more cave-style quality.
 
 Kemi's position in northern Finland makes it an excellent base for multiple winter activities: the Sampo icebreaker cruise (a genuine working icebreaker that guests can join, with swimming in the frozen sea in drysuits), cross-country skiing, reindeer safaris, and snowmobile tours.
 
@@ -111,7 +111,7 @@ Auroras occur when charged particles from the sun (the solar wind) interact with
 **For Norway (Tromsø):** Tromsø at 69°N is one of the world's premier aurora destinations, with fjord reflections adding to the visual drama. The city has excellent infrastructure for aurora tours, including fjord cruises that escape cloud cover by moving to clearer areas.
 
 
-- **Space Weather Live** and **Aurora Forecast** (apps) provide real-time Kp index readings, Kp 3+ is required for typical viewing from 65°N+; Kp 5+ produces displays visible further south.
+- **Space Weather Live** and **Aurora Forecast** (apps) provide real time Kp index readings, Kp 3+ is required for typical viewing from 65°N+; Kp 5+ produces displays visible further south.
 - **My Aurora Forecast** allows location-specific alerts when aurora probability is high.
 - The Norwegian Meteorological Institute's **yr.no** provides detailed cloud cover forecasting useful for planning which night to be outdoors.
 
@@ -161,7 +161,7 @@ Iceland doesn't have a traditional ice hotel in the Scandinavian sense, but it o
 
 **Ion Adventure Hotel** in Nesjavellir was specifically designed for aurora viewing, with panoramic windows and proximity to the Þingvellir National Park dark sky zone.
 
-**Panorama Glass Lodge** near Hella offers glass-walled cabins facing south and north, with heated interiors designed for aurora watching from bed.
+**Panorama Glass Lodge** near Hella offers glass walled cabins facing south and north, with heated interiors designed for aurora watching from bed.
 
 Iceland's advantage over the Scandinavian ice hotel destinations is the combination of dramatic landscapes (waterfalls, glaciers, volcanic terrain) with aurora viewing. The disadvantage is weather unpredictability: Icelandic weather changes rapidly, and cloudy nights are common.
 

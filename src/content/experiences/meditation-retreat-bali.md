@@ -11,7 +11,7 @@ booking:
   price: "From $450 per person (5-day retreat, accommodation included)"
   duration: "5 days"
 highlights:
-  - "Daily guided meditation sessions in an open-air pavilion above rice terraces"
+  - "Daily guided meditation sessions in an outdoor pavilion above rice terraces"
   - "Balinese Hindu and Theravada Buddhist teachers with decades of practice"
   - "Noble silence maintained from after dinner until after breakfast each day"
   - "Yoga and pranayama breathing practice to complement seated meditation"
@@ -50,7 +50,7 @@ seo:
 
 Ubud sits at the geographic and spiritual centre of Bali, in the hills where the rice terraces climb in sculptured steps and the air runs twenty degrees cooler than the beach. The Hindu culture here is not decorative. It is operating. Every morning, women in ceremonial dress place small woven banana-leaf offerings on steps and thresholds across the town, incense smoke rising from ten thousand canang sari in an act of daily devotion unchanged in form for centuries. Coming here to practice meditation is not arriving at a wellness resort. It is arriving at a place where the entire cultural infrastructure runs in the same direction as what you are trying to do.
 
-The retreat day begins before dawn. Sitting practice in the open-air meditation hall starts at 5:30am, when the darkness is beginning to grey and the first light touches the rice terraces visible over the pavilion wall. This early session, in the coolest part of the day, with no traffic sounds and the forest alive with birds, has a quality of stillness that is different from any later session. Your teacher will ring a bell, and for the next forty-five minutes the only task is to sit with what is present.
+The retreat day begins before dawn. Sitting practice in the outdoor meditation hall starts at 5:30am, when the darkness is beginning to grey and the first light touches the rice terraces visible over the pavilion wall. This early session, in the coolest part of the day, with no traffic sounds and the forest alive with birds, has a quality of stillness that is different from any later session. Your teacher will ring a bell, and for the next forty-five minutes the only task is to sit with what is present.
 
 For most participants, especially those new to sustained meditation practice, the first two days of a silent retreat are the most challenging. The mind is accustomed to constant stimulation and resists the instruction to rest in present-moment awareness. Teachers at the best Ubud retreat centres understand this resistance and address it practically: the schedule is full enough to prevent boredom, the instruction is specific and technique-oriented, and the one-to-one interview sessions allow individual questions and adjustments to practice that group instruction cannot provide.
 

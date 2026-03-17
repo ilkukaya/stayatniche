@@ -4,7 +4,7 @@ category: "castle-hotels"
 destination: "Amberley, West Sussex"
 country: "England"
 continent: "Europe"
-description: "A magnificently preserved 12th-century castle in the South Downs with working portcullis, original battlements, and romantic bedrooms in towers, one of England's most intimate and authentic castle hotel experiences."
+description: "A 12th-century castle in West Sussex with 60-foot curtain walls still intact, a portcullis raised and lowered daily, and 19 individually designed rooms set inside the original towers and gatehouse."
 coverImage: "/images/hotels/amberley-castle-england.jpg"
 gallery:
   - "/images/hotels/amberley-castle-england-1.jpg"

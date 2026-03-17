@@ -45,7 +45,7 @@ This is also one of Bali's finest dining properties. The all-day Jungle restaura
 
 Bambu Indah, on the Sayan ridge above the Ayung River gorge, is the creation of John and Cynthia Hardy, the couple behind the Green School Bali, and it shares their philosophy of sustainable beauty executed without compromise. The accommodation consists of six antique Javanese bridal houses (joglo) transported from East Java and re-erected on the hillside, plus a collection of bale accommodation and a spectacular bamboo-constructed treehouse.
 
-The joglo houses are genuinely antique, 150–200 years old, with the carved teak panels, hand-painted ceilings, and latticed windows of their era. Inside, modern plumbing and beds have been installed with care not to disturb the historical fabric. Sleeping in a house that was already old when your great-grandparents were born, surrounded by Balinese jungle, is an experience that no purpose-built hotel can replicate.
+The joglo houses are genuinely antique, 150–200 years old, with the carved teak panels, hand-painted ceilings, and latticed windows of their era. Inside, modern plumbing and beds have been installed with care not to disturb the historical fabric. Sleeping in a house that was already old when your great-grandparents were born, surrounded by Balinese jungle, is an experience that no purpose built hotel can replicate.
 
 The riverside pool, carved from stone at the base of the gorge, is one of Bali's most spectacular: fed by a natural spring, positioned next to the Ayung River, with jungle canopy overhead and the sound of the river constant.
 
@@ -58,7 +58,7 @@ The riverside pool, carved from stone at the base of the gorge, is one of Bali's
 
 For those who want the full luxury hotel experience combined with Ubud's most iconic landscape views, Komaneka at Bisma offers 22 individual villas perched on the edge of the Campuhan Ridge, each with private outdoor areas looking directly over rice terraces to the jungle beyond.
 
-The architecture uses local stone, reclaimed wood, and thatch in a contemporary idiom that references Balinese vernacular without pastiche. The infinity pool seems to flow directly into the valley. The spa offers traditional Balinese healing treatments in open-air pavilions above the terraces.
+The architecture uses local stone, reclaimed wood, and thatch in a contemporary idiom that references Balinese vernacular without pastiche. The infinity pool seems to flow directly into the valley. The spa offers traditional Balinese healing treatments in outdoor pavilions above the terraces.
 
 **Price range:** Forest Villas from $500/night; Hillside Villas with plunge pool from $700/night
 
@@ -119,7 +119,7 @@ Alila Manggis is the best base for East Bali exploration: the palace town of Klu
 **Wet season (November–April):** Daily showers, often afternoon thunderstorms. The landscape is intensely green and dramatic; rice terraces are at their most lush; crowds and prices drop significantly. January and February see the heaviest rains; December–March is manageable for those who don't mind occasional downpours.
 
 
-Ngurah Rai International Airport (DPS) in Denpasar receives direct flights from Singapore, Hong Kong, Tokyo, Sydney, Melbourne, Dubai, and Amsterdam. Most travellers connect through Singapore (Changi) or Hong Kong for long-haul itineraries. The airport is in southern Bali: transfers to Ubud take 1.5–2 hours, to Uluwatu/Seminyak 30–45 minutes.
+Ngurah Rai International Airport (DPS) in Denpasar receives direct flights from Singapore, Hong Kong, Tokyo, Sydney, Melbourne, Dubai, and Amsterdam. Most travellers connect through Singapore (Changi) or Hong Kong for long haul itineraries. The airport is in southern Bali: transfers to Ubud take 1.5–2 hours, to Uluwatu/Seminyak 30–45 minutes.
 
 
 Private drivers (negotiated by the day, typically $40–60 for 8–10 hours) are the most practical option for exploring the island. Ride-hailing apps (Gojek, Grab) work well in Seminyak, Canggu, and urban areas. Scooter rental is widely available but road conditions require caution; international travellers without motorcycle licensing should note that tourist insurance often excludes scooter accidents.

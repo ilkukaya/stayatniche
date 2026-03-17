@@ -15,14 +15,14 @@ highlights:
   - "Waterfall access only possible by kayak, paddle directly under cascades"
   - "Marine wildlife encounters: bottlenose dolphins, fur seals, Fiordland penguins"
   - "Silent travel at water level with unobstructed views of 1,200m cliff faces"
-  - "Overnight multi-day paddles available deep into Doubtful Sound's arms"
+  - "Overnight multi day paddles available deep into Doubtful Sound's arms"
   - "Expert guiding through one of the most remote wilderness areas in the Pacific"
 included:
   - Experienced sea kayak guide
   - Sea kayak and all paddle equipment (paddle, spray skirt, dry bags)
   - Full safety kit including VHF radio and flares
   - Waterproof clothing and buoyancy aid
-  - Lunch and snacks on full-day trips
+  - Lunch and snacks on full day trips
   - Transport to and from the kayak launch point
 notIncluded:
   - Personal travel insurance
@@ -55,6 +55,6 @@ Wildlife is encountered rather than observed from a distance. Bottlenose dolphin
 
 The dawn departure that most operators offer is essential. Milford Sound's single road means that the tour bus traffic begins arriving at 9am and the sound fills with engine noise. Between 6am and 8:30am, the fiord is quiet, the light is best for both photography and visibility, and the wildlife is most active. Guides who offer pre-dawn departures know exactly what they are providing.
 
-**Doubtful Sound** is Fiordland's best alternative to Milford for those seeking more complete solitude. Three times longer and significantly harder to access, reaching it requires a boat crossing of Lake Manapouri and a bus over the Wilmot Pass, it sees a fraction of the visitor numbers and offers multi-day paddling through three separate arms of clear fiord that most New Zealanders have never visited.
+**Doubtful Sound** is Fiordland's best alternative to Milford for those seeking more complete solitude. Three times longer and significantly harder to access, reaching it requires a boat crossing of Lake Manapouri and a bus over the Wilmot Pass, it sees a fraction of the visitor numbers and offers multi day paddling through three separate arms of clear fiord that most New Zealanders have never visited.
 
 **Best time to visit:** Kayaking in Fiordland operates year-round. Summer (December-March) offers the warmest temperatures and calmer average conditions. Winter paddling is available for the experienced and well-equipped: the fiord in midwinter, with snow on the peaks and crystalline calm water, is extraordinary.

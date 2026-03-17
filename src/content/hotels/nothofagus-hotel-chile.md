@@ -89,7 +89,7 @@ Arriving at Nothofagus feels like being swallowed by wilderness. The reserve rec
 
 **The Rooms**
 
-Each room is a work of considered architecture. Rough-hewn wood and volcanic stone provide the structure, while floor-to-ceiling windows frame the forest in every direction. At night, the illuminated canopy glows like something from a fable. The design is warm rather than austere: thick woolen blankets, hand-crafted furniture, and earthy tones that mirror the forest floor. In the morning, mist curls through the treetops just beyond the glass.
+Each room is a work of considered architecture. Rough-hewn wood and volcanic stone provide the structure, while floor-to-ceiling windows frame the forest in every direction. At night, the illuminated canopy glows like something from a fable. The design is warm rather than austere: thick woolen blankets, handcrafted furniture, and earthy tones that mirror the forest floor. In the morning, mist curls through the treetops just beyond the glass.
 
 **The Reserve**
 

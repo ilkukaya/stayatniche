@@ -43,7 +43,7 @@ Mozambique's two archipelagos offer very different experiences. The Bazaruto Arc
 The Quirimbas Archipelago, 32 islands off the far northern coast, is genuinely remote. Access requires a charter flight to a grass airstrip or a multi-hour boat from Pemba. Several islands have no accommodation at all. Those that do tend toward ultra-exclusive barefoot luxury: 10 to 20 rooms, solar power, menus built around the morning's catch and kitchen gardens, and service ratios that feel more like a private house than a hotel.
 
 
-Tofo Beach in Inhambane Province has one well-earned claim to fame: whale sharks. The nutrient-rich waters here aggregate them in numbers that make it one of the world's most reliable snorkel encounters with the largest fish on earth. Manta rays are equally predictable in season. The diving is dense with life, grouper, barracuda, reef sharks at concentrations that indicate a genuinely healthy ecosystem.
+Tofo Beach in Inhambane Province has one well-earned claim to fame: whale sharks. The nutrient rich waters here aggregate them in numbers that make it one of the world's most reliable snorkel encounters with the largest fish on earth. Manta rays are equally predictable in season. The diving is dense with life, grouper, barracuda, reef sharks at concentrations that indicate a genuinely healthy ecosystem.
 
 Humpback whales migrate through Mozambican waters between July and October. The whale watching from boats in the Bazaruto and around Tofo is among the best in Africa, with breach counts that rival dedicated whale-watching destinations in New Zealand and Iceland.
 

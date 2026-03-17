@@ -3,7 +3,7 @@ name: Treehotel
 category: treehouse-hotels
 destination: Harads, Swedish Lapland
 country: Sweden
-description: Sweden's legendary Treehotel features seven architectural masterpieces suspended in the pines of Swedish Lapland. Each room is a unique work of art, from the mirrored UFO to the Bird's Nest, created by acclaimed Scandinavian designers. A defining experience for anyone serious about extraordinary travel.
+description: Seven architect-designed rooms suspended in the pines of Swedish Lapland, each a completely different proposition — from a perfectly mirrored cube that vanishes into the forest to a silver disc on a rope bridge. Sixty kilometres south of the Arctic Circle, this is one of the most inventive places to sleep in Europe.
 coverImage: /images/hotels/treehotel-sweden.jpg
 gallery:
   - /images/hotels/treehotel-sweden-2.jpg

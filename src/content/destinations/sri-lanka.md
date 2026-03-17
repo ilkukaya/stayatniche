@@ -52,7 +52,7 @@ Yala National Park holds the world's highest recorded density of wild leopards, 
 
 Offshore near Mirissa, Sri Lanka's submarine canyon system concentrates blue whales between December and April. A 30-minute boat ride from the beach puts you in the vicinity of animals routinely exceeding 25 metres. The whale watching season here is among the most straightforwardly accessible on earth.
 
-Galle Fort on the south coast is a UNESCO World Heritage walled city of Dutch colonial buildings, a functioning town of narrow streets and rampart sea views. Boutique hotels within the fort, converted from Dutch merchant houses, are some of Sri Lanka's most sought-after and atmospheric stays.
+Galle Fort on the south coast is a UNESCO World Heritage walled city of Dutch colonial buildings, a functioning town of narrow streets and rampart sea views. Boutique hotels within the fort, converted from Dutch merchant houses, are some of Sri Lanka's most sought after and atmospheric stays.
 
 
 Sri Lanka's accommodation scene has been transformed by a creative generation of hoteliers. [Treehouse hotels](/categories/treehouse-hotels) in the jungle near Sigiriya, converted tea estate bungalows in the highlands, minimalist design lodges on Ella's hillside with valley infinity pools, and tented camps at the Kaudulla elephant gathering ground, where 200+ elephants congregate in October and November, represent a hospitality scene that consistently punches above the country's price point.

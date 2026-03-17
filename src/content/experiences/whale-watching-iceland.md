@@ -45,7 +45,7 @@ seo:
   metaDescription: "Join Europe's best whale watching tour from Húsavík, Iceland. See humpback, minke, and blue whales in Skjálfandi Bay with expert marine biologist guides. From $75."
 ---
 
-Húsavík wears its whale watching crown modestly. The town's small wooden church, colourful harbour buildings, and population of just over 2,000 people give no hint that this is where travellers come from across the world for an encounter that, on the right day, borders on the supernatural. Skjálfandi Bay, which cups the town's harbour and opens northward into Arctic waters, concentrates an extraordinary abundance of marine life due to its cold, nutrient-rich upwellings, and the whales follow the food.
+Húsavík wears its whale watching crown modestly. The town's small wooden church, colourful harbour buildings, and population of just over 2,000 people give no hint that this is where travellers come from across the world for an encounter that, on the right day, borders on the supernatural. Skjálfandi Bay, which cups the town's harbour and opens northward into Arctic waters, concentrates an extraordinary abundance of marine life due to its cold, nutrient rich upwellings, and the whales follow the food.
 
 Traditional oak schooners are the vessel of choice for the classic Húsavík experience. Built in the style of the fishing boats that worked these waters for centuries, they provide stability, deck space, and a quieter approach that minimises disturbance to the whales. The marine biologist who accompanies every departure explains whale behaviour, ecology, and the ongoing research programmes that have been cataloguing individual animals in the bay for decades, some of the humpbacks are known by name and personality.
 

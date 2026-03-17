@@ -4,7 +4,7 @@ category: lighthouse-hotels
 destination: "Lindesnes, Vest-Agder"
 country: "Norway"
 continent: "Europe"
-description: "Norway's oldest and most southerly lighthouse, perched on a dramatic rocky promontory at the very tip of the Norwegian mainland, now houses a remarkable boutique hotel carved into the living rock and clad in weathered timber. Lindesnes offers one of Scandinavia's most atmospheric coastal stays, combining deep maritime heritage with exceptional Nordic design and cuisine."
+description: "At the southernmost tip of the Norwegian mainland, the country's oldest lighthouse — operational since 1656 — anchors a boutique hotel where rooms are cut directly into the rocky promontory, their stone walls clad in warm timber and their windows trained on the confluence of the Skagerrak and the North Sea. The restaurant draws daily from local fishing families, and in winter guests watch gusts exceeding 40 metres per second from behind floor-to-ceiling glass."
 coverImage: /images/hotels/lindesnes-lighthouse-norway.jpg
 gallery:
   - /images/hotels/lindesnes-lighthouse-norway-2.jpg
@@ -16,7 +16,7 @@ highlights:
   - "Southernmost point of the Norwegian mainland"
   - "Hotel rooms designed into the natural rock of the promontory"
   - "Exceptional seafood restaurant drawing on the North Sea's finest catch"
-  - "Dramatic winter storm watching from glass-walled common areas"
+  - "Dramatic winter storm watching from glass walled common areas"
   - "Northern lights viewing on clear autumn and winter nights"
 amenities:
   - "Boutique rock-carved hotel rooms with ocean views"
@@ -67,14 +67,14 @@ seo:
   metaDescription: "Stay at Norway's oldest lighthouse at the southern tip of the mainland. Rock-carved rooms, Nordic seafood dining, and dramatic North Sea storms. From $350/night."
 ---
 
-Lindesnes has marked the southernmost point of the Norwegian mainland since 1656, when the country's first lighthouse was lit on this exposed rocky promontory jutting into the confluence of the Skagerrak and the North Sea. Nearly four centuries of maritime history are embedded in the stone here, in the weathered keeper's buildings, and in the powerful character of a headland that has witnessed more than its share of the sea's moods, from summer calms to the ferocious winter storms that made this cape one of the most feared passages for sailing vessels on the Norwegian coast.
+Lindesnes has marked the southernmost point of the Norwegian mainland since 1656, when the country's first lighthouse was lit on this exposed rocky promontory at the confluence of the Skagerrak and the North Sea. Nearly four centuries of maritime history are embedded in the stone here — in the weathered keeper's buildings, in the powerful character of a headland that has endured everything from summer calms to the ferocious winter storms that made this cape one of the most feared passages for sailing vessels on the Norwegian coast.
 
-The hotel that has grown up around the lighthouse complex is a triumph of Scandinavian architectural thinking: rooms carved directly into the rock face of the promontory, their exposed natural stone walls lined with warm timber, their windows oriented to frame specific compositions of sea and sky. The designers worked with the landscape rather than against it, and the result is a hotel that feels genuinely embedded in its site rather than imposed upon it. Common areas are entirely glazed on their ocean-facing sides, creating an experience of weather that is fully hands-on without being uncomfortable, guests watch the North Sea do its worst from the inside of a warm, beautifully designed room.
+The hotel built around the lighthouse complex is a careful piece of Scandinavian architectural thinking: rooms carved directly into the rock face of the promontory, their natural stone walls lined with warm timber, their windows oriented to frame specific compositions of sea and sky. The designers worked with the landscape rather than over it, and the result is a hotel that feels genuinely embedded in its site. Common areas are entirely glazed on their ocean-facing sides, creating an experience of weather that is fully present without being uncomfortable — guests watch the North Sea do its worst from the inside of a warm, well-designed room with something hot in hand.
 
-The restaurant is one of the outstanding reasons to make the journey south. The North Sea around Lindesnes is extraordinarily productive, and the kitchen draws on relationships with local fishing families to bring an exceptional selection of fresh catch to the table daily. The cured and smoked fish preparations reflect a centuries-old Nordic preservation tradition; the fresh preparations are as fine as anything available in Oslo or Bergen. The wine list is compact but carefully considered, with a predictable bias toward white wines that complement seafood.
+The restaurant is one of the most compelling reasons to make the journey south. The North Sea around Lindesnes is extraordinarily productive, and the kitchen draws on direct relationships with local fishing families to bring fresh catch to the table each day. The cured and smoked preparations reflect a centuries-old Nordic preservation tradition; the fresh dishes are as accomplished as anything available in Oslo or Bergen. The wine list is compact and deliberately biased toward whites that work with seafood.
 
-In summer, the midnight sun turns the 11pm sky a deep golden amber, and the sea below catches it in fragments. In winter, the storm experiences the hotel was partly designed around are the draw: gusts exceeding 40 metres per second have been recorded on the cape, and watching them from behind the glazed common room with something warm to drink is among the more unusual pleasures available in Scandinavia.
+In summer, the midnight sun turns the 11pm sky a deep amber and the sea below catches it in fragments. In winter, the storms the hotel was partly designed around become the main event: gusts exceeding 40 metres per second have been recorded on the cape, and the glazed common rooms were built precisely for this — warmth and visibility in equal measure.
 
-Northern lights are visible from the property on clear autumn and winter nights, and the hotel's dark-sky advantage, far from any significant light pollution, makes the displays particularly vivid when conditions align.
+Northern lights appear from the property on clear autumn and winter nights. The hotel sits far from any significant light pollution, and the displays are correspondingly vivid when conditions align.
 
-Booking well in advance is essential. This is a small property at an extreme location, and availability is always limited.
+This is a small property at an extreme location. Book well ahead.

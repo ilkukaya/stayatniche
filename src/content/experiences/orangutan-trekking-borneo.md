@@ -23,7 +23,7 @@ included:
   - All park entry fees and Conservation Area permits
   - Lunch in the field
   - Optional night drive with spotlight guide
-  - Basic accommodation in Danum Valley Field Centre (if multi-day)
+  - Basic accommodation in Danum Valley Field Centre (if multi day)
 notIncluded:
   - Transport from Lahad Datu (4WD transfer required, arrange through operator)
   - Personal travel insurance

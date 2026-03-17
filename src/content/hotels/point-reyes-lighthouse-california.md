@@ -16,7 +16,7 @@ highlights:
   - "Historic 1927 Coast Guard lifeboat station buildings"
   - "Grey whale watching from the lighthouse headland (January–March)"
   - "Tule elk reserve visible from the property"
-  - "World-class hiking and bird watching on the doorstep"
+  - "Exceptional hiking and bird watching on the doorstep"
   - "Exceptional local oysters from Tomales Bay"
 amenities:
   - "Private rooms and dormitory accommodation"
@@ -64,7 +64,7 @@ featured: false
 status: published
 seo:
   metaTitle: "Point Reyes Lighthouse Hostel Review, Coastal Wilderness Accommodation, California"
-  metaDescription: "Stay within Point Reyes National Seashore at the historic Coast Guard lifeboat station. Grey whale watching, tule elk, and world-class hiking on the California coast. From $30/night."
+  metaDescription: "Stay within Point Reyes National Seashore at the historic Coast Guard lifeboat station. Grey whale watching, tule elk, and exceptional hiking on the California coast. From $30/night."
 ---
 
 Point Reyes juts west into the Pacific like a thumb held against the current, catching fog, wind, and weather in quantities that have kept development at bay and preserved one of the most ecologically rich stretches of coastline in the American West. Staying within the boundaries of the National Seashore, rather than driving in from Marin for a day, is a materially different experience: the wildlife is more accessible, the fog more immersive, and the morning light on the headland something that day visitors simply don't see.

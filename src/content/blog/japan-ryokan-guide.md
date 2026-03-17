@@ -48,7 +48,7 @@ Japanese travel agents use a star system for ryokan (typically 1–5 stars), and
 
 **Budget ryokan (minshuku):** Family-run guesthouses in the ryokan tradition, with shared rather than private onsen, simpler meals (sometimes self-catered), and rates from ¥8,000–15,000/person/night ($55–100). These represent the most accessible entry to the category and are often the most authentic, the owners cook the meals themselves.
 
-**Mid-range ryokan:** ¥20,000–50,000/person/night ($135–340). Private or semi-private onsen, full kaiseki service, well-maintained tatami rooms. The sweet spot for most travellers, genuine quality without the ultra-luxury price.
+**Mid range ryokan:** ¥20,000–50,000/person/night ($135–340). Private or semi-private onsen, full kaiseki service, well maintained tatami rooms. The sweet spot for most travellers, genuine quality without the ultra-luxury price.
 
 **Luxury ryokan (ryokan de luxe):** ¥80,000–300,000/person/night ($550–2,000+). Private onsen in every room, multiple kaiseki courses of exceptional quality, individual attendants (nakai-san) assigned to each room. The finest properties in this category, Tawaraya in Kyoto, Beniya Mukayu in Yamashiro Onsen, are considered among the world's great hotels by any measure.
 
@@ -152,7 +152,7 @@ The entire procession may last 2–3 hours at a premium ryokan. The appropriate 
 Most ryokan are best appreciated for 2 nights, enough time to experience the full rhythm of arrival, onsen, kaiseki dinner, futon sleep, traditional breakfast, and a relaxed morning before departure. Single-night stays are possible but feel rushed; 3+ nights at the same ryokan are typically reserved for properties in onsen towns with full cultural programs.
 
 
-Ryokan rates are per person (not per room) and almost always include dinner and breakfast, the two-meal rate is the standard. A mid-range ryokan stay with two meals for two people (¥40,000–60,000/person/night = ¥80,000–120,000/night total) is comparable to a good Western hotel room with two restaurant dinners, once you factor the meals into the comparison.
+Ryokan rates are per person (not per room) and almost always include dinner and breakfast, the two-meal rate is the standard. A mid range ryokan stay with two meals for two people (¥40,000–60,000/person/night = ¥80,000–120,000/night total) is comparable to a good Western hotel room with two restaurant dinners, once you factor the meals into the comparison.
 
 ---
 
@@ -161,7 +161,7 @@ Ryokan rates are per person (not per room) and almost always include dinner and 
 Yes, the better ryokan are experienced with international guests and have English-speaking staff. The ritual elements (onsen etiquette, yukata, kaiseki course sequence) are explained at check-in. Some more remote, family-run minshuku may have limited English, but the hospitality is universal and the experience comprehensible without language.
 
 
-Yes, futon on tatami is the traditional ryokan sleeping arrangement. The futon quality at mid-range and above is excellent (thick, well-padded, and laid on proper tatami). Guests with significant back problems or hip issues should ask whether a western-style bed option is available; some properties can accommodate this, though it compromises the authenticity of the experience.
+Yes, futon on tatami is the traditional ryokan sleeping arrangement. The futon quality at mid range and above is excellent (thick, well-padded, and laid on proper tatami). Guests with significant back problems or hip issues should ask whether a western-style bed option is available; some properties can accommodate this, though it compromises the authenticity of the experience.
 
 
 All seasons offer distinct ryokan pleasures. **Cherry blossom season (late March–early April):** Extraordinary beauty, maximum crowds and prices; book months in advance. **Autumn foliage (late October–November):** The most visually spectacular season, particularly in Kyoto and Nikko; also very popular. **Summer (July–August):** Humid and hot, the onsen is less appealing, but the mountain ryokan areas (Kaga, Hakone) are cooler. **Winter (December–February):** The "secret season", fewer visitors, atmospheric snowfall on traditional roofs, and the onsen at its most welcome.

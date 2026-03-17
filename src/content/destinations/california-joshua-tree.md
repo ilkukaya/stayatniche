@@ -3,7 +3,7 @@ name: "California Joshua Tree"
 type: region
 continent: "North America"
 country: USA
-description: "Joshua Tree National Park sits at the convergence of two desert ecosystems, the Mojave and the Colorado, creating a landscape of otherworldly rock formations, twisted Joshua trees, and skies that rank among the darkest in Southern California. The surrounding high desert communities have developed one of the most creative and design-forward accommodation cultures in the American Southwest."
+description: "Joshua Tree National Park sits at the convergence of two desert ecosystems, the Mojave and the Colorado, creating a landscape of otherworldly rock formations, twisted Joshua trees, and skies that rank among the darkest in Southern California. The surrounding high desert communities have developed one of the most creative and thoughtfully designed accommodation cultures in the American Southwest."
 coverImage: /images/destinations/california-joshua-tree.jpg
 essentials:
   currency: "USD"
@@ -38,7 +38,7 @@ Since the 1960s and 1970s, when musicians, artists, and seekers began retreating
 
 The communities surrounding the park, Joshua Tree, Twentynine Palms, Yucca Valley, and the artist enclave of Wonder Valley, have filled with architect-designed vacation homes, retro-renovated mid-century properties, and creative accommodations built specifically around the desert experience. Airstreams and converted school buses fitted out with solar power sit alongside desert glass houses with rooftop stargazing decks and fire pits oriented toward sunsets over the boulder fields.
 
-For travelers drawn to [glamping and design-forward desert stays](/categories/glamping), Joshua Tree has become one of the defining destinations in the American Southwest. The Auto Camp Joshua Tree brings vintage Airstream trailers to a beautifully landscaped desert property near the park's north entrance. Camp Coyote and similar properties offer canvas bell tents with proper beds and outdoor soaking tubs under the desert sky. The emphasis throughout is on intimate encounter with the landscape rather than insulation from it.
+For travelers drawn to [glamping and thoughtfully designed desert stays](/categories/glamping), Joshua Tree has become one of the defining destinations in the American Southwest. The Auto Camp Joshua Tree brings vintage Airstream trailers to a beautifully landscaped desert property near the park's north entrance. Camp Coyote and similar properties offer canvas bell tents with proper beds and outdoor soaking tubs under the desert sky. The emphasis throughout is on intimate encounter with the landscape rather than insulation from it.
 
 Joshua Tree's geology is the park's most visually dramatic feature. The Mojave Desert portion of the park, the western half, sits at approximately 4,000 feet elevation, where cooler temperatures allowed Joshua trees to establish and where a process called spheroidal weathering created the rounded, stacked granite formations that make the park look like a landscape from another planet. The formations at Jumbo Rocks, the Wonderland of Rocks, and Ryan Mountain are accessible via short walks and provide unlimited opportunities for scrambling and contemplation.
 

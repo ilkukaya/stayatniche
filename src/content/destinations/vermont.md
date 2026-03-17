@@ -24,7 +24,7 @@ mustSee:
   - "Ben & Jerry's Factory Tour, Waterbury"
   - "Long Trail hiking, America's oldest long-distance trail, 272 miles"
 travelTips:
-  - "Fall foliage timing is unpredictable, follow the Vermont Foliage Tracker (foliage.vermont.gov) for real-time color reports by region."
+  - "Fall foliage timing is unpredictable, follow the Vermont Foliage Tracker (foliage.vermont.gov) for real time color reports by region."
   - "Vermont's craft brewery, cider, and spirits scene is exceptional for its size, the Alchemist's Heady Topper is a pilgrimage item for beer enthusiasts."
   - "Mad River Glen ski area is one of the last cooperatively owned ski resorts in America and bans snowboards, a genuinely distinct experience."
   - "Vermont's farm stands and farmers markets operate with honor-system payment in some rural areas, bring cash."

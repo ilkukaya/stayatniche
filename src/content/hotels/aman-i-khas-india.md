@@ -4,7 +4,7 @@ category: desert-camps
 destination: Ranthambore, Rajasthan
 country: India
 continent: Asia
-description: Ten Mughal-inspired luxury tented pavilions at the edge of Ranthambore Tiger Reserve, the finest address for Bengal tiger encounters in the wild. Aman-i-Khás pairs the extraordinary wildlife of India's most celebrated tiger park with Aman's legendary minimalist luxury.
+description: "Ten canvas-and-hardwood pavilions at the edge of Ranthambore Tiger Reserve, India's most productive ground for Bengal tiger sightings, with Aman naturalists who track individual tigers by name and territory."
 coverImage: /images/hotels/aman-i-khas-india.jpg
 priceRange: "$1,200 - $3,000"
 priceIndicator: 5

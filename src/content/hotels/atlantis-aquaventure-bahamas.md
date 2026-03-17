@@ -14,7 +14,7 @@ highlights:
   - "Underwater suites with floor-to-ceiling lagoon and aquarium views"
   - "The Dig, 14 million litre marine habitat woven through the resort"
   - "Aquaventure waterpark with 20+ slides and 11 pools"
-  - "Home to the world's largest open-air marine habitat"
+  - "Home to the world's largest outdoor marine habitat"
 amenities:
   - "Guest room or suite with marine habitat views"
   - "Full access to Aquaventure waterpark"

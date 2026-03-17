@@ -4,7 +4,7 @@ category: desert-camps
 destination: Agafay Desert, Marrakech
 country: Morocco
 continent: Africa
-description: An eco-luxury Berber camp in the mineral stone desert just 40km from Marrakech, camel rides at dawn, hammam treatments, and dinner under a billion stars in Morocco's hidden stone desert. Scarabeo Camp offers authentic desert immersion without the long journey to the Sahara.
+description: "Berber tents on Morocco's Agafay limestone plateau, 40km south of Marrakech, with the Atlas Mountains on the horizon and no generator after dark — a genuine desert night sky without the two-day drive to the Sahara."
 coverImage: /images/hotels/scarabeo-camp-morocco.jpg
 priceRange: "$350 - $650"
 priceIndicator: 3
@@ -40,7 +40,7 @@ prosAndCons:
   cons:
     - The Agafay is a rocky plateau, not a classic sand dune desert, different visual experience from the Sahara
     - Summer temperatures (July-August) can be extreme even at night
-    - Limited to one night for most visitors, not a multi-day destination
+    - Limited to one night for most visitors, not a multi day destination
     - Accessibility requires a hired car or resort transfer from Marrakech
 bookingUrl: https://www.booking.com/hotel/ma/scarabeo-camp.html
 rating: 9.2
@@ -74,7 +74,7 @@ Scarabeo Camp has built its reputation in the Agafay, and the result is one of t
 
 The camp's tents are Berber in their architectural language, low, broad, and connected to the earth rather than imposing upon it, but the interiors speak a contemporary fluency of handwoven Beni Ourain rugs, embroidered cotton linens, and the warm amber glow of solar-powered lanterns. Each tent has a proper bathroom with hot water (no glamping compromise here), and the beds are dressed with the kind of weight and warmth that the desert night, which drops far more sharply than visitors expect, genuinely demands.
 
-The Agafay itself is not a comfortable landscape. The plateau is composed of compacted limestone and mineral sediment that catches the light in ways that shift constantly with the sun's movement: silver-grey at noon, amber at dusk, the palest possible blue in the last moments of daylight before the sky goes dark. The Atlas Mountains rise at the southern horizon in a perpetual snow-capped presence, framing the view from the camp's communal terrace with the geographical authority of a landscape that has defined human movement in this region for millennia.
+The Agafay itself is not a comfortable landscape. The plateau is composed of compacted limestone and mineral sediment that catches the light in ways that shift constantly with the sun's movement: silver-grey at noon, amber at dusk, the palest possible blue in the last moments of daylight before the sky goes dark. The Atlas Mountains rise at the southern horizon in a perpetual snow capped presence, framing the view from the camp's communal terrace with the geographical authority of a landscape that has defined human movement in this region for millennia.
 
 Days at Scarabeo are built around the simple rhythms of the desert: a camel trek at sunrise while the plateau is still cool, a long lazy brunch, hammam treatments using argan oil sourced from the cooperative farms near Essaouira, and a slow afternoon in the shade before the theatrical transformation of the evening begins. Dinner is served outdoors on long tables lit entirely by candles, with the night sky filling in above as the last light leaves the horizon. The cooking is deeply Moroccan, tagines of slow-cooked lamb, bastilla with almonds and cinnamon, mechoui from the camp's traditional clay ovens, and the quality consistently surprises guests who expected desert camp cuisine to be a concession to logistics.
 

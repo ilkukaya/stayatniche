@@ -3,7 +3,7 @@ name: "Lapa Rios Lodge"
 category: treehouse-hotels
 destination: "Osa Peninsula, Puntarenas"
 country: "Costa Rica"
-description: "Award-winning eco-lodge in a private 1,000-acre rainforest reserve on Costa Rica's wild Osa Peninsula, one of the world's most biodiverse regions. Bungalows elevated in the rainforest canopy overlook the Pacific while the surrounding jungle teems with scarlet macaws, jaguars, and four species of monkey."
+description: "Acclaimed eco-lodge in a private 1,000-acre rainforest reserve on Costa Rica's wild Osa Peninsula, one of the world's most biodiverse regions. Bungalows elevated in the rainforest canopy overlook the Pacific while the surrounding jungle teems with scarlet macaws, jaguars, and four species of monkey."
 coverImage: /images/hotels/lapa-rios-costa-rica.jpg
 gallery:
   - /images/hotels/lapa-rios-costa-rica-2.jpg

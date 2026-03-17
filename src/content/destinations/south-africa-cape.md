@@ -2,7 +2,7 @@
 name: "South Africa, Cape Region"
 type: country
 continent: "Africa"
-description: "The Cape region of South Africa combines one of the world's most beautiful cities with dramatic mountain scenery, world-class wine country, extraordinary marine wildlife, and the remarkable fynbos biome found nowhere else on earth. Cape Town's location, mountain, city, two oceans, is among the most spectacular urban settings in the southern hemisphere."
+description: "The Cape region of South Africa combines one of the world's most beautiful cities with dramatic mountain scenery, exceptional wine country, extraordinary marine wildlife, and the remarkable fynbos biome found nowhere else on earth. Cape Town's location, mountain, city, two oceans, is among the most spectacular urban settings in the southern hemisphere."
 coverImage: /images/destinations/south-africa-cape.jpg
 essentials:
   currency: "ZAR (South African Rand); cards widely accepted in cities; carry cash for rural markets"
@@ -17,14 +17,14 @@ mustSee:
   - "Table Mountain, cable car or Platteklip Gorge hike for panoramic city and ocean views"
   - "Cape of Good Hope, southwesternmost point of Africa, wild Atlantic coastline"
   - "Boulders Beach, Simon's Town, colony of 3,000 African penguins"
-  - "Stellenbosch and Franschhoek wine valleys, world-class wine paired with extraordinary mountain scenery"
+  - "Stellenbosch and Franschhoek wine valleys, exceptional wine paired with extraordinary mountain scenery"
   - "Hermanus, the world's best land-based whale watching (Southern Right Whales, July–November)"
   - "Robben Island, where Nelson Mandela was imprisoned; essential historical context"
 travelTips:
   - "Cape Town has high rates of petty theft and car break-ins, never leave valuables visible in a parked car, and be aware in the CBD after dark."
   - "Load shedding (scheduled power cuts) affects the Western Cape periodically, download the EskomSePush app to plan around outages at restaurants and lodges."
   - "A hire car is essential for exploring the Winelands, Garden Route, and Cape Peninsula beyond Cape Town's immediate surrounds."
-  - "Book Cape Town restaurants well in advance, the city's dining scene is world-class and popular spots fill weeks ahead."
+  - "Book Cape Town restaurants well in advance, the city's dining scene is exceptional and popular spots fill weeks ahead."
   - "Tipping 10–15% is expected and important in a country where service staff wages are low."
 coordinates:
   lat: -33.9249
@@ -35,7 +35,7 @@ seo:
   metaDescription: "South Africa Cape region travel guide, Table Mountain, Winelands, whale watching, and the most extraordinary boutique hotels and lodge stays near Cape Town."
 ---
 
-Within a 200-kilometre radius of Cape Town sit some of the southern hemisphere's most dramatic coastal scenery, two genuinely world-class wine valleys, extraordinary marine wildlife, and a city whose setting, between two oceans, beneath a flat-topped mountain that functions as its own weather station, has been called the most beautiful in the world. It is a hard claim to argue with from the summit of Table Mountain on a clear day.
+Within a 200-kilometre radius of Cape Town sit some of the southern hemisphere's most dramatic coastal scenery, two genuinely exceptional wine valleys, extraordinary marine wildlife, and a city whose setting, between two oceans, beneath a flat topped mountain that functions as its own weather station, has been called the most beautiful in the world. It is a hard claim to argue with from the summit of Table Mountain on a clear day.
 
 
 Cape Town sits on a narrow peninsula where the Atlantic and Indian Oceans collide at the Cape of Good Hope, where the cold Benguela and warm Agulhas currents meet. Table Mountain (1,086m) rises almost directly from the city bowl, visible from everywhere. The cable car to the summit is a tourist standard that earns its place; the Platteklip Gorge hiking trail offers a 90-minute alternative with the city spreading below as you climb.
@@ -53,4 +53,4 @@ The Cape's marine environment is fed by the cold, nutrient-dense Benguela Curren
 At Hermanus, two hours east of Cape Town on the Overberg coast, Southern Right Whales calve in Walker Bay between July and November. The cliff paths above the bay allow viewing from 30 metres, close enough to see the callosities on the whales' heads and hear the exhale from their blowholes. The town employs a whale crier, a man with a kelp horn, to announce sightings along the cliff path. It is exactly as endearing as it sounds.
 
 
-The Cape's accommodation spans wine estate hotels in Franschhoek and Stellenbosch to clifftop boutique properties above the Atlantic at Camps Bay. The [safari lodges](/categories/safari-lodges) at private game reserves within day-trip distance, Aquila and others in the Karoo, let visitors combine city and wildlife without additional flights. The [treehouse hotels](/categories/treehouse-hotels) and forest lodges along the Garden Route, particularly around Tsitsikamma, are among South Africa's most inventive: elevated timber structures in old-growth yellowwood forest, Indian Ocean audible through the canopy. The Otter Trail (five-day coastal hike) and the Storms River Gorge suspension bridge are the region's signature outdoor experiences.
+The Cape's accommodation spans wine estate hotels in Franschhoek and Stellenbosch to clifftop boutique properties above the Atlantic at Camps Bay. The [safari lodges](/categories/safari-lodges) at private game reserves within day trip distance, Aquila and others in the Karoo, let visitors combine city and wildlife without additional flights. The [treehouse hotels](/categories/treehouse-hotels) and forest lodges along the Garden Route, particularly around Tsitsikamma, are among South Africa's most inventive: elevated timber structures in old-growth yellowwood forest, Indian Ocean audible through the canopy. The Otter Trail (five-day coastal hike) and the Storms River Gorge suspension bridge are the region's signature outdoor experiences.

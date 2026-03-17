@@ -35,7 +35,7 @@ Scotland has a legitimate claim to being the world's premier destination for cas
 
 Widely regarded as Scotland's finest castle hotel, Inverlochy sits at the foot of Ben Nevis in the Scottish Highlands, surrounded by 500 acres of private estate. Built in 1863 in the Scottish Baronial style for the first Lord Abinger, the castle has operated as a hotel since 1969 and is today one of Scotland's most celebrated addresses. Queen Victoria stayed here in 1873, describing the view in her diary as the finest she had ever seen in the Highlands.
 
-The interiors are extraordinary: original frescoed ceilings, oil paintings, antique furniture, and an atmosphere of quiet, aristocratic grandeur that a purpose-built hotel could never replicate. The restaurant, led by a team that has held Michelin recognition, serves Highland produce at the highest level. Fishing, stalking, and shooting are available on the estate; nearby Glen Nevis and the Nevis Range ski centre offer year-round outdoor pursuits.
+The interiors are extraordinary: original frescoed ceilings, oil paintings, antique furniture, and an atmosphere of quiet, aristocratic grandeur that a purpose built hotel could never replicate. The restaurant, led by a team that has held Michelin recognition, serves Highland produce at the highest level. Fishing, stalking, and shooting are available on the estate; nearby Glen Nevis and the Nevis Range ski centre offer year-round outdoor pursuits.
 
 **Price range:** Superior rooms from £350/night; suites from £600/night
 **Best for:** Special occasions, couples, food enthusiasts, those wanting the quintessential Highland experience

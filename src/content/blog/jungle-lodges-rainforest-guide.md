@@ -23,7 +23,7 @@ seo:
 
 The world's great rainforests are among the planet's most biologically complex and visually extraordinary environments. The Amazon basin alone contains an estimated 10% of all species on Earth; Borneo's ancient forests host orangutans, pygmy elephants, and proboscis monkeys in habitats that have remained largely unchanged for millions of years; Costa Rica's cloud forests shelter resplendent quetzals in tree canopies wreathed in perpetual mist.
 
-Staying in a jungle lodge is fundamentally different from any other form of extraordinary accommodation. Unlike a [cave hotel](/categories/cave-hotels) or a [castle hotel](/categories/castle-hotels), where the structure itself is the spectacle, a great jungle lodge is primarily a platform: a comfortable, well-designed base from which to engage with the surrounding forest. The finest properties understand this and design every element of the guest experience around deepening the encounter with the natural world outside.
+Staying in a jungle lodge is fundamentally different from any other form of extraordinary accommodation. Unlike a [cave hotel](/categories/cave-hotels) or a [castle hotel](/categories/castle-hotels), where the structure itself is the spectacle, a great jungle lodge is primarily a platform: a comfortable, well designed base from which to engage with the surrounding forest. The finest properties understand this and design every element of the guest experience around deepening the encounter with the natural world outside.
 
 This guide covers the world's premier jungle lodge destinations, recommends specific properties across a range of budgets and styles, and provides practical advice on what to expect when staying in the world's great forests.
 
@@ -35,7 +35,7 @@ The Amazon rainforest covers 5.5 million square kilometres across nine countries
 
 **Cristalino Lodge: Alta Floresta, Mato Grosso**
 
-Consistently rated among the world's finest wildlife lodges of any category, Cristalino is a privately owned nature reserve of 11,000 hectares on the banks of the crystal-clear Cristalino River in southern Amazonia. The lodge's 30-metre canopy tower, from which guests can watch the forest canopy at eye level, is one of the most celebrated wildlife-watching structures in South America. Over 600 bird species have been recorded on the reserve; giant otters, tapirs, jaguars, and 12 primate species are all regularly sighted.
+Consistently rated among the world's finest wildlife lodges of any category, Cristalino is a privately owned nature reserve of 11,000 hectares on the banks of the crystal clear Cristalino River in southern Amazonia. The lodge's 30-metre canopy tower, from which guests can watch the forest canopy at eye level, is one of the most celebrated wildlife-watching structures in South America. Over 600 bird species have been recorded on the reserve; giant otters, tapirs, jaguars, and 12 primate species are all regularly sighted.
 
 The lodge itself is beautifully designed, raised timber structures with screened windows and private verandas, connected by elevated walkways through the forest. The standard of guiding is exceptional, with a team of highly qualified naturalists who lead both birding and general wildlife walks. Cristalino has won numerous awards for sustainable operation.
 
@@ -67,7 +67,7 @@ Borneo's forests are among the oldest on Earth, the island has been tropical and
 
 **Sukau Rainforest Lodge, Kinabatangan River**
 
-The Kinabatangan River in eastern Sabah is one of the world's great wildlife corridors. The narrow strip of riverine forest remaining on its banks supports pygmy elephants, orangutans, proboscis monkeys, Bornean gibbon, estuarine crocodiles, and over 200 bird species, an extraordinary concentration of wildlife in a relatively small area. Sukau Rainforest Lodge, a multi-award-winning property on the river's banks, operates river cruises and forest walks from a base of comfortable, well-designed chalets with private terraces overlooking the water.
+The Kinabatangan River in eastern Sabah is one of the world's great wildlife corridors. The narrow strip of riverine forest remaining on its banks supports pygmy elephants, orangutans, proboscis monkeys, Bornean gibbon, estuarine crocodiles, and over 200 bird species, an extraordinary concentration of wildlife in a relatively small area. Sukau Rainforest Lodge, a multi-acclaimed property on the river's banks, operates river cruises and forest walks from a base of comfortable, well designed chalets with private terraces overlooking the water.
 
 **Price range:** From $250/person/night (full board, guided activities)
 **Best for:** Wildlife enthusiasts, first-time Borneo visitors, birders

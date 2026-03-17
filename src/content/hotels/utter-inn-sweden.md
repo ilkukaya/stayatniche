@@ -30,7 +30,7 @@ amenities:
 bestFor:
   - "Art and design enthusiasts"
   - "Adventurous couples"
-  - "Bucket-list experience seekers"
+  - "Unmissable experience seekers"
   - "Scandinavia lovers"
 tags:
   - "underwater"

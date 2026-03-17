@@ -21,7 +21,7 @@ seo:
   metaDescription: "The world's best overwater bungalows beyond the Maldives, Bora Bora, Fiji, the Caribbean, Panama, and more. Prices, snorkeling quality, and honest comparisons."
 ---
 
-The Maldives made the overwater bungalow famous, and the best properties there still set the standard for the category. But the average premium overwater villa at a top Maldives resort now costs $1,500–4,000+ per night, and you're doing it in a geography that is flat, relatively monotonous, and limited to water-based activities. For many people that's the point. For others, it isn't enough.
+The Maldives made the overwater bungalow famous, and the best properties there still set the standard for the category. But the average premium overwater villa at a top Maldives resort now costs $1,500–4,000+ per night, and you're doing it in a geography that is flat, relatively monotonous, and limited to aquatic activities. For many people that's the point. For others, it isn't enough.
 
 French Polynesia, Fiji, Southeast Asia, and the Caribbean all offer overwater experiences that add mountains, jungle, coral gardens, cultural depth, or simply a lower price. This guide covers the best options worldwide, including the Maldives' top properties for context, with honest comparisons of what each destination actually delivers.
 
@@ -41,7 +41,7 @@ The overwater villas have everything: glass-floor panels, direct lagoon access v
 ---
 
 
-COMO Cocoa Island's design references the traditional Maldivian dhoni fishing boat, 33 overwater suites with a distinctive double-curved roofline and a minimal, spa-focused aesthetic that steps back from the extravagance of competitors. The COMO Shambhala spa program here is genuinely well-designed rather than just expensive, and at 33 suites the scale feels human in a way that properties with 150+ villas rarely manage.
+COMO Cocoa Island's design references the traditional Maldivian dhoni fishing boat, 33 overwater suites with a distinctive double-curved roofline and a minimal, spa-focused aesthetic that steps back from the extravagance of competitors. The COMO Shambhala spa program here is genuinely well designed rather than just expensive, and at 33 suites the scale feels human in a way that properties with 150+ villas rarely manage.
 
 **Price range:** Water Suites from $1,000/night
 
@@ -70,7 +70,7 @@ The St. Regis Bora Bora's Royal Estate overwater villa is a two-bedroom, private
 
 
 
-Likuliku Lagoon Resort on Malolo Island is the only resort in Fiji offering true overwater bungalows, most others are extended-land-over-water rather than fully overwater, a meaningful distinction if you care about the glass-floor-panel experience. The 10 Overwater Bures are genuine: thatched-roof Fijian bures elevated directly over Malolo Lagoon, with glass-floor panels and steps into the water.
+Likuliku Lagoon Resort on Malolo Island is the only resort in Fiji offering true overwater bungalows, most others are extended-land-overwater rather than fully overwater, a meaningful distinction if you care about the glass-floor-panel experience. The 10 Overwater Bures are genuine: thatched-roof Fijian bures elevated directly over Malolo Lagoon, with glass-floor panels and steps into the water.
 
 Fiji's difference from the Maldives is cultural. Fijian hospitality is warm and genuine in a way that reads differently from the Maldives' more formal luxury service style. Village visits, kava ceremonies, and community engagement are available and authentic from Likuliku, the kind of cultural depth that most Maldives resorts, which are designed to feel like islands unto themselves, simply don't offer.
 
@@ -127,9 +127,9 @@ At the other end of the Caribbean price range, Over Yonder Cay is a private Baha
 
 | Destination | Marine Life Quality | Setting | Accessibility | Price Range | Cultural Depth |
 |-------------|--------------------|---------|--------------|-----------|----|
-| Maldives | ★★★★★ | Flat atolls, extreme isolation | Long-haul + seaplane | $$$$ | Low |
-| Bora Bora | ★★★★ | Volcanic peaks + lagoon | Long-haul + short flight | $$$$ | Medium |
-| Fiji | ★★★★ | Tropical islands, warm culture | Long-haul | $$$ | High |
+| Maldives | ★★★★★ | Flat atolls, extreme isolation | Long haul + seaplane | $$$$ | Low |
+| Bora Bora | ★★★★ | Volcanic peaks + lagoon | Long haul + short flight | $$$$ | Medium |
+| Fiji | ★★★★ | Tropical islands, warm culture | Long haul | $$$ | High |
 | Raja Ampat | ★★★★★ | Wild, remote rainforest islands | Very difficult | $$ | Low |
 | Cambodia | ★★★ | Gulf of Thailand, cultural depth | Medium | $$$ | High |
 | Caribbean | ★★★ | Accessible tropical water | Short-haul (from US) | $$-$$$ | Medium |

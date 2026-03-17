@@ -2,7 +2,7 @@
 name: "Papua New Guinea"
 type: country
 continent: "Oceania"
-description: "Papua New Guinea is one of the last truly frontier destinations on earth, a vast island of rainforest-covered mountains, remote tribal cultures, and some of the world's most pristine and biodiverse marine environments. For travelers seeking genuine remoteness, extraordinary cultural encounters, and world-class diving in an utterly untouched setting, PNG remains in a category entirely its own."
+description: "Papua New Guinea is one of the last truly frontier destinations on earth, a vast island of rainforest-covered mountains, remote tribal cultures, and some of the world's most pristine and biodiverse marine environments. For travelers seeking genuine remoteness, extraordinary cultural encounters, and exceptional diving in an utterly untouched setting, PNG remains in a category entirely its own."
 coverImage: /images/destinations/papua-new-guinea.jpg
 essentials:
   currency: "PGK (Papua New Guinean Kina); USD accepted at major hotels and dive resorts"
@@ -16,7 +16,7 @@ bestTimeToVisit:
 mustSee:
   - "Goroka Show or Mt Hagen Cultural Show, hundreds of tribal groups in traditional sing-sing ceremony dress"
   - "Tufi fjords, West Papua's dramatic fjord coastline with exceptional diving and village homestays"
-  - "Milne Bay Province, world-class muck diving and the site of the first verified pygmy seahorse discovery"
+  - "Milne Bay Province, exceptional muck diving and the site of the first verified pygmy seahorse discovery"
   - "Sepik River, remote river journey through animist village culture with extraordinary carved art traditions"
   - "Kokoda Track, the 96-kilometer World War II trail through the Owen Stanley Range"
   - "Chimbu highlands, tree kangaroos, birds of paradise, and traditional villages at high altitude"
