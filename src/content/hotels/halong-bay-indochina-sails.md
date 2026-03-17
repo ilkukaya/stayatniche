@@ -4,7 +4,7 @@ category: floating-hotels
 destination: Ha Long Bay, Quảng Ninh
 country: Vietnam
 continent: Asia
-description: A boutique floating junk hotel drifting through the limestone karsts of Ha Long Bay, 1,969 islands of ancient geology visible from your private cabin deck.
+description: "A boutique junk cruise through Ha Long Bay's 1,969 limestone karsts, with private balcony cabins, kayaking through sea caves accessible only at low tide, and cooking classes using seafood bought from passing floating markets."
 coverImage: /images/hotels/halong-bay-indochina-sails.jpg
 priceRange: "$180 - $380"
 priceIndicator: 3
@@ -59,15 +59,12 @@ seo:
   metaDescription: "Sleep floating among Ha Long Bay's legendary limestone karsts aboard Indochina Sails. UNESCO World Heritage Site cruising with private balcony cabins."
 ---
 
-Ha Long Bay holds a particular power over travellers. Two thousand limestone islands erupt from the Gulf of Tonkin like ancient teeth, shrouded in mist and silence, accessible only by water. Staying on a floating junk hotel is the only way to experience this UNESCO World Heritage Site, and Indochina Sails does it beautifully.
+Ha Long Bay has a specific effect on first-time visitors: the scale is simply not what they expected. Nearly two thousand limestone karsts erupt from the Gulf of Tonkin across 1,500 square kilometres, and the only way to move among them properly is by boat. A junk cruise is not merely the most convenient way to see the bay — it is the only way to reach the inner lagoons, the tidal caves, and the sections of water where the fishing villages have operated for generations without road access.
 
+Your private cabin opens onto a narrow balcony just above the waterline. Morning begins with mist rolling between the towers — Ha Long Bay earns its atmospheric reputation most thoroughly at dawn, when the light is low, the fishing boats are already moving, and the limestone walls are grey and close. The bay seems to reveal itself slowly as the light strengthens, which is the correct pace for it.
 
-Your private cabin opens onto a narrow balcony just above the waterline. Morning begins with mist rolling between the karsts as local fishing boats drift silently past. There's a meditative quality to waking in Ha Long Bay: the bay seems to exhale slowly, revealing its limestone towers gradually as the light strengthens.
+The programme of daily activities is where Indochina Sails earns its keep. Kayaking into the hidden lagoons — enclosed bodies of water accessible only through low cave passages that must be entered flat on the kayak deck at low tide — is one of Southeast Asia's more memorable small adventures. The cooking class in the ship's galley uses produce bought from the floating market vendors who paddle up alongside in the mornings; the guide teaches the preparation of Vietnamese spring rolls and pho with the patience of someone who has watched many people struggle to roll rice paper.
 
+At golden hour, the sundeck becomes the social centre of the boat. Guests gather with Saigon beers to watch the light move across the karsts — amber first, then rose, then a deep blue-grey as the towers turn to silhouettes — in a natural display that is, by any measure, extraordinary.
 
-Days are spent on the water. Kayak into hidden lagoons that can only be reached through low cave passages at low tide. Swim from the boarding ladder into water that's emerald-green and surprisingly warm. The cooking class in the ship's galley is unexpectedly wonderful, your guide teaches you to prepare Vietnamese spring rolls using produce bought fresh from floating markets.
-
-The sundeck becomes the social heart of the boat at golden hour. Guests gather with Saigon beers to watch the light change on the karsts, from amber to rose to deep purple, in one of Southeast Asia's most spectacular natural shows.
-
-
-Indochina Sails operates from Tuan Chau Harbour, 20km from Ha Long City. Most guests travel from Hanoi (3.5 hours by bus or car) on a coordinated transfer.
+Indochina Sails operates from Tuan Chau Harbour, 20 kilometres from Ha Long City. Most guests arrive from Hanoi on a coordinated transfer that takes approximately 3.5 hours by road.

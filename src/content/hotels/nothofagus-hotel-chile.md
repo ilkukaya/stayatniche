@@ -83,24 +83,24 @@ seo:
   metaDescription: "Sleep in the treetops of a private Patagonian rainforest reserve at Nothofagus Hotel & Spa, Huilo-Huilo, Chile. Ancient trees, volcanic views, hot spring spa, and endemic wildlife."
 ---
 
-There are treehouse hotels, and then there is Nothofagus. Buried deep inside the Huilo-Huilo Biological Reserve, a privately owned, 100,000-hectare sanctuary in Chile's Los Ríos region, this extraordinary hotel does not merely perch among the trees. It is woven into them. The ancient Nothofagus (southern beech) trees that give the hotel its name are not backdrop; they are structural partners, their massive trunks rising through the floors and ceilings of the rooms themselves.
+There are treehouse hotels, and then there is Nothofagus. Buried deep inside the Huilo-Huilo Biological Reserve — a privately owned, 100,000-hectare sanctuary in Chile's Los Ríos region — this hotel does not merely perch among the trees. It is woven into them. The ancient Nothofagus (southern beech) trees that give the hotel its name are not backdrop; they are structural partners, their massive trunks rising through floors and ceilings of the rooms themselves.
 
-Arriving at Nothofagus feels like being swallowed by wilderness. The reserve receives remarkably few visitors relative to its size, and the hotel itself holds just a handful of rooms, meaning that the dense Valdivian temperate rainforest, draped in moss, threaded with rivers, and punctuated by the thunder of Huilo-Huilo waterfall, feels genuinely, entirely yours.
+Arriving feels like being absorbed by wilderness. The reserve takes in very few visitors relative to its size, and the hotel holds just a handful of rooms, so the dense Valdivian temperate rainforest — draped in moss, threaded with rivers, punctuated by the thunder of Huilo-Huilo waterfall — feels genuinely, entirely yours.
 
 **The Rooms**
 
-Each room is a work of considered architecture. Rough-hewn wood and volcanic stone provide the structure, while floor-to-ceiling windows frame the forest in every direction. At night, the illuminated canopy glows like something from a fable. The design is warm rather than austere: thick woolen blankets, handcrafted furniture, and earthy tones that mirror the forest floor. In the morning, mist curls through the treetops just beyond the glass.
+Each room is a study in considered architecture. Rough-hewn wood and volcanic stone provide the structure; floor-to-ceiling windows frame the forest in every direction. The design runs warm rather than austere — thick woolen blankets, handcrafted furniture, earthy tones that mirror the forest floor. At night, the illuminated canopy glows beyond the glass. In the morning, mist curls through the treetops while coffee is still brewing.
 
 **The Reserve**
 
-Stepping outside is to enter one of the most biodiverse ecosystems in the Southern Hemisphere. The reserve is home to the pudú, the world's smallest deer, as well as the elusive puma, the Andean condor, and dozens of endemic bird species. Guided hikes take you to viewpoints overlooking the Mocho-Choshuenco volcano, to hidden lagoons, and to the Huilo-Huilo waterfall itself, which plunges over a black volcanic arch with tremendous force. Horseback riding, kayaking on Lago Pirihueico, and night walks in search of nocturnal mammals round out the activity program.
+Outside the hotel is one of the most biodiverse ecosystems in the Southern Hemisphere. The reserve supports the pudú — the world's smallest deer — alongside puma, Andean condor, and dozens of endemic bird species. Guided hikes reach viewpoints over the Mocho-Choshuenco volcano, hidden lagoons, and the Huilo-Huilo waterfall itself, which drops over a black volcanic arch with considerable force. Horseback riding, kayaking on Lago Pirihueico, and night walks tracking nocturnal mammals complete the activity options.
 
 **The Spa**
 
-The hotel's spa is among the finest in southern Chile. Thermal pools fed by natural volcanic hot springs sit outdoors within the forest. Soaking in them as rain drips through the canopy above is the kind of thing that makes you extend your stay. Treatment rooms offer massages and body wraps using native botanical ingredients sourced from within the reserve.
+The spa sits among the better ones in southern Chile. Thermal pools fed by natural volcanic hot springs are outdoors, open to the forest canopy. Soaking in them while rain moves through the trees above is the kind of thing that causes people to extend their stay by a day. Treatment rooms use massages and body wraps built around native botanical ingredients sourced from within the reserve.
 
 **Food and Drink**
 
-The restaurant takes its cue from the surrounding land. Local trout, Patagonian lamb, and seasonal foraged ingredients dominate a menu that changes with the rhythms of the reserve. The wine list leans predictably and correctly toward Chilean varietals, the Carménère pairs well with the end of a long day on the trails.
+The restaurant draws on the surrounding land. Local trout, Patagonian lamb, and seasonal foraged ingredients anchor a menu that shifts with the rhythms of the reserve. The wine list runs toward Chilean varietals as it should. A Carménère at the end of a long trail day is the correct choice, every time.
 
-Nothofagus Hotel & Spa is for serious nature travellers who want the forest to be real, not decorative. The birds outside are endemic species found nowhere else in the world. The puma and pudú in the reserve aren't zoo animals. This is a private wilderness of 100,000 hectares, and the hotel sits inside it. If you want to be left alone in ancient trees with a glass of Carménère at the end of a long trail day, this does that better than anywhere else in South America.
+Nothofagus is for serious nature travellers who want the forest to be real, not decorative. The birds outside are endemic species found nowhere else. The puma and pudú in the reserve are wild animals in a wild reserve, not park fixtures. This is 100,000 hectares of private wilderness, and the hotel sits at the heart of it. If what you want is ancient trees, a genuine spa, and a glass of wine at the end of a long day on the trails, this does that better than anywhere else in South America.

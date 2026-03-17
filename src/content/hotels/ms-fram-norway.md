@@ -3,7 +3,7 @@ name: "MS Fram Expedition Ship"
 category: floating-hotels
 destination: "Svalbard & Norwegian Arctic"
 country: "Norway"
-description: "Hurtigruten's legendary polar expedition vessel, the world's most experienced polar ship, carrying adventurous travellers into the Arctic wilderness of Svalbard, Greenland, and Antarctica. An extraordinary floating hotel where the destination is both the journey and the reward."
+description: "Hurtigruten's ice-reinforced expedition ship named for Nansen and Amundsen's polar vessel, deploying Zodiacs to glacier faces and walrus beaches at 78° north — with 16 specialist guides on board and polar bear encounters that are a probability, not a marketing promise."
 coverImage: /images/hotels/ms-fram-norway.jpg
 gallery:
   - /images/hotels/ms-fram-norway-2.jpg
