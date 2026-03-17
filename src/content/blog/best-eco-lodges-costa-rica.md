@@ -21,11 +21,11 @@ seo:
   metaDescription: "Costa Rica's best eco-lodges, from Osa Peninsula rainforest retreats to Monteverde cloud forest lodges. Prices, wildlife, and sustainability credentials included."
 ---
 
-Costa Rica invented modern eco-tourism. That is not hyperbole. The country's decision in the 1980s to protect 25% of its national territory as national parks and reserves, combined with the tourism infrastructure built to allow visitors to experience those protected areas, created a model that has been studied and imitated worldwide. What Costa Rica understood before almost anyone else was that the wilderness had more economic value intact than converted to agriculture or development: a jaguar alive in a functioning rainforest is worth more to the national economy than the same land cleared for cattle.
+Costa Rica invented modern eco-tourism. That is not hyperbole. The country's decision in the 1980s to protect 25% of its national territory as parks and reserves — combined with the tourism infrastructure built to let visitors actually experience those protected areas — created a model that has been studied and imitated worldwide. What Costa Rica understood before almost anyone else was that intact wilderness has more economic value than converted land: a jaguar alive in a functioning rainforest is worth more to the national economy than the same land cleared for cattle.
 
-The eco-lodges that emerged from this philosophy are the most authentic expression of what sustainable travel can look like when it's done with genuine ambition rather than greenwashing. The best Costa Rican eco-lodges are not hotels that compost their kitchen waste and call it sustainability. They are properties built in partnership with local communities, powered by renewable energy, staffed almost entirely by local naturalist guides, and positioned to deliver wildlife experiences, sloths, poison-dart frogs, scarlet macaws, tapirs, that are genuinely exceptional.
+The eco-lodges that emerged from this philosophy are the most authentic expression of what sustainable travel can look like when pursued with genuine ambition rather than greenwashing. The best are not hotels that compost their kitchen waste and call it a day. They are properties built in partnership with local communities, powered by renewable energy, staffed almost entirely by local naturalist guides, and positioned to deliver wildlife experiences — sloths, poison-dart frogs, scarlet macaws, tapirs — that are genuinely exceptional.
 
-This guide covers the finest, organised by region, with honest assessments of what makes each distinctive and practical information for planning your visit.
+This guide covers the finest properties, organised by region, with honest assessments of what makes each distinctive and practical information for planning your visit.
 
 ---
 
@@ -37,16 +37,16 @@ When evaluating an eco-lodge's sustainability claims, the CST rating is a meanin
 ---
 
 
-The Osa Peninsula, in the remote southwest of the country, contains what National Geographic has called "the most biologically intense place on Earth." Corcovado National Park, which covers a third of the peninsula, is home to all four of Costa Rica's monkey species, tapirs, pumas, jaguars, scarlet macaws, harpy eagles, and an overwhelming density of reptiles, amphibians, and invertebrates. This is primary rainforest, undisturbed and dense.
+The Osa Peninsula, in the remote southwest of the country, contains what National Geographic has called "the most biologically intense place on Earth." Corcovado National Park, which covers a third of the peninsula, is home to all four of Costa Rica's monkey species, tapirs, pumas, jaguars, scarlet macaws, harpy eagles, and an overwhelming density of reptiles, amphibians, and invertebrates. This is primary rainforest — undisturbed and dense.
 
 
 Lapa Rios is the lodge against which all other Osa Peninsula properties are measured, and by most serious eco-travellers, the finest eco-lodge in the Americas. Founded in 1993 by John and Karen Lewis, who purchased 1,000 acres of degraded farmland and allowed it to regenerate into primary forest while building a community-supported lodge on its borders, Lapa Rios has become the model for what eco-tourism can achieve.
 
-Sixteen thatch-roofed bungalows occupy the forest ridge above the Golfo Dulce, each with sweeping ocean views, hardwood interiors, outdoor shower, and private deck from which sloths, toucans, and howler monkeys are visible without moving from your chair. The entire property is powered by solar energy; wastewater is treated on site; the kitchen sources from local organic farms and the lodge's own garden.
+Sixteen thatch-roofed bungalows occupy the forest ridge above the Golfo Dulce, each with sweeping ocean views, hardwood interiors, an outdoor shower, and a private deck from which sloths, toucans, and howler monkeys are visible without moving from your chair. The entire property is solar-powered; wastewater is treated on site; the kitchen sources from local organic farms and the lodge's own garden.
 
-**Wildlife:** The 1,000-acre private reserve connects directly to Corcovado National Park, meaning guests effectively have 400,000+ acres of primary rainforest accessible. The lodge's naturalist guides, all from the local community, most with decades of experience, are exceptional at locating and explaining the rainforest's inhabitants. Early morning guided walks regularly produce tapir, coati, monkey troops, and the kind of bird diversity that makes serious birders stop in their tracks.
+**Wildlife:** The 1,000-acre private reserve connects directly to Corcovado National Park, meaning guests effectively have 400,000+ acres of primary rainforest accessible. The lodge's naturalist guides — all from the local community, most with decades of experience — are exceptional at locating and explaining the rainforest's inhabitants. Early morning guided walks regularly produce tapir, coati, monkey troops, and the kind of bird diversity that makes serious birders stop in their tracks.
 
-**Community:** Lapa Rios employs over 100 people from the local communities of Puerto Jiménez and surrounding villages. The Osa Wildlife Sanctuary, the Lapa Rios Foundation's community initiative, rehabilitates injured wildlife and provides environmental education to local schools.
+**Community:** Lapa Rios employs over 100 people from Puerto Jiménez and surrounding villages. The Osa Wildlife Sanctuary, the Lapa Rios Foundation's community initiative, rehabilitates injured wildlife and provides environmental education to local schools.
 
 **Price range:** From $450/person/night all-inclusive (meals, guided activities, park fees)
 **Getting there:** Fly from San José to Puerto Jiménez (45 minutes; Nature Air or Skyway); then 45-minute 4WD transfer. No standard cars can reach the lodge; transfers arranged by property.
@@ -68,7 +68,7 @@ The lodge's approach to sustainability is rigorous: 100% renewable energy, zero-
 
 
 
-Monteverde, in Costa Rica's central mountains at 1,400 metres, is one of the world's most celebrated cloud forest destinations. The area receives its moisture from both the Pacific and Caribbean sides, creating a permanently misty, lush, and biologically rich environment. The resplendent quetzal breeds in Monteverde's forests, and the cloud forest communities of hummingbirds, orchids, and amphibians are among the most diverse on Earth.
+Monteverde, in Costa Rica's central mountains at 1,400 metres, is one of the world's most celebrated cloud forest destinations. The area receives moisture from both the Pacific and Caribbean sides, creating a permanently misty, lush, and biologically rich environment. The resplendent quetzal breeds in Monteverde's forests, and the cloud forest communities of hummingbirds, orchids, and amphibians are among the most diverse on Earth.
 
 Monteverde Lodge & Gardens sits within walking distance of the Children's Eternal Rainforest (the world's largest private nature reserve) and close to both the Monteverde and Santa Elena cloud forest reserves. The property itself is surrounded by its own private garden of serious botanical diversity; the standard of naturalist guiding available through the lodge is excellent.
 
@@ -77,7 +77,7 @@ Monteverde Lodge & Gardens sits within walking distance of the Children's Eterna
 ---
 
 
-Smaller, more intimate, and operated with strong sustainability credentials, the Ecolodge at Monteverde offers the cloud forest experience in a quieter, more personal context. Night walks, guided exploration of the forest with headlamps, revealing the nocturnal community of insects, amphibians, and snakes, are arranged directly from the lodge.
+Smaller, more intimate, and operated with strong sustainability credentials, the Ecolodge at Monteverde offers the cloud forest experience in a quieter, more personal context. Night walks — guided exploration of the forest with headlamps, revealing the nocturnal community of insects, amphibians, and snakes — are arranged directly from the lodge.
 
 **Price range:** From $150/night
 
@@ -85,11 +85,11 @@ Smaller, more intimate, and operated with strong sustainability credentials, the
 
 
 
-Tortuguero National Park, on Costa Rica's Caribbean coast, is one of the most important green turtle nesting sites in the western hemisphere. Between July and October, thousands of giant sea turtles haul themselves up the beach each night to lay eggs, a spectacle of natural drama that draws wildlife travellers from around the world.
+Tortuguero National Park, on Costa Rica's Caribbean coast, is one of the most important green turtle nesting sites in the western hemisphere. Between July and October, thousands of giant sea turtles haul themselves up the beach each night to lay eggs — a spectacle of natural drama that draws wildlife travellers from around the world.
 
 Tortuga Lodge, the most established quality property in the area, occupies a position on the Tortuguero River adjacent to the national park. The lodge's grounds border the jungle; howler monkeys, green iguanas, and crocodiles are standard garden wildlife. Turtle nesting tours, boat tours through the canals, and bird watching are the primary activities.
 
-**Getting there:** Tortuguero is accessible only by boat (from Limón, 2 hours) or small aircraft; no roads reach the town or lodge. The journey by motorboat through the Caribbean jungle canals is itself worth the effort.
+**Getting there:** Tortuguero is accessible only by boat (from Limón, 2 hours) or small aircraft; no roads reach the town or lodge. The journey by motorboat through the Caribbean jungle canals is worth the effort in itself.
 
 **Price range:** From $320/person/night all-inclusive
 **Best time:** July–October for turtle nesting; year-round for wildlife and birds
@@ -98,11 +98,11 @@ Tortuga Lodge, the most established quality property in the area, occupies a pos
 
 
 
-Manuel Antonio National Park is Costa Rica's most visited protected area, but the park's compact size means wildlife experiences are compressed into a manageable area, ideal for first-time visitors who want reliable sightings of sloths, monkeys, and coatis alongside excellent beaches.
+Manuel Antonio National Park is Costa Rica's most visited protected area, but the park's compact size means wildlife experiences are concentrated into a manageable area — ideal for first-time visitors who want reliable sightings of sloths, monkeys, and coatis alongside excellent beaches.
 
 Arenas del Mar, the finest accommodation in the Manuel Antonio area, occupies a hillside above two private beaches, with the national park on its eastern boundary. The hotel's sustainability program is genuine: 100% renewable energy, wastewater recycling, a reforestation program, and a commitment to employing local naturalist guides.
 
-The on-site wildlife sightings, sloths visible daily in the hotel garden, three monkey species within easy observation, make this the most reliably wildlife-productive of Costa Rica's more accessible eco-lodges.
+The on-site wildlife sightings — sloths visible daily in the hotel garden, three monkey species within easy observation — make this the most reliably wildlife-productive of Costa Rica's more accessible eco-lodges.
 
 **Price range:** From $350/night (includes breakfast)
 
@@ -128,7 +128,7 @@ Costa Rica's weather is more regionally complex than a simple wet/dry season dis
 
 **Monteverde cloud forest:** The dry season (February–April) brings less cloud but also drier vegetation; the wet season (May–November) is more dramatic but harder to walk in. November–February is a good compromise.
 
-**For wildlife generally:** The dry season (December–April) makes wildlife viewing easier, animals visible at water sources, less dense vegetation, but the wet season's dramatic rainfall and lush vegetation creates a different, equally compelling experience.
+**For wildlife generally:** The dry season (December–April) makes wildlife viewing easier — animals visible at water sources, less dense vegetation — but the wet season's dramatic rainfall and lush vegetation creates a different, equally compelling experience.
 
 
 Costa Rica is compact but terrain makes distances deceiving. Driving times between regions are longer than maps suggest:
@@ -158,7 +158,7 @@ Costa Rica is one of Central America's safest and most stable countries, with a 
 No mandatory vaccinations, but the US CDC recommends hepatitis A, typhoid, and ensuring routine vaccinations are current. Malaria prophylaxis is recommended for the Osa Peninsula and low-altitude Caribbean coast regions. Consult a travel medicine clinic at least 4–6 weeks before departure.
 
 
-The best properties, Lapa Rios, Playa Cativo, Nayara Springs, have genuine, measurable sustainability programs and CST certification. Others use "eco" marketing without meaningful substance. The CST certificate (and its leaf rating) is the most reliable quick indicator; the ICT publishes a current list of certified properties. Community employment, renewable energy, and waste management are the three most meaningful indicators to ask about.
+The best properties — Lapa Rios, Playa Cativo, Nayara Springs — have genuine, measurable sustainability programs and CST certification. Others use "eco" marketing without meaningful substance. The CST certificate (and its leaf rating) is the most reliable quick indicator; the ICT publishes a current list of certified properties. Community employment, renewable energy, and waste management are the three most meaningful indicators to ask about.
 
 
 Jaguars are present in Corcovado National Park (Osa Peninsula) but extremely rarely seen: they are nocturnal, solitary, and avoid human contact. Pumas are more frequently encountered. For dedicated big cat viewing, the Pantanal in Brazil or the South Luangwa in Zambia offer better probabilities. Costa Rica's wildlife strengths are in birds (740+ species), amphibians, insects, monkeys, and the sea turtle nesting experience.
