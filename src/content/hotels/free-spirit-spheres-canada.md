@@ -83,22 +83,22 @@ seo:
   metaDescription: "Sleep inside handcrafted suspended wooden spheres in old-growth forest on Vancouver Island. Free Spirit Spheres is a unmissable treehouse experience unlike any other."
 ---
 
-Somewhere between a boat, a nest, and a planet, the Free Spirit Spheres exist in a category entirely their own. Suspended from the trunks of ancient Douglas firs and western red cedars by a web of rigging ropes, these three handcrafted wooden orbs, Eve, Eryn, and Melody, sway gently in the breeze of Vancouver Island's old-growth forest like something that escaped from a dream.
+Somewhere between a boat, a nest, and a planet, the Free Spirit Spheres occupy a category of their own. Suspended from the trunks of ancient Douglas firs and western red cedars by a web of rigging ropes, these three handcrafted wooden orbs — Eve, Eryn, and Melody — sway in the breeze of Vancouver Island's old-growth forest. There is nothing else quite like them.
 
-The project is the life's work of one man: Tom Chudleigh, a boat builder and artist who has spent decades developing and refining the sphere concept. His philosophy is simple: if you want to stay in a tree, you should feel it. The spheres do not sit rigidly on platforms bolted to branches. They hang, breathe, and move with the forest. On a windy night, the gentle oscillation is among the most soporific sensations imaginable.
+The project is the life's work of one man: Tom Chudleigh, a boat builder and artist who has spent decades developing and refining the sphere concept. His philosophy is simple: if you want to stay in a tree, you should feel it. The spheres do not sit rigidly on platforms bolted to branches. They hang, breathe, and move with the forest. On a windy night, the gentle oscillation is among the most soporific sensations available.
 
 **Inside the Sphere**
 
-Stepping through the hatch into Eve or Eryn is to enter a masterclass in efficient, beautiful craftsmanship. The interior is all warm wood: curved walls, fitted shelving, and hand-joined cabinetry that uses every centimetre of the circular space. A sleeping area curves around one side, a kitchenette occupies another, and a spiral staircase connects different levels within the sphere itself. Skylights overhead frame circles of forest canopy, and porthole windows look out into the mid-story of trees that have been growing for centuries.
+Stepping through the hatch into Eve or Eryn is to enter a study in efficient, beautiful craftsmanship. The interior is all warm wood: curved walls, fitted shelving, and hand-joined cabinetry that uses every centimetre of the circular space. A sleeping area curves around one side, a kitchenette occupies another, and a spiral staircase connects levels within the sphere itself. Skylights overhead frame circles of forest canopy; porthole windows look into the mid-storey of trees that have been growing for centuries.
 
-Melody, the largest sphere, sleeps two comfortably and has a slightly more spacious interior with additional seating. Each sphere has its own personality: different wood tones, different sight lines through the trees, different acoustics when rain falls on the curved roof.
+Melody, the largest sphere, sleeps two comfortably with slightly more interior space and additional seating. Each sphere carries its own personality — different wood tones, different sight lines through the trees, different acoustics when rain falls on the curved roof.
 
 **The Forest**
 
-The property sits on a private forested hillside between Qualicum Beach and Port Alberni. The old-growth trees here are not the record-breakers of Cathedral Grove (a short drive away), but they are substantial, moss-draped, and magnificent. Deer wander beneath the spheres at dusk. Bald eagles are a common sight overhead. The soundscape, wind in the high canopy, the distant Pacific, birdsong, is uninterrupted by traffic or human noise.
+The property sits on a private forested hillside between Qualicum Beach and Port Alberni. The old-growth trees here are not the record-holders of Cathedral Grove (a short drive away), but they are substantial, moss-draped, and wholly convincing. Deer wander beneath the spheres at dusk. Bald eagles pass overhead regularly. The soundscape — wind in the high canopy, the distant Pacific, birdsong — is uninterrupted by traffic or human noise.
 
 **Practicalities**
 
-Guests should arrive knowing that this is an experience-first property. The composting toilet is in a separate structure nearby. The kitchen provisions are simple. There is no restaurant, no concierge, no spa. What there is: utter peace, extraordinary design, and the physical sensation of floating in an ancient forest. Bring good food from town, a bottle of wine, and nothing else that matters.
+Arrive knowing this is an experience-first property. The composting toilet is in a separate structure nearby. Kitchen provisions are basic. There is no restaurant, no concierge, no spa. What there is: complete quiet, extraordinary design, and the physical sensation of floating inside an ancient forest. Bring good food from town, a bottle of wine, and nothing else that matters.
 
-Free Spirit Spheres books out months in advance. This is not accidental. Word of mouth alone has turned a small passion project on a wooded hillside into one of the most sought after overnight experiences in North America. Stay once, and you will understand why.
+Free Spirit Spheres books out months ahead. That is not accidental. Word of mouth alone has turned a small passion project on a wooded hillside into one of the most sought after overnight stays in North America. Stay once, and the reason becomes obvious.

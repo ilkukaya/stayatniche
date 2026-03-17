@@ -4,7 +4,7 @@ category: train-hotels
 destination: "Edinburgh to the Scottish Highlands"
 country: "Scotland"
 continent: "Europe"
-description: "The Royal Scotsman is Britain's only truly luxury sleeper train, winding at a stately pace through the Highlands and islands of Scotland in restored and handcrafted carriages of exceptional beauty. With departures from Edinburgh covering routes from the Lowlands to the Far North, it is the finest and most atmospheric way to experience one of Europe's great wilderness landscapes."
+description: "Britain's only luxury sleeper train, carrying a maximum of 36 guests through the Scottish Highlands in restored carriages of tartan, polished wood, and brass. Departing Edinburgh, the train follows the West Highland Line past Glenfinnan Viaduct to Mallaig, with optional routes to the Far North and whisky distillery excursions en route."
 coverImage: /images/hotels/belmond-royal-scotsman.jpg
 gallery:
   - /images/hotels/belmond-royal-scotsman-2.jpg
