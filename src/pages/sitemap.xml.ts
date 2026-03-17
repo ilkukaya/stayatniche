@@ -26,6 +26,7 @@ export const GET: APIRoute = async () => {
   const staticPages = [
     url('/',              today, '1.0', 'daily'),
     url('/categories/',   today, '0.9', 'weekly'),
+    url('/hotels/',       today, '0.9', 'weekly'),
     url('/blog/',         today, '0.8', 'daily'),
     url('/destinations/', today, '0.8', 'weekly'),
     url('/experiences/',  today, '0.7', 'weekly'),

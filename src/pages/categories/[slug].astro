@@ -27,9 +27,38 @@ const relatedCategories = allCategories
 const seo = category.data.seo || {};
 const metaTitle = seo.metaTitle || category.data.metaTitle || `${category.data.title} | StayAtNiche`;
 const metaDesc  = seo.metaDescription || category.data.metaDescription || category.data.description;
+
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://stayatniche.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Categories", "item": "https://stayatniche.com/categories/" },
+    { "@type": "ListItem", "position": 3, "name": category.data.title, "item": `https://stayatniche.com/categories/${category.slug}/` },
+  ],
+};
+
+const itemListJsonLd = categoryHotels.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": `${category.data.title} — StayAtNiche`,
+  "description": category.data.description,
+  "url": `https://stayatniche.com/categories/${category.slug}/`,
+  "numberOfItems": categoryHotels.length,
+  "itemListElement": categoryHotels.slice(0, 30).map((hotel, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": hotel.data.name,
+    "url": `https://stayatniche.com/hotels/${hotel.slug}/`,
+    "description": hotel.data.description,
+  })),
+} : null;
 ---
 
 <BaseLayout title={metaTitle} description={metaDesc}>
+
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+  {itemListJsonLd && <script type="application/ld+json" set:html={JSON.stringify(itemListJsonLd)} />}
 
   <!-- Hero -->
   <section class="relative bg-warm-50 overflow-hidden pt-10 pb-16">

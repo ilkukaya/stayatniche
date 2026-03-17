@@ -91,12 +91,34 @@ const plausibleDomain = analytics.plausibleDomain || '';
       "@type": "Organization",
       "name": siteName,
       "url": canonical,
-      "logo": `${canonical}/logo.svg`,
+      "logo": {
+        "@type": "ImageObject",
+        "url": `${canonical}/logo.svg`,
+        "width": 200,
+        "height": 60
+      },
       "sameAs": [
         "https://instagram.com/stayatniche",
         "https://pinterest.com/stayatniche",
         "https://twitter.com/stayatniche"
       ]
+    })} />
+
+    <!-- Structured Data: WebSite with SearchAction -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": siteName,
+      "url": canonical,
+      "description": metaDesc,
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": `${canonical}/categories/?q={search_term_string}`
+        },
+        "query-input": "required name=search_term_string"
+      }
     })} />
 
     <!-- Google Tag Manager (head) -->
@@ -144,6 +166,9 @@ const plausibleDomain = analytics.plausibleDomain || '';
     </noscript>
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#C9852A" />
     <link rel="sitemap" href="/sitemap.xml" />
 
     <style>

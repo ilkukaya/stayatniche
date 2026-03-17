@@ -1,0 +1,143 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HotelCard from '../../components/HotelCard.astro';
+import { getCollection } from 'astro:content';
+
+const allHotels = await getCollection('hotels', h =>
+  h.data.status !== 'draft' && h.data.status !== 'archived'
+);
+const allCategories = await getCollection('categories');
+
+// Sort: featured first, then by rating descending
+const sortedHotels = allHotels.sort((a, b) => {
+  if (a.data.featured && !b.data.featured) return -1;
+  if (!a.data.featured && b.data.featured) return 1;
+  return (b.data.rating || 0) - (a.data.rating || 0);
+});
+
+const totalHotels = sortedHotels.length;
+
+// Build ItemList structured data
+const hotelListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Extraordinary Hotels — StayAtNiche",
+  "description": "Hand-curated list of the world's most extraordinary hotel stays",
+  "url": "https://stayatniche.com/hotels/",
+  "numberOfItems": totalHotels,
+  "itemListElement": sortedHotels.slice(0, 50).map((hotel, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": hotel.data.name,
+    "url": `https://stayatniche.com/hotels/${hotel.slug}/`,
+    "description": hotel.data.description,
+  })),
+};
+---
+
+<BaseLayout
+  title="All Extraordinary Hotels | StayAtNiche"
+  description={`Browse ${totalHotels}+ extraordinary hotel stays worldwide — treehouses, underwater rooms, cave hotels, safari lodges, ice hotels, bubble domes, and more. Find your perfect unique stay.`}
+>
+
+  <script type="application/ld+json" set:html={JSON.stringify(hotelListJsonLd)} />
+
+  <!-- Hero -->
+  <section class="relative bg-warm-50 overflow-hidden py-16">
+    <div class="dot-pattern absolute inset-0 opacity-80 pointer-events-none" />
+    <div class="absolute -top-20 -right-20 w-80 h-80 bg-gold-100/70 rounded-full blur-3xl pointer-events-none" />
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
+        <span class="text-warm-300" aria-hidden="true">/</span>
+        <span class="text-warm-800 font-medium">Hotels</span>
+      </nav>
+      <div class="inline-flex items-center gap-2 bg-white border border-warm-200 rounded-full px-4 py-1.5 mb-6 shadow-soft">
+        <span class="text-gold-500 text-sm">✦</span>
+        <span class="font-body text-warm-600 text-sm font-medium">{totalHotels} extraordinary stays worldwide</span>
+      </div>
+      <h1 class="font-display text-5xl font-bold text-warm-950 mb-4 leading-tight">
+        The World's Most<br /><span class="text-gold-500">Extraordinary Hotels</span>
+      </h1>
+      <p class="font-body text-warm-600 text-lg max-w-2xl mx-auto leading-relaxed">
+        Hand-curated stays that redefine what a hotel can be — from underwater bedrooms to treetop suites, desert palaces to ice palaces.
+      </p>
+    </div>
+  </section>
+
+  <!-- Category filter pills -->
+  <section class="border-b border-warm-200 bg-white sticky top-16 z-20 shadow-soft">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 overflow-x-auto scrollbar-hide">
+      <div class="flex items-center gap-2 min-w-max">
+        <span class="font-body text-warm-500 text-xs font-semibold uppercase tracking-wider mr-1 flex-shrink-0">Filter by:</span>
+        <a
+          href="/hotels"
+          class="inline-flex items-center gap-1.5 bg-warm-900 text-white font-body text-xs font-semibold px-3.5 py-1.5 rounded-full flex-shrink-0"
+        >
+          All Hotels
+        </a>
+        {allCategories.sort((a, b) => a.data.order - b.data.order).map(cat => (
+          <a
+            href={`/categories/${cat.slug}`}
+            class="inline-flex items-center gap-1.5 bg-white border border-warm-200 hover:border-warm-400 hover:bg-warm-50 text-warm-700 font-body text-xs font-medium px-3.5 py-1.5 rounded-full transition-all flex-shrink-0"
+          >
+            <span>{cat.data.icon}</span>
+            <span>{cat.data.title}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Hotels grid -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
+    <div class="flex items-center justify-between mb-8">
+      <h2 class="font-display text-2xl font-bold text-warm-950">
+        All <span class="text-gold-500">Extraordinary</span> Stays
+      </h2>
+      <span class="font-body text-warm-500 text-sm">{totalHotels} properties</span>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+      {sortedHotels.map(hotel => (
+        <HotelCard
+          name={hotel.data.name}
+          destination={hotel.data.destination}
+          country={hotel.data.country}
+          description={hotel.data.description}
+          priceRange={hotel.data.priceRange}
+          priceIndicator={hotel.data.priceIndicator}
+          rating={hotel.data.rating}
+          reviewCount={hotel.data.reviewCount}
+          highlights={hotel.data.highlights}
+          bookingUrl={hotel.data.bookingUrl}
+          slug={hotel.slug}
+          category={hotel.data.category}
+          featured={hotel.data.featured}
+          coverImage={hotel.data.coverImage}
+        />
+      ))}
+    </div>
+  </section>
+
+  <!-- Browse by category CTA -->
+  <section class="bg-warm-100 border-t border-warm-200">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+      <h2 class="font-display text-3xl font-bold text-warm-950 mb-4">
+        Browse by Category
+      </h2>
+      <p class="font-body text-warm-600 mb-8">
+        Looking for a specific type of stay? Explore our 14 curated hotel categories.
+      </p>
+      <a
+        href="/categories"
+        class="inline-flex items-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-8 py-4 rounded-full transition-all hover:shadow-lg"
+      >
+        Explore All Categories
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </a>
+    </div>
+  </section>
+
+</BaseLayout>

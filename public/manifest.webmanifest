@@ -1,0 +1,27 @@
+{
+  "name": "StayAtNiche",
+  "short_name": "StayAtNiche",
+  "description": "Discover the world's most extraordinary hotel stays — treehouses, underwater rooms, safari lodges, ice hotels, and more.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FAF8F5",
+  "theme_color": "#C9852A",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1280&h=720&q=80&auto=format&fit=crop",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "label": "StayAtNiche Homepage"
+    }
+  ]
+}

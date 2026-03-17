@@ -1,0 +1,112 @@
+# StayAtNiche
+
+> StayAtNiche is a curated travel discovery platform for extraordinary and unique hotel stays worldwide — treehouse hotels, underwater rooms, cave hotels, safari lodges, ice hotels, overwater bungalows, cliffside retreats, desert camps, jungle lodges, bubble hotels, castle hotels, floating hotels, and lighthouse hotels.
+
+StayAtNiche helps travellers discover and book the world's most extraordinary stays. Every property is hand-selected and editorially reviewed for uniqueness, quality, and experience. The site covers 200+ hotels across 14 categories and 140+ destinations globally.
+
+## About
+
+StayAtNiche was created for travellers who want more than a standard hotel stay — those seeking experiences that define the trip itself. The editorial team researches, reviews, and curates unusual and memorable accommodation worldwide.
+
+**Mission**: Surface the world's most extraordinary places to sleep, stay, and experience.
+
+**Audience**: Experience-driven travellers, honeymooners, adventure seekers, luxury travellers, and anyone who believes where you sleep should be as remarkable as where you go.
+
+## Categories
+
+StayAtNiche covers 14 distinct hotel categories:
+
+- **Treehouse Hotels** — luxury stays suspended in forest canopies (e.g. Treehotel Sweden, Pikaia Lodge Ecuador)
+- **Cave Hotels** — rooms carved into rock or built within natural cave systems (e.g. Cappadocia Cave Suites Turkey)
+- **Underwater Rooms** — sleeping quarters below the waterline with ocean or freshwater views (e.g. Conrad Maldives Muraka, Utter Inn Sweden)
+- **Overwater Bungalows** — stilted rooms above lagoons, reefs, and open sea (e.g. Bora Bora Nui Resort, Anantara Maldives)
+- **Safari Lodges** — luxury camps within or adjacent to game reserves (e.g. andBeyond Phinda, andBeyond Ngorongoro)
+- **Ice Hotels** — seasonal structures built from ice and snow (e.g. ICEHOTEL Jukkasjärvi, SnowCastle Kemi)
+- **Cliffside Hotels** — properties perched on dramatic vertical cliff faces (e.g. Skylodge Peru, Aerie Resort Washington)
+- **Desert Camps** — luxury tented camps in Sahara, Wadi Rum, Atacama, and other deserts
+- **Jungle Lodges** — rainforest and tropical forest lodges with wildlife immersion
+- **Bubble Hotels** — transparent dome or pod stays under open skies (e.g. Attrap Rêves France, The Bubble Hotel Belgium)
+- **Castle Hotels** — historic castles and fortresses converted to luxury accommodation (e.g. Ashford Castle Ireland)
+- **Floating Hotels** — houseboats, pontoon rooms, and water-based accommodation
+- **Lighthouse Hotels** — converted working lighthouses along coastlines (e.g. Cape Leeuwin Lighthouse Australia)
+- **Train Hotels** — luxury rail journeys with sleeping accommodation
+
+## Top Hotels by Category
+
+### Treehouse Hotels
+- Treehotel, Harads, Sweden — seven architect-designed treehouses in Swedish Lapland
+- Bubbletent Australia — transparent bubble domes in New South Wales
+
+### Underwater Rooms
+- Conrad Maldives Rangali Island (The Muraka) — two-level villa with underwater bedroom
+- Anantara Kihavah Maldives — underwater restaurant and over-reef suite
+
+### Overwater Bungalows
+- Bora Bora Nui Resort, French Polynesia — original overwater bungalow destination
+- Anantara Maldives — overwater bungalows with glass floor panels
+
+### Safari Lodges
+- andBeyond Phinda Private Game Reserve, South Africa
+- andBeyond Ngorongoro Crater Lodge, Tanzania
+
+### Ice Hotels
+- ICEHOTEL, Jukkasjärvi, Sweden — the original and world's largest ice hotel
+- SnowCastle, Kemi, Finland — annual snow castle on the Gulf of Bothnia
+
+### Cliffside Hotels
+- Skylodge Adventure Suites, Sacred Valley, Peru — transparent pods bolted to sheer granite face
+- Aerie Resort, Lake Chelan, Washington — cantilevered cliffside resort
+
+### Bubble Hotels
+- Attrap Rêves, Provence, France — bubble domes in lavender country
+- The Bubble Hotel, Belgium — transparent bubbles in the Ardennes forest
+
+### Castle Hotels
+- Ashford Castle, County Mayo, Ireland — 13th-century castle on Lough Corrib
+
+### Lighthouse Hotels
+- Cape Leeuwin Lighthouse, Augusta, Western Australia — restored lighthouse keeper's cottage
+
+### Desert Camps
+- Sahara desert camps near Merzouga, Morocco
+- Wadi Rum desert camps, Jordan
+- Atacama Desert camps, Chile
+
+## Top Destinations
+
+StayAtNiche covers extraordinary stays across 140+ destinations including:
+
+**Africa**: Tanzania (Ngorongoro, Serengeti, Zanzibar), Kenya, South Africa (Cape Town, Kruger, Phinda), Uganda, Namibia, Madagascar, Mozambique, Seychelles, Morocco
+**Asia**: Maldives, Thailand (Northern Thailand), Vietnam (Ha Long Bay), Sri Lanka, Nepal, Myanmar (Inle Lake), UAE (Dubai)
+**Europe**: Iceland, Sweden (Swedish Lapland), Finland, Norway, Turkey (Cappadocia), Italy (Matera, Tuscany, Amalfi), France, Ireland, Scotland
+**Americas**: Peru (Sacred Valley), Patagonia (Chile/Argentina), Costa Rica, New Zealand, USA (Vermont, Montana, Texas Hill Country, Michigan, Minnesota, Maine, Massachusetts Cape Cod, South Dakota Badlands, Nevada Great Basin, Utah, Smoky Mountains, South Carolina Lowcountry)
+**Pacific**: Maldives, French Polynesia (Bora Bora), Seychelles, Australia
+
+## Content
+
+StayAtNiche publishes:
+
+- **Hotel Reviews**: In-depth editorial profiles of 200+ extraordinary hotels with ratings, price ranges, highlights, amenities, location details, and booking links
+- **Destination Guides**: 140+ destination travel guides with must-see attractions, travel tips, best time to visit, currency, visa information, and local hotel recommendations
+- **Category Guides**: Comprehensive guides to each hotel category (what makes them special, how to choose, seasonal considerations, costs, booking tips)
+- **Blog Articles**: Expert travel guides including safari planning, honeymoon stays, overwater bungalows beyond the Maldives, eco-lodges, cave hotels, floating hotels, and more
+
+## Useful Pages
+
+- Full hotel directory: https://stayatniche.com/hotels/
+- All categories: https://stayatniche.com/categories/
+- All destinations: https://stayatniche.com/destinations/
+- Travel blog: https://stayatniche.com/blog/
+- Experiences: https://stayatniche.com/experiences/
+- About StayAtNiche: https://stayatniche.com/about/
+- XML Sitemap: https://stayatniche.com/sitemap.xml
+
+## Optional
+
+- [Treehouse Hotels Guide](https://stayatniche.com/categories/treehouse-hotels): Everything to know about luxury treehouse stays worldwide
+- [Overwater Bungalows Guide](https://stayatniche.com/categories/overwater-bungalows): Complete guide to overwater bungalow destinations beyond the Maldives
+- [Safari Lodges Africa Guide](https://stayatniche.com/blog/safari-lodges-africa-complete-guide): First-timer's guide to African safari lodge stays
+- [Ice Hotels Guide](https://stayatniche.com/categories/ice-hotels): Sleeping in ice — ICEHOTEL Sweden, SnowCastle Finland, and more
+- [Desert Camps Guide](https://stayatniche.com/categories/desert-camps): Luxury desert camping in Sahara, Wadi Rum, Atacama
+- [Honeymoon Hotels Guide](https://stayatniche.com/blog/honeymoon-unique-hotels-guide): Extraordinary hotels for honeymoons and romantic travel
+- [Cliffside Hotels Guide](https://stayatniche.com/categories/cliffside-hotels): Hotels on cliffs — from Santorini caldera rims to Peruvian mountain pods
