@@ -3,7 +3,7 @@ name: "Aerie Resort"
 category: cliffside-hotels
 destination: "Chelan County, Washington"
 country: "United States"
-description: "Dramatic cliffside resort clinging to the basalt canyon walls above Lake Chelan in Washington State, with rooms cantilevered over the water and glass walls framing one of the Pacific Northwest's most spectacular lake and mountain landscapes. An architectural feat in an unforgettable natural setting."
+description: "Rooms cantilevered over the basalt canyon walls of Lake Chelan — the third deepest lake in North America — with floor-to-ceiling glass framing 50 miles of glacially carved trough between snowfield peaks. Days extend naturally to the Lake Chelan AVA wineries or the ferry to roadless Stehekin at the lake's far end."
 coverImage: /images/hotels/aerie-resort-washington.jpg
 gallery:
   - /images/hotels/aerie-resort-washington-2.jpg

@@ -3,7 +3,7 @@ name: Museum Hotel
 category: cave-hotels
 destination: Uçhisar, Cappadocia
 country: Turkey
-description: Carved into the volcanic tufa of Cappadocia's ancient Uçhisar Castle rock, Museum Hotel is widely regarded as the region's finest property. Each of its 30 antique-furnished cave suites is unique, featuring private terraces with panoramic valley views and collections of Anatolian artifacts.
+description: Positioned at the top of the Uçhisar rock formation — the highest point in Cappadocia — Museum Hotel fills 30 cave suites with a founder's private collection of Anatolian carpets, ceramics, textiles, and woodwork accumulated over decades, no two rooms alike. At dawn, balloon flights rise directly below terrace level, and Lil'a Restaurant serves elevated Anatolian cooking in a candlelit cave dining room that earns its own journey.
 coverImage: /images/hotels/museum-hotel-cappadocia.jpg
 gallery:
   - /images/hotels/museum-hotel-cappadocia-2.jpg

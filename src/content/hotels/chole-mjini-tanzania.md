@@ -4,7 +4,7 @@ category: "treehouse-hotels"
 destination: "Chole Island"
 country: "Tanzania"
 continent: "Africa"
-description: "An extraordinary eco-treehouse lodge built within the ancient ruined walls of a 19th-century Arab trading post on Chole Island, in the waters of the Mafia Island Marine Park."
+description: "An eco-treehouse lodge built within the ancient ruined walls of a 19th-century Arab trading post on Chole Island, in the waters of the Mafia Island Marine Park."
 coverImage: "/images/hotels/chole-mjini-tanzania.jpg"
 gallery:
   - "/images/hotels/chole-mjini-tanzania-1.jpg"
@@ -84,9 +84,9 @@ seo:
   metaDescription: "Sleep in treehouses built within 19th-century Arab trading post ruins on Chole Island, Tanzania. Community-owned eco-lodge with exceptional diving in Mafia Island Marine Park."
 ---
 
-Chole Island holds its secrets quietly. From the water, it appears as a dense tangle of baobab trees and mangroves rising from the Indian Ocean, one of dozens of small islands scattered within the Mafia Island Marine Park. But step ashore and walk into the forest, and the ruins find you: great coral stone walls, collapsed archways, and roofless rooms smothered in fig trees and dense vegetation. These are the remains of a 19th-century Arab trading post, once one of the most prosperous settlements on Tanzania's Swahili Coast, now slowly being reclaimed by the island's extraordinary vegetation.
+Chole Island holds its secrets quietly. From the water, it appears as a dense tangle of baobab trees and mangroves rising from the Indian Ocean, one of dozens of small islands scattered within the Mafia Island Marine Park. But step ashore and walk into the forest, and the ruins find you: great coral stone walls, collapsed archways, and roofless rooms smothered in fig trees and dense vegetation. These are the remains of a 19th-century Arab trading post, once one of the most prosperous settlements on Tanzania's Swahili Coast, now slowly being reclaimed by the island's vegetation.
 
-Chole Mjini Lodge has grown within and around these ruins for over twenty years. The seven treehouse rooms, open-sided platforms of timber and thatch, perched on stilts above the forest floor, use the old walls as their backdrop. Some rooms incorporate the coral stone directly into their structure. At night, lit only by oil lanterns hung from baobab branches, the effect is somewhere between archaeological site and fever dream.
+Chole Mjini Lodge has grown within and around these ruins for over twenty years. The seven treehouse rooms, open-sided platforms of timber and thatch perched on stilts above the forest floor, use the old walls as their backdrop. Some rooms incorporate the coral stone directly into their structure. At night, lit only by oil lanterns hung from baobab branches, the effect is somewhere between archaeological site and fever dream.
 
 **The Rooms**
 
