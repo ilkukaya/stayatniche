@@ -35,19 +35,19 @@ seo:
   metaDescription: "Papua New Guinea travel guide, remote tribal cultures, pristine Milne Bay diving, Sepik River, highlands sing-sing festivals, and frontier lodge stays."
 ---
 
-Papua New Guinea does not ease you in. From the moment you land at Port Moresby's Jacksons Airport, the country presents itself on its own terms: complicated, intense, extraordinarily rich in natural and cultural complexity, and entirely unlike anywhere else on earth. It is a destination that rewards the prepared, the curious, and the adaptable with experiences genuinely unavailable anywhere else.
+Papua New Guinea does not ease you in. From the moment you land at Port Moresby's Jacksons Airport, the country presents itself on its own terms: complicated, intense, extraordinarily rich in natural and cultural complexity, and entirely unlike anywhere else on earth. It rewards the prepared, the curious, and the adaptable with experiences genuinely unavailable anywhere else.
 
 
-PNG is home to more distinct languages than any other country on earth, over 800, spoken by communities that in some cases remain virtually isolated from each other by the rugged terrain of the Highlands. The cultural festivals at Goroka and Mt Hagen, the Goroka Show in September and the Mt Hagen Cultural Show in August, bring hundreds of these groups together in spectacular sing-sing gatherings where tribal dress, body paint, and ceremonial performance reach a visual and sonic intensity that is overwhelming in the best sense.
+PNG is home to more distinct languages than any other country on earth — over 800 — spoken by communities that in some cases remain virtually isolated from each other by the rugged Highlands terrain. The cultural festivals at Goroka and Mt Hagen bring hundreds of these groups together in spectacular sing-sing gatherings where tribal dress, body paint, and ceremonial performance reach a visual and sonic intensity that is overwhelming in the best sense.
 
-This is living culture, not performance. The men and women who spend weeks preparing their bird-of-paradise headdresses and ochre body paint are honoring practices that predate Western contact by millennia. The access foreign visitors have to these events, often able to walk freely among participants, photograph respectfully, and speak through interpreters, is extraordinary.
-
-
-The waters around PNG are consistently rated among the most biodiverse on earth. Milne Bay Province, at the eastern tip of the main island, sits within the Coral Triangle and hosts over 600 coral species and 1,200 fish species in a single bay system. The muck diving here, searching for camouflaged and bizarre small creatures in sandy and rubble substrates, produced the first documented pygmy seahorse discovery and continues to yield undescribed species.
-
-Tufi, a remote station on the northeastern coast, offers some of PNG's most accessible extraordinary diving, fjord-carved coastline dropping to wall dives with zero visibility issues, served by a small number of dedicated dive lodges that function in genuine isolation. Reaching them typically requires a Twin Otter flight to a grass airstrip.
+This is living culture, not performance. The men and women who spend weeks preparing their bird-of-paradise headdresses and ochre body paint are honoring practices that predate Western contact by millennia. The access foreign visitors have to these events — often able to walk freely among participants, photograph respectfully, and speak through interpreters — is genuinely unusual.
 
 
-PNG's lodge accommodation operates within the [jungle lodges](/categories/jungle-lodges) tradition of genuine remoteness with serious attention to natural environment. The best properties in the Highlands sit within walking distance of genuine primary rainforest and offer guided birding for the extraordinary bird-of-paradise species that are PNG's most internationally famous wildlife draw, 38 of the world's 42 species are found here.
+The waters around PNG are consistently rated among the most biodiverse on earth. Milne Bay Province, at the eastern tip of the main island, sits within the Coral Triangle and hosts over 600 coral species and 1,200 fish species in a single bay system. The muck diving here — searching for camouflaged and bizarre small creatures in sandy and rubble substrates — produced the first documented pygmy seahorse discovery and continues to yield undescribed species.
 
-The Sepik River lodges offer a different kind of immersion, several days traveling between villages on motorized dugout canoes, sleeping in basic but atmospheric guesthouses, and engaging with the animist wood-carving traditions of the Sepik peoples, whose masks, figures, and story boards are among the finest indigenous art forms in the Pacific.
+Tufi, a remote station on the northeastern coast, offers some of PNG's most accessible exceptional diving: fjord-carved coastline dropping to wall dives with zero visibility issues, served by a small number of dedicated dive lodges operating in genuine isolation. Reaching them typically requires a Twin Otter flight to a grass airstrip.
+
+
+PNG's lodge accommodation operates within the [jungle lodges](/categories/jungle-lodges) tradition of genuine remoteness combined with serious attention to natural environment. The best properties in the Highlands sit within walking distance of primary rainforest and offer guided birding for the extraordinary bird-of-paradise species that are PNG's most internationally famous wildlife draw — 38 of the world's 42 species are found here.
+
+The Sepik River lodges offer a different kind of immersion: several days traveling between villages on motorized dugout canoes, sleeping in basic but atmospheric guesthouses, and engaging with the animist wood-carving traditions of the Sepik peoples, whose masks, figures, and story boards are among the finest indigenous art forms in the Pacific.

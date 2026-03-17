@@ -3,7 +3,7 @@ name: "Sorrisniva Igloo Hotel"
 category: ice-hotels
 destination: "Alta, Finnmark"
 country: "Norway"
-description: "Norway's original ice hotel, rebuilt every winter on the banks of the Alta River in Finnmark, the world's northernmost ice hotel and one of Europe's premier destinations for northern lights viewing. Hand-carved ice suites, a reindeer-skin-draped ice bar, and an aurora zone location 70 degrees north."
+description: "Norway's original ice hotel, rebuilt every winter on the banks of the Alta River in Finnmark, the world's northernmost ice hotel and one of Europe's most reliable destinations for northern lights viewing. Hand-carved ice suites, a reindeer-skin-draped ice bar, and an aurora zone location 70 degrees north."
 coverImage: /images/hotels/sorrisniva-igloo-hotel-norway.jpg
 gallery:
   - /images/hotels/sorrisniva-igloo-hotel-norway-2.jpg
@@ -42,4 +42,4 @@ The igloo hotel is rebuilt from scratch each November and December, using ice ha
 
 Sleeping in the ice suites is the experience that brings most guests to Sorrisniva. The beds are platforms of ice covered with reindeer hides, and guests sleep in high-specification thermal sleeping bags that maintain warmth to -30°C. The temperature inside the suites holds at around -4 to -6°C: cold enough to be genuinely atmospheric, comfortable enough to sleep. Most guests describe the experience as one of the most memorable nights of their lives: the silence of ice, the faint blue light filtering through the walls, and the knowledge of the Alta River frozen solid just outside.
 
-The surrounding Alta landscape is rich with additional extraordinary experiences. The Alta Museum, ten minutes from the hotel, houses the world's largest preserved collection of Stone Age rock art, a UNESCO World Heritage site of extraordinary quality, depicting hunting scenes and shamanic ceremonies carved into the polished schist 2,500 to 6,000 years ago. Dog sledding along the Alta River, snowmobile expeditions into the Finnmark plateau, and Sámi reindeer herding experiences are all operated directly by the hotel. Alta Airport is served by direct flights from Oslo, making access straightforward despite the latitude.
+The surrounding Alta landscape offers substantial additional experiences. The Alta Museum, ten minutes from the hotel, houses the world's largest preserved collection of Stone Age rock art, a UNESCO World Heritage site depicting hunting scenes and shamanic ceremonies carved into the polished schist 2,500 to 6,000 years ago. Dog sledding along the Alta River, snowmobile expeditions into the Finnmark plateau, and Sámi reindeer herding experiences are all operated directly by the hotel. Alta Airport is served by direct flights from Oslo, making access straightforward despite the latitude.
