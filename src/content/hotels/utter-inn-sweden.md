@@ -4,7 +4,7 @@ category: "underwater-rooms"
 destination: "Västerås"
 country: "Sweden"
 continent: "Europe"
-description: "The world's first underwater hotel room, a tiny red cottage floating on Lake Mälaren with a ladder leading to a submerged bedroom 3 meters below the surface, where freshwater fish swim past the windows."
+description: "Created by artist Mikael Genberg in 2000, Utter Inn is a red Swedish cottage floating on Lake Mälaren with a bedroom 3 metres below the surface — the original underwater hotel room, where pike and perch replace tropical reef fish at the glass."
 coverImage: "/images/hotels/utter-inn-sweden.jpg"
 gallery:
   - "/images/hotels/utter-inn-sweden-1.jpg"

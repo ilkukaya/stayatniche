@@ -85,22 +85,22 @@ seo:
   metaDescription: "Glass floors, private hot tubs, and champagne breakfasts in the treetops of medieval Dordogne Valley. La Cabane Perchée is Europe's most romantic treehouse hotel."
 ---
 
-The Dordogne already knows how to make an impression. Limestone cliffs rising from the river, medieval châteaux perched above fortified villages, markets overflowing with foie gras, walnut oil, and truffles. But La Cabane Perchée has managed to add a layer that the Dordogne Valley did not know it needed: a collection of elevated wooden cabins, each different, each extraordinary, that allow guests to experience this ancient landscape from eight meters in the air.
+The Dordogne already knows how to make an impression. Limestone cliffs rising from the river, medieval châteaux above fortified villages, markets stacked with foie gras, walnut oil, and truffles. La Cabane Perchée adds something the valley did not know it needed: a collection of elevated wooden cabins, each distinct, that let guests experience this ancient landscape from eight metres in the air.
 
-The property has won multiple awards for design innovation, and standing inside one of the glass-floor treehouses, it is easy to understand why. The transparent section of flooring sits directly above the woodland below, and looking down through it, at ferns, moss, and the root systems of oak trees, while lying in bed is a genuinely disorienting and wonderful experience. It is one of those design interventions that seems simple in retrospect but required considerable courage to execute.
+Standing inside one of the glass-floor treehouses, the design logic becomes immediately apparent. A transparent panel of flooring sits directly above the woodland below, and looking down through it at ferns, moss, and the root systems of oak trees while lying in bed is a genuinely disorienting experience. It is one of those design decisions that appears simple in hindsight but required real conviction to execute.
 
 **The Treehouses**
 
-La Cabane Perchée operates multiple treehouse sites across the Dordogne, and each cabin has its own character. Some are almost aggressively romantic, hot tubs on cantilevered decks, hammocks strung between ancient oaks, and beds positioned to face the canopy through panoramic windows. Others lean into craft and artisanship, hand-turned details, reclaimed timber, and the kind of joinery that reveals a genuine love of the material.
+La Cabane Perchée operates multiple treehouse sites across the Dordogne, and each cabin has its own character. Some lean into romance directly: hot tubs on cantilevered decks, hammocks strung between ancient oaks, beds positioned to face the canopy through wide windows. Others emphasise craft and material: hand-turned timber details, reclaimed wood, and joinery that signals a genuine investment in the work.
 
-The wood-burning stoves are a highlight in themselves. On a cool spring evening, with rain falling on the canopy above and a fire burning inside, the treehouse becomes one of the most cocooning environments imaginable. The champagne waiting on arrival helps.
+The wood-burning stoves are worth noting separately. On a cool spring evening with rain falling on the canopy above and a fire going inside, the treehouse becomes one of the more cocooning places to spend a night. The champagne on arrival helps set the tone.
 
 **Breakfast in the Treetops**
 
-Each morning, a basket is delivered to your treehouse, fresh croissants from the boulangerie in the village, local jam, yogurt, fruit, and strong coffee. It arrives before you need to do anything other than open the door. Eating it on your private terrace, watching the Dordogne valley wake up below, is one of those simple pleasures that travel at its best delivers.
+Each morning a basket arrives at your door: fresh croissants from the village boulangerie, local jam, yogurt, fruit, and strong coffee. You open the door, take the basket inside, and eat on your private terrace while the Dordogne valley wakes up below. It is one of those straightforward pleasures that travel at its best manages to deliver.
 
 **The Dordogne Setting**
 
-The Dordogne Valley is extraordinary raw material for a hotel. Within an hour's drive of most La Cabane Perchée locations: the magnificent clifftop village of Beynac, the perfectly preserved medieval town of Sarlat (its Saturday market is unmissable), and the Vézère Valley's prehistoric caves: including the replica of Lascaux, which contains some of the most significant paleolithic art in the world. The food culture here is among the richest in France. Foie gras is produced locally, Périgord truffles turn up in everything from eggs to pasta, and the walnut orchards that line the valley produce oils and wines of remarkable quality.
+The Dordogne Valley offers exceptional raw material for a base. Within an hour of most La Cabane Perchée locations: the clifftop village of Beynac, the intact medieval town of Sarlat with its unmissable Saturday market, and the Vézère Valley's prehistoric caves, including the Lascaux replica, which holds some of the most significant Palaeolithic art in existence. The food culture is among the richest in France. Foie gras is produced locally, Périgord truffles appear in everything from omelettes to pasta, and the walnut orchards lining the valley produce oils and wines of serious quality.
 
-For couples planning a romantic trip to France who have already done Paris, the Dordogne offers everything the capital promises, beauty, food, history, wine, without the noise. La Cabane Perchée adds the one thing the valley was missing: the chance to sleep above it all.
+For couples who have already done Paris and want the full complement of beauty, food, history, and wine without the noise, the Dordogne is a strong answer. La Cabane Perchée provides the one element the valley was still missing: a place to sleep above it all.

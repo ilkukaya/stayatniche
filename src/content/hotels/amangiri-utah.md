@@ -4,7 +4,7 @@ category: cliffside-hotels
 destination: Canyon Point, Utah
 country: USA
 continent: North America
-description: Aman's masterpiece of desert architecture, a minimalist luxury resort built around a central geological feature, with rooms that frame the Grand Staircase-Escalante canyon landscapes. Amangiri is widely considered the finest desert resort in North America and one of the greatest hotels on Earth.
+description: Built around an ancient Navajo sandstone mesa in the canyon country of southern Utah, Amangiri's poured concrete suites have private plunge pools calibrated to catch the electric blues and crimsons of the desert sky. The main pool is pressed against the mesa face; the spa treatment rooms hover over the rock itself.
 coverImage: /images/hotels/amangiri-utah.jpg
 priceRange: "$2,000 - $5,000"
 priceIndicator: 5

@@ -86,24 +86,22 @@ seo:
   metaDescription: "A working portcullis, original battlements, and tower bedrooms in England's most romantically preserved medieval castle. Amberley Castle in the South Downs is an hour from London."
 ---
 
-The portcullis at Amberley Castle closes behind you with a sound (iron on stone, ancient and heavy) that makes the situation clear. You are inside the castle now. The world outside is on the other side of 60 feet of medieval curtain wall. This is not a figure of speech.
+The portcullis at Amberley Castle comes down behind you with a sound — iron on stone, deliberate and heavy — that settles any question about where you are. You are inside a 12th-century castle. The world outside is on the other side of 60 feet of medieval curtain wall. This is not a metaphor.
 
-Built in the 12th century as a country retreat for the Bishops of Chichester, Amberley has survived 900 years with its structure substantially intact. The curtain walls still stand at full original height. The gatehouse remains a building of genuine consequence. The walled grounds, with their ancient yew trees, croquet lawn, and manicured lawns, have the enclosed, timeless quality that only genuinely old gardens achieve. With just 19 rooms, the guest count matches the scale of the place.
+Built as a fortified country retreat for the Bishops of Chichester, Amberley has been occupied since around 1100 and has survived almost intact. The curtain walls stand at their original height. The gatehouse still controls the only entrance. The walled grounds, enclosed within the ancient perimeter, have the compressed, suspended quality that only genuinely medieval gardens achieve: yew trees that predate any guest currently alive, a croquet lawn within a structure built for defence, and in the evenings, a silence that the South Downs countryside outside reinforces.
 
 **The Rooms**
 
-The 19 rooms and suites at Amberley Castle are each individually designed, drawing on the physical character of their specific part of the structure. Tower rooms have the compressed verticality of medieval defence: thick walls, small windows set deep in the stone, and an ancient hush that modern buildings cannot approximate. The Queen's Room in the original gatehouse is the standout: a grand space with enough height for a proper four-poster, views over the drawbridge approach, and the particular knowledge that every medieval guest of significance who arrived at this castle passed through the room directly below.
+Each of the 19 rooms and suites has been designed around the physical character of its particular part of the castle, which means no two are alike. Tower rooms carry the compressed verticality of medieval construction: walls a metre thick, windows set deep in the stone that admit limited light, and an acoustic stillness that modern building techniques cannot manufacture. The Queen's Room in the original gatehouse is the one to book if it is available — a chamber with enough height for a genuine four-poster, views directly over the drawbridge approach, and the knowledge that every person of consequence who entered this castle over nine centuries passed through the floor directly beneath it.
 
-Bedding throughout is luxurious, and the bathrooms, necessarily fitted into spaces not originally designed for plumbing, are thoughtfully appointed. The combination of genuine antiquity and modern comfort is well managed.
+Bathrooms are fitted thoughtfully into spaces not designed for plumbing, and the quality of bedding and linens is high. The combination holds: old stone and modern comfort coexist without the usual awkwardness.
 
 **Dining**
 
-The restaurant is serious about English food. A menu built on Sussex and surrounding-county produce, locally reared beef and lamb, South Coast fish landed at Shoreham, seasonal vegetables from nearby farms, is executed with a precision that has consistently earned AA Rosette recognition. The dining room itself, with its barrel-vaulted ceiling and stone walls softened by candlelight, is among the better rooms in which to eat in the south of England.
+The restaurant has earned consistent AA Rosette recognition for cooking that takes its county seriously. Locally reared beef and lamb, South Coast fish landed at Shoreham, and seasonal vegetables from West Sussex farms anchor a menu that changes regularly and does not overreach. The dining room itself — barrel-vaulted ceiling, stone walls, candlelight — is one of the better rooms in which to eat in the south of England.
 
-The bar, where pre-dinner drinks are served in leather chairs beside an open fire in winter, is where the castle's atmosphere is perhaps most naturally captured. It requires nothing from guests other than the willingness to sit and be somewhere genuinely old.
+The bar, where leather chairs face an open fire through winter, captures the castle's atmosphere without effort. There is nothing required of guests except the willingness to sit still and be somewhere that has been continuously occupied since the reign of Henry I.
 
 **From London**
 
-Amberley is 90 minutes from London by a combination of train and taxi: a negligible journey for what is, in effect, a complete withdrawal from the city. The South Downs surrounding the castle offer excellent walking, and the market town of Arundel, eight kilometres east, has a fine castle of its own along with good independent shops and restaurants.
-
-For couples marking an occasion, Amberley Castle is among the most reliably right answers in England, memorable without requiring any effort from the guests, which is a skill in itself.
+Amberley station is 90 minutes from London Victoria. From there, a short taxi ride reaches the castle. The South Downs directly outside the walls offer good walking country, and Arundel — eight kilometres east — has its own castle, a cathedral, a good independent bookshop, and several reliable restaurants for an afternoon out. The proximity to London is the quiet advantage Amberley holds over the grander castle hotels further north: an occasion destination that requires no commitment to a long journey.

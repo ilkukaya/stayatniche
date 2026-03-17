@@ -4,7 +4,7 @@ category: "underwater-rooms"
 destination: "Pemba Island"
 country: "Tanzania"
 continent: "Africa"
-description: "A free-floating underwater bedroom anchored off the coast of remote Pemba Island in the Indian Ocean, sleep fully submerged beneath the waves, watching reef fish and octopus drift past your windows through the night."
+description: "A free-floating platform anchored off Pemba Island — one of the least-visited islands in the Western Indian Ocean — with a bedroom 4 metres underwater, where the nocturnal reef life at the windows is the reason most guests report being unable to sleep."
 coverImage: "/images/hotels/manta-resort-zanzibar.jpg"
 gallery:
   - "/images/hotels/manta-resort-zanzibar-1.jpg"
@@ -85,24 +85,24 @@ seo:
   metaDescription: "The world's most extraordinary sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
 ---
 
-At 4 metres below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past your windows in the darkness, the standard categories of hotel experience stop being useful. The Manta Resort's Underwater Room is something separate: a submerged bedroom off one of the most remote islands in the Western Indian Ocean, where the fish are more curious about you than you are about them.
+Four metres below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past the windows in the dark, conventional hotel categories stop being useful. The Manta Resort's Underwater Room is something separate: a submerged bedroom off one of the least-visited islands in the Western Indian Ocean, where the fish are considerably more curious about you than you are about them.
 
-The structure itself is a floating platform anchored in open water off the coast of Pemba Island, one of the most remote inhabited islands in the Western Indian Ocean, 80 kilometres north of Zanzibar and visited by a tiny fraction of the tourists who pass through Tanzania each year. The platform has three levels: a rooftop deck open to the stars and the vast open ocean; a sea level lounge with a wrap-around deck for swimming and sunset cocktails; and the bedroom, which sits 4 meters underwater, accessible via a hatch and ladder from the sea level lounge.
+The floating platform is anchored in open water off Pemba Island — 80 kilometres north of Zanzibar, visited by a fraction of the tourists who pass through Tanzania each year. The platform has three levels: a rooftop deck fully exposed to the stars and the open ocean; a sea-level lounge with a wrap-around deck for swimming and sunset cocktails; and the bedroom, which descends 4 metres underwater through a hatch and ladder from the lounge above.
 
 **The Underwater Bedroom**
 
-The room itself is a circular chamber with floor-to-ceiling windows on every side. The walls of glass are not there to give you a view of the ocean in the way a hotel window gives you a view of a city, they place you inside the ocean. The reef begins just beyond the glass. In daylight, the Indian Ocean's signature aquamarine light filters down through the water column. At night, the resort's underwater lights attract a rotating cast of marine life to the windows, reef fish gathering in silver shoals, a squid moving in precise, alien jerks, an octopus pressing itself against the glass with apparent curiosity.
+The room is a circular chamber with floor-to-ceiling windows on all sides. The glass is not there to frame the ocean in the way a hotel window frames a city — it places you inside it. The reef starts just beyond the pane. In daylight, the Indian Ocean's aquamarine light filters down through the water column. At night, the structure's underwater lights pull marine life to the glass: reef fish gathering in silver shoals, a squid moving in the precise, alien way that squid move, an octopus pressing itself flat against the window with what appears to be genuine curiosity.
 
-Guests who have experienced it most commonly report being entirely unable to sleep: not from discomfort, but from the unwillingness to close their eyes.
+Most guests report being entirely unable to sleep. Not from discomfort. From an unwillingness to close their eyes.
 
 **The Structure**
 
-The rooftop deck is among the finest places to watch a sunrise in Tanzania. There is nothing between you and the Indian Ocean horizon in every direction; the mainland is invisible, the horizon is unbroken, and the dhow silhouettes that occasionally cross the dawn light are unchanged from what the Swahili traders of the 9th century would have seen on this same stretch of water.
+The rooftop deck delivers one of the finer sunrises in Tanzania. The mainland is invisible, the horizon is an unbroken line, and the dhow silhouettes that occasionally cross the dawn light belong to a stretch of water that Swahili traders of the ninth century would recognise without difficulty.
 
-A dedicated host lives on the floating structure with you for the duration of your stay, providing meals, cocktails, and service on the sea level deck. The food is excellent, fresh seafood, tropical fruit, proper coffee, prepared in the structure's small galley kitchen.
+A dedicated host lives aboard the platform for the duration of each stay, providing meals, cocktails, and table service on the sea-level deck. The food is prepared in a small galley kitchen and is excellent: fresh local seafood, tropical fruit, real coffee.
 
 **Pemba Island**
 
-Pemba itself is worth the journey even without the Underwater Room as the destination. The island's diving is exceptional, the Pemba Channel drops to enormous depths just offshore, creating upwellings of nutrient rich water that sustain some of the healthiest coral in the Indian Ocean. The island has almost no tourist infrastructure beyond a handful of lodges, and the villages of clove farmers and fishermen along the coast feel entirely removed from the modern world.
+The island itself is worth the journey on its own terms. The Pemba Channel drops to considerable depth just offshore, generating upwellings that sustain some of the healthiest coral in the Indian Ocean. Tourist infrastructure is minimal — a handful of lodges, no resort strip — and the villages of clove farmers and fishermen along the coast operate at a pace that feels genuinely unhurried.
 
-The Manta Resort's mainland lodge provides a comfortable base, excellent diving, and the logistics for reaching the Underwater Room by boat. The room itself is not the most luxurious hotel experience in the Indian Ocean. It is, by the account of nearly everyone who has slept in it, the most singular.
+The Manta Resort's mainland lodge serves as the arrival point, provides excellent diving, and handles all the boat logistics for reaching the Underwater Room. The room is not the most luxurious sleep in the Indian Ocean. By the account of nearly everyone who has spent a night in it, it is the most singular one available anywhere.

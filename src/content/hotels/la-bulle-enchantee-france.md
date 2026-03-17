@@ -3,7 +3,7 @@ name: "La Bulle Enchantée"
 category: bubble-hotels
 destination: "Normandy"
 country: "France"
-description: "Transparent bubble domes set among the orchards and meadows of rural Normandy, giving guests a direct connection to the French countryside sky. Each bubble is individually decorated and surrounded by a private garden."
+description: "Transparent domes among the apple orchards and bocage meadows of rural Normandy, each individually decorated with linen, aged oak, and hand-thrown ceramics. Breakfasts include juice pressed from the property's own orchard, camembert from a local farm, and croissants from the village boulangerie."
 coverImage: /images/hotels/la-bulle-enchantee-france.jpg
 gallery:
   - /images/hotels/la-bulle-enchantee-france-2.jpg
@@ -36,12 +36,12 @@ coordinates:
 featured: false
 ---
 
-Normandy is a region of deep greens and soft silences: apple orchards, hedgerow-bordered meadows, and skies that shift through a hundred shades of grey and blue in the space of a single afternoon. La Bulle Enchantée plants its transparent domes directly within this landscape, creating a sleeping experience that feels simultaneously rooted in the French countryside and entirely removed from ordinary life.
+Normandy is a region of deep greens and soft silences: apple orchards, hedgerow-bordered meadows, and skies that shift through dozens of shades of grey and blue in a single afternoon. La Bulle Enchantée plants its transparent domes directly within this landscape. The result is a sleeping experience that feels both rooted in the French countryside and entirely outside ordinary life.
 
-The property operates with the warmth of a family-run establishment, and that human quality permeates every detail. The bubbles themselves are individually styled, no two are identical, with interiors that draw on the materials and colour palette of rural Normandy: linen, aged oak, hand-thrown ceramics, and textiles that echo the tones of the surrounding landscape. The effect is romantic without being fussy, and the transparency of the dome walls ensures that the view, orchards in blossom, night sky, morning mist rolling in from the bocage, is always the centrepiece.
+The property operates with the warmth of a family-run establishment, and that quality runs through every detail. No two bubbles are identical. Interiors draw on the materials and colour palette of rural Normandy — linen, aged oak, hand-thrown ceramics, textiles that echo the tones of the surrounding fields. The effect is romantic without fuss, and the dome walls keep the view — orchards in blossom, night sky, morning mist rolling in from the bocage — permanently at the centre of the experience.
 
-Norman nights offer excellent stargazing conditions, and the property's rural setting keeps light pollution to a minimum. The bubbles are heated to a comfortable temperature year-round, so the experience of lying in bed watching stars move overhead is as accessible in November as it is in June. The climate control is discreet and effective, and the quality of insulation means the domes remain cool in summer as well.
+Rural Normandy keeps light pollution low, and the property's location makes the most of it. The domes are well-heated year-round, so lying in bed watching stars track overhead works as well in November as it does in June. Climate control is discreet, and the insulation keeps the domes cool in summer without noise.
 
-Breakfasts are a particular highlight. Normandy's food culture is one of France's finest, and the morning baskets delivered to each bubble reflect this: fresh crepes, local camembert, apple juice pressed from the property's own orchard, butter from a nearby dairy farm, and warm croissants from the village boulangerie. It is the kind of breakfast that makes leaving the bubble a genuine sacrifice.
+Breakfasts deserve attention. The morning baskets delivered to each bubble draw on some of France's finest regional produce: fresh crepes, local camembert, apple juice pressed from the property's own orchard, butter from a nearby dairy, warm croissants from the village boulangerie. Leaving for the day is, every time, a small act of reluctance.
 
-For those arriving from Paris, a journey of less than two hours by road, La Bulle Enchantée represents one of the most accessible rural escapes available in northern France. The D-Day beaches, Mont-Saint-Michel, and the historic city of Bayeux are all within easy day trip distance, making this a property that rewards both those seeking complete stillness and those wanting to explore one of France's most historically layered landscapes.
+Paris is less than two hours by road. The D-Day beaches, Mont-Saint-Michel, and the cathedral city of Bayeux are all within comfortable day-trip range. This is a property that works equally well as a base for exploring Normandy's layered history or as a destination for doing very little at all.

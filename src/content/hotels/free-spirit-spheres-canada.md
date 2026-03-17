@@ -4,7 +4,7 @@ category: "treehouse-hotels"
 destination: "Vancouver Island"
 country: "Canada"
 continent: "North America"
-description: "Three handcrafted wooden sphere treehouses suspended by ropes in old-growth forest on Vancouver Island, offering a one of a kind floating treetop experience in the Pacific Northwest."
+description: "Three handcrafted wooden orbs — Eve, Eryn, and Melody — hang by rigging ropes from ancient Douglas firs on Vancouver Island, swaying gently in the forest canopy above Qualicum Beach. Each sphere is the life's work of one boat builder and artist, and the interior joinery proves it."
 coverImage: "/images/hotels/free-spirit-spheres-canada.jpg"
 gallery:
   - "/images/hotels/free-spirit-spheres-canada-1.jpg"

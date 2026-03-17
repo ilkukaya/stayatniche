@@ -3,7 +3,7 @@ name: "Alila Villas Uluwatu"
 category: cliffside-hotels
 destination: "Uluwatu, Bali"
 country: "Indonesia"
-description: "Ultra-luxurious clifftop villa resort perched 100 metres above the Indian Ocean on Bali's dramatic Bukit Peninsula, offering infinite-edge pools and uninterrupted ocean panoramas from every villa. A benchmark of contemporary tropical design and sustainable luxury."
+description: "A clifftop villa resort sitting 100 metres above the Indian Ocean on Bali's Bukit Peninsula, designed by Singapore architects WOHA with private infinity pools in every villa and a genuine commitment to passive cooling, rainwater harvesting, and an organic kitchen garden supplying the AWOL restaurant."
 coverImage: /images/hotels/alila-villas-uluwatu-bali.jpg
 gallery:
   - /images/hotels/alila-villas-uluwatu-bali-2.jpg

@@ -4,7 +4,7 @@ category: lighthouse-hotels
 destination: "Portland, Dorset"
 country: "England"
 continent: "Europe"
-description: "The striking red-and-white striped lighthouse at the southern tip of the Isle of Portland on the Jurassic Coast offers self-catering cottage accommodation within its historic complex. This is a Dorset coastal experience of genuine character: wild, windswept, and surrounded by some of England's most dramatic and geologically significant coastline."
+description: "The keeper's cottages at Portland Bill sit within the complex of the 1906 red-and-white striped lighthouse, whose lantern still guides vessels around one of the most violent tidal races in European waters. Spring and autumn migration turns the headland into one of England's premier birdwatching sites, with Siberian and North American rarities recorded alongside the Jurassic Coast's fossil-bearing limestone cliffs."
 coverImage: /images/hotels/portland-bill-lighthouse-england.jpg
 gallery:
   - /images/hotels/portland-bill-lighthouse-england-2.jpg
