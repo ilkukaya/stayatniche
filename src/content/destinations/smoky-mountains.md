@@ -40,16 +40,16 @@ seo:
   metaDescription: "Discover the Great Smoky Mountains' most extraordinary places to stay, from remote mountain cabins and treehouse retreats to historic lodge stays and Asheville boutique hotels. Your complete niche travel guide."
 ---
 
-The Smokies are older than the Alps. These Appalachian ridgelines have been worn smooth by 300 million years of erosion into shapes of unusual softness, the antithesis of Patagonian drama, but no less compelling. The famous blue haze that gives them their name is real: volatile organic compounds released by the dense forest create a natural mist that turns the ridges azure at distance. The park holds more tree species than all of northern Europe.
+The Smokies are older than the Alps. These Appalachian ridgelines have been worn smooth by 300 million years of erosion into shapes of unusual softness — the antithesis of Patagonian drama, but no less compelling. The famous blue haze that gives them their name is real: volatile organic compounds released by the dense forest create a natural mist that turns the ridges azure at distance. The park holds more tree species than all of northern Europe.
 
 
-Accommodation around Great Smoky Mountains National Park has evolved well past its Gatlinburg reputation. Private mountain cabin rentals with hot tubs on decks above forested ridges are the region's signature experience, these are everywhere and genuinely excellent. Beyond them: treehouse villages in the rural hollows between Bryson City and the park, historic lodge stays on the park edge, and fly-fishing cabins on delayed-harvest trout streams in the Cherokee National Forest.
+Accommodation around Great Smoky Mountains National Park has evolved well past its Gatlinburg reputation. Private mountain cabin rentals with hot tubs on decks above forested ridges are the region's signature experience — these are everywhere and genuinely excellent. Beyond them: treehouse villages in the rural hollows between Bryson City and the park, historic lodge stays on the park edge, and fly-fishing cabins on delayed-harvest trout streams in the Cherokee National Forest.
 
 
 Gatlinburg and Pigeon Forge are unapologetically commercial, but Dollywood earns its reputation as America's best regional theme park, and the Gatlinburg SkyBridge pedestrian suspension bridge delivers actual thrills. Townsend, the quiet entry to the Cades Cove area, offers the same park access without any of the neon.
 
 
-The North Carolina side, Cherokee, Bryson City, and the Nantahala Gorge, is dramatically less crowded and often more beautiful. The Oconaluftee Valley within the park has the best visitor center and a reconstructed 19th-century mountain homestead. Bryson City's craft brewing scene is genuinely good, and the Great Smoky Mountains Railroad adds significant appeal to the western approach. Cross the ridge and you're in a different, quieter Smokies entirely.
+The North Carolina side — Cherokee, Bryson City, and the Nantahala Gorge — is dramatically less crowded and often more beautiful. The Oconaluftee Valley within the park has the best visitor center and a reconstructed 19th-century mountain homestead. Bryson City's craft brewing scene is genuinely good, and the Great Smoky Mountains Railroad adds significant appeal to the western approach. Cross the ridge and you're in a different, quieter Smokies entirely.
 
 
-An hour east on the Blue Ridge Parkway, Asheville has become one of the South's most interesting small cities: a fermentation culture that spans craft beer, cider, mead, and spirits alongside a James Beard-recognized restaurant scene and the architectural extravagance of the Biltmore Estate, 8,000 acres, 35 bedrooms, a working winery, and the largest private house in the United States.
+An hour east on the Blue Ridge Parkway, Asheville has become one of the South's most interesting small cities: a fermentation culture spanning craft beer, cider, mead, and spirits alongside a James Beard-recognized restaurant scene and the architectural extravagance of the Biltmore Estate — 8,000 acres, 35 bedrooms, a working winery, and the largest private house in the United States.
