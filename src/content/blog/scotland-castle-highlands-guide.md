@@ -33,7 +33,7 @@ This guide covers the finest castle hotels and Highland retreats across Scotland
 
 Queen Victoria visited Inverlochy Castle in 1873 and wrote in her diary: "I never saw a lovelier or more romantic spot." Her endorsement has been cited in the hotel's literature ever since, and the Victorian Queen was right. The castle sits at the foot of Ben Nevis (Britain's highest mountain) on the banks of the Lochy River, in a Highland landscape of extraordinary drama, and it has operated as a hotel since 1969 in a manner that preserves the ambiance of a grand Victorian country house while offering contemporary comfort standards.
 
-The 17 rooms and suites are furnished with remarkable antiques, the drawing room's ceiling murals were painted for the original Victorian private residence. The dining room has maintained a Michelin star under successive chefs; the kitchen's treatment of Highland produce (venison, game, freshwater fish, West Coast shellfish) is serious and accomplished.
+The 17 rooms and suites are furnished with fine antiques, the drawing room's ceiling murals were painted for the original Victorian private residence. The dining room has maintained a Michelin star under successive chefs; the kitchen's treatment of Highland produce (venison, game, freshwater fish, West Coast shellfish) is serious and accomplished.
 
 **Activities:** Ben Nevis hiking (Britain's highest point, accessible by well-marked paths from Fort William, an 8–10 hour round trip), stalking, fishing on the hotel's private river beats, Glen Nevis walks, and access to the West Highland Way long-distance trail.
 
@@ -53,7 +53,7 @@ The hotel was built by the Caledonian Railway Company in 1924 as Scotland's answ
 ---
 
 
-Braemar, in the Royal Deeside valley close to Balmoral (the Royal Family's Scottish summer estate), is where the Hauser & Wirth art gallery has created one of Scotland's most remarkable hotel transformations: a Victorian coaching inn reinvented as an extraordinary cultural destination, its 46 rooms selected with a collection of artworks including pieces by Picasso, Lucian Freud, and Frith.
+Braemar, in the Royal Deeside valley close to Balmoral (the Royal Family's Scottish summer estate), is where the Hauser & Wirth art gallery has created one of Scotland's most notable hotel transformations: a Victorian coaching inn reinvented as an ambitious cultural destination, its 46 rooms selected with a collection of artworks including pieces by Picasso, Lucian Freud, and Frith.
 
 The Fife Arms manages something genuinely rare: the combination of elite contemporary art with a genuinely Highland atmosphere and a commitment to local culture (the pub, the Flying Stag, is a working local establishment). The kitchen's treatment of Deeside and Speyside produce, Aberdeen Angus beef, venison, river trout, Scotch whisky in the desserts and sauces, is accomplished and locally grounded.
 

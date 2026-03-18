@@ -2,7 +2,7 @@
 title: "Cliffside Hotels, The World's Most Dramatically Positioned Accommodations"
 author: "StayAtNiche Team"
 category: "guide"
-excerpt: "From Santorini's caldera edge to the Amalfi Coast's vertiginous terraces, discover the world's most breathtakingly positioned cliffside hotels where every view is a spectacle."
+excerpt: "From Santorini's caldera edge to the Amalfi Coast's vertiginous terraces, discover the world's most dramatically positioned cliffside hotels where every view is a spectacle."
 coverImage: /images/blog/cliffside-hotels-world-guide.jpg
 publishedDate: 2025-02-01T00:00:00.000Z
 tags:

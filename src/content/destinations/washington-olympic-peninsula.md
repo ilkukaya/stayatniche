@@ -18,7 +18,7 @@ mustSee:
   - "Hoh Rain Forest, ancient Sitka spruce and bigleaf maple smothered in club moss"
   - "Hurricane Ridge, mountain views and wildflower meadows above 5,000 feet"
   - "Rialto Beach and Hole-in-the-Wall, sea arches and wilderness coast"
-  - "Lake Crescent, a stunningly clear glacial lake in the park's north section"
+  - "Lake Crescent, an exceptionally clear glacial lake in the park's north section"
   - "Sol Duc Hot Springs, natural mineral hot springs in a forested valley"
   - "Cape Flattery, the northwesternmost point of the contiguous United States"
 travelTips:
@@ -49,7 +49,7 @@ The Hoh, Quinault, Queets, and Bogachiel river valleys on the peninsula's wet we
 Hurricane Ridge, reached by a 17-mile road from Port Angeles, rises above the Olympic Mountain snowpack to subalpine meadows and panoramic views of the full mountain range. In winter, it operates as a small ski area with rope tows and a handful of Nordic trails, one of the snowiest small ski hills in the Pacific Northwest. In summer, the wildflower meadows are extraordinary and the marmots are conspicuous. The high route trails into the Olympic interior, 7 Days, Elwha, High Divide, provide some of the most spectacular and least crowded wilderness backpacking in Washington.
 
 
-Olympic National Park's coastal strip preserves 73 miles of Pacific shoreline that can only be reached on foot or by kayak. The Ozette Triangle, a 9-mile loop connecting Lake Ozette to the coast and back, is the most accessible coastal backpacking route. Rialto Beach north of La Push provides the most dramatic day-hiking access, with Hole-in-the-Wall (a natural arch accessible at low tide) about 1.5 miles along the beach. The coastal campsites here are among the most extraordinary in America: fire rings on the beach below sea stacks, with the full force of the Pacific arriving unimpeded.
+Olympic National Park's coastal strip preserves 73 miles of Pacific shoreline that can only be reached on foot or by kayak. The Ozette Triangle, a 9-mile loop connecting Lake Ozette to the coast and back, is the most accessible coastal backpacking route. Rialto Beach north of La Push provides the most dramatic day-hiking access, with Hole-in-the-Wall (a natural arch accessible at low tide) about 1.5 miles along the beach. The coastal campsites here are among the finest in America: fire rings on the beach below sea stacks, with the full force of the Pacific arriving unimpeded.
 
 
-The Makah Nation at Neah Bay, at the peninsula's northwest tip, operates a remarkable cultural museum documenting the Ozette archaeological site, a Makah village buried by a mudslide 500 years ago and excavated in the 1970s. It is one of the most significant Native American archaeological discoveries in American history, and the Makah Museum's collection of everyday objects from a 15th-century Northwest Coast village is extraordinary. Cape Flattery, the northwesternmost point of the contiguous United States, is accessed through Makah lands and is among the most dramatic viewpoints on the entire Pacific coast.
+The Makah Nation at Neah Bay, at the peninsula's northwest tip, operates a cultural museum documenting the Ozette archaeological site, a Makah village buried by a mudslide 500 years ago and excavated in the 1970s. It is one of the most significant Native American archaeological discoveries in American history, and the Makah Museum's collection of everyday objects from a 15th-century Northwest Coast village is one of the finest in the Pacific Northwest. Cape Flattery, the northwesternmost point of the contiguous United States, is accessed through Makah lands and is among the most dramatic viewpoints on the entire Pacific coast.

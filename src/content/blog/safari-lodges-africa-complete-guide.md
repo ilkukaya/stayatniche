@@ -138,7 +138,7 @@ The finest African safari lodges are deeply committed to conservation. Propertie
 
 African safari lodges occupy a unique position in the world of experiential accommodation. Unlike [treehouse hotels](/categories/treehouse-hotels) or [cave hotels](/categories/cave-hotels), where the accommodation itself is the primary draw, at a safari lodge the stay and the wilderness experience are inseparable. The finest lodges understand this and design every element — architecture, food, guiding, service — to deepen the guest's connection with the landscape and wildlife.
 
-For travellers interested in other extraordinary accommodation experiences that place you within remarkable natural environments, explore our guides to [jungle lodges](/categories/jungle-lodges), [desert camps](/categories/desert-camps), and [floating hotels](/categories/floating-hotels).
+For travellers interested in other distinctive accommodation experiences that place you within singular natural environments, explore our guides to [jungle lodges](/categories/jungle-lodges), [desert camps](/categories/desert-camps), and [floating hotels](/categories/floating-hotels).
 
 ---
 

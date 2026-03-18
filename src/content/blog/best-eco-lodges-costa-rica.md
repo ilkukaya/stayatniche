@@ -59,7 +59,7 @@ Playa Cativo is a newer Osa Peninsula property that takes a different approach: 
 
 The lodge's approach to sustainability is rigorous: 100% renewable energy, zero-plastic operations, and a farm-to-table food program that produces a significant percentage of its ingredients on site. The chef's tasting menus have made Playa Cativo's restaurant one of the most discussed in Costa Rica despite its remote location.
 
-**Wildlife:** The Golfo Dulce is one of the world's few tropical fjords and contains dolphins, whale sharks, humpback whales (seasonal), and a remarkable marine biodiversity accessible from the lodge's dock.
+**Wildlife:** The Golfo Dulce is one of the world's few tropical fjords and contains dolphins, whale sharks, humpback whales (seasonal), and exceptional marine biodiversity accessible from the lodge's dock.
 
 **Price range:** From $700/person/night all-inclusive
 **Getting there:** Boat transfer from Golfito (45 minutes) or Puerto Jiménez (30 minutes); property arranges all transfers

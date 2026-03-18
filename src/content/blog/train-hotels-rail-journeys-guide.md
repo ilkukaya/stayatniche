@@ -128,6 +128,6 @@ Luxury train journeys sell out months in advance, particularly for peak-season d
 
 Train hotels share certain qualities with other forms of extraordinary accommodation: like [floating hotels](/categories/floating-hotels) and [desert camps](/categories/desert-camps), they place you in intimate contact with a changing environment. Unlike static extraordinary accommodations, however, the train hotel's defining quality is movement: the landscape transforms around you, and the sense of journey is inseparable from the experience of the stay itself.
 
-For travellers who want to combine extraordinary accommodation with remarkable landscapes, train hotels are the purest expression of the travel-as-destination philosophy.
+For travellers who want to combine distinctive accommodation with exceptional landscapes, train hotels are the purest expression of the travel-as-destination philosophy.
 
 Browse our full collection of [train hotels](/categories/train-hotels) and find the rail journey that calls to you.

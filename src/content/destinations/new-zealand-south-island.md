@@ -19,7 +19,7 @@ mustSee:
   - "Franz Josef and Fox Glaciers, accessible temperate rainforest glaciers"
   - "Lake Tekapo, turquoise glacial lake under one of the world's darkest skies"
   - "The Routeburn Track, one of New Zealand's Great Walks through alpine scenery"
-  - "Marlborough Wine Region, world-famous Sauvignon Blanc in a stunning valley setting"
+  - "Marlborough Wine Region, world-famous Sauvignon Blanc in a broad river valley between mountain ranges"
 travelTips:
   - "Book the Milford Sound road trip early, the single access road from Te Anau is subject to avalanche and weather closures; helicopters offer an alternative if driving is impossible."
   - "Great Walk bookings open in June for the following season, popular tracks like the Milford and Routeburn sell out within hours."

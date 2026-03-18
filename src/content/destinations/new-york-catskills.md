@@ -3,7 +3,7 @@ name: New York Catskills
 type: region
 continent: north-america
 country: USA
-description: "The Catskills are New York City's mountain backyard, a landscape of hardwood ridges, cold trout streams, and weathered farmsteads within two hours of the city that has been absorbing urbanites seeking nature since the Hudson River School painters arrived in the 1820s. The region has undergone a remarkable transformation in the past decade, with a wave of creative people converting old boarding houses and farm properties into some of the most distinctive small accommodation in the American Northeast."
+description: "The Catskills are New York City's mountain backyard, a landscape of hardwood ridges, cold trout streams, and weathered farmsteads within two hours of the city that has been absorbing urbanites seeking nature since the Hudson River School painters arrived in the 1820s. The region has undergone a significant transformation in the past decade, with a wave of creative people converting old boarding houses and farm properties into some of the most distinctive small accommodation in the American Northeast."
 coverImage: /images/destinations/new-york-catskills.jpg
 essentials:
   currency: "USD (US Dollar)"

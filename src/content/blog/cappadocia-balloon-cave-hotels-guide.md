@@ -23,7 +23,7 @@ seo:
 
 At dawn in Göreme, before the sun has fully risen above the volcanic tufa formations, the sky begins to fill. One balloon appears, then ten, then thirty, then a hundred, drifting in slow silence over a landscape that looks, there is no other word for it, like another planet. Below, in rooms carved directly into rock that was formed by volcanic eruption three million years ago, guests are waking in beds of linen and carved stone, preparing to watch this spectacle from their private terraces with cups of Turkish tea.
 
-Cappadocia, in central Turkey's Anatolia region, offers one of the most complete extraordinary travel experiences on Earth. It is not merely a place to see something remarkable; it is a place where the accommodation, the landscape, and the signature activity (hot air ballooning) are so perfectly integrated that the entire visit feels selected by a particularly brilliant travel editor. Few destinations deliver this sense of completeness.
+Cappadocia, in central Turkey's Anatolia region, offers one of the most complete travel experiences on Earth. It is not merely a place to see something singular; it is a place where the accommodation, the landscape, and the signature activity (hot air ballooning) are so perfectly integrated that the entire visit feels selected by a particularly brilliant travel editor. Few destinations deliver this sense of completeness.
 
 This guide covers everything: the best cave hotels across price points, how to book a balloon flight (and what can go wrong), the best time to visit, and how to structure your days between the two signature experiences.
 
@@ -114,7 +114,7 @@ The balloon carries 4–28 passengers depending on basket size; the premium "pri
 - **Charged phone/camera:** You will photograph more than you expect.
 
 
-The most remarkable element of a Cappadocia balloon flight is not what you see, it is the sound. Or rather, the absence of it. Between burner blasts, the basket drifts in absolute silence over the valleys, close enough to the fairy chimneys to reach out and almost touch them, then rising to 300 metres for the full panoramic sweep of the landscape. The 100+ balloons in the air simultaneously create a visual spectacle from within, you are not just seeing a landscape, you are part of the most spectacular image in travel photography.
+The defining element of a Cappadocia balloon flight is not what you see, it is the sound. Or rather, the absence of it. Between burner blasts, the basket drifts in absolute silence over the valleys, close enough to the fairy chimneys to reach out and almost touch them, then rising to 300 metres for the full panoramic sweep of the landscape. The 100+ balloons in the air simultaneously create a visual spectacle from within, you are not just seeing a landscape, you are part of the most spectacular image in travel photography.
 
 ---
 

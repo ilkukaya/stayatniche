@@ -23,7 +23,7 @@ mustSee:
   - "Chickamauga and Chattanooga National Military Park, the South's most significant Civil War battlefield complex"
 travelTips:
   - "The town of Blue Ridge is the region's commercial center, good restaurants, galleries, and the scenic railway departure point, but weekend traffic on GA-515 can be significant."
-  - "Ellijay is the self-proclaimed Apple Capital of Georgia, the October apple festivals bring enormous crowds but the orchards are stunning and the cider is excellent."
+  - "Ellijay is the self-proclaimed Apple Capital of Georgia, the October apple festivals bring enormous crowds but the orchards are worth the drive and the cider is excellent."
   - "Cabin rental is the dominant accommodation format in the Georgia Blue Ridge, private cabin companies manage hundreds of properties; Airbnb and VRBO have extensive listings."
   - "The Appalachian Trail enters Georgia at Springer Mountain, Amicalola Falls State Park offers the most dramatic approach hike and a lodge for AT thru-hikers starting their journey."
   - "North Georgia waterfalls are numerous, Raven Cliff Falls, Anna Ruby Falls, Helton Creek Falls, most require short trail walks and reward with genuine beauty."

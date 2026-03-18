@@ -12,7 +12,7 @@ essentials:
   plugType: "Type C/F (220V)"
 bestTimeToVisit:
   summary: "April–June and September–October"
-  details: "Spring and autumn offer ideal weather, warm but not scorching, and fewer crowds than peak summer. Cappadocia is magical year-round but particularly stunning in winter with snow-dusted rock formations."
+  details: "Spring and autumn offer ideal weather, warm but not scorching, and fewer crowds than peak summer. Cappadocia is compelling year-round but particularly striking in winter with snow-dusted rock formations."
 mustSee:
   - "Cappadocia hot air balloon rides at sunrise"
   - "Hagia Sophia and the Blue Mosque, Istanbul"

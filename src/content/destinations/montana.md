@@ -13,7 +13,7 @@ essentials:
   plugType: "Type A/B (120V)"
 bestTimeToVisit:
   summary: "June–September and January–March"
-  details: "Summer is peak season for Glacier National Park, the Going-to-the-Sun Road typically opens fully in late June and closes after Labor Day. Late September brings stunning fall colors and the start of elk rut season. Winter transforms the state into a quieter experience focused on Whitefish Mountain Resort skiing, snowmobiling, and the extraordinary silence of snowbound Glacier."
+  details: "Summer is peak season for Glacier National Park, the Going-to-the-Sun Road typically opens fully in late June and closes after Labor Day. Late September brings vivid fall colors and the start of elk rut season. Winter transforms the state into a quieter experience focused on Whitefish Mountain Resort skiing, snowmobiling, and the deep silence of snowbound Glacier."
 mustSee:
   - "Glacier National Park, Going-to-the-Sun Road and Grinnell Glacier"
   - "Yellowstone's northern range (entered from Gardiner, Montana)"

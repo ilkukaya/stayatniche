@@ -19,7 +19,7 @@ mustSee:
   - "Silver Creek Preserve, one of the world's premier spring creek fly fishing destinations, managed by The Nature Conservancy"
   - "Ernest Hemingway Memorial and final residence in Ketchum"
   - "Sawtooth National Recreation Area, jagged granite peaks above alpine lakes, 30 minutes north"
-  - "Trail Creek Road and the Pioneer Mountains, stunning backcountry access from Sun Valley"
+  - "Trail Creek Road and the Pioneer Mountains, exceptional backcountry access from Sun Valley"
   - "Galena Summit, a high mountain pass with panoramic Sawtooth views"
 travelTips:
   - "Sun Valley and Ketchum are two distinct communities, the Sun Valley Resort campus is a planned resort village; Ketchum is the actual town with restaurants, galleries, and local life. Stay in Ketchum for a more authentic experience."

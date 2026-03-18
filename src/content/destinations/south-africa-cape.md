@@ -2,7 +2,7 @@
 name: "South Africa, Cape Region"
 type: country
 continent: "Africa"
-description: "The Cape region of South Africa combines one of the world's most beautiful cities with dramatic mountain scenery, exceptional wine country, extraordinary marine wildlife, and the remarkable fynbos biome found nowhere else on earth. Cape Town's location, mountain, city, two oceans, is among the most spectacular urban settings in the southern hemisphere."
+description: "The Cape region of South Africa combines one of the world's most beautiful cities with dramatic mountain scenery, exceptional wine country, diverse marine wildlife, and the fynbos biome found nowhere else on earth. Cape Town's location, mountain, city, two oceans, is among the most striking urban settings in the southern hemisphere."
 coverImage: /images/destinations/south-africa-cape.jpg
 essentials:
   currency: "ZAR (South African Rand); cards widely accepted in cities; carry cash for rural markets"
