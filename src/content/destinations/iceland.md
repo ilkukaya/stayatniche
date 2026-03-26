@@ -51,3 +51,27 @@ Iceland's accommodation is evolving beyond the standard hotel. Geodesic dome cab
 
 
 Aurora viewing in Iceland is a matter of statistics and patience. Clear skies, geomagnetic activity, and dark locations away from Reykjavík are all required. The Reykjanes Peninsula, the Westfjords, and the area around Akureyri in the North consistently deliver the best conditions. The light itself, green ribbons shifting to purple and white across the sky, is something no photograph fully captures.
+
+## Getting There
+
+**Flights:** Keflavík International Airport (KEF) sits 50 kilometres southwest of Reykjavík and receives direct flights from most European capitals, New York, Boston, Minneapolis, Denver, Seattle, Los Angeles, and Toronto. Icelandair and PLAY operate the largest networks. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Iceland/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/iceland) — prices vary significantly by departure date and city.
+
+**Airport Transfer:** The Flybus and Reykjavík Excursions coaches connect Keflavík to the BSÍ bus terminal in Reykjavík (45 minutes). For private transfers — particularly useful for late arrivals or with heavy luggage — book through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Reykjavik) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Reykjavik). The Blue Lagoon is 20 minutes from the airport — transfers can drop you there before continuing to Reykjavík.
+
+## Getting Around
+
+**Car Rental:** Essential for Iceland's ring road and the highlands. A 4WD is mandatory for F-roads (interior highland routes, open July–mid-September only). Compare rental rates on [Localrent](https://localrent.com/en/?location=Iceland) (specialises in local agencies with competitive 4WD pricing), [QEEQ](https://www.qeeq.com/search?q=Iceland), and [AutoEurope](https://www.autoeurope.com/?location=Iceland). Book well in advance for summer — supply is limited and demand peaks in July–August.
+
+**Buses:** The Strætó public bus network covers Reykjavík and the Reykjanes Peninsula; Sterna and other operators run seasonal highland bus routes in summer (the F-road Buses). Practical for budget travel but severely limiting compared to a rental car.
+
+## Tours & Experiences
+
+Book glacier hikes on Vatnajökull, snowmobile tours, whale watching from Húsavík, and Reykjavík food tours through [Klook](https://www.klook.com/en-US/search-results/?query=Iceland) and [Viator](https://www.viator.com/Iceland/d51-ttd). Northern lights tours with experienced guides run nightly in winter from Reykjavík, Akureyri, and outlying lodges. The Blue Lagoon, Golden Circle, and South Coast day tours are consistently well-reviewed. Ice cave tours (November–March) inside Vatnajökull are among Iceland's most extraordinary experiences and bookable through specialist operators on [WeGoTrip](https://wegotrip.com/destinations/iceland/).
+
+## Travel Essentials
+
+**eSIM:** Iceland has excellent 4G coverage along Route 1 and in all towns; signal is absent in the interior highlands. Get an Iceland eSIM from [Airalo](https://www.airalo.com) before departure — Síminn has the best rural coverage.
+
+**Travel Insurance:** Essential for Iceland given the cost of emergency helicopter rescue if you're injured on remote F-road tracks or highland hikes. Check your policy covers off-road vehicle use if you plan to drive F-roads. [SafetyWing](https://safetywing.com) covers adventure activities including glacier hiking and snowmobiling.
+
+**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) are useful for accessing home streaming services during long winter dark-sky evenings at your lodge.

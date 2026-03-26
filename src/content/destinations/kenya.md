@@ -50,3 +50,27 @@ Kenya pioneered the luxury tented camp, and it remains most convincingly execute
 
 
 What makes Kenya's better safari operations genuinely sustainable is the direct link between tourism revenue and conservation outcomes. Private conservancies pay Maasai landowners lease fees that make cattle ranching economically uncompetitive with wildlife protection. Ol Pejeta Conservancy, home to the last two northern white rhinos on earth, runs entirely on tourism income. A stay here isn't a luxury indulgence. It's a conservation funding mechanism, and that distinction matters.
+
+## Getting There
+
+**Flights:** Nairobi's Jomo Kenyatta International Airport (NBO) is East Africa's main hub, with direct connections from London, Amsterdam, Paris, Dubai, Doha, Mumbai, and major African cities. Wilson Airport (WIL) — a small domestic airport 6km from the city — handles light aircraft connections to safari camps. Many remote lodges (Chyulu Hills, Laikipia Plateau) are reachable only by charter flight. Search international flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kenya/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/kenya).
+
+**Airport Transfer:** Nairobi's international terminal is 20 minutes from the city in light traffic. Book private airport transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) — taxi touts at arrivals should be avoided.
+
+## Getting Around
+
+**Light Aircraft:** The standard way to reach remote safari camps. Safarilink, Air Kenya, and Fly540 connect Wilson Airport to Maasai Mara, Amboseli, Samburu, and Laikipia. Bush landing strips at lodges mean door-to-door efficiency. Most lodges organise charter connections directly.
+
+**Self-Drive:** Possible within Nairobi and on main highways, but not recommended for safari areas without local knowledge. Most visitors use lodge-arranged game drives and transfers. For city exploration, compare rates on [QEEQ](https://www.qeeq.com/search?q=Nairobi%2C+Kenya) or [Localrent](https://localrent.com/en/?location=Nairobi).
+
+## Tours & Experiences
+
+Book Maasai Mara game drives, Nairobi National Park half-day tours, giraffe centre visits, and great migration tracking tours through [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari) and [Viator](https://www.viator.com/Kenya/d729-ttd). Hot air balloon safaris over the Mara — one of Africa's finest experiences — book directly through operators. Maasai cultural experiences and community visits are bookable through [WeGoTrip](https://wegotrip.com/destinations/kenya/).
+
+## Travel Essentials
+
+**eSIM:** Get a Kenya eSIM from [Airalo](https://www.airalo.com). Safaricom has the best rural coverage including in most national park areas; signal is absent at remote lodges (which use satellite or radio).
+
+**Travel Insurance:** Medical evacuation insurance is essential for remote camp stays — evacuation from Laikipia or Chyulu Hills to Nairobi by aircraft costs $3,000–6,000. [SafetyWing](https://safetywing.com) includes emergency evacuation in its standard plan.
+
+**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for lodge downtime. Some lodge satellite connections are restricted; a VPN restores full internet access.

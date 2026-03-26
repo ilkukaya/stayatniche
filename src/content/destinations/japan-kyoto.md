@@ -48,3 +48,25 @@ In the Japanese Alps, the village of Shirakawa-go (UNESCO World Heritage) preser
 Japan's Shinkansen network connects major cities in times that beat flying once airport transit is factored in: Tokyo to Kyoto in 2h15m, Kyoto to Hiroshima in 1h25m. Pick up an IC card (Suica or ICOCA) at the airport; it covers metro, JR trains, and buses and eliminates individual ticket purchases entirely. The Japan Rail Pass, bought before departure, pays for itself on a single Tokyo–Kyoto return.
 
 The yen's sustained weakness against the dollar and euro since 2022 has made Japan genuinely affordable by Western standards. A kaiseki dinner at a serious ryokan that would have felt extravagant a few years ago now costs less than a comparable meal in Paris or New York. This is the moment to go deep.
+
+## Getting There
+
+**Flights:** Tokyo's Narita (NRT) and Haneda (HND) are the main international entry points; Osaka's Kansai Airport (KIX) is the closer gateway for Kyoto (75 minutes by Haruka Express). Direct flights to Osaka from London, Paris, Amsterdam, and Helsinki make the Kansai arrival practical for a Kyoto-first itinerary. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kyoto/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/osaka).
+
+**Airport Transfer to Kyoto:** From Osaka Kansai, the Haruka Limited Express reaches Kyoto Station in 75 minutes. From Tokyo, the Shinkansen Nozomi reaches Kyoto in 2h15m. For private transfers (useful with heavy luggage or on arrival from Narita late), book through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kyoto) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kyoto).
+
+## Getting Around
+
+**Rail:** The Japan Rail Pass covers Shinkansen between cities and JR regional lines; purchase before departure from Japan. Kyoto's city buses and subway connect the main temple districts. An IC card (ICOCA in western Japan, Suica nationwide) handles metro, bus, and convenience store payments. Car rental is irrelevant within Kyoto — traffic and parking make it counterproductive. Compare rates for regional exploration on [QEEQ](https://www.qeeq.com/search?q=Kyoto%2C+Japan) or [EconomyBookings](https://www.economybookings.com/?location=Kyoto).
+
+## Tours & Experiences
+
+Book early-morning Fushimi Inari hikes, geisha district (Gion) walking tours, sake brewery visits, and Arashiyama bamboo forest experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto) and [Viator](https://www.viator.com/Kyoto/d342-ttd). Tea ceremony experiences, Nishiki Market food tours, and Kodo drumming performances are consistently well-reviewed. Traditional Noh theatre and Maiko (geisha apprentice) dinner evenings book through [WeGoTrip](https://wegotrip.com/destinations/kyoto/).
+
+## Travel Essentials
+
+**eSIM:** Get a Japan eSIM from [Airalo](https://www.airalo.com) before departure. IIJ and Docomo provide excellent 4G coverage throughout Japan including rural areas. Pocket WiFi rentals at airports are the alternative but eSIM is simpler.
+
+**Travel Insurance:** Standard travel insurance covers Japan well. The key coverage is trip cancellation (cherry blossom and autumn foliage season bookings are expensive to lose) and health (Japan's healthcare costs are high for uninsured visitors). [SafetyWing](https://safetywing.com) covers Japan comprehensively.
+
+**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for accessing home streaming services during ryokan evenings.

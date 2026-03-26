@@ -47,3 +47,29 @@ The Lofoten Islands sit above the Arctic Circle and operate under the midnight s
 Push further and Svalbard sits at 78°N, three hours by air from Oslo. Polar bears outnumber humans here. The glacier landscape — vast, white, nearly uninhabited — is navigable by snowmobile, dog sled, or expedition ship. No visa is required for any nationality, a quirk of the 1920 Svalbard Treaty that makes it one of the most accessible corners of the High Arctic.
 
 Norway's most defining quality is light, or rather its extremes. The midnight sun of June and July — when the sun never fully sets and the country exists in a continuous warm late-afternoon glow — is genuinely disorienting in the best way. Deep winter brings polar night, weeks without a sunrise, and with it the darkness required for the clearest aurora displays anywhere on the European mainland. The country earns its reputation in both seasons.
+
+## Getting There
+
+**Flights:** Oslo Gardermoen (OSL) is Norway's main hub, with connections throughout Europe and direct long-haul routes from New York, Chicago, and major Asian cities. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS), and Bodø (BOO) all receive direct European connections — flying into these regional airports for a fjord itinerary avoids the Oslo-to-fjords transit entirely. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Norway/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/norway).
+
+**Airport Transfer:** Oslo Airport Express (Flytoget) connects Gardermoen to Oslo Central Station in 19 minutes. For private transfers to specific hotels or onward fjord destinations, book through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Oslo) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Oslo).
+
+## Getting Around
+
+**Car Rental:** The Norwegian Scenic Routes (18 designated drives) and fjord country are best explored by car. Roads are excellent; winter driving requires winter tyres (mandatory by law October–April). Compare rates on [Localrent](https://localrent.com/en/?location=Norway), [QEEQ](https://www.qeeq.com/search?q=Norway), and [AutoEurope](https://www.autoeurope.com/?location=Norway). EV rental is well-supported — Norway has the world's highest EV adoption rate and chargers on most routes.
+
+**Ferries:** Essential for fjord travel; many fjord crossings have no road alternative. The Hurtigruten coastal ferry from Bergen to Kirkenes takes 6 days and is one of the world's great maritime journeys. Car ferries are booked through Fjord1 and Norled; reserve in advance for summer crossings.
+
+**Rail:** The Bergen Line (Oslo to Bergen, 7 hours), the Flåm Railway, and the Dovre Line (Oslo to Trondheim) are among Europe's most scenic train journeys. Book through [Vy](https://www.vy.no/en).
+
+## Tours & Experiences
+
+Book Geirangerfjord kayak tours, northern lights safaris from Tromsø, dog sledding in Finnmark, and Flåm fjord excursions on [Klook](https://www.klook.com/en-US/search-results/?query=Norway) and [Viator](https://www.viator.com/Norway/d78-ttd). The Svalbard polar expedition season (March–October) is best arranged through specialist Arctic operators. Sea kayaking and glacier hikes in the Jostedalsbreen area are bookable through regional outfitters on [WeGoTrip](https://wegotrip.com/destinations/norway/).
+
+## Travel Essentials
+
+**eSIM:** Norway has excellent 4G coverage on all main roads and in cities; signal drops in Svalbard and very remote fjord areas. Get a Norway eSIM from [Airalo](https://www.airalo.com) before departure — Telenor has the best rural and Svalbard coverage.
+
+**Travel Insurance:** Essential for Norway's outdoor activities. Check that your policy covers mountain hiking (Trolltunga and Preikestolen rescue operations are expensive). [SafetyWing](https://safetywing.com) covers adventure sports and provides emergency evacuation coverage.
+
+**VPN:** [NordVPN](https://nordvpn.com) — ironically headquartered in Oslo — is a strong choice for Norwegian travel. [ExpressVPN](https://expressvpn.com) is the reliable alternative.

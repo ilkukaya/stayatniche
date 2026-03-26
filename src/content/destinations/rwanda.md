@@ -50,3 +50,27 @@ Nyungwe Forest in the southwest is one of Africa's oldest and most biodiverse ra
 Lake Kivu borders the DRC to the west: a vast freshwater lake surrounded by volcanic hills, its depths holding dissolved carbon dioxide and methane that the Rwandan government is actively extracting for energy. Beach lodges on Kivu's shore offer practical recovery from the physical demands of gorilla trekking.
 
 Kigali International Airport now receives direct flights from Brussels, London, Nairobi, and Addis Ababa. The drive to Volcanoes National Park takes around two and a half hours on well-maintained paved roads — refreshingly straightforward by East African standards. Rwanda's tourism infrastructure is among the best in continental Africa, which is one more thing that would have been impossible to predict in 1994.
+
+## Getting There
+
+**Flights:** Kigali International Airport (KGL) receives direct flights from Brussels (RwandAir and Brussels Airlines), London Gatwick, Nairobi, Addis Ababa, Dubai, and Johannesburg. Qatar Airways and Kenya Airways provide connections from Asia, the Americas, and the rest of Africa via their hubs. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Rwanda/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/rwanda).
+
+**Airport Transfer:** Kigali's airport sits 12km from the city centre. Book private transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kigali) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kigali). Most lodges near Volcanoes National Park arrange direct airport pick-up to reduce overland transit time.
+
+## Getting Around
+
+**Hire Car with Driver:** The standard approach for Rwanda travel. Roads are excellent by regional standards; Kigali to Volcanoes National Park is 2.5 hours, to Nyungwe Forest 4 hours, to Akagera 2.5 hours. Compare self-drive rates on [QEEQ](https://www.qeeq.com/search?q=Rwanda) — but a driver is recommended for park areas where local knowledge matters.
+
+**Motorcycles (Motos):** The ubiquitous urban transport in Kigali — safe, fast, and cheap. Regulated helmets are mandatory and provided.
+
+## Tours & Experiences
+
+Book gorilla trekking permits (managed by the Rwanda Development Board — permits $1,500 per person), golden monkey trekking, chimpanzee habituation in Nyungwe, and Kigali genocide memorial tours through [Viator](https://www.viator.com/Rwanda/d5453-ttd). Hot air balloon flights over Rwanda's thousand hills are an extraordinary add-on. Cultural experiences and community market visits are bookable through [WeGoTrip](https://wegotrip.com/destinations/rwanda/).
+
+## Travel Essentials
+
+**eSIM:** Get a Rwanda eSIM from [Airalo](https://www.airalo.com). MTN Rwanda has the best coverage including in the Volcanoes and Nyungwe park areas. Lodge properties often have satellite WiFi.
+
+**Travel Insurance:** Medical evacuation to Nairobi or Johannesburg is the relevant risk for remote lodges. [SafetyWing](https://safetywing.com) includes evacuation and covers gorilla trekking as an adventure activity.
+
+**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for accessing streaming services during lodge evenings.
