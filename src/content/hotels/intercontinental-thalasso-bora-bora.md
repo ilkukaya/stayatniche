@@ -34,6 +34,13 @@ coordinates:
   lat: -16.4917
   lng: -151.7417
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Bora%20Bora%2C%20Society%20Islands%2C%20French%20Polynesia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Bora+Bora,+Society+Islands"
+    label: "Find Tours on Klook"
 ---
 
 The InterContinental Bora Bora Resort and Thalasso Spa holds the most exposed and dramatic position of any overwater resort on the island. It sits on the outer reef itself — Motu Piti Aau, a small coral island at the southern end of Bora Bora's barrier reef. From here, the lagoon spreads northward in a panorama that takes in the full silhouette of Mount Otemanu and Mount Pahia rising from the main island, the water shifting between near-turquoise and near-sapphire depending on the angle of the light.

@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Aman-i-Khás Review, Bengal Tiger Safari Luxury Camp, Ranthambore, India"
   metaDescription: "Ten Mughal-inspired luxury tented pavilions at Ranthambore Tiger Reserve, India's finest address for Bengal tiger encounters. Aman-i-Khás from $1,200/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Ranthambore%2C%20Rajasthan%2C%20India&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Ranthambore,+Rajasthan"
+    label: "Find Tours on Klook"
 ---
 
 Ranthambore is not India's most famous tiger reserve. Corbett attracts more visitors, Kanha more column inches. But the sighting statistics at Ranthambore are the most consistent in the country. The 1,334 square kilometres of dry deciduous forest, grassland, and ancient lake sit in the shadow of a 12th-century Rajput fort, and the tigers here move through the landscape with the confidence of animals that have been protected and studied long enough to stop hiding. On a good morning — and Ranthambore produces more good mornings than anywhere else in India — a tigress crosses a dry riverbed without slowing her pace.

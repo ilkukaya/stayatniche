@@ -82,6 +82,13 @@ publishedDate: 2025-02-12
 seo:
   metaTitle: "Gamirasu Cave Hotel Review, Byzantine Monastery Cave Hotel in Cappadocia, Turkey"
   metaDescription: "Stay in a 6th-century Byzantine monastery in Cappadocia's quiet Ayvali valley. Gamirasu Cave Hotel offers hot air balloon views, original frescoes, and authentic Turkish hospitality."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Ayvali%2C%20Cappadocia%2C%20Turkey&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Ayvali,+Cappadocia"
+    label: "Find Tours on Klook"
 ---
 
 Cappadocia has become one of Turkey's most visited destinations, and with good reason: the landscape of volcanic tuff formations, fairy chimneys, and rock-cut valleys is among the most visually arresting on earth. But the popularity of Göreme and Üçhisar means that the cave hotel experience can feel, in high season, like sharing something private with a very large crowd. Gamirasu offers an entirely different proposition.

@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "ICEHOTEL 365 Review, The Original Ice Hotel in Swedish Lapland"
   metaDescription: "The world's first ice hotel, rebuilt from Torne River ice every winter since 1990. Art suites at -5°C, northern lights, and midnight sun. ICEHOTEL 365 from $500/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Jukkasj%C3%A4rvi%2C%20Swedish%20Lapland%2C%20Sweden&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Jukkasjärvi,+Swedish+Lapland"
+    label: "Find Tours on Klook"
 ---
 
 Everything begins with the river. The Torne River, which forms the border between Sweden and Finland as it descends toward the Bothnian Bay, freezes each November to a depth of more than a metre: a mass of exceptionally pure, crystal clear ice that has no equal in the world for architectural purposes. It was from this river that Yngve Bergqvist and a team of Japanese artists harvested the first blocks in 1989, and from those blocks they built, experimentally and with no certainty of success, the world's first hotel made entirely from ice.

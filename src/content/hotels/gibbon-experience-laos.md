@@ -34,6 +34,13 @@ coordinates:
   lat: 20.6333
   lng: 100.6667
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Bokeo%20Nature%20Reserve%2C%20Houaphan%2C%20Laos&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Bokeo+Nature+Reserve,+Houaphan"
+    label: "Find Tours on Klook"
 ---
 
 No comparable experience exists anywhere else in Southeast Asia. Forty metres above the floor of Laos's Bokeo Nature Reserve, on platforms of timber and cable suspended in the primary rainforest canopy, the Gibbon Experience is simultaneously the most physically demanding and the most ecologically purposeful treehouse stay in the region.

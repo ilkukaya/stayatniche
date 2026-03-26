@@ -1,0 +1,40 @@
+{
+  "marker": "",
+  "comment": "Add your Travelpayouts marker ID here. Find it at travelpayouts.com > Tools > Widgets or Links.",
+  "programs": {
+    "expedia": {
+      "enabled": true,
+      "label": "Check on Expedia",
+      "trackingParam": "affcid=expedia"
+    },
+    "klook": {
+      "enabled": true,
+      "label": "Find Tours on Klook",
+      "baseUrl": "https://www.klook.com"
+    },
+    "tiqets": {
+      "enabled": true,
+      "label": "Book Attraction Tickets",
+      "baseUrl": "https://tiqets.com"
+    },
+    "kiwi": {
+      "enabled": true,
+      "label": "Search Flights on Kiwi.com",
+      "baseUrl": "https://www.kiwi.com"
+    }
+  },
+  "widgets": {
+    "hotelSearch": {
+      "enabled": true,
+      "comment": "Paste your Travelpayouts hotel search widget iframe code here after creating it at travelpayouts.com > Tools > Widgets > Hotels"
+    },
+    "flightSearch": {
+      "enabled": true,
+      "comment": "Paste your Kiwi.com / flight search widget code here"
+    },
+    "toursSearch": {
+      "enabled": true,
+      "comment": "Paste your Klook or Tiqets widget code here"
+    }
+  }
+}

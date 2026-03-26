@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Belmond Royal Scotsman Review, Luxury Sleeper Train Through the Scottish Highlands"
   metaDescription: "Britain's only luxury sleeper train on the world's greatest railway journey through the Scottish Highlands. Glenfinnan Viaduct, whisky distilleries, and Highland dining. From $2,400."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Edinburgh%20to%20the%20Scottish%20Highlands%2C%20Scotland&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Edinburgh+to+the+Scottish+Highlands"
+    label: "Find Tours on Klook"
 ---
 
 The West Highland Line is, by the consistent judgement of the railway press and anyone who's done it, the most beautiful railway journey in the world. Glasgow to Fort William to Glenfinnan, where the famous 21-arch viaduct crosses the valley in Victorian engineering that predates its Harry Potter fame by a century, and on to Mallaig on the Sound of Sleat opposite Skye. You can do this on an ordinary ScotRail service. Doing it on the Royal Scotsman, moving at a pace that allows the landscape to be absorbed rather than consumed, is a different proposition entirely.

@@ -34,6 +34,13 @@ coordinates:
   lat: -16.4833
   lng: -151.7500
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Bora%20Bora%2C%20Society%20Islands%2C%20French%20Polynesia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Bora+Bora,+Society+Islands"
+    label: "Find Tours on Klook"
 ---
 
 Bora Bora is overwater bungalow ground zero, the format was invented here, and the island remains its most convincing argument. Mount Otemanu's 727-metre basalt peak sits at the centre, ringed by a barrier reef enclosing a lagoon whose turquoise colour has made it one of the most photographed bodies of water on Earth. This is the South Pacific as the photographs suggest it will be, which is rarer than it sounds.

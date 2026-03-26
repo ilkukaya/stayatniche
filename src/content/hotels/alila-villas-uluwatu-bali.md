@@ -34,6 +34,13 @@ coordinates:
   lat: -8.8291
   lng: 115.0853
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Uluwatu%2C%20Bali%2C%20Indonesia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Uluwatu,+Bali"
+    label: "Find Tours on Klook"
 ---
 
 Alila Villas Uluwatu sits 100 metres above the Indian Ocean on Bali's Bukit Peninsula, and the site is the whole argument. The peninsula is limestone clifftops above legendary surf, home to one of the island's most significant Hindu temples, and far enough from Seminyak's noise to feel like a different Bali. The hotel sits at the cliff's edge with an uninterrupted ocean horizon.

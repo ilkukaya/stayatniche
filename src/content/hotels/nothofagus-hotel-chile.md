@@ -81,6 +81,13 @@ publishedDate: 2025-02-10
 seo:
   metaTitle: "Nothofagus Hotel & Spa Review, Treehouse Hotel in Patagonian Rainforest, Chile"
   metaDescription: "Sleep in the treetops of a private Patagonian rainforest reserve at Nothofagus Hotel & Spa, Huilo-Huilo, Chile. Ancient trees, volcanic views, hot spring spa, and endemic wildlife."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Huilo-Huilo%20Biological%20Reserve%2C%20Chile&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Huilo-Huilo+Biological+Reserve"
+    label: "Find Tours on Klook"
 ---
 
 There are treehouse hotels, and then there is Nothofagus. Buried deep inside the Huilo-Huilo Biological Reserve — a privately owned, 100,000-hectare sanctuary in Chile's Los Ríos region — this hotel does not merely perch among the trees. It is woven into them. The ancient Nothofagus (southern beech) trees that give the hotel its name are not backdrop; they are structural partners, their massive trunks rising through floors and ceilings of the rooms themselves.

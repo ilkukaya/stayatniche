@@ -34,6 +34,13 @@ coordinates:
   lat: -51.0000
   lng: -72.9667
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Torres%20del%20Paine%2C%20Magallanes%20Region%2C%20Chile&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Torres+del+Paine,+Magallanes+Region"
+    label: "Find Tours on Klook"
 ---
 
 Few buildings in the world command a more dramatic natural setting than Tierra Patagonia. The lodge sits on the shore of Lake Sarmiento in the pre-Andean steppe, at the precise point where the pampas, flat, golden, wind-flattened to the horizon, gives way to the towers and glaciers of Torres del Paine National Park. The granite towers themselves are visible from the lodge, rising 2,800 metres above the plain in a geological formation so vertical, so improbable, that they retain an air of unreality even after days of direct acquaintance.

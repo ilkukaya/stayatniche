@@ -34,6 +34,13 @@ coordinates:
   lat: 65.7333
   lng: 24.5667
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Kemi%2C%20Lapland%2C%20Finland&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Kemi,+Lapland"
+    label: "Find Tours on Klook"
 ---
 
 Every winter in the Finnish coastal city of Kemi, an act of seasonal architecture takes place. Beginning in January, teams of builders and artists construct the SnowCastle of Kemi from the ground up, using snow harvested from the surrounding Gulf of Bothnia. The castle is never the same from one year to the next; its designers create a fresh architectural vision each season, testing the structural and artistic possibilities of the medium, and the result is consistently one of the most singular temporary buildings in the world.

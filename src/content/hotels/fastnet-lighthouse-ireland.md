@@ -65,6 +65,13 @@ status: published
 seo:
   metaTitle: "Fastnet Rock Lighthouse Experience Review, Ireland's Teardrop, County Cork"
   metaDescription: "Visit Ireland's most famous lighthouse, 14 km off the Cork coast. Boat excursions to Fastnet Rock with Atlantic wildlife, maritime history, and the world's most iconic offshore sailing mark. From $180."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Schull%2C%20County%20Cork%2C%20Ireland&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Schull,+County+Cork"
+    label: "Find Tours on Klook"
 ---
 
 Fourteen kilometres off the headlands of west Cork, rising from a bare table of Atlantic rock with no shelter and no surrounding land, Fastnet Lighthouse is one of the most recognisable structures in maritime navigation and offshore sailing. Completed in 1904 after seven years of construction in punishing conditions — Cornish granite blocks were cut onshore, numbered, transported by boat, and fitted by workers living for months on a rock barely large enough to stand on — it remains one of the great engineering achievements of the Victorian lighthouse service.

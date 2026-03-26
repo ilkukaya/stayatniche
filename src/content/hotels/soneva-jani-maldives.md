@@ -34,6 +34,13 @@ coordinates:
   lat: 5.6500
   lng: 73.5333
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Noonu%20Atoll%2C%20Maldives%2C%20Maldives&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Noonu+Atoll,+Maldives"
+    label: "Find Tours on Klook"
 ---
 
 Most ultra-luxury Maldivian resorts compete on the scale of their infinity pools or the refinement of their spa menus. Soneva Jani took a different approach: what would an overwater villa look like if the architecture was built around the specific character of this lagoon and this sky? The answer involves retractable roof panels above the master bedroom, a waterslide connecting the bedroom deck directly to the water, and an outdoor cinema screen suspended over the lagoon. It is, in the most useful sense, a resort that plays.

@@ -34,6 +34,13 @@ coordinates:
   lat: 45.0167
   lng: 6.1167
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Les%20Deux%20Alpes%2C%20Is%C3%A8re%2C%20France&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Les+Deux+Alpes,+Isère"
+    label: "Find Tours on Klook"
 ---
 
 The Snow Eagle's pitch is straightforward: ski an exceptional Alpine domain by day, then sleep in a transparent bubble at 1,650 metres with the Écrins massif overhead. What makes L'Aigle des Neiges work is the location. Les Deux Alpes isn't a novelty resort, it's one of France's serious ski destinations, 225 kilometres of runs plus a glacier that stays open into July, with a vertical drop of more than 2,100 metres.

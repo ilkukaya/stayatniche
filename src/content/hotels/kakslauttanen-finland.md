@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Kakslauttanen Arctic Resort Review, Sleep Under the Northern Lights in Finland"
   metaDescription: "The world's largest glass igloo village in Finnish Lapland. Sleep under the aurora borealis in heated thermal glass igloos at Kakslauttanen Arctic Resort. From $400/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Saariselk%C3%A4%2C%20Finnish%20Lapland%2C%20Finland&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Saariselkä,+Finnish+Lapland"
+    label: "Find Tours on Klook"
 ---
 
 There are places that exist in the collective imagination of travellers long before they are visited, and Kakslauttanen Arctic Resort is emphatically one of them. Sitting at 68 degrees north in the wilderness of Finnish Lapland, this collection of thermal glass igloos has become the definitive answer to the question that haunts every aurora hunter: where is the very best place on Earth to sleep beneath the northern lights?

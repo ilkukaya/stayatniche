@@ -34,6 +34,13 @@ coordinates:
   lat: -12.5500
   lng: -69.0500
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Puerto%20Maldonado%2C%20Madre%20de%20Dios%2C%20Peru&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Puerto+Maldonado,+Madre+de+Dios"
+    label: "Find Tours on Klook"
 ---
 
 The Peruvian Amazon around Puerto Maldonado, specifically the Tambopata National Reserve and its surrounding protected area, is one of the highest-biodiversity ecosystems ever recorded. A single hectare of forest here may contain more species of ant than the entirety of the British Isles contains of all insects combined; a single day's birding can yield 200 species; a night walk reveals a density of amphibian, reptile, and arthropod life that makes the darkness feel inhabited in ways no temperate landscape can approach. Sleeping in the canopy of this forest, at the level where the light penetrates and the most productive layer of the ecosystem concentrates, is an experience measured in species per hour.

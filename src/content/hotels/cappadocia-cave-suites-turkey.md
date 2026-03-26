@@ -34,6 +34,13 @@ coordinates:
   lat: 38.6431
   lng: 34.8289
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=G%C3%B6reme%2C%20Cappadocia%2C%20Turkey&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Göreme,+Cappadocia"
+    label: "Find Tours on Klook"
 ---
 
 Cappadocia Cave Suites sits in the heart of Göreme, tunnelling back into the hillside through a series of vaulted rooms and carved corridors. The suites vary in character: some occupy original Byzantine cave spaces with smoothed tufa walls and barrel-vaulted ceilings; others are cut with more angular precision, finished with Anatolian tiles and kilim cushions that bring warmth to the pale stone. The tufa maintains a natural temperature of around 18°C year-round — genuinely cool in summer, and notably warmer than the outside air in winter.

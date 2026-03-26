@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Attrap'Rêves Review, Bubble Hotel in Provence Near Marseille"
   metaDescription: "Sleep inside transparent bubble domes in the Provençal countryside near Marseille at Attrap'Rêves. France's premier stargazing hotel from $280/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Allauch%2C%20Provence%2C%20France&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Allauch,+Provence"
+    label: "Find Tours on Klook"
 ---
 
 Twenty minutes from Marseille's Vieux-Port and a complete removal from it, Attrap'Rêves sits in the garrigue hills above Allauch — rosemary, native oak, Mediterranean light. Each transparent PVC dome occupies its own patch of Provençal scrubland, screened from its neighbours. You don't see other bubbles. You see the countryside, and at night, the sky.

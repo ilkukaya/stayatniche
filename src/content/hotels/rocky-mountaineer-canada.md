@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Rocky Mountaineer Review, Glass-Dome Rail Journey, Vancouver to Banff, Canada"
   metaDescription: "Rocky Mountaineer's glass-dome GoldLeaf carriages through the Canadian Rockies. Fraser Canyon, Rogers Pass, and Banff National Park, North America's greatest rail journey. From $1,600."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Vancouver%20to%20Banff%20%2F%20Jasper%2C%20Canada&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Vancouver+to+Banff+/+Jasper"
+    label: "Find Tours on Klook"
 ---
 
 The Canadian Pacific Railway was the project that made Canada a country. Completed in 1885, its transcontinental connection, linking the Atlantic settlements of eastern Canada to the Pacific at Vancouver, was the infrastructure achievement that fulfilled the political promise of Confederation and opened the Rocky Mountain West to settlement and commerce. The railway drove through some of the most challenging terrain on the continent, crossing the Fraser Canyon on ledges blasted from sheer rock and climbing over Rogers Pass through the Selkirk Mountains in conditions that killed dozens of Chinese labourers whose contribution to the nation-building project was long obscured.

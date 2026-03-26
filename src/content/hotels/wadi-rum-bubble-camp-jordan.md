@@ -34,6 +34,13 @@ coordinates:
   lat: 29.5833
   lng: 35.4167
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Wadi%20Rum%2C%20Aqaba%20Governorate%2C%20Jordan&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Wadi+Rum,+Aqaba+Governorate"
+    label: "Find Tours on Klook"
 ---
 
 Wadi Rum is 720 square kilometres of rose-red sandstone massifs, sweeping dune fields, and silence that registers as a physical presence. T. E. Lawrence wrote about it with barely concealed reverence; astronauts have compared its terrain to Mars. The Nabataeans called it the Valley of the Moon. Sleeping here inside a transparent bubble tent — cliffs on every side, sky unobstructed overhead — gives the landscape an intimacy that day visits never achieve.

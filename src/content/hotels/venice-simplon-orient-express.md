@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Venice Simplon-Orient-Express Review, The World's Most Famous Train, Europe"
   metaDescription: "Travel aboard the legendary Venice Simplon-Orient-Express in original 1920s Pullman carriages. London to Venice through the Swiss Alps. The ultimate European luxury train journey. From $3,000."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=London%20to%20Venice%20%28and%20beyond%29%2C%20Multiple&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=London+to+Venice+(and+beyond)"
+    label: "Find Tours on Klook"
 ---
 
 Somewhere in the Swiss Alps, in the late afternoon, the Venice Simplon-Orient-Express curves around a long bend and the train's full length becomes visible through the window: a procession of cream and navy carriages against mountains and an improbably blue sky. At that point it stops feeling like transport. This is travel as an act in itself, not a means to an end, but the destination.

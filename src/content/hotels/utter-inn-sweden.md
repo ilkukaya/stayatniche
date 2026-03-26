@@ -82,6 +82,13 @@ publishedDate: 2025-02-20
 seo:
   metaTitle: "Utter Inn Review, The World's First Underwater Hotel Room, Lake Mälaren, Sweden"
   metaDescription: "Sleep 3 meters below Lake Mälaren in the world's original underwater hotel room. Utter Inn, a tiny red Swedish cottage with a submerged bedroom, is a genuine art icon."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=V%C3%A4ster%C3%A5s%2C%20Sweden&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Västerås"
+    label: "Find Tours on Klook"
 ---
 
 In 2000, a Swedish artist named Mikael Genberg moored a red wooden cottage on Lake Mälaren and lowered a bedroom into the water beneath it. It was, at the time, a provocation as much as a project — a challenge to the idea of what a hotel could be, and where human habitation could reasonably extend. Twenty-five years later, the Utter Inn (which translates roughly as "The Otter Inn") remains one of the most discussed hotel concepts ever created.

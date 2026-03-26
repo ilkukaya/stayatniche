@@ -65,6 +65,13 @@ status: published
 seo:
   metaTitle: "Nubble Lighthouse Inn Review, Cape Neddick Light, York Beach, Maine"
   metaDescription: "Stay with views of America's most photographed lighthouse at York Beach, Maine. Lobster, New England charm, and classic coastal atmosphere on the southern Maine coast. From $180/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=York%2C%20Maine%2C%20USA&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=York,+Maine"
+    label: "Find Tours on Klook"
 ---
 
 Cape Neddick Light was built in 1879 on a small granite island called The Nubble, separated from the York Beach mainland by a narrow tidal channel. The white tower, the red-roofed keeper's house, the American flag, and the rocks below have appeared on postcards, calendars, and paintings in their hundreds of thousands. NASA included an image of the lighthouse on the Voyager spacecraft's Golden Record as a representative example of human civilisation — an unlikely distinction, but a genuine one.

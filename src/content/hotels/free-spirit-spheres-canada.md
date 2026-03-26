@@ -81,6 +81,13 @@ publishedDate: 2025-01-20
 seo:
   metaTitle: "Free Spirit Spheres Review, Suspended Sphere Treehouses on Vancouver Island, Canada"
   metaDescription: "Sleep inside handcrafted suspended wooden spheres in old-growth forest on Vancouver Island. Free Spirit Spheres is a unmissable treehouse experience unlike any other."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Vancouver%20Island%2C%20Canada&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Vancouver+Island"
+    label: "Find Tours on Klook"
 ---
 
 Somewhere between a boat, a nest, and a planet, the Free Spirit Spheres occupy a category of their own. Suspended from the trunks of ancient Douglas firs and western red cedars by a web of rigging ropes, these three handcrafted wooden orbs — Eve, Eryn, and Melody — sway in the breeze of Vancouver Island's old-growth forest. There is nothing else quite like them.

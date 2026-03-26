@@ -65,6 +65,13 @@ status: published
 seo:
   metaTitle: "Portland Bill Lighthouse Cottage Review, Jurassic Coast, Dorset, England"
   metaDescription: "Stay in the keeper's cottage at Portland Bill's iconic striped lighthouse on the Jurassic Coast. Birdwatching, fossil hunting, and dramatic coastal scenery in Dorset. From $150/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Portland%2C%20Dorset%2C%20England&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Portland,+Dorset"
+    label: "Find Tours on Klook"
 ---
 
 The Isle of Portland pushes south from the Dorset coast like a clenched fist: a four-mile limestone plateau connected to the mainland by Chesil Beach and rising to the Bill, where the Channel's tides create one of the most violent tidal races in European waters. The Portland Race is visible from the lighthouse as a confused, tumbling line of white water even in calm conditions. It has wrecked ships for centuries, and it was to warn mariners of it that the first lighthouse was built here in 1716.

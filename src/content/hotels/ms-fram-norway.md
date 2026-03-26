@@ -34,6 +34,13 @@ coordinates:
   lat: 78.2200
   lng: 15.6500
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Svalbard%20%26%20Norwegian%20Arctic%2C%20Norway&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Svalbard+&+Norwegian+Arctic"
+    label: "Find Tours on Klook"
 ---
 
 The original Fram — Fridtjof Nansen's vessel, later used by Roald Amundsen on his Antarctic expedition — went further north than any ship in recorded history and further south than any wooden vessel before or since. It now sits in its own museum in Oslo, preserved as a national monument. Hurtigruten's MS Fram, the contemporary expedition ship that carries its name, takes travellers into the same Arctic and Antarctic waters with a level of commitment to actual exploration that most cruise operators cannot approach.

@@ -84,6 +84,13 @@ publishedDate: 2025-01-18
 seo:
   metaTitle: "Dromoland Castle Review, Five-Star Castle Hotel in County Clare, Ireland"
   metaDescription: "The ancestral home of the O'Brien dynasty, now Ireland's most storied luxury castle hotel. Championship golf, falconry, and a Michelin-recommended restaurant on 450 acres of County Clare."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Newmarket-on-Fergus%2C%20County%20Clare%2C%20Ireland&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Newmarket-on-Fergus,+County+Clare"
+    label: "Find Tours on Klook"
 ---
 
 The O'Brien family line does not require invention. The clan who built a castle on the shores of Dromoland Lake in County Clare in the 16th century were the direct descendants of Brian Boru, the High King who unified the Irish kingdoms and died at the Battle of Clontarf in 1014. That is not marketing copy — it is a documented genealogy stretching over a thousand years, and it shows in the way the castle carries itself. There is no straining for significance here. The stone towers, the lake, the formal gardens, and the 450-acre parkland all have the settled authority of a place that has never needed to announce what it is.

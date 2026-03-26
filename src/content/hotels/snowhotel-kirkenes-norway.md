@@ -34,6 +34,13 @@ coordinates:
   lat: 69.7272
   lng: 30.0452
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Kirkenes%2C%20Finnmark%2C%20Norway&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Kirkenes,+Finnmark"
+    label: "Find Tours on Klook"
 ---
 
 Kirkenes sits at the very edge of Norway, a small port city on the Varangerfjord close to the Russian and Finnish borders, a location that gives it a frontier quality unique in Scandinavia. The light here is extreme in both directions: polar night from late November to late January brings weeks of total darkness, while the midnight sun of June and July never fully sets. It is, in other words, exactly the kind of place where an ice hotel makes complete contextual sense, and the Snowhotel Kirkenes has made the most of its remarkable location since opening in 2006.

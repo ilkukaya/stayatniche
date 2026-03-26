@@ -81,6 +81,13 @@ publishedDate: 2025-02-18
 seo:
   metaTitle: "Desert Cave Hotel Review, Underground Hotel in Coober Pedy, South Australia"
   metaDescription: "Sleep underground in opal-bearing sandstone at the Desert Cave Hotel in Coober Pedy, Australia's most surreal outback town. Natural 23°C temperature year-round."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Coober%20Pedy%2C%20Australia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Coober+Pedy"
+    label: "Find Tours on Klook"
 ---
 
 Driving north through the South Australian outback, Coober Pedy appears on the horizon as a field of mounds, pipes, and rubble with no trees anywhere. The ground is pockmarked with thousands of mine shafts. From a distance it looks like a landscape that has been industrially excavated and then largely abandoned — which is, in a sense, accurate. The town was built on opal mining, and the opal mining shaped everything about it, including the fact that most of the 2,000 residents live underground in homes called dugouts. When surface temperatures regularly exceed 50°C in summer, the logic is hard to argue with. The Aboriginal name for the area is *kupa piti*: white man in a hole.

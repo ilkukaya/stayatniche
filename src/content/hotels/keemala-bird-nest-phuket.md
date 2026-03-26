@@ -34,6 +34,13 @@ coordinates:
   lat: 7.9508
   lng: 98.2817
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Kamala%2C%20Phuket%2C%20Thailand&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Kamala,+Phuket"
+    label: "Find Tours on Klook"
 ---
 
 Keemala occupies a hillside above the relatively quiet Kamala Beach on Phuket's west coast, and from arrival it is clear that the resort operates with a fully developed conceptual identity. The property is built around the mythology of four ancient Thai forest clans, each with a distinct relationship to the natural world, each represented by a different category of villa. The Bird's Nest Pool Villas, the most architecturally distinctive of the four, draw on the Pa-Hin clan's relationship with flight and nesting. The result is spherical and ovoid structures perched on angled timber poles above a jungle ravine, their rounded forms suggesting an enormous nest seen from below.

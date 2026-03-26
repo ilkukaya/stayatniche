@@ -34,6 +34,13 @@ coordinates:
   lat: 66.0833
   lng: 21.0000
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Harads%2C%20Swedish%20Lapland%2C%20Sweden&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Harads,+Swedish+Lapland"
+    label: "Find Tours on Klook"
 ---
 
 Arctic Bath sits on the Lule River at 66 degrees north, and the design is the entire point. Architects Bertil Harström and Johan Kauppi built the hotel as a wooden ring, curved driftwood walls encircling a central pool open to the sky year-round. In winter, when the river freezes and the temperature drops to -25°C, that pool becomes an ice bath. In summer, when the midnight sun circles overhead, it's a wild swimming pool in the middle of a boreal river.

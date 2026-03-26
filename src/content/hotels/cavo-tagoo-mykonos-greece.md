@@ -34,6 +34,13 @@ coordinates:
   lat: 37.4500
   lng: 25.3290
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Mykonos%20Town%2C%20Mykonos%2C%20Greece&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Mykonos+Town,+Mykonos"
+    label: "Find Tours on Klook"
 ---
 
 Mykonos has no shortage of luxury hotels, but Cavo Tagoo occupies a category largely its own. Sitting on a volcanic cliff above the old harbour of Mykonos Town, the Chora's whitewashed maze spreading below and the Aegean pushing to the horizon, it was among the first hotels in Greece to understand that Cycladic architecture — the pure white geometry, the cave-cut rooms, the absence of unnecessary ornament — was not a vernacular limitation to be overcome but a design language of real power.

@@ -57,6 +57,13 @@ publishedDate: 2025-01-22
 seo:
   metaTitle: "Floating Seahorse Dubai, Underwater Villa on The World Islands | StayAtNiche"
   metaDescription: "Sleep 3 metres below the Arabian Gulf in Dubai's extraordinary Floating Seahorse villas, semi-submerged luxury on private artificial islands with rooftop sundeck."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=The%20World%20Islands%2C%20Dubai%2C%20UAE&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=The+World+Islands,+Dubai"
+    label: "Find Tours on Klook"
 ---
 
 Dubai has never done restraint particularly well, and The Floating Seahorse is entirely in keeping with that tradition. These semi-submerged villas sit on The World Islands — an artificial archipelago in the shape of a world map — and descend three metres below the surface of the Arabian Gulf.

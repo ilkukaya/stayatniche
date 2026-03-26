@@ -83,6 +83,13 @@ publishedDate: 2025-01-10
 seo:
   metaTitle: "The Manta Resort Underwater Room Review, Sleep Under the Indian Ocean, Pemba Island"
   metaDescription: "The world's most extraordinary sleep: a submerged underwater bedroom 4 meters below the Indian Ocean off remote Pemba Island, Tanzania. Watch reef fish through floor-to-ceiling windows all night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Pemba%20Island%2C%20Tanzania&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Pemba+Island"
+    label: "Find Tours on Klook"
 ---
 
 Four metres below the surface of the Indian Ocean, with the reef life of Pemba Channel drifting past the windows in the dark, conventional hotel categories stop being useful. The Manta Resort's Underwater Room is something separate: a submerged bedroom off one of the least-visited islands in the Western Indian Ocean, where the fish are considerably more curious about you than you are about them.

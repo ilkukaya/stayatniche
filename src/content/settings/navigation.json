@@ -7,35 +7,42 @@
   ],
   "footerColumns": [
     {
-      "title": "Explore",
+      "title": "Niche Categories",
       "links": [
         { "label": "All Categories", "url": "/categories" },
         { "label": "Treehouse Hotels", "url": "/categories/treehouse-hotels" },
         { "label": "Cave Hotels", "url": "/categories/cave-hotels" },
         { "label": "Castle Hotels", "url": "/categories/castle-hotels" },
         { "label": "Underwater Rooms", "url": "/categories/underwater-rooms" },
+        { "label": "Safari Lodges", "url": "/categories/safari-lodges" },
+        { "label": "Overwater Bungalows", "url": "/categories/overwater-bungalows" },
         { "label": "Bubble Hotels", "url": "/categories/bubble-hotels" },
-        { "label": "Overwater Bungalows", "url": "/categories/overwater-bungalows" }
+        { "label": "Desert Camps", "url": "/categories/desert-camps" },
+        { "label": "Ice Hotels", "url": "/categories/ice-hotels" }
       ]
     },
     {
-      "title": "Destinations",
+      "title": "Top Destinations",
       "links": [
         { "label": "All Destinations", "url": "/destinations" },
-        { "label": "Europe", "url": "/destinations?continent=europe" },
-        { "label": "Asia", "url": "/destinations?continent=asia" },
-        { "label": "Africa", "url": "/destinations?continent=africa" },
-        { "label": "Americas", "url": "/destinations?continent=north-america" },
-        { "label": "Oceania", "url": "/destinations?continent=oceania" }
+        { "label": "Maldives", "url": "/destinations/maldives" },
+        { "label": "Cappadocia, Turkey", "url": "/destinations/cappadocia" },
+        { "label": "Bali, Indonesia", "url": "/destinations/bali-indonesia" },
+        { "label": "Iceland", "url": "/destinations/iceland" },
+        { "label": "Kenya", "url": "/destinations/kenya" },
+        { "label": "Patagonia", "url": "/destinations/patagonia" },
+        { "label": "Japan", "url": "/destinations/japan-kyoto" },
+        { "label": "Morocco", "url": "/destinations/morocco-atlas" }
       ]
     },
     {
-      "title": "Company",
+      "title": "Travel Resources",
       "links": [
-        { "label": "About Us", "url": "/about" },
-        { "label": "Contact", "url": "/contact" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Travel Blog", "url": "/blog" },
         { "label": "Experiences", "url": "/experiences" },
+        { "label": "About StayAtNiche", "url": "/about" },
+        { "label": "Contact Us", "url": "/contact" },
+        { "label": "Newsletter", "url": "/newsletter" },
         { "label": "Privacy Policy", "url": "/privacy" },
         { "label": "Affiliate Disclosure", "url": "/disclosure" }
       ]

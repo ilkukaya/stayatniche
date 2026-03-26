@@ -34,6 +34,13 @@ coordinates:
   lat: 8.3833
   lng: -83.4167
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Osa%20Peninsula%2C%20Puntarenas%2C%20Costa%20Rica&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Osa+Peninsula,+Puntarenas"
+    label: "Find Tours on Klook"
 ---
 
 The Osa Peninsula sits at the extreme end of Costa Rica's considerable wilderness spectrum. Jutting into the Pacific from the country's southern coast, covered almost entirely in primary and secondary rainforest, and accessible only by small aircraft or a long road journey involving at minimum one river crossing, it holds more than half of Costa Rica's vertebrate species, in a country that itself contains five percent of the world's total biodiversity. National Geographic has called it the most biologically intense place on Earth, and the description holds up.

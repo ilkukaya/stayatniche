@@ -67,6 +67,13 @@ status: published
 seo:
   metaTitle: "Londolozi Varty Camp Review, World's Best Leopard Sightings, Sabi Sand, South Africa"
   metaDescription: "Londolozi Varty Camp in the Sabi Sand, where the luxury safari was invented and the world's finest leopard sightings are found. Five generations of habituated leopard families. From $1,200/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Sabi%20Sand%20Game%20Reserve%2C%20Mpumalanga%2C%20South%20Africa&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Sabi+Sand+Game+Reserve,+Mpumalanga"
+    label: "Find Tours on Klook"
 ---
 
 Every luxury safari operation in Africa today owes something to Londolozi. When Dave and John Varty began inviting guests to their family's game farm on the Sand River in the 1970s, they were building a template for an industry that didn't yet exist, one that combined genuine wilderness immersion with comfort and service levels previously associated only with city hotels. What they found, almost by accident, was that the two things reinforced each other: better conditions brought guests who could engage more deeply with the land, and the land, particularly its leopards, had more to offer than anyone had imagined.

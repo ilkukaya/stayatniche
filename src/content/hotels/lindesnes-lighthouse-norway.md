@@ -65,6 +65,13 @@ status: published
 seo:
   metaTitle: "Lindesnes Lighthouse Hotel Review, Norway's Southernmost Hotel, Vest-Agder"
   metaDescription: "Stay at Norway's oldest lighthouse at the southern tip of the mainland. Rock-carved rooms, Nordic seafood dining, and dramatic North Sea storms. From $350/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Lindesnes%2C%20Vest-Agder%2C%20Norway&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Lindesnes,+Vest-Agder"
+    label: "Find Tours on Klook"
 ---
 
 Lindesnes has marked the southernmost point of the Norwegian mainland since 1656, when the country's first lighthouse was lit on this exposed rocky promontory at the confluence of the Skagerrak and the North Sea. Nearly four centuries of maritime history are embedded in the stone here — in the weathered keeper's buildings, in the powerful character of a headland that has endured everything from summer calms to the ferocious winter storms that made this cape one of the most feared passages for sailing vessels on the Norwegian coast.

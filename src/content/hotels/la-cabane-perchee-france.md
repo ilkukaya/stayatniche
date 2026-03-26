@@ -83,6 +83,13 @@ publishedDate: 2025-01-15
 seo:
   metaTitle: "La Cabane Perchée Review, Luxury Treehouses in the Dordogne, France"
   metaDescription: "Glass floors, private hot tubs, and champagne breakfasts in the treetops of medieval Dordogne Valley. La Cabane Perchée is Europe's most romantic treehouse hotel."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Dordogne%20Valley%2C%20France&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Dordogne+Valley"
+    label: "Find Tours on Klook"
 ---
 
 The Dordogne already knows how to make an impression. Limestone cliffs rising from the river, medieval châteaux above fortified villages, markets stacked with foie gras, walnut oil, and truffles. La Cabane Perchée adds something the valley did not know it needed: a collection of elevated wooden cabins, each distinct, that let guests experience this ancient landscape from eight metres in the air.

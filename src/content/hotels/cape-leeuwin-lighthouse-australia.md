@@ -65,6 +65,13 @@ status: published
 seo:
   metaTitle: "Cape Leeuwin Lighthouse Cottages Review, Where Two Oceans Meet, Western Australia"
   metaDescription: "Stay in the historic keeper's cottages at Cape Leeuwin, where the Indian and Southern Oceans collide at Australia's southwestern tip. Whale watching, lighthouse climbs, and wild coastal scenery. From $280/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Augusta%2C%20Western%20Australia%2C%20Australia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Augusta,+Western+Australia"
+    label: "Find Tours on Klook"
 ---
 
 Cape Leeuwin is the southwestern tip of Australia — the precise point where the Indian and Southern Oceans meet in a perpetual crossing of swells and spray. The lighthouse has been operational since 1895, 39 metres of locally quarried limestone, Australia's tallest mainland lighthouse, its beam still tracking both ocean surfaces each night. The waters below are a historic maritime graveyard. Staying in the restored keeper's cottages at its base puts you at one of the most geographically decisive addresses on the continent.

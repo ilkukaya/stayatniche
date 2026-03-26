@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "&Beyond Phinda Review, Seven Ecosystems, KwaZulu-Natal, South Africa"
   metaDescription: "&Beyond Phinda Private Game Reserve in KwaZulu-Natal offers exceptional Big Five game viewing across seven habitats. Cheetah, sand forest, and bush-and-beach combinations. From $900/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=KwaZulu-Natal%2C%20South%20Africa&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=KwaZulu-Natal"
+    label: "Find Tours on Klook"
 ---
 
 In the late 1980s, Phinda was exhausted farmland, overgrazed, wildlife-depleted, economically marginal. &Beyond acquired it in 1990 and ran one of Africa's more ambitious private wildlife restoration programmes: fences out, land rested, animals reintroduced in careful sequence. The result is a reserve that now supports all of the Big Five, reliable cheetah sightings, the continent's only sand forest ecosystem, and populations that have recovered beyond what anyone projected in 1990.

@@ -34,6 +34,13 @@ coordinates:
   lat: 51.2167
   lng: 4.7167
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Pulderbos%2C%20Antwerp%20Province%2C%20Belgium&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Pulderbos,+Antwerp+Province"
+    label: "Find Tours on Klook"
 ---
 
 The Bubble Hotel sits in a private nature reserve near the village of Pulderbos in Antwerp Province — close enough to the city for a weekend escape, far enough that the surrounding woodland feels genuine. Each transparent dome occupies its own forest clearing, well separated from its neighbours, so the privacy holds.

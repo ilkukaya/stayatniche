@@ -34,6 +34,13 @@ coordinates:
   lat: 36.6333
   lng: -5.2500
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Benalaur%C3%ADa%2C%20M%C3%A1laga%2C%20Andalusia%2C%20Spain&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Benalauría,+Málaga,+Andalusia"
+    label: "Find Tours on Klook"
 ---
 
 In the white hill villages of the Serranía de Ronda, where Andalusia folds into a landscape of limestone gorges and ancient footpaths, the tradition of living in caves carved from soft local rock stretches back through the Moorish period and beyond. Cuevas Al Jatib — the name draws on the Arabic heritage of the village of Benalauría — has made this tradition its central proposition, restoring a cluster of historic cave dwellings into some of the most characterful accommodation in southern Spain.

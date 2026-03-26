@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Jao Camp Review, Okavango Delta's Finest Private Concession, Botswana"
   metaDescription: "Wilderness Safaris' Jao Camp in the Okavango Delta. Exceptional water and land safaris, treehouse suites, and one of Africa's most biodiverse private concessions. From $1,500/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Jao%20Concession%2C%20Okavango%20Delta%2C%20Botswana&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Jao+Concession,+Okavango+Delta"
+    label: "Find Tours on Klook"
 ---
 
 The Okavango Delta is one of the natural world's most singular creations: a river that flows from the mountains of Angola and empties not into the sea but into the flat, sand-filled interior of the Kalahari, spreading across 15,000 square kilometres of Botswana in a system of channels, lagoons, floodplains, and islands that supports some of Africa's most concentrated wildlife. The water that falls as rain in Angola months earlier arrives in the Delta as an annual pulse of life, the flood that fills the channels and transforms the landscape from semi-arid savanna to a glittering inland sea.

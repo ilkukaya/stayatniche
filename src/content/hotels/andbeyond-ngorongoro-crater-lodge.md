@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "&Beyond Ngorongoro Crater Lodge Review, Africa's Most Dramatic Safari Address, Tanzania"
   metaDescription: "&Beyond's theatrical lodge on the rim of the world's largest volcanic caldera. All Big Five year-round on the crater floor, butler service, and panoramic views. From $1,400/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Ngorongoro%20Conservation%20Area%2C%20Tanzania&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Ngorongoro+Conservation+Area"
+    label: "Find Tours on Klook"
 ---
 
 The Ngorongoro Crater is a 20-kilometre-wide volcanic caldera, 600 metres deep, whose walls have kept 25,000 large mammals in permanent residence for thousands of years. The crater floor supports the highest density of lion in Africa and one of the continent's last viable black rhino populations. Descending the rim road into the mist on a cold highland morning, with the crater floor appearing below through the cloud, is a sight that holds its power no matter how many times you've seen the photographs.

@@ -36,6 +36,13 @@ coordinates:
   lat: 53.5427
   lng: -9.3009
 featured: true
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Cong%2C%20County%20Mayo%2C%20Ireland&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Cong,+County+Mayo"
+    label: "Find Tours on Klook"
 ---
 
 Ashford Castle has been around since 1228, when the Anglo-Norman de Burgo family built the original tower on the shores of Lough Corrib. The Guinness family expanded it significantly in the 19th century, and the result is 350 acres of Irish estate with a castle at its centre that is unambiguously the real thing: not a Victorian folly, not a hotel that happens to have a turret.

@@ -34,6 +34,13 @@ coordinates:
   lat: 25.0833
   lng: -77.3167
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Paradise%20Island%2C%20Nassau%2C%20Bahamas&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Paradise+Island,+Nassau"
+    label: "Find Tours on Klook"
 ---
 
 Atlantis Paradise Island is not a hotel that happens to have amenities. It's a destination complex that happens to have rooms, 11 hotels, 40+ restaurants, a casino, a waterpark, and the element that genuinely distinguishes it from other Caribbean mega-resorts: The Dig, an 11-million-litre marine habitat system woven through the resort's corridors and suites.

@@ -34,6 +34,13 @@ coordinates:
   lat: 48.8390
   lng: 2.3678
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Paris%2C%20%C3%8Ele-de-France%2C%20France&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Paris,+Île-de-France"
+    label: "Find Tours on Klook"
 ---
 
 OFF Paris Seine is moored on the quay between the fifth and thirteenth arrondissements, with the buttresses of Notre-Dame visible upstream and the towers of the Bibliothèque Nationale downstream. The view it offers — Paris from river level, looking outward at the city's stone banks — is genuinely unlike what the grand addresses of the Right Bank or the boutique hotels of Saint-Germain can provide. It is the perspective most Parisians only encounter from a moving bateau-mouche, and here it is stationary, available from the bed.

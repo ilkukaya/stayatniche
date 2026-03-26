@@ -34,6 +34,13 @@ coordinates:
   lat: 40.6664
   lng: 16.6094
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Matera%2C%20Basilicata%2C%20Italy&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Matera,+Basilicata"
+    label: "Find Tours on Klook"
 ---
 
 Matera's sassi have been occupied for at least nine thousand years. The cave dwellings cut into the two ravines flanking the city's ridgeline — the Sasso Caveoso and the Sasso Barisano — represent one of the longest unbroken records of human habitation anywhere on earth. In the 1950s, the Italian government found the situation unacceptable: families sharing their cave homes with livestock, no running water, no electricity. The forced evacuation emptied the sassi within a decade. They sat abandoned for thirty years before UNESCO recognition and a gradual reassessment of what exactly had been so hastily abandoned.

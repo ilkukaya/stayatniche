@@ -36,6 +36,13 @@ coordinates:
   lat: 3.6282
   lng: 72.7847
 featured: true
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Rangali%20Island%2C%20Maldives&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Rangali+Island"
+    label: "Find Tours on Klook"
 ---
 
 Muraka, meaning "coral" in Dhivehi, is the singular most extraordinary hotel room on the planet. Launched in 2019 after five years of development, it required engineering solutions that had never been attempted in hospitality before.

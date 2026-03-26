@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
+import AffiliateBookingBox from '../../components/AffiliateBookingBox.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -183,9 +184,17 @@ const destJsonLd = {
           </div>
         )}
 
-        <div class="bg-forest-50 border border-forest-100 rounded-2xl p-6">
-          <h3 class="font-display text-base font-bold text-warm-950 mb-3">Find Hotels Here</h3>
-          <p class="font-body text-warm-600 text-sm mb-4">Browse extraordinary stays in {dest.data.name}</p>
+        <!-- Multi-partner booking box -->
+        <AffiliateBookingBox
+          destination={dest.data.name}
+          country={dest.data.country || dest.data.name}
+          type="destination"
+        />
+
+        <!-- Browse stays CTA -->
+        <div class="bg-forest-50 border border-forest-100 rounded-2xl p-5">
+          <h3 class="font-display text-base font-bold text-warm-950 mb-2">Extraordinary Stays</h3>
+          <p class="font-body text-warm-600 text-sm mb-3">Browse hand-picked niche hotels in {dest.data.name}.</p>
           <a href="/categories" class="block w-full text-center bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-4 py-3 rounded-full transition-colors">
             Browse All Categories
           </a>

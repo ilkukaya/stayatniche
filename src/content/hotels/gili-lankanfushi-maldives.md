@@ -34,6 +34,13 @@ coordinates:
   lat: 4.2833
   lng: 73.5333
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=North%20Mal%C3%A9%20Atoll%2C%20Maldives%2C%20Maldives&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=North+Malé+Atoll,+Maldives"
+    label: "Find Tours on Klook"
 ---
 
 More than a hundred exceptional resorts are strung across a thousand Maldivian islands, and Gili Lankanfushi occupies a clear position at the top of that field — earned through accommodation, service, and a sustainability commitment that runs considerably deeper than the obligatory green credentials most resorts display for marketing purposes.

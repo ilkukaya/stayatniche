@@ -34,6 +34,13 @@ coordinates:
   lat: 5.1667
   lng: 73.0000
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Baa%20Atoll%2C%20Maldives%2C%20Maldives&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Baa+Atoll,+Maldives"
+    label: "Find Tours on Klook"
 ---
 
 What separates Landaa Giraavaru from the rest of the Maldives' overwater villa field is not the quality of its accommodation, considerable as that is, but where it sits and what it takes seriously. Baa Atoll holds UNESCO Biosphere Reserve status and contains some of the richest marine environments in the Indian Ocean. Hanifaru Bay, a short boat ride from the resort, is the site of the world's largest known manta ray feeding aggregations: hundreds of reef mantas arrive between June and November to feed in circular formations that have no equivalent anywhere else on the planet. Watching it from a snorkel mask is among the more disorienting wildlife experiences available.

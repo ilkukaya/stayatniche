@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Amangiri Review, The Greatest Desert Resort in America, Utah"
   metaDescription: "Aman's masterpiece desert resort built into the canyon landscape of southern Utah. Amangiri offers extraordinary architecture, unrivalled service, and direct access to the American Southwest. From $2,000/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Canyon%20Point%2C%20Utah%2C%20USA&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Canyon+Point,+Utah"
+    label: "Find Tours on Klook"
 ---
 
 Amangiri is probably the finest desert hotel in North America. The architecture alone justifies the flight to Utah. Architect Marwan Al-Sayed designed the entire resort around an ancient sandstone mesa, an outcropping of Navajo sandstone sitting at the building's core, and the result is a long, low complex of poured concrete and desert stone that doesn't compete with the landscape, it simply becomes part of it.

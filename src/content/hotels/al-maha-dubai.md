@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Al Maha Desert Resort Review, Private Pool Suites and Arabian Oryx Near Dubai"
   metaDescription: "A Bedouin-inspired luxury desert resort in Dubai's protected nature reserve. Private infinity pools, wild oryx, and falconry. Al Maha Desert Resort from $900/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Dubai%20Desert%20Conservation%20Reserve%2C%20UAE&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Dubai+Desert+Conservation+Reserve"
+    label: "Find Tours on Klook"
 ---
 
 The Arabian oryx was declared extinct in the wild in 1972. The Dubai Desert Conservation Reserve, the 225-square-kilometre protected area that surrounds Al Maha, is one of the places that brought it back. There are now over 500 animals roaming the reserve, and on any given morning, several of them will be grazing within clear sight of your private infinity pool. That is not a staged encounter. It is simply what happens when you build a hotel inside a functioning wildlife sanctuary and then protect it properly.

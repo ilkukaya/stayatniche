@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "BubbleTent Australia Review, Stargazing Bubble Hotel in Hunter Valley"
   metaDescription: "Sleep under the Southern Cross in transparent bubble tents in Australia's Hunter Valley wine region. BubbleTent Australia offers unforgettable stargazing stays from $320/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Hunter%20Valley%2C%20New%20South%20Wales%2C%20Australia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Hunter+Valley,+New+South+Wales"
+    label: "Find Tours on Klook"
 ---
 
 For visitors from the Northern Hemisphere, the southern sky is a genuine surprise. Familiar constellations sit at wrong angles, new stars appear where none should be, and the Milky Way is dense enough on a clear moonless night to cast a faint shadow. BubbleTent Australia exists for the straightforward purpose of letting you experience that sky from a comfortable bed.

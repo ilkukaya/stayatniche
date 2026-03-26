@@ -82,6 +82,13 @@ publishedDate: 2025-01-22
 seo:
   metaTitle: "Sextantio Le Grotte della Civita Review, Cave Hotel in Matera, Italy"
   metaDescription: "Sleep in ancient sassi cave dwellings in Matera, Italy's 9,000-year-old UNESCO city. Sextantio Le Grotte della Civita is one of the world's most extraordinary boutique hotels."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Matera%2C%20Italy&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Matera"
+    label: "Find Tours on Klook"
 ---
 
 In 1952, Italian Prime Minister Alcide De Gasperi stood in Matera and called it *la vergogna d'Italia*: the shame of Italy. The people living in the sassi — the cave dwellings cut into the ravines of this Basilicata hilltown — had no running water, no electricity, and shared their spaces with their animals. The government forcibly relocated them within a decade. The caves sat empty for thirty years.

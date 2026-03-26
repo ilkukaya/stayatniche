@@ -82,6 +82,13 @@ publishedDate: 2025-02-05
 seo:
   metaTitle: "Chole Mjini Lodge Review, Treehouse Lodge in Mafia Island Ruins, Tanzania"
   metaDescription: "Sleep in treehouses built within 19th-century Arab trading post ruins on Chole Island, Tanzania. Community-owned eco-lodge with exceptional diving in Mafia Island Marine Park."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Chole%20Island%2C%20Tanzania&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Chole+Island"
+    label: "Find Tours on Klook"
 ---
 
 Chole Island holds its secrets quietly. From the water, it appears as a dense tangle of baobab trees and mangroves rising from the Indian Ocean, one of dozens of small islands scattered within the Mafia Island Marine Park. But step ashore and walk into the forest, and the ruins find you: great coral stone walls, collapsed archways, and roofless rooms smothered in fig trees and dense vegetation. These are the remains of a 19th-century Arab trading post, once one of the most prosperous settlements on Tanzania's Swahili Coast, now slowly being reclaimed by the island's vegetation.

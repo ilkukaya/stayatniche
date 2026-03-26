@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Skylodge Peru Review, Sleep 400m Above the Sacred Valley in a Hanging Pod"
   metaDescription: "The world's most daring hotel: transparent pods suspended 400 metres above the Sacred Valley. Reach them by via ferrata or zip line. Skylodge Adventure Suites from $450/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Sacred%20Valley%2C%20Cusco%20Region%2C%20Peru&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Sacred+Valley,+Cusco+Region"
+    label: "Find Tours on Klook"
 ---
 
 Roughly two-thirds of the way up the via ferrata carved into the red granite face of Pachar mountain, the Sacred Valley of the Incas unfolds in its full width. The Urubamba River is a silver thread far below; the terraced fields of Ollantaytambo glow green against ochre earth; the snowcapped Andes line every horizon. Most climbers pause here — not from exhaustion, but because the view stops them cold.

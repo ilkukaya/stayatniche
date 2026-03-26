@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "The Ghan Review, Adelaide to Darwin, Australia's Greatest Rail Journey"
   metaDescription: "The Ghan crosses 2,979 km of Australia from Adelaide to Darwin through the Red Centre. Platinum cabin service, Alice Springs, and Katherine Gorge. From $1,200."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Adelaide%20to%20Darwin%20%28and%20return%29%2C%20Australia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Adelaide+to+Darwin+(and+return)"
+    label: "Find Tours on Klook"
 ---
 
 The Ghan crosses Australia from south to north: 2,979 kilometres in 54 hours, from Adelaide on the Southern Ocean to Darwin on the Timor Sea, through landscapes of the Red Centre that were ancient when humans first arrived on this continent 50,000 years ago. No other journey makes the scale of the Australian interior as viscerally clear.

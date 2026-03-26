@@ -82,6 +82,13 @@ publishedDate: 2025-01-28
 seo:
   metaTitle: "Hapuku Lodge & Tree Houses Review, Luxury Treehouses in Kaikōura, New Zealand"
   metaDescription: "Perched 8 meters above native manuka with views of the Kaikōura Ranges and the Pacific, Hapuku Lodge offers New Zealand's most spectacular luxury treehouse experience."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Kaik%C5%8Dura%2C%20New%20Zealand&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Kaikōura"
+    label: "Find Tours on Klook"
 ---
 
 The view from the deck of a Hapuku tree house is almost unfairly beautiful. To the west, the Kaikōura Ranges rise sharply from the flat coastal plain, their upper ridges carrying snow for much of the year. To the east, the South Pacific stretches uninterrupted to the horizon. Beneath you, eight meters below, native manuka trees sway in the sea breeze, their silver-green leaves catching the afternoon light. It is the kind of view that makes you question why you ever sleep at ground level.

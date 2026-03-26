@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
+import AffiliateBookingBox from '../../components/AffiliateBookingBox.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -174,58 +175,43 @@ const hotelJsonLd = {
         </div>
 
         <!-- Right: booking card (sticky) -->
-        <div class="lg:sticky lg:top-28">
-          <div class="bg-white rounded-2xl border border-warm-200 shadow-card-hover p-6">
-            <!-- Price -->
-            <div class="mb-5 pb-5 border-b border-warm-100">
-              <span class="font-body text-warm-400 text-xs uppercase tracking-wider">Price range</span>
-              <div class="font-display text-2xl font-bold text-warm-950 mt-1">{hotel.data.priceRange}</div>
-              <div class="flex items-center gap-2 mt-2">
+        <div class="lg:sticky lg:top-28 space-y-4">
+          <!-- Price summary -->
+          <div class="bg-white rounded-2xl border border-warm-200 shadow-card-hover p-5">
+            <div class="flex items-end justify-between mb-4">
+              <div>
+                <span class="font-body text-warm-400 text-xs uppercase tracking-wider">From</span>
+                <div class="font-display text-2xl font-bold text-warm-950 mt-0.5">{hotel.data.priceRange.split(/\s[-–]\s/)[0]}</div>
                 <span class="font-body text-warm-400 text-xs">per night</span>
-                <span class="bg-warm-100 text-warm-600 font-body text-xs px-2.5 py-0.5 rounded-full border border-warm-200">
-                  {priceLabels[hotel.data.priceIndicator]}
-                </span>
               </div>
+              <span class="bg-warm-100 text-warm-600 font-body text-xs px-3 py-1 rounded-full border border-warm-200">
+                {priceLabels[hotel.data.priceIndicator]}
+              </span>
             </div>
 
-            <!-- Primary CTA -->
-            <a
-              href={hotel.data.bookingUrl}
-              target="_blank"
-              rel="noopener noreferrer nofollow"
-              class="block w-full text-center bg-forest-600 hover:bg-forest-700 text-white font-body font-bold text-base px-6 py-4 rounded-xl transition-all hover:shadow-lg active:scale-95 mb-3"
-            >
-              Check Availability
-              <span class="block text-forest-200 text-xs font-normal mt-0.5">via Booking.com · Best rate guaranteed</span>
-            </a>
-
-            <!-- Affiliate links -->
-            {hotel.data.affiliateLinks && hotel.data.affiliateLinks.length > 0 && (
-              <div class="space-y-2 mt-3">
-                {hotel.data.affiliateLinks.slice(0, 2).map((link: any) => (
-                  <a
-                    href={link.url}
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    class="block w-full text-center border border-warm-200 hover:border-warm-300 hover:bg-warm-50 text-warm-700 font-body font-medium text-sm px-4 py-2.5 rounded-xl transition-all"
-                  >
-                    {link.label}
-                  </a>
+            <!-- Why guests love it -->
+            {hotel.data.highlights.length > 0 && (
+              <div class="pt-4 border-t border-warm-100">
+                <p class="font-body text-warm-400 text-xs uppercase tracking-wider font-semibold mb-3">Why guests love it</p>
+                {hotel.data.highlights.slice(0, 3).map((h: string) => (
+                  <div class="flex items-start gap-2 mb-2">
+                    <span class="text-forest-500 mt-0.5 flex-shrink-0 font-bold text-sm">✓</span>
+                    <span class="font-body text-warm-600 text-sm">{h}</span>
+                  </div>
                 ))}
               </div>
             )}
-
-            <!-- Why guests love it -->
-            <div class="mt-5 pt-5 border-t border-warm-100">
-              <p class="font-body text-warm-400 text-xs uppercase tracking-wider font-semibold mb-3">Why guests love it</p>
-              {hotel.data.highlights.slice(0, 3).map((h: string) => (
-                <div class="flex items-start gap-2 mb-2">
-                  <span class="text-forest-500 mt-0.5 flex-shrink-0 font-bold text-sm">✓</span>
-                  <span class="font-body text-warm-600 text-sm">{h}</span>
-                </div>
-              ))}
-            </div>
           </div>
+
+          <!-- Multi-partner booking box -->
+          <AffiliateBookingBox
+            hotelName={hotel.data.name}
+            destination={hotel.data.destination}
+            country={hotel.data.country}
+            bookingUrl={hotel.data.bookingUrl}
+            priceRange={hotel.data.priceRange}
+            type="hotel"
+          />
         </div>
       </div>
     </div>
@@ -433,18 +419,31 @@ const hotelJsonLd = {
       <h2 class="font-display text-2xl font-bold text-warm-950 mb-4">
         Ready to book {hotel.data.name}?
       </h2>
-      <p class="font-body text-warm-600 text-sm mb-6">Best rates guaranteed. Free cancellation on most rooms.</p>
-      <a
-        href={hotel.data.bookingUrl}
-        target="_blank"
-        rel="noopener noreferrer nofollow"
-        class="inline-flex items-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-bold text-base px-10 py-4 rounded-full transition-all hover:shadow-lg active:scale-95"
-      >
-        Check Availability on Booking.com
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-        </svg>
-      </a>
+      <p class="font-body text-warm-600 text-sm mb-8">Compare rates across platforms. Free cancellation on most rooms.</p>
+      <div class="flex flex-col sm:flex-row gap-3 justify-center">
+        <a
+          href={hotel.data.bookingUrl}
+          target="_blank"
+          rel="noopener noreferrer nofollow sponsored"
+          class="inline-flex items-center justify-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-bold text-base px-8 py-4 rounded-full transition-all hover:shadow-lg active:scale-95"
+        >
+          Check Availability
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+          </svg>
+        </a>
+        <a
+          href={`https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(hotel.data.destination + ', ' + hotel.data.country)}&adults=2`}
+          target="_blank"
+          rel="noopener noreferrer nofollow sponsored"
+          class="inline-flex items-center justify-center gap-2 bg-[#00356B] hover:bg-[#002a55] text-white font-body font-bold text-base px-8 py-4 rounded-full transition-all hover:shadow-lg active:scale-95"
+        >
+          Compare on Expedia
+        </a>
+      </div>
+      <p class="font-body text-warm-400 text-xs mt-4">
+        Affiliate links — we earn a small commission at no extra cost to you.
+      </p>
     </div>
   </section>
 

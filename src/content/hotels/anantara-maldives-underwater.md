@@ -34,6 +34,13 @@ coordinates:
   lat: 5.0833
   lng: 73.0333
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Baa%20Atoll%2C%20Maldives%2C%20Maldives&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Baa+Atoll,+Maldives"
+    label: "Find Tours on Klook"
 ---
 
 Anantara Kihavah organises its signature experiences around four acronyms: FIRE (the grill), SKY (the rooftop observatory), ICE (the wine cellar), and SEA. SEA is the reason most people make the booking.

@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Rovos Rail Review, The World's Most Luxurious Train, South Africa"
   metaDescription: "Rovos Rail's vintage carriages on the Pretoria to Cape Town route. The world's most luxurious train through the Karoo. Open observation car, exceptional dining, and personal service. From $2,800."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Pretoria%20to%20Cape%20Town%20%28and%20beyond%29%2C%20South%20Africa&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Pretoria+to+Cape+Town+(and+beyond)"
+    label: "Find Tours on Klook"
 ---
 
 Rovos Rail is not a company in the way most luxury travel businesses are companies. It is a passion expressed in rolling stock. Rohan Vos began acquiring and restoring vintage railway carriages in the 1980s as a personal project, a way of preserving the magnificent coaches of southern Africa's golden age of rail, which were being scrapped as the continent's railway networks contracted, and what began as a collector's obsession has become, over forty years, the finest privately operated luxury train in the world.

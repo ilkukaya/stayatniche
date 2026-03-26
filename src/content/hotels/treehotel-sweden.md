@@ -34,6 +34,13 @@ coordinates:
   lat: 66.1167
   lng: 21.0833
 featured: true
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Harads%2C%20Swedish%20Lapland%2C%20Sweden&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Harads,+Swedish+Lapland"
+    label: "Find Tours on Klook"
 ---
 
 Seven architects were each given a pine tree and asked to build a room in it. The results, standing in the Lule River valley forest outside the village of Harads, 60 kilometres south of the Arctic Circle, are some of the most photographed hotel rooms in the world, and they earn the attention.

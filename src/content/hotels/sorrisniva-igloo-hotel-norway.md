@@ -34,6 +34,13 @@ coordinates:
   lat: 70.0000
   lng: 23.0000
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Alta%2C%20Finnmark%2C%20Norway&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Alta,+Finnmark"
+    label: "Find Tours on Klook"
 ---
 
 Sorrisniva Igloo Hotel is built each winter on the frozen banks of the Alta River at 70 degrees north, and the location does serious work. Alta sits deep in the Finnmark plateau, the northernmost city in Norway of any significant size, and its Kp index readings regularly reach the threshold at which northern lights are not merely possible but reliable. This is one of the best aurora positions in Europe, with a proper hotel built around it rather than just a marketing claim attached to it.

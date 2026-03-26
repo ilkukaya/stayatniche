@@ -57,6 +57,13 @@ publishedDate: 2025-01-20
 seo:
   metaTitle: "Ha Long Bay Floating Hotel, Indochina Sails Junk Cruise | StayAtNiche"
   metaDescription: "Sleep floating among Ha Long Bay's legendary limestone karsts aboard Indochina Sails. UNESCO World Heritage Site cruising with private balcony cabins."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Ha%20Long%20Bay%2C%20Qu%E1%BA%A3ng%20Ninh%2C%20Vietnam&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Ha+Long+Bay,+Quảng+Ninh"
+    label: "Find Tours on Klook"
 ---
 
 Ha Long Bay has a specific effect on first-time visitors: the scale is simply not what they expected. Nearly two thousand limestone karsts erupt from the Gulf of Tonkin across 1,500 square kilometres, and the only way to move among them properly is by boat. A junk cruise is not merely the most convenient way to see the bay — it is the only way to reach the inner lagoons, the tidal caves, and the sections of water where the fishing villages have operated for generations without road access.

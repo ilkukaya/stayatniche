@@ -67,6 +67,13 @@ status: published
 seo:
   metaTitle: "Singita Grumeti Review, Exclusive Private Concession, Western Serengeti, Tanzania"
   metaDescription: "Singita's private 350,000-acre Grumeti concession in the western Serengeti corridor. The Great Migration, exceptional game viewing, and Africa's finest safari service. From $1,800/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Grumeti%20Game%20Reserve%2C%20Serengeti%2C%20Tanzania&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Grumeti+Game+Reserve,+Serengeti"
+    label: "Find Tours on Klook"
 ---
 
 The western corridor of the Serengeti ecosystem has a different quality from the more visited central and northern sections. The landscape here is more densely vegetated, the rivers more persistent, and the sense of African wilderness more immediate: a country of fever trees, rocky kopjes, and the broad loops of the Grumeti River where crocodiles have grown to lengths that represent millions of years of undisturbed evolutionary success. Into this landscape, Singita has embedded one of Africa's most serious safari operations.

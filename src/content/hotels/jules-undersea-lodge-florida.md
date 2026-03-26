@@ -34,6 +34,13 @@ coordinates:
   lat: 25.1167
   lng: -80.4167
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Key%20Largo%2C%20Florida%2C%20United%20States&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Key+Largo,+Florida"
+    label: "Find Tours on Klook"
 ---
 
 Jules' Undersea Lodge occupies a category of one. There is no other property in the world that requires guests to put on scuba equipment, descend into a lagoon, and enter their accommodation through a moon pool in the floor — and yet the lodge has been doing exactly this in the mangrove lagoon of Key Largo Undersea Park since 1986, making it the world's first and longest-operating underwater hotel.

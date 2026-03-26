@@ -35,6 +35,13 @@ coordinates:
   lat: 38.6328
   lng: 34.8144
 featured: true
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=U%C3%A7hisar%2C%20Cappadocia%2C%20Turkey&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Uçhisar,+Cappadocia"
+    label: "Find Tours on Klook"
 ---
 
 Museum Hotel sits at the top of the Uçhisar rock formation, the highest point in Cappadocia, which means its views across the fairy chimney landscape are wider than anything else in the region. That alone would make it worth knowing about. The antique collection that fills every room places it in a different category altogether.

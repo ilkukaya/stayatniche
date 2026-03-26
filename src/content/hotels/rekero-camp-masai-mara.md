@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Rekero Camp Review, Great Migration River Crossings, Masai Mara, Kenya"
   metaDescription: "Classic tented camp in the heart of the Masai Mara for the Great Migration. Expert Maasai guides, all-day game drives, and the world's greatest wildlife spectacle. From $600/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Masai%20Mara%20National%20Reserve%2C%20Rift%20Valley%2C%20Kenya&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Masai+Mara+National+Reserve,+Rift+Valley"
+    label: "Find Tours on Klook"
 ---
 
 The Masai Mara's open, rolling grassland, extending to every horizon under the East African sky, supports concentrations of large mammals that have no parallel outside the Serengeti ecosystem, of which the Mara is the Kenyan northern extension. A camp positioned correctly within the reserve means the wildlife is immediate and continuous, not something you drive to find.

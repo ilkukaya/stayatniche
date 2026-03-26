@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Alila Jabal Akhdar Review, Clifftop Luxury in Oman's Al Hajar Mountains"
   metaDescription: "A dramatic clifftop resort 2,000 metres above sea level in Oman's Al Hajar Mountains, with infinity pools over a 1,000-metre gorge. Alila Jabal Akhdar from $500/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Al%20Dakhiliyah%20Governorate%2C%20Oman&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Al+Dakhiliyah+Governorate"
+    label: "Find Tours on Klook"
 ---
 
 The drive from Nizwa into the Al Hajar Mountains prepares you for Alila Jabal Akhdar, but not quite enough. The road climbs through date-palm oases that give way to raw limestone, then through hairpin bends that open onto canyon views, old stone villages clinging to ridge lines, Omani goats navigating terrain that seems to rule out navigation. At 2,000 metres the plateau opens and the temperature drops ten degrees. The resort appears: a complex of rose-coloured stone and whitewash that sits on the cliff edge as though it grew from it rather than being placed there by a construction crew.

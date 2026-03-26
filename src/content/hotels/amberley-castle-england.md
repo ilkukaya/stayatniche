@@ -84,6 +84,13 @@ publishedDate: 2025-02-08
 seo:
   metaTitle: "Amberley Castle Review, 12th-Century Castle Hotel in West Sussex, England"
   metaDescription: "A working portcullis, original battlements, and tower bedrooms in England's most romantically preserved medieval castle. Amberley Castle in the South Downs is an hour from London."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Amberley%2C%20West%20Sussex%2C%20England&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Amberley,+West+Sussex"
+    label: "Find Tours on Klook"
 ---
 
 The portcullis at Amberley Castle comes down behind you with a sound — iron on stone, deliberate and heavy — that settles any question about where you are. You are inside a 12th-century castle. The world outside is on the other side of 60 feet of medieval curtain wall. This is not a metaphor.

@@ -65,6 +65,13 @@ status: published
 seo:
   metaTitle: "Point Reyes Lighthouse Hostel Review, Coastal Wilderness Accommodation, California"
   metaDescription: "Stay within Point Reyes National Seashore at the historic Coast Guard lifeboat station. Grey whale watching, tule elk, and exceptional hiking on the California coast. From $30/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Point%20Reyes%20Station%2C%20California%2C%20USA&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Point+Reyes+Station,+California"
+    label: "Find Tours on Klook"
 ---
 
 Point Reyes juts west into the Pacific like a thumb pressed against the current, catching fog, wind, and weather in quantities that have kept development at bay and preserved one of the most ecologically rich stretches of coastline in the American West. Staying within the National Seashore rather than driving in from Marin for the day is a materially different experience: the wildlife is more accessible, the fog more immersive, and the morning light on the headland something that day visitors simply never see.

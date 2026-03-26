@@ -66,6 +66,13 @@ status: published
 seo:
   metaTitle: "Longitude 131° Review, Luxury Tented Camp with Direct Uluru Views, Australia"
   metaDescription: "Sixteen luxury pavilions on a private red-sand dune with sunrise views of Uluru. Longitude 131° is the most exclusive address in the Australian Outback. From $1,500/night."
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Uluru%2C%20Northern%20Territory%2C%20Australia&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Uluru,+Northern+Territory"
+    label: "Find Tours on Klook"
 ---
 
 Uluru in the minutes after dawn is a reason to plan a journey. The monolith — 348 metres tall, 9.4 kilometres in circumference, arkose sandstone deposited 500 million years ago — absorbs and redirects the early sun in a colour sequence that moves from deep violet through burnt orange to coral pink over roughly twenty minutes. Painters have attempted it. Photographers have built careers around it. At Longitude 131°, guests watch it from bed.

@@ -34,6 +34,13 @@ coordinates:
   lat: 49.1833
   lng: 0.3500
 featured: false
+affiliateLinks:
+  - partner: "expedia"
+    url: "https://www.expedia.com/Hotel-Search?destination=Normandy%2C%20France&adults=2"
+    label: "Check on Expedia"
+  - partner: "klook"
+    url: "https://www.klook.com/en-US/search-results/?query=Normandy"
+    label: "Find Tours on Klook"
 ---
 
 Normandy is a region of deep greens and soft silences: apple orchards, hedgerow-bordered meadows, and skies that shift through dozens of shades of grey and blue in a single afternoon. La Bulle Enchantée plants its transparent domes directly within this landscape. The result is a sleeping experience that feels both rooted in the French countryside and entirely outside ordinary life.

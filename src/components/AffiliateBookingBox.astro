@@ -1,0 +1,146 @@
+---
+/**
+ * AffiliateBookingBox — multi-partner booking section
+ * Used on hotel and destination pages.
+ * Integrates: Expedia (via Travelpayouts), Klook, Tiqets, Kiwi.com
+ */
+
+interface Props {
+  hotelName?: string;
+  destination: string;
+  country: string;
+  bookingUrl?: string;
+  priceRange?: string;
+  type?: 'hotel' | 'destination';
+  klookSearchUrl?: string;
+  tiqetsSearchUrl?: string;
+  kiwiSearchUrl?: string;
+}
+
+const {
+  hotelName,
+  destination,
+  country,
+  bookingUrl,
+  priceRange,
+  type = 'hotel',
+  klookSearchUrl,
+  tiqetsSearchUrl,
+  kiwiSearchUrl,
+} = Astro.props;
+
+const destinationEncoded = encodeURIComponent(`${destination}, ${country}`);
+const hotelEncoded = hotelName ? encodeURIComponent(hotelName) : destinationEncoded;
+
+// Expedia search URL — Travelpayouts tracks this via the program link
+const expediaHotelUrl = bookingUrl?.includes('expedia')
+  ? bookingUrl
+  : `https://www.expedia.com/Hotel-Search?destination=${destinationEncoded}&adults=2`;
+
+// Klook tours URL for this destination
+const klookUrl = klookSearchUrl ||
+  `https://www.klook.com/en-US/search-results/?query=${destinationEncoded}`;
+
+// Tiqets attractions URL for this destination
+const tiqetsUrl = tiqetsSearchUrl ||
+  `https://tiqets.com/en/search/?q=${destinationEncoded}`;
+
+// Kiwi.com flight search
+const kiwiUrl = kiwiSearchUrl ||
+  `https://www.kiwi.com/en/search/results/anywhere/${destinationEncoded}/anytime/anytime`;
+---
+
+<div class="bg-white rounded-2xl border border-warm-200 shadow-card p-6 space-y-3">
+  <p class="font-body text-xs font-semibold text-warm-400 uppercase tracking-wider mb-4">
+    Book Your {type === 'hotel' ? 'Stay' : 'Trip'}
+  </p>
+
+  {/* Primary: check rates on Expedia */}
+  <a
+    href={expediaHotelUrl}
+    target="_blank"
+    rel="noopener noreferrer nofollow sponsored"
+    class="flex items-center justify-between w-full bg-[#00356B] hover:bg-[#002a55] text-white font-body font-semibold text-sm px-5 py-3.5 rounded-xl transition-all group"
+  >
+    <div class="flex items-center gap-3">
+      <svg class="w-5 h-5 text-white/80" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/>
+      </svg>
+      <div>
+        <div class="text-white font-semibold text-sm">Check on Expedia</div>
+        {priceRange && <div class="text-white/60 text-xs">From {priceRange.split(/\s[-–]\s/)[0]}</div>}
+      </div>
+    </div>
+    <svg class="w-4 h-4 text-white/60 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+    </svg>
+  </a>
+
+  {/* Tours on Klook */}
+  <a
+    href={klookUrl}
+    target="_blank"
+    rel="noopener noreferrer nofollow sponsored"
+    class="flex items-center justify-between w-full bg-[#FF5722] hover:bg-[#e64a1a] text-white font-body font-semibold text-sm px-5 py-3.5 rounded-xl transition-all group"
+  >
+    <div class="flex items-center gap-3">
+      <svg class="w-5 h-5 text-white/80" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+      </svg>
+      <div>
+        <div class="text-white font-semibold text-sm">Find Tours on Klook</div>
+        <div class="text-white/60 text-xs">Activities, day trips & experiences</div>
+      </div>
+    </div>
+    <svg class="w-4 h-4 text-white/60 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+    </svg>
+  </a>
+
+  {/* Attraction tickets on Tiqets */}
+  <a
+    href={tiqetsUrl}
+    target="_blank"
+    rel="noopener noreferrer nofollow sponsored"
+    class="flex items-center justify-between w-full bg-[#6C3AE8] hover:bg-[#5b2fd0] text-white font-body font-semibold text-sm px-5 py-3.5 rounded-xl transition-all group"
+  >
+    <div class="flex items-center gap-3">
+      <svg class="w-5 h-5 text-white/80" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M20 12c0-1.1.9-2 2-2V6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v4c1.1 0 2 .9 2 2s-.9 2-2 2v4c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2v-4c-1.1 0-2-.9-2-2z"/>
+      </svg>
+      <div>
+        <div class="text-white font-semibold text-sm">Book Attraction Tickets</div>
+        <div class="text-white/60 text-xs">Skip-the-line tickets via Tiqets</div>
+      </div>
+    </div>
+    <svg class="w-4 h-4 text-white/60 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+    </svg>
+  </a>
+
+  {/* Flights on Kiwi.com */}
+  <a
+    href={kiwiUrl}
+    target="_blank"
+    rel="noopener noreferrer nofollow sponsored"
+    class="flex items-center justify-between w-full border border-warm-200 hover:border-warm-300 bg-warm-50 hover:bg-warm-100 text-warm-800 font-body font-semibold text-sm px-5 py-3.5 rounded-xl transition-all group"
+  >
+    <div class="flex items-center gap-3">
+      <svg class="w-5 h-5 text-warm-500" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z"/>
+      </svg>
+      <div>
+        <div class="text-warm-800 font-semibold text-sm">Search Flights — Kiwi.com</div>
+        <div class="text-warm-500 text-xs">Find the cheapest routes</div>
+      </div>
+    </div>
+    <svg class="w-4 h-4 text-warm-400 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+    </svg>
+  </a>
+
+  <p class="font-body text-warm-400 text-[10px] text-center pt-1 leading-relaxed">
+    We earn a small commission when you book through our links — at no extra cost to you.
+    <a href="/disclosure" class="underline hover:text-warm-600">Learn more</a>
+  </p>
+</div>
