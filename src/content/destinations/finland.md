@@ -47,3 +47,27 @@ Finland has 5.5 million people and roughly 3.3 million saunas. The sauna is not 
 Finnish Lapland, the region north of Rovaniemi and above the Arctic Circle, operates as a proper winter wilderness from November through April. Husky safaris, snowmobile expeditions, reindeer herding with Sami guides, and ice fishing on frozen lakes all run from camps and lodges positioned deep in spruce and pine forest. The best properties are deliberately remote and accessible only by snowmobile, so the only light competing with the aurora is the fire in your cabin.
 
 Helsinki deserves more than a transit night. The Design District, the Temppeliaukio church carved into bare bedrock, the island fortress of Suomenlinna, and a restaurant scene that has become genuinely one of Europe's most inventive — using lake fish, forest forage, and wild game with real precision — reward two or three days of unhurried exploration before heading north.
+
+## Getting There
+
+**Flights:** Helsinki Vantaa (HEL) is Finland's main hub, with direct connections throughout Europe and long-haul routes to Asia via Finnair. Rovaniemi (RVN) receives direct seasonal charter flights from the UK and Germany (November–March), eliminating the Helsinki connection for winter Lapland trips. Ivalo (IVL) — closest airport to Saariselkä aurora cabins — is under 90 minutes from Helsinki. Search flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Finland/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/finland).
+
+**Airport Transfer:** Helsinki's Ring Rail Line connects Vantaa Airport to the city centre in 30 minutes. For Rovaniemi or Ivalo, most Lapland lodges provide direct transfers. Book private city transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Helsinki) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Helsinki).
+
+## Getting Around
+
+**Car Rental:** Essential for the Lakeland and Lapland. Winter tyres are mandatory November–March. Compare rates on [Localrent](https://localrent.com/en/?location=Finland), [QEEQ](https://www.qeeq.com/search?q=Finland), and [AutoEurope](https://www.autoeurope.com/?location=Finland).
+
+**Rail:** VR Finnish Railways connects Helsinki to Rovaniemi overnight on the Santa Claus Express sleeper train (12 hours — itself an experience). Book through [VR](https://www.vr.fi/en).
+
+## Tours & Experiences
+
+Book northern lights safaris, husky sled tours, reindeer farm visits, and Finnish sauna experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Finland) and [Viator](https://www.viator.com/Finland/d52-ttd). Helsinki architecture tours, archipelago kayaking, and traditional smoke sauna experiences are available through [WeGoTrip](https://wegotrip.com/destinations/finland/).
+
+## Travel Essentials
+
+**eSIM:** Get a Finland eSIM from [Airalo](https://www.airalo.com) before departure. Elisa and DNA have the best rural coverage. Most Lapland lodges have WiFi via satellite.
+
+**Travel Insurance:** Cover winter sports if snowmobiling. [SafetyWing](https://safetywing.com) covers cold-weather activities comprehensively.
+
+**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for streaming from Lapland lodge evenings.

@@ -46,3 +46,27 @@ Siem Reap has developed one of Southeast Asia's most polished boutique hotel sce
 Cambodia is considerably more than its temples. Phnom Penh has been transformed over the past decade into a genuinely interesting city with serious restaurants, a vibrant contemporary art scene, and riverside neighborhoods worth two or three unhurried days. The Tuol Sleng museum and Choeung Ek killing fields are essential visits for anyone who wants to understand how Cambodia arrived at the present from the trauma of the 1970s. Do not skip them.
 
 The south coast, long overlooked by travelers focused entirely on the temples, is now Cambodia's most compelling accommodation frontier. Koh Rong Samloem — a 40-minute speedboat ride from Sihanoukville — remains largely undeveloped, with bioluminescent plankton lighting up the shallow bays on dark nights and a pace of life that feels genuinely remote. Come before that changes.
+
+## Getting There
+
+**Flights:** Phnom Penh (PNH) and Siem Reap (REP) are Cambodia's two main international airports. Bangkok (BKK), Kuala Lumpur (KUL), Singapore (SIN), and Ho Chi Minh City (SGN) all have multiple daily connections. Direct flights from Incheon, Guangzhou, and Taipei are common. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Cambodia/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/cambodia).
+
+**Airport Transfer:** Siem Reap airport sits 3km from town — a 10-minute ride. Phnom Penh's airport is 10km from the Riverside. Book private transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Siem+Reap) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). Tuk-tuks are widely available and an atmospheric alternative for short city distances.
+
+## Getting Around
+
+**Tuk-Tuk and Hired Driver:** The standard way to visit Angkor Wat and move within Siem Reap. Most hotels arrange reliable English-speaking tuk-tuk drivers for day rates. Car hire with driver is available for Phnom Penh–Siem Reap overland (6 hours) and is considerably more comfortable than the bus.
+
+**Speedboats:** Connect Phnom Penh to Siem Reap via the Tonle Sap Lake (express boat, 5–6 hours — scenic but bumpy). Also serve the south coast islands from Sihanoukville. For car rental in cities, compare on [QEEQ](https://www.qeeq.com/search?q=Phnom+Penh%2C+Cambodia) or [Localrent](https://localrent.com/en/?location=Phnom+Penh).
+
+## Tours & Experiences
+
+Book Angkor Wat sunrise tours, Tonle Sap floating village excursions, and Phnom Penh history tours through [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor) and [Viator](https://www.viator.com/Cambodia/d733-ttd). Cardamom Mountains trekking and eco-lodge experiences are best arranged through specialist conservation operators. Cambodian cooking classes, silk weaving workshops, and temple photography tours are on [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
+
+## Travel Essentials
+
+**eSIM:** Get a Cambodia eSIM from [Airalo](https://www.airalo.com). Smart and Cellcard have the best coverage; signal is variable in the Cardamom Mountains and absent at remote eco-lodges. Most jungle lodges use satellite WiFi.
+
+**Travel Insurance:** Essential — Cambodia's public healthcare is limited, and medical evacuation to Bangkok or Singapore costs $5,000–15,000. [SafetyWing](https://safetywing.com) includes evacuation and covers jungle trekking.
+
+**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) are essential in Cambodia — some streaming services are geo-blocked, and a VPN provides security on hotel networks.

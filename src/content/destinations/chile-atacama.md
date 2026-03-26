@@ -46,3 +46,27 @@ El Tatio demands a 4am departure from San Pedro to arrive before sunrise. In the
 The lodge accommodation in the Atacama has reached a level of sophistication that justifies making the destination primarily about the stay rather than the excursions. The best desert lodges are built in adobe and volcanic stone, with private plunge pools heated against the cold Andean nights, outdoor fireplaces, and astronomy decks fitted with telescopes trained on skies that include nebulae visible to the naked eye. Several properties operate entirely off grid: solar-powered, water-recycling, with food gardens that produce vegetables in the driest place on earth through careful drip irrigation. The architectural language throughout draws from vernacular Atacameño building traditions — low horizontal forms, rough-textured walls, internal courtyards that trap heat from the intense desert sun.
 
 The reason the European Southern Observatory built its Very Large Telescope in the Atacama, and why the ALMA array of 66 radio antennas sits at 5,000 meters altitude nearby, is that the atmosphere here is drier and more transparent than anywhere else on earth at accessible altitude. Night sky tours with professional astronomers, using research-grade equipment, reveal details of the southern hemisphere sky unavailable from any other location where travelers actually go: the Carina Nebula, Centaurus A, the Magellanic Clouds at their most brilliant. These are not casual stargazing sessions. They are encounters with deep space that leave people permanently altered in their sense of scale.
+
+## Getting There
+
+**Flights:** Calama Airport (CJC) is the nearest airport to San Pedro de Atacama, 100km away. Direct flights from Santiago (approximately 2 hours) run multiple times daily on LATAM and Sky Airline. Santiago (SCL) receives long-haul flights from Europe (Madrid, Paris, Frankfurt, London), North America (Miami, New York, Los Angeles), and across South America. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chile/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/chile).
+
+**Airport Transfer:** San Pedro is 100km southeast of Calama — a 1.5-hour road transfer on a paved highway through the Atacama plateau. Most lodges provide airport transfers; alternatively, shuttle buses and private taxis operate from Calama. Book private transfers through [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Calama) or arrange through your lodge directly.
+
+## Getting Around
+
+**Car Rental:** San Pedro is a small village walkable in 20 minutes, but the surrounding desert excursions benefit from a vehicle. A 4WD is essential for the high Atacama (El Tatio, Laguna Miscanti). Compare rates on [Localrent](https://localrent.com/en/?location=San+Pedro+de+Atacama), [QEEQ](https://www.qeeq.com/search?q=Calama%2C+Chile), or [AutoEurope](https://www.autoeurope.com/?location=Chile). Most travellers, however, book excursions through their lodge or local operators — guided tours with 4WDs reach sites and terrain that self-drive vehicles often cannot navigate safely.
+
+**Tours:** The standard way to explore. Dawn excursions to El Tatio, flamingo lagoon visits, Valle de la Luna sunset tours, and stargazing are best with a guide. Local operators in San Pedro provide good value; luxury lodges include private guides.
+
+## Tours & Experiences
+
+Book El Tatio geyser sunrise tours, Valle de la Luna excursions, flamingo lagoon visits, and professional astronomy stargazing through [Klook](https://www.klook.com/en-US/search-results/?query=Atacama+Desert+Chile) and [Viator](https://www.viator.com/Atacama-Desert/d23255-ttd). Sandboarding, multi-day trekking to volcanic summits, and ALMA Observatory visits (tours available by advance booking) are also available. Book [WeGoTrip](https://wegotrip.com/destinations/chile/) for self-guided audio tours of Atacama's historical sites.
+
+## Travel Essentials
+
+**eSIM:** Signal in San Pedro de Atacama is functional but limited outside the village centre. Get a Chile eSIM from [Airalo](https://www.airalo.com) — Entel has the best rural coverage. Most lodge properties have satellite or ADSL WiFi.
+
+**Travel Insurance:** Altitude sickness (San Pedro is at 2,400m, El Tatio at 4,300m) can require evacuation. Medical coverage including altitude-related illness and helicopter evacuation to Calama is important. [SafetyWing](https://safetywing.com) covers high-altitude trekking and adventure activities.
+
+**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for desert evenings and accessing home streaming services.
