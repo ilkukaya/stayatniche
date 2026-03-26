@@ -2,6 +2,8 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
 import AffiliateBookingBox from '../../components/AffiliateBookingBox.astro';
+import TransportationBox from '../../components/TransportationBox.astro';
+import TravelServicesBox from '../../components/TravelServicesBox.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -391,6 +393,20 @@ const hotelJsonLd = {
             </div>
           </div>
         )}
+
+        <!-- How to Get There -->
+        <TransportationBox
+          destination={hotel.data.destination}
+          country={hotel.data.country}
+          category={hotel.data.category}
+        />
+
+        <!-- Travel Essentials -->
+        <TravelServicesBox
+          destination={hotel.data.destination}
+          country={hotel.data.country}
+        />
+
       </div>
     </div>
   </section>
