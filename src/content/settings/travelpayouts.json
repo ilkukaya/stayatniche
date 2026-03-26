@@ -1,26 +1,249 @@
 {
   "marker": "478307",
-  "comment": "Add your Travelpayouts marker ID here. Find it at travelpayouts.com > Tools > Widgets or Links.",
+  "comment": "Travelpayouts marker ID. Find it at travelpayouts.com > Tools > Widgets or Links.",
   "programs": {
     "expedia": {
       "enabled": true,
+      "category": "accommodation",
       "label": "Check on Expedia",
-      "trackingParam": "affcid=expedia"
+      "baseUrl": "https://www.expedia.com",
+      "tpProgramId": "3526",
+      "commission": "1.35–3.6%",
+      "cookieDays": 7
     },
     "klook": {
       "enabled": true,
+      "category": "activities",
       "label": "Find Tours on Klook",
-      "baseUrl": "https://www.klook.com"
+      "baseUrl": "https://www.klook.com",
+      "tpProgramId": "3540",
+      "commission": "2–5%",
+      "cookieDays": 30
     },
     "tiqets": {
       "enabled": true,
+      "category": "activities",
       "label": "Book Attraction Tickets",
-      "baseUrl": "https://tiqets.com"
+      "baseUrl": "https://tiqets.com",
+      "tpProgramId": "4030",
+      "commission": "3.5–8%",
+      "cookieDays": 30
     },
     "kiwi": {
       "enabled": true,
+      "category": "flights",
       "label": "Search Flights on Kiwi.com",
-      "baseUrl": "https://www.kiwi.com"
+      "baseUrl": "https://www.kiwi.com",
+      "tpProgramId": "4114",
+      "commission": "3%",
+      "cookieDays": 30
+    },
+    "aviasales": {
+      "enabled": true,
+      "category": "flights",
+      "label": "Search Flights on Aviasales",
+      "baseUrl": "https://www.aviasales.com",
+      "tpProgramId": "72",
+      "commission": "1.5–2%",
+      "cookieDays": 30
+    },
+    "localrent": {
+      "enabled": true,
+      "category": "car-rental",
+      "label": "Rent a Car with Localrent",
+      "baseUrl": "https://localrent.com",
+      "tpProgramId": "6202",
+      "commission": "5–8%",
+      "cookieDays": 30
+    },
+    "qeeq": {
+      "enabled": true,
+      "category": "car-rental",
+      "label": "Find Car Rentals on QEEQ",
+      "baseUrl": "https://www.qeeq.com",
+      "tpProgramId": "7033",
+      "commission": "5–7%",
+      "cookieDays": 30
+    },
+    "autoeurope": {
+      "enabled": true,
+      "category": "car-rental",
+      "label": "Rent a Car with Auto Europe",
+      "baseUrl": "https://www.autoeurope.com",
+      "tpProgramId": "4531",
+      "commission": "3–6%",
+      "cookieDays": 30
+    },
+    "economybookings": {
+      "enabled": true,
+      "category": "car-rental",
+      "label": "Book a Car with EconomyBookings",
+      "baseUrl": "https://www.economybookings.com",
+      "tpProgramId": "7066",
+      "commission": "5–8%",
+      "cookieDays": 30
+    },
+    "getrentacar": {
+      "enabled": true,
+      "category": "car-rental",
+      "label": "Rent a Car with GetRentacar",
+      "baseUrl": "https://www.getrentacar.com",
+      "tpProgramId": "5879",
+      "commission": "5–7%",
+      "cookieDays": 30
+    },
+    "bikebooking": {
+      "enabled": true,
+      "category": "bike-rental",
+      "label": "Rent a Bike with BikeBooking",
+      "baseUrl": "https://www.bikebooking.com",
+      "tpProgramId": "6009",
+      "commission": "4–6%",
+      "cookieDays": 30
+    },
+    "intui": {
+      "enabled": true,
+      "category": "car-rental",
+      "label": "Rent a Car with intui.travel",
+      "baseUrl": "https://intui.travel",
+      "tpProgramId": "5834",
+      "commission": "5–8%",
+      "cookieDays": 30
+    },
+    "welcomepickups": {
+      "enabled": true,
+      "category": "transfers",
+      "label": "Book Airport Transfer with Welcome Pickups",
+      "baseUrl": "https://www.welcomepickups.com",
+      "tpProgramId": "4558",
+      "commission": "7–10%",
+      "cookieDays": 30
+    },
+    "kiwitaxi": {
+      "enabled": true,
+      "category": "transfers",
+      "label": "Book Transfer with KiwiTaxi",
+      "baseUrl": "https://kiwitaxi.com",
+      "tpProgramId": "4039",
+      "commission": "7–10%",
+      "cookieDays": 30
+    },
+    "gettransfer": {
+      "enabled": true,
+      "category": "transfers",
+      "label": "Book Transfer with GetTransfer",
+      "baseUrl": "https://gettransfer.com",
+      "tpProgramId": "5976",
+      "commission": "5–8%",
+      "cookieDays": 30
+    },
+    "wegotrip": {
+      "enabled": true,
+      "category": "activities",
+      "label": "Book Audio Tours with WeGoTrip",
+      "baseUrl": "https://wegotrip.com",
+      "tpProgramId": "6149",
+      "commission": "8–12%",
+      "cookieDays": 30
+    },
+    "ticketnetwork": {
+      "enabled": true,
+      "category": "activities",
+      "label": "Find Event Tickets on TicketNetwork",
+      "baseUrl": "https://www.ticketnetwork.com",
+      "tpProgramId": "6051",
+      "commission": "4–7%",
+      "cookieDays": 30
+    },
+    "searadar": {
+      "enabled": true,
+      "category": "boat-rental",
+      "label": "Rent a Boat with SEARADAR",
+      "baseUrl": "https://searadar.com",
+      "tpProgramId": "6890",
+      "commission": "5–8%",
+      "cookieDays": 30
+    },
+    "radicalstorage": {
+      "enabled": true,
+      "category": "luggage",
+      "label": "Store Luggage with Radical Storage",
+      "baseUrl": "https://radicalstorage.com",
+      "tpProgramId": "6203",
+      "commission": "7–10%",
+      "cookieDays": 30
+    },
+    "airhelp": {
+      "enabled": true,
+      "category": "compensation",
+      "label": "Claim Flight Compensation with AirHelp",
+      "baseUrl": "https://www.airhelp.com",
+      "tpProgramId": "4044",
+      "commission": "25–30%",
+      "cookieDays": 30
+    },
+    "compensair": {
+      "enabled": true,
+      "category": "compensation",
+      "label": "Claim Flight Compensation with Compensair",
+      "baseUrl": "https://compensair.com",
+      "tpProgramId": "5952",
+      "commission": "25–30%",
+      "cookieDays": 30
+    },
+    "ekta": {
+      "enabled": true,
+      "category": "insurance",
+      "label": "Get Travel Insurance with EKTA",
+      "baseUrl": "https://ekta.travel",
+      "tpProgramId": "5784",
+      "commission": "10–15%",
+      "cookieDays": 30
+    },
+    "nordvpn": {
+      "enabled": true,
+      "category": "connectivity",
+      "label": "Stay Safe Online with NordVPN",
+      "baseUrl": "https://nordvpn.com",
+      "tpProgramId": "5847",
+      "commission": "30–40%",
+      "cookieDays": 30
+    },
+    "yesim": {
+      "enabled": true,
+      "category": "esim",
+      "label": "Get an eSIM with Yesim",
+      "baseUrl": "https://yesim.app",
+      "tpProgramId": "6781",
+      "commission": "10–15%",
+      "cookieDays": 30
+    },
+    "airalo": {
+      "enabled": true,
+      "category": "esim",
+      "label": "Get an eSIM with Airalo",
+      "baseUrl": "https://www.airalo.com",
+      "tpProgramId": "6445",
+      "commission": "10–15%",
+      "cookieDays": 30
+    },
+    "saily": {
+      "enabled": true,
+      "category": "esim",
+      "label": "Get an eSIM with Saily",
+      "baseUrl": "https://saily.com",
+      "tpProgramId": "7102",
+      "commission": "10–15%",
+      "cookieDays": 30
+    },
+    "drimsim": {
+      "enabled": true,
+      "category": "esim",
+      "label": "Get a Global SIM with Drimsim",
+      "baseUrl": "https://drimsim.com",
+      "tpProgramId": "5823",
+      "commission": "8–12%",
+      "cookieDays": 30
     }
   },
   "widgets": {
