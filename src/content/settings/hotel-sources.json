@@ -1,0 +1,17 @@
+{
+  "sources": [
+    { "query": "Bali unique hotels", "category": "tropical", "region": "southeast-asia", "country": "Indonesia", "maxResults": 20 },
+    { "query": "Iceland boutique hotels", "category": "arctic", "region": "nordic", "country": "Iceland", "maxResults": 15 },
+    { "query": "Japan ryokan traditional", "category": "cultural", "region": "east-asia", "country": "Japan", "maxResults": 15 },
+    { "query": "Swiss Alps chalet hotels", "category": "mountain", "region": "europe", "country": "Switzerland", "maxResults": 15 },
+    { "query": "African safari lodge", "category": "safari", "region": "africa", "country": "various", "maxResults": 20 },
+    { "query": "Caribbean overwater bungalow", "category": "overwater", "region": "caribbean", "country": "various", "maxResults": 15 },
+    { "query": "Peru unique accommodation", "category": "cultural", "region": "south-america", "country": "Peru", "maxResults": 10 },
+    { "query": "Norway fjord hotel", "category": "scenic", "region": "nordic", "country": "Norway", "maxResults": 10 },
+    { "query": "Morocco riad boutique", "category": "cultural", "region": "middle-east-africa", "country": "Morocco", "maxResults": 15 },
+    { "query": "New Zealand lodge", "category": "nature", "region": "oceania", "country": "New Zealand", "maxResults": 10 }
+  ],
+  "categories": ["tropical", "arctic", "cultural", "mountain", "safari", "overwater", "treehouse", "cave", "train", "floating", "cliffside", "desert", "scenic", "nature", "historic"],
+  "minRating": 8.0,
+  "excludeChains": true
+}
