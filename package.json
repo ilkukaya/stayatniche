@@ -8,7 +8,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "optimize-images": "node scripts/optimize-images.mjs"
+    "optimize-images": "node scripts/optimize-images.mjs",
+    "fetch-hotels": "node scripts/fetch-hotels.js",
+    "fetch-hotels:dry-run": "node scripts/fetch-hotels.js --dry-run"
   },
   "dependencies": {
     "@astrojs/mdx": "^3.0.0",
