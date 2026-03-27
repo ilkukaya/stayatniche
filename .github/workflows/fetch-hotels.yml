@@ -1,0 +1,34 @@
+name: Fetch Hotels
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  fetch-hotels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch hotels
+        run: npm run fetch-hotels
+
+      - name: Generate hotels
+        run: npm run generate-hotels
+
+      - name: Commit and push new hotel content
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: auto-fetch new hotel content'
