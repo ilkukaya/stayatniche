@@ -1,0 +1,135 @@
+{
+  "timestamp": "2026-03-27T00:34:58.164Z",
+  "dryRun": true,
+  "existingCount": 105,
+  "sources": [
+    {
+      "query": "Bali unique hotels",
+      "country": "Indonesia",
+      "region": "southeast-asia",
+      "category": "tropical",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Bali\": fetch failed"
+      ]
+    },
+    {
+      "query": "Iceland boutique hotels",
+      "country": "Iceland",
+      "region": "nordic",
+      "category": "arctic",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Iceland\": fetch failed"
+      ]
+    },
+    {
+      "query": "Japan ryokan traditional",
+      "country": "Japan",
+      "region": "east-asia",
+      "category": "cultural",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Japan ryokan\": fetch failed"
+      ]
+    },
+    {
+      "query": "Swiss Alps chalet hotels",
+      "country": "Switzerland",
+      "region": "europe",
+      "category": "mountain",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Swiss Alps\": fetch failed"
+      ]
+    },
+    {
+      "query": "African safari lodge",
+      "country": "various",
+      "region": "africa",
+      "category": "safari",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"African\": fetch failed"
+      ]
+    },
+    {
+      "query": "Caribbean overwater bungalow",
+      "country": "various",
+      "region": "caribbean",
+      "category": "overwater",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Caribbean  bungalow\": fetch failed"
+      ]
+    },
+    {
+      "query": "Peru unique accommodation",
+      "country": "Peru",
+      "region": "south-america",
+      "category": "cultural",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Peru\": fetch failed"
+      ]
+    },
+    {
+      "query": "Norway fjord hotel",
+      "country": "Norway",
+      "region": "nordic",
+      "category": "scenic",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Norway fjord\": fetch failed"
+      ]
+    },
+    {
+      "query": "Morocco riad boutique",
+      "country": "Morocco",
+      "region": "middle-east-africa",
+      "category": "cultural",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"Morocco\": fetch failed"
+      ]
+    },
+    {
+      "query": "New Zealand lodge",
+      "country": "New Zealand",
+      "region": "oceania",
+      "category": "nature",
+      "locationId": null,
+      "fetched": 0,
+      "results": [],
+      "errors": [
+        "Location lookup failed for \"New Zealand\": fetch failed"
+      ]
+    }
+  ],
+  "summary": {
+    "fetched": 0,
+    "new": 0,
+    "skipped": 0,
+    "filtered": 0,
+    "errors": 10
+  },
+  "newHotels": []
+}
