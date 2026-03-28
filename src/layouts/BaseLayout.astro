@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import BackToTop from '../components/BackToTop.astro';
 import { getEntry } from 'astro:content';
 
 interface Props {
@@ -200,5 +201,6 @@ const plausibleDomain = analytics.plausibleDomain || '';
       <slot />
     </main>
     <Footer />
+    <BackToTop />
   </body>
 </html>

@@ -24,6 +24,8 @@ jobs:
 
       - name: Fetch hotels
         run: npm run fetch-hotels
+        env:
+          HOTELLOOK_API_TOKEN: ${{ secrets.HOTELLOOK_API_TOKEN }}
 
       - name: Generate hotels
         run: npm run generate-hotels

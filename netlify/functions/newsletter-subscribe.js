@@ -48,6 +48,12 @@ exports.handler = async (event) => {
     return { statusCode: 400, body: "No email in submission" };
   }
 
+  // Basic email format validation
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!emailRegex.test(email)) {
+    return { statusCode: 400, body: "Invalid email format" };
+  }
+
   const provider = process.env.NEWSLETTER_PROVIDER || "none";
 
   try {

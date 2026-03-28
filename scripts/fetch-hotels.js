@@ -23,7 +23,7 @@ const __dirname  = path.dirname(__filename);
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
-const API_TOKEN  = '4814b700ea7f8f579676d7426ffa1116';
+const API_TOKEN  = process.env.HOTELLOOK_API_TOKEN || '4814b700ea7f8f579676d7426ffa1116';
 const BASE_URL   = 'https://engine.hotellook.com/api/v2';
 const LOOKUP_URL = `${BASE_URL}/lookup.json`;
 const HOTELS_URL = `${BASE_URL}/hotels.json`;

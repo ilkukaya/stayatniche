@@ -4,6 +4,7 @@ import HotelCard from '../../components/HotelCard.astro';
 import AffiliateBookingBox from '../../components/AffiliateBookingBox.astro';
 import TransportationBox from '../../components/TransportationBox.astro';
 import TravelServicesBox from '../../components/TravelServicesBox.astro';
+import SocialShare from '../../components/SocialShare.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -171,9 +172,16 @@ const hotelJsonLd = {
             </div>
           </div>
 
-          <p class="font-body text-warm-700 text-lg leading-relaxed max-w-2xl">
+          <p class="font-body text-warm-700 text-lg leading-relaxed max-w-2xl mb-5">
             {hotel.data.description}
           </p>
+
+          <SocialShare
+            title={hotel.data.name}
+            url={`/hotels/${hotel.slug}/`}
+            description={hotel.data.description}
+            image={hotel.data.coverImage || ''}
+          />
         </div>
 
         <!-- Right: booking card (sticky) -->

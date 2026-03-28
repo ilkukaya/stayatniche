@@ -1,0 +1,110 @@
+---
+// Search modal powered by Pagefind — opens via Cmd/Ctrl+K or search button
+---
+
+<button
+  id="search-trigger"
+  aria-label="Search"
+  class="inline-flex items-center gap-2 bg-warm-100 hover:bg-warm-200 border border-warm-200 rounded-full px-3 py-1.5 transition-colors text-warm-500 hover:text-warm-700"
+>
+  <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+  </svg>
+  <span class="font-body text-xs hidden sm:inline">Search</span>
+  <kbd class="hidden sm:inline font-body text-[10px] bg-warm-200 text-warm-500 px-1.5 py-0.5 rounded">Ctrl K</kbd>
+</button>
+
+<div id="search-overlay" class="fixed inset-0 z-50 hidden">
+  <div class="absolute inset-0 bg-warm-950/50 backdrop-blur-sm" id="search-backdrop"></div>
+  <div class="relative max-w-2xl mx-auto mt-20 px-4">
+    <div id="search-container" class="bg-white rounded-2xl shadow-2xl border border-warm-200 overflow-hidden"></div>
+  </div>
+</div>
+
+<style>
+  /* Custom Pagefind UI styling to match StayAtNiche design */
+  :root {
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-primary: #2d6a4f;
+    --pagefind-ui-text: #1a1209;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #e8e0d4;
+    --pagefind-ui-tag: #f5f0e8;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 12px;
+    --pagefind-ui-font: 'DM Sans', system-ui, sans-serif;
+  }
+</style>
+
+<script is:inline>
+  (function() {
+    let searchInitialized = false;
+
+    function loadCSS(href) {
+      if (!document.querySelector('link[href="' + href + '"]')) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = href;
+        document.head.appendChild(link);
+      }
+    }
+
+    function openSearch() {
+      const overlay = document.getElementById('search-overlay');
+      if (!overlay) return;
+      overlay.classList.remove('hidden');
+      document.body.style.overflow = 'hidden';
+
+      if (!searchInitialized) {
+        loadCSS('/_pagefind/pagefind-ui.css');
+        const script = document.createElement('script');
+        script.src = '/_pagefind/pagefind-ui.js';
+        script.onload = function() {
+          new PagefindUI({
+            element: '#search-container',
+            showSubResults: true,
+            showImages: true,
+            autofocus: true,
+          });
+          searchInitialized = true;
+          setTimeout(function() {
+            var input = document.querySelector('#search-container input');
+            if (input) input.focus();
+          }, 100);
+        };
+        script.onerror = function() {
+          var container = document.getElementById('search-container');
+          if (container) container.innerHTML = '<p style="padding:1.5rem;text-align:center;color:#999;">Search index not available. Please rebuild the site.</p>';
+        };
+        document.head.appendChild(script);
+      } else {
+        setTimeout(function() {
+          var input = document.querySelector('#search-container input');
+          if (input) input.focus();
+        }, 50);
+      }
+    }
+
+    function closeSearch() {
+      var overlay = document.getElementById('search-overlay');
+      if (overlay) overlay.classList.add('hidden');
+      document.body.style.overflow = '';
+    }
+
+    document.getElementById('search-trigger')?.addEventListener('click', openSearch);
+    document.getElementById('search-backdrop')?.addEventListener('click', closeSearch);
+
+    document.addEventListener('keydown', function(e) {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        var overlay = document.getElementById('search-overlay');
+        if (overlay && overlay.classList.contains('hidden')) {
+          openSearch();
+        } else {
+          closeSearch();
+        }
+      }
+      if (e.key === 'Escape') closeSearch();
+    });
+  })();
+</script>

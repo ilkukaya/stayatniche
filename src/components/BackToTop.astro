@@ -1,0 +1,32 @@
+---
+// Floating back-to-top button — shows after scrolling 400px
+---
+
+<button
+  id="back-to-top"
+  aria-label="Back to top"
+  class="fixed bottom-6 right-6 z-30 hidden items-center justify-center w-11 h-11 rounded-full bg-warm-900/80 hover:bg-warm-900 text-white shadow-lg backdrop-blur-sm transition-all duration-300 hover:scale-110 active:scale-95 lg:bottom-8 lg:right-8"
+>
+  <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7" />
+  </svg>
+</button>
+
+<script>
+  const btn = document.getElementById('back-to-top');
+  if (btn) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 400) {
+        btn.classList.remove('hidden');
+        btn.classList.add('flex');
+      } else {
+        btn.classList.add('hidden');
+        btn.classList.remove('flex');
+      }
+    }, { passive: true });
+
+    btn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+</script>

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
+import SocialShare from '../../components/SocialShare.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -99,6 +100,15 @@ const articleJsonLd = {
               Contains affiliate links
             </span>
           )}
+        </div>
+
+        <div class="mt-5">
+          <SocialShare
+            title={post.data.title}
+            url={`/blog/${post.slug}/`}
+            description={post.data.excerpt || ''}
+            image={post.data.coverImage || ''}
+          />
         </div>
       </div>
     </section>

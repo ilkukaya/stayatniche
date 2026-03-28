@@ -1,4 +1,6 @@
 ---
+import SearchModal from './SearchModal.astro';
+
 const navLinks = [
   { href: '/destinations', label: 'Destinations' },
   { href: '/experiences',  label: 'Experiences' },
@@ -119,16 +121,19 @@ const currentPath = Astro.url.pathname;
         ))}
       </nav>
 
-      <!-- Desktop CTA -->
-      <a
-        href="/categories"
-        class="hidden md:inline-flex items-center gap-1.5 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-5 py-2.5 rounded-full transition-all hover:shadow-md active:scale-95"
-      >
-        Find Your Stay
-        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
-        </svg>
-      </a>
+      <!-- Desktop: Search + CTA -->
+      <div class="hidden md:flex items-center gap-3">
+        <SearchModal />
+        <a
+          href="/categories"
+          class="inline-flex items-center gap-1.5 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-5 py-2.5 rounded-full transition-all hover:shadow-md active:scale-95"
+        >
+          Find Your Stay
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
 
       <!-- Mobile hamburger -->
       <button

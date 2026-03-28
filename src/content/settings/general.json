@@ -2,7 +2,7 @@
   "siteName": "StayAtNiche",
   "tagline": "The World's Most Extraordinary Stays",
   "siteDescription": "Discover the world's most extraordinary stays: from treehouses and underwater rooms to ancient castles and transparent bubble domes. Every property hand-picked for wow factor and real character.",
-  "logo": "",
-  "favicon": "",
+  "logo": "/logo.svg",
+  "favicon": "/favicon.svg",
   "language": "en"
 }

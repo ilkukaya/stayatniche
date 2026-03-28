@@ -31,5 +31,4 @@ Allow: /
 User-agent: *
 Disallow: /admin/
 
-Sitemap: https://stayatniche.com/sitemap-index.xml
 Sitemap: https://stayatniche.com/sitemap.xml

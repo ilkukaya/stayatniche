@@ -2,7 +2,7 @@
 
 > StayAtNiche is a curated travel discovery platform for extraordinary and unique hotel stays worldwide — treehouse hotels, underwater rooms, cave hotels, safari lodges, ice hotels, overwater bungalows, cliffside retreats, desert camps, jungle lodges, bubble hotels, castle hotels, floating hotels, and lighthouse hotels.
 
-StayAtNiche helps travellers discover and book the world's most extraordinary stays. Every property is hand-selected and editorially reviewed for uniqueness, quality, and experience. The site covers 200+ hotels across 14 categories and 140+ destinations globally.
+StayAtNiche helps travellers discover and book the world's most extraordinary stays. Every property is hand-selected and editorially reviewed for uniqueness, quality, and experience. The site covers 105+ hotels across 14 categories and 90+ destinations globally.
 
 ## About
 
@@ -74,7 +74,7 @@ StayAtNiche covers 14 distinct hotel categories:
 
 ## Top Destinations
 
-StayAtNiche covers extraordinary stays across 140+ destinations including:
+StayAtNiche covers extraordinary stays across 90+ destinations including:
 
 **Africa**: Tanzania (Ngorongoro, Serengeti, Zanzibar), Kenya, South Africa (Cape Town, Kruger, Phinda), Uganda, Namibia, Madagascar, Mozambique, Seychelles, Morocco
 **Asia**: Maldives, Thailand (Northern Thailand), Vietnam (Ha Long Bay), Sri Lanka, Nepal, Myanmar (Inle Lake), UAE (Dubai)
@@ -86,8 +86,8 @@ StayAtNiche covers extraordinary stays across 140+ destinations including:
 
 StayAtNiche publishes:
 
-- **Hotel Reviews**: In-depth editorial profiles of 200+ extraordinary hotels with ratings, price ranges, highlights, amenities, location details, and booking links
-- **Destination Guides**: 140+ destination travel guides with must-see attractions, travel tips, best time to visit, currency, visa information, and local hotel recommendations
+- **Hotel Reviews**: In-depth editorial profiles of 105+ extraordinary hotels with ratings, price ranges, highlights, amenities, location details, and booking links
+- **Destination Guides**: 90+ destination travel guides with must-see attractions, travel tips, best time to visit, currency, visa information, and local hotel recommendations
 - **Category Guides**: Comprehensive guides to each hotel category (what makes them special, how to choose, seasonal considerations, costs, booking tips)
 - **Blog Articles**: Expert travel guides including safari planning, honeymoon stays, overwater bungalows beyond the Maldives, eco-lodges, cave hotels, floating hotels, and more
 

@@ -17,6 +17,9 @@ const sortedHotels = allHotels.sort((a, b) => {
 
 const totalHotels = sortedHotels.length;
 
+// Collect unique countries for filter
+const countries = [...new Set(sortedHotels.map(h => h.data.country))].sort();
+
 // Build ItemList structured data
 const hotelListJsonLd = {
   "@context": "https://schema.org",
@@ -89,35 +92,146 @@ const hotelListJsonLd = {
     </div>
   </section>
 
-  <!-- Hotels grid -->
-  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
-    <div class="flex items-center justify-between mb-8">
+  <!-- Filter & Sort Controls -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 pb-4">
+    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
       <h2 class="font-display text-2xl font-bold text-warm-950">
         All <span class="text-gold-500">Extraordinary</span> Stays
       </h2>
-      <span class="font-body text-warm-500 text-sm">{totalHotels} properties</span>
+      <div class="flex flex-wrap items-center gap-3">
+        <!-- Country Filter -->
+        <select id="country-filter" class="bg-white border border-warm-200 rounded-xl px-3 py-2 font-body text-sm text-warm-700 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 outline-none">
+          <option value="all">All Countries</option>
+          {countries.map(country => (
+            <option value={country}>{country}</option>
+          ))}
+        </select>
+        <!-- Price Filter -->
+        <select id="price-filter" class="bg-white border border-warm-200 rounded-xl px-3 py-2 font-body text-sm text-warm-700 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 outline-none">
+          <option value="all">All Prices</option>
+          <option value="1">Budget</option>
+          <option value="2">Moderate</option>
+          <option value="3">Upscale</option>
+          <option value="4">Luxury</option>
+          <option value="5">Ultra-Luxury</option>
+        </select>
+        <!-- Sort -->
+        <select id="sort-select" class="bg-white border border-warm-200 rounded-xl px-3 py-2 font-body text-sm text-warm-700 focus:border-forest-400 focus:ring-2 focus:ring-forest-100 outline-none">
+          <option value="featured">Featured First</option>
+          <option value="rating-desc">Highest Rated</option>
+          <option value="rating-asc">Lowest Rated</option>
+          <option value="price-desc">Price: High to Low</option>
+          <option value="price-asc">Price: Low to High</option>
+          <option value="name-asc">Name: A-Z</option>
+        </select>
+      </div>
     </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-      {sortedHotels.map(hotel => (
-        <HotelCard
-          name={hotel.data.name}
-          destination={hotel.data.destination}
-          country={hotel.data.country}
-          description={hotel.data.description}
-          priceRange={hotel.data.priceRange}
-          priceIndicator={hotel.data.priceIndicator}
-          rating={hotel.data.rating}
-          reviewCount={hotel.data.reviewCount}
-          highlights={hotel.data.highlights}
-          bookingUrl={hotel.data.bookingUrl}
-          slug={hotel.slug}
-          category={hotel.data.category}
-          featured={hotel.data.featured}
-          coverImage={hotel.data.coverImage}
-        />
-      ))}
+    <div class="flex items-center justify-between mt-4">
+      <span id="results-count" class="font-body text-warm-500 text-sm">{totalHotels} properties</span>
+      <button id="reset-filters" class="hidden font-body text-forest-600 hover:text-forest-700 text-sm font-medium underline-offset-2 hover:underline">
+        Reset filters
+      </button>
     </div>
   </section>
+
+  <!-- Hotels grid -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 pb-14">
+    <div id="hotels-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+      {sortedHotels.map(hotel => (
+        <div
+          class="hotel-card-wrapper"
+          data-country={hotel.data.country}
+          data-price={hotel.data.priceIndicator}
+          data-rating={hotel.data.rating}
+          data-featured={hotel.data.featured ? '1' : '0'}
+          data-name={hotel.data.name}
+        >
+          <HotelCard
+            name={hotel.data.name}
+            destination={hotel.data.destination}
+            country={hotel.data.country}
+            description={hotel.data.description}
+            priceRange={hotel.data.priceRange}
+            priceIndicator={hotel.data.priceIndicator}
+            rating={hotel.data.rating}
+            reviewCount={hotel.data.reviewCount}
+            highlights={hotel.data.highlights}
+            bookingUrl={hotel.data.bookingUrl}
+            slug={hotel.slug}
+            category={hotel.data.category}
+            featured={hotel.data.featured}
+            coverImage={hotel.data.coverImage}
+          />
+        </div>
+      ))}
+    </div>
+    <p id="no-results" class="hidden text-center font-body text-warm-500 py-16 text-lg">
+      No hotels match your filters. Try adjusting your criteria.
+    </p>
+  </section>
+
+  <script>
+    const grid = document.getElementById('hotels-grid');
+    const cards = Array.from(grid?.querySelectorAll('.hotel-card-wrapper') || []);
+    const countryFilter = document.getElementById('country-filter') as HTMLSelectElement;
+    const priceFilter = document.getElementById('price-filter') as HTMLSelectElement;
+    const sortSelect = document.getElementById('sort-select') as HTMLSelectElement;
+    const resultsCount = document.getElementById('results-count');
+    const noResults = document.getElementById('no-results');
+    const resetBtn = document.getElementById('reset-filters');
+
+    function applyFilters() {
+      const country = countryFilter?.value || 'all';
+      const price = priceFilter?.value || 'all';
+      const sort = sortSelect?.value || 'featured';
+      let visible = 0;
+      const hasFilter = country !== 'all' || price !== 'all' || sort !== 'featured';
+
+      cards.forEach(card => {
+        const el = card as HTMLElement;
+        const matchCountry = country === 'all' || el.dataset.country === country;
+        const matchPrice = price === 'all' || el.dataset.price === price;
+        if (matchCountry && matchPrice) {
+          el.style.display = '';
+          visible++;
+        } else {
+          el.style.display = 'none';
+        }
+      });
+
+      // Sort visible cards
+      const visibleCards = cards.filter(c => (c as HTMLElement).style.display !== 'none');
+      visibleCards.sort((a, b) => {
+        const ae = a as HTMLElement;
+        const be = b as HTMLElement;
+        switch (sort) {
+          case 'rating-desc': return parseFloat(be.dataset.rating || '0') - parseFloat(ae.dataset.rating || '0');
+          case 'rating-asc': return parseFloat(ae.dataset.rating || '0') - parseFloat(be.dataset.rating || '0');
+          case 'price-desc': return parseInt(be.dataset.price || '0') - parseInt(ae.dataset.price || '0');
+          case 'price-asc': return parseInt(ae.dataset.price || '0') - parseInt(be.dataset.price || '0');
+          case 'name-asc': return (ae.dataset.name || '').localeCompare(be.dataset.name || '');
+          default: return parseInt(be.dataset.featured || '0') - parseInt(ae.dataset.featured || '0');
+        }
+      });
+
+      visibleCards.forEach(card => grid?.appendChild(card));
+
+      if (resultsCount) resultsCount.textContent = `${visible} ${visible === 1 ? 'property' : 'properties'}`;
+      if (noResults) noResults.classList.toggle('hidden', visible > 0);
+      if (grid) grid.classList.toggle('hidden', visible === 0);
+      if (resetBtn) resetBtn.classList.toggle('hidden', !hasFilter);
+    }
+
+    countryFilter?.addEventListener('change', applyFilters);
+    priceFilter?.addEventListener('change', applyFilters);
+    sortSelect?.addEventListener('change', applyFilters);
+    resetBtn?.addEventListener('click', () => {
+      if (countryFilter) countryFilter.value = 'all';
+      if (priceFilter) priceFilter.value = 'all';
+      if (sortSelect) sortSelect.value = 'featured';
+      applyFilters();
+    });
+  </script>
 
   <!-- Browse by category CTA -->
   <section class="bg-warm-100 border-t border-warm-200">
