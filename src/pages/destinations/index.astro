@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { resolveImage, sizedImage } from '../../lib/images';
 
 const allDestinations = await getCollection('destinations');
 const sorted = allDestinations.sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
@@ -11,47 +12,60 @@ const continentLabels: Record<string, string> = {
   'south-america': 'South America', 'africa': 'Africa', 'oceania': 'Oceania', 'middle-east': 'Middle East',
 };
 
-// Group destinations by continent
 const byContinent = continents.reduce((acc, c) => {
   acc[c] = sorted.filter(d => d.data.continent === c);
   return acc;
 }, {} as Record<string, typeof sorted>);
 
-// Destinations without a continent mapping go to "other"
 const uncategorized = sorted.filter(d => !continents.includes(d.data.continent));
+
+const collectionJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Travel destinations — StayAtNiche",
+  "url": "https://stayatniche.com/destinations/",
+  "description": "Country, region and city guides for travellers who care where they sleep.",
+  "hasPart": sorted.slice(0, 60).map(d => ({
+    "@type": "Place",
+    "name": d.data.name,
+    "url": `https://stayatniche.com/destinations/${d.slug}/`,
+  })),
+};
 ---
 
 <BaseLayout
-  title="Travel Destinations — Extraordinary Stays Worldwide | StayAtNiche"
-  description="Explore our destination guides — country and city profiles with the best niche hotels, travel tips, and what to expect."
+  title="Travel Destinations — Every Stay Worth the Trip"
+  description="Country, region and city guides built around the hotels that make the trip. Pick where to go next and we'll tell you where to sleep."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(collectionJsonLd)} />
+
   <!-- Hero -->
   <section class="relative bg-warm-50 overflow-hidden py-16">
     <div class="dot-pattern absolute inset-0 opacity-70 pointer-events-none" />
     <div class="absolute -top-20 -left-20 w-80 h-80 bg-forest-100/50 rounded-full blur-3xl pointer-events-none" />
     <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8">
+      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8" aria-label="Breadcrumb">
         <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
         <span class="text-warm-300">/</span>
         <span class="text-warm-800 font-medium">Destinations</span>
       </nav>
       <h1 class="font-display text-5xl font-bold text-warm-950 mb-4">
-        Where Will You <span class="text-gold-500">Go?</span>
+        Where are you going <span class="text-gold-500">next?</span>
       </h1>
       <p class="font-body text-warm-600 text-lg max-w-2xl mx-auto">
-        Destination guides built around extraordinary stays. Every location tells you where to sleep in a way you'll never forget.
+        {sorted.length}+ destination guides, built around the hotels worth the trip. Pick a country, find your room.
       </p>
     </div>
   </section>
 
   <!-- Continent filter -->
-  <section class="border-b border-warm-200 bg-white sticky top-[104px] z-10">
+  <section class="border-b border-warm-200 bg-white sticky top-16 z-20">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
       <div class="flex items-center gap-2 overflow-x-auto scrollbar-hide">
         <a href="/destinations" class="flex-shrink-0 font-body text-xs font-semibold bg-warm-950 text-white px-4 py-2 rounded-full">All</a>
-        {continents.map(c => (
+        {continents.filter(c => byContinent[c]?.length > 0).map(c => (
           <a href={`/destinations#${c}`} class="flex-shrink-0 font-body text-xs text-warm-600 hover:text-warm-950 border border-warm-200 hover:border-warm-400 px-4 py-2 rounded-full transition-all whitespace-nowrap">
-            {continentLabels[c]}
+            {continentLabels[c]} <span class="text-warm-400">({byContinent[c].length})</span>
           </a>
         ))}
       </div>
@@ -62,75 +76,90 @@ const uncategorized = sorted.filter(d => !continents.includes(d.data.continent))
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
     {sorted.length === 0 ? (
       <div class="text-center py-20">
-        <p class="font-display text-2xl text-warm-400 mb-3">Destination guides coming soon</p>
-        <p class="font-body text-warm-500 mb-8">We're building comprehensive guides for the world's most extraordinary travel destinations.</p>
+        <p class="font-display text-2xl text-warm-400 mb-3">Destination guides are on the way</p>
+        <p class="font-body text-warm-500 mb-8">We're building full guides for every corner of the map. Meanwhile, browse by hotel type below.</p>
         <a href="/categories" class="inline-flex items-center gap-2 bg-forest-600 text-white font-body font-semibold px-6 py-3 rounded-full hover:bg-forest-700 transition-colors">
-          Browse Hotel Categories
+          Browse hotel categories
         </a>
       </div>
     ) : (
       <div>
         {continents.filter(c => byContinent[c]?.length > 0).map(continent => (
-          <div id={continent} class="mb-16 scroll-mt-48">
+          <div id={continent} class="mb-16 scroll-mt-32">
             <div class="flex items-center gap-3 mb-6">
               <h2 class="font-display text-2xl font-bold text-warm-950">{continentLabels[continent]}</h2>
               <span class="font-body text-warm-400 text-sm">({byContinent[continent].length})</span>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {byContinent[continent].map(dest => (
-                <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
-                  <div class="relative h-48 bg-gradient-to-br from-warm-100 to-warm-200 overflow-hidden">
-                    {dest.data.coverImage ? (
-                      <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
-                    ) : (
-                      <div class="absolute inset-0 bg-gradient-to-br from-warm-100 to-forest-100" />
-                    )}
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
-                    <div class="absolute bottom-0 inset-x-0 p-4">
-                      <h3 class="font-display text-xl font-bold text-white leading-tight">{dest.data.name}</h3>
-                    </div>
-                    {dest.data.featured && (
-                      <div class="absolute top-3 right-3 bg-gold-500 text-white text-xs font-body font-bold px-2.5 py-1 rounded-full">Featured</div>
-                    )}
-                  </div>
-                  <div class="p-5">
-                    {dest.data.description && (
-                      <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2 mb-4">{dest.data.description}</p>
-                    )}
-                    <div class="flex flex-wrap gap-2">
-                      {dest.data.bestTimeToVisit?.summary && (
-                        <span class="font-body text-xs text-warm-500 bg-warm-100 px-2.5 py-1 rounded-full">Best: {dest.data.bestTimeToVisit.summary}</span>
+              {byContinent[continent].map(dest => {
+                const img = resolveImage(dest.data.coverImage, { slug: dest.slug, continent });
+                const src600 = sizedImage(img, 600);
+                const src900 = sizedImage(img, 900);
+                return (
+                  <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
+                    <div class="relative h-48 bg-warm-100 overflow-hidden">
+                      <img
+                        src={src600}
+                        srcset={`${src600} 600w, ${src900} 900w`}
+                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        alt={dest.data.name}
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                        loading="lazy"
+                        decoding="async"
+                        width="600"
+                        height="400"
+                      />
+                      <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
+                      <div class="absolute bottom-0 inset-x-0 p-4">
+                        <h3 class="font-display text-xl font-bold text-white leading-tight drop-shadow">{dest.data.name}</h3>
+                        {dest.data.country && dest.data.country !== dest.data.name && (
+                          <p class="font-body text-white/80 text-xs mt-0.5">{dest.data.country}</p>
+                        )}
+                      </div>
+                      {dest.data.featured && (
+                        <div class="absolute top-3 right-3 bg-gold-500 text-white text-[10px] font-body font-bold uppercase tracking-widest px-2.5 py-1 rounded-full shadow-sm">Featured</div>
                       )}
-                      {dest.data.type && (
-                        <span class="font-body text-xs text-forest-600 bg-forest-50 border border-forest-100 px-2.5 py-1 rounded-full capitalize">{dest.data.type}</span>
-                      )}
                     </div>
-                  </div>
-                </a>
-              ))}
+                    <div class="p-5">
+                      {dest.data.description && (
+                        <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2 mb-4">{dest.data.description}</p>
+                      )}
+                      <div class="flex flex-wrap gap-2">
+                        {dest.data.bestTimeToVisit?.summary && (
+                          <span class="font-body text-xs text-warm-500 bg-warm-100 px-2.5 py-1 rounded-full">Best: {dest.data.bestTimeToVisit.summary}</span>
+                        )}
+                        {dest.data.type && (
+                          <span class="font-body text-xs text-forest-600 bg-forest-50 border border-forest-100 px-2.5 py-1 rounded-full capitalize">{dest.data.type}</span>
+                        )}
+                      </div>
+                    </div>
+                  </a>
+                );
+              })}
             </div>
           </div>
         ))}
         {uncategorized.length > 0 && (
           <div class="mb-16">
-            <h2 class="font-display text-2xl font-bold text-warm-950 mb-6">Other Destinations</h2>
+            <h2 class="font-display text-2xl font-bold text-warm-950 mb-6">More places</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {uncategorized.map(dest => (
-                <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
-                  <div class="relative h-48 overflow-hidden bg-gradient-to-br from-warm-100 to-forest-100">
-                    {dest.data.coverImage && (
-                      <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
-                    )}
-                    <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
-                    <div class="absolute bottom-0 inset-x-0 p-4">
-                      <h3 class="font-display text-xl font-bold text-white leading-tight">{dest.data.name}</h3>
+              {uncategorized.map(dest => {
+                const img = resolveImage(dest.data.coverImage, { slug: dest.slug });
+                return (
+                  <a href={`/destinations/${dest.slug}`} class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100">
+                    <div class="relative h-48 overflow-hidden bg-warm-100">
+                      <img src={img} alt={dest.data.name} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" width="600" height="400" />
+                      <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
+                      <div class="absolute bottom-0 inset-x-0 p-4">
+                        <h3 class="font-display text-xl font-bold text-white leading-tight drop-shadow">{dest.data.name}</h3>
+                      </div>
                     </div>
-                  </div>
-                  <div class="p-5">
-                    {dest.data.description && <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2">{dest.data.description}</p>}
-                  </div>
-                </a>
-              ))}
+                    <div class="p-5">
+                      {dest.data.description && <p class="font-body text-warm-600 text-sm leading-relaxed line-clamp-2">{dest.data.description}</p>}
+                    </div>
+                  </a>
+                );
+              })}
             </div>
           </div>
         )}

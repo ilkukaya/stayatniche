@@ -2,7 +2,7 @@
 title: Ice Hotels
 tagline: "Sculpted from winter, melted by spring"
 description: Rebuilt entirely from scratch each winter using thousands of tonnes of Arctic snow and river ice, ice hotels are the world's most ephemeral luxury. Sculpted by international artists, maintained at sub-zero temperatures, and open for just a few months before returning poetically to the river, these frozen palaces are unlike anything else that exists.
-icon: 🧊
+icon: ice-hotels
 coverImage: "https://images.unsplash.com/photo-1548786811-dd6e453ccca7?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 12

@@ -61,8 +61,10 @@ const socialLinks = [
 
       <!-- Brand column -->
       <div class="md:col-span-2">
-        <a href="/" class="inline-flex items-center gap-2 mb-4 group">
-          <span class="text-gold-500 text-lg">✦</span>
+        <a href="/" class="inline-flex items-center gap-2 mb-4 group" aria-label={`${siteName} — home`}>
+          <svg class="w-5 h-5 text-gold-500" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 2l2.9 6.6 7.1.7-5.4 4.8 1.7 6.9L12 17.4 5.7 21l1.7-6.9L2 9.3l7.1-.7L12 2z"/>
+          </svg>
           <span class="font-display text-xl font-bold text-warm-950 group-hover:text-warm-700 transition-colors">
             {siteName}
           </span>
@@ -74,13 +76,16 @@ const socialLinks = [
         <!-- Trust badges -->
         <div class="flex flex-wrap gap-2 mb-5">
           <span class="inline-flex items-center gap-1.5 bg-white border border-warm-200 rounded-full px-3 py-1.5 text-xs font-body text-warm-600">
-            <span class="text-forest-500">✓</span> Expedia Partner
+            <svg class="w-3 h-3 text-forest-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
+            Expedia partner
           </span>
           <span class="inline-flex items-center gap-1.5 bg-white border border-warm-200 rounded-full px-3 py-1.5 text-xs font-body text-warm-600">
-            <span class="text-[#FF5722]">✓</span> Klook Partner
+            <svg class="w-3 h-3 text-[#FF5722]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
+            Klook partner
           </span>
           <span class="inline-flex items-center gap-1.5 bg-white border border-warm-200 rounded-full px-3 py-1.5 text-xs font-body text-warm-600">
-            <span class="text-gold-500">✦</span> Hand-curated
+            <svg class="w-3 h-3 text-gold-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
+            Hand-picked
           </span>
         </div>
 
@@ -133,12 +138,14 @@ const socialLinks = [
         <p class="font-display text-base font-semibold text-warm-900">Never miss an extraordinary stay</p>
         <p class="font-body text-sm text-warm-500 mt-0.5">Weekly picks, zero spam.</p>
       </div>
-      <form class="flex gap-2 w-full sm:w-auto" netlify name="footer-newsletter" method="POST" action="/newsletter-success/">
+      <form class="flex gap-2 w-full sm:w-auto" netlify name="footer-newsletter" method="POST" action="/newsletter-success/" data-netlify-honeypot="bot-field">
         <input type="hidden" name="form-name" value="footer-newsletter" />
+        <p class="hidden"><label>Don't fill this out: <input name="bot-field" /></label></p>
         <input
           type="email"
           name="email"
-          placeholder="your@email.com"
+          autocomplete="email"
+          placeholder="you@example.com"
           required
           class="flex-1 sm:w-56 bg-warm-50 border border-warm-200 focus:border-forest-400 text-warm-900 placeholder-warm-400 font-body text-sm px-4 py-2.5 rounded-full outline-none transition-colors"
         />

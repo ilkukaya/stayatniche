@@ -25,10 +25,19 @@
  *     BREVO_LIST_ID      = list ID number (integer)
  */
 
+// Lightweight, RFC-5321-friendly enough email regex. Rejects the obvious.
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+
 exports.handler = async (event) => {
   // Only accept POST
   if (event.httpMethod !== "POST") {
     return { statusCode: 405, body: "Method not allowed" };
+  }
+
+  // Refuse oversized bodies early. Netlify caps at 6 MB but newsletter
+  // submissions should be a few hundred bytes at most.
+  if (event.body && event.body.length > 10_000) {
+    return { statusCode: 413, body: "Payload too large" };
   }
 
   let payload;
@@ -40,12 +49,24 @@ exports.handler = async (event) => {
 
   // Netlify Forms sends: { payload: { data: { email, name, ... } } }
   const formData = payload?.payload?.data || payload?.data || payload;
-  const email = formData?.email;
-  const name = formData?.name || "";
+
+  // Honeypot — any submission that filled the hidden bot-field is spam.
+  if (formData?.["bot-field"]) {
+    return { statusCode: 200, body: JSON.stringify({ message: "ok" }) };
+  }
+
+  const email = (formData?.email || "").trim().toLowerCase();
+  const name = (formData?.name || "").trim();
   const firstName = name.split(" ")[0] || "";
 
   if (!email) {
     return { statusCode: 400, body: "No email in submission" };
+  }
+  if (email.length > 254 || !EMAIL_RE.test(email)) {
+    return { statusCode: 400, body: "Invalid email" };
+  }
+  if (firstName.length > 80) {
+    return { statusCode: 400, body: "Name too long" };
   }
 
   const provider = process.env.NEWSLETTER_PROVIDER || "none";

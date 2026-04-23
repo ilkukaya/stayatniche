@@ -2,7 +2,7 @@
 title: Cave Hotels
 tagline: "Carved from the earth, carved for luxury"
 description: Carved from volcanic tufa, soft sandstone, and ancient limestone, cave hotels place you inside the earth itself. Turkey's legendary Cappadocia leads the world in cave hotel excellence, but extraordinary rock-hewn retreats also await in Greece, Spain, Tunisia, and the American Southwest.
-icon: 🪨
+icon: cave-hotels
 coverImage: /images/2ad002fa-ae85-44cb-978b-8c0a7dd60e23.jpg
 stats:
   hotelCount: 42

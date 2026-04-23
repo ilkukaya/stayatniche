@@ -2,7 +2,7 @@
 title: Floating Hotels
 tagline: "Where land ends, luxury begins"
 description: Glide through the world's most beautiful waterways aboard luxury floating hotels, or moor alongside historic city waterfronts in architect-designed houseboats. From Maldivian overwater structures to Norway's fjord boats and Vietnam's Ha Long Bay junks, aquatic retreats offer a perspective on travel that land can never match.
-icon: 🛶
+icon: floating-hotels
 coverImage: "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 34

@@ -2,7 +2,7 @@
 title: Lighthouse Hotels
 tagline: Sleep where the light guides ships home
 description: Converted working lighthouses and lighthouse-inspired hotels perched on dramatic coastlines around the world. Wake to sweeping ocean panoramas, the distant sound of foghorns, and sunrises that emerge from the sea itself, in some of the world's most storied and romantically isolated maritime locations.
-icon: 🔦
+icon: lighthouse-hotels
 stats:
   hotelCount: 8
   avgPrice: 280

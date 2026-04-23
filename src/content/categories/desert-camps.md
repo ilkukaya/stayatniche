@@ -2,7 +2,7 @@
 title: Desert Camps
 tagline: "Under a billion stars, on a sea of sand"
 description: From Morocco's rolling Sahara dunes to Jordan's red-rock Wadi Rum and India's Thar Desert, luxury desert camps transform the world's most extreme landscapes into intimate, starlit sanctuaries. These are places of extraordinary silence, impossible skies, and a profound simplicity that reshapes your relationship with the modern world.
-icon: 🏜️
+icon: desert-camps
 coverImage: "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 89

@@ -2,7 +2,7 @@
 title: Castle Hotels
 tagline: "Medieval grandeur meets modern luxury"
 description: Imagine sleeping within walls that have withstood sieges, hosted monarchs, and witnessed centuries of history. Castle hotels across Ireland, Scotland, France, and Central Europe offer the rare opportunity to inhabit genuine historic fortresses transformed into grand, atmospheric luxury hotels.
-icon: 🏰
+icon: castle-hotels
 coverImage: /images/d77685e2-39c7-4bf2-b3b8-fe9f4b56f0d6.jpg
 stats:
   hotelCount: 156

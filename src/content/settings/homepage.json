@@ -1,22 +1,22 @@
 {
   "hero": {
-    "headline": "The World's Most Extraordinary Stays",
-    "subheadline": "From treetop suites to underwater bedrooms, ancient castles to transparent bubble domes. Find stays that go well beyond the ordinary.",
+    "headline": "Hotels worth the trip.",
+    "subheadline": "Treehouses in Swedish Lapland. Underwater rooms in the Maldives. Caves in Cappadocia. We find the places you'll actually tell people about.",
     "bgImage": "https://images.unsplash.com/photo-1540541338537-3cfb4e9a5ab8?w=1600&q=80&auto=format&fit=crop",
-    "ctaText": "Explore Categories",
+    "ctaText": "Browse every category",
     "ctaUrl": "/categories",
-    "cta2Text": "View Featured Stays",
-    "cta2Url": "#featured-hotels"
+    "cta2Text": "See the featured stays",
+    "cta2Url": "#featured"
   },
   "featuredSection": {
     "show": true,
-    "title": "Featured Stays",
-    "subtitle": "Our editors' picks: the most distinctive properties in the world right now."
+    "title": "Featured stays",
+    "subtitle": "The ones our editors can't stop thinking about."
   },
   "newsletter": {
     "show": true,
-    "headline": "Never Miss an Extraordinary Stay",
-    "description": "Hand-picked unique hotels and niche stays, delivered to your inbox weekly. No spam, just wanderlust."
+    "headline": "A weekly dose of hotels worth the trip.",
+    "description": "One short email every Friday. No sponsored fluff, no 50-item listicles. Unsubscribe in one click."
   },
   "showBlog": true,
   "showDestinations": true,

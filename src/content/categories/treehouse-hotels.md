@@ -2,7 +2,7 @@
 title: Treehouse Hotels
 tagline: Sleep among the canopy, above it all
 description: Suspended high above the forest floor, treehouse hotels transform a childhood dream into sophisticated adult luxury. From Scandinavia's minimalist glass-and-timber retreats to tropical jungle platforms in Costa Rica and Bali, these canopy-level escapes deliver an unmatched connection with nature wrapped in genuine comfort.
-icon: tree
+icon: treehouse-hotels
 coverImage: /images/6e7d5558-b366-467e-bb98-42494dae5374.jpg
 stats:
   hotelCount: 42
