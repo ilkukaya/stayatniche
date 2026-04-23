@@ -2,7 +2,7 @@
 title: Train Hotels
 tagline: Journey through the night in rolling luxury
 description: Luxury sleeper trains and converted railway carriages that make the journey itself the destination. From the legendary Venice Simplon-Orient-Express crossing Europe to private rail journeys through the Scottish Highlands and the maharaja trains of Rajasthan, these rolling hotels represent the golden age of travel, beautifully reimagined.
-icon: 🚂
+icon: train-hotels
 stats:
   hotelCount: 6
   avgPrice: 450

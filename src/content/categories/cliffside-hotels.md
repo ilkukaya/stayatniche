@@ -2,7 +2,7 @@
 title: Cliffside Hotels
 tagline: "Perched where eagles dare"
 description: Suspended above sheer drops to sea, river, or valley, cliffside hotels occupy some of the most dramatic positions on earth. From Santorini's iconic caldera-edge infinity pools to Peru's via-ferrata-access sky lodges and Oman's gorge-perched mountain retreats, these properties redefine what a room with a view means.
-icon: ⛰️
+icon: cliffside-hotels
 coverImage: "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 67

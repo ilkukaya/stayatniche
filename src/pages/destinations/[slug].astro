@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
 import AffiliateBookingBox from '../../components/AffiliateBookingBox.astro';
 import { getCollection } from 'astro:content';
+import { resolveImage, sizedImage } from '../../lib/images';
 
 export async function getStaticPaths() {
   const destinations = await getCollection('destinations');
@@ -39,15 +40,20 @@ const destinationTypeMap: Record<string, string> = {
   island: "TouristDestination",
 };
 
+const heroImage = resolveImage(dest.data.heroImage || dest.data.coverImage, {
+  slug: dest.slug,
+  continent: dest.data.continent,
+});
+const heroImageLg = sizedImage(heroImage, 1600);
+const heroImageOg = sizedImage(heroImage, 1200);
+
 const destJsonLd = {
   "@context": "https://schema.org",
   "@type": destinationTypeMap[dest.data.type] || "TouristDestination",
   "name": dest.data.name,
   "description": metaDesc,
   "url": `https://stayatniche.com/destinations/${dest.slug}/`,
-  ...(dest.data.coverImage ? {
-    "image": dest.data.coverImage.startsWith('http') ? dest.data.coverImage : `https://stayatniche.com${dest.data.coverImage}`
-  } : {}),
+  "image": heroImageOg,
   ...(dest.data.coordinates ? {
     "geo": {
       "@type": "GeoCoordinates",
@@ -61,21 +67,27 @@ const destJsonLd = {
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc}>
+<BaseLayout title={metaTitle} description={metaDesc} image={heroImageOg} heroImage={heroImageLg} type="article">
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(destJsonLd)} />
 
   <!-- Hero -->
   <section class="relative overflow-hidden">
-    <div class="h-72 sm:h-96 relative">
-      {dest.data.coverImage ? (
-        <img src={dest.data.coverImage} alt={dest.data.name} class="w-full h-full object-cover" />
-      ) : (
-        <div class="w-full h-full bg-gradient-to-br from-forest-100 to-warm-200" />
-      )}
+    <div class="h-72 sm:h-[460px] relative bg-warm-100">
+      <img
+        src={heroImageLg}
+        srcset={`${sizedImage(heroImage, 1000)} 1000w, ${heroImageLg} 1600w`}
+        sizes="100vw"
+        alt={dest.data.name}
+        class="w-full h-full object-cover"
+        loading="eager"
+        fetchpriority="high"
+        width="1600"
+        height="900"
+      />
       <div class="absolute inset-0 bg-gradient-to-t from-warm-950/70 via-warm-950/20 to-transparent" />
       <div class="absolute bottom-0 inset-x-0 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-10">
-        <nav class="flex items-center gap-2 text-white/60 text-sm font-body mb-4">
+        <nav class="flex items-center gap-2 text-white/70 text-sm font-body mb-4" aria-label="Breadcrumb">
           <a href="/" class="hover:text-white transition-colors">Home</a>
           <span>/</span>
           <a href="/destinations" class="hover:text-white transition-colors">Destinations</a>
@@ -85,7 +97,7 @@ const destJsonLd = {
         {dest.data.type && (
           <span class="inline-block bg-white/20 backdrop-blur text-white font-body text-xs font-semibold px-3 py-1 rounded-full mb-3 capitalize">{dest.data.type}</span>
         )}
-        <h1 class="font-display text-4xl sm:text-5xl font-bold text-white">{dest.data.name}</h1>
+        <h1 class="font-display text-4xl sm:text-5xl font-bold text-white drop-shadow">{dest.data.name}</h1>
       </div>
     </div>
   </section>
@@ -101,11 +113,11 @@ const destJsonLd = {
 
         {dest.data.mustSee && dest.data.mustSee.length > 0 && (
           <div class="mb-10">
-            <h2 class="font-display text-2xl font-bold text-warm-950 mb-5">Must-See Attractions</h2>
+            <h2 class="font-display text-2xl font-bold text-warm-950 mb-5">Don't miss</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
               {dest.data.mustSee.map((item: string) => (
                 <div class="flex items-start gap-3 bg-white rounded-xl border border-warm-100 p-4 shadow-soft">
-                  <span class="text-gold-500 font-bold mt-0.5 flex-shrink-0">✦</span>
+                  <svg class="w-4 h-4 text-gold-500 mt-0.5 flex-shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
                   <span class="font-body text-warm-700 text-sm">{item}</span>
                 </div>
               ))}
@@ -115,10 +127,10 @@ const destJsonLd = {
 
         {dest.data.travelTips && dest.data.travelTips.length > 0 && (
           <div class="mb-10">
-            <h2 class="font-display text-2xl font-bold text-warm-950 mb-5">Insider Tips</h2>
+            <h2 class="font-display text-2xl font-bold text-warm-950 mb-5">Local tips</h2>
             {dest.data.travelTips.map((tip: string) => (
               <div class="flex items-start gap-3 mb-3">
-                <span class="text-forest-500 font-bold mt-1 flex-shrink-0">→</span>
+                <svg class="w-4 h-4 text-forest-500 mt-1 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg>
                 <span class="font-body text-warm-700 text-sm leading-relaxed">{tip}</span>
               </div>
             ))}
@@ -193,10 +205,10 @@ const destJsonLd = {
 
         <!-- Browse stays CTA -->
         <div class="bg-forest-50 border border-forest-100 rounded-2xl p-5">
-          <h3 class="font-display text-base font-bold text-warm-950 mb-2">Extraordinary Stays</h3>
-          <p class="font-body text-warm-600 text-sm mb-3">Browse hand-picked niche hotels in {dest.data.name}.</p>
+          <h3 class="font-display text-base font-bold text-warm-950 mb-2">Places to sleep</h3>
+          <p class="font-body text-warm-600 text-sm mb-3">We've hand-picked the unusual hotels worth the trip in {dest.data.name}.</p>
           <a href="/categories" class="block w-full text-center bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-4 py-3 rounded-full transition-colors">
-            Browse All Categories
+            Browse all categories
           </a>
         </div>
       </div>
@@ -208,7 +220,7 @@ const destJsonLd = {
     <section class="bg-warm-100 border-t border-warm-200">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
-          Extraordinary Stays in <span class="text-gold-500">{dest.data.name}</span>
+          Places to stay in <span class="text-gold-500">{dest.data.name}</span>
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           {localHotels.map(h => (

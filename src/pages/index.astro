@@ -1,7 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from '../components/HotelCard.astro';
+import CategoryIcon from '../components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
+import { resolveImage, sizedImage } from '../lib/images';
+import { AFFILIATE_REL, withTracking } from '../lib/affiliate';
 
 const allCategories = await getCollection('categories');
 const allHotels     = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
@@ -55,13 +58,12 @@ const bentoCategories = sortedCategories.slice(0, 8);
 
           <!-- Headline -->
           <h1 class="font-display text-5xl sm:text-6xl lg:text-[64px] font-bold text-warm-950 leading-[1.05] mb-6">
-            Stays That<br />
-            <span class="text-gold-500 italic">Stories</span><br />
-            Are Made Of
+            Hotels <span class="italic text-gold-500">worth</span><br />
+            the trip.
           </h1>
 
           <p class="font-body text-warm-600 text-lg leading-relaxed mb-10 max-w-lg">
-            From treetop suites in Swedish Lapland to underwater bedrooms in the Maldives — we curate the world's most unforgettable accommodations.
+            Treehouses in Swedish Lapland. Underwater rooms in the Maldives. Caves in Cappadocia. We find the places you'll actually tell people about.
           </p>
 
           <!-- CTAs -->
@@ -70,8 +72,8 @@ const bentoCategories = sortedCategories.slice(0, 8);
               href="/categories"
               class="inline-flex items-center justify-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-7 py-4 rounded-full text-base transition-all hover:shadow-lg active:scale-[0.98]"
             >
-              Explore All Categories
-              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              Browse every category
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
               </svg>
             </a>
@@ -79,7 +81,7 @@ const bentoCategories = sortedCategories.slice(0, 8);
               href="#featured"
               class="inline-flex items-center justify-center gap-2 bg-white hover:bg-warm-50 text-warm-800 font-body font-semibold px-7 py-4 rounded-full text-base border border-warm-200 transition-all"
             >
-              Featured Stays
+              See featured stays
             </a>
           </div>
 
@@ -87,17 +89,17 @@ const bentoCategories = sortedCategories.slice(0, 8);
           <div class="flex items-center gap-8 pt-6 border-t border-warm-200">
             <div>
               <div class="font-display text-2xl font-bold text-warm-950">{stats.categories}</div>
-              <div class="font-body text-warm-500 text-xs mt-0.5">Niche types</div>
+              <div class="font-body text-warm-500 text-xs mt-0.5">Hotel types</div>
             </div>
             <div class="w-px h-8 bg-warm-200" />
             <div>
               <div class="font-display text-2xl font-bold text-warm-950">{stats.hotels}+</div>
-              <div class="font-body text-warm-500 text-xs mt-0.5">Curated stays</div>
+              <div class="font-body text-warm-500 text-xs mt-0.5">Stays covered</div>
             </div>
             <div class="w-px h-8 bg-warm-200" />
             <div>
-              <div class="font-display text-2xl font-bold text-warm-950">4.9</div>
-              <div class="font-body text-warm-500 text-xs mt-0.5">Avg. rating</div>
+              <div class="font-display text-2xl font-bold text-warm-950">{stats.countries}+</div>
+              <div class="font-body text-warm-500 text-xs mt-0.5">Countries</div>
             </div>
           </div>
         </div>
@@ -199,28 +201,30 @@ const bentoCategories = sortedCategories.slice(0, 8);
     <!-- Bento grid: 2 wide + 4 standard + 2 wide pattern -->
     <div class="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-4">
       {bentoCategories.map((cat, i) => {
-        // First and last items span 2 columns for variety
         const isWide = i === 0 || i === 5;
-        const img = cat.data.coverImage || '';
+        const img = resolveImage(cat.data.coverImage, { category: cat.slug });
+        const src = sizedImage(img, isWide ? 1200 : 600);
         return (
           <a
             href={`/categories/${cat.slug}`}
             class:list={[
-              'group relative rounded-2xl overflow-hidden block',
+              'group relative rounded-2xl overflow-hidden block bg-warm-100',
               isWide ? 'col-span-2 aspect-[16/9] md:aspect-[2/1]' : 'aspect-[4/3]',
             ]}
           >
-            {img ? (
-              <img
-                src={img}
-                alt={cat.data.title}
-                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                loading="lazy"
-              />
-            ) : (
-              <div class="w-full h-full bg-gradient-to-br from-warm-200 to-warm-300" />
-            )}
+            <img
+              src={src}
+              alt={cat.data.title}
+              class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+              loading="lazy"
+              decoding="async"
+              width={isWide ? 1200 : 600}
+              height={isWide ? 600 : 450}
+            />
             <div class="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent group-hover:from-black/75 transition-all duration-300" />
+            <div class="absolute top-3 left-3 w-9 h-9 rounded-full bg-white/15 backdrop-blur-sm border border-white/20 flex items-center justify-center text-white">
+              <CategoryIcon slug={cat.slug} size={16} />
+            </div>
             <div class="absolute bottom-0 inset-x-0 p-4">
               {cat.data.featured && (
                 <span class="inline-block bg-gold-500 text-white text-[10px] font-body font-bold uppercase tracking-widest px-2 py-0.5 rounded-full mb-1">
@@ -249,11 +253,11 @@ const bentoCategories = sortedCategories.slice(0, 8);
         <div class="flex items-end justify-between mb-10">
           <div>
             <div class="inline-flex items-center gap-2 mb-2">
-              <span class="text-gold-500">✦</span>
-              <span class="font-body text-xs font-semibold text-warm-500 uppercase tracking-widest">Editor's Selection</span>
+              <svg class="w-4 h-4 text-gold-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
+              <span class="font-body text-xs font-semibold text-warm-500 uppercase tracking-widest">Editors' picks</span>
             </div>
             <h2 class="font-display text-4xl font-bold text-warm-950">
-              Featured <span class="text-gold-500">Stays</span>
+              Featured <span class="text-gold-500">stays</span>
             </h2>
           </div>
           <a href="/categories" class="hidden sm:inline-flex items-center gap-2 border border-warm-200 hover:border-forest-400 hover:bg-forest-50 text-warm-700 hover:text-forest-700 font-body text-sm font-semibold px-5 py-2.5 rounded-full transition-all">
@@ -500,23 +504,25 @@ const bentoCategories = sortedCategories.slice(0, 8);
       <div class="relative grid grid-cols-1 lg:grid-cols-2 gap-10 items-center px-8 sm:px-12 py-14">
         <div>
           <div class="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-4 py-1.5 mb-6">
-            <span class="text-gold-400 text-sm">✦</span>
-            <span class="font-body text-white/80 text-sm">No spam. Extraordinary stays only.</span>
+            <svg class="w-3.5 h-3.5 text-gold-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
+            <span class="font-body text-white/80 text-sm">One email a week. That's it.</span>
           </div>
           <h2 class="font-display text-3xl sm:text-4xl font-bold text-white mb-4 leading-tight">
-            Never Miss an<br />Extraordinary Stay
+            A weekly dose of<br />hotels worth the trip.
           </h2>
           <p class="font-body text-white/60 text-base leading-relaxed">
-            Weekly hand-picks from the world's most unique hotels. Unsubscribe with one click, anytime.
+            Every Friday. No sponsored fluff, no 50-item listicles. Unsubscribe in one click.
           </p>
         </div>
         <div>
-          <form class="space-y-3" netlify name="newsletter" method="POST" action="/newsletter-success/">
+          <form class="space-y-3" netlify name="newsletter" method="POST" action="/newsletter-success/" data-netlify-honeypot="bot-field">
             <input type="hidden" name="form-name" value="newsletter" />
+            <p class="hidden"><label>Don't fill this out: <input name="bot-field" /></label></p>
             <input
               type="email"
               name="email"
-              placeholder="your@email.com"
+              autocomplete="email"
+              placeholder="you@example.com"
               required
               class="w-full bg-white/10 border border-white/20 focus:border-white/50 text-white placeholder-white/40 font-body px-5 py-4 rounded-full outline-none transition-colors text-sm"
             />
@@ -524,7 +530,7 @@ const bentoCategories = sortedCategories.slice(0, 8);
               type="submit"
               class="w-full bg-gold-500 hover:bg-gold-400 text-warm-950 font-body font-bold px-7 py-4 rounded-full transition-all hover:shadow-lg active:scale-[0.99] text-sm"
             >
-              Subscribe Free — Join 2,400+ travelers
+              Subscribe free
             </button>
           </form>
           <p class="font-body text-white/30 text-xs mt-3 text-center">

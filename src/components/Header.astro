@@ -1,4 +1,6 @@
 ---
+import CategoryIcon from './CategoryIcon.astro';
+
 const navLinks = [
   { href: '/destinations', label: 'Destinations' },
   { href: '/experiences',  label: 'Experiences' },
@@ -6,20 +8,20 @@ const navLinks = [
 ];
 
 const categories = [
-  { href: '/categories/treehouse-hotels',    label: 'Treehouse Hotels',    desc: 'Sleep among the canopy' },
-  { href: '/categories/cave-hotels',         label: 'Cave Hotels',         desc: 'Ancient rock formations' },
-  { href: '/categories/underwater-rooms',    label: 'Underwater Rooms',    desc: 'Beneath the ocean surface' },
-  { href: '/categories/castle-hotels',       label: 'Castle Hotels',       desc: 'Medieval grandeur' },
-  { href: '/categories/floating-hotels',     label: 'Floating Hotels',     desc: 'On water, in wonder' },
-  { href: '/categories/bubble-hotels',       label: 'Bubble Hotels',       desc: 'Transparent stargazing' },
-  { href: '/categories/cliffside-hotels',    label: 'Cliffside Hotels',    desc: 'Dramatic edge vistas' },
-  { href: '/categories/desert-camps',        label: 'Desert Camps',        desc: 'Dunes & star-filled skies' },
-  { href: '/categories/jungle-lodges',       label: 'Jungle Lodges',       desc: 'Deep in the canopy' },
-  { href: '/categories/ice-hotels',          label: 'Ice Hotels',          desc: 'Sculpted from snow & ice' },
-  { href: '/categories/safari-lodges',       label: 'Safari Lodges',       desc: 'Wild Africa at dawn' },
-  { href: '/categories/overwater-bungalows', label: 'Overwater Bungalows', desc: 'Lagoon life, elevated' },
-  { href: '/categories/lighthouse-hotels',   label: 'Lighthouse Hotels',   desc: 'Beacon views & sea air' },
-  { href: '/categories/train-hotels',        label: 'Train Hotels',        desc: 'Scenic rail journeys' },
+  { slug: 'treehouse-hotels',    label: 'Treehouse hotels',    desc: 'Sleep up in the canopy' },
+  { slug: 'cave-hotels',         label: 'Cave hotels',         desc: 'Rooms carved from rock' },
+  { slug: 'underwater-rooms',    label: 'Underwater rooms',    desc: 'Wake up under the sea' },
+  { slug: 'castle-hotels',       label: 'Castle hotels',       desc: 'Stay the weekend, knight' },
+  { slug: 'floating-hotels',     label: 'Floating hotels',     desc: 'Rooms right on the water' },
+  { slug: 'bubble-hotels',       label: 'Bubble hotels',       desc: 'Transparent stargazing domes' },
+  { slug: 'cliffside-hotels',    label: 'Cliffside hotels',    desc: 'Built into the edge' },
+  { slug: 'desert-camps',        label: 'Desert camps',        desc: 'Dunes and quiet skies' },
+  { slug: 'jungle-lodges',       label: 'Jungle lodges',       desc: 'Deep in the rainforest' },
+  { slug: 'ice-hotels',          label: 'Ice hotels',          desc: 'Sculpted fresh every winter' },
+  { slug: 'safari-lodges',       label: 'Safari lodges',       desc: 'Wake to lions at dawn' },
+  { slug: 'overwater-bungalows', label: 'Overwater bungalows', desc: 'Lagoon life, elevated' },
+  { slug: 'lighthouse-hotels',   label: 'Lighthouse hotels',   desc: 'Beacon views, sea air' },
+  { slug: 'train-hotels',        label: 'Train hotels',        desc: 'Legendary rail journeys' },
 ];
 
 const currentPath = Astro.url.pathname;
@@ -33,8 +35,10 @@ const currentPath = Astro.url.pathname;
     <div class="flex items-center justify-between h-16">
 
       <!-- Logo -->
-      <a href="/" class="flex items-center gap-2 group flex-shrink-0">
-        <span class="text-gold-500 text-lg leading-none">✦</span>
+      <a href="/" class="flex items-center gap-2 group flex-shrink-0" aria-label="StayAtNiche — home">
+        <svg class="w-5 h-5 text-gold-500" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 2l2.9 6.6 7.1.7-5.4 4.8 1.7 6.9L12 17.4 5.7 21l1.7-6.9L2 9.3l7.1-.7L12 2z"/>
+        </svg>
         <span class="font-display text-xl font-bold text-warm-950 group-hover:text-warm-700 transition-colors">
           StayAtNiche
         </span>
@@ -74,10 +78,12 @@ const currentPath = Astro.url.pathname;
               <div class="grid grid-cols-3 gap-1">
                 {categories.map(cat => (
                   <a
-                    href={cat.href}
+                    href={`/categories/${cat.slug}`}
                     class="group/item flex items-start gap-2.5 p-2.5 rounded-xl hover:bg-warm-50 transition-colors"
                   >
-                    <span class="text-gold-400 mt-0.5 flex-shrink-0 text-xs">✦</span>
+                    <span class="flex items-center justify-center w-7 h-7 rounded-lg bg-warm-100 group-hover/item:bg-forest-100 text-forest-600 flex-shrink-0 transition-colors">
+                      <CategoryIcon slug={cat.slug} size={14} />
+                    </span>
                     <div>
                       <div class="font-body text-sm font-semibold text-warm-900 group-hover/item:text-forest-700 transition-colors leading-snug">
                         {cat.label}
@@ -165,11 +171,11 @@ const currentPath = Astro.url.pathname;
       ))}
     </div>
     <div class="px-4 pb-3 border-t border-warm-100 pt-3">
-      <p class="text-warm-400 text-xs font-body px-3 mb-2 uppercase tracking-wider font-semibold">Quick Browse</p>
+      <p class="text-warm-400 text-xs font-body px-3 mb-2 uppercase tracking-wider font-semibold">Quick browse</p>
       <div class="flex flex-wrap gap-1.5 px-1">
         {categories.map(cat => (
           <a
-            href={cat.href}
+            href={`/categories/${cat.slug}`}
             class="font-body text-xs text-warm-600 hover:text-warm-950 bg-warm-100 hover:bg-warm-200 px-3 py-1.5 rounded-full transition-colors"
           >
             {cat.label}

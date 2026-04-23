@@ -1,4 +1,7 @@
 ---
+import CategoryIcon from './CategoryIcon.astro';
+import { resolveImage, sizedImage } from '../lib/images';
+
 interface Props {
   title: string;
   description: string;
@@ -13,50 +16,40 @@ interface Props {
   featured?: boolean;
 }
 
-const { title, description, icon, coverImage, slug, stats, featured } = Astro.props;
+const { title, description, coverImage, slug, stats, featured } = Astro.props;
 
-// Fallback colors per category when no image
-const fallbacks: Record<string, { from: string; to: string }> = {
-  'treehouse-hotels':    { from: 'from-forest-100',  to: 'to-forest-200' },
-  'cave-hotels':         { from: 'from-warm-200',    to: 'to-warm-300' },
-  'underwater-rooms':    { from: 'from-sky-100',     to: 'to-sky-200' },
-  'castle-hotels':       { from: 'from-purple-100',  to: 'to-purple-200' },
-  'floating-hotels':     { from: 'from-teal-100',    to: 'to-teal-200' },
-  'bubble-hotels':       { from: 'from-pink-100',    to: 'to-pink-200' },
-  'cliffside-hotels':    { from: 'from-orange-100',  to: 'to-orange-200' },
-  'desert-camps':        { from: 'from-amber-100',   to: 'to-amber-200' },
-  'jungle-lodges':       { from: 'from-green-100',   to: 'to-green-200' },
-  'ice-hotels':          { from: 'from-blue-100',    to: 'to-blue-200' },
-  'safari-lodges':       { from: 'from-yellow-100',  to: 'to-yellow-200' },
-  'overwater-bungalows': { from: 'from-rose-100',    to: 'to-rose-200' },
-};
-const fb = fallbacks[slug] || { from: 'from-warm-100', to: 'to-warm-200' };
+const imageUrl   = resolveImage(coverImage, { category: slug });
+const srcMobile  = sizedImage(imageUrl, 600);
+const srcDesktop = sizedImage(imageUrl, 900);
+const topDest    = stats.topDestination.split(',')[0];
 ---
 
 <a
   href={`/categories/${slug}`}
-  class="group block bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100"
+  class="group block bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 border border-warm-100 focus-visible:ring-2 focus-visible:ring-forest-500 focus-visible:ring-offset-2"
 >
   <!-- Image area -->
-  <div class="relative h-48 overflow-hidden">
-    {coverImage ? (
-      <img
-        src={coverImage}
-        alt={title}
-        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-        loading="lazy"
-        decoding="async"
-        width="400"
-        height="192"
-      />
-    ) : (
-      <div class:list={['w-full h-full bg-gradient-to-br flex items-center justify-center', fb.from, fb.to]}>
-        {icon && <span class="text-6xl opacity-40 select-none">{icon}</span>}
-      </div>
-    )}
+  <div class="relative h-48 overflow-hidden bg-warm-100">
+    <img
+      src={srcMobile}
+      srcset={`${srcMobile} 600w, ${srcDesktop} 900w`}
+      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+      alt={`${title} — ${topDest}`}
+      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+      loading="lazy"
+      decoding="async"
+      width="600"
+      height="400"
+    />
 
-    <!-- Gradient fade into card content -->
-    <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-black/10 to-transparent" />
+    <!-- Readability gradient -->
+    <div class="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent" />
+
+    <!-- Category icon chip (top-left) -->
+    <div class="absolute top-3 left-3 flex items-center gap-1.5 bg-white/90 backdrop-blur-sm text-warm-900 rounded-full px-3 py-1 shadow-sm">
+      <CategoryIcon slug={slug} size={14} class="text-forest-600" />
+      <span class="font-body text-xs font-semibold">{stats.hotelCount} stays</span>
+    </div>
 
     <!-- Title overlaid on image bottom -->
     <div class="absolute bottom-0 inset-x-0 p-4">
@@ -66,14 +59,10 @@ const fb = fallbacks[slug] || { from: 'from-warm-100', to: 'to-warm-200' };
     </div>
 
     {featured && (
-      <div class="absolute top-3 left-3 bg-gold-500 text-white text-xs font-body font-bold px-3 py-1 rounded-full shadow-sm">
+      <div class="absolute top-3 right-3 bg-gold-500 text-white text-[10px] font-body font-bold uppercase tracking-widest px-2.5 py-1 rounded-full shadow-sm">
         Editor's Pick
       </div>
     )}
-
-    <div class="absolute top-3 right-3 bg-white/80 backdrop-blur-sm rounded-full px-2.5 py-1 text-xs font-body font-semibold text-warm-800 shadow-sm">
-      {stats.hotelCount} stays
-    </div>
   </div>
 
   <!-- Card content -->
@@ -90,23 +79,22 @@ const fb = fallbacks[slug] || { from: 'from-warm-100', to: 'to-warm-200' };
       </div>
       <div class="text-center border-x border-warm-100">
         <div class="font-display text-base font-bold text-warm-900">${stats.avgPrice}</div>
-        <div class="font-body text-warm-400 text-xs">Avg/Night</div>
+        <div class="font-body text-warm-400 text-xs">From / night</div>
       </div>
       <div class="text-center">
-        <div class="font-display text-sm font-bold text-warm-900 leading-tight truncate">{stats.topDestination.split(',')[0]}</div>
-        <div class="font-body text-warm-400 text-xs">Top Dest.</div>
+        <div class="font-display text-sm font-bold text-warm-900 leading-tight truncate">{topDest}</div>
+        <div class="font-body text-warm-400 text-xs">Top spot</div>
       </div>
     </div>
 
     <!-- CTA -->
     <div class="flex items-center justify-between">
       <span class="font-body text-sm font-semibold text-forest-600 group-hover:text-forest-700 flex items-center gap-1 transition-colors">
-        Explore stays
-        <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        See the stays
+        <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
         </svg>
       </span>
-      <span class="font-body text-xs text-warm-400">{stats.topDestination.split(',')[0]}</span>
     </div>
   </div>
 </a>

@@ -2,7 +2,7 @@
 title: Jungle Lodges
 tagline: "Deep in the canopy, far from ordinary"
 description: From Costa Rica's cloud forest canopy lodges to Borneo's orangutan-adjacent river camps and the deep Amazon basin retreats of Peru and Brazil, jungle lodges offer an immersion in biodiversity that no other accommodation category can approach. Extraordinary wildlife, primordial soundscapes, and genuine luxury make these forest stays among the most memorable in the world.
-icon: 🌿
+icon: jungle-lodges
 coverImage: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80&auto=format&fit=crop"
 stats:
   hotelCount: 113
