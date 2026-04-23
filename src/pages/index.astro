@@ -104,15 +104,17 @@ const bentoCategories = sortedCategories.slice(0, 8);
           </div>
         </div>
 
-        <!-- Right: Photo mosaic -->
+        <!-- Right: Photo mosaic. Images come from the resolver so a 404
+             or missing slug falls back to a known-good photo instead of
+             broken alt text. -->
         <div class="order-1 lg:order-2">
           <div class="grid grid-cols-2 gap-3 lg:gap-4">
 
             <!-- Top-left: tall card -->
-            <a href="/categories/treehouse-hotels" class="group relative rounded-2xl overflow-hidden aspect-[3/4] block">
+            <a href="/categories/treehouse-hotels" class="group relative rounded-2xl overflow-hidden aspect-[3/4] block bg-warm-100">
               <img
-                src="https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=900&q=75&auto=format&fit=crop&fm=webp"
-                alt="Treehouse Hotels"
+                src={sizedImage(resolveImage(undefined, { category: 'treehouse-hotels' }), 900)}
+                alt="Treehouse hotels"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                 loading="eager"
                 fetchpriority="high"
@@ -121,17 +123,17 @@ const bentoCategories = sortedCategories.slice(0, 8);
               />
               <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
               <div class="absolute bottom-0 inset-x-0 p-4">
-                <span class="font-body text-white/70 text-xs uppercase tracking-widest">Most Popular</span>
-                <p class="font-display text-white text-lg font-bold leading-tight">Treehouse Hotels</p>
+                <span class="font-body text-white/70 text-xs uppercase tracking-widest">Most popular</span>
+                <p class="font-display text-white text-lg font-bold leading-tight">Treehouse hotels</p>
               </div>
             </a>
 
             <!-- Top-right: 2 stacked cards -->
             <div class="flex flex-col gap-3 lg:gap-4">
-              <a href="/categories/underwater-rooms" class="group relative rounded-2xl overflow-hidden aspect-square block">
+              <a href="/categories/underwater-rooms" class="group relative rounded-2xl overflow-hidden aspect-square block bg-warm-100">
                 <img
-                  src="https://images.unsplash.com/photo-1583212292454-1fe6229603b7?w=800&q=80&auto=format&fit=crop"
-                  alt="Underwater Rooms"
+                  src={sizedImage(resolveImage(undefined, { category: 'underwater-rooms' }), 600)}
+                  alt="Underwater rooms"
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   loading="lazy"
                   decoding="async"
@@ -140,13 +142,13 @@ const bentoCategories = sortedCategories.slice(0, 8);
                 />
                 <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
                 <div class="absolute bottom-0 inset-x-0 p-3">
-                  <p class="font-display text-white text-sm font-bold leading-tight">Underwater Rooms</p>
+                  <p class="font-display text-white text-sm font-bold leading-tight">Underwater rooms</p>
                 </div>
               </a>
-              <a href="/categories/cave-hotels" class="group relative rounded-2xl overflow-hidden aspect-square block">
+              <a href="/categories/overwater-bungalows" class="group relative rounded-2xl overflow-hidden aspect-square block bg-warm-100">
                 <img
-                  src="https://images.unsplash.com/photo-1601427304100-a28b2b6b8ca8?w=800&q=80&auto=format&fit=crop"
-                  alt="Cave Hotels"
+                  src={sizedImage(resolveImage(undefined, { category: 'overwater-bungalows' }), 600)}
+                  alt="Overwater bungalows"
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   loading="lazy"
                   decoding="async"
@@ -155,24 +157,16 @@ const bentoCategories = sortedCategories.slice(0, 8);
                 />
                 <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
                 <div class="absolute bottom-0 inset-x-0 p-3">
-                  <p class="font-display text-white text-sm font-bold leading-tight">Cave Hotels</p>
+                  <p class="font-display text-white text-sm font-bold leading-tight">Overwater bungalows</p>
                 </div>
               </a>
             </div>
           </div>
 
-          <!-- Bottom floating pill -->
+          <!-- Bottom floating pill: honest social proof, no fake avatars. -->
           <div class="mt-3 lg:mt-4 flex items-center gap-2 bg-white border border-warm-200 rounded-full px-4 py-2.5 shadow-sm w-fit mx-auto lg:mx-0">
-            <div class="flex -space-x-1.5">
-              {[
-                'https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=40&q=80&auto=format&fit=crop&faces=true',
-                'https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=40&q=80&auto=format&fit=crop',
-                'https://images.unsplash.com/photo-1561221694-4ddc9fc73b49?w=40&q=80&auto=format&fit=crop',
-              ].map(img => (
-                <img src={img} alt="" class="w-7 h-7 rounded-full object-cover border-2 border-white" loading="lazy" />
-              ))}
-            </div>
-            <span class="font-body text-warm-700 text-sm font-medium">+2,400 happy travelers</span>
+            <svg class="w-4 h-4 text-forest-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
+            <span class="font-body text-warm-700 text-sm font-medium">Every stay personally reviewed</span>
           </div>
         </div>
       </div>
@@ -185,16 +179,16 @@ const bentoCategories = sortedCategories.slice(0, 8);
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
     <div class="flex items-end justify-between mb-10">
       <div>
-        <p class="font-body text-forest-600 text-xs font-semibold uppercase tracking-widest mb-2">Every type of extraordinary</p>
+        <p class="font-body text-forest-600 text-xs font-semibold uppercase tracking-widest mb-2">Pick your kind of stay</p>
         <h2 class="font-display text-4xl font-bold text-warm-950 leading-tight">
-          Choose Your<br /><span class="text-gold-500">Adventure</span>
+          Browse by <span class="text-gold-500">hotel type</span>
         </h2>
       </div>
       <a
         href="/categories"
         class="hidden sm:inline-flex items-center gap-2 border border-warm-200 hover:border-forest-400 hover:bg-forest-50 text-warm-700 hover:text-forest-700 font-body text-sm font-semibold px-5 py-2.5 rounded-full transition-all"
       >
-        All {stats.categories} types →
+        All {stats.categories} types
       </a>
     </div>
 
@@ -295,76 +289,40 @@ const bentoCategories = sortedCategories.slice(0, 8);
     <div class="text-center mb-12">
       <p class="font-body text-forest-600 text-xs font-semibold uppercase tracking-widest mb-3">Where will you wake up?</p>
       <h2 class="font-display text-4xl font-bold text-warm-950">
-        Extraordinary by <span class="text-gold-500">Design</span>
+        Stays with a <span class="text-gold-500">view</span>
       </h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
 
-      <!-- Card 1 -->
-      <a href="/categories/overwater-bungalows" class="group relative rounded-3xl overflow-hidden block min-h-[380px]">
-        <img
-          src="https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=600&q=80&auto=format&fit=crop"
-          alt="Overwater Bungalows"
-          class="w-full h-full object-cover absolute inset-0 group-hover:scale-105 transition-transform duration-700"
-          loading="lazy"
-        />
-        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
-        <div class="absolute bottom-0 inset-x-0 p-6">
-          <span class="font-body text-white/60 text-xs uppercase tracking-widest">Maldives & Bora Bora</span>
-          <h3 class="font-display text-2xl font-bold text-white mt-1 mb-2">Overwater Bungalows</h3>
-          <p class="font-body text-white/70 text-sm leading-relaxed">Wake up above a turquoise lagoon with a glass floor beneath your feet.</p>
-          <span class="inline-flex items-center gap-1.5 mt-4 font-body text-white font-semibold text-sm group-hover:gap-2.5 transition-all">
-            Explore stays
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
-            </svg>
-          </span>
-        </div>
-      </a>
-
-      <!-- Card 2 -->
-      <a href="/categories/ice-hotels" class="group relative rounded-3xl overflow-hidden block min-h-[380px]">
-        <img
-          src="https://images.unsplash.com/photo-1548786811-dd6e453ccca7?w=600&q=80&auto=format&fit=crop"
-          alt="Ice Hotels"
-          class="w-full h-full object-cover absolute inset-0 group-hover:scale-105 transition-transform duration-700"
-          loading="lazy"
-        />
-        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
-        <div class="absolute bottom-0 inset-x-0 p-6">
-          <span class="font-body text-white/60 text-xs uppercase tracking-widest">Scandinavia & Canada</span>
-          <h3 class="font-display text-2xl font-bold text-white mt-1 mb-2">Ice Hotels</h3>
-          <p class="font-body text-white/70 text-sm leading-relaxed">Sculpted entirely from ice and snow — rebuilt fresh every winter.</p>
-          <span class="inline-flex items-center gap-1.5 mt-4 font-body text-white font-semibold text-sm group-hover:gap-2.5 transition-all">
-            Explore stays
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
-            </svg>
-          </span>
-        </div>
-      </a>
-
-      <!-- Card 3 -->
-      <a href="/categories/safari-lodges" class="group relative rounded-3xl overflow-hidden block min-h-[380px]">
-        <img
-          src="https://images.unsplash.com/photo-1516426122078-c23e76319801?w=600&q=80&auto=format&fit=crop"
-          alt="Safari Lodges"
-          class="w-full h-full object-cover absolute inset-0 group-hover:scale-105 transition-transform duration-700"
-          loading="lazy"
-        />
-        <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
-        <div class="absolute bottom-0 inset-x-0 p-6">
-          <span class="font-body text-white/60 text-xs uppercase tracking-widest">Kenya & Tanzania</span>
-          <h3 class="font-display text-2xl font-bold text-white mt-1 mb-2">Safari Lodges</h3>
-          <p class="font-body text-white/70 text-sm leading-relaxed">Fall asleep to lion roars. Wake to elephants at the watering hole.</p>
-          <span class="inline-flex items-center gap-1.5 mt-4 font-body text-white font-semibold text-sm group-hover:gap-2.5 transition-all">
-            Explore stays
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
-            </svg>
-          </span>
-        </div>
-      </a>
+      {[
+        { slug: 'overwater-bungalows', title: 'Overwater bungalows', region: 'Maldives & Bora Bora', blurb: 'Wake up over a turquoise lagoon with a glass floor at your feet.' },
+        { slug: 'ice-hotels', title: 'Ice hotels', region: 'Scandinavia & Canada', blurb: 'Sculpted from snow and ice, and rebuilt fresh every winter.' },
+        { slug: 'safari-lodges', title: 'Safari lodges', region: 'Kenya & Tanzania', blurb: 'Fall asleep to lion roars. Wake to elephants at the watering hole.' },
+      ].map(card => (
+        <a href={`/categories/${card.slug}`} class="group relative rounded-3xl overflow-hidden block min-h-[380px] bg-warm-100">
+          <img
+            src={sizedImage(resolveImage(undefined, { category: card.slug }), 800)}
+            alt={card.title}
+            class="w-full h-full object-cover absolute inset-0 group-hover:scale-105 transition-transform duration-700"
+            loading="lazy"
+            decoding="async"
+            width="600"
+            height="450"
+          />
+          <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
+          <div class="absolute bottom-0 inset-x-0 p-6">
+            <span class="font-body text-white/60 text-xs uppercase tracking-widest">{card.region}</span>
+            <h3 class="font-display text-2xl font-bold text-white mt-1 mb-2">{card.title}</h3>
+            <p class="font-body text-white/70 text-sm leading-relaxed">{card.blurb}</p>
+            <span class="inline-flex items-center gap-1.5 mt-4 font-body text-white font-semibold text-sm group-hover:gap-2.5 transition-all">
+              See the stays
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
+              </svg>
+            </span>
+          </div>
+        </a>
+      ))}
     </div>
   </section>
 
@@ -374,16 +332,16 @@ const bentoCategories = sortedCategories.slice(0, 8);
   <section class="bg-white border-y border-warm-200">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div class="text-center mb-8">
-        <p class="font-body text-forest-600 text-xs font-semibold uppercase tracking-widest mb-2">Everything you need in one place</p>
-        <h2 class="font-display text-3xl font-bold text-warm-950">Plan Your Entire Trip</h2>
+        <p class="font-body text-forest-600 text-xs font-semibold uppercase tracking-widest mb-2">The rest of the trip</p>
+        <h2 class="font-display text-3xl font-bold text-warm-950">Flights, tours, and tickets too</h2>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
 
         <!-- Hotels via Expedia -->
         <a
-          href="https://www.expedia.com/Hotels"
+          href={withTracking('https://www.expedia.com/Hotels', { campaign: 'homepage-partners', content: 'expedia' })}
           target="_blank"
-          rel="noopener noreferrer nofollow sponsored"
+          rel={AFFILIATE_REL}
           class="group flex flex-col items-center text-center bg-[#00356B]/5 hover:bg-[#00356B]/10 border border-[#00356B]/20 rounded-2xl p-6 transition-all"
         >
           <div class="w-12 h-12 bg-[#00356B] rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -397,9 +355,9 @@ const bentoCategories = sortedCategories.slice(0, 8);
 
         <!-- Tours via Klook -->
         <a
-          href="https://www.klook.com"
+          href={withTracking('https://www.klook.com', { campaign: 'homepage-partners', content: 'klook' })}
           target="_blank"
-          rel="noopener noreferrer nofollow sponsored"
+          rel={AFFILIATE_REL}
           class="group flex flex-col items-center text-center bg-[#FF5722]/5 hover:bg-[#FF5722]/10 border border-[#FF5722]/20 rounded-2xl p-6 transition-all"
         >
           <div class="w-12 h-12 bg-[#FF5722] rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -407,15 +365,15 @@ const bentoCategories = sortedCategories.slice(0, 8);
               <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
             </svg>
           </div>
-          <h3 class="font-display text-base font-bold text-warm-950 mb-1">Tours & Activities</h3>
+          <h3 class="font-display text-base font-bold text-warm-950 mb-1">Tours &amp; activities</h3>
           <p class="font-body text-warm-500 text-xs leading-relaxed">Book experiences with Klook</p>
         </a>
 
         <!-- Attractions via Tiqets -->
         <a
-          href="https://tiqets.com"
+          href={withTracking('https://www.tiqets.com', { campaign: 'homepage-partners', content: 'tiqets' })}
           target="_blank"
-          rel="noopener noreferrer nofollow sponsored"
+          rel={AFFILIATE_REL}
           class="group flex flex-col items-center text-center bg-[#6C3AE8]/5 hover:bg-[#6C3AE8]/10 border border-[#6C3AE8]/20 rounded-2xl p-6 transition-all"
         >
           <div class="w-12 h-12 bg-[#6C3AE8] rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -423,15 +381,15 @@ const bentoCategories = sortedCategories.slice(0, 8);
               <path d="M20 12c0-1.1.9-2 2-2V6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v4c1.1 0 2 .9 2 2s-.9 2-2 2v4c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2v-4c-1.1 0-2-.9-2-2z"/>
             </svg>
           </div>
-          <h3 class="font-display text-base font-bold text-warm-950 mb-1">Attraction Tickets</h3>
+          <h3 class="font-display text-base font-bold text-warm-950 mb-1">Attraction tickets</h3>
           <p class="font-body text-warm-500 text-xs leading-relaxed">Skip the line with Tiqets</p>
         </a>
 
         <!-- Flights via Kiwi -->
         <a
-          href="https://www.kiwi.com"
+          href={withTracking('https://www.kiwi.com', { campaign: 'homepage-partners', content: 'kiwi' })}
           target="_blank"
-          rel="noopener noreferrer nofollow sponsored"
+          rel={AFFILIATE_REL}
           class="group flex flex-col items-center text-center bg-warm-50 hover:bg-warm-100 border border-warm-200 rounded-2xl p-6 transition-all"
         >
           <div class="w-12 h-12 bg-warm-800 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -460,30 +418,30 @@ const bentoCategories = sortedCategories.slice(0, 8);
         <div>
           <p class="font-body text-gold-400 text-xs font-semibold uppercase tracking-widest mb-4">Why StayAtNiche</p>
           <h2 class="font-display text-4xl font-bold text-white mb-6 leading-tight">
-            We find the stays<br />
-            <span class="text-gold-400">others miss</span>
+            The hotels<br />
+            <span class="text-gold-400">other sites skip.</span>
           </h2>
           <p class="font-body text-white/60 text-base leading-relaxed mb-8">
-            A billion hotel rooms exist in the world. We're obsessively searching for the extraordinary ones — the properties that make you say "you'll never believe where I stayed."
+            There are a billion hotel rooms in the world. We spend our week hunting the handful worth getting on a plane for &mdash; and writing them up the way a friend would.
           </p>
           <a
             href="/about"
             class="inline-flex items-center gap-2 border border-white/20 hover:border-white/50 text-white hover:bg-white/10 font-body font-semibold text-sm px-6 py-3 rounded-full transition-all"
           >
-            Our story →
+            Our story
           </a>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {[
-            { num: '100%', label: 'Hand-curated', desc: 'Every property personally researched and vetted for authenticity.' },
-            { num: '12', label: 'Niche categories', desc: 'From treetops to ice palaces — each category is its own world.' },
-            { num: '4.9★', label: 'Average rating', desc: 'We only feature properties that guests consistently rave about.' },
-            { num: '$0', label: 'Extra cost to you', desc: 'Our affiliate commissions come from the hotel, not your wallet.' },
+            { num: '100%',  label: 'Hand-picked',        desc: 'Every hotel personally researched and reviewed. No sponsored top-tens.' },
+            { num: `${stats.categories}`, label: 'Hotel types',        desc: 'Treehouses to ice hotels &mdash; each one is its own little world.' },
+            { num: `${stats.countries}+`, label: 'Countries covered',  desc: 'From Cappadocia to Patagonia, with more added every week.' },
+            { num: '$0',    label: 'Extra cost to you',   desc: 'When you book through our links, the commission comes from the hotel.' },
           ].map(item => (
             <div class="bg-white/5 border border-white/10 rounded-2xl p-5 hover:bg-white/10 transition-colors">
-              <div class="font-display text-2xl font-bold text-gold-400 mb-1">{item.num}</div>
-              <div class="font-body text-white text-sm font-semibold mb-1">{item.label}</div>
-              <div class="font-body text-white/40 text-xs leading-relaxed">{item.desc}</div>
+              <div class="font-display text-2xl font-bold text-gold-400 mb-1" set:html={item.num} />
+              <div class="font-body text-white text-sm font-semibold mb-1" set:html={item.label} />
+              <div class="font-body text-white/40 text-xs leading-relaxed" set:html={item.desc} />
             </div>
           ))}
         </div>
