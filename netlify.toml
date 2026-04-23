@@ -6,9 +6,9 @@
 [build.environment]
   NODE_VERSION = "20"
 
-# ── Deploy on main branch only ─────────────────────────────────────────────────
+# ── Production branch (the repo's default branch) ─────────────────────────────
 [context.production]
-  branch = "main"
+  branch = "claude/setup-stayatniche-project-xHSQk"
   command = "npm run build"
 
 # ── Redirects ──────────────────────────────────────────────────────────────────
