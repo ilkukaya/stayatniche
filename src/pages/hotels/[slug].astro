@@ -116,7 +116,7 @@ const faqItems: { q: string; a: string }[] = [
 ];
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={hotelImageOg} heroImage={hotelImageLg} type="article" updatedTime={hotel.data.updatedDate?.toISOString()}>
+<BaseLayout title={metaTitle} description={metaDesc} image={hotelImageOg} heroImage={hotelImageLg} type="article" hideBottomNav={true} updatedTime={hotel.data.updatedDate?.toISOString()}>
 
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(hotelJsonLd)} />

@@ -65,7 +65,8 @@ export function resolveImage(url: string | undefined, ctx: ImageContext = {}): s
   if (ctx.slug && INDEX.has(ctx.slug)) return INDEX.get(ctx.slug)!;
   if (url) {
     if (existsSync(join(PUBLIC, url))) return url;
-    if (/^https?:\/\//i.test(url)) return url; // external URL from content; falls back to art on error
+    // External hotlinks in content files (e.g. old Unsplash URLs) are ignored on purpose:
+    // unverified and inconsistent. Add a file under public/images/ instead.
   }
   if (ctx.category && INDEX.has(ctx.category)) return INDEX.get(ctx.category)!;
   if (ctx.continent && INDEX.has(slugify(ctx.continent))) return INDEX.get(slugify(ctx.continent))!;
