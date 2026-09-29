@@ -1,7 +1,7 @@
 {
   "titleTemplate": "{{title}} | StayAtNiche",
   "defaultDescription": "Find the world's most unusual hotels — treehouses, caves, underwater rooms, castles, ice palaces, and more. Hand-picked stays that make the trip.",
-  "defaultOgImage": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1200&h=630&q=80&auto=format&fit=crop",
+  "defaultOgImage": "",
   "twitterHandle": "@stayatniche",
   "canonicalUrl": "https://stayatniche.com",
   "googleVerification": "",

@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout
   title="Newsletter — Extraordinary Stays Weekly | StayAtNiche"
-  description="Join 2,400+ travelers who get weekly hand-picks of the world's most extraordinary hotels. Free, no spam, unsubscribe anytime."
+  description="Join the free weekly letter with hand-picks of the world's most extraordinary hotels. Free, no spam, unsubscribe anytime."
 >
 
   <!-- Hero -->
@@ -75,20 +75,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         </form>
       </div>
 
-      <!-- Social proof -->
-      <div class="mt-8 flex items-center justify-center gap-2">
-        <div class="flex -space-x-1.5">
-          {[
-            'https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=40&q=80',
-            'https://images.unsplash.com/photo-1573843981267-be1999ff37cd?w=40&q=80',
-            'https://images.unsplash.com/photo-1561221694-4ddc9fc73b49?w=40&q=80',
-            'https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=40&q=80',
-          ].map((img, i) => (
-            <img src={img} alt="" class="w-8 h-8 rounded-full border-2 border-white object-cover" loading="lazy" />
-          ))}
-        </div>
-        <span class="font-body text-warm-600 text-sm font-medium">Joined by 2,400+ curious travelers</span>
-      </div>
     </div>
   </section>
 

@@ -1,5 +1,5 @@
 ---
-import { resolveImage, sizedImage } from '../lib/images';
+import { resolveImage, sizedImage, fallbackImage } from '../lib/images';
 import { withTracking, AFFILIATE_REL } from '../lib/affiliate';
 
 interface Props {
@@ -47,6 +47,7 @@ const meta = categoryMeta[category] || { color: 'text-gold-700', bg: 'bg-gold-50
 const ratingDisplay = rating?.toFixed(1) ?? '—';
 const categoryLabel = category?.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()) ?? 'Unique Stay';
 
+const fbImg = fallbackImage({ category });
 const imageUrl  = resolveImage(coverImage, { category, slug });
 const src400    = sizedImage(imageUrl, 400);
 const src800    = sizedImage(imageUrl, 800);
@@ -59,6 +60,7 @@ const bookUrl   = withTracking(bookingUrl, { campaign: 'hotel-card', content: sl
   <a href={`/hotels/${slug}`} class="block relative h-52 overflow-hidden flex-shrink-0 bg-warm-100">
     <img
       src={src400}
+      data-fb-src={fbImg}
       srcset={`${src400} 400w, ${src800} 800w`}
       sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
       alt={`${name}, ${destination}`}

@@ -38,6 +38,7 @@
     {
       "title": "Travel Resources",
       "links": [
+        { "label": "Hotels by Country", "url": "/countries" },
         { "label": "Travel Blog", "url": "/blog" },
         { "label": "Experiences", "url": "/experiences" },
         { "label": "About StayAtNiche", "url": "/about" },

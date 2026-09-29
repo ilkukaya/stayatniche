@@ -2,7 +2,7 @@
 
 > StayAtNiche is a curated travel discovery platform for extraordinary and unique hotel stays worldwide — treehouse hotels, underwater rooms, cave hotels, safari lodges, ice hotels, overwater bungalows, cliffside retreats, desert camps, jungle lodges, bubble hotels, castle hotels, floating hotels, and lighthouse hotels.
 
-StayAtNiche helps travellers discover and book the world's most extraordinary stays. Every property is hand-selected and editorially reviewed for uniqueness, quality, and experience. The site covers 200+ hotels across 14 categories and 140+ destinations globally.
+StayAtNiche helps travellers discover and book the world's most extraordinary stays. Every property is hand-selected and editorially reviewed for uniqueness, quality, and experience. The site covers 100+ hotels across 14 categories and 90 destination guides globally.
 
 ## About
 
@@ -74,7 +74,7 @@ StayAtNiche covers 14 distinct hotel categories:
 
 ## Top Destinations
 
-StayAtNiche covers extraordinary stays across 140+ destinations including:
+StayAtNiche covers extraordinary stays across 90 destination guides including:
 
 **Africa**: Tanzania (Ngorongoro, Serengeti, Zanzibar), Kenya, South Africa (Cape Town, Kruger, Phinda), Uganda, Namibia, Madagascar, Mozambique, Seychelles, Morocco
 **Asia**: Maldives, Thailand (Northern Thailand), Vietnam (Ha Long Bay), Sri Lanka, Nepal, Myanmar (Inle Lake), UAE (Dubai)
