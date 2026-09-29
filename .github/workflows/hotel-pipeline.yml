@@ -1,0 +1,41 @@
+name: Hotel pipeline (discover + verify)
+
+on:
+  schedule:
+    - cron: '17 1 * * *'   # every night 01:17 UTC
+  workflow_dispatch:
+    inputs:
+      categories:
+        description: 'Categories to discover (space separated, empty = nightly rotation)'
+        required: false
+        default: ''
+      verify_limit:
+        description: 'Max candidates to verify'
+        required: false
+        default: '150'
+
+permissions:
+  contents: write
+
+concurrency: { group: hotel-pipeline, cancel-in-progress: false }
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node pipeline/discover.mjs ${{ github.event.inputs.categories }}
+      - run: node pipeline/verify.mjs ${{ github.event.inputs.verify_limit || '150' }}
+      - run: node pipeline/status.mjs
+      - name: Commit queue
+        run: |
+          git config user.name "stayatniche-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/pipeline
+          git diff --cached --quiet && exit 0
+          git commit -m "pipeline: nightly discover + verify"
+          git pull --rebase origin ${GITHUB_REF_NAME}
+          git push origin HEAD:${GITHUB_REF_NAME}

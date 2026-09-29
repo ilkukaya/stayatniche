@@ -54,7 +54,7 @@ const ld = [
               <td class="min-w-[9rem] px-4 py-3 font-display font-bold text-warm-950"><a href={`/hotels/${h.slug}/`}>{h.data.name}</a></td>
               <td class="px-4 py-3 text-warm-600">{h.data.destination}</td>
               <td class="px-4 py-3 capitalize text-warm-600">{h.data.category.replace(/-/g, ' ')}</td>
-              <td class="px-4 py-3 text-warm-700">{h.data.priceRange} <span class="text-xs text-warm-400">({label[h.data.priceIndicator]})</span></td>
+              <td class="px-4 py-3 text-warm-700">{h.data.priceRange} {h.data.priceIndicator && <span class="text-xs text-warm-400">({label[h.data.priceIndicator]})</span>}</td>
               <td class="px-4 py-3 text-warm-600">{h.data.bestFor.filter((x: string) => x.length <= 32).slice(0, 2).join(', ')}</td>
               <td class="px-4 py-3 text-right"><a href={withTracking(h.data.bookingUrl, { campaign: 'roundup-table', content: h.slug })} target="_blank" rel="noopener noreferrer nofollow sponsored" class="whitespace-nowrap rounded-full bg-forest-600 px-4 py-2 text-xs font-semibold text-white hover:bg-forest-700">Check rates</a></td>
             </tr>
