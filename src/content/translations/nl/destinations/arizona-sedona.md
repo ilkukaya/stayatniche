@@ -10,7 +10,7 @@ essentials:
   plugType: "Type A/B (120 V)"
 bestTimeToVisit:
   summary: "Maart–mei en september–november"
-  details: "De lente is het populairste seizoen in Sedona: wilde bloemen, zachte temperaturen (60 tot 79 °F) en lang goudkleurig licht op de rode rotsen. De zomer (juni–augustus) is bloedheet, met geregeld meer dan 100 °F; in juli en augustus komen de moessonbuien, met spectaculaire onweersbuien en kans op plotselinge overstromingen in de kloven. De herfst is uitstekend, met dalende temperaturen en helder licht. De winter is naar bergmaatstaven mild (overdag 40 tot 69 °F), met af en toe sneeuw die de rode rotsen in bijzondere fotomotieven verandert."
+  details: "De lente is het populairste seizoen in Sedona: wilde bloemen, zachte temperaturen (rond de 60–70 °F) en lang goudkleurig licht op de rode rotsen. De zomer (juni–augustus) is bloedheet, met geregeld meer dan 100 °F; in juli en augustus komen de moessonbuien, met spectaculaire onweersbuien en kans op plotselinge overstromingen in de kloven. De herfst is uitstekend, met dalende temperaturen en helder licht. De winter is naar bergmaatstaven mild (overdag rond de 40–60 °F), met af en toe sneeuw die de rode rotsen in bijzondere fotomotieven verandert."
 mustSee:
   - "Cathedral Rock, de iconischste formatie, het mooist te zien vanaf Red Rock Crossing"
   - "Bell Rock and Courthouse Butte Loop Trail, een toegankelijke wandeling met weidse uitzichten"

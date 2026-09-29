@@ -306,7 +306,7 @@ const it: typeof en = {
     allCat: (cat: string) => all(cat).replace(/^t/, 'T'),
     allIn: (c: string) => `Tutti gli alloggi ${inCountry(c)}`,
     faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string; cheapest: string }) => [
-      { q: `Quali sono ${artPl(f.cat)} migliori ${lcFirst(f.cat)} ${inCountry(f.country)}?`.replace(' gli migliori', ' i migliori'), a: `${f.names.join(', ')}. La nostra prima scelta è ${f.top} (${f.topWhere}).` },
+      { q: `Quali sono ${isFem(f.cat) ? 'le' : 'i'} migliori ${lcFirst(f.cat)} ${inCountry(f.country)}?`, a: `${f.names.join(', ')}. La nostra prima scelta è ${f.top} (${f.topWhere}).` },
       { q: `Quanto costano ${artPl(f.cat)} ${lcFirst(f.cat)} ${inCountry(f.country)}?`, a: `Le tariffe tipiche partono da circa ${f.cheapFrom} a notte (${f.cheapest}) e salgono da lì. Verifica sempre i prezzi aggiornati per le tue date.` },
     ],
   },
@@ -429,7 +429,7 @@ const it: typeof en = {
     allStays: (n: number) => (n === 1 ? 'Vedi l’alloggio' : `Tutti i ${n} alloggi`),
     collection: 'Collezione',
     from: (price: string) => `da ${price}`,
-    seeAll: (n: number, title: string) => (n === 1 ? `Scopri ${artPl(title)} ${lcFirst(title)}` : `Vedi ${all(title).replace(/ (le|i|gli) /, ` $1 ${n} `).replace(/ gli (\d+) /, ' i $1 ')}`),
+    seeAll: (n: number, title: string) => (n === 1 ? `Scopri ${artPl(title)} ${lcFirst(title)}` : `Vedi ${isFem(title) ? 'tutte le' : 'tutti i'} ${n} ${lcFirst(title)}`),
     kindsTitle: 'Tutti i modi di dormire fuori dal comune',
     allKinds: (n: number) => `Tutte le ${n} tipologie`,
     budgetTitle: 'Per budget',
