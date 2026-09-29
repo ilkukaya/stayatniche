@@ -1,6 +1,7 @@
 ---
 import { resolveImage, sizedImage, fallbackImage } from '../lib/images';
 import { withTracking, AFFILIATE_REL } from '../lib/affiliate';
+import { startPrice } from '../lib/site';
 
 interface Props {
   name: string;
@@ -10,134 +11,87 @@ interface Props {
   priceRange: string;
   priceIndicator: number;
   rating: number;
-  reviewCount: number;
+  reviewCount?: number;
   highlights: string[];
   bookingUrl: string;
   slug: string;
   category: string;
   featured?: boolean;
   coverImage?: string;
+  class?: string;
 }
 
 const {
-  name, destination, country, description,
-  priceRange, rating, reviewCount,
-  highlights, bookingUrl, slug, category, featured, coverImage,
+  name, destination, country, priceRange, priceIndicator, rating, highlights,
+  bookingUrl, slug, category, featured, coverImage, class: cls = '',
 } = Astro.props;
 
-const startingPrice = priceRange ? priceRange.split(/\s[-–]\s/)[0].replace('$', '').trim() : '—';
-
-const categoryMeta: Record<string, { color: string; bg: string }> = {
-  'treehouse-hotels':    { color: 'text-forest-700', bg: 'bg-forest-50' },
-  'cave-hotels':         { color: 'text-warm-700',   bg: 'bg-warm-100'  },
-  'underwater-rooms':    { color: 'text-sky-700',    bg: 'bg-sky-50'    },
-  'castle-hotels':       { color: 'text-purple-700', bg: 'bg-purple-50' },
-  'floating-hotels':     { color: 'text-teal-700',   bg: 'bg-teal-50'   },
-  'bubble-hotels':       { color: 'text-pink-700',   bg: 'bg-pink-50'   },
-  'cliffside-hotels':    { color: 'text-orange-700', bg: 'bg-orange-50' },
-  'desert-camps':        { color: 'text-amber-700',  bg: 'bg-amber-50'  },
-  'jungle-lodges':       { color: 'text-green-700',  bg: 'bg-green-50'  },
-  'ice-hotels':          { color: 'text-blue-700',   bg: 'bg-blue-50'   },
-  'safari-lodges':       { color: 'text-yellow-700', bg: 'bg-yellow-50' },
-  'overwater-bungalows': { color: 'text-rose-700',   bg: 'bg-rose-50'   },
-  'lighthouse-hotels':   { color: 'text-sky-700',    bg: 'bg-sky-50'    },
-  'train-hotels':        { color: 'text-violet-700', bg: 'bg-violet-50' },
-};
-const meta = categoryMeta[category] || { color: 'text-gold-700', bg: 'bg-gold-50' };
-const ratingDisplay = rating?.toFixed(1) ?? '—';
-const categoryLabel = category?.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()) ?? 'Unique Stay';
-
-const fbImg = fallbackImage({ category });
-const imageUrl  = resolveImage(coverImage, { category, slug });
-const src400    = sizedImage(imageUrl, 400);
-const src800    = sizedImage(imageUrl, 800);
-const bookUrl   = withTracking(bookingUrl, { campaign: 'hotel-card', content: slug });
+const from = startPrice(priceRange);
+const categoryLabel = category?.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase()) ?? 'Unique stay';
+const img = resolveImage(coverImage, { category, slug });
+const bookUrl = withTracking(bookingUrl, { campaign: 'hotel-card', content: slug });
 ---
 
-<article class="group bg-white rounded-2xl overflow-hidden shadow-card hover:shadow-card-hover transition-all duration-300 hover:-translate-y-1 flex flex-col border border-warm-100">
-
-  <!-- Image -->
-  <a href={`/hotels/${slug}`} class="block relative h-52 overflow-hidden flex-shrink-0 bg-warm-100">
+<article
+  class:list={['hotel-card group relative flex flex-col', cls]}
+  data-hotel
+  data-slug={slug}
+  data-name={name.toLowerCase()}
+  data-place={`${destination} ${country}`.toLowerCase()}
+  data-cat={category}
+  data-price={from}
+  data-rating={rating}
+  data-featured={featured ? 1 : 0}
+>
+  <div class="relative aspect-[4/3] overflow-hidden rounded-2xl bg-warm-100 ring-1 ring-black/5">
     <img
-      src={src400}
-      data-fb-src={fbImg}
-      srcset={`${src400} 400w, ${src800} 800w`}
-      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+      src={sizedImage(img, 800)}
+      data-fb-src={fallbackImage({ category })}
       alt={`${name}, ${destination}`}
-      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+      class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.06]"
       loading="lazy"
       decoding="async"
-      width="400"
-      height="208"
+      width="800"
+      height="600"
     />
-    <div class="absolute inset-0 bg-gradient-to-t from-warm-950/30 via-transparent to-transparent" />
+    <div class="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/35 via-transparent to-black/10"></div>
 
     {featured && (
-      <div class="absolute top-3 left-3 inline-flex items-center gap-1 bg-gold-500 text-white text-[11px] font-body font-bold uppercase tracking-widest px-2.5 py-1 rounded-full shadow-sm">
-        <svg class="w-3 h-3" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
-        Featured
-      </div>
+      <span class="absolute left-3 top-3 rounded-full bg-white/95 px-2.5 py-1 font-body text-[11px] font-bold uppercase tracking-wider text-warm-900 shadow-sm">Editor's pick</span>
     )}
 
-    {rating != null && (
-      <div class="absolute top-3 right-3 flex items-center gap-1 bg-white/95 backdrop-blur-sm text-warm-900 text-sm font-body font-bold px-2.5 py-1 rounded-full shadow-sm">
-        <svg class="w-3.5 h-3.5 text-gold-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
-        {ratingDisplay}
-      </div>
-    )}
-  </a>
+    <button
+      type="button"
+      data-save={slug}
+      aria-pressed="false"
+      aria-label={`Save ${name}`}
+      class="save-btn absolute right-3 top-3 z-20 grid h-9 w-9 place-items-center rounded-full bg-white/90 text-warm-700 shadow-sm backdrop-blur transition hover:scale-110 hover:bg-white"
+    >
+      <svg viewBox="0 0 24 24" class="h-[18px] w-[18px]" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z"/></svg>
+    </button>
 
-  <!-- Content -->
-  <div class="p-5 flex flex-col flex-1">
-    <div class="flex items-center justify-between gap-2 mb-3">
-      <span class:list={['text-xs font-body font-semibold px-2.5 py-1 rounded-full', meta.color, meta.bg]}>
-        {categoryLabel}
-      </span>
-      <span class="text-xs font-body text-warm-500 flex items-center gap-1 min-w-0">
-        <svg class="w-3 h-3 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
-        <span class="truncate">{destination}</span>
-      </span>
+    <span class="absolute bottom-3 left-3 rounded-full bg-black/55 px-2.5 py-1 font-body text-[11px] font-semibold capitalize text-white backdrop-blur">{categoryLabel}</span>
+  </div>
+
+  <div class="pt-3">
+    <div class="flex items-start justify-between gap-3">
+      <h3 class="font-display text-[17px] font-bold leading-snug text-warm-950">
+        <a href={`/hotels/${slug}/`} class="after:absolute after:inset-0 after:z-10 after:content-['']">{name}</a>
+      </h3>
+      {rating != null && (
+        <span class="flex flex-shrink-0 items-center gap-1 font-body text-sm font-semibold text-warm-900">
+          <svg class="h-3.5 w-3.5 text-gold-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
+          {rating.toFixed(1)}
+        </span>
+      )}
     </div>
-
-    <h3 class="font-display text-lg font-bold text-warm-950 group-hover:text-forest-700 transition-colors mb-2 leading-snug">
-      <a href={`/hotels/${slug}`}>{name}</a>
-    </h3>
-    <p class="font-body text-warm-600 text-sm leading-relaxed mb-3 line-clamp-2 flex-1">{description}</p>
-
-    {highlights?.[0] && (
-      <div class="flex items-start gap-1.5 text-xs font-body text-warm-600 mb-1">
-        <svg class="w-3.5 h-3.5 text-forest-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
-        <span>{highlights[0]}</span>
-      </div>
-    )}
-    {highlights?.[1] && (
-      <div class="flex items-start gap-1.5 text-xs font-body text-warm-500 mb-4">
-        <svg class="w-3.5 h-3.5 text-forest-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
-        <span>{highlights[1]}</span>
-      </div>
-    )}
-
-    <div class="mt-auto pt-4 border-t border-warm-100 flex items-end justify-between gap-2">
-      <div>
-        <span class="font-body text-warm-400 text-xs">From</span>
-        <div class="font-display text-xl font-bold text-warm-950 leading-none">${startingPrice}</div>
-        <span class="font-body text-warm-400 text-xs">/ night</span>
-      </div>
-      <div class="flex flex-col items-end gap-1.5">
-        <a href={`/hotels/${slug}`} class="font-body text-xs text-warm-500 hover:text-warm-800 transition-colors underline underline-offset-2">Read review</a>
-        {bookUrl && (
-          <a
-            href={bookUrl}
-            target="_blank"
-            rel={AFFILIATE_REL}
-            data-label={`${reviewCount ?? 0} reviews`}
-            class="inline-flex items-center gap-1.5 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-4 py-2 rounded-full transition-all hover:shadow-md active:scale-95 whitespace-nowrap"
-          >
-            Check rates
-            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
-          </a>
-        )}
-      </div>
+    <p class="mt-0.5 truncate font-body text-sm text-warm-500">{destination}, {country}</p>
+    {highlights?.[0] && <p class="mt-0.5 line-clamp-1 font-body text-sm text-warm-500">{highlights[0]}</p>}
+    <div class="mt-2 flex items-center justify-between gap-2">
+      <p class="font-body text-sm text-warm-600"><span class="font-display text-base font-bold text-warm-950">{from ? `$${from.toLocaleString('en-US')}` : 'See rates'}</span>{from ? <span> / night</span> : null}</p>
+      {bookUrl && (
+        <a href={bookUrl} target="_blank" rel={AFFILIATE_REL} class="relative z-20 rounded-full border border-warm-300 px-3 py-1.5 font-body text-xs font-semibold text-warm-800 transition hover:border-forest-600 hover:bg-forest-600 hover:text-white">Check rates</a>
+      )}
     </div>
   </div>
 </article>

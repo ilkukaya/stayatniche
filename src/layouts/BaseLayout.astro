@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import BottomNav from '../components/BottomNav.astro';
 import { getEntry } from 'astro:content';
 
 interface Props {
@@ -9,6 +10,8 @@ interface Props {
   image?: string;
   heroImage?: string;
   noIndex?: boolean;
+  /** Hide the mobile bottom tab bar (pages with their own sticky CTA). */
+  hideBottomNav?: boolean;
   type?: 'website' | 'article';
   /** ISO date — used for article structured data / og:updated_time. */
   publishedTime?: string;
@@ -23,6 +26,7 @@ const {
   image,
   heroImage,
   noIndex = false,
+  hideBottomNav = false,
   type = 'website',
   publishedTime,
   updatedTime,
@@ -213,6 +217,13 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
         background-image: radial-gradient(circle, #C9852A18 1px, transparent 1px);
         background-size: 30px 30px;
       }
+      .save-btn.is-saved { color: #C0392B; background: #fff; }
+      .save-btn.is-saved svg { fill: currentColor; }
+      .reveal { opacity: 0; transform: translateY(14px); transition: opacity .6s ease, transform .6s ease; }
+      .reveal.in { opacity: 1; transform: none; }
+      .snap-row { scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; }
+      .snap-row > * { scroll-snap-align: start; }
+      @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } }
       /* Reduce motion for users who prefer it */
       @media (prefers-reduced-motion: reduce) {
         *, *::before, *::after {
@@ -224,7 +235,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       }
     </style>
   </head>
-  <body class="bg-warm-50 text-warm-900 font-body antialiased">
+  <body class:list={["bg-warm-50 text-warm-900 font-body antialiased", !hideBottomNav && "pb-16 md:pb-0"]}>
 
     <!-- Google Tag Manager (noscript) -->
     {gtmId && (
@@ -247,6 +258,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       <slot />
     </main>
     <Footer />
+    {!hideBottomNav && <BottomNav />}
     <script is:inline>
       // Never show a broken-image icon: swap any failed <img> for a themed placeholder.
       document.addEventListener('error', function (e) {
@@ -256,6 +268,40 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
         }
       }, true);
       document.querySelectorAll('img').forEach(function (i) { if (i.complete && i.naturalWidth === 0 && !i.dataset.fb) { i.dataset.fb = '1'; i.removeAttribute('srcset'); i.src = i.dataset.fbSrc || '/images/placeholder.svg'; } });
+    </script>
+
+    <script is:inline>
+      // Saved stays (localStorage) + scroll reveal
+      (function () {
+        var KEY = 'sn_saved';
+        function read() { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) { return []; } }
+        function write(a) { try { localStorage.setItem(KEY, JSON.stringify(a)); } catch (e) {} }
+        function paint() {
+          var saved = read();
+          document.querySelectorAll('[data-save]').forEach(function (b) {
+            var on = saved.indexOf(b.getAttribute('data-save')) > -1;
+            b.setAttribute('aria-pressed', on ? 'true' : 'false');
+            b.classList.toggle('is-saved', on);
+          });
+          document.querySelectorAll('[data-saved-count]').forEach(function (n) {
+            n.textContent = saved.length; n.classList.toggle('hidden', !saved.length);
+          });
+        }
+        document.addEventListener('click', function (e) {
+          var b = e.target.closest && e.target.closest('[data-save]');
+          if (!b) return;
+          e.preventDefault(); e.stopPropagation();
+          var slug = b.getAttribute('data-save'), saved = read(), i = saved.indexOf(slug);
+          if (i > -1) saved.splice(i, 1); else saved.push(slug);
+          write(saved); paint();
+          document.dispatchEvent(new CustomEvent('sn:saved-changed'));
+        });
+        paint();
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (es) { es.forEach(function (x) { if (x.isIntersecting) { x.target.classList.add('in'); io.unobserve(x.target); } }); }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.reveal').forEach(function (el) { io.observe(el); });
+        } else { document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('in'); }); }
+      })();
     </script>
   </body>
 </html>

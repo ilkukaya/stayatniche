@@ -1,143 +1,135 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
+import CategoryIcon from '../../components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
+import { isLive } from '../../lib/site';
 
-const allHotels = await getCollection('hotels', h =>
-  h.data.status !== 'draft' && h.data.status !== 'archived'
-);
-const allCategories = await getCollection('categories');
+const hotels = (await getCollection('hotels', isLive)).sort((a, b) =>
+  Number(b.data.featured) - Number(a.data.featured) || (b.data.rating || 0) - (a.data.rating || 0));
+const cats = (await getCollection('categories')).sort((a, b) => a.data.order - b.data.order);
+const total = hotels.length;
 
-// Sort: featured first, then by rating descending
-const sortedHotels = allHotels.sort((a, b) => {
-  if (a.data.featured && !b.data.featured) return -1;
-  if (!a.data.featured && b.data.featured) return 1;
-  return (b.data.rating || 0) - (a.data.rating || 0);
-});
-
-const totalHotels = sortedHotels.length;
-
-// Build ItemList structured data
-const hotelListJsonLd = {
-  "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "Extraordinary Hotels — StayAtNiche",
-  "description": "Hand-curated list of the world's most extraordinary hotel stays",
-  "url": "https://stayatniche.com/hotels/",
-  "numberOfItems": totalHotels,
-  "itemListElement": sortedHotels.slice(0, 50).map((hotel, index) => ({
-    "@type": "ListItem",
-    "position": index + 1,
-    "name": hotel.data.name,
-    "url": `https://stayatniche.com/hotels/${hotel.slug}/`,
-    "description": hotel.data.description,
-  })),
+const jsonLd = {
+  '@context': 'https://schema.org', '@type': 'ItemList', name: 'Extraordinary hotels: StayAtNiche',
+  url: 'https://stayatniche.com/hotels/', numberOfItems: total,
+  itemListElement: hotels.slice(0, 50).map((h, i) => ({ '@type': 'ListItem', position: i + 1, name: h.data.name, url: `https://stayatniche.com/hotels/${h.slug}/` })),
 };
 ---
-
 <BaseLayout
-  title="All Extraordinary Hotels | StayAtNiche"
-  description={`Browse ${totalHotels}+ extraordinary hotel stays worldwide — treehouses, underwater rooms, cave hotels, safari lodges, ice hotels, bubble domes, and more. Find your perfect unique stay.`}
+  title="Explore All Unusual Hotels: Filter by Type, Price & Place"
+  description={`Browse ${total} extraordinary stays worldwide. Filter treehouses, cave hotels, underwater rooms, safari lodges, ice hotels and more by price and destination.`}
+  jsonLd={jsonLd}
 >
-
-  <script type="application/ld+json" set:html={JSON.stringify(hotelListJsonLd)} />
-
-  <!-- Hero -->
-  <section class="relative bg-warm-50 overflow-hidden py-16">
-    <div class="dot-pattern absolute inset-0 opacity-80 pointer-events-none" />
-    <div class="absolute -top-20 -right-20 w-80 h-80 bg-gold-100/70 rounded-full blur-3xl pointer-events-none" />
-    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-      <nav class="flex items-center justify-center gap-2 text-warm-500 text-sm font-body mb-8" aria-label="Breadcrumb">
-        <a href="/" class="hover:text-warm-800 transition-colors">Home</a>
-        <span class="text-warm-300" aria-hidden="true">/</span>
-        <span class="text-warm-800 font-medium">Hotels</span>
-      </nav>
-      <div class="inline-flex items-center gap-2 bg-white border border-warm-200 rounded-full px-4 py-1.5 mb-6 shadow-soft">
-        <span class="text-gold-500 text-sm">✦</span>
-        <span class="font-body text-warm-600 text-sm font-medium">{totalHotels} extraordinary stays worldwide</span>
-      </div>
-      <h1 class="font-display text-5xl font-bold text-warm-950 mb-4 leading-tight">
-        The World's Most<br /><span class="text-gold-500">Extraordinary Hotels</span>
-      </h1>
-      <p class="font-body text-warm-600 text-lg max-w-2xl mx-auto leading-relaxed">
-        Hand-curated stays that redefine what a hotel can be — from underwater bedrooms to treetop suites, desert palaces to ice palaces.
-      </p>
+  <section class="bg-forest-950 pb-8 pt-10 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <nav aria-label="Breadcrumb" class="mb-4 font-body text-sm text-white/60"><a href="/" class="hover:text-white">Home</a> <span class="mx-1">/</span> <span class="text-white">Explore</span></nav>
+      <h1 class="font-display text-4xl font-bold leading-tight sm:text-5xl">Explore every stay</h1>
+      <p class="mt-2 max-w-2xl font-body text-white/70">Filter by kind of stay, budget and place. Sorted by our editors' scores by default.</p>
     </div>
   </section>
 
-  <!-- Category filter pills -->
-  <section class="border-b border-warm-200 bg-white sticky top-16 z-20 shadow-soft">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 overflow-x-auto scrollbar-hide">
-      <div class="flex items-center gap-2 min-w-max">
-        <span class="font-body text-warm-500 text-xs font-semibold uppercase tracking-wider mr-1 flex-shrink-0">Filter by:</span>
-        <a
-          href="/hotels"
-          class="inline-flex items-center gap-1.5 bg-warm-900 text-white font-body text-xs font-semibold px-3.5 py-1.5 rounded-full flex-shrink-0"
-        >
-          All Hotels
-        </a>
-        {allCategories.sort((a, b) => a.data.order - b.data.order).map(cat => (
-          <a
-            href={`/categories/${cat.slug}`}
-            class="inline-flex items-center gap-1.5 bg-white border border-warm-200 hover:border-warm-400 hover:bg-warm-50 text-warm-700 font-body text-xs font-medium px-3.5 py-1.5 rounded-full transition-all flex-shrink-0"
-          >
-            <span>{cat.data.icon}</span>
-            <span>{cat.data.title}</span>
-          </a>
+  <!-- Sticky filter bar -->
+  <div id="filters" class="sticky top-16 z-30 border-b border-warm-200 bg-white/95 backdrop-blur">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="scrollbar-hide -mx-4 flex gap-2 overflow-x-auto px-4 py-3 sm:mx-0 sm:px-0" role="group" aria-label="Kind of stay">
+        <button type="button" data-type="" class="type-chip is-on flex flex-shrink-0 items-center gap-1.5 rounded-full border border-warm-300 px-4 py-2 font-body text-sm font-semibold text-warm-800">All</button>
+        {cats.map(c => (
+          <button type="button" data-type={c.slug} class="type-chip flex flex-shrink-0 items-center gap-1.5 rounded-full border border-warm-300 px-4 py-2 font-body text-sm font-semibold text-warm-800">
+            <CategoryIcon slug={c.slug} size={16} />{c.data.title}
+          </button>
         ))}
       </div>
+      <div class="flex flex-wrap items-center gap-2 pb-3">
+        <label class="relative min-w-[180px] flex-1 sm:max-w-xs">
+          <span class="sr-only">Search by name or place</span>
+          <input id="f-q" type="search" placeholder="Name, country or place" autocomplete="off" class="w-full rounded-full border border-warm-300 bg-white py-2 pl-4 pr-3 font-body text-sm focus:border-forest-500 focus:outline-none focus:ring-2 focus:ring-forest-200" />
+        </label>
+        <label><span class="sr-only">Budget</span>
+          <select id="f-price" class="rounded-full border border-warm-300 bg-white py-2 pl-4 pr-8 font-body text-sm font-medium focus:border-forest-500 focus:outline-none">
+            <option value="">Any budget</option><option value="lt300">Under $300</option><option value="300-800">$300 to $800</option><option value="gt800">$800 and up</option>
+          </select></label>
+        <label><span class="sr-only">Sort</span>
+          <select id="f-sort" class="rounded-full border border-warm-300 bg-white py-2 pl-4 pr-8 font-body text-sm font-medium focus:border-forest-500 focus:outline-none">
+            <option value="top">Top rated</option><option value="low">Price: low to high</option><option value="high">Price: high to low</option><option value="az">Name A to Z</option>
+          </select></label>
+        <button id="f-reset" type="button" class="hidden rounded-full px-3 py-2 font-body text-sm font-semibold text-forest-700 hover:underline">Clear all</button>
+        <p id="f-count" class="ml-auto font-body text-sm text-warm-500" aria-live="polite">{total} stays</p>
+      </div>
     </div>
-  </section>
+  </div>
 
-  <!-- Hotels grid -->
-  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
-    <div class="flex items-center justify-between mb-8">
-      <h2 class="font-display text-2xl font-bold text-warm-950">
-        All <span class="text-gold-500">Extraordinary</span> Stays
-      </h2>
-      <span class="font-body text-warm-500 text-sm">{totalHotels} properties</span>
-    </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-      {sortedHotels.map(hotel => (
-        <HotelCard
-          name={hotel.data.name}
-          destination={hotel.data.destination}
-          country={hotel.data.country}
-          description={hotel.data.description}
-          priceRange={hotel.data.priceRange}
-          priceIndicator={hotel.data.priceIndicator}
-          rating={hotel.data.rating}
-          reviewCount={hotel.data.reviewCount}
-          highlights={hotel.data.highlights}
-          bookingUrl={hotel.data.bookingUrl}
-          slug={hotel.slug}
-          category={hotel.data.category}
-          featured={hotel.data.featured}
-          coverImage={hotel.data.coverImage}
-        />
+  <section class="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8 lg:py-10">
+    <div id="grid" class="grid grid-cols-1 gap-x-5 gap-y-9 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      {hotels.map(h => (
+        <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} reviewCount={h.data.reviewCount} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} featured={h.data.featured} coverImage={h.data.coverImage} />
       ))}
     </div>
-  </section>
-
-  <!-- Browse by category CTA -->
-  <section class="bg-warm-100 border-t border-warm-200">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
-      <h2 class="font-display text-3xl font-bold text-warm-950 mb-4">
-        Browse by Category
-      </h2>
-      <p class="font-body text-warm-600 mb-8">
-        Looking for a specific type of stay? Explore our 14 curated hotel categories.
-      </p>
-      <a
-        href="/categories"
-        class="inline-flex items-center gap-2 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold px-8 py-4 rounded-full transition-all hover:shadow-lg"
-      >
-        Explore All Categories
-        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-        </svg>
-      </a>
+    <div id="empty" class="hidden rounded-3xl border border-dashed border-warm-300 bg-white p-12 text-center">
+      <p class="font-display text-2xl font-bold text-warm-950">Nothing matches those filters</p>
+      <p class="mt-2 font-body text-warm-600">Try a wider budget or another kind of stay.</p>
+      <button id="empty-reset" type="button" class="mt-5 rounded-full bg-forest-600 px-6 py-3 font-body text-sm font-bold text-white hover:bg-forest-700">Clear filters</button>
     </div>
   </section>
 
+  <style>
+    .type-chip.is-on { background: #14412A; border-color: #14412A; color: #fff; }
+    .type-chip:not(.is-on):hover { border-color: #1F7D4A; }
+  </style>
+
+  <script is:inline>
+    (function () {
+      var grid = document.getElementById('grid');
+      var cards = Array.prototype.slice.call(grid.children);
+      var q = document.getElementById('f-q'), price = document.getElementById('f-price'), sort = document.getElementById('f-sort');
+      var chips = Array.prototype.slice.call(document.querySelectorAll('.type-chip'));
+      var count = document.getElementById('f-count'), empty = document.getElementById('empty'), reset = document.getElementById('f-reset');
+      var type = '';
+      var orig = cards.slice();
+
+      function card(el) { return el.querySelector('[data-hotel]') || el; }
+      function inPrice(p, r) { return !r || (r === 'lt300' && p < 300) || (r === '300-800' && p >= 300 && p <= 800) || (r === 'gt800' && p > 800); }
+
+      function apply(push) {
+        var term = q.value.trim().toLowerCase(), shown = [];
+        cards.forEach(function (w) {
+          var c = card(w), ok = (!type || c.dataset.cat === type) && inPrice(+c.dataset.price, price.value) &&
+            (!term || c.dataset.name.indexOf(term) > -1 || c.dataset.place.indexOf(term) > -1 || c.dataset.cat.replace(/-/g, ' ').indexOf(term) > -1);
+          w.hidden = !ok; if (ok) shown.push(w);
+        });
+        var s = sort.value;
+        var sorted = shown.slice().sort(function (a, b) {
+          var x = card(a).dataset, y = card(b).dataset;
+          if (s === 'low') return (+x.price || 1e9) - (+y.price || 1e9);
+          if (s === 'high') return +y.price - +x.price;
+          if (s === 'az') return x.name < y.name ? -1 : 1;
+          return (+y.featured - +x.featured) || (+y.rating - +x.rating);
+        });
+        sorted.forEach(function (w) { grid.appendChild(w); });
+        cards.filter(function (w) { return w.hidden; }).forEach(function (w) { grid.appendChild(w); });
+        count.textContent = shown.length + (shown.length === 1 ? ' stay' : ' stays');
+        empty.classList.toggle('hidden', shown.length > 0);
+        var active = !!(type || term || price.value || s !== 'top');
+        reset.classList.toggle('hidden', !active);
+        chips.forEach(function (b) { b.classList.toggle('is-on', b.dataset.type === type); });
+        if (push) {
+          var p = new URLSearchParams();
+          if (type) p.set('type', type); if (term) p.set('q', q.value.trim()); if (price.value) p.set('price', price.value); if (s !== 'top') p.set('sort', s);
+          history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p : ''));
+        }
+      }
+      function clear() { type = ''; q.value = ''; price.value = ''; sort.value = 'top'; apply(true); }
+
+      chips.forEach(function (b) { b.addEventListener('click', function () { type = b.dataset.type; apply(true); }); });
+      q.addEventListener('input', function () { apply(true); });
+      price.addEventListener('change', function () { apply(true); });
+      sort.addEventListener('change', function () { apply(true); });
+      reset.addEventListener('click', clear); document.getElementById('empty-reset').addEventListener('click', clear);
+
+      var p = new URLSearchParams(location.search);
+      type = p.get('type') || ''; q.value = p.get('q') || ''; price.value = p.get('price') || ''; sort.value = p.get('sort') || 'top';
+      apply(false);
+      var on = document.querySelector('.type-chip.is-on'); if (on && type) on.scrollIntoView({ inline: 'center', block: 'nearest' });
+    })();
+  </script>
 </BaseLayout>

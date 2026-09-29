@@ -55,3 +55,10 @@ Bunları yapmadan gelir gelmez; sırayla:
 - **Uydurma sosyal kanıt kaldırıldı** ("2.400+ abone", "4.9 puan").
 - **Programatik SEO:** `/countries/*` (25 ülke) ve `/best/<tür>-in-<ülke>` (12 sayfa): karşılaştırma tablosu, SSS, ItemList schema, takipli affiliate CTA.
 - Gerçek öncelik sırası: (1) kategori görselleri (14), (2) öne çıkan oteller, (3) diğerleri.
+
+## 6. Tasarım yenilemesi (3. tur)
+- Yeni ana sayfa: koyu hero + entegre arama paneli (tür / yer / bütçe), kategori şeridi, kaydırmalı öne çıkan stays, bütçe kartları, kıta kartları, "nasıl seçiyoruz", rehberler, bülten, SSS.
+- `/hotels/` artık filtre + sıralama sayfası (tür, bütçe, isim/yer araması, URL ile paylaşılabilir).
+- Airbnb tarzı yeni otel kartı: kalp ile kaydetme (`/saved/`, cihazda saklanır), fiyat, puan, "Check rates" bağlantısı.
+- Mobilde alt gezinme çubuğu (Home / Explore / Search / Saved / Guides), otel sayfalarında gizli (kendi sabit rezervasyon çubuğu var).
+- İçerik dosyalarındaki eski dış (Unsplash) görsel bağlantıları artık yok sayılıyor; görseller yerel dosya > çizim poster sırasıyla seçilir.
