@@ -41,7 +41,7 @@ nearbyAttractions:
     distance: "45 min per boot"
 seo:
   metaTitle: "Indochina Sails: cruise in de Ha Long-baai | StayAtNiche"
-  metaDescription: "Slapen op het water tussen de legendarische kalksteenrotsen van de Ha Long-baai aan boord van Indochina Sails, in een hut met eigen balkon."
+  metaDescription: "Slapen op het water tussen de legendarische kalksteenrotsen van de Ha Long-baai aan boord van Indochina Sails, in een ruime hut met eigen balkon."
 ---
 
 De Ha Long-baai heeft een heel specifiek effect op wie er voor het eerst komt: de schaal is gewoon niet wat je verwachtte. Bijna tweeduizend kalksteenrotsen rijzen over 1500 vierkante kilometer op uit de Golf van Tonkin, en de enige manier om er goed tussendoor te bewegen, is per boot. Een cruise per jonk is niet alleen de handigste manier om de baai te zien – het is de enige manier om de binnenlagunes, de getijdengrotten en de stukken water te bereiken waar vissersdorpen al generaties bestaan zonder toegang over de weg.
