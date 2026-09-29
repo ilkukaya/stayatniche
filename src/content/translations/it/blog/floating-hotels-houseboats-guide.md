@@ -4,7 +4,7 @@ title: "Hotel galleggianti e case galleggianti: la guida completa per dormire su
 excerpt: "Dalle decoratissime houseboat in legno del Kashmir agli hotel sui fiordi artici della Norvegia: scopri gli alloggi galleggianti più straordinari del mondo."
 seo:
   metaTitle: "Hotel galleggianti e houseboat nel mondo | StayAtNiche"
-  metaDescription: "I più belli hotel galleggianti e case galleggianti del mondo, dal Kashmir alla Norvegia, da Amsterdam al Mekong: cosa aspettarsi, prezzi e consigli pratici."
+  metaDescription: "Gli hotel galleggianti e le case galleggianti più belli del mondo, dal Kashmir alla Norvegia, da Amsterdam al Mekong: cosa aspettarsi, prezzi e consigli utili."
 ---
 
 Dormire sull’acqua regala una qualità di riposo che gli hotel sulla terraferma non possono replicare: il movimento appena percettibile, il suono dell’acqua contro lo scafo, il modo diverso in cui si comporta la luce quando rimbalza su una superficie viva. Gli hotel galleggianti e le case galleggianti occupano una nicchia affascinante: sono, per definizione, in dialogo costante con il loro ambiente.
