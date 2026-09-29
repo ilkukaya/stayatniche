@@ -12,7 +12,7 @@ on:
       verify_limit:
         description: 'Max candidates to verify'
         required: false
-        default: '150'
+        default: '400'
 
 permissions:
   contents: write
@@ -22,13 +22,13 @@ concurrency: { group: hotel-pipeline, cancel-in-progress: false }
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: '20' }
       - run: node pipeline/discover.mjs ${{ github.event.inputs.categories }}
-      - run: node pipeline/verify.mjs ${{ github.event.inputs.verify_limit || '150' }}
+      - run: node pipeline/verify.mjs ${{ github.event.inputs.verify_limit || '400' }}
       - run: node pipeline/status.mjs
       - name: Commit queue
         run: |
