@@ -27,7 +27,7 @@ const stats = { hotels: hotels.length, types: cats.length, countries: countries.
 const features = cats.filter(c => ownPhoto(c.data.coverImage, c.slug)).slice(0, 2).map(c => ({
   cat: c, photo: ownPhoto(c.data.coverImage, c.slug)!, top: hotels.filter(h => h.data.category === c.slug).sort(rank).slice(0, 5),
 }));
-const heroPhoto = ownPhoto(catsAll.find(c => c.slug === 'treehouse-hotels')?.data.coverImage, 'treehouse-hotels');
+const heroPhoto = ownPhoto('/images/hero.webp') ?? ownPhoto(catsAll.find(c => c.slug === 'treehouse-hotels')?.data.coverImage, 'treehouse-hotels');
 
 const bands = [
   { label: 'Under $300', q: 'lt300', note: 'Cave rooms, bubble domes, lighthouse keepers’ cottages', test: (p: number) => p < 300 },
@@ -56,7 +56,7 @@ const fmt = (d: Date | string) => new Date(d).toLocaleDateString('en-US', { mont
 
   <!-- HERO: full-bleed photograph, magazine-cover type -->
   <section class="relative isolate -mt-16 flex min-h-[640px] items-end overflow-hidden bg-warm-950 pt-28 sm:pt-16 text-white sm:min-h-[720px] lg:min-h-[88vh]">
-    {heroPhoto && <img src={heroPhoto} alt="A treehouse cabin in a pine forest at golden hour" class="absolute inset-0 -z-10 h-full w-full object-cover" fetchpriority="high" width="1280" height="720" />}
+    {heroPhoto && <img src={heroPhoto} alt="A glass cabin on a mountain ridge above a sea of clouds at sunrise" class="absolute inset-0 -z-10 h-full w-full object-cover" fetchpriority="high" width="1600" height="1067" />}
     <div class="absolute inset-0 -z-10 bg-gradient-to-t from-black/80 via-black/25 to-black/30"></div>
     <div class="mx-auto w-full max-w-7xl px-4 pb-10 sm:px-6 sm:pb-14 lg:px-8">
       <p class="eyebrow text-white/80">{stats.hotels} stays · {stats.countries} countries · {stats.types} kinds of unusual</p>
