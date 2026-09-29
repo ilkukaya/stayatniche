@@ -55,6 +55,24 @@ the setting, practical notes (how to get there, season) only if known. **Never i
 quotes, review counts, prices, room counts, dates or amenities. No superlatives you can't support.
 Do not copy sentences from the hotel website; paraphrase facts.
 
+## 3b. Translations (required)
+The site is published in English, German, French, Spanish, Italian and Dutch. For every hotel you
+publish, also write its five translations, following `docs/i18n/TRANSLATING.md` exactly (format,
+allowed fields, glossary, voice per language):
+
+```
+src/content/translations/de/hotels/<slug>.md
+src/content/translations/fr/hotels/<slug>.md
+src/content/translations/es/hotels/<slug>.md
+src/content/translations/it/hotels/<slug>.md
+src/content/translations/nl/hotels/<slug>.md
+```
+
+Write each as a native travel editor of that language would, not word for word, and never add facts
+that the English page doesn't have. Then run `node scripts/i18n-check.mjs all hotels` and fix every error.
+A hotel without its translations only appears on the English site. That is acceptable only if you
+run out of time, and you must say so in the final message.
+
 ## 4. Update the queue
 Set each published candidate to `status: "published"` and `slug: "<slug>"`. Save rejected/weak decisions with `reasons`.
 Run `node pipeline/status.mjs`.

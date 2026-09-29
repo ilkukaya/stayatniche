@@ -152,6 +152,32 @@
   status = 301
 
 # ── Security headers (all pages) ───────────────────────────────────────────────
+# ── Language 404s: unknown paths under a language prefix get that language's 404 page ──
+[[redirects]]
+  from = "/de/*"
+  to = "/de/404/"
+  status = 404
+
+[[redirects]]
+  from = "/fr/*"
+  to = "/fr/404/"
+  status = 404
+
+[[redirects]]
+  from = "/es/*"
+  to = "/es/404/"
+  status = 404
+
+[[redirects]]
+  from = "/it/*"
+  to = "/it/404/"
+  status = 404
+
+[[redirects]]
+  from = "/nl/*"
+  to = "/nl/404/"
+  status = 404
+
 [[headers]]
   for = "/*"
   [headers.values]

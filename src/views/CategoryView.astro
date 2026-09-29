@@ -1,0 +1,239 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HotelCard from '../components/HotelCard.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import CategoryIcon from '../components/CategoryIcon.astro';
+import { resolveImage, sizedImage } from '../lib/images';
+import { SITE } from '../lib/site';
+import { i18n, type Locale } from '../i18n';
+import { localized, entryAlternates, type Localized } from '../i18n/content';
+
+interface Props { locale: Locale; category: Localized<'categories'> }
+const { category } = Astro.props;
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const C = t.category;
+const { Content } = await category.render();
+const title = L.cat(category.slug, category.data.title);
+
+const allHotels = await localized('hotels', L.locale);
+const categoryHotels = allHotels.filter(h => h.data.category === category.slug)
+  .sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || b.data.rating - a.data.rating);
+const _prices = categoryHotels.map(h => { const m = h.data.priceRange.match(/[\d,]+/); return m ? +m[0].replace(/,/g, '') : 0; }).filter(Boolean).sort((a, b) => a - b);
+const realStats = {
+  count: categoryHotels.length,
+  from: _prices[0] ?? 0,
+  median: _prices.length ? _prices[Math.floor(_prices.length / 2)] : 0,
+  top: Object.entries(categoryHotels.reduce((m: Record<string, number>, h) => ((m[h.data.country] = (m[h.data.country] ?? 0) + 1), m), {})).sort((a, b) => b[1] - a[1])[0]?.[0] ?? '',
+};
+
+const allCategories = await localized('categories', L.locale);
+const relatedCategories = allCategories
+  .filter(c => c.slug !== category.slug)
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 3);
+
+const seo = category.data.seo || {};
+const metaTitle = seo.metaTitle || (L.locale === 'en' ? category.data.metaTitle : '') || `${title} | StayAtNiche`;
+const metaDesc  = seo.metaDescription || (L.locale === 'en' ? category.data.metaDescription : '') || category.data.description;
+
+const heroImage  = resolveImage(category.data.heroImage || category.data.coverImage, { category: category.slug });
+const heroSrcLg  = sizedImage(heroImage, 1600);
+const heroSrcMd  = sizedImage(heroImage, 1000);
+const heroOgImg  = sizedImage(heroImage, 1200);
+
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": t.common.home, "item": SITE + L.path('home') },
+    { "@type": "ListItem", "position": 2, "name": t.hotel.categories, "item": SITE + L.path('categories') },
+    { "@type": "ListItem", "position": 3, "name": title, "item": SITE + L.path('categories', category.slug) },
+  ],
+};
+
+const itemListJsonLd = categoryHotels.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": `${title} — StayAtNiche`,
+  "description": category.data.description,
+  "url": SITE + L.path('categories', category.slug),
+  "numberOfItems": categoryHotels.length,
+  "itemListElement": categoryHotels.slice(0, 30).map((hotel, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": hotel.data.name,
+    "url": SITE + L.path('hotels', hotel.slug),
+    "description": hotel.data.description,
+  })),
+} : null;
+---
+
+<BaseLayout title={metaTitle} description={metaDesc} image={heroOgImg} heroImage={heroSrcLg} alternates={await entryAlternates('categories', 'categories', category.slug)}>
+
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+  {itemListJsonLd && <script type="application/ld+json" set:html={JSON.stringify(itemListJsonLd)} />}
+
+  <!-- Hero -->
+  <section class="relative overflow-hidden">
+    <!-- Full-bleed hero photo -->
+    <div class="absolute inset-0">
+      <img
+        src={heroSrcLg}
+        srcset={`${heroSrcMd} 1000w, ${heroSrcLg} 1600w`}
+        sizes="100vw"
+        alt={title}
+        class="w-full h-full object-cover"
+        loading="eager"
+        fetchpriority="high"
+        width="1600"
+        height="900"
+      />
+      <div class="absolute inset-0 bg-gradient-to-b from-warm-950/70 via-warm-950/45 to-warm-950/70" />
+      <div class="dot-pattern absolute inset-0 opacity-10" />
+    </div>
+
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-14 pb-16">
+      <!-- Breadcrumb -->
+      <nav class="flex items-center gap-2 text-white/70 text-sm font-body mb-10" aria-label={t.common.breadcrumb}>
+        <a href={L.path('home')} class="hover:text-white transition-colors">{t.common.home}</a>
+        <span class="text-white/40">/</span>
+        <a href={L.path('categories')} class="hover:text-white transition-colors">{t.hotel.categories}</a>
+        <span class="text-white/40">/</span>
+        <span class="text-white font-medium">{title}</span>
+      </nav>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-10 items-start">
+
+        <!-- Left: main info -->
+        <div class="lg:col-span-2 text-white">
+          <div class="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20 text-gold-300 mb-6">
+            <CategoryIcon slug={category.slug} size={28} strokeWidth={1.75} />
+          </div>
+
+          {category.data.tagline && (
+            <p class="font-body text-gold-300 text-xs font-semibold uppercase tracking-[0.2em] mb-3">
+              {category.data.tagline}
+            </p>
+          )}
+
+          <h1 class="font-display text-5xl sm:text-6xl font-bold mb-5 leading-[1.05]">
+            {title}
+          </h1>
+          <p class="font-body text-white/80 text-lg leading-relaxed max-w-2xl mb-8">
+            {category.data.description}
+          </p>
+          {categoryHotels.length > 0 && (
+            <a
+              href="#stays"
+              class="inline-flex items-center gap-2 bg-white text-warm-950 hover:bg-gold-100 font-body font-semibold text-sm px-6 py-3 rounded-full transition-colors shadow-md"
+            >
+              {C.seeAll(categoryHotels.length)}
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg>
+            </a>
+          )}
+        </div>
+
+        <!-- Right: stats card -->
+        <div class="bg-white rounded-2xl shadow-[0_8px_40px_rgba(0,0,0,0.15)] p-7">
+          <h3 class="font-body text-xs font-semibold uppercase tracking-widest text-warm-500 mb-5">{C.atAGlance}</h3>
+          <div class="space-y-4">
+            <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+              <span class="font-body text-warm-600 text-sm">{C.total}</span>
+              <span class="font-display text-gold-600 font-bold text-lg">{realStats.count}</span>
+            </div>
+            <div class="flex justify-between items-center pb-4 border-b border-warm-100">
+              <span class="font-body text-warm-600 text-sm">{C.median}</span>
+              <span class="font-display text-gold-600 font-bold text-lg">{L.usd(realStats.median)}</span>
+            </div>
+            <div class="flex justify-between items-center">
+              <span class="font-body text-warm-600 text-sm">{C.topSpot}</span>
+              <span class="font-display text-warm-900 font-bold text-sm text-right max-w-[140px] leading-tight">{L.country(realStats.top)}</span>
+            </div>
+          </div>
+          <a
+            href={L.path('categories')}
+            class="block w-full text-center mt-6 border border-warm-200 hover:border-forest-400 hover:bg-forest-50 text-warm-700 hover:text-forest-700 font-body text-sm font-medium px-4 py-2.5 rounded-full transition-all"
+          >
+            {C.allCategories}
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Hotels grid -->
+  {categoryHotels.length > 0 && (
+    <section id="stays" class="bg-warm-100 border-y border-warm-200">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div class="flex items-end justify-between mb-10">
+          <h2 class="font-display text-3xl font-bold text-warm-950">
+            {C.everyWeList(title)}
+          </h2>
+          <span class="font-body text-warm-500 text-sm">{C.properties(categoryHotels.length)}</span>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+          {categoryHotels.map(hotel => (
+            <HotelCard
+              name={hotel.data.name}
+              destination={hotel.data.destination}
+              country={hotel.data.country}
+              description={hotel.data.description}
+              priceRange={hotel.data.priceRange}
+              priceIndicator={hotel.data.priceIndicator}
+              rating={hotel.data.rating}
+              reviewCount={hotel.data.reviewCount}
+              highlights={hotel.data.highlights}
+              bookingUrl={hotel.data.bookingUrl}
+              slug={hotel.slug}
+              category={hotel.data.category}
+              featured={hotel.data.featured}
+              coverImage={hotel.data.coverImage}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Long description (SEO) -->
+  {category.body && (
+    <section class="bg-warm-50 border-b border-warm-200">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div class="flex items-center gap-3 mb-8">
+          <div class="h-px flex-1 bg-warm-200" />
+          <span class="font-body text-xs font-semibold uppercase tracking-widest text-warm-400">{C.about(title)}</span>
+          <div class="h-px flex-1 bg-warm-200" />
+        </div>
+        <div class="prose prose-warm max-w-none
+          prose-headings:font-display prose-headings:text-warm-950
+          prose-p:font-body prose-p:text-warm-600 prose-p:leading-relaxed
+          prose-h2:text-2xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-4
+          prose-strong:text-warm-900 prose-a:text-forest-600 prose-a:no-underline hover:prose-a:underline">
+          <Content />
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Related categories -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
+      {C.other}
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+      {relatedCategories.map(cat => (
+        <CategoryCard
+          title={cat.data.title}
+          description={cat.data.description}
+          icon={cat.data.icon}
+          coverImage={cat.data.coverImage}
+          slug={cat.slug}
+          stats={cat.data.stats}
+          featured={cat.data.featured}
+        />
+      ))}
+    </div>
+  </section>
+
+</BaseLayout>

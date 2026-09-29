@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import credits from '../data/photo-credits.json';
+import { i18n, type Locale } from '../i18n';
+import { allAlternates, localesOf } from '../i18n/content';
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const P = L.t.photoCredits;
+const hotels = await getCollection('hotels');
+const dests = await getCollection('destinations');
+const rows = await Promise.all(Object.entries(credits as Record<string, any>).map(async ([key, c]) => {
+  const isDest = key.startsWith('dest:'); const slug = key.replace(/^dest:/, '');
+  const name = isDest ? `${dests.find(d => d.slug === slug)?.data.name ?? slug} (${c.matched ?? 'destination'})` : hotels.find(h => h.slug === slug)?.data.name ?? slug;
+  const col = isDest ? 'destinations' : 'hotels';
+  const here = (await localesOf(col, slug)).includes(L.locale);
+  return { c, name, href: here ? L.path(col, slug) : `/${col}/${slug}/` };
+}));
+rows.sort((a, b) => a.name.localeCompare(b.name));
+---
+<BaseLayout title={P.metaTitle} description={P.metaDescription} alternates={allAlternates('photo-credits')}>
+  <section class="mx-auto max-w-4xl px-4 py-12 sm:px-6">
+    <h1 class="font-display text-5xl text-warm-950">{P.metaTitle}</h1>
+    <p class="mt-4 font-body text-warm-600">{P.lead}</p>
+    <ul class="mt-8 divide-y divide-warm-200 border-y border-warm-200">
+      {rows.map(r => (
+        <li class="flex flex-col gap-1 py-3 font-body text-sm sm:flex-row sm:items-center sm:justify-between">
+          <a href={r.href} class="font-semibold text-warm-950 hover:underline">{r.name}</a>
+          <span class="text-warm-500">{P.by} <a href={r.c.source} target="_blank" rel="noopener noreferrer" class="underline">{r.c.author}</a> · {r.c.licenseUrl ? <a href={r.c.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{r.c.license}</a> : r.c.license}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

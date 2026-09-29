@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { i18n, type Locale } from '../i18n';
+import { allAlternates } from '../i18n/content';
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const C = t.contact;
+const field = 'w-full rounded-xl border border-warm-200 bg-warm-50 px-4 py-3 font-body text-sm text-warm-900 placeholder-warm-400 outline-none transition focus:border-forest-400 focus:ring-2 focus:ring-forest-100';
+---
+<BaseLayout title={C.metaTitle} description={C.metaDescription} alternates={allAlternates('contact')}>
+  <section class="mx-auto max-w-6xl px-4 pb-6 pt-10 sm:px-6 lg:px-8">
+    <nav aria-label={t.common.breadcrumb} class="font-body text-sm text-warm-500"><a href={L.path('home')} class="hover:text-warm-950">{t.common.home}</a> <span class="mx-1 text-warm-300">/</span> <span class="text-warm-800">{t.footer.contact}</span></nav>
+    <h1 class="mt-5 font-display text-5xl leading-[.95] text-warm-950 sm:text-7xl">{C.h1}</h1>
+    <p class="mt-4 max-w-2xl font-body text-lg text-warm-600">{C.lead}</p>
+  </section>
+  <section class="mx-auto grid max-w-6xl gap-10 px-4 py-10 sm:px-6 lg:grid-cols-[1fr_1.4fr] lg:px-8">
+    <ul class="space-y-4">
+      {C.topics.map((x) => (
+        <li class="rounded-2xl border border-warm-200 bg-white p-6">
+          <h2 class="font-display text-2xl text-warm-950">{x.title}</h2>
+          <p class="mt-1.5 font-body text-sm leading-relaxed text-warm-600">{x.text}</p>
+        </li>
+      ))}
+    </ul>
+    <form name="contact" method="POST" netlify netlify-honeypot="bot-field" class="space-y-5 rounded-2xl border border-warm-200 bg-white p-6 sm:p-8">
+      <input type="hidden" name="form-name" value="contact" />
+      <input type="hidden" name="language" value={L.locale} />
+      <p class="hidden"><label>Leave empty: <input name="bot-field" /></label></p>
+      <h2 class="font-display text-3xl text-warm-950">{C.formTitle}</h2>
+      <div class="grid gap-5 sm:grid-cols-2">
+        <div><label for="first-name" class="mb-1.5 block font-body text-sm font-medium text-warm-700">{C.firstName}</label><input id="first-name" name="first-name" type="text" required autocomplete="given-name" class={field} /></div>
+        <div><label for="last-name" class="mb-1.5 block font-body text-sm font-medium text-warm-700">{C.lastName}</label><input id="last-name" name="last-name" type="text" autocomplete="family-name" class={field} /></div>
+      </div>
+      <div><label for="email" class="mb-1.5 block font-body text-sm font-medium text-warm-700">{C.email}</label><input id="email" name="email" type="email" required autocomplete="email" placeholder={t.footer.emailPlaceholder} class={field} /></div>
+      <div><label for="subject" class="mb-1.5 block font-body text-sm font-medium text-warm-700">{C.subject}</label>
+        <select id="subject" name="subject" class={field}>
+          <option value="">{C.chooseTopic}</option>
+          {Object.entries(C.subjects).map(([v, label]) => <option value={v}>{label}</option>)}
+        </select>
+      </div>
+      <div><label for="message" class="mb-1.5 block font-body text-sm font-medium text-warm-700">{C.message}</label><textarea id="message" name="message" required rows="6" class={`${field} resize-none`}></textarea></div>
+      <button type="submit" class="w-full rounded-full bg-forest-700 px-8 py-4 font-body text-base font-semibold text-white transition hover:bg-forest-800">{C.send}</button>
+      <p class="text-center font-body text-xs text-warm-400">{C.privacyNote} <a href={L.path('privacy')} class="underline">{t.footer.privacy}</a></p>
+    </form>
+  </section>
+</BaseLayout>

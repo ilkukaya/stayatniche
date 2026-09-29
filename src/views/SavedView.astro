@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HotelCard from '../components/HotelCard.astro';
+import { i18n, type Locale } from '../i18n';
+import { localized, allAlternates } from '../i18n/content';
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const S = L.t.saved;
+const hotels = await localized('hotels', L.locale);
+---
+<BaseLayout title={S.metaTitle} description={S.metaDescription} noIndex={true} alternates={allAlternates('saved')}>
+  <section class="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
+    <h1 class="font-display text-5xl text-warm-950">{S.h1}</h1>
+    <p class="mt-2 font-body text-warm-600">{S.lead}</p>
+    <div id="s-grid" class="mt-8 grid grid-cols-1 gap-x-5 gap-y-9 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      {hotels.map(h => (
+        <div data-wrap hidden>
+          <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} reviewCount={h.data.reviewCount} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} featured={h.data.featured} coverImage={h.data.coverImage} />
+        </div>
+      ))}
+    </div>
+    <div id="s-empty" class="hidden rounded-3xl border border-dashed border-warm-300 bg-white p-12 text-center">
+      <p class="font-display text-3xl text-warm-950">{S.emptyTitle}</p>
+      <p class="mt-2 font-body text-warm-600">{S.emptyText}</p>
+      <a href={L.path('hotels')} class="mt-5 inline-block rounded-full bg-forest-700 px-6 py-3 font-body text-sm font-semibold text-white hover:bg-forest-800">{S.explore}</a>
+    </div>
+  </section>
+  <script is:inline>
+    (function () {
+      function render() {
+        var saved = []; try { saved = JSON.parse(localStorage.getItem('sn_saved') || '[]'); } catch (e) {}
+        var n = 0;
+        document.querySelectorAll('[data-wrap]').forEach(function (w) {
+          var on = saved.indexOf(w.querySelector('[data-hotel]').dataset.slug) > -1; w.hidden = !on; if (on) n++;
+        });
+        document.getElementById('s-empty').classList.toggle('hidden', n > 0);
+      }
+      render(); document.addEventListener('sn:saved-changed', render);
+    })();
+  </script>
+</BaseLayout>

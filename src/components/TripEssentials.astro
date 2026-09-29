@@ -2,6 +2,7 @@
 /** Trip services with partner logos and clear calls to action (all tracked affiliate links). */
 import { tpLink } from '../lib/affiliate';
 import PartnerLogo from './PartnerLogo.astro';
+import { getLocale, i18n } from '../i18n';
 interface Props { destination: string; country: string; subId: string; compact?: boolean }
 const { destination, country, subId } = Astro.props;
 const place = destination.split(',')[0].trim();
@@ -10,30 +11,36 @@ const c = encodeURIComponent(country);
 const esimSlug = country.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
 const airaloUrl = ['usa', 'uk', 'england', 'scotland'].includes(esimSlug) ? 'https://www.airalo.com/' : `https://www.airalo.com/${esimSlug}-esim`;
 const t = (p: string, u: string) => tpLink(p, u, `essentials_${subId}`);
+const L = i18n(getLocale(Astro.url));
+const E = L.t.essentials;
+const where = L.country(country);
+// Only partner sites with confirmed language home pages are localized.
+const loc = L.locale === 'en' ? 'en' : L.locale;
+const mk = (k: keyof typeof E.items, logo: string, brand: string, href: string) => ({ ...E.items[k], desc: E.items[k].desc(where), brand, logo, href });
 const groups = [
-  { title: 'Getting there', items: [
-    { label: 'Flights', brand: 'Kiwi.com', logo: 'kiwi', desc: `Compare flights and smart route combos to ${country}.`, cta: 'Search flights', href: t('', 'https://www.kiwi.com/en/') },
-    { label: 'Airport transfer', brand: 'Welcome Pickups', logo: 'welcomepickups', desc: 'A fixed-price driver waiting at arrivals.', cta: 'Book a pickup', href: t('', 'https://www.welcomepickups.com/') },
-    { label: 'Car hire', brand: 'Localrent', logo: 'localrent', desc: 'Cars from local rental companies.', cta: 'Compare cars', href: t('', 'https://localrent.com/en/') },
+  { title: E.groups.there, items: [
+    mk('flights', 'kiwi', 'Kiwi.com', t('', `https://www.kiwi.com/${loc}/`)),
+    mk('transfer', 'welcomepickups', 'Welcome Pickups', t('', 'https://www.welcomepickups.com/')),
+    mk('car', 'localrent', 'Localrent', t('', 'https://localrent.com/en/')),
   ]},
-  { title: 'While you’re there', items: [
-    { label: 'Tours & activities', brand: 'Klook', logo: 'klook', desc: `Day trips and experiences in ${country}.`, cta: 'Find tours', href: t('', `https://www.klook.com/en-US/search-results/?query=${c}`) },
-    { label: 'Attraction tickets', brand: 'Tiqets', logo: 'tiqets', desc: 'Instant mobile tickets for museums and sights.', cta: 'Get tickets', href: t('', 'https://www.tiqets.com/en/') },
-    { label: 'Luggage storage', brand: 'Radical Storage', logo: 'radicalstorage', desc: 'Drop your bags and explore hands-free.', cta: 'Find storage', href: t('', 'https://radicalstorage.com/') },
+  { title: E.groups.during, items: [
+    mk('tours', 'klook', 'Klook', t('', `https://www.klook.com/en-US/search-results/?query=${c}`)),
+    mk('tickets', 'tiqets', 'Tiqets', t('', `https://www.tiqets.com/${loc}/`)),
+    mk('luggage', 'radicalstorage', 'Radical Storage', t('', 'https://radicalstorage.com/')),
   ]},
-  { title: 'Before you go', items: [
-    { label: 'eSIM data', brand: 'Airalo', logo: 'airalo', desc: `Mobile data for ${country}, no roaming fees.`, cta: 'Get an eSIM', href: t('', airaloUrl) },
-    { label: 'Travel insurance', brand: 'EKTA', logo: 'ekta', desc: 'Medical cover for your trip, bought online.', cta: 'Get a quote', href: t('', 'https://ekta.travel/') },
-    { label: 'Flight delayed?', brand: 'AirHelp', logo: 'airhelp', desc: 'Check if a delay or cancellation entitles you to compensation.', cta: 'Check my flight', href: t('', 'https://www.airhelp.com/') },
+  { title: E.groups.before, items: [
+    mk('esim', 'airalo', 'Airalo', t('', airaloUrl)),
+    mk('insurance', 'ekta', 'EKTA', t('', 'https://ekta.travel/')),
+    mk('delay', 'airhelp', 'AirHelp', t('', 'https://www.airhelp.com/')),
   ]},
 ];
 ---
 <section aria-labelledby="essentials-h">
   <div class="flex flex-wrap items-end justify-between gap-2">
-    <h2 id="essentials-h" class="font-display text-3xl leading-none text-warm-950">Plan the trip</h2>
-    <p class="font-body text-xs text-warm-500">Partner links: we may earn a commission, at no extra cost to you.</p>
+    <h2 id="essentials-h" class="font-display text-3xl leading-none text-warm-950">{E.title}</h2>
+    <p class="font-body text-xs text-warm-500">{E.disclaimer}</p>
   </div>
-  <p class="mt-2 font-body text-sm text-warm-600">Everything else you’ll need for {place === country ? country : `${place}, ${country}`}, from services we’d use ourselves.</p>
+  <p class="mt-2 font-body text-sm text-warm-600">{E.intro(place === country ? where : `${place}, ${where}`)}</p>
   <div class="mt-6 space-y-6 sm:space-y-7">
     {groups.map(g => (
       <div>
@@ -47,7 +54,7 @@ const groups = [
                 <PartnerLogo partner={it.logo} name={it.brand} size={44} class="!h-10 !w-10 sm:!h-11 sm:!w-11" />
                 <span class="w-full min-w-0 sm:w-auto">
                   <span class="block font-body text-[13px] font-semibold leading-tight text-warm-950 sm:text-[15px]">{it.label}</span>
-                  <span class="mt-0.5 block truncate font-body text-[11px] text-warm-500 sm:text-xs">with {it.brand}</span>
+                  <span class="mt-0.5 block truncate font-body text-[11px] text-warm-500 sm:text-xs">{E.with(it.brand)}</span>
                 </span>
               </span>
               <span class="mt-3 hidden flex-1 font-body text-[13px] leading-snug text-warm-600 sm:block">{it.desc}</span>

@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { i18n, type Locale } from '../i18n';
+import { allAlternates } from '../i18n/content';
+import { countryGroups } from '../i18n/roundups';
+
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const rows = (await countryGroups(L.locale))
+  .map(g => ({ name: L.country(g.country), slug: g.slug, n: g.hs.length }))
+  .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name, L.intl));
+---
+<BaseLayout title={t.countries.metaTitle} description={t.countries.metaDescription} alternates={allAlternates('countries')}>
+  <section class="mx-auto max-w-5xl px-4 py-12 sm:px-6">
+    <nav aria-label={t.common.breadcrumb} class="font-body text-sm text-warm-500"><a href={L.path('home')} class="hover:text-warm-950">{t.common.home}</a> <span class="mx-1 text-warm-300">/</span> <span class="text-warm-800">{t.nav.countries}</span></nav>
+    <h1 class="mt-4 font-display text-5xl leading-[.95] text-warm-950">{t.countries.h1}</h1>
+    <p class="mt-3 font-body text-warm-600">{t.countries.lead}</p>
+    <ul class="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
+      {rows.map(r => (
+        <li><a href={L.path('countries', r.slug)} class="flex items-center justify-between rounded-xl border border-warm-200 bg-white px-4 py-3 font-body text-sm hover:border-forest-400"><span class="font-semibold text-warm-900">{r.name}</span><span class="text-warm-400">{r.n}</span></a></li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

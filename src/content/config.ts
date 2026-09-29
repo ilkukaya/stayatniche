@@ -198,6 +198,27 @@ const experiences = defineCollection({
   }),
 });
 
+// ── Translations ──────────────────────────────────────────────
+// src/content/translations/<lang>/<collection>/<slug>.md — translatable fields only
+// (see docs/i18n/TRANSLATING.md); merged over the English entry at build time.
+const translations = defineCollection({
+  type: 'content',
+  schema: z.object({ source: z.string() }).passthrough(),
+});
+
+// ── Static pages (about, disclosure, privacy) ─────────────────
+// src/content/pages/<lang>/<name>.md — one full file per language.
+const pages = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    metaTitle: z.string(),
+    metaDescription: z.string(),
+    lead: z.string().optional(),
+    updated: z.date().optional(),
+  }),
+});
+
 // ── Settings ──────────────────────────────────────────────────
 const settings = defineCollection({
   type: 'data',
@@ -211,4 +232,6 @@ export const collections = {
   destinations,
   experiences,
   settings,
+  translations,
+  pages,
 };

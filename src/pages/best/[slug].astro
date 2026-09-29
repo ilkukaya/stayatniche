@@ -1,39 +1,9 @@
 ---
-import HotelRoundup from '../../components/HotelRoundup.astro';
-import { getCollection } from 'astro:content';
-import { slugify, isLive, startPrice } from '../../lib/site';
+import BestView from '../../views/BestView.astro';
+import { bestGroups } from '../../i18n/roundups';
 
 export async function getStaticPaths() {
-  const hotels = await getCollection('hotels', isLive);
-  const cats = await getCollection('categories');
-  const groups = new Map<string, { cat: string; country: string; hs: any[] }>();
-  for (const h of hotels) {
-    const k = `${h.data.category}|${h.data.country}`;
-    const g = groups.get(k) ?? { cat: h.data.category, country: h.data.country, hs: [] };
-    g.hs.push(h); groups.set(k, g);
-  }
-  return [...groups.values()].filter(g => g.hs.length >= 2).map(g => {
-    const catTitle = cats.find(c => c.slug === g.cat)?.data.title ?? g.cat.replace(/-/g, ' ');
-    return { params: { slug: `${g.cat}-in-${slugify(g.country)}` }, props: { ...g, catTitle } };
-  });
+  return (await bestGroups('en')).map(g => ({ params: { slug: g.slug }, props: g }));
 }
-const { cat, country, hs, catTitle } = Astro.props;
-const cheapest = [...hs].sort((a, b) => startPrice(a.data.priceRange) - startPrice(b.data.priceRange))[0];
-const top = [...hs].sort((a, b) => b.data.rating - a.data.rating)[0];
-const faq = [
-  { q: `What are the best ${catTitle.toLowerCase()} in ${country}?`, a: `${hs.map((h: any) => h.data.name).join(', ')}. Our top-scored pick is ${top.data.name} in ${top.data.destination}.` },
-  { q: `How much do ${catTitle.toLowerCase()} in ${country} cost?`, a: `Typical rates run from about ${cheapest.data.priceRange.split(/\s[-–]\s/)[0]} a night (${cheapest.data.name}) upward. Always check live rates for your dates.` },
-];
 ---
-<HotelRoundup
-  title={`Best ${catTitle} in ${country}`}
-  metaTitle={`Best ${catTitle} in ${country}: ${hs.length} Top Picks Compared`}
-  metaDescription={`The best ${catTitle.toLowerCase()} in ${country}, compared: ${hs.slice(0, 3).map((h: any) => h.data.name).join(', ')}. Typical prices and who each stay suits.`}
-  intro={`${hs.length} standout ${catTitle.toLowerCase()} in ${country}, ranked by our editors. Start with ${top.data.name} in ${top.data.destination}; the most affordable is ${cheapest.data.name}.`}
-  path={`/best/${Astro.params.slug}/`}
-  hotels={hs}
-  crumbs={[{ name: 'Categories', url: '/categories/' }, { name: catTitle, url: `/categories/${cat}/` }, { name: country, url: `/best/${Astro.params.slug}/` }]}
-  faq={faq}
-  searchPlace={country}
-  related={[{ label: `All ${catTitle}`, url: `/categories/${cat}/` }, { label: `All stays in ${country}`, url: `/countries/${slugify(country)}/` }]}
-/>
+<BestView locale="en" {...Astro.props} />
