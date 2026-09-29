@@ -117,7 +117,7 @@ const destJsonLd = {
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
               {dest.data.mustSee.map((item: string) => (
                 <div class="flex items-start gap-3 bg-white rounded-xl border border-warm-100 p-4 shadow-soft">
-                  <svg class="w-4 h-4 text-gold-500 mt-0.5 flex-shrink-0" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>
+                  <span class="mt-2 inline-block h-1.5 w-1.5 flex-shrink-0 rounded-full bg-gold-500" aria-hidden="true"></span>
                   <span class="font-body text-warm-700 text-sm">{item}</span>
                 </div>
               ))}

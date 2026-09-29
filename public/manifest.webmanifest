@@ -4,15 +4,15 @@
   "description": "Discover the world's most extraordinary hotel stays \u2014 treehouses, underwater rooms, safari lodges, ice hotels, and more.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#FBF8F4",
-  "theme_color": "#1F7D4A",
+  "background_color": "#FAF9F6",
+  "theme_color": "#133B2F",
   "lang": "en",
   "icons": [
     {
       "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "/icon-512.png",
