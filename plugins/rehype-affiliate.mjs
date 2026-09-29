@@ -1,7 +1,7 @@
-// Rewrites external links in Markdown/MDX bodies: partner links are wrapped in
-// tracked Travelpayouts redirects (revenue!), and every external link gets the
-// correct rel/target attributes. Internal links are untouched.
-import { TP_MARKER, TP_PROGRAMS } from '../src/lib/tp-programs.mjs';
+// Rewrites external links in Markdown/MDX bodies: partner links become tracked
+// Travelpayouts links where the program is verified (see tp-programs.mjs), and every
+// external link gets the correct rel/target attributes. Internal links are untouched.
+import { partnerLink, isPartner } from '../src/lib/tp-programs.mjs';
 
 function walk(node, fn) {
   fn(node);
@@ -18,9 +18,8 @@ export default function rehypeAffiliate({ subId = 'blog' } = {}) {
       let u;
       try { u = new URL(href); } catch { return; }
       if (/(^|\.)stayatniche\.com$/.test(u.hostname)) return;
-      const pid = TP_PROGRAMS[u.hostname.replace(/^www\./, '')];
-      if (pid) {
-        node.properties.href = `https://tp.media/r?marker=${TP_MARKER}&p=${pid}&u=${encodeURIComponent(href)}&sub_id=${encodeURIComponent(`${subId}_${slug}`.slice(0, 60))}`;
+      if (isPartner(u.hostname)) {
+        node.properties.href = partnerLink(href, `${subId}_${slug}`);
         node.properties.rel = ['noopener', 'noreferrer', 'nofollow', 'sponsored'];
         node.properties['data-affiliate'] = u.hostname.replace(/^www\./, '');
       } else {
