@@ -7,7 +7,7 @@ stats:
   topDestination: "Cappadocia, Turchia"
 seo:
   metaTitle: "Hotel in grotta: dormire nella roccia | StayAtNiche"
-  metaDescription: "Dormi dentro antiche formazioni rocciose nei migliori hotel in grotta del mondo: Cappadocia, Santorini, Matera e oltre. Suite nella pietra, fresche e suggestive."
+  metaDescription: "Dormi dentro antiche formazioni rocciose nei migliori hotel in grotta del mondo: Cappadocia, Santorini, Matera e oltre. Suite nella pietra, fresche e magiche."
 ---
 
 La Cappadocia è abitata da oltre 2.000 anni, e le testimonianze archeologiche della presenza umana nelle sue grotte risalgono a molto prima. Il tufo vulcanico della regione, modellato dall’erosione nei celebri camini delle fate e in valli spettacolari, era perfetto per viverci dentro: abbastanza tenero da essere scavato con attrezzi rudimentali, ma capace di indurirsi a contatto con l’aria fino a diventare uno spazio abitativo resistente e termicamente stabile. Gli hotel in grotta di qui non sono trovate bizzarre: sono l’ultimo capitolo di una tradizione lunghissima.
