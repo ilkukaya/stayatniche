@@ -59,7 +59,7 @@ export const CATEGORIES = {
   'lighthouse-hotels': {
     name: 'lighthouse|light house|fyr|phare|faro|leuchtturm|vuurtoren|majakka|fyrvokter',
     // Must describe the building itself (historic / keeper's quarters / light station), not a business named "Lighthouse".
-    site: /(former|historic|restored|converted|working|active|decommissioned|original|victorian|\d{4}|century)[^.]{0,40}(lighthouse|light ?station)|lighthouse keeper|(light)?keeper'?s (house|cottage|quarters|dwelling)|light ?station|lighthouse (was )?(built|dating|dates|erected|constructed) (in|from|back to)|inside (the|a) lighthouse|lighthouse tower|lantern room/i,
+    site: /(former(?!ly)|historic|restored|converted|working|active|decommissioned|original|victorian|(?<!\d)1[5-9]\d\d(?!\d)|century)[^.]{0,40}(lighthouse|light ?station)|lighthouse keeper|(light)?keeper'?s (house|cottage|quarters|dwelling)|light ?station|lighthouse (was )?(built|dating|dates|erected|constructed) (in|from|back to)|inside (the|a) lighthouse|lighthouse tower|lantern room/i,
     exclude: /museum|ruinas|ruins|motel|residence|golf|marina|reef|view|campground|camping|campsite|apartment|backpackers|farm|sunlight|hostel/i,
     extra: ['nwr["man_made"="lighthouse"]["tourism"~"^(hotel|guest_house|chalet|hostel|apartment|motel)$"];'],
   },
