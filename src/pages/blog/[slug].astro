@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
 import { getCollection } from 'astro:content';
 import { withTracking } from '../../lib/affiliate';
+import AdSlot from '../../components/AdSlot.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -37,6 +38,9 @@ const articleJsonLd = {
   "headline": post.data.title,
   "description": metaDesc,
   "url": `https://stayatniche.com/blog/${post.slug}`,
+  "mainEntityOfPage": { "@type": "WebPage", "@id": `https://stayatniche.com/blog/${post.slug}/` },
+  "articleSection": post.data.category,
+  "keywords": post.data.tags.join(", "),
   "author": {
     "@type": "Organization",
     "name": post.data.author || "StayAtNiche Team",
@@ -48,11 +52,11 @@ const articleJsonLd = {
   },
   ...(post.data.publishedDate ? { "datePublished": new Date(post.data.publishedDate).toISOString() } : {}),
   ...(post.data.updatedDate ? { "dateModified": new Date(post.data.updatedDate).toISOString() } : {}),
-  ...(post.data.coverImage ? { "image": post.data.coverImage.startsWith('http') ? post.data.coverImage : `https://stayatniche.com${post.data.coverImage}` } : {}),
+  "image": post.data.coverImage?.startsWith('http') ? post.data.coverImage : 'https://stayatniche.com/og-default.png',
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} type="article">
+<BaseLayout title={metaTitle} description={metaDesc} type="article" publishedTime={new Date(post.data.publishedDate).toISOString()} updatedTime={(post.data.updatedDate ?? post.data.publishedDate) && new Date(post.data.updatedDate ?? post.data.publishedDate).toISOString()}>
 
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
@@ -124,6 +128,7 @@ const articleJsonLd = {
         prose-li:text-warm-700 prose-li:font-body prose-blockquote:border-gold-400
         prose-blockquote:text-warm-600 prose-blockquote:font-display prose-blockquote:text-lg">
         <Content />
+        <AdSlot slot="blog-inline" />
       </div>
     </section>
   </article>

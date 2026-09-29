@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from '../components/HotelCard.astro';
 import CategoryIcon from '../components/CategoryIcon.astro';
+import Faq from '../components/Faq.astro';
 import { getCollection } from 'astro:content';
 import { resolveImage, sizedImage } from '../lib/images';
 import { AFFILIATE_REL, withTracking } from '../lib/affiliate';
@@ -509,6 +510,16 @@ const bentoCategories = sortedCategories.slice(0, 8);
         </div>
       </div>
     </div>
+  </section>
+
+
+  <section class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">
+    <Faq heading="Unusual hotels: quick answers" items={[
+      { q: 'What are the most unusual types of hotels in the world?', a: `StayAtNiche covers ${stats.categories} types of unusual stays: treehouse hotels, cave hotels, underwater rooms, overwater bungalows, ice hotels, safari lodges, bubble hotels, castle hotels, floating hotels, cliffside hotels, desert camps, jungle lodges, lighthouse hotels and train hotels.` },
+      { q: 'Are unusual hotels more expensive than regular hotels?', a: 'Not always. Prices range from around $100 a night for simple cave rooms and glamping domes to $1,000+ for underwater suites and private-island bungalows. Each listing shows a typical nightly range; always check live rates for your dates.' },
+      { q: 'When should I book a treehouse, ice or underwater hotel?', a: 'Book 6 to 12 months ahead for peak seasons. Ice hotels are seasonal (roughly December to April), aurora stays fill up early in winter, and small properties with only a handful of rooms often sell out first.' },
+      { q: 'How does StayAtNiche make money?', a: 'We earn a commission when you book through some of our links, at no extra cost to you. Links are marked as sponsored and our scores are editorial. See our affiliate disclosure for the full list of partners.' },
+    ]} />
   </section>
 
 </BaseLayout>
