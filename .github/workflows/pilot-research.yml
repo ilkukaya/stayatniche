@@ -1,0 +1,25 @@
+name: Pilot research (hotel audit + candidates)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node scripts/pilot-research.mjs
+      - name: Commit report to the same branch
+        run: |
+          git config user.name "stayatniche-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/pilot
+          git diff --cached --quiet && exit 0
+          git commit -m "Pilot research report (OSM + Wikidata)"
+          git push origin HEAD:${GITHUB_REF_NAME}
