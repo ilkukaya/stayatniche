@@ -8,7 +8,7 @@
 import { CATEGORIES } from './categories.mjs';
 import { getJSON, loadQueue, saveQueue, sleep, publishedHotels, matchesPublished, UA } from './lib.mjs';
 
-const LIMIT = +(process.argv[2] ?? 120);
+const LIMIT = +(process.argv[2] ?? 400);
 const CLOSED = /permanently closed|we have (now )?closed|no longer (open|operating|accepting)|closed (for good|permanently)|this (hotel|property) (has|is) (now )?closed|ceased trading/i;
 const q = loadQueue();
 const pub = publishedHotels();
@@ -63,26 +63,33 @@ for (const c of pending) {
   const siteText = site?.ok ? `${site.title} ${site.description} ${site.text}` : '';
   const closed = dissolved || CLOSED.test(siteText.slice(0, 20000));
 
+  // must be a place to stay
+  const LODGING_RE = /^(hotel|guest_house|chalet|hostel|camp_site|apartment|motel|alpine_hut|wilderness_hut|resort|caravan_site)$/;
+  const lodging = (c.osm?.tourism && LODGING_RE.test(c.osm.tourism)) || (c.source === 'wikidata' && /\b(hotel|lodge|resort|guest ?house|inn|hostel|accommodation|bed and breakfast|glamping|holiday home)\b/i.test(c.description ?? ''));
+
   // score per category, keep the best
   let best = null;
   for (const cat of c.categories) {
     const def = CATEGORIES[cat];
+    if (def.exclude?.test(c.name)) continue;
     let s = 0;
     if (new RegExp(def.name, 'i').test(c.name)) { s += 3; }
     const m = siteText.match(def.site);
     if (m) s += 2;
-    if (c.osm?.tourism || c.source === 'wikidata') s += 1;
+    if (lodging) s += 1;
     if (c.wikidata) s += 1;
     if (site?.ok) s += 1;
     if (!best || s > best.score) best = { cat, score: s, siteMatch: m?.[0] ?? null, snippet: m ? siteText.slice(Math.max(0, m.index - 250), m.index + 350).trim() : null };
   }
+  if (!best) { c.status = 'rejected'; c.reasons = ['excluded name (not a niche stay)']; c.checkedAt = now; saveQueue(q); continue; }
   c.category = best.cat; c.score = best.score;
   c.evidence = site ? { status: site.status, url: site.url, title: site.title, description: site.description?.slice(0, 400), keyword: best.siteMatch, snippet: best.snippet } : null;
   c.checkedAt = now;
 
   if (closed) { c.status = 'rejected'; reasons.push(dissolved ? 'wikidata: dissolved' : 'website says closed'); }
-  else if (best.score >= 5 && (site?.ok || c.wikidata)) c.status = 'verified';
-  else if (best.score >= 3) { c.status = 'weak'; reasons.push('low confidence'); }
+  else if (!lodging) { c.status = 'rejected'; reasons.push('not tagged as accommodation'); }
+  else if (best.siteMatch && site?.ok && best.score >= 6) c.status = 'verified';
+  else if (best.score >= 4) { c.status = 'weak'; reasons.push(best.siteMatch ? 'low confidence' : 'no category evidence on official website'); }
   else { c.status = 'rejected'; reasons.push('category not confirmed'); }
   c.reasons = reasons;
   console.log(`${c.status.padEnd(9)} ${String(best.score).padStart(2)} ${best.cat.padEnd(20)} ${c.name}`);

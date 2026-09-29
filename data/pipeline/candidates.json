@@ -10,7 +10,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "São Bento do Norte",
+  "city": "S\u00e3o Bento do Norte",
   "osm": {
    "tourism": "hotel"
   },
@@ -71,7 +71,7 @@
   "website": "https://www.reservationcounter.com/hotels/show/691afe7",
   "wikidata": null,
   "country": null,
-  "city": "Úrsulo Galván",
+  "city": "\u00darsulo Galv\u00e1n",
   "osm": {
    "tourism": "hotel",
    "stars": "2.5"
@@ -143,7 +143,7 @@
  },
  "osm:node/10052463615": {
   "id": "osm:node/10052463615",
-  "name": "La Casa del Árbol",
+  "name": "La Casa del \u00c1rbol",
   "categories": [
    "treehouse-hotels"
   ],
@@ -178,24 +178,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Michigan, United States",
   "hasWikiImage": true,
-  "region": "Michigan",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.lighthousefriends.com/light.asp?ID=566",
-   "title": "Point Iroquois Lighthouse, Michigan at Lighthousefriends.com",
-   "description": "Point Iroquois Lighthouse, Michigan Lighthouses, photographs, pictures, history, location, visitor information, maps, description, hotels, Lighthousefriends.com",
-   "keyword": "Lighthouse",
-   "snippet": "Point Iroquois Lighthouse, Michigan at Lighthousefriends.com Point Iroquois Lighthouse, Michigan Lighthouses, photographs, pictures, history, location, visitor information, maps, description, hotels, Lighthousefriends.com  Point Iroquois Lighthouse, Michigan at Lighthousefriends.com Home Maps Resources Calendar About Resources Calendar About Point Iroquois, MI Se"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Michigan"
  },
  "osm:node/10125920717": {
   "id": "osm:node/10125920717",
@@ -279,7 +267,7 @@
  },
  "osm:node/10228669194": {
   "id": "osm:node/10228669194",
-  "name": "花蓮港燈塔",
+  "name": "\u82b1\u84ee\u6e2f\u71c8\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -335,19 +323,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Zonguldak, Turkey",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "osm:node/10314441934": {
   "id": "osm:node/10314441934",
@@ -466,17 +447,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "functioning lighthouse in the Mojave Desert near Hinkley, California, United States",
   "hasWikiImage": true,
-  "region": "California",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "California"
  },
  "osm:node/10608249406": {
   "id": "osm:node/10608249406",
@@ -561,7 +537,7 @@
  },
  "osm:node/10699527023": {
   "id": "osm:node/10699527023",
-  "name": "Faro Laguna Setúbal",
+  "name": "Faro Laguna Set\u00fabal",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -638,24 +614,12 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Chandigarh, India",
   "hasWikiImage": false,
-  "region": "Chandigarh",
-  "category": "treehouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.lemontreehotels.com/lemon-tree-hotel/chandigarh/hotel-chandigarh",
-   "title": "Hotels in Chandigarh - Lemon Tree Hotel, Chandigarh",
-   "description": "Lemon Tree Hotel, Chandigarh - Best Hotels in Chandigarh located near Zirakpur &amp; Panchkula. Book direct to get exclusive deals, Complimentary Breakfast, Free WiFi and Pay at Hotel!",
-   "keyword": "Tree Hotel",
-   "snippet": "Hotels in Chandigarh - Lemon Tree Hotel, Chandigarh Lemon Tree Hotel, Chandigarh - Best Hotels in Chandigarh located near Zirakpur &amp; Panchkula. Book direct to get exclusive deals, Complimentary Breakfast, Free WiFi and Pay at Hotel!  Hotels in Chandigarh - Lemon Tree Hotel, Chandigarh --> Lemon Tree Hotels accepts payments through UPI, net banking, debit, and credit card t"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Chandigarh"
  },
  "osm:node/10754619610": {
   "id": "osm:node/10754619610",
@@ -788,7 +752,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Potosí",
+  "city": "Potos\u00ed",
   "osm": {
    "tourism": "hostel"
   },
@@ -839,7 +803,7 @@
  },
  "osm:node/10874827797": {
   "id": "osm:node/10874827797",
-  "name": "Suítes Farol do Cabo",
+  "name": "Su\u00edtes Farol do Cabo",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -1008,7 +972,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Tidjikja تجكجة",
+  "city": "Tidjikja \u062a\u062c\u0643\u062c\u0629",
   "osm": {
    "tourism": "motel"
   },
@@ -1099,7 +1063,7 @@
  },
  "osm:node/11200633479": {
   "id": "osm:node/11200633479",
-  "name": "Qaradağ Mayakı",
+  "name": "Qarada\u011f Mayak\u0131",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -1135,19 +1099,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Azerbaijan",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "osm:node/11202928561": {
   "id": "osm:node/11202928561",
@@ -1200,7 +1157,7 @@
   "website": "https://www.chalupa-pod-farou.wbs.cz",
   "wikidata": null,
   "country": null,
-  "city": "Malšín",
+  "city": "Mal\u0161\u00edn",
   "osm": {
    "tourism": "guest_house"
   },
@@ -1371,7 +1328,7 @@
  },
  "osm:node/11499137170": {
   "id": "osm:node/11499137170",
-  "name": "Cabañas El Faro",
+  "name": "Caba\u00f1as El Faro",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -1451,7 +1408,7 @@
  },
  "osm:node/11540673453": {
   "id": "osm:node/11540673453",
-  "name": "Yuquiyú Treehouses",
+  "name": "Yuquiy\u00fa Treehouses",
   "categories": [
    "treehouse-hotels"
   ],
@@ -1486,21 +1443,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Italy",
   "hasWikiImage": true,
-  "region": "Emilia-Romagna",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Emilia-Romagna"
  },
  "osm:node/11638804639": {
   "id": "osm:node/11638804639",
-  "name": "Ferienhof und Baumhaus Hotel Allgäu",
+  "name": "Ferienhof und Baumhaus Hotel Allg\u00e4u",
   "categories": [
    "treehouse-hotels"
   ],
@@ -1640,7 +1592,7 @@
  },
  "osm:node/11775066469": {
   "id": "osm:node/11775066469",
-  "name": "Baumhaus Dobel Eyachmühle",
+  "name": "Baumhaus Dobel Eyachm\u00fchle",
   "categories": [
    "treehouse-hotels"
   ],
@@ -1715,17 +1667,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Alagoas, Brazil",
   "hasWikiImage": true,
-  "region": "Alagoas",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Alagoas"
  },
  "osm:node/1181445206": {
   "id": "osm:node/1181445206",
@@ -1744,17 +1691,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Bahia, Brazil",
   "hasWikiImage": true,
-  "region": "Bahia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Bahia"
  },
  "osm:node/1181476027": {
   "id": "osm:node/1181476027",
@@ -1889,7 +1831,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "ပျော်ဘွယ်",
+  "city": "\u1015\u103b\u1031\u102c\u103a\u1018\u103d\u101a\u103a",
   "osm": {
    "tourism": "hotel"
   },
@@ -2060,7 +2002,7 @@
  },
  "osm:node/12051923470": {
   "id": "osm:node/12051923470",
-  "name": "Ağva Feneri",
+  "name": "A\u011fva Feneri",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -2121,7 +2063,7 @@
  },
  "osm:node/12092018783": {
   "id": "osm:node/12092018783",
-  "name": "Casa Camiño dos Faros",
+  "name": "Casa Cami\u00f1o dos Faros",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -2310,7 +2252,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Παραλία Κατερίνης",
+  "city": "\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03b1 \u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b7\u03c2",
   "osm": {
    "tourism": "hotel"
   },
@@ -2370,7 +2312,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Ochotnica Górna",
+  "city": "Ochotnica G\u00f3rna",
   "osm": {
    "tourism": "guest_house"
   },
@@ -2416,19 +2358,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Estonia",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "osm:node/12383871192": {
   "id": "osm:node/12383871192",
@@ -2488,19 +2423,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in the Netherlands",
   "hasWikiImage": true,
-  "region": "South Holland",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "South Holland"
  },
  "osm:node/12431967073": {
   "id": "osm:node/12431967073",
@@ -2554,7 +2482,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Iż-Żebbuġ",
+  "city": "I\u017c-\u017bebbu\u0121",
   "osm": {
    "tourism": "apartment"
   },
@@ -2585,7 +2513,7 @@
  },
  "osm:node/12484924697": {
   "id": "osm:node/12484924697",
-  "name": "Gîte d'Étape Les Pingouins du Phare",
+  "name": "G\u00eete d'\u00c9tape Les Pingouins du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -2674,7 +2602,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Архыз",
+  "city": "\u0410\u0440\u0445\u044b\u0437",
   "osm": {
    "tourism": "guest_house"
   },
@@ -2725,7 +2653,7 @@
  },
  "osm:node/1260143321": {
   "id": "osm:node/1260143321",
-  "name": "Gömnitzer Turm",
+  "name": "G\u00f6mnitzer Turm",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -2734,26 +2662,19 @@
   "website": null,
   "wikidata": "Q1559358",
   "country": "Germany",
-  "city": "Süsel",
+  "city": "S\u00fcsel",
   "osm": {
    "tourism": "viewpoint",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "tower in Kreis Ostholstein, Germany",
   "hasWikiImage": true,
-  "region": "Schleswig-Holstein",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Schleswig-Holstein"
  },
  "osm:node/12647696000": {
   "id": "osm:node/12647696000",
@@ -2857,7 +2778,7 @@
  },
  "osm:node/1271039314": {
   "id": "osm:node/1271039314",
-  "name": "花蓮港紅燈塔",
+  "name": "\u82b1\u84ee\u6e2f\u7d05\u71c8\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -2878,7 +2799,7 @@
  },
  "osm:node/1271040038": {
   "id": "osm:node/1271040038",
-  "name": "Cape Engaño Lighthouse",
+  "name": "Cape Enga\u00f1o Lighthouse",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -2894,17 +2815,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on Palaui Island, Philippines",
   "hasWikiImage": true,
-  "region": "Cagayan",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Cagayan"
  },
  "osm:node/1278630020": {
   "id": "osm:node/1278630020",
@@ -2917,27 +2833,22 @@
   "website": null,
   "wikidata": "Q3378382",
   "country": "France",
-  "city": "Sartène",
+  "city": "Sart\u00e8ne",
   "osm": {
    "tourism": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Corse-du-Sud, France",
   "hasWikiImage": true,
-  "region": "Corsica",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Corsica"
  },
  "osm:node/1279156060": {
   "id": "osm:node/1279156060",
-  "name": "Baumhaushotel Pöttmes",
+  "name": "Baumhaushotel P\u00f6ttmes",
   "categories": [
    "treehouse-hotels"
   ],
@@ -2973,17 +2884,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Newfoundland and Labrador, Canada",
   "hasWikiImage": true,
-  "region": "Newfoundland and Labrador",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Newfoundland and Labrador"
  },
  "osm:node/12825814595": {
   "id": "osm:node/12825814595",
@@ -3022,24 +2928,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Rocha Department, Uruguay",
   "hasWikiImage": true,
-  "region": "Rocha",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://turismorocha.gub.uy/atractivos/faros/faro-cabo-santa-maria",
-   "title": "Faro Cabo Santa María en La Paloma, Rocha, Uruguay. Horarios de visita y costo de ingreso",
-   "description": "Faro Cabo Santa María, un atractivo que debes visitar en durante tus vacaciones a Rocha, Uruguay. Horarios, costo de ingreso, historias y más información.",
-   "keyword": "Faro",
-   "snippet": "Faro Cabo Santa María en La Paloma, Rocha, Uruguay. Horarios de visita y costo de ingreso Faro Cabo Santa María, un atractivo que debes visitar en durante tus vacaciones a Rocha, Uruguay. Horarios, costo de ingreso, historias y más información.  Faro Cabo Santa María en La Paloma, Rocha, Uruguay. Horarios de visita y costo de ingreso Portal Oficial"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Rocha"
  },
  "osm:node/12881050777": {
   "id": "osm:node/12881050777",
@@ -3063,7 +2957,7 @@
  },
  "osm:node/12899507432": {
   "id": "osm:node/12899507432",
-  "name": "Fyrvaktaren Hanö",
+  "name": "Fyrvaktaren Han\u00f6",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -3072,7 +2966,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Sölvesborg",
+  "city": "S\u00f6lvesborg",
   "osm": {
    "tourism": "chalet"
   },
@@ -3123,7 +3017,7 @@
  },
  "osm:node/12942487444": {
   "id": "osm:node/12942487444",
-  "name": "鹿児島港新南防波堤灯台",
+  "name": "\u9e7f\u5150\u5cf6\u6e2f\u65b0\u5357\u9632\u6ce2\u5824\u706f\u53f0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -3184,7 +3078,7 @@
  },
  "osm:node/1298206726": {
   "id": "osm:node/1298206726",
-  "name": "Baumhaushotel Wipfelglück",
+  "name": "Baumhaushotel Wipfelgl\u00fcck",
   "categories": [
    "treehouse-hotels"
   ],
@@ -3293,7 +3187,7 @@
   "website": null,
   "wikidata": null,
   "country": "LV",
-  "city": "Rīga",
+  "city": "R\u012bga",
   "osm": {
    "tourism": "hostel"
   },
@@ -3326,7 +3220,7 @@
  },
  "osm:node/1317463725": {
   "id": "osm:node/1317463725",
-  "name": "Hôtel du Phare",
+  "name": "H\u00f4tel du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -3355,24 +3249,19 @@
   "website": null,
   "wikidata": "Q1682221",
   "country": "Germany",
-  "city": "Dagebüll",
+  "city": "Dageb\u00fcll",
   "osm": {
    "tourism": "hotel",
    "historic": "lighthouse",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Schleswig-Holstein, Germany",
   "hasWikiImage": true,
-  "region": "Schleswig-Holstein",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Schleswig-Holstein"
  },
  "osm:node/13200290720": {
   "id": "osm:node/13200290720",
@@ -3445,7 +3334,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Cobán",
+  "city": "Cob\u00e1n",
   "osm": {
    "tourism": "hotel"
   },
@@ -3598,7 +3487,7 @@
  },
  "osm:node/1356402207": {
   "id": "osm:node/1356402207",
-  "name": "Lyngør fyr",
+  "name": "Lyng\u00f8r fyr",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -3667,30 +3556,18 @@
   "website": "http://ut.no/hytte/struten-%28stengt%29",
   "wikidata": "Q3428791",
   "country": "Norway",
-  "city": "Østfold",
+  "city": "\u00d8stfold",
   "osm": {
    "tourism": "chalet",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Norway",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 6,
-  "evidence": {
-   "status": 200,
-   "url": "https://ut.no/hytte/struten-(stengt)",
-   "title": "Hele Norges turplanlegger - UT.no",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:node/1356459117": {
   "id": "osm:node/1356459117",
@@ -3774,7 +3651,7 @@
  },
  "osm:node/13621751346": {
   "id": "osm:node/13621751346",
-  "name": "Villa Bahía Del Faro",
+  "name": "Villa Bah\u00eda Del Faro",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -3883,23 +3760,18 @@
   "website": null,
   "wikidata": "Q1364525",
   "country": "France",
-  "city": "Plouzané",
+  "city": "Plouzan\u00e9",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Finistère, France",
+  "description": "lighthouse in Finist\u00e8re, France",
   "hasWikiImage": true,
-  "region": "Brittany",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Brittany"
  },
  "osm:node/1371472162": {
   "id": "osm:node/1371472162",
@@ -3918,23 +3790,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": null,
   "hasWikiImage": false,
-  "region": "Apulia",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Apulia"
  },
  "osm:node/13728197769": {
   "id": "osm:node/13728197769",
-  "name": "Hôtel Côté Phare",
+  "name": "H\u00f4tel C\u00f4t\u00e9 Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -3970,17 +3835,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in the Netherlands",
   "hasWikiImage": true,
-  "region": "Flevoland",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Flevoland"
  },
  "osm:node/13757805016": {
   "id": "osm:node/13757805016",
@@ -4293,7 +4153,7 @@
   "website": "https://www.location-maison-ile-de-re.fr/",
   "wikidata": null,
   "country": null,
-  "city": "Saint-Clément-des-Baleines",
+  "city": "Saint-Cl\u00e9ment-des-Baleines",
   "osm": {
    "tourism": "apartment"
   },
@@ -4313,7 +4173,7 @@
   "website": "https://www.saintyvesbycelia.com/saint-clement-des-baleines+17+maison+location-vacances+r28041514.html",
   "wikidata": null,
   "country": null,
-  "city": "Saint-Clément-des-Baleines",
+  "city": "Saint-Cl\u00e9ment-des-Baleines",
   "osm": {
    "tourism": "apartment"
   },
@@ -4324,7 +4184,7 @@
  },
  "osm:node/13991744668": {
   "id": "osm:node/13991744668",
-  "name": "La Maison près du Phare",
+  "name": "La Maison pr\u00e8s du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -4333,7 +4193,7 @@
   "website": "https://www.iledereloc.com/maison-location.php?id=5203",
   "wikidata": null,
   "country": null,
-  "city": "Saint-Clément-des-Baleines",
+  "city": "Saint-Cl\u00e9ment-des-Baleines",
   "osm": {
    "tourism": "apartment"
   },
@@ -4353,7 +4213,7 @@
   "website": "https://les-maisons-du-phare.com/",
   "wikidata": null,
   "country": null,
-  "city": "Saint-Clément-des-Baleines",
+  "city": "Saint-Cl\u00e9ment-des-Baleines",
   "osm": {
    "tourism": "apartment"
   },
@@ -4373,7 +4233,7 @@
   "website": "https://www.travelparadise.fr/location/villa-saint-clement-des-baleines-villa-du-phare-529860.html",
   "wikidata": null,
   "country": null,
-  "city": "Saint-Clément-des-Baleines",
+  "city": "Saint-Cl\u00e9ment-des-Baleines",
   "osm": {
    "tourism": "apartment"
   },
@@ -4384,7 +4244,7 @@
  },
  "osm:node/13991744693": {
   "id": "osm:node/13991744693",
-  "name": "L'Eau Ré du Phare",
+  "name": "L'Eau R\u00e9 du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -4393,7 +4253,7 @@
   "website": "https://www.gites-de-france.com/fr/nouvelle-aquitaine/charente-maritime/leau-re-du-phare-17g16258",
   "wikidata": null,
   "country": null,
-  "city": "Saint-Clément-des-Baleines",
+  "city": "Saint-Cl\u00e9ment-des-Baleines",
   "osm": {
    "tourism": "chalet"
   },
@@ -4504,7 +4364,7 @@
  },
  "osm:node/14061388304": {
   "id": "osm:node/14061388304",
-  "name": "Treehouses Sněžník",
+  "name": "Treehouses Sn\u011b\u017en\u00edk",
   "categories": [
    "treehouse-hotels"
   ],
@@ -4553,7 +4413,7 @@
   "website": "https://airbnb.com/h/gemuetliches-stelzenbaumhaus-whirlpool-bad",
   "wikidata": null,
   "country": null,
-  "city": "Mülsen St. Niclas",
+  "city": "M\u00fclsen St. Niclas",
   "osm": {
    "tourism": "hostel"
   },
@@ -4564,7 +4424,7 @@
  },
  "osm:node/14078281535": {
   "id": "osm:node/14078281535",
-  "name": "Stelzen-Baumhaus–Mikro-Rastplatz & Übernachtung für Wanderer&Radler",
+  "name": "Stelzen-Baumhaus\u2013Mikro-Rastplatz & \u00dcbernachtung f\u00fcr Wanderer&Radler",
   "categories": [
    "treehouse-hotels"
   ],
@@ -4573,7 +4433,7 @@
   "website": "https://airbnb.com/h/gemuetliches-stelzenbaumhaus-whirlpool-bad",
   "wikidata": null,
   "country": null,
-  "city": "Mülsen",
+  "city": "M\u00fclsen",
   "osm": {
    "tourism": "hostel"
   },
@@ -4979,24 +4839,12 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in South Africa",
   "hasWikiImage": false,
-  "region": "Western Cape",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 404,
-   "url": "https://www.hunterhotels.com/tsalatreetoplodge/",
-   "title": "",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Western Cape"
  },
  "osm:node/14183521502": {
   "id": "osm:node/14183521502",
@@ -5095,19 +4943,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lower Saxony, Germany",
   "hasWikiImage": true,
-  "region": "Lower Saxony",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Lower Saxony"
  },
  "osm:node/1474038968": {
   "id": "osm:node/1474038968",
@@ -5200,23 +5041,18 @@
   "website": null,
   "wikidata": "Q3378527",
   "country": "France",
-  "city": "Île-de-Bréhat",
+  "city": "\u00cele-de-Br\u00e9hat",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Côtes-d'Armor, France",
+  "description": "lighthouse in C\u00f4tes-d'Armor, France",
   "hasWikiImage": true,
-  "region": "Brittany",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Brittany"
  },
  "osm:node/1546270222": {
   "id": "osm:node/1546270222",
@@ -5316,19 +5152,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lower Saxony, Germany",
   "hasWikiImage": true,
-  "region": "Lower Saxony",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Lower Saxony"
  },
  "osm:node/1568873882": {
   "id": "osm:node/1568873882",
@@ -5367,17 +5196,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Galicia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Galicia"
  },
  "osm:node/1572657171": {
   "id": "osm:node/1572657171",
@@ -5417,17 +5241,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Cantabria",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Cantabria"
  },
  "osm:node/1572817130": {
   "id": "osm:node/1572817130",
@@ -5467,17 +5286,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Canary Islands",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Canary Islands"
  },
  "osm:node/1579485323": {
   "id": "osm:node/1579485323",
@@ -5516,17 +5330,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Melilla, Spain",
   "hasWikiImage": true,
-  "region": "Melilla",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Melilla"
  },
  "osm:node/1581786276": {
   "id": "osm:node/1581786276",
@@ -5594,7 +5403,7 @@
  },
  "osm:node/1647978358": {
   "id": "osm:node/1647978358",
-  "name": "Farol da Nazaré",
+  "name": "Farol da Nazar\u00e9",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -5603,24 +5412,19 @@
   "website": null,
   "wikidata": "Q10280118",
   "country": "Portugal",
-  "city": "Nazaré",
+  "city": "Nazar\u00e9",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Portugal",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:node/1659453478": {
   "id": "osm:node/1659453478",
@@ -5783,21 +5587,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Canary Islands",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Canary Islands"
  },
  "osm:node/1747477199": {
   "id": "osm:node/1747477199",
-  "name": "Fyrtårn Tommerup Hostel",
+  "name": "Fyrt\u00e5rn Tommerup Hostel",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -5958,7 +5757,7 @@
  },
  "osm:node/1863593260": {
   "id": "osm:node/1863593260",
-  "name": "Калона-маяк",
+  "name": "\u041a\u0430\u043b\u043e\u043d\u0430-\u043c\u0430\u044f\u043a",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -5979,7 +5778,7 @@
  },
  "osm:node/1870149463": {
   "id": "osm:node/1870149463",
-  "name": "Inter-Hôtel du Phare",
+  "name": "Inter-H\u00f4tel du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -6061,7 +5860,7 @@
  },
  "osm:node/1922188608": {
   "id": "osm:node/1922188608",
-  "name": "Faro Cayo Córdoba",
+  "name": "Faro Cayo C\u00f3rdoba",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -6097,17 +5896,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Uruguay",
   "hasWikiImage": true,
-  "region": "Canelones",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Canelones"
  },
  "osm:node/1929767753": {
   "id": "osm:node/1929767753",
@@ -6187,17 +5981,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Uruguay",
   "hasWikiImage": true,
-  "region": "Rocha",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Rocha"
  },
  "osm:node/206233001": {
   "id": "osm:node/206233001",
@@ -6242,7 +6031,7 @@
  },
  "osm:node/2085903498": {
   "id": "osm:node/2085903498",
-  "name": "Створный маяк Новоладожского канала (красный)",
+  "name": "\u0421\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u043c\u0430\u044f\u043a \u041d\u043e\u0432\u043e\u043b\u0430\u0434\u043e\u0436\u0441\u043a\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0430 (\u043a\u0440\u0430\u0441\u043d\u044b\u0439)",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -6380,17 +6169,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Amrum, Schleswig-Holstein, Germany",
   "hasWikiImage": true,
-  "region": "Schleswig-Holstein",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Schleswig-Holstein"
  },
  "osm:node/2258441580": {
   "id": "osm:node/2258441580",
@@ -6430,24 +6214,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Michigan, United States",
   "hasWikiImage": true,
-  "region": "Michigan",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://visitludington.com/big-sable-point-lighthouse-ludington-state-park",
-   "title": "Big Sable Point Lighthouse - Visit Ludington",
-   "description": "The black-and-white striped, 112 foot lighthouse at the Ludington State Park stands proudly on the shores of Lake Michigan.",
-   "keyword": "Lighthouse",
-   "snippet": "Big Sable Point Lighthouse - Visit Ludington The black-and-white striped, 112 foot lighthouse at the Ludington State Park stands proudly on the shores of Lake Michigan.  Big Sable Point Lighthouse - Visit Ludington Skip to content Home Activities Attractions Hamlin Lake Lake Michigan S.S. Badger Carferry Beaches Parks Cool Things to Do Calendar of Events Lodging C"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Michigan"
  },
  "osm:node/2296557224": {
   "id": "osm:node/2296557224",
@@ -6480,7 +6252,7 @@
   "website": "https://www.farosbeach.gr/",
   "wikidata": null,
   "country": "GR",
-  "city": "Ρέθυμνο",
+  "city": "\u03a1\u03ad\u03b8\u03c5\u03bc\u03bd\u03bf",
   "osm": {
    "tourism": "hotel"
   },
@@ -6600,7 +6372,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Reykjavík",
+  "city": "Reykjav\u00edk",
   "osm": {
    "tourism": "hotel"
   },
@@ -6722,7 +6494,7 @@
   "website": "http://faro-hostel.com",
   "wikidata": null,
   "country": null,
-  "city": "Москва",
+  "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
   "osm": {
    "tourism": "hostel"
   },
@@ -6748,19 +6520,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in New York, United States",
   "hasWikiImage": true,
-  "region": "New York",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "New York"
  },
  "osm:node/255878599": {
   "id": "osm:node/255878599",
@@ -6833,24 +6598,19 @@
   "website": null,
   "wikidata": "Q6897679",
   "country": "United States",
-  "city": "Mayagüez",
+  "city": "Mayag\u00fcez",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on the island of Mona, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/2673240087": {
   "id": "osm:node/2673240087",
@@ -6894,7 +6654,7 @@
  },
  "osm:node/2702996008": {
   "id": "osm:node/2702996008",
-  "name": "Hôtel du Phare",
+  "name": "H\u00f4tel du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -6943,29 +6703,22 @@
   "website": null,
   "wikidata": "Q5856409",
   "country": "Spain",
-  "city": "Pollença",
+  "city": "Pollen\u00e7a",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Balearic Islands",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Balearic Islands"
  },
  "osm:node/2748017581": {
   "id": "osm:node/2748017581",
-  "name": "Faro de Guánica",
+  "name": "Faro de Gu\u00e1nica",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -6974,24 +6727,19 @@
   "website": null,
   "wikidata": "Q5623121",
   "country": "United States",
-  "city": "Guánica",
+  "city": "Gu\u00e1nica",
   "osm": {
    "tourism": "attraction",
    "historic": "ruins",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse at Guánica, Puerto Rico",
+  "description": "lighthouse at Gu\u00e1nica, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/275675529": {
   "id": "osm:node/275675529",
@@ -7050,17 +6798,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Italy",
   "hasWikiImage": true,
-  "region": "Marche",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Marche"
  },
  "osm:node/2804220956": {
   "id": "osm:node/2804220956",
@@ -7101,24 +6844,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Arecibo, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://arecibolighthouse.com/lighthouse/",
-   "title": "Home - Arecibo Lighthouse and Historical",
-   "description": "¡Donde la Historia es una Aventura! Bienvenidos al Arecibo Lighthouse and Historical Park ¡Descubre la magia de Puerto Rico en un solo lugar! Ubicado frente al imponente Océano Atlántico, nuestro parque cultural ofrece una experiencia única donde la historia y la diversión se encuentran.Desde el majestuoso Faro de los Morrillos construido en 1898, hasta nuestras",
-   "keyword": "Lighthouse",
-   "snippet": "Home - Arecibo Lighthouse and Historical ¡Donde la Historia es una Aventura! Bienvenidos al Arecibo Lighthouse and Historical Park ¡Descubre la magia de Puerto Rico en un solo lugar! Ubicado frente al imponente Océano Atlántico, nuestro parque cultural ofrece una experiencia única donde la historia y la diversión se encuentran.Desde el majestuoso Faro de los Morr"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/2828866620": {
   "id": "osm:node/2828866620",
@@ -7157,17 +6888,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Laguna, Santa Catarina, Brazil",
   "hasWikiImage": true,
-  "region": "Santa Catarina",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Santa Catarina"
  },
  "osm:node/286880853": {
   "id": "osm:node/286880853",
@@ -7211,7 +6937,7 @@
  },
  "osm:node/2901381171": {
   "id": "osm:node/2901381171",
-  "name": "Le Gîte du Phare de Pointe-des-Monts",
+  "name": "Le G\u00eete du Phare de Pointe-des-Monts",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -7246,26 +6972,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse, Grade II listed building in St Donats, Wales; situated on the cliff-top at Nash Point in a walled enclosure",
   "hasWikiImage": true,
-  "region": "Wales",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": {
-   "status": 404,
-   "url": "https://www.trinityhouse.co.uk/lighthouses/nash_point.html?tab=visitor",
-   "title": "Sorry, that page could not be found | Trinity House",
-   "description": "404 - page not found",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Wales"
  },
  "osm:node/2922974114": {
   "id": "osm:node/2922974114",
@@ -7426,17 +7138,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Region of Murcia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Region of Murcia"
  },
  "osm:node/3079249674": {
   "id": "osm:node/3079249674",
@@ -7496,17 +7203,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in the Philippines",
   "hasWikiImage": true,
-  "region": "Batangas",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Batangas"
  },
  "osm:node/3147804804": {
   "id": "osm:node/3147804804",
@@ -7525,17 +7227,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Nicaragua",
   "hasWikiImage": false,
-  "region": "South Caribbean Coast",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "South Caribbean Coast"
  },
  "osm:node/3160526793": {
   "id": "osm:node/3160526793",
@@ -7553,24 +7250,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "building in India",
   "hasWikiImage": false,
-  "region": "Tamil Nadu",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 403,
-   "url": "https://www.raintreehotels.com/html/chennai-st-marys-road-hotel.asp",
-   "title": "ERROR: The request could not be satisfied",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Tamil Nadu"
  },
  "osm:node/316518668": {
   "id": "osm:node/316518668",
@@ -7589,17 +7274,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hill in Guayaquil, Ecuador",
   "hasWikiImage": true,
-  "region": "Guayas",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Guayas"
  },
  "osm:node/31991991": {
   "id": "osm:node/31991991",
@@ -7618,24 +7298,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Borkum, Germany",
   "hasWikiImage": true,
-  "region": "Lower Saxony",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 404,
-   "url": "http://www.borkum.de/DE/insel/sehenswuerdigkeiten/Neuer-Leuchtturm.php",
-   "title": "Seite wurde nicht gefunden. &#187; Borkum.de",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Lower Saxony"
  },
  "osm:node/3211390229": {
   "id": "osm:node/3211390229",
@@ -7734,28 +7402,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Senegal",
   "hasWikiImage": true,
-  "region": "Dakar Region",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.pharedesmamelles.sn/",
-   "title": "phare des mamelles",
-   "description": "",
-   "keyword": "phare",
-   "snippet": "phare des mamelles   phare des mamelles PHARE DES MAMELLES, ROUTE DE L AÉROPORT, DAKAR +221 77 343 72 72 O TACT PH RED M L S M ACCUEIL Musée Histoire Boutique Souvenirs Infos restaurant INFORMATIONS PRATIQUES Menu Programme musical Evènements Privés ACCUEIL Musée Histoire Boutique Souvenirs Infos restaurant INFORMATIONS PRATIQUES Menu Programme mus"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Dakar Region"
  },
  "osm:node/3250130923": {
   "id": "osm:node/3250130923",
-  "name": "高雄燈塔",
+  "name": "\u9ad8\u96c4\u71c8\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -7770,19 +7426,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Kaohsiung",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "osm:node/3276598397": {
   "id": "osm:node/3276598397",
@@ -7861,17 +7510,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse built 1904",
   "hasWikiImage": true,
-  "region": "England",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "England"
  },
  "osm:node/3312623300": {
   "id": "osm:node/3312623300",
@@ -8073,21 +7717,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "Spanish-era lighthouse in Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/3440531799": {
   "id": "osm:node/3440531799",
-  "name": "Hotel La mansión del Faro",
+  "name": "Hotel La mansi\u00f3n del Faro",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -8108,7 +7747,7 @@
  },
  "osm:node/3490391072": {
   "id": "osm:node/3490391072",
-  "name": "Litløy fyr",
+  "name": "Litl\u00f8y fyr",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -8197,7 +7836,7 @@
   "website": "https://motelduhautphare.com/",
   "wikidata": null,
   "country": null,
-  "city": "Gaspé",
+  "city": "Gasp\u00e9",
   "osm": {
    "tourism": "motel"
   },
@@ -8228,7 +7867,7 @@
  },
  "osm:node/355722885": {
   "id": "osm:node/355722885",
-  "name": "Leuchtturm Barßel",
+  "name": "Leuchtturm Bar\u00dfel",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -8237,23 +7876,18 @@
   "website": null,
   "wikidata": "Q28376433",
   "country": "Germany",
-  "city": "Barßel",
+  "city": "Bar\u00dfel",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lower Saxony, Germany",
   "hasWikiImage": true,
-  "region": "Lower Saxony",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Lower Saxony"
  },
  "osm:node/355965229": {
   "id": "osm:node/355965229",
@@ -8297,7 +7931,7 @@
  },
  "osm:node/3592074325": {
   "id": "osm:node/3592074325",
-  "name": "Siknäs Fyrklöver",
+  "name": "Sikn\u00e4s Fyrkl\u00f6ver",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -8337,7 +7971,7 @@
  },
  "osm:node/3644951278": {
   "id": "osm:node/3644951278",
-  "name": "Hôtel Royal Phare",
+  "name": "H\u00f4tel Royal Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -8366,25 +8000,18 @@
   "website": null,
   "wikidata": "Q17603510",
   "country": "Spain",
-  "city": "Cadaqués",
+  "city": "Cadaqu\u00e9s",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Catalonia",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Catalonia"
  },
  "osm:node/3664970738": {
   "id": "osm:node/3664970738",
@@ -8424,17 +8051,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on the southernmost point of the Isle of Wight, England, UK",
   "hasWikiImage": true,
-  "region": "England",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "England"
  },
  "osm:node/367147772": {
   "id": "osm:node/367147772",
@@ -8641,7 +8263,7 @@
  },
  "osm:node/3906862678": {
   "id": "osm:node/3906862678",
-  "name": "龍飛埼灯台",
+  "name": "\u9f8d\u98db\u57fc\u706f\u53f0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -8656,19 +8278,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Japan",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "osm:node/3930110578": {
   "id": "osm:node/3930110578",
@@ -8766,24 +8381,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Costa Rica",
   "hasWikiImage": false,
-  "region": "Limón Province",
-  "category": "treehouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.costaricatreehouse.com/",
-   "title": "Costa Rica Tree House Lodge - Book Direct for Best Rates + Extras",
-   "description": "The Tree House Lodge is a unique 10-acre oceanfront ecolodge, perfect for couples and families looking for an authentic experience off the beaten path.",
-   "keyword": "Tree House",
-   "snippet": "Costa Rica Tree House Lodge - Book Direct for Best Rates + Extras The Tree House Lodge is a unique 10-acre oceanfront ecolodge, perfect for couples and families looking for an authentic experience off the beaten path.  Costa Rica Tree House Lodge - Book Direct for Best Rates + Extras Skip to content Menu Our Houses Tree House Beach House Beach Suite The Schoo"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Lim\u00f3n Province"
  },
  "osm:node/3982527862": {
   "id": "osm:node/3982527862",
@@ -8801,17 +8404,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "guesthouse in San Juanillo",
   "hasWikiImage": false,
-  "region": "Guanacaste",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Guanacaste"
  },
  "osm:node/4006589311": {
   "id": "osm:node/4006589311",
@@ -8931,17 +8529,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Asturias",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Asturias"
  },
  "osm:node/4116862987": {
   "id": "osm:node/4116862987",
@@ -9001,17 +8594,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Hawaii, United States",
   "hasWikiImage": true,
-  "region": "Hawaii",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Hawaii"
  },
  "osm:node/4167313492": {
   "id": "osm:node/4167313492",
@@ -9049,17 +8637,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Panaji, India",
   "hasWikiImage": false,
-  "region": "Goa",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Goa"
  },
  "osm:node/4184990189": {
   "id": "osm:node/4184990189",
@@ -9077,17 +8660,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Bocas Del Toro, Panama",
   "hasWikiImage": false,
-  "region": "Bocas del Toro",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Bocas del Toro"
  },
  "osm:node/4189562492": {
   "id": "osm:node/4189562492",
@@ -9112,7 +8690,7 @@
  },
  "osm:node/4189562493": {
   "id": "osm:node/4189562493",
-  "name": "Hotel Macià Alfaros",
+  "name": "Hotel Maci\u00e0 Alfaros",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -9121,7 +8699,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Córdoba",
+  "city": "C\u00f3rdoba",
   "osm": {
    "tourism": "hotel",
    "stars": "4"
@@ -9173,7 +8751,7 @@
  },
  "osm:node/4213297090": {
   "id": "osm:node/4213297090",
-  "name": "Створный маяк Новоладожского канала (белый)",
+  "name": "\u0421\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u043c\u0430\u044f\u043a \u041d\u043e\u0432\u043e\u043b\u0430\u0434\u043e\u0436\u0441\u043a\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0430 (\u0431\u0435\u043b\u044b\u0439)",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -9223,7 +8801,7 @@
   "website": "https://www.lighthousejurmala.lv/",
   "wikidata": null,
   "country": "LV",
-  "city": "Jūrmala",
+  "city": "J\u016brmala",
   "osm": {
    "tourism": "hotel"
   },
@@ -9414,7 +8992,7 @@
  },
  "osm:node/4298062392": {
   "id": "osm:node/4298062392",
-  "name": "فانوس دریایی",
+  "name": "\u0641\u0627\u0646\u0648\u0633 \u062f\u0631\u06cc\u0627\u06cc\u06cc",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -9471,17 +9049,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Arroyo, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/4304888898": {
   "id": "osm:node/4304888898",
@@ -9521,17 +9094,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Vieques, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/4304900990": {
   "id": "osm:node/4304900990",
@@ -9551,21 +9119,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "an 1887 lighthouse in Ponce, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/4327814640": {
   "id": "osm:node/4327814640",
-  "name": "Les cabanes perchées dans les Landes",
+  "name": "Les cabanes perch\u00e9es dans les Landes",
   "categories": [
    "treehouse-hotels"
   ],
@@ -9720,19 +9283,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Argentina",
   "hasWikiImage": true,
-  "region": "Entre Ríos Province",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Entre R\u00edos Province"
  },
  "osm:node/4456117040": {
   "id": "osm:node/4456117040",
@@ -9796,7 +9352,7 @@
  },
  "osm:node/4476350519": {
   "id": "osm:node/4476350519",
-  "name": "Žirgų švyturys",
+  "name": "\u017dirg\u0173 \u0161vyturys",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -9805,25 +9361,18 @@
   "website": null,
   "wikidata": "Q4385735",
   "country": "Lithuania",
-  "city": "Klaipėda County",
+  "city": "Klaip\u0117da County",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lithuania",
   "hasWikiImage": true,
-  "region": "Klaipėda County",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Klaip\u0117da County"
  },
  "osm:node/448387859": {
   "id": "osm:node/448387859",
@@ -10068,7 +9617,7 @@
  },
  "osm:node/4570272540": {
   "id": "osm:node/4570272540",
-  "name": "常夜灯",
+  "name": "\u5e38\u591c\u706f",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -10251,7 +9800,7 @@
  },
  "osm:node/463446232": {
   "id": "osm:node/463446232",
-  "name": "Latarnia morska Czołpino",
+  "name": "Latarnia morska Czo\u0142pino",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -10260,26 +9809,19 @@
   "website": null,
   "wikidata": "Q11320229",
   "country": "Poland",
-  "city": "Smołdzino",
+  "city": "Smo\u0142dzino",
   "osm": {
    "tourism": "viewpoint",
    "historic": "lighthouse",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Poland",
   "hasWikiImage": true,
-  "region": "Pomeranian Voivodeship",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Pomeranian Voivodeship"
  },
  "osm:node/4643888736": {
   "id": "osm:node/4643888736",
@@ -10445,7 +9987,7 @@
  },
  "osm:node/4713701876": {
   "id": "osm:node/4713701876",
-  "name": "Résidence le phare 2",
+  "name": "R\u00e9sidence le phare 2",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -10485,7 +10027,7 @@
  },
  "osm:node/4741525333": {
   "id": "osm:node/4741525333",
-  "name": "燈塔",
+  "name": "\u71c8\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -10506,7 +10048,7 @@
  },
  "osm:node/4743583323": {
   "id": "osm:node/4743583323",
-  "name": "Faro Adícora",
+  "name": "Faro Ad\u00edcora",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -10515,23 +10057,18 @@
   "website": null,
   "wikidata": "Q29950690",
   "country": "Venezuela",
-  "city": "Adícora",
+  "city": "Ad\u00edcora",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Venezuela",
   "hasWikiImage": true,
-  "region": "Falcon State",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Falcon State"
  },
  "osm:node/4750033126": {
   "id": "osm:node/4750033126",
@@ -10891,28 +10428,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Newfoundland and Labrador, Canada",
   "hasWikiImage": true,
-  "region": "Newfoundland and Labrador",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/activ/decouverte-tours/lch",
-   "title": "Lobster Cove Head Lighthouse - Gros Morne National Park - Gros Morne National Park",
-   "description": "A Lighthouse and so much more! With a vibrant history, Lobster Cove Head features trails that lead you to coastal environments and tuckamore forests.",
-   "keyword": "Lighthouse",
-   "snippet": "Lobster Cove Head Lighthouse - Gros Morne National Park - Gros Morne National Park A Lighthouse and so much more! With a vibrant history, Lobster Cove Head features trails that lead you to coastal environments and tuckamore forests.  Lobster Cove Head Lighthouse - Gros Morne National Park - Gros Morne National Park Skip to main content Skip to \"About government\" Lan"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Newfoundland and Labrador"
  },
  "osm:node/492028563": {
   "id": "osm:node/492028563",
-  "name": "Farol de Belém",
+  "name": "Farol de Bel\u00e9m",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -10921,23 +10446,18 @@
   "website": null,
   "wikidata": "Q10280147",
   "country": "Brazil",
-  "city": "Belém",
+  "city": "Bel\u00e9m",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Pará, Brazil",
+  "description": "lighthouse in Par\u00e1, Brazil",
   "hasWikiImage": true,
-  "region": "Pará",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Par\u00e1"
  },
  "osm:node/4936566918": {
   "id": "osm:node/4936566918",
@@ -10961,7 +10481,7 @@
  },
  "osm:node/4968806223": {
   "id": "osm:node/4968806223",
-  "name": "Edén Treehouse",
+  "name": "Ed\u00e9n Treehouse",
   "categories": [
    "treehouse-hotels"
   ],
@@ -11042,7 +10562,7 @@
  },
  "osm:node/5017060296": {
   "id": "osm:node/5017060296",
-  "name": "Stari Farovž",
+  "name": "Stari Farov\u017e",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -11062,7 +10582,7 @@
  },
  "osm:node/5051967064": {
   "id": "osm:node/5051967064",
-  "name": "Πέτρινος Φάρος",
+  "name": "\u03a0\u03ad\u03c4\u03c1\u03b9\u03bd\u03bf\u03c2 \u03a6\u03ac\u03c1\u03bf\u03c2",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -11132,7 +10652,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "İstanbul",
+  "city": "\u0130stanbul",
   "osm": {
    "tourism": "hotel"
   },
@@ -11152,33 +10672,21 @@
   "website": "appletreeistanbul.com",
   "wikidata": "Q111856815",
   "country": "Turkey",
-  "city": "İstanbul",
+  "city": "\u0130stanbul",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Istanbul, Turkey",
   "hasWikiImage": false,
-  "region": null,
-  "category": "treehouse-hotels",
-  "score": 6,
-  "evidence": {
-   "status": 200,
-   "url": "http://ww547.appletreeistanbul.com/?tkn=19vnMT3S",
-   "title": "apple tree istanbul",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:node/5116487915": {
   "id": "osm:node/5116487915",
-  "name": "Маяк Байкальской паромной переправы",
+  "name": "\u041c\u0430\u044f\u043a \u0411\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u043e\u0439 \u043f\u0430\u0440\u043e\u043c\u043d\u043e\u0439 \u043f\u0435\u0440\u0435\u043f\u0440\u0430\u0432\u044b",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -11308,22 +10816,17 @@
   "website": null,
   "wikidata": "Q111122514",
   "country": "Turkey",
-  "city": "İstanbul",
+  "city": "\u0130stanbul",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "hostel in İstanbul, Turkey",
+  "description": "hostel in \u0130stanbul, Turkey",
   "hasWikiImage": false,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:node/5246052915": {
   "id": "osm:node/5246052915",
@@ -11443,17 +10946,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:node/5400370221": {
   "id": "osm:node/5400370221",
@@ -11492,17 +10990,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Region of Murcia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Region of Murcia"
  },
  "osm:node/5424834221": {
   "id": "osm:node/5424834221",
@@ -11608,7 +11101,7 @@
  },
  "osm:node/5496390237": {
   "id": "osm:node/5496390237",
-  "name": "Le Gîte du Phare de Pointe-des-Monts",
+  "name": "Le G\u00eete du Phare de Pointe-des-Monts",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -11688,7 +11181,7 @@
  },
  "osm:node/558686562": {
   "id": "osm:node/558686562",
-  "name": "Осиновецкий маяк",
+  "name": "\u041e\u0441\u0438\u043d\u043e\u0432\u0435\u0446\u043a\u0438\u0439 \u043c\u0430\u044f\u043a",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -11703,23 +11196,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Russia",
   "hasWikiImage": true,
-  "region": "Leningrad Oblast",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Leningrad Oblast"
  },
  "osm:node/5603397770": {
   "id": "osm:node/5603397770",
-  "name": "Cabaña Faro Azul",
+  "name": "Caba\u00f1a Faro Azul",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -11739,7 +11225,7 @@
  },
  "osm:node/5628630222": {
   "id": "osm:node/5628630222",
-  "name": "Створный маяк 2",
+  "name": "\u0421\u0442\u0432\u043e\u0440\u043d\u044b\u0439 \u043c\u0430\u044f\u043a 2",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -11760,7 +11246,7 @@
  },
  "osm:node/5656921625": {
   "id": "osm:node/5656921625",
-  "name": "Baumhaushotel Seemühle",
+  "name": "Baumhaushotel Seem\u00fchle",
   "categories": [
    "treehouse-hotels"
   ],
@@ -11769,7 +11255,7 @@
   "website": "https://www.das-baumhaushotel.de/",
   "wikidata": null,
   "country": null,
-  "city": "Gräfendorf",
+  "city": "Gr\u00e4fendorf",
   "osm": {
    "tourism": "hotel"
   },
@@ -12001,7 +11487,7 @@
  },
  "osm:node/581793870": {
   "id": "osm:node/581793870",
-  "name": "Faro del Inglés",
+  "name": "Faro del Ingl\u00e9s",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -12037,17 +11523,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Australia",
   "hasWikiImage": true,
-  "region": "Queensland",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Queensland"
  },
  "osm:node/582779989": {
   "id": "osm:node/582779989",
@@ -12126,17 +11607,12 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hostel in Hyderabad",
   "hasWikiImage": false,
-  "region": "Telangana",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Telangana"
  },
  "osm:node/5863917986": {
   "id": "osm:node/5863917986",
@@ -12240,7 +11716,7 @@
  },
  "osm:node/5956686693": {
   "id": "osm:node/5956686693",
-  "name": "陸前黒埼灯台",
+  "name": "\u9678\u524d\u9ed2\u57fc\u706f\u53f0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -12281,7 +11757,7 @@
  },
  "osm:node/5965263387": {
   "id": "osm:node/5965263387",
-  "name": "Cabañas El Faro",
+  "name": "Caba\u00f1as El Faro",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -12421,7 +11897,7 @@
  },
  "osm:node/6080772020": {
   "id": "osm:node/6080772020",
-  "name": "Маяк Вуохенсало",
+  "name": "\u041c\u0430\u044f\u043a \u0412\u0443\u043e\u0445\u0435\u043d\u0441\u0430\u043b\u043e",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -12430,25 +11906,18 @@
   "website": null,
   "wikidata": "Q130545227",
   "country": "Russia",
-  "city": "Käkisalmi District",
+  "city": "K\u00e4kisalmi District",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": null,
   "hasWikiImage": true,
-  "region": "Leningrad Oblast",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Leningrad Oblast"
  },
  "osm:node/6123644590": {
   "id": "osm:node/6123644590",
@@ -12472,7 +11941,7 @@
  },
  "osm:node/6138966391": {
   "id": "osm:node/6138966391",
-  "name": "´La Farola",
+  "name": "\u00b4La Farola",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -12533,7 +12002,7 @@
  },
  "osm:node/6188144886": {
   "id": "osm:node/6188144886",
-  "name": "Martz Farm Treehouse and Cabañas",
+  "name": "Martz Farm Treehouse and Caba\u00f1as",
   "categories": [
    "treehouse-hotels"
   ],
@@ -12613,7 +12082,7 @@
  },
  "osm:node/6219549314": {
   "id": "osm:node/6219549314",
-  "name": "Complejo Cabañas El Faro",
+  "name": "Complejo Caba\u00f1as El Faro",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -12913,7 +12382,7 @@
  },
  "osm:node/6326626486": {
   "id": "osm:node/6326626486",
-  "name": "大瀬崎灯台",
+  "name": "\u5927\u702c\u5d0e\u706f\u53f0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -12928,19 +12397,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Japan",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "osm:node/6390772785": {
   "id": "osm:node/6390772785",
@@ -13033,7 +12495,7 @@
   "website": "https://www.traum-ferienwohnungen.de/237954/",
   "wikidata": null,
   "country": null,
-  "city": "Glücksburg",
+  "city": "Gl\u00fccksburg",
   "osm": {
    "tourism": "apartment"
   },
@@ -13044,7 +12506,7 @@
  },
  "osm:node/6451618285": {
   "id": "osm:node/6451618285",
-  "name": "Pù Luông Treehouse",
+  "name": "P\u00f9 Lu\u00f4ng Treehouse",
   "categories": [
    "treehouse-hotels"
   ],
@@ -13180,17 +12642,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Maine, United States",
   "hasWikiImage": true,
-  "region": "Maine",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Maine"
  },
  "osm:node/6539196145": {
   "id": "osm:node/6539196145",
@@ -13294,7 +12751,7 @@
  },
  "osm:node/6673683785": {
   "id": "osm:node/6673683785",
-  "name": "Cabane Perchée du Charron",
+  "name": "Cabane Perch\u00e9e du Charron",
   "categories": [
    "treehouse-hotels"
   ],
@@ -13354,7 +12811,7 @@
  },
  "osm:node/6697969904": {
   "id": "osm:node/6697969904",
-  "name": "Grønningen fyr",
+  "name": "Gr\u00f8nningen fyr",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -13449,21 +12906,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Italy",
   "hasWikiImage": true,
-  "region": "Apulia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Apulia"
  },
  "osm:node/6764134485": {
   "id": "osm:node/6764134485",
-  "name": "雲仙国埼灯台",
+  "name": "\u96f2\u4ed9\u56fd\u57fc\u706f\u53f0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -13493,7 +12945,7 @@
   "website": null,
   "wikidata": null,
   "country": "LV",
-  "city": "Rīga",
+  "city": "R\u012bga",
   "osm": {
    "tourism": "hostel"
   },
@@ -13584,7 +13036,7 @@
  },
  "osm:node/6796537663": {
   "id": "osm:node/6796537663",
-  "name": "Kråkenes fyr, Stormhuset",
+  "name": "Kr\u00e5kenes fyr, Stormhuset",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -13724,7 +13176,7 @@
  },
  "osm:node/7014108085": {
   "id": "osm:node/7014108085",
-  "name": "Hotel Faro de Maisí",
+  "name": "Hotel Faro de Mais\u00ed",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -13764,7 +13216,7 @@
  },
  "osm:node/7040909405": {
   "id": "osm:node/7040909405",
-  "name": "La Cabane Perchée",
+  "name": "La Cabane Perch\u00e9e",
   "categories": [
    "treehouse-hotels"
   ],
@@ -13844,7 +13296,7 @@
  },
  "osm:node/7090504045": {
   "id": "osm:node/7090504045",
-  "name": "Ferienhaus Leuchtturmblick Rügen",
+  "name": "Ferienhaus Leuchtturmblick R\u00fcgen",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -13960,21 +13412,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Italy",
   "hasWikiImage": true,
-  "region": "Tuscany",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Tuscany"
  },
  "osm:node/7232836685": {
   "id": "osm:node/7232836685",
-  "name": "Là Haut Cabanes Perchées",
+  "name": "L\u00e0 Haut Cabanes Perch\u00e9es",
   "categories": [
    "treehouse-hotels"
   ],
@@ -14014,7 +13461,7 @@
  },
  "osm:node/7343357462": {
   "id": "osm:node/7343357462",
-  "name": "Hotel Faro Salazón",
+  "name": "Hotel Faro Salaz\u00f3n",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -14193,17 +13640,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Peru",
   "hasWikiImage": true,
-  "region": "Lima",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Lima"
  },
  "osm:node/7569729885": {
   "id": "osm:node/7569729885",
@@ -14242,24 +13684,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Schleswig-Holstein, Germany",
   "hasWikiImage": true,
-  "region": "Schleswig-Holstein",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://westerhever-nordsee.de/aktiv-sein/leuchtturm-fuehrung/",
-   "title": "Leuchtturm-Führung / Tourismusverein Westerhever-Poppenbüll e.V.",
-   "description": "",
-   "keyword": "Leuchtturm",
-   "snippet": "Leuchtturm-Führung / Tourismusverein Westerhever-Poppenbüll e.V.   Leuchtturm-Führung / Tourismusverein Westerhever-Poppenbüll e.V. Tourismusverein Westerhever-Poppenbüll e.V. WESTERHEVER WETTER Menü Home Ihre Gastgeber Urlaub unter Reet Urlaub mit Hund Urlaub auf dem Bauernhof Urlaub mit Frühstück Ferienwohnungen Ferienhäuser Hotel / Pension Poppe"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Schleswig-Holstein"
  },
  "osm:node/7705326311": {
   "id": "osm:node/7705326311",
@@ -14303,7 +13733,7 @@
  },
  "osm:node/772404115": {
   "id": "osm:node/772404115",
-  "name": "Uostadvario švyturys",
+  "name": "Uostadvario \u0161vyturys",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -14318,19 +13748,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lithuania",
   "hasWikiImage": true,
-  "region": "Klaipėda County",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Klaip\u0117da County"
  },
  "osm:node/7728618700": {
   "id": "osm:node/7728618700",
@@ -14389,17 +13812,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in New South Wales, Australia",
   "hasWikiImage": true,
-  "region": "New South Wales",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "New South Wales"
  },
  "osm:node/7796744419": {
   "id": "osm:node/7796744419",
@@ -14425,7 +13843,7 @@
  },
  "osm:node/7868092446": {
   "id": "osm:node/7868092446",
-  "name": "Les Cabanes perchées du Grand Ballon",
+  "name": "Les Cabanes perch\u00e9es du Grand Ballon",
   "categories": [
    "treehouse-hotels"
   ],
@@ -14505,7 +13923,7 @@
  },
  "osm:node/8022046757": {
   "id": "osm:node/8022046757",
-  "name": "架海灯塔",
+  "name": "\u67b6\u6d77\u706f\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -14526,7 +13944,7 @@
  },
  "osm:node/803727044": {
   "id": "osm:node/803727044",
-  "name": "Le Phare du Désert منارة الصحراء",
+  "name": "Le Phare du D\u00e9sert \u0645\u0646\u0627\u0631\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0621",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -14535,7 +13953,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "Kiffa كيفة",
+  "city": "Kiffa \u0643\u064a\u0641\u0629",
   "osm": {
    "tourism": "camp_site"
   },
@@ -14586,7 +14004,7 @@
  },
  "osm:node/8127284556": {
   "id": "osm:node/8127284556",
-  "name": "Faro Les Éclaireurs",
+  "name": "Faro Les \u00c9claireurs",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -14601,21 +14019,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Argentina",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:node/8168538474": {
   "id": "osm:node/8168538474",
-  "name": "Cabane perchée des gorges de la Sirène",
+  "name": "Cabane perch\u00e9e des gorges de la Sir\u00e8ne",
   "categories": [
    "treehouse-hotels"
   ],
@@ -14790,28 +14203,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Victoria, Australia",
   "hasWikiImage": true,
-  "region": "Victoria",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://splitpointlighthouse.com.au/",
-   "title": "Home - Splitpoint Lighthouse",
-   "description": "",
-   "keyword": "Lighthouse",
-   "snippet": "Home - Splitpoint Lighthouse   Home - Splitpoint Lighthouse 0 Shopping Cart 0.00 --> Home About FAQ Book Tour Menu Menu Visit Split Point Lighthouse Climb to the top for the 360 degree coastal vista views! Book Tour The Split Point Lighthouse is a must-see attraction and stands as a stunning sentinel on the Shipwreck Coast. Take a trip through maritime history and b"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Victoria"
  },
  "osm:node/8398613917": {
   "id": "osm:node/8398613917",
-  "name": "La casa del árbol",
+  "name": "La casa del \u00e1rbol",
   "categories": [
    "treehouse-hotels"
   ],
@@ -14911,7 +14312,7 @@
  },
  "osm:node/8562282217": {
   "id": "osm:node/8562282217",
-  "name": "camping casa del árbol",
+  "name": "camping casa del \u00e1rbol",
   "categories": [
    "treehouse-hotels"
   ],
@@ -15012,7 +14413,7 @@
  },
  "osm:node/8812123163": {
   "id": "osm:node/8812123163",
-  "name": "Петровский маяк",
+  "name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043c\u0430\u044f\u043a",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -15068,17 +14469,12 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hostel in Tenerife",
   "hasWikiImage": false,
-  "region": "Canary Islands",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Canary Islands"
  },
  "osm:node/8943743417": {
   "id": "osm:node/8943743417",
@@ -15117,17 +14513,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Fife, Scotland, UK",
   "hasWikiImage": true,
-  "region": "Scotland",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Scotland"
  },
  "osm:node/9025539315": {
   "id": "osm:node/9025539315",
@@ -15151,7 +14542,7 @@
  },
  "osm:node/9038785089": {
   "id": "osm:node/9038785089",
-  "name": "Casa na Árvore, recanto da Serra",
+  "name": "Casa na \u00c1rvore, recanto da Serra",
   "categories": [
    "treehouse-hotels"
   ],
@@ -15171,7 +14562,7 @@
  },
  "osm:node/904414653": {
   "id": "osm:node/904414653",
-  "name": "Маяк Стирсудден",
+  "name": "\u041c\u0430\u044f\u043a \u0421\u0442\u0438\u0440\u0441\u0443\u0434\u0434\u0435\u043d",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -15186,19 +14577,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Russia",
   "hasWikiImage": true,
-  "region": "Leningrad Oblast",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Leningrad Oblast"
  },
  "osm:node/9048281875": {
   "id": "osm:node/9048281875",
@@ -15322,7 +14706,7 @@
  },
  "osm:node/909248190": {
   "id": "osm:node/909248190",
-  "name": "Faro de Punta Higüero",
+  "name": "Faro de Punta Hig\u00fcero",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -15331,24 +14715,19 @@
   "website": null,
   "wikidata": "Q7260540",
   "country": "United States",
-  "city": "Rincón",
+  "city": "Rinc\u00f3n",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "historic lighthouse in Rincón, Puerto Rico",
+  "description": "historic lighthouse in Rinc\u00f3n, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:node/9106004873": {
   "id": "osm:node/9106004873",
@@ -15428,17 +14807,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": null,
   "hasWikiImage": true,
-  "region": "Nebraska",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Nebraska"
  },
  "osm:node/920657560": {
   "id": "osm:node/920657560",
@@ -15471,7 +14845,7 @@
   "website": "https://hotelfaros.pl/",
   "wikidata": null,
   "country": "PL",
-  "city": "Gdańsk",
+  "city": "Gda\u0144sk",
   "osm": {
    "tourism": "hotel",
    "stars": "3"
@@ -15512,7 +14886,7 @@
   "website": "https://acrebaja.com/",
   "wikidata": null,
   "country": "MX",
-  "city": "San José del Cabo",
+  "city": "San Jos\u00e9 del Cabo",
   "osm": {
    "tourism": "hotel"
   },
@@ -15654,7 +15028,7 @@
   "website": "https://treehouseboutiquehotel.com/",
   "wikidata": null,
   "country": null,
-  "city": "Mérida",
+  "city": "M\u00e9rida",
   "osm": {
    "tourism": "hotel",
    "stars": "3"
@@ -15787,7 +15161,7 @@
  },
  "osm:node/976164581": {
   "id": "osm:node/976164581",
-  "name": "Ventės rago švyturys",
+  "name": "Vent\u0117s rago \u0161vyturys",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -15796,25 +15170,18 @@
   "website": null,
   "wikidata": "Q11317352",
   "country": "Lithuania",
-  "city": "Ventė",
+  "city": "Vent\u0117",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lithuania",
   "hasWikiImage": true,
-  "region": "Klaipėda County",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Klaip\u0117da County"
  },
  "osm:node/9779289262": {
   "id": "osm:node/9779289262",
@@ -15898,7 +15265,7 @@
  },
  "osm:node/9833704378": {
   "id": "osm:node/9833704378",
-  "name": "Eigerøy fyrvokterbolig",
+  "name": "Eiger\u00f8y fyrvokterbolig",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -16027,7 +15394,7 @@
   "website": "https://www.faroresort.com/",
   "wikidata": null,
   "country": "PL",
-  "city": "Mrzeżyno",
+  "city": "Mrze\u017cyno",
   "osm": {
    "tourism": "guest_house"
   },
@@ -16159,7 +15526,7 @@
  },
  "osm:node/9994760968": {
   "id": "osm:node/9994760968",
-  "name": "Les gîtes du phare",
+  "name": "Les g\u00eetes du phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -16275,26 +15642,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Oregon, United States",
   "hasWikiImage": true,
-  "region": "Oregon",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": {
-   "status": 404,
-   "url": "https://umpquavalleymuseums.org/museums/umpqua-river-lighthouse/",
-   "title": "Page not found - Umpqua Valley Museums",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Oregon"
  },
  "osm:relation/13437312": {
   "id": "osm:relation/13437312",
@@ -16353,17 +15706,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Asturias",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Asturias"
  },
  "osm:relation/18858861": {
   "id": "osm:relation/18858861",
@@ -16622,24 +15970,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Gironde, France",
   "hasWikiImage": true,
-  "region": "Nouvelle-Aquitaine",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.phare-de-cordouan.fr/en/home/",
-   "title": "Home - Visit &amp; Travel - Le Phare de Cordouan",
-   "description": "- Le Phare de Cordouan",
-   "keyword": "Phare",
-   "snippet": "Home - Visit &amp; Travel - Le Phare de Cordouan - Le Phare de Cordouan  Home - Visit Travel - Le Phare de Cordouan Accessibility Press section Multimedia library About us Boutique es fr en UNESCO World heritage A unique lighthouse The candidacy step by step We have support Discover 400 years of History Come in! Life at the lighthouse Natural heritage Preparing your visit Depart"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Nouvelle-Aquitaine"
  },
  "osm:way/1004246011": {
   "id": "osm:way/1004246011",
@@ -16663,7 +15999,7 @@
  },
  "osm:way/1013350376": {
   "id": "osm:way/1013350376",
-  "name": "Björnson tree houses",
+  "name": "Bj\u00f6rnson tree houses",
   "categories": [
    "treehouse-hotels"
   ],
@@ -16723,7 +16059,7 @@
  },
  "osm:way/101996718": {
   "id": "osm:way/101996718",
-  "name": "Camping Les Pérouses du Phare",
+  "name": "Camping Les P\u00e9rouses du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -16839,17 +16175,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Port Elizabeth, South Africa",
   "hasWikiImage": false,
-  "region": "Eastern Cape",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Eastern Cape"
  },
  "osm:way/103262370": {
   "id": "osm:way/103262370",
@@ -16868,17 +16199,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in New South Wales, Australia",
   "hasWikiImage": true,
-  "region": "New South Wales",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "New South Wales"
  },
  "osm:way/103264996": {
   "id": "osm:way/103264996",
@@ -16938,21 +16264,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on Cardona Island, near Ponce, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:way/1044468047": {
   "id": "osm:way/1044468047",
-  "name": "ფოთის შუქურა",
+  "name": "\u10e4\u10dd\u10d7\u10d8\u10e1 \u10e8\u10e3\u10e5\u10e3\u10e0\u10d0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -16967,19 +16288,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "operational cast-iron lighthouse manufactured in 1862 and commissioned in 1864 in Poti, Georgia",
   "hasWikiImage": true,
-  "region": "Samegrelo-Upper Svaneti",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Samegrelo-Upper Svaneti"
  },
  "osm:way/1046999692": {
   "id": "osm:way/1046999692",
@@ -17105,7 +16419,7 @@
  },
  "osm:way/1071178739": {
   "id": "osm:way/1071178739",
-  "name": "Os Faros Pisos Turísticos",
+  "name": "Os Faros Pisos Tur\u00edsticos",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -17462,20 +16776,11 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in northern Italy",
-  "hasWikiImage": true,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "hasWikiImage": true
  },
  "osm:way/112116341": {
   "id": "osm:way/112116341",
@@ -17519,7 +16824,7 @@
  },
  "osm:way/1128091355": {
   "id": "osm:way/1128091355",
-  "name": "ประภาคารแหลมงอบ",
+  "name": "\u0e1b\u0e23\u0e30\u0e20\u0e32\u0e04\u0e32\u0e23\u0e41\u0e2b\u0e25\u0e21\u0e07\u0e2d\u0e1a",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -17560,7 +16865,7 @@
  },
  "osm:way/1138106436": {
   "id": "osm:way/1138106436",
-  "name": "東莒島燈塔",
+  "name": "\u6771\u8392\u5cf6\u71c8\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -17569,24 +16874,17 @@
   "website": null,
   "wikidata": "Q17499085",
   "country": "TW",
-  "city": "連江縣",
+  "city": "\u9023\u6c5f\u7e23",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Matsu, Taiwan (R.O.C.)",
-  "hasWikiImage": true,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "hasWikiImage": true
  },
  "osm:way/114087370": {
   "id": "osm:way/114087370",
@@ -17887,19 +17185,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Livorno, Italy, rebuilt 1956",
   "hasWikiImage": true,
-  "region": "Tuscany",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Tuscany"
  },
  "osm:way/1200048867": {
   "id": "osm:way/1200048867",
@@ -18099,17 +17390,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Victoria, Australia",
   "hasWikiImage": true,
-  "region": "Victoria",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Victoria"
  },
  "osm:way/1222782280": {
   "id": "osm:way/1222782280",
@@ -18148,17 +17434,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on the southern tip of the Djursland peninsula, Denmark, at the entrance to the Baltic Sea",
   "hasWikiImage": true,
-  "region": "Central Denmark Region",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Central Denmark Region"
  },
  "osm:way/1227208707": {
   "id": "osm:way/1227208707",
@@ -18298,17 +17579,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Bahia, Brazil",
   "hasWikiImage": true,
-  "region": "Bahia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Bahia"
  },
  "osm:way/1253372258": {
   "id": "osm:way/1253372258",
@@ -18321,7 +17597,7 @@
   "website": null,
   "wikidata": null,
   "country": "MD",
-  "city": "Colonița",
+  "city": "Coloni\u021ba",
   "osm": {
    "tourism": "camp_site"
   },
@@ -18332,7 +17608,7 @@
  },
  "osm:way/125813145": {
   "id": "osm:way/125813145",
-  "name": "Анапский маяк",
+  "name": "\u0410\u043d\u0430\u043f\u0441\u043a\u0438\u0439 \u043c\u0430\u044f\u043a",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -18347,19 +17623,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Russia",
   "hasWikiImage": true,
-  "region": "Krasnodar Krai",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Krasnodar Krai"
  },
  "osm:way/126079283": {
   "id": "osm:way/126079283",
@@ -18432,7 +17701,7 @@
   "website": "https://www.campingphareouest.com/",
   "wikidata": null,
   "country": null,
-  "city": "Saint-Denis-d'Oléron",
+  "city": "Saint-Denis-d'Ol\u00e9ron",
   "osm": {
    "tourism": "camp_site"
   },
@@ -18443,7 +17712,7 @@
  },
  "osm:way/128130333": {
   "id": "osm:way/128130333",
-  "name": "Ölands Norra Udde",
+  "name": "\u00d6lands Norra Udde",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -18458,24 +17727,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Borgholm Municipality, Baltic coast, Sweden",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://langeerik.se/",
-   "title": "Casino Utan Svensk Licens – Ranking och Guide",
-   "description": "Guide till casino utan svensk licens: recensioner av fem sajter, licensjurisdiktioner, bonusvillkor, uttagstider, betalningar och ansvarsverktyg.",
-   "keyword": "fyr",
-   "snippet": "r bonusläsningen avsevärt, eftersom alla villkor rör samma produkttyp. För den som enbart spelar automater och vill slippa navigera mellan två erbjudandelogiker är det en fördel som sällan framhålls. Free spins används tydligare här än hos de övriga fyra, ofta som återkommande kampanjer snarare än enbart i välkomstpaketet. Läs alltid tre saker i en free spins-kampanj: vilket spinnvärde varje snurr har, om vinsten är bonuspengar eller kontanter, och om det finns ett tak för hur mycket som kan tas ut. Tio snurr à 0,10 EUR är ett annat erbjudande än tio snurr à 1 EUR, trots att rubriken kan vara"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:way/1282358665": {
   "id": "osm:way/1282358665",
@@ -18634,21 +17891,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "beacon in Spain",
   "hasWikiImage": true,
-  "region": "Galicia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Galicia"
  },
  "osm:way/1306367386": {
   "id": "osm:way/1306367386",
-  "name": "ბათუმის შუქურა",
+  "name": "\u10d1\u10d0\u10d7\u10e3\u10db\u10d8\u10e1 \u10e8\u10e3\u10e5\u10e3\u10e0\u10d0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -18663,19 +17915,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "operational lighthouse established in 1863 and rebuilt in 1882 in Batumi, Georgia",
   "hasWikiImage": true,
-  "region": "Autonomous Republic of Adjara",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Autonomous Republic of Adjara"
  },
  "osm:way/131724335": {
   "id": "osm:way/131724335",
@@ -18699,7 +17944,7 @@
  },
  "osm:way/131870730": {
   "id": "osm:way/131870730",
-  "name": "Camping du phare de l'île Vierge",
+  "name": "Camping du phare de l'\u00eele Vierge",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -18782,7 +18027,7 @@
  },
  "osm:way/132369713": {
   "id": "osm:way/132369713",
-  "name": "Far de Favàritx",
+  "name": "Far de Fav\u00e0ritx",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -18791,25 +18036,18 @@
   "website": null,
   "wikidata": "Q8960896",
   "country": "Spain",
-  "city": "Maó",
+  "city": "Ma\u00f3",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Balearic Islands",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Balearic Islands"
  },
  "osm:way/132762895": {
   "id": "osm:way/132762895",
@@ -18833,7 +18071,7 @@
  },
  "osm:way/1327664781": {
   "id": "osm:way/1327664781",
-  "name": "Casa na Árvore",
+  "name": "Casa na \u00c1rvore",
   "categories": [
    "treehouse-hotels"
   ],
@@ -19170,21 +18408,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in New Zealand",
   "hasWikiImage": true,
-  "region": "Auckland",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Auckland"
  },
  "osm:way/1350348321": {
   "id": "osm:way/1350348321",
-  "name": "安乗崎灯台",
+  "name": "\u5b89\u4e57\u5d0e\u706f\u53f0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19199,23 +18432,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Japan",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "osm:way/1353058372": {
   "id": "osm:way/1353058372",
@@ -19239,7 +18461,7 @@
  },
  "osm:way/135722236": {
   "id": "osm:way/135722236",
-  "name": "Phare du Cap Fréhel",
+  "name": "Phare du Cap Fr\u00e9hel",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19248,24 +18470,19 @@
   "website": null,
   "wikidata": "Q2085036",
   "country": "France",
-  "city": "Plévenon",
+  "city": "Pl\u00e9venon",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse built 1950 in Côtes-d'Armor, France",
+  "description": "lighthouse built 1950 in C\u00f4tes-d'Armor, France",
   "hasWikiImage": true,
-  "region": "Brittany",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Brittany"
  },
  "osm:way/135812154": {
   "id": "osm:way/135812154",
@@ -19278,24 +18495,19 @@
   "website": null,
   "wikidata": "Q28375476",
   "country": "France",
-  "city": "Sète",
+  "city": "S\u00e8te",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Hérault, France",
+  "description": "lighthouse in H\u00e9rault, France",
   "hasWikiImage": true,
-  "region": "Occitania",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Occitania"
  },
  "osm:way/136882096": {
   "id": "osm:way/136882096",
@@ -19314,17 +18526,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Denmark",
   "hasWikiImage": true,
-  "region": "Capital Region of Denmark",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Capital Region of Denmark"
  },
  "osm:way/1369709241": {
   "id": "osm:way/1369709241",
@@ -19462,24 +18669,15 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hostel in Waterford",
-  "hasWikiImage": false,
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "hasWikiImage": false
  },
  "osm:way/140339749": {
   "id": "osm:way/140339749",
-  "name": "புதுச்சேரி கலங்கரை விளக்கம்",
+  "name": "\u0baa\u0bc1\u0ba4\u0bc1\u0b9a\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf \u0b95\u0bb2\u0b99\u0bcd\u0b95\u0bb0\u0bc8 \u0bb5\u0bbf\u0bb3\u0b95\u0bcd\u0b95\u0bae\u0bcd",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19494,23 +18692,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse built 1979",
   "hasWikiImage": true,
-  "region": "Puducherry",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Puducherry"
  },
  "osm:way/1408277381": {
   "id": "osm:way/1408277381",
-  "name": "鹿児島旧港北防波堤灯台",
+  "name": "\u9e7f\u5150\u5cf6\u65e7\u6e2f\u5317\u9632\u6ce2\u5824\u706f\u53f0",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19589,24 +18780,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Denmark",
   "hasWikiImage": true,
-  "region": "North Denmark Region",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://hirtshals-fyrtaarn.dk/",
-   "title": "Forside",
-   "description": "Fyrtårn, Fyret, Sten Hirtshals klint Fyrtårn, Fyret, Hirtshals, Seværdighed,Geologi",
-   "keyword": "Fyr",
-   "snippet": "Forside Fyrtårn, Fyret, Sten Hirtshals klint Fyrtårn, Fyret, Hirtshals, Seværdighed,Geologi  Forside Forside Støtteforeningen Udstillinger Assistenthuset Maskinhuset Sten ved Fyret Vejret Fyr Fonden God fondledelse 2024 2023 2022 2021 2020 Fonden Fond bestyrelsen Fundats Årsrapporter 2024 2023 2022 2021 2020 Velkommen til Hirtshals Fyr Støt Hirtshals Fyr.."
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "North Denmark Region"
  },
  "osm:way/1436961582": {
   "id": "osm:way/1436961582",
@@ -19706,23 +18885,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "A disused but historical lighthouse in Tumpat.",
   "hasWikiImage": true,
-  "region": "Kelantan",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Kelantan"
  },
  "osm:way/149393897": {
   "id": "osm:way/149393897",
-  "name": "Bâtiment \"Phare\"",
+  "name": "B\u00e2timent \"Phare\"",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19803,7 +18975,7 @@
  },
  "osm:way/1513265601": {
   "id": "osm:way/1513265601",
-  "name": "하얀 목마등대",
+  "name": "\ud558\uc580 \ubaa9\ub9c8\ub4f1\ub300",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19824,7 +18996,7 @@
  },
  "osm:way/1513265602": {
   "id": "osm:way/1513265602",
-  "name": "빨간 목마등대",
+  "name": "\ube68\uac04 \ubaa9\ub9c8\ub4f1\ub300",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19845,13 +19017,13 @@
  },
  "osm:way/152253772": {
   "id": "osm:way/152253772",
-  "name": "Faro de Lariño",
+  "name": "Faro de Lari\u00f1o",
   "categories": [
    "lighthouse-hotels"
   ],
   "lat": 42.7725138,
   "lng": -9.1248967,
-  "website": "https://hotelfarolariño.com",
+  "website": "https://hotelfarolari\u00f1o.com",
   "wikidata": "Q28375399",
   "country": "Spain",
   "city": "Muros",
@@ -19860,24 +19032,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Galicia",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://xn--hotelfarolario-2nb.com/",
-   "title": "Hotel Faro Lariño &#8211; Tu hotel en Carnota &#8211; A Costa da Morte",
-   "description": "",
-   "keyword": "Faro",
-   "snippet": "Hotel Faro Lariño &#8211; Tu hotel en Carnota &#8211; A Costa da Morte   Hotel Faro Lariño Tu hotel en Carnota A Costa da Morte SOÑAR EL INSTANTE Emotional Hotel Habitaciones Nuestros espacios emocionales Nuestros mejores instantes Faro de Lariño by Altonadock TABERNA EL ARIETE ENTORNO Carnota Costa da Morte Rutas RESERVAS BLOG CENTRO DE INTERPRETACIÓN C"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Galicia"
  },
  "osm:way/152327324": {
   "id": "osm:way/152327324",
@@ -19897,21 +19057,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Denmark",
   "hasWikiImage": true,
-  "region": "North Denmark Region",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "North Denmark Region"
  },
  "osm:way/1525005526": {
   "id": "osm:way/1525005526",
-  "name": "铁机路江滩灯塔",
+  "name": "\u94c1\u673a\u8def\u6c5f\u6ee9\u706f\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -19947,19 +19102,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Autonomous Community of the Basque Country",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Autonomous Community of the Basque Country"
  },
  "osm:way/1526304279": {
   "id": "osm:way/1526304279",
@@ -20023,7 +19171,7 @@
  },
  "osm:way/153212848": {
   "id": "osm:way/153212848",
-  "name": "La Farola de Málaga",
+  "name": "La Farola de M\u00e1laga",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -20032,31 +19180,19 @@
   "website": "https://www.youtube.com/watch?v=7Bx0P1FPb4E",
   "wikidata": "Q5669119",
   "country": "Spain",
-  "city": "Málaga-Costa del Sol",
+  "city": "M\u00e1laga-Costa del Sol",
   "osm": {
    "tourism": "attraction",
    "historic": "building",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Andalusia",
-  "category": "lighthouse-hotels",
-  "score": 6,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.youtube.com/watch?v=7Bx0P1FPb4E",
-   "title": "",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Andalusia"
  },
  "osm:way/1532474967": {
   "id": "osm:way/1532474967",
@@ -20116,24 +19252,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Michigan, United States",
   "hasWikiImage": true,
-  "region": "Michigan",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://lakeshorekeepers.org/manistee-north-pierhead/",
-   "title": "Manistee North Pierhead Light - Lakeshore Keepers",
-   "description": "Lakeshore Keepers manages the operation and restoration of Manistee North Pierhead Light in Manistee, Michigan.",
-   "keyword": "Lighthouse",
-   "snippet": "in Manistee, Michigan.  Manistee North Pierhead Light - Lakeshore Keepers Login Login Username or E-Mail Password Forget Password? Do not have an account? Create an Account 1.231.845.7417 Home Our Lights Manistee North Pierhead Light Big Sable Point Lighthouse Ludington North Breakwater Light Little Sable Point Lighthouse White River Light Station Membership Volunteer News Resources Events Webcams Lighthouse Restoration Timeline Education Group Reservations Donate Shop Contact FAQs About Member Portal Login Login Username or E-Mail Password Forget Password? Do not have an account? Create an Ac"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Michigan"
  },
  "osm:way/1537493455": {
   "id": "osm:way/1537493455",
@@ -20166,7 +19290,7 @@
   "website": "https://lighthousegolfresort.com",
   "wikidata": null,
   "country": null,
-  "city": "Балчик",
+  "city": "\u0411\u0430\u043b\u0447\u0438\u043a",
   "osm": {
    "tourism": "hotel"
   },
@@ -20233,24 +19357,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "inactive lighthouse built 1827",
   "hasWikiImage": true,
-  "region": "Mecklenburg-Vorpommern",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://kap-arkona.de/sehenswuerdigkeiten/tuerme/schinkelturm",
-   "title": "Der Schinkelturm am Kap Arkona auf Rügen - Kap Arkona",
-   "description": "Mit seiner quadratischen Grundform und dem roten Backstein ist der Schinkelturm der zweitälteste Leuchtturm an der deutschen Ostseeküste.",
-   "keyword": "Leuchtturm",
-   "snippet": "Der Schinkelturm am Kap Arkona auf Rügen - Kap Arkona Mit seiner quadratischen Grundform und dem roten Backstein ist der Schinkelturm der zweitälteste Leuchtturm an der deutschen Ostseeküste.  Der Schinkelturm am Kap Arkona auf Rügen - Kap Arkona Zum Hauptinhalt springen Menü Entdecken 3 Türme für die Seefahrt Der Schinkelturm Das Leuchtfeuer Kap Arkona Der Peilturm Der kleine Leuchtturm Marineführungsbunker Rügenhof Fischerdorf Vitt Souvenirshop Bekanntheit Urlaub Kap Arkona Urlaub Ferienwohnung"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Mecklenburg-Vorpommern"
  },
  "osm:way/1557218627": {
   "id": "osm:way/1557218627",
@@ -20289,17 +19401,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in India",
   "hasWikiImage": true,
-  "region": "Tamil Nadu",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Tamil Nadu"
  },
  "osm:way/158085523": {
   "id": "osm:way/158085523",
@@ -20339,17 +19446,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Hawaii, United States",
   "hasWikiImage": true,
-  "region": "Hawaii",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Hawaii"
  },
  "osm:way/158492627": {
   "id": "osm:way/158492627",
@@ -20489,21 +19591,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Norway",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:way/168232963": {
   "id": "osm:way/168232963",
@@ -20523,28 +19616,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in California, United States",
   "hasWikiImage": true,
-  "region": "California",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://delnortehistory.org/battery-point-lighthouse/",
-   "title": "Battery Point Lighthouse",
-   "description": "",
-   "keyword": "Lighthouse",
-   "snippet": "Battery Point Lighthouse   Battery Point Lighthouse (707) 464-3922 manager@delnortehistory.org Facebook Message Click Here --> Facebook 0 Items Home About About DNCHS Our Mission Membership Outreach Programs Download Brochure Discover Del Norte Del Norte County Del Norte s Economic History The Museum About the Museum Museum Collections Lighthouses Battery Point"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "California"
  },
  "osm:way/169004208": {
   "id": "osm:way/169004208",
-  "name": "Hostería Faro San Isidro",
+  "name": "Hoster\u00eda Faro San Isidro",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -20599,19 +19680,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Balearic Islands",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Balearic Islands"
  },
  "osm:way/172076288": {
   "id": "osm:way/172076288",
@@ -20651,17 +19725,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Italy",
   "hasWikiImage": true,
-  "region": "Marche",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Marche"
  },
  "osm:way/177305474": {
   "id": "osm:way/177305474",
@@ -20721,21 +19790,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Maine, United States",
   "hasWikiImage": true,
-  "region": "Maine",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Maine"
  },
  "osm:way/179465670": {
   "id": "osm:way/179465670",
@@ -20774,21 +19834,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Uruguay",
   "hasWikiImage": true,
-  "region": "Montevideo",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Montevideo"
  },
  "osm:way/182835649": {
   "id": "osm:way/182835649",
-  "name": "Darßer Ort",
+  "name": "Dar\u00dfer Ort",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -20797,26 +19852,19 @@
   "website": null,
   "wikidata": "Q1720366",
   "country": "Germany",
-  "city": "Born a. Darß",
+  "city": "Born a. Dar\u00df",
   "osm": {
    "tourism": "viewpoint",
    "historic": "building",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Mecklenburg-Western Pomerania, Germany",
   "hasWikiImage": true,
-  "region": "Mecklenburg-Vorpommern",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Mecklenburg-Vorpommern"
  },
  "osm:way/182854850": {
   "id": "osm:way/182854850",
@@ -20829,25 +19877,18 @@
   "website": null,
   "wikidata": "Q5856428",
   "country": "Spain",
-  "city": "Sant Lluís",
+  "city": "Sant Llu\u00eds",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Balearic Islands",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Balearic Islands"
  },
  "osm:way/183860574": {
   "id": "osm:way/183860574",
@@ -20887,17 +19928,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Portugal",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:way/185673167": {
   "id": "osm:way/185673167",
@@ -20916,17 +19952,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Italy",
   "hasWikiImage": true,
-  "region": "Veneto",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Veneto"
  },
  "osm:way/187137066": {
   "id": "osm:way/187137066",
@@ -20944,25 +19975,16 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Greenwood Village, United States",
   "hasWikiImage": false,
-  "region": "Colorado",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Colorado"
  },
  "osm:way/188399095": {
   "id": "osm:way/188399095",
-  "name": "Mât FENOUX",
+  "name": "M\u00e2t FENOUX",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -20977,19 +19999,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": null,
   "hasWikiImage": true,
-  "region": "Brittany",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Brittany"
  },
  "osm:way/191572763": {
   "id": "osm:way/191572763",
@@ -21008,24 +20023,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse at Cape Cod, in North Truro, Massachusetts, United States",
   "hasWikiImage": true,
-  "region": "Massachusetts",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://americasnationalparks.org/highland-lighthouse-3/",
-   "title": "Highland Lighthouse - America&#039;s National Parks",
-   "description": "Visit Highland Lighthouse, part of Cape Cod National Seashore. Schedule a guided tour and visit the museum shop in the keeper&#039;s house.",
-   "keyword": "Lighthouse",
-   "snippet": "Highland Lighthouse - America&#039;s National Parks Visit Highland Lighthouse, part of Cape Cod National Seashore. Schedule a guided tour and visit the museum shop in the keeper&#039;s house.  Highland Lighthouse - America s National Parks Shop News Donate Sign-Up About Us Who We Are About Our Stores FAQ Shop Our Stores Store Locator Antietam Battlefield Gu"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Massachusetts"
  },
  "osm:way/197842928": {
   "id": "osm:way/197842928",
@@ -21084,23 +20087,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "active lighthouse on the island of Menorca, Spain",
   "hasWikiImage": true,
-  "region": "Balearic Islands",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "Balearic Islands"
  },
  "osm:way/204556995": {
   "id": "osm:way/204556995",
-  "name": "Phare de la Pointe Vénus",
+  "name": "Phare de la Pointe V\u00e9nus",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -21109,30 +20105,18 @@
   "website": "https://www.tahitiheritage.pf/phare-de-la-pointe-venus-teara-o-tahiti/",
   "wikidata": "Q3378497",
   "country": "France",
-  "city": "Māhina",
+  "city": "M\u0101hina",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in French Polynesia, France",
   "hasWikiImage": true,
-  "region": "French Polynesia",
-  "category": "lighthouse-hotels",
-  "score": 6,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.tahitiheritage.pf/phare-de-la-pointe-venus-teara-o-tahiti/",
-   "title": "Tahiti Heritage - Encyclopédie collaborative du patrimoine polynésien",
-   "description": "Vivre la culture polynésienne, retourner dans le passé, parcourir la nature de Tahiti et ses îles, c&#039;est l&#039;essence du site Tahiti Heritage.",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "French Polynesia"
  },
  "osm:way/204684218": {
   "id": "osm:way/204684218",
@@ -21152,17 +20136,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Vieques, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:way/206528023": {
   "id": "osm:way/206528023",
@@ -21182,17 +20161,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Cabo Rojo, Puerto Rico",
   "hasWikiImage": true,
-  "region": "Puerto Rico",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Puerto Rico"
  },
  "osm:way/206964493": {
   "id": "osm:way/206964493",
@@ -21232,19 +20206,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Poland",
   "hasWikiImage": true,
-  "region": "West Pomeranian Voivodeship",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "West Pomeranian Voivodeship"
  },
  "osm:way/209376542": {
   "id": "osm:way/209376542",
@@ -21304,24 +20271,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Denmark",
   "hasWikiImage": true,
-  "region": "Central Denmark Region",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.vesborgfyr.dk/",
-   "title": "Velkommen til Vesborg Fyr - Vesborg Fyr",
-   "description": "",
-   "keyword": "Fyr",
-   "snippet": "Velkommen til Vesborg Fyr - Vesborg Fyr   Velkommen til Vesborg Fyr - Vesborg Fyr Velkommen til Vesborg Fyr Ferieboligerne Fyrmesterhuset – Stuen Fyrmesterhuset – 1. Sal Fyrassistentens Bolig Udsigtspavillonen Besøg Fyret Om Vesborg Fyr Click to open the search input field Click to open the search input field Søg Menu Menu Scroll to next section Scroll to next section F"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Central Denmark Region"
  },
  "osm:way/215935959": {
   "id": "osm:way/215935959",
@@ -21450,7 +20405,7 @@
  },
  "osm:way/221194519": {
   "id": "osm:way/221194519",
-  "name": "Motell Fyra Hästar",
+  "name": "Motell Fyra H\u00e4star",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -21459,7 +20414,7 @@
   "website": "https://www.fyrahastar.se",
   "wikidata": null,
   "country": "SE",
-  "city": "Rättvik",
+  "city": "R\u00e4ttvik",
   "osm": {
    "tourism": "hostel"
   },
@@ -21545,17 +20500,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Newfoundland and Labrador, Canada",
   "hasWikiImage": true,
-  "region": "Newfoundland and Labrador",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": null,
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Newfoundland and Labrador"
  },
  "osm:way/223772761": {
   "id": "osm:way/223772761",
@@ -21650,30 +20600,18 @@
   "website": "https://www.greetsiel.de/sehenswuerdigkeiten/campener-leuchtturm",
   "wikidata": "Q284886",
   "country": "DE",
-  "city": "Krummhörn",
+  "city": "Krummh\u00f6rn",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lower Saxony, Germany",
-  "hasWikiImage": true,
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.greetsiel.de/ferienregion-krummhoern/campener-leuchtturm",
-   "title": "Campener Leuchtturm in Krummhörn - Greetsiel an der Nordseeküste",
-   "description": "Der Campener Leuchtturm ist der höchste Leuchtturm in Deutschland und bietet einen einzigartigen Blickauf das Wattenmeer in der Krummhörn.",
-   "keyword": "Leuchtturm",
-   "snippet": "Campener Leuchtturm in Krummhörn - Greetsiel an der Nordseeküste Der Campener Leuchtturm ist der höchste Leuchtturm in Deutschland und bietet einen einzigartigen Blickauf das Wattenmeer in der Krummhörn.  Campener Leuchtturm in Krummhörn - Greetsiel an der Nordseeküste Zum Inhalt springen Zum Hauptmenü springen Zur Suche springen Zur Startseite Suche Öffnet"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "hasWikiImage": true
  },
  "osm:way/230495113": {
   "id": "osm:way/230495113",
@@ -21734,28 +20672,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lower Saxony, Germany",
   "hasWikiImage": true,
-  "region": "Lower Saxony",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 404,
-   "url": "https://www.gdws.wsv.bund.de/wsa-emd/schifffahrt/Schifffahrtszeichen/Feste_Schifffahrtszeichen/Kleiner_Leuchtturm_Borkum/index.html",
-   "title": "GDWS - Homepage - HTTP Status 404",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Lower Saxony"
  },
  "osm:way/231686281": {
   "id": "osm:way/231686281",
-  "name": "Памятник \"Маяк\"",
+  "name": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \"\u041c\u0430\u044f\u043a\"",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -21826,7 +20752,7 @@
   "website": null,
   "wikidata": "Q12728147",
   "country": null,
-  "city": "Constanța",
+  "city": "Constan\u021ba",
   "osm": {
    "tourism": "attraction",
    "historic": "heritage",
@@ -21855,24 +20781,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Denmark",
   "hasWikiImage": true,
-  "region": "Central Denmark Region",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://bovbjergfyr.dk/",
-   "title": "Bovbjerg Fyr",
-   "description": "Bovbjerg Fyr ligger tæt på kanten af den 41 meter høje Bovbjergklint med flot udsigt over Vesterhavet. Tag trapperne op i det 26 meter høje, rødkalkede fyr ...",
-   "keyword": "Fyr",
-   "snippet": "Bovbjerg Fyr Bovbjerg Fyr ligger tæt på kanten af den 41 meter høje Bovbjergklint med flot udsigt over Vesterhavet. Tag trapperne op i det 26 meter høje, rødkalkede fyr ...  Bovbjerg Fyr  Forside Udstillinger Café Butik Guidede ture Rundvisning på Bovbjerg Fyr Arrangementer Om os Nyheder Kontakt Fonden Støtteforeningen Erhvervsstøtter Udvalg & Grupper Spon"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Central Denmark Region"
  },
  "osm:way/234719441": {
   "id": "osm:way/234719441",
@@ -21936,7 +20850,7 @@
  },
  "osm:way/236777591": {
   "id": "osm:way/236777591",
-  "name": "Faro de Punta de Maisí",
+  "name": "Faro de Punta de Mais\u00ed",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -22015,24 +20929,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lochaber, Highland, Scotland, built in 1849",
   "hasWikiImage": true,
-  "region": "Scotland",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.ardnamurchanlighthouse.com/",
-   "title": "- Ardnamurchan Lighthouse Trust",
-   "description": "At the most westerly point on the British mainland, Ardnamurchan Lighthouse has been guiding ships safely through the waters off Scotland’s west coast since 1849. Lighthouse Cafe and Tower Tours Open Tuesday to Sunday 1st April to 31st OctoberClosed Mondays Video © Hamza Yassin Photography Ardnamurchan Lighthouse Trust Ltd is a Registered Charity and Company [&hellip;]",
-   "keyword": "Lighthouse",
-   "snippet": "- Ardnamurchan Lighthouse Trust At the most westerly point on the British mainland, Ardnamurchan Lighthouse has been guiding ships safely through the waters off Scotland’s west coast since 1849. Lighthouse Cafe and Tower Tours Open Tuesday to Sunday 1st April to 31st OctoberClosed Mondays Video © Hamza Yassin Photography Ardnamurchan Lighthouse Trust Ltd is a Reg"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Scotland"
  },
  "osm:way/242627747": {
   "id": "osm:way/242627747",
@@ -22072,24 +20974,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in red and yellow in Lower Saxony, Germany",
   "hasWikiImage": true,
-  "region": "Lower Saxony",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "http://www.pilsumer-leuchtturm.de/",
-   "title": "Informationen - Bilder - Dokumente",
-   "description": "Der Pilsumer Leuchtturm: Geschichte und Gegenwart -",
-   "keyword": "Leuchtturm",
-   "snippet": "Informationen - Bilder - Dokumente Der Pilsumer Leuchtturm: Geschichte und Gegenwart -  Informationen - Bilder - Dokumente"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Lower Saxony"
  },
  "osm:way/243449826": {
   "id": "osm:way/243449826",
@@ -22108,24 +20998,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Southend, Argyll, Scotland",
   "hasWikiImage": true,
-  "region": "Scotland",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "http://lighthousesforsale.co.uk/mull-of-kintyre-lighthouse-buildings/",
-   "title": "Mull of Kintyre Lighthouse Buildings | The Lighthouse Bulletin",
-   "description": "This page is subject to update and imminent news. Please check back soon for updates. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&amp;#8212…",
-   "keyword": "Lighthouse",
-   "snippet": "Mull of Kintyre Lighthouse Buildings | The Lighthouse Bulletin This page is subject to update and imminent news. Please check back soon for updates. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&amp;#8212…  Mull of Kintyre Lighthouse Buildings | The Lighthouse Bulletin Skip to primary content The Lighthou"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Scotland"
  },
  "osm:way/244244727": {
   "id": "osm:way/244244727",
@@ -22149,7 +21027,7 @@
  },
  "osm:way/244619260": {
   "id": "osm:way/244619260",
-  "name": "Leuchtturm Wremertief \"Kleiner Preuße\"",
+  "name": "Leuchtturm Wremertief \"Kleiner Preu\u00dfe\"",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -22273,7 +21151,7 @@
  },
  "osm:way/249448393": {
   "id": "osm:way/249448393",
-  "name": "Kõpu tuletorn",
+  "name": "K\u00f5pu tuletorn",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -22282,31 +21160,17 @@
   "website": "https://nma.vta.ee/aton/2684",
   "wikidata": "Q1795607",
   "country": "EE",
-  "city": "Mägipe küla",
+  "city": "M\u00e4gipe k\u00fcla",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Estonia",
-  "hasWikiImage": true,
-  "category": "lighthouse-hotels",
-  "score": 3,
-  "evidence": {
-   "status": 200,
-   "url": "https://nma.vta.ee/aton/2684/",
-   "title": "Navigatsioonimärgi nr 668, Kõpu tuletorn andmed",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "low confidence"
-  ]
+  "hasWikiImage": true
  },
  "osm:way/251057256": {
   "id": "osm:way/251057256",
@@ -22326,24 +21190,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Lower Saxony, Germany",
   "hasWikiImage": true,
-  "region": "Lower Saxony",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.dickeberta.de/",
-   "title": "Startseite - Förderverein Leuchtturm \"Dicke Berta\" e.V. Altenbruch",
-   "description": "Förderverein Leuchtturm &quot;Dicke Berta&quot; e.V. AltenbruchDer Förderverein zum Erhalt des historischen Leuchtturms stellt sich vor und informiert über die Restaurierung, Besichtigung und Heiratsmöglichkeiten.",
-   "keyword": "Leuchtturm",
-   "snippet": "Startseite - Förderverein Leuchtturm \"Dicke Berta\" e.V. Altenbruch Förderverein Leuchtturm &quot;Dicke Berta&quot; e.V. AltenbruchDer Förderverein zum Erhalt des historischen Leuchtturms stellt sich vor und informiert über die Restaurierung, Besichtigung und Heiratsmöglichkeiten.  Startseite - Förderverein Leuchtturm \"Dicke Berta\" e.V. Altenbruch Besichtigungen - technische"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Lower Saxony"
  },
  "osm:way/251642378": {
   "id": "osm:way/251642378",
@@ -22389,7 +21241,7 @@
  },
  "osm:way/255916025": {
   "id": "osm:way/255916025",
-  "name": "Torre de Hércules",
+  "name": "Torre de H\u00e9rcules",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -22398,31 +21250,19 @@
   "website": "http://www.torredeherculesacoruna.com/",
   "wikidata": "Q245151",
   "country": "Spain",
-  "city": "A Coruña",
+  "city": "A Coru\u00f1a",
   "osm": {
    "tourism": "attraction",
    "historic": "lighthouse",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "Ancient lighthouse in Spain",
   "hasWikiImage": true,
-  "region": "Galicia",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.torredeherculesacoruna.com/torre/es",
-   "title": "Tower of Hercules",
-   "description": "",
-   "keyword": "Lighthouse",
-   "snippet": "| English Tower of Hercules Área de Fomento y Promoción de la ciudad World Heritage Visit Prices and Opening Times Book Tickets Online Visitor Centre (CIAV) Guided Tours Virtual Visit Sculpture Park Trails and Surrounding Area Discover the Tower The Lighthouse Inside the Tower Much More than a Tower The Tower in Art Curiosities of the Tower From Mythology to Legends Two Thousand Years of Light Ancient Times Middle Ages Modern Age The Restorations News Media Nuevo carrusel torre Imagen torre dentro carrusel Tower of Hercules spot 2026 \" xmlns:xlink=\" \" x=\"0px\" y=\"0px\" viewBox=\"0 0 1920 59\" styl"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Galicia"
  },
  "osm:way/256802123": {
   "id": "osm:way/256802123",
@@ -22525,24 +21365,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on the Hudson River in New York, United States",
   "hasWikiImage": true,
-  "region": "New York",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.saugertieslighthouse.com/",
-   "title": "SAUGERTIES LIGHTHOUSE",
-   "description": "The Saugerties Lighthouse is an 1869 landmark beacon on the Hudson River that stands proudly as a Living Museum and a renowned Bed &amp; Breakfast. Step back in time over 150 years to experience the charm and rustic simplicity of life in the middle of the river.",
-   "keyword": "LIGHTHOUSE",
-   "snippet": "SAUGERTIES LIGHTHOUSE The Saugerties Lighthouse is an 1869 landmark beacon on the Hudson River that stands proudly as a Living Museum and a renowned Bed &amp; Breakfast. Step back in time over 150 years to experience the charm and rustic simplicity of life in the middle of the river.  SAUGERTIES LIGHTHOUSE 0 Skip to Content SAUGERTIES LIGHTHOUSE Home Visit St"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "New York"
  },
  "osm:way/265990513": {
   "id": "osm:way/265990513",
@@ -22566,7 +21394,7 @@
  },
  "osm:way/266353768": {
   "id": "osm:way/266353768",
-  "name": "頤庭酒店銅鑼灣 Eco Tree Hotel Causeway Bay",
+  "name": "\u9824\u5ead\u9152\u5e97\u9285\u947c\u7063 Eco Tree Hotel Causeway Bay",
   "categories": [
    "treehouse-hotels"
   ],
@@ -22595,28 +21423,16 @@
   "website": "http://faroshotel.info/",
   "wikidata": "Q111858315",
   "country": "GR",
-  "city": "Πειραιάς",
+  "city": "\u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Greece",
-  "hasWikiImage": false,
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://faros1piraeus.com/",
-   "title": "Faros 1 Hotel Piraeus - Ξενοδοχείο κοντά στο Λιμάνι Πειραία",
-   "description": "Ξενοδοχείο κοντά στο Λιμάνι Πειραιά. Το Faros 1 Hotel απέχει 5 λεπτά από την πύλη Ε9 και κοντά στα ferry terminals. Άνετα δωμάτια με εύκολη πρόσβαση σε μετρό.",
-   "keyword": "Faro",
-   "snippet": "Faros 1 Hotel Piraeus - Ξενοδοχείο κοντά στο Λιμάνι Πειραία Ξενοδοχείο κοντά στο Λιμάνι Πειραιά. Το Faros 1 Hotel απέχει 5 λεπτά από την πύλη Ε9 και κοντά στα ferry terminals. Άνετα δωμάτια με εύκολη πρόσβαση σε μετρό.  Faros 1 Hotel Piraeus - Ξενοδοχείο κοντά στο Λιμάνι Πειραία Μετάβαση στο περιεχόμενο Faros 1 Hotel Αρχικη Φωτογραφιες Ιστολόγιο Επ"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "hasWikiImage": false
  },
  "osm:way/267302601": {
   "id": "osm:way/267302601",
@@ -22888,7 +21704,7 @@
  },
  "osm:way/282628027": {
   "id": "osm:way/282628027",
-  "name": "Φάρος Αλεξανδρούπολης",
+  "name": "\u03a6\u03ac\u03c1\u03bf\u03c2 \u0391\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -22939,7 +21755,7 @@
   "website": "https://willafaro.pl/",
   "wikidata": null,
   "country": null,
-  "city": "Jastrzębia Góra",
+  "city": "Jastrz\u0119bia G\u00f3ra",
   "osm": {
    "tourism": "guest_house"
   },
@@ -23049,24 +21865,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Maryland, United States",
   "hasWikiImage": true,
-  "region": "Maryland",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 404,
-   "url": "http://www.calvertmarinemuseum.com/exhibits/drum-point-lighthouse.php",
-   "title": "Custom404 • Calvert Marine Museum, MD • CivicEngage",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Maryland"
  },
  "osm:way/294936729": {
   "id": "osm:way/294936729",
@@ -23129,24 +21933,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in North Carolina, United States",
   "hasWikiImage": true,
-  "region": "North Carolina",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.nps.gov/caha/planyourvisit/chls.htm",
-   "title": "Cape Hatteras Light Station - Cape Hatteras National Seashore (U.S. National Park Service)",
-   "description": "Cape Hatteras Light Station",
-   "keyword": "Lighthouse",
-   "snippet": "ose Menu Explore This Park Explore the National Park Service Exiting nps.gov Cancel Cape Hatteras National Seashore Info Alerts Maps Calendar Fees Contact Us Cape Hatteras Light Station On This Page Navigation Built in 1870, the iconic Cape Hatteras Lighthouse stands watch over the Graveyard of the Atlantic NPS Photo The Cape Hatteras Lighthouse protects one of the most hazardous sections of the Atlantic Coast. Offshore of Cape Hatteras, the Gulf Stream collides with the Virginia Drift, a branch of the Labrador Current from Canada. This current forces southbound ships into a dangerous twelve-m"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "North Carolina"
  },
  "osm:way/296746219": {
   "id": "osm:way/296746219",
@@ -23210,7 +22002,7 @@
  },
  "osm:way/300384923": {
   "id": "osm:way/300384923",
-  "name": "Latarnia morska Kołobrzeg",
+  "name": "Latarnia morska Ko\u0142obrzeg",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -23219,33 +22011,19 @@
   "website": "http://www.latarnia.kolobrzeg.pl/",
   "wikidata": "Q11309665",
   "country": "Poland",
-  "city": "Kołobrzeg",
+  "city": "Ko\u0142obrzeg",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Poland",
   "hasWikiImage": true,
-  "region": "West Pomeranian Voivodeship",
-  "category": "lighthouse-hotels",
-  "score": 2,
-  "evidence": {
-   "status": 403,
-   "url": "http://www.latarnia.kolobrzeg.pl/",
-   "title": "Error 403",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": "West Pomeranian Voivodeship"
  },
  "osm:way/300878445": {
   "id": "osm:way/300878445",
@@ -23264,26 +22042,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Poland",
   "hasWikiImage": true,
-  "region": "Pomeranian Voivodeship",
-  "category": "lighthouse-hotels",
-  "score": 3,
-  "evidence": {
-   "status": 200,
-   "url": "https://tpnmm.pl/latarnia-stilo/",
-   "title": "Latarnia Stilo",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "low confidence"
-  ]
+  "region": "Pomeranian Voivodeship"
  },
  "osm:way/304603479": {
   "id": "osm:way/304603479",
@@ -23592,24 +22356,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in New South Wales, Australia",
   "hasWikiImage": true,
-  "region": "New South Wales",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.nationalparks.nsw.gov.au/things-to-do/historic-buildings-places/cape-baily-lighthouse",
-   "title": "Cape Baily Lighthouse | NSW National Parks",
-   "description": "Visit historic Cape Baily Lighthouse on a scenic coastal walk from Cape Solander, in the Kurnell area of Kamay Botany Bay National Park.",
-   "keyword": "Lighthouse",
-   "snippet": "Cape Baily Lighthouse | NSW National Parks Visit historic Cape Baily Lighthouse on a scenic coastal walk from Cape Solander, in the Kurnell area of Kamay Botany Bay National Park.  Cape Baily Lighthouse | NSW National Parks Please enable javascript to access the full functionality of this site Skip to content NSW National Parks and Wildlife Service Safety Get"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "New South Wales"
  },
  "osm:way/33092586": {
   "id": "osm:way/33092586",
@@ -23629,24 +22381,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Finistère, France",
+  "description": "lighthouse in Finist\u00e8re, France",
   "hasWikiImage": true,
-  "region": "Brittany",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 403,
-   "url": "https://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/error/erreur-403.html",
-   "title": "Interdit",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Brittany"
  },
  "osm:way/332527928": {
   "id": "osm:way/332527928",
@@ -23754,7 +22494,7 @@
  },
  "osm:way/337252331": {
   "id": "osm:way/337252331",
-  "name": "Nidos švyturys",
+  "name": "Nidos \u0161vyturys",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -23936,7 +22676,7 @@
  },
  "osm:way/358509216": {
   "id": "osm:way/358509216",
-  "name": "Kylmäpihlaja",
+  "name": "Kylm\u00e4pihlaja",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -23951,26 +22691,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Finland",
   "hasWikiImage": true,
-  "region": "Satakunta",
-  "category": "lighthouse-hotels",
-  "score": 3,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.kylmapihlaja.com/",
-   "title": "Kylmäpihlajan majakka, hotelli, ravintola ja vierasvenesatama.",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "low confidence"
-  ]
+  "region": "Satakunta"
  },
  "osm:way/358638010": {
   "id": "osm:way/358638010",
@@ -24076,7 +22802,7 @@
  },
  "osm:way/363232536": {
   "id": "osm:way/363232536",
-  "name": "Käsmu tuletorn",
+  "name": "K\u00e4smu tuletorn",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -24133,24 +22859,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "Active lighthoise in Trieste, Italy",
   "hasWikiImage": true,
-  "region": "Friuli – Venezia Giulia",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://farodellavittoria.it/",
-   "title": "Faro della Vittoria - Trieste - Sito ufficiale",
-   "description": "Il Faro della Vittoria è un imponente monumento nazionale a Trieste che offre uno spettacolare panorama sulla città. Aperto da aprile a ottobre, ingresso gratuito.",
-   "keyword": "Faro",
-   "snippet": "Faro della Vittoria - Trieste - Sito ufficiale Il Faro della Vittoria è un imponente monumento nazionale a Trieste che offre uno spettacolare panorama sulla città. Aperto da aprile a ottobre, ingresso gratuito.  Faro della Vittoria - Trieste - Sito ufficiale Salta al contenuto Menu HOME STORIA E GUIDA ORARI E INFO ERPAC NEWS Calendario eventi Didat"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Friuli \u2013 Venezia Giulia"
  },
  "osm:way/366142978": {
   "id": "osm:way/366142978",
@@ -24210,24 +22924,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "oldest lighthouse in North Carolina, United States",
   "hasWikiImage": true,
-  "region": "North Carolina",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.oldbaldy.org/",
-   "title": "Historic Site | The Old Baldy Foundation | United States",
-   "description": "Experience the Old Baldy Lighthouse- climb to the top for breathtaking views of Bald Head Island",
-   "keyword": "Lighthouse",
-   "snippet": "Historic Site | The Old Baldy Foundation | United States Experience the Old Baldy Lighthouse- climb to the top for breathtaking views of Bald Head Island  --> Historic Site | The Old Baldy Foundation | United States top of page Home About Visit Us The Old Baldy Foundation Staff Archived Newsletters Annual Reports Articles News Career Opportunties Events and Tours Events Special Events Rentals Tours Education History of BHI Archi"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "North Carolina"
  },
  "osm:way/368296244": {
   "id": "osm:way/368296244",
@@ -24387,26 +23089,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "battle monument in Ohio, United States",
   "hasWikiImage": true,
-  "region": "Ohio",
-  "category": "lighthouse-hotels",
-  "score": 3,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.nps.gov/pevi/index.htm",
-   "title": "Perry's Victory & International Peace Memorial (U.S. National Park Service)",
-   "description": "Perrys Victory and International Peace Memorial",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "low confidence"
-  ]
+  "region": "Ohio"
  },
  "osm:way/37825047": {
   "id": "osm:way/37825047",
@@ -24508,24 +23196,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Michigan, United States",
   "hasWikiImage": true,
-  "region": "Michigan",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://fortymilepointlighthouse.org/",
-   "title": "40 Mile Point Lighthouse &#8211; 40 Mile Point Lighthouse",
-   "description": "",
-   "keyword": "Lighthouse",
-   "snippet": "40 Mile Point Lighthouse &#8211; 40 Mile Point Lighthouse   40 Mile Point Lighthouse 40 Mile Point Lighthouse --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> MENU Home About History Photos Events Membership Keeper s Program Links Contact Payments Lighthouse Park and grounds are open year-round from 8:00 a.m. to Sunset. We hope you will support us by"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Michigan"
  },
  "osm:way/381635116": {
   "id": "osm:way/381635116",
@@ -24585,24 +23261,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Nynäshamn Municipality, Baltic coast, Sweden",
+  "description": "lighthouse in Nyn\u00e4shamn Municipality, Baltic coast, Sweden",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://visitlandsort.se/maritima-kulturarvet/lotsplatsen-fyrarna-och-sjofarten/landsorts-fyr/",
-   "title": "Landsorts fyr | Visitlandsort",
-   "description": "Sveriges äldsta fyr. Med sina 4 plus 1 ljusblänk, genom decennier och sekler",
-   "keyword": "fyr",
-   "snippet": "Landsorts fyr | Visitlandsort Sveriges äldsta fyr. Med sina 4 plus 1 ljusblänk, genom decennier och sekler  Landsorts fyr | Visitlandsort natur miljö det maritima kulturarvet konst kultur slappna av må bra Planera ditt besök STÄNG MENY MENY Natur miljö Fåglarnas ö Geologins ö Östersjöns hälsa Det maritima kulturarvet Krigens ö Lotsplatsen, fyren och sjöfarte"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": null
  },
  "osm:way/385437356": {
   "id": "osm:way/385437356",
@@ -24744,21 +23408,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Manche, France, built in 1834",
   "hasWikiImage": true,
-  "region": "Normandy",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Normandy"
  },
  "osm:way/399219094": {
   "id": "osm:way/399219094",
@@ -24981,24 +23636,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in New Jersey, United States",
   "hasWikiImage": true,
-  "region": "New Jersey",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.nps.gov/gate/learn/historyculture/sandy-hook-lighthouse.htm",
-   "title": "Sandy Hook Lighthouse - Gateway National Recreation Area (U.S. National Park Service)",
-   "description": "Sandy Hook Lighthouse",
-   "keyword": "Lighthouse",
-   "snippet": "Sandy Hook Lighthouse - Gateway National Recreation Area (U.S. National Park Service) Sandy Hook Lighthouse  Sandy Hook Lighthouse - Gateway National Recreation Area (U.S. National Park Service) --> An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official gover"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "New Jersey"
  },
  "osm:way/412858875": {
   "id": "osm:way/412858875",
@@ -25180,24 +23823,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse at Point Bonita at the San Francisco Bay entrance, California, United States",
   "hasWikiImage": true,
-  "region": "California",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.nps.gov/goga/pobo.htm",
-   "title": "Point Bonita Lighthouse - Golden Gate National Recreation Area (U.S. National Park Service)",
-   "description": "Point Bonita Lighthouse",
-   "keyword": "Lighthouse",
-   "snippet": "Point Bonita Lighthouse - Golden Gate National Recreation Area (U.S. National Park Service) Point Bonita Lighthouse  Point Bonita Lighthouse - Golden Gate National Recreation Area (U.S. National Park Service) --> An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an of"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "California"
  },
  "osm:way/428564350": {
   "id": "osm:way/428564350",
@@ -25242,7 +23873,7 @@
  },
  "osm:way/429896031": {
   "id": "osm:way/429896031",
-  "name": "Phare de Tréhiguier",
+  "name": "Phare de Tr\u00e9higuier",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -25284,7 +23915,7 @@
  },
  "osm:way/441436235": {
   "id": "osm:way/441436235",
-  "name": "Faro de Mulegé",
+  "name": "Faro de Muleg\u00e9",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -25321,24 +23952,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on Hiddensee in Mecklenburg-Western Pomerania, Germany",
   "hasWikiImage": true,
-  "region": "Mecklenburg-Vorpommern",
-  "category": "lighthouse-hotels",
-  "score": 6,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.seebad-hiddensee.de/",
-   "title": "Erleben Sie unvergessliche Momente im Seebad Hiddensee",
-   "description": "Besuchen Sie das bezaubernde Seebad Hiddensee, das süße Ländchen voller Charme und Naturwunder. Planen Sie Ihren Traumurlaub.",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Mecklenburg-Vorpommern"
  },
  "osm:way/444097979": {
   "id": "osm:way/444097979",
@@ -25438,24 +24057,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Ontario, Canada",
   "hasWikiImage": true,
-  "region": "Ontario",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.kyc.ca/",
-   "title": "Kincardine Yacht Club",
-   "description": "",
-   "keyword": "Lighthouse",
-   "snippet": "ncardine Yacht Club   Kincardine Yacht Club Skip to content Kincardine Yacht Club Menu Marina Facilities Contact Marina Navigation Aids to Kincardine Marina Washrooms Kincardine Yacht Club News / Posts Social Events Programs Membership KYC Executive Lighthouse Kincardine Lighthouse The Lighthouse Destination Links Webcams Kincardine Weather Wind Kincardine Links Visit Kincardine Boardwalk Magazine Photo Gallery Sailing Photographs Sailing Races (Kincardine) Contact Us Marina Kincardine Marina The Kincardine Marina is halfway between Sarnia and the North Channel. The harbour is open 24 hours a"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Ontario"
  },
  "osm:way/45348198": {
   "id": "osm:way/45348198",
@@ -25662,7 +24269,7 @@
  },
  "osm:way/46999233": {
   "id": "osm:way/46999233",
-  "name": "'s Baumhaus Dörfle",
+  "name": "'s Baumhaus D\u00f6rfle",
   "categories": [
    "treehouse-hotels"
   ],
@@ -25691,7 +24298,7 @@
   "website": null,
   "wikidata": "Q111883683",
   "country": "BR",
-  "city": "Taubaté",
+  "city": "Taubat\u00e9",
   "osm": {
    "tourism": "hotel"
   },
@@ -25799,24 +24406,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Ohio, United States",
   "hasWikiImage": true,
-  "region": "Ohio",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 404,
-   "url": "https://fairportharborlighthouse.org/index.htm",
-   "title": "Page not found &#8211; The Fairport Harbor Historical Society",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Ohio"
  },
  "osm:way/486123341": {
   "id": "osm:way/486123341",
@@ -25836,28 +24431,16 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in California, United States",
   "hasWikiImage": true,
-  "region": "California",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 429,
-   "url": "https://www.pointarenalighthouse.com/",
-   "title": "Vercel Security Checkpoint",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "California"
  },
  "osm:way/488892711": {
   "id": "osm:way/488892711",
-  "name": "MUR Hotel Faro Jandía & Spa",
+  "name": "MUR Hotel Faro Jand\u00eda & Spa",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -25872,24 +24455,12 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Solana Matorral, Las Palmas",
   "hasWikiImage": false,
-  "region": "Canary Islands",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.murhotels.com/en/hotel-mur-faro-jandia-in-fuerteventura/",
-   "title": "MUR Hotel Faro Jandía &amp; Spa 4* in Fuerteventura, [Official Website]",
-   "description": "Book the MUR Hotel Faro Jandía &amp; Spa 4* at the best price for all your trips. Official website of MUR Hotels. Best online price guaranteed!",
-   "keyword": "Faro",
-   "snippet": "MUR Hotel Faro Jandía &amp; Spa 4* in Fuerteventura, [Official Website] Book the MUR Hotel Faro Jandía &amp; Spa 4* at the best price for all your trips. Official website of MUR Hotels. Best online price guaranteed!  MUR Hotel Faro Jandía Spa 4* in Fuerteventura, [Official Website] Official Website MUR Hotel Faro Jandía Spa 4* in Fuerteventura Atención al cl"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Canary Islands"
  },
  "osm:way/489503170": {
   "id": "osm:way/489503170",
@@ -25943,7 +24514,7 @@
   "website": "http://www.farohotel.com.br/",
   "wikidata": null,
   "country": null,
-  "city": "São José dos Campos",
+  "city": "S\u00e3o Jos\u00e9 dos Campos",
   "osm": {
    "tourism": "hotel"
   },
@@ -25974,7 +24545,7 @@
  },
  "osm:way/49963224": {
   "id": "osm:way/49963224",
-  "name": "Leuchtturm Dahmeshöved",
+  "name": "Leuchtturm Dahmesh\u00f6ved",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -26072,23 +24643,11 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Portugal",
-  "hasWikiImage": true,
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 403,
-   "url": "https://parquesnaturais.azores.gov.pt/pt/faial/oquevisitar/areasprotegidas/areapaisagemprotegida/index.php?option=com_content&view=article&id=100&Itemid=536",
-   "title": "Just a moment...",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "hasWikiImage": true
  },
  "osm:way/50893574": {
   "id": "osm:way/50893574",
@@ -26112,7 +24671,7 @@
  },
  "osm:way/51075505": {
   "id": "osm:way/51075505",
-  "name": "Leuchtturm Flügge",
+  "name": "Leuchtturm Fl\u00fcgge",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -26128,24 +24687,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Schleswig-Holstein, Germany",
   "hasWikiImage": true,
-  "region": "Schleswig-Holstein",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.leuchtturmfluegge.de/",
-   "title": "Erlebnis Leuchtturm Flügge",
-   "description": "Wir lieben den Flügger Leuchtturm als wunderschöne, historische Landmarke und Ausflugsziel für die ganze Familie. Für ein rundum gelungenes Erlebnis fügen wir alle Infos auf dieser Website und in den sozialen Medien zusammen.",
-   "keyword": "Leuchtturm",
-   "snippet": "Erlebnis Leuchtturm Flügge Wir lieben den Flügger Leuchtturm als wunderschöne, historische Landmarke und Ausflugsziel für die ganze Familie. Für ein rundum gelungenes Erlebnis fügen wir alle Infos auf dieser Website und in den sozialen Medien zusammen.  Erlebnis Leuchtturm Flügge 0 Zum Inhalt springen Leuchtturm Besichtigen + Preise Technik Geschichte Café"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Schleswig-Holstein"
  },
  "osm:way/511272922": {
   "id": "osm:way/511272922",
@@ -26210,7 +24757,7 @@
  },
  "osm:way/523250388": {
   "id": "osm:way/523250388",
-  "name": "Skjoldnæs Fyr",
+  "name": "Skjoldn\u00e6s Fyr",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -26253,7 +24800,7 @@
  },
  "osm:way/531972534": {
   "id": "osm:way/531972534",
-  "name": "Résidence Hôtelière du Phare",
+  "name": "R\u00e9sidence H\u00f4teli\u00e8re du Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -26296,7 +24843,7 @@
  },
  "osm:way/540326057": {
   "id": "osm:way/540326057",
-  "name": "頤庭酒店 Eco Tree Hotel",
+  "name": "\u9824\u5ead\u9152\u5e97 Eco Tree Hotel",
   "categories": [
    "treehouse-hotels"
   ],
@@ -26332,24 +24879,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in New York, United States",
   "hasWikiImage": true,
-  "region": "New York",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://geneseelighthouse.org/",
-   "title": "Charlotte-Genesee Lighthouse Historical Society &#8211; America&#039;s Oldest Surviving Lighthouse on Lake Ontario",
-   "description": "",
-   "keyword": "Lighthouse",
-   "snippet": "Charlotte-Genesee Lighthouse Historical Society &#8211; America&#039;s Oldest Surviving Lighthouse on Lake Ontario   Charlotte-Genesee Lighthouse Historical Society America s Oldest Surviving Lighthouse on Lake Ontario 70 Lighthouse Street; Rochester, NY 14612 (585) 621-6179 info@geneseelighthouse.org Home Hours Directions Events Donate Join Tour Board Programs MARI"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "New York"
  },
  "osm:way/544630809": {
   "id": "osm:way/544630809",
@@ -26556,7 +25091,7 @@
  },
  "osm:way/576862652": {
   "id": "osm:way/576862652",
-  "name": "Fyrmesternoligen, Langøytangen fyr",
+  "name": "Fyrmesternoligen, Lang\u00f8ytangen fyr",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -26605,7 +25140,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "São Bento do Norte",
+  "city": "S\u00e3o Bento do Norte",
   "osm": {
    "tourism": "hotel"
   },
@@ -26671,24 +25206,12 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Maspalomas, Gran Canaria, Spain",
   "hasWikiImage": true,
-  "region": "Canary Islands",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 404,
-   "url": "https://www.lopesan.com/es/hoteles/espana/gran-canaria/maspalomas/ifa-faro/",
-   "title": "Error 404",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Canary Islands"
  },
  "osm:way/602188077": {
   "id": "osm:way/602188077",
@@ -26830,26 +25353,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in North Carolina, United States",
   "hasWikiImage": true,
-  "region": null,
-  "category": "lighthouse-hotels",
-  "score": 3,
-  "evidence": {
-   "status": 200,
-   "url": "https://fptower.org/",
-   "title": "Frying Pan Tower - FPTower Inc.",
-   "description": "Restoration of Frying Pan Tower is managed by FPTower Inc., a nonprofit organization and 501(c)3 dedicated to restoring, protecting and preserving the former United States Coastguard (USCG) Frying Pan Light Station off the coast of North Carolina for future generations.",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "low confidence"
-  ]
+  "region": null
  },
  "osm:way/626992040": {
   "id": "osm:way/626992040",
@@ -26873,7 +25382,7 @@
  },
  "osm:way/633016577": {
   "id": "osm:way/633016577",
-  "name": "المنارة القديمة",
+  "name": "\u0627\u0644\u0645\u0646\u0627\u0631\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -26936,7 +25445,7 @@
  },
  "osm:way/63792698": {
   "id": "osm:way/63792698",
-  "name": "Hôtel du phare",
+  "name": "H\u00f4tel du phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -26976,7 +25485,7 @@
  },
  "osm:way/65005575": {
   "id": "osm:way/65005575",
-  "name": "Phare métallique de Fromentine",
+  "name": "Phare m\u00e9tallique de Fromentine",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -27174,28 +25683,16 @@
   "website": "https://www.hotel-lighthouse.de/",
   "wikidata": "Q111388503",
   "country": "DE",
-  "city": "Büsum",
+  "city": "B\u00fcsum",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "hotel in Büsum, Germany",
-  "hasWikiImage": false,
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.hotel-lighthouse.de/",
-   "title": "Hotel in Büsum | Lighthouse Hotel & Spa",
-   "description": "Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!",
-   "keyword": "Lighthouse",
-   "snippet": "Hotel in Büsum | Lighthouse Hotel & Spa Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!  Hotel in Büsum | Lighthouse Hotel & Spa --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Hotel Wohnen Zimmer Suiten Hafen Apartments Ü"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "description": "hotel in B\u00fcsum, Germany",
+  "hasWikiImage": false
  },
  "osm:way/675736803": {
   "id": "osm:way/675736803",
@@ -27249,7 +25746,7 @@
   "website": "http://jamsil-latree.com/",
   "wikidata": null,
   "country": null,
-  "city": "서울특별시",
+  "city": "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
   "osm": {
    "tourism": "hotel"
   },
@@ -27280,7 +25777,7 @@
  },
  "osm:way/686679758": {
   "id": "osm:way/686679758",
-  "name": "STF Berguddens Fyrvaktarbostäder",
+  "name": "STF Berguddens Fyrvaktarbost\u00e4der",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -27289,7 +25786,7 @@
   "website": "https://www.svenskaturistforeningen.se/boende/stf-berguddens-fyrvaktarbostader/",
   "wikidata": null,
   "country": null,
-  "city": "Holmön",
+  "city": "Holm\u00f6n",
   "osm": {
    "tourism": "hostel"
   },
@@ -27455,7 +25952,7 @@
   "website": null,
   "wikidata": null,
   "country": null,
-  "city": "San Nicolò di Ricadi",
+  "city": "San Nicol\u00f2 di Ricadi",
   "osm": {
    "tourism": "hotel"
   },
@@ -27549,7 +26046,7 @@
  },
  "osm:way/707603398": {
   "id": "osm:way/707603398",
-  "name": "Dyrhólaeyjarviti",
+  "name": "Dyrh\u00f3laeyjarviti",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -27687,58 +26184,37 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Pyrénées-Atlantiques, France",
+  "description": "lighthouse in Pyr\u00e9n\u00e9es-Atlantiques, France",
   "hasWikiImage": true,
-  "region": "Nouvelle-Aquitaine",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Nouvelle-Aquitaine"
  },
  "osm:way/72268409": {
   "id": "osm:way/72268409",
-  "name": "Phare de l'île de Batz",
+  "name": "Phare de l'\u00eele de Batz",
   "categories": [
    "lighthouse-hotels"
   ],
   "lat": 48.745322,
   "lng": -4.0269074,
-  "website": "http://www.iledebatz.com/découvrir/visite-du-phare",
+  "website": "http://www.iledebatz.com/d\u00e9couvrir/visite-du-phare",
   "wikidata": "Q3378446",
   "country": "France",
-  "city": "Île-de-Batz",
+  "city": "\u00cele-de-Batz",
   "osm": {
    "tourism": "viewpoint",
    "historic": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "description": "lighthouse in Finistère, France",
+  "description": "lighthouse in Finist\u00e8re, France",
   "hasWikiImage": true,
-  "region": "Brittany",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.iledebatz.com/d%c3%a9couvrir/visite-du-phare",
-   "title": "Le Phare et son exposition muséographique | Ile de Batz",
-   "description": "Le phare se situe vers la pointe ouest de l&#039;île à environ 30 minutes de marche du port.",
-   "keyword": "Phare",
-   "snippet": "Le Phare et son exposition muséographique | Ile de Batz Le phare se situe vers la pointe ouest de l&#039;île à environ 30 minutes de marche du port.  Le Phare et son exposition muséographique | Ile de Batz Aller au contenu principal Accueil Vie municipale Actualités Horaires et permanences Le conseil municipal Urbanisme Bulletins municipaux Comptes-re"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Brittany"
  },
  "osm:way/723561389": {
   "id": "osm:way/723561389",
@@ -27751,7 +26227,7 @@
   "website": "https://www.lighthouseinn.is/",
   "wikidata": null,
   "country": null,
-  "city": "Garður",
+  "city": "Gar\u00f0ur",
   "osm": {
    "tourism": "hotel"
   },
@@ -27873,7 +26349,7 @@
   "website": "http://www.ebbe-und-flut-ferienwohnungen.de",
   "wikidata": null,
   "country": null,
-  "city": "Grünendeich",
+  "city": "Gr\u00fcnendeich",
   "osm": {
    "tourism": "apartment"
   },
@@ -27884,7 +26360,7 @@
  },
  "osm:way/768427217": {
   "id": "osm:way/768427217",
-  "name": "电视塔",
+  "name": "\u7535\u89c6\u5854",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -27914,7 +26390,7 @@
   "website": "https://www.hilton.com/en/hotels/faethgi-hilton-garden-inn-faroe-islands/",
   "wikidata": null,
   "country": null,
-  "city": "Tórshavn",
+  "city": "T\u00f3rshavn",
   "osm": {
    "tourism": "hotel",
    "stars": "4"
@@ -27977,27 +26453,18 @@
   "website": "https://chassiron.jimdo.com/",
   "wikidata": "Q954613",
   "country": "France",
-  "city": "Saint-Denis-d'Oléron",
+  "city": "Saint-Denis-d'Ol\u00e9ron",
   "osm": {
    "tourism": "attraction",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Charente-Maritime, France",
   "hasWikiImage": true,
-  "region": "Nouvelle-Aquitaine",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 0,
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Nouvelle-Aquitaine"
  },
  "osm:way/781591087": {
   "id": "osm:way/781591087",
@@ -28061,7 +26528,7 @@
  },
  "osm:way/797580722": {
   "id": "osm:way/797580722",
-  "name": "Parador de Málaga Gibralfaro",
+  "name": "Parador de M\u00e1laga Gibralfaro",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -28204,7 +26671,7 @@
  },
  "osm:way/810604186": {
   "id": "osm:way/810604186",
-  "name": "Šlīteres bāka",
+  "name": "\u0160l\u012bteres b\u0101ka",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -28241,24 +26708,12 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Denmark",
   "hasWikiImage": true,
-  "region": "North Denmark Region",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.danskefyr.dk/hirsholm-fyr/",
-   "title": "Hirsholm fyr |",
-   "description": "",
-   "keyword": "fyr",
-   "snippet": "Hirsholm fyr |   Hirsholm fyr | Søg Primær menu Hop til indhold Galleri danske havnefyr Galleri Jylland Galleri Fyn Galleri Sjælland Galleri Lolland-Falster Galleri Bornholm Links Kontakt Søg efter: Hirsholm fyr Hirsholm fyr blev opført i 1887 af granit fra Hirsholmene. Det afløste det gamle fyr fra 1838. Fyret er 27 m. er højt beliggende på Ørnebjerg. Flam"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "North Denmark Region"
  },
  "osm:way/817414314": {
   "id": "osm:way/817414314",
@@ -28282,7 +26737,7 @@
  },
  "osm:way/81958354": {
   "id": "osm:way/81958354",
-  "name": "Hôtel restaurant Le Phare",
+  "name": "H\u00f4tel restaurant Le Phare",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -28728,7 +27183,7 @@
  },
  "osm:way/87404831": {
   "id": "osm:way/87404831",
-  "name": "Nallikarin näkötorni",
+  "name": "Nallikarin n\u00e4k\u00f6torni",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -29219,7 +27674,7 @@
  },
  "osm:way/95565485": {
   "id": "osm:way/95565485",
-  "name": "Blåvandshuk Fyr",
+  "name": "Bl\u00e5vandshuk Fyr",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -29241,7 +27696,7 @@
  },
  "osm:way/95569655": {
   "id": "osm:way/95569655",
-  "name": "Latarnia Morska Gdańsk Nowy Port",
+  "name": "Latarnia Morska Gda\u0144sk Nowy Port",
   "categories": [
    "lighthouse-hotels"
   ],
@@ -29250,7 +27705,7 @@
   "website": null,
   "wikidata": "Q11753140",
   "country": "PL",
-  "city": "Gdańsk",
+  "city": "Gda\u0144sk",
   "osm": {
    "tourism": "attraction",
    "historic": "yes",
@@ -29312,7 +27767,7 @@
   "website": "https://www.orangetreehostel.pl/",
   "wikidata": null,
   "country": null,
-  "city": "Będzin",
+  "city": "B\u0119dzin",
   "osm": {
    "tourism": "hostel"
   },
@@ -29454,7 +27909,7 @@
   "website": "https://www.lephare-iledere.com",
   "wikidata": null,
   "country": null,
-  "city": "Les Portes-en-Ré",
+  "city": "Les Portes-en-R\u00e9",
   "osm": {
    "tourism": "camp_site",
    "stars": "4"
@@ -29480,24 +27935,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in London, United Kingdom",
   "hasWikiImage": true,
-  "region": "England",
-  "category": "treehouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.treehousehotels.com/london",
-   "title": "Treehouse Hotel London - Luxury Boutique Hotel in Marylebone",
-   "description": "Welcome to your London perch. Up here feels like your secret playground with world-class views of the London Eye, The Shard, Canary Wharf, and Regent’s Park.",
-   "keyword": "Treehouse",
-   "snippet": "Treehouse Hotel London - Luxury Boutique Hotel in Marylebone Welcome to your London perch. Up here feels like your secret playground with world-class views of the London Eye, The Shard, Canary Wharf, and Regent’s Park.  Treehouse Hotel London - Luxury Boutique Hotel in Marylebone Skip to main content Gather in the treetops plan your special moment"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "England"
  },
  "wd:Q111051832": {
   "id": "wd:Q111051832",
@@ -29852,27 +28295,15 @@
   "website": "https://www.hotel-lighthouse.de/",
   "wikidata": "Q111388503",
   "country": "Germany",
-  "city": "Büsum",
-  "description": "hotel in Büsum, Germany",
+  "city": "B\u00fcsum",
+  "description": "hotel in B\u00fcsum, Germany",
   "source": "wikidata",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "duplicateOf": "osm:way/674379446",
   "hasWikiImage": false,
-  "region": "Schleswig-Holstein",
-  "category": "lighthouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.hotel-lighthouse.de/",
-   "title": "Hotel in Büsum | Lighthouse Hotel & Spa",
-   "description": "Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!",
-   "keyword": "Lighthouse",
-   "snippet": "Hotel in Büsum | Lighthouse Hotel & Spa Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!  Hotel in Büsum | Lighthouse Hotel & Spa --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Hotel Wohnen Zimmer Suiten Hafen Apartments Ü"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Schleswig-Holstein"
  },
  "wd:Q111394539": {
   "id": "wd:Q111394539",
@@ -30032,24 +28463,12 @@
   "city": "Chandigarh",
   "description": "hotel in Chandigarh, India",
   "source": "wikidata",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "duplicateOf": "osm:node/10749422582",
   "hasWikiImage": false,
-  "region": "Chandigarh",
-  "category": "treehouse-hotels",
-  "score": 8,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.lemontreehotels.com/lemon-tree-hotel/chandigarh/hotel-chandigarh",
-   "title": "Hotels in Chandigarh - Lemon Tree Hotel, Chandigarh",
-   "description": "Lemon Tree Hotel, Chandigarh - Best Hotels in Chandigarh located near Zirakpur &amp; Panchkula. Book direct to get exclusive deals, Complimentary Breakfast, Free WiFi and Pay at Hotel!",
-   "keyword": "Tree Hotel",
-   "snippet": "Hotels in Chandigarh - Lemon Tree Hotel, Chandigarh Lemon Tree Hotel, Chandigarh - Best Hotels in Chandigarh located near Zirakpur &amp; Panchkula. Book direct to get exclusive deals, Complimentary Breakfast, Free WiFi and Pay at Hotel!  Hotels in Chandigarh - Lemon Tree Hotel, Chandigarh --> Lemon Tree Hotels accepts payments through UPI, net banking, debit, and credit card t"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Chandigarh"
  },
  "wd:Q111402486": {
   "id": "wd:Q111402486",
@@ -30063,7 +28482,7 @@
   "wikidata": "Q111402486",
   "country": null,
   "city": null,
-  "description": "hotel in Sawāi Mādhopur, India",
+  "description": "hotel in Saw\u0101i M\u0101dhopur, India",
   "source": "wikidata",
   "status": "new",
   "firstSeen": "2026-09-29",
@@ -30102,25 +28521,11 @@
   "city": "Kuala Lumpur",
   "description": "hotel in Kuala Lumpur, Malaysia",
   "source": "wikidata",
-  "status": "rejected",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "hasWikiImage": false,
-  "region": null,
-  "category": "treehouse-hotels",
-  "score": 2,
-  "evidence": {
-   "status": 403,
-   "url": "https://www.banyantree.com/en/malaysia/pavilion-hotel",
-   "title": "Access Denied",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": [
-   "category not confirmed"
-  ]
+  "region": null
  },
  "wd:Q111409642": {
   "id": "wd:Q111409642",
@@ -30243,7 +28648,7 @@
   "wikidata": "Q111861272",
   "country": null,
   "city": null,
-  "description": "hotel in Jhānsi, India",
+  "description": "hotel in Jh\u0101nsi, India",
   "source": "wikidata",
   "status": "new",
   "firstSeen": "2026-09-29",
@@ -30558,7 +28963,7 @@
  },
  "wd:Q112002391": {
   "id": "wd:Q112002391",
-  "name": "Baobab Tree Hôtel & Spa",
+  "name": "Baobab Tree H\u00f4tel & Spa",
   "categories": [
    "treehouse-hotels"
   ],
@@ -30720,7 +29125,7 @@
  },
  "wd:Q112021365": {
   "id": "wd:Q112021365",
-  "name": "El Edén Treehouse",
+  "name": "El Ed\u00e9n Treehouse",
   "categories": [
    "treehouse-hotels"
   ],
@@ -30858,23 +29263,11 @@
   "city": "West Oxfordshire",
   "description": "hotel in Burford, West Oxfordshire, England, UK",
   "source": "wikidata",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "hasWikiImage": true,
-  "region": "England",
-  "category": "treehouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 404,
-   "url": "https://www.cotswold-inns-hotels.co.uk/property/the_bay_tree_hotel/",
-   "title": "Page Not Found - Cotswold Inns &amp; Hotels",
-   "description": "",
-   "keyword": null,
-   "snippet": null
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "England"
  },
  "wd:Q26537525": {
   "id": "wd:Q26537525",
@@ -30980,22 +29373,10 @@
   "city": "City of Edinburgh",
   "description": "former lighthouse service ship which has been converted into a floating hotel permanently berthed in Leith, Edinburgh",
   "source": "wikidata",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "hasWikiImage": true,
-  "region": "Scotland",
-  "category": "lighthouse-hotels",
-  "score": 5,
-  "evidence": {
-   "status": 200,
-   "url": "https://www.fingal.co.uk/",
-   "title": "Fingal | 5-star Luxury Boutique Hotel Edinburgh, Scotland",
-   "description": "Discover Fingal, a 5-star luxury boutique floating hotel &amp; exclusive use venue in Leith, with 23 beautifully styled cabins by The Royal Yacht Britannia.",
-   "keyword": "Lighthouse",
-   "snippet": "Edinburgh, Scotland Discover Fingal, a 5-star luxury boutique floating hotel &amp; exclusive use venue in Leith, with 23 beautifully styled cabins by The Royal Yacht Britannia.  Fingal | 5-star Luxury Boutique Hotel Edinburgh, Scotland Rooms Suites Lighthouse Restaurant Packages Offers Events Meetings Weddings What s On Gift Vouchers Christmas Hogmanay Gift Vouchers Book a Table Book a Stay Back Overview Luxury Cabin Skerryvore Suite Luxury Duplex Suite Classic Duplex Suite Classic Cabin Back Overview Dining Afternoon Tea Cream Tea Cocktails Breakfast Fingal Deck Gift Vouchers Book a Table Bo"
-  },
-  "checkedAt": "2026-09-29",
-  "reasons": []
+  "region": "Scotland"
  }
 }

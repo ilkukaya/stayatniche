@@ -6,8 +6,9 @@ export const LODGING = 'hotel|guest_house|chalet|hostel|camp_site|apartment|mote
 
 export const CATEGORIES = {
   'treehouse-hotels': {
-    name: 'tree ?house|treehotel|tree hotel|treetop|baumhaus|cabanes? (dans les|perch)|boomhut|trädkoja|trehytte|casa (en el|na) árvore|casa del árbol',
-    site: /tree ?house|treehouse|treetop|tree hotel|baumhaus|cabane perch|cabane dans les arbres|boomhut|trädkoja|in the trees|canopy suite/i,
+    name: 'tree ?house|treehotel|treetop|baumhaus|cabanes? (dans les|perch)|boomhut|trädkoja|trehytte|casa (en el|na) árvore|casa del árbol',
+    site: /tree ?house (room|suite|cabin|villa|accommodation|stay)|treehouses|treetop (room|suite|cabin|lodge|villa)|rooms? (up )?in the trees|(built|perched|suspended) in(to)? the trees|baumhaus|cabane dans les arbres|cabanes perchées|trädkoja/i,
+    exclude: /lemon tree|double ?tree|apple tree|bay tree|pear tree|olive tree|plum tree|rain ?tree|palm tree|portree|pine tree|oak tree|elm tree|yew tree|treehouse hotel (london|manchester)/i,
   },
   'cave-hotels': {
     name: 'cave|cueva|grotta|grotte|mağara|magara|troglo|höhle|caverna|sassi',
@@ -56,8 +57,9 @@ export const CATEGORIES = {
   },
   'lighthouse-hotels': {
     name: 'lighthouse|light house|fyr|phare|faro|leuchtturm|vuurtoren|majakka|fyrvokter',
-    site: /lighthouse|keeper'?s cottage|fyr|phare|faro|leuchtturm|vuurtoren/i,
-    extra: ['nwr["man_made"="lighthouse"]["tourism"];'],
+    site: /(stay|sleep|overnight|night|room|suite|accommodation|holiday (let|cottage)|rent)[^.]{0,80}(lighthouse|keeper'?s (house|cottage))|(lighthouse|keeper'?s (house|cottage))[^.]{0,80}(stay|sleep|overnight|rooms?|suites?|accommodation|holiday (let|cottage)|rental)/i,
+    exclude: /museum|ruinas|ruins/i,
+    extra: ['nwr["man_made"="lighthouse"]["tourism"~"^(hotel|guest_house|chalet|hostel|apartment|motel)$"];'],
   },
   'train-hotels': {
     name: 'train|railway|carriage|wagon|waggon|caboose|sleeper|pullman|eisenbahn|zug|vagón|vagone',
