@@ -9,22 +9,22 @@ const c = encodeURIComponent(country);
 const esimSlug = country.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
 const airaloUrl = ['usa', 'uk', 'england', 'scotland'].includes(esimSlug) ? 'https://www.airalo.com/' : `https://www.airalo.com/${esimSlug}-esim`;
 const t = (p: string, u: string) => tpLink(p, u, `essentials_${subId}`);
-const ICON: Record<string, string> = {"Flights": "M2.5 19h19M3 13.5l4.5 1.2L17 7.8a2 2 0 012.8 2.8l-6.9 9.6-2.3-.6 2.1-5.2-4.4-1.2-1.5 2.1-1.8-.5z", "Airport transfer": "M5 17h14M6 17V9l2-4h8l2 4v8M6 11h12M8 17v2M16 17v2M8.5 14h.01M15.5 14h.01", "Car hire": "M4 16v-4l2-5h12l2 5v4M4 16h16M7 19a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17 19a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM6 12h12", "Tours & activities": "M12 3l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.4 6.8 19.1l1-5.8L3.5 9.2l5.9-.9z", "Attraction tickets": "M4 8a2 2 0 002-2h12a2 2 0 002 2v2a2 2 0 000 4v2a2 2 0 00-2 2H6a2 2 0 00-2-2v-2a2 2 0 000-4zM14 6v12", "Luggage storage": "M7 7h10a1 1 0 011 1v11a1 1 0 01-1 1H7a1 1 0 01-1-1V8a1 1 0 011-1zM9 7V4h6v3M10 11v5M14 11v5", "Mobile data (eSIM)": "M8 3h6l4 4v13a1 1 0 01-1 1H8a1 1 0 01-1-1V4a1 1 0 011-1zM10 12h4v5h-4z", "Travel insurance": "M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6zM9 12l2 2 4-4", "Flight delayed?": "M12 21a8 8 0 100-16 8 8 0 000 16zM12 9v4l2.5 2.5M9 2h6"};
+const ICON: Record<string, string> = {"Flights": "M2.5 19h19M3 13.5l4.5 1.2L17 7.8a2 2 0 012.8 2.8l-6.9 9.6-2.3-.6 2.1-5.2-4.4-1.2-1.5 2.1-1.8-.5z", "Transfers": "M5 17h14M6 17V9l2-4h8l2 4v8M6 11h12M8 17v2M16 17v2M8.5 14h.01M15.5 14h.01", "Car hire": "M4 16v-4l2-5h12l2 5v4M4 16h16M7 19a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17 19a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM6 12h12", "Tours": "M12 3l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.4 6.8 19.1l1-5.8L3.5 9.2l5.9-.9z", "Tickets": "M4 8a2 2 0 002-2h12a2 2 0 002 2v2a2 2 0 000 4v2a2 2 0 00-2 2H6a2 2 0 00-2-2v-2a2 2 0 000-4zM14 6v12", "Luggage": "M7 7h10a1 1 0 011 1v11a1 1 0 01-1 1H7a1 1 0 01-1-1V8a1 1 0 011-1zM9 7V4h6v3M10 11v5M14 11v5", "eSIM data": "M8 3h6l4 4v13a1 1 0 01-1 1H8a1 1 0 01-1-1V4a1 1 0 011-1zM10 12h4v5h-4z", "Insurance": "M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6zM9 12l2 2 4-4", "Flight delays": "M12 21a8 8 0 100-16 8 8 0 000 16zM12 9v4l2.5 2.5M9 2h6"};
 const groups = [
   { title: 'Getting there', items: [
     ['Flights', 'Kiwi.com', t('', 'https://www.kiwi.com/en/')],
-    ['Airport transfer', 'Welcome Pickups', t('', 'https://www.welcomepickups.com/')],
+    ['Transfers', 'Welcome Pickups', t('', 'https://www.welcomepickups.com/')],
     ['Car hire', 'Localrent', t('', 'https://localrent.com/en/')],
   ]},
   { title: 'While you’re there', items: [
-    ['Tours & activities', 'Klook', t('', `https://www.klook.com/en-US/search-results/?query=${c}`)],
-    ['Attraction tickets', 'Tiqets', t('', 'https://www.tiqets.com/en/')],
-    ['Luggage storage', 'Radical Storage', t('', 'https://radicalstorage.com/')],
+    ['Tours', 'Klook', t('', `https://www.klook.com/en-US/search-results/?query=${c}`)],
+    ['Tickets', 'Tiqets', t('', 'https://www.tiqets.com/en/')],
+    ['Luggage', 'Radical Storage', t('', 'https://radicalstorage.com/')],
   ]},
   { title: 'Before you go', items: [
-    ['Mobile data (eSIM)', 'Airalo', t('', airaloUrl)],
-    ['Travel insurance', 'EKTA', t('', 'https://ekta.travel/')],
-    ['Flight delayed?', 'AirHelp', t('', 'https://www.airhelp.com/')],
+    ['eSIM data', 'Airalo', t('', airaloUrl)],
+    ['Insurance', 'EKTA', t('', 'https://ekta.travel/')],
+    ['Flight delays', 'AirHelp', t('', 'https://www.airhelp.com/')],
   ]},
 ];
 ---
@@ -41,7 +41,7 @@ const groups = [
               <span class="grid h-10 w-10 flex-shrink-0 place-items-center rounded-lg bg-forest-50 text-forest-700 transition group-hover:bg-forest-700 group-hover:text-white">
                 <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d={ICON[label]} /></svg>
               </span>
-              <span class="min-w-0 flex-1"><span class="block font-body text-sm font-semibold text-warm-950">{label}</span><span class="block font-body text-xs text-warm-500">via {brand}</span></span>
+              <span class="min-w-0 flex-1"><span class="block font-body text-sm font-semibold text-warm-950">{label}</span><span class="block truncate font-body text-xs text-warm-500">via {brand}</span></span>
               <span class="text-warm-400 transition group-hover:translate-x-0.5 group-hover:text-forest-700" aria-hidden="true">↗</span>
             </a></li>
           ))}
