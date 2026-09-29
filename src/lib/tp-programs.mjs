@@ -28,8 +28,40 @@ export const APPROVED = [
 export const hostKey = (host) => host.replace(/^www\./, '').toLowerCase();
 export const isPartner = (host) => APPROVED.some(d => hostKey(host) === d || hostKey(host).endsWith('.' + d));
 
-/** Tracked link for verified programs, otherwise the URL unchanged (Drive converts it). */
-export function partnerLink(url, subId) {
+// Partner deep links we could not verify (search pages for small places often 404 or bounce
+// to the homepage) are sent to a stable landing page instead. Tracking works the same way.
+// Tested on the live site 2026-09-29: Kiwi, Welcome Pickups, Localrent, Tiqets search,
+// Radical Storage city links did not land on a useful page for small destinations.
+const SAFE_LANDING = {
+  'kiwi.com': 'https://www.kiwi.com/en/',
+  'welcomepickups.com': 'https://www.welcomepickups.com/',
+  'localrent.com': 'https://localrent.com/en/',
+  'tiqets.com': 'https://www.tiqets.com/en/',
+  'radicalstorage.com': 'https://radicalstorage.com/',
+  'kiwitaxi.com': 'https://kiwitaxi.com/',
+  'gettransfer.com': 'https://gettransfer.com/',
+  'qeeq.com': 'https://www.qeeq.com/',
+  'autoeurope.com': 'https://www.autoeurope.com/',
+  'economybookings.com': 'https://www.economybookings.com/',
+  'intui.travel': 'https://intui.travel/',
+  'bikebooking.com': 'https://www.bikesbooking.com/',
+  'bikesbooking.com': 'https://www.bikesbooking.com/',
+  'getrentacar.com': 'https://getrentacar.com/',
+  'aviasales.com': 'https://www.aviasales.com/',
+  'wegotrip.com': 'https://wegotrip.com/',
+};
+/** Keep homepages and deep links on hosts we trust; replace guessed deep links with a stable page. */
+export function safeUrl(url) {
+  let u;
+  try { u = new URL(url); } catch { return url; }
+  const landing = SAFE_LANDING[hostKey(u.hostname)];
+  const isRoot = (u.pathname === '/' || /^\/[a-z]{2}(-[a-z]{2})?\/?$/i.test(u.pathname)) && !u.search;
+  return landing && !isRoot ? landing : url;
+}
+
+/** Tracked link for verified programs, otherwise the (safe) URL for Drive to convert. */
+export function partnerLink(rawUrl, subId) {
+  const url = safeUrl(rawUrl);
   let u;
   try { u = new URL(url); } catch { return url; }
   const v = VERIFIED[hostKey(u.hostname)];
