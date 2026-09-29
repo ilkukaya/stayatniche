@@ -40,7 +40,7 @@ const OUT_DIR = MODE === 'destinations' ? 'public/images/destinations' : 'public
 const KEY = (slug) => (MODE === 'destinations' ? `dest:${slug}` : slug);
 if (MODE === 'destinations') { MAX_KM_OVERRIDE = 900; }
 const hotels = readdirSync(`src/content/${MODE}`).filter(f => f.endsWith('.md')).map(f => {
-  const t = readFileSync(`src/content/hotels/${f}`, 'utf8').split('---')[1];
+  const t = readFileSync(`src/content/${MODE}/${f}`, "utf8").split('---')[1];
   const lat = +(t.match(/lat:\s*(-?[\d.]+)/) ?? [])[1], lng = +(t.match(/lng:\s*(-?[\d.]+)/) ?? [])[1];
   const slug = f.replace(/\.md$/, '');
   return { slug, name: MODE === 'destinations' ? (LANDMARKS[slug] ?? fm(t, 'name')) : fm(t, 'name'), lat, lng };

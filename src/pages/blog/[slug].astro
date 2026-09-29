@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
 import { getCollection } from 'astro:content';
 import { withTracking } from '../../lib/affiliate';
+import { guideImage } from '../../lib/images';
 import AdSlot from '../../components/AdSlot.astro';
 
 export async function getStaticPaths() {
@@ -13,6 +14,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await post.render();
 
+const cover = guideImage(post, await getCollection('destinations'));
 const allHotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
 const relatedHotels = post.data.relatedHotels?.length
   ? allHotels.filter(h => post.data.relatedHotels.includes(h.slug))
@@ -52,11 +54,11 @@ const articleJsonLd = {
   },
   ...(post.data.publishedDate ? { "datePublished": new Date(post.data.publishedDate).toISOString() } : {}),
   ...(post.data.updatedDate ? { "dateModified": new Date(post.data.updatedDate).toISOString() } : {}),
-  "image": post.data.coverImage?.startsWith('http') ? post.data.coverImage : 'https://stayatniche.com/og-default.png',
+  "image": `https://stayatniche.com${cover}`,
 };
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} type="article" publishedTime={new Date(post.data.publishedDate).toISOString()} updatedTime={(post.data.updatedDate ?? post.data.publishedDate) && new Date(post.data.updatedDate ?? post.data.publishedDate).toISOString()}>
+<BaseLayout title={metaTitle} description={metaDesc} image={cover} type="article" publishedTime={new Date(post.data.publishedDate).toISOString()} updatedTime={(post.data.updatedDate ?? post.data.publishedDate) && new Date(post.data.updatedDate ?? post.data.publishedDate).toISOString()}>
 
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />
@@ -109,10 +111,10 @@ const articleJsonLd = {
     </section>
 
     <!-- Cover image -->
-    {post.data.coverImage && (
+    {cover && (
       <section class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 -mt-2 mb-12">
         <div class="rounded-3xl overflow-hidden h-72 sm:h-96">
-          <img src={post.data.coverImage} alt={post.data.title} class="w-full h-full object-cover" />
+          <img src={cover} alt="" class="w-full h-full object-cover" fetchpriority="high" />
         </div>
       </section>
     )}

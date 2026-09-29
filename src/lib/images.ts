@@ -106,3 +106,17 @@ export const CATEGORY_TONE: Record<string, [string, string]> = {
   'lighthouse-hotels': ['#E5E1DA', '#3B3530'],
   'train-hotels': ['#E6DDD8', '#4A2B2B'],
 };
+
+/** Cover for a guide: its category's photo, else a matching destination photo, else the site cover. */
+export function guideImage(post: { data: { coverImage?: string; tags?: string[]; category?: string; title?: string } }, destinations: { slug: string; data: { name: string } }[] = []): string {
+  const own = post.data.coverImage && !/^https?:/.test(post.data.coverImage) && existsSync(join(PUBLIC, post.data.coverImage)) ? post.data.coverImage : null;
+  if (own) return own;
+  const tags = post.data.tags ?? [];
+  for (const t of tags) if (CATEGORY_ART.has(t) && INDEX.has(t)) return INDEX.get(t)!;
+  const title = (post.data.title ?? '').toLowerCase();
+  for (const t of tags) if (destinations.some(d => d.slug === t) && INDEX.has(t)) return INDEX.get(t)!;
+  const hit = destinations.find(d => INDEX.has(d.slug) && title.includes(d.data.name.split(',')[0].toLowerCase()));
+  if (hit) return INDEX.get(hit.slug)!;
+  for (const cat of CATEGORY_ART) if (title.includes(cat.replace(/-hotels|-rooms|-camps|-lodges/, '').replace('-', ' ')) && INDEX.has(cat)) return INDEX.get(cat)!;
+  return INDEX.get('hero') ?? '/og-default.png';
+}

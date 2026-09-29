@@ -93,17 +93,22 @@ const fmt = (d: Date | string) => new Date(d).toLocaleDateString('en-US', { mont
     </div>
   </section>
 
-  <!-- CATEGORY RAIL -->
+  <!-- CATEGORY RAIL: photo chips -->
   <nav class="sticky top-16 z-30 border-b border-warm-200 bg-warm-50/95 backdrop-blur" aria-label="Kinds of stay">
-    <ul class="scrollbar-hide mx-auto flex max-w-7xl gap-6 overflow-x-auto px-4 sm:px-6 lg:justify-between lg:px-8">
-      {cats.map(c => (
-        <li class="flex-shrink-0">
-          <a href={`/hotels/?type=${c.slug}`} class="group flex flex-col items-center gap-1.5 border-b-2 border-transparent pb-3 pt-4 text-warm-500 transition hover:border-warm-300 hover:text-warm-950">
-            <CategoryIcon slug={c.slug} size={24} strokeWidth={1.5} />
-            <span class="whitespace-nowrap font-body text-xs font-medium">{c.data.title.replace(/ (Hotels|Rooms)$/, '')}</span>
-          </a>
-        </li>
-      ))}
+    <ul class="scrollbar-hide mx-auto flex max-w-7xl gap-5 overflow-x-auto px-4 py-4 sm:px-6 lg:gap-2 lg:justify-between lg:px-8">
+      {cats.map(c => {
+        const img = ownPhoto(c.data.coverImage, c.slug);
+        return (
+          <li class="flex-shrink-0">
+            <a href={`/hotels/?type=${c.slug}`} class="group flex w-[76px] flex-col items-center gap-2 text-center">
+              <span class="relative block h-14 w-14 overflow-hidden rounded-full ring-2 ring-transparent ring-offset-2 ring-offset-warm-50 transition group-hover:ring-gold-500 sm:h-16 sm:w-16">
+                {img ? <img src={img} alt="" class="h-full w-full object-cover transition duration-500 group-hover:scale-110" loading="lazy" width="128" height="128" /> : <span class="grid h-full w-full place-items-center bg-warm-100 text-forest-700"><CategoryIcon slug={c.slug} size={22} /></span>}
+              </span>
+              <span class="font-body text-[12px] font-semibold leading-tight text-warm-700 group-hover:text-warm-950">{c.data.title.replace(/ (Hotels|Rooms)$/, '')}</span>
+            </a>
+          </li>
+        );
+      })}
     </ul>
   </nav>
 

@@ -23,4 +23,5 @@ jobs:
           git add public/images/hotels public/images/destinations src/data/photo-credits.json
           git diff --cached --quiet && echo "No new photos" && exit 0
           git commit -m "Add free-licensed photos from Wikimedia Commons"
+          git pull --rebase origin ${GITHUB_REF_NAME}
           git push origin HEAD:${GITHUB_REF_NAME}

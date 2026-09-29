@@ -79,5 +79,644 @@
     "wikidata": "https://www.wikidata.org/wiki/Q62949281",
     "matched": "Treehotel",
     "distanceKm": 6.7
+  },
+  "dest:alaska": {
+    "author": "You may select the license of your choice.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Wonder_Lake,_Denali2.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q217136",
+    "matched": "Denali National Park and Preserve",
+    "distanceKm": 192.7
+  },
+  "dest:argentina-mendoza": {
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q39739",
+    "matched": "Aconcagua",
+    "distanceKm": 113.9
+  },
+  "dest:arizona-sedona": {
+    "author": "Terrydarc",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cathedral_Rock_-_Sedona_AZ-1.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q5052274",
+    "matched": "Cathedral Rock",
+    "distanceKm": 6.3
+  },
+  "dest:australia-outback": {
+    "author": "Thomas Schoch",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Uluru_on_July_30,_2005.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q33910",
+    "matched": "Uluru",
+    "distanceKm": 0.1
+  },
+  "dest:bali-indonesia": {
+    "author": "Stefan Fussan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tegallalang_rice_terraces_SF0001.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q123510179",
+    "matched": "Tegallalang Rice Terraces",
+    "distanceKm": 23.1
+  },
+  "dest:bhutan": {
+    "author": "Original: Nina R from Africa Derivative work: UnpetitproleX",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2209873",
+    "matched": "Paro Taktsang",
+    "distanceKm": 105.6
+  },
+  "dest:bora-bora": {
+    "author": "Borabora.jpg: User:Taka-0905 derivative work: Alvaro qc (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Borabora-2.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1945409",
+    "matched": "Otemanu",
+    "distanceKm": 0.9
+  },
+  "dest:california-big-sur": {
+    "author": "Astronautilus",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bixby_Creek_Bridge.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q4919293",
+    "matched": "Bixby Creek Bridge",
+    "distanceKm": 14
+  },
+  "dest:california-joshua-tree": {
+    "author": "Sergiy Galyonkin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_National_Park_2025.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q735202",
+    "matched": "Joshua Tree National Park",
+    "distanceKm": 15.8
+  },
+  "dest:cambodia": {
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q43473",
+    "matched": "Angkor Wat",
+    "distanceKm": 154
+  },
+  "dest:cappadocia": {
+    "author": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Goreme_valley.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q620593",
+    "matched": "Göreme National Park",
+    "distanceKm": 3.2
+  },
+  "dest:colorado": {
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maroon_Bells_(11553)a.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1400310",
+    "matched": "Maroon Bells",
+    "distanceKm": 116.7
+  },
+  "dest:costa-rica": {
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q641588",
+    "matched": "Arenal Volcano",
+    "distanceKm": 130.8
+  },
+  "dest:ecuador-cloud-forest": {
+    "author": "GreenockBeejamin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ecuador_Mindo_Hill_Scene.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q3081485",
+    "matched": "Mindo",
+    "distanceKm": 208.7
+  },
+  "dest:ecuador-galapagos": {
+    "author": "Pete from USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bartoleme_Island.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q408206",
+    "matched": "Bartolomé Island",
+    "distanceKm": 87.6
+  },
+  "dest:ethiopia": {
+    "author": "Ondřej Žváček",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Simiensk%C3%A9_hory.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q504315",
+    "matched": "Simien Mountains National Park",
+    "distanceKm": 521
+  },
+  "dest:finland": {
+    "author": "MattiPaavola",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harrij%C3%A4rvi_UK-puisto_02.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q1537700",
+    "matched": "Urho Kekkonen National Park",
+    "distanceKm": 723.4
+  },
+  "dest:georgia-blue-ridge": {
+    "author": "Unknown",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Brasstown_Bald_Visit.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q842924",
+    "matched": "Brasstown Bald",
+    "distanceKm": 46.7
+  },
+  "dest:greece-santorini": {
+    "author": "Meersan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Greece_Santorini_Oia_Coast_by_day.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q1655349",
+    "matched": "Oia",
+    "distanceKm": 10.9
+  },
+  "dest:iceland": {
+    "author": "Gerd Eichmann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skogafoss-02-2018-gje.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1130718",
+    "matched": "Skógafoss",
+    "distanceKm": 161.2
+  },
+  "dest:idaho-sun-valley": {
+    "author": "Fredlyfish4",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sawtooth_Range.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q7428707",
+    "matched": "Sawtooth Range",
+    "distanceKm": 58.4
+  },
+  "dest:indonesia-komodo": {
+    "author": "anoldent from Asheville, NC, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Adelaar_off_Padar_Island_(1998).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1134717",
+    "matched": "Padar Besar Island",
+    "distanceKm": 15.6
+  },
+  "dest:israel": {
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q186312",
+    "matched": "Masada",
+    "distanceKm": 56.4
+  },
+  "dest:japan-kyoto": {
+    "author": "Martin Falbisoner",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-02.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q221716",
+    "matched": "Kiyomizu-dera",
+    "distanceKm": 2.4
+  },
+  "dest:japan": {
+    "author": "名古屋太郎, (edited by Hannes_24)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kodaki_fuji_frm_shojinko_refurb.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q39231",
+    "matched": "Mount Fuji",
+    "distanceKm": 103.2
+  },
+  "dest:jordan": {
+    "author": "Raya Sharbain",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_in_December.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q40729",
+    "matched": "Wadi Rum",
+    "distanceKm": 137
+  },
+  "dest:kenya": {
+    "author": "Morris Pügner",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Mara_River_Massai_Mara.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q207724",
+    "matched": "Masai Mara",
+    "distanceKm": 348.1
+  },
+  "dest:laos-luang-prabang": {
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2584261",
+    "matched": "Kuang Si Falls",
+    "distanceKm": 21.2
+  },
+  "dest:louisiana-bayou": {
+    "author": "U.S. Army Corps of Engineers, photographer not specified or unknown",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Atchafalaya_Basin.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q753927",
+    "matched": "Atchafalaya Basin",
+    "distanceKm": 57.1
+  },
+  "dest:madagascar": {
+    "author": "Hanay",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Avenue_of_the_Baobabs_in_Madagascar_near_the_city_of_Morondava_at_sunrise_(34).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q788084",
+    "matched": "Avenue of the Baobabs",
+    "distanceKm": 305.3
+  },
+  "dest:maine": {
+    "author": "Plh1234us",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Acadia_National_Park_02.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q337396",
+    "matched": "Acadia National Park",
+    "distanceKm": 139.6
+  },
+  "dest:massachusetts-cape-cod": {
+    "author": "SeduisantRedux",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Race_point_sunset.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q943754",
+    "matched": "Cape Cod National Seashore",
+    "distanceKm": 32.7
+  },
+  "dest:matera": {
+    "author": "Bönisch",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Matera_boenisch_nov_2005.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2350404",
+    "matched": "Sassi di Matera",
+    "distanceKm": 0.3
+  },
+  "dest:michigan-upper-peninsula": {
+    "author": "National Park Service",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Pictured_Rocks_Bridalveil_Falls.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q3382575",
+    "matched": "Pictured Rocks National Lakeshore",
+    "distanceKm": 27.2
+  },
+  "dest:minnesota-boundary-waters": {
+    "author": "R27182818 at English Wikipedia (Original text: Reid Priedhorsky (R27182818))",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Pose_lake_Minnesota.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q14692538",
+    "matched": "Boundary Waters Canoe Area Wilderness",
+    "distanceKm": 41.3
+  },
+  "dest:montana": {
+    "author": "U.S. National Park Service",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Mary_Lake_and_Wildgoose_Island.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q373567",
+    "matched": "Glacier National Park",
+    "distanceKm": 330.6
+  },
+  "dest:morocco-atlas": {
+    "author": "Wonker from London, United Kingdom",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ait_Ben_Haddou_3.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q309436",
+    "matched": "Aït Benhaddou",
+    "distanceKm": 82.6
+  },
+  "dest:myanmar-inle-lake": {
+    "author": "Shelly Zohar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inle_lake,_Myanmar._III.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1043461",
+    "matched": "Inle Lake",
+    "distanceKm": 1.7
+  },
+  "dest:nepal": {
+    "author": "Wolfgang Beyer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Annapurna_I.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q159621",
+    "matched": "Annapurna",
+    "distanceKm": 37.2
+  },
+  "dest:nevada-great-basin": {
+    "author": "Unknown",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:ParkFromLexRoad_GreatBasin.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1137657",
+    "matched": "Great Basin National Park",
+    "distanceKm": 7.3
+  },
+  "dest:new-mexico-santa-fe": {
+    "author": "uncredited NPS employee",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_dunefield,_White_Sands_National_Park,_New_Mexico,_United_States.png",
+    "wikidata": "https://www.wikidata.org/wiki/Q1200164",
+    "matched": "White Sands National Park",
+    "distanceKm": 324
+  },
+  "dest:new-york-catskills": {
+    "author": "Mwanner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaaterskill_Falls.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q38743",
+    "matched": "Kaaterskill Falls",
+    "distanceKm": 26.2
+  },
+  "dest:new-zealand-south-island": {
+    "author": "Wikikiwiman (English Wikipedia)",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:MilfordSound.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q187197",
+    "matched": "Milford Sound / Piopiotahi",
+    "distanceKm": 361.3
+  },
+  "dest:north-carolina-outer-banks": {
+    "author": "Henryhartley",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Cape_hatteras_lighthouse_img_0529.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2508238",
+    "matched": "Cape Hatteras Lighthouse",
+    "distanceKm": 34.8
+  },
+  "dest:norway": {
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fiordo_de_Geiranger_desde_Flydalsjuvet,_Noruega,_2019-09-07,_DD_61.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q193989",
+    "matched": "Geirangerfjord",
+    "distanceKm": 195.1
+  },
+  "dest:oman": {
+    "author": "Andries Oudshoorn",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_Shab_(9).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q3409476",
+    "matched": "Wadi Shab",
+    "distanceKm": 369.4
+  },
+  "dest:pacific-northwest": {
+    "author": "Walter Siegmund (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Rainier_5917s.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q194057",
+    "matched": "Mount Rainier",
+    "distanceKm": 126.2
+  },
+  "dest:papua-new-guinea": {
+    "author": "Larry V. Dumlao",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tufi_Town.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q7851499",
+    "matched": "Tufi",
+    "distanceKm": 666.1
+  },
+  "dest:patagonia": {
+    "author": "LBM1948",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Laguna_Azul_09.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q901646",
+    "matched": "Torres del Paine National Park",
+    "distanceKm": 183.5
+  },
+  "dest:peru-amazon": {
+    "author": "Martin St-Amant (S23678)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q676203",
+    "matched": "Machu Picchu",
+    "distanceKm": 517.4
+  },
+  "dest:rwanda": {
+    "author": "Dave Proffer",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parc_National_Des_Volcans_-_Flickr_-_Dave_Proffer_(4).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q932736",
+    "matched": "Volcanoes National Park",
+    "distanceKm": 67.5
+  },
+  "dest:scotland": {
+    "author": "Wojsyl",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Scotland_Glencoe.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q92671",
+    "matched": "Glen Coe",
+    "distanceKm": 51.9
+  },
+  "dest:smoky-mountains": {
+    "author": "Scott Basford",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Smoky_Mountains_Overlook.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q464004",
+    "matched": "Great Smoky Mountains National Park",
+    "distanceKm": 5.8
+  },
+  "dest:south-africa-cape": {
+    "author": "Danie van der Merwe from Cape Town, South Africa",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q213360",
+    "matched": "Table Mountain",
+    "distanceKm": 4.3
+  },
+  "dest:south-carolina-lowcountry": {
+    "author": "Galen Parks Smith",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Angel_Oak_Johns_Island_SC_horz.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q4762234",
+    "matched": "Angel Oak",
+    "distanceKm": 63.8
+  },
+  "dest:south-dakota-badlands": {
+    "author": "Martin Kraft",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MK00609_Badlands.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q306216",
+    "matched": "Badlands National Park",
+    "distanceKm": 17.4
+  },
+  "dest:sri-lanka": {
+    "author": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Sigiriya_Apprach.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q272153",
+    "matched": "Sigiriya",
+    "distanceKm": 9.4
+  },
+  "dest:swedish-lapland": {
+    "author": "q8",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abiskoj%C3%A5kka.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q953092",
+    "matched": "Abisko National Park",
+    "distanceKm": 82.6
+  },
+  "dest:texas-hill-country": {
+    "author": "Shane Torgerson",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Erock.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q260281",
+    "matched": "Enchanted Rock",
+    "distanceKm": 45.6
+  },
+  "dest:thailand-northern": {
+    "author": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:InthanonChedi1.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1140075",
+    "matched": "Doi Inthanon",
+    "distanceKm": 56.9
+  },
+  "dest:turkey": {
+    "author": "Юрій Хижняк (YuraHiz…",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PAMUKKALE_-_panoramio.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q420157",
+    "matched": "Pamukkale district",
+    "distanceKm": 551.7
+  },
+  "dest:tuscany": {
+    "author": "Stefanoacetelli",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Val_d%27orcia_-pienza.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q217449",
+    "matched": "Val d'Orcia",
+    "distanceKm": 82
+  },
+  "dest:uae-dubai": {
+    "author": "Tim.Reckmann",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dubai_skyline_2015_(crop).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q12495",
+    "matched": "Burj Khalifa",
+    "distanceKm": 0.9
+  },
+  "dest:uganda": {
+    "author": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Bwindi.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q500397",
+    "matched": "Bwindi Impenetrable National Park",
+    "distanceKm": 393.1
+  },
+  "dest:utah-zion-bryce-arches": {
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Zion_angels_landing_view.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q205325",
+    "matched": "Zion National Park",
+    "distanceKm": 80.8
+  },
+  "dest:vermont": {
+    "author": "Dudesleeper (English Wikipedia)",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:2004-02-25_-_16_-_Von_Trapp_Family_Lodge,_Stowe.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q550498",
+    "matched": "Stowe",
+    "distanceKm": 46.7
+  },
+  "dest:vietnam-halong": {
+    "author": "Thomas Hirsch / User:Ravn",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Halong_Bay_in_Vietnam.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q190128",
+    "matched": "Ha Long Bay",
+    "distanceKm": 2
+  },
+  "dest:virginia-shenandoah": {
+    "author": "Image copyright 2005 by user G. Edward Johnson (user Lorax) and released under t",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_drive_20050521_123518_2.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1137401",
+    "matched": "Shenandoah National Park",
+    "distanceKm": 0.2
+  },
+  "dest:washington-olympic-peninsula": {
+    "author": "User:Doug Dolde",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BIG_LEAF_MAPLES_HOH.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1492122",
+    "matched": "Hoh Rainforest",
+    "distanceKm": 24.8
+  },
+  "dest:wisconsin-northwoods": {
+    "author": "NPS Photo",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Big_waves_on_Devils_Island_shoreline_(e99f5cd1-548c-439d-962d-0c03204c2bf8).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2855854",
+    "matched": "Apostle Islands National Lakeshore",
+    "distanceKm": 128.1
+  },
+  "dest:wyoming-yellowstone": {
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Grand_Prismatic_Spring_--_2022_--_2514.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1422831",
+    "matched": "Grand Prismatic Spring",
+    "distanceKm": 22.5
   }
 }
