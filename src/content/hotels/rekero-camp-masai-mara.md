@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Nairobi
     distance: 280 km (45 min by charter flight)
 coordinates:
-  lat: -1.5167
-  lng: 35.1667
+  lat: -1.4226194
+  lng: 35.0841206
 featured: false
 status: published
 seo:

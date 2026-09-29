@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/hotel/mv/four-seasons-resort-maldives-at-lan
 rating: 9.6
 reviewCount: 2876
 coordinates:
-  lat: 5.1667
-  lng: 73.0000
+  lat: 5.2863632
+  lng: 73.1120772
 featured: false
 affiliateLinks:
   - partner: "expedia"

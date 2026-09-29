@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Bryce Canyon National Park
     distance: 130 km
 coordinates:
-  lat: 37.0335
-  lng: -111.6018
+  lat: 37.014623
+  lng: -111.611121
 featured: true
 status: published
 seo:

@@ -72,8 +72,8 @@ nearbyAttractions:
   - name: "Mafia Island main town (Kilindoni)"
     distance: "12 km by boat"
 coordinates:
-  lat: -7.8833
-  lng: 39.8667
+  lat: -7.971446
+  lng: 39.7608867
 featured: false
 editorsPick: true
 trending: false

@@ -41,6 +41,7 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Chelan+County,+Washington"
     label: "Find Tours on Klook"
+status: draft
 ---
 
 Lake Chelan is 1,486 feet deep, 50 miles long, and in places barely a mile wide — the third deepest lake in North America, carved by glaciers into a trough so narrow and steep that approaching from the south feels less like arriving at a lake and more like entering a fjord that wandered east of the Cascades. The basalt canyon walls rise sheer from the water. The peaks above them carry snowfields well into June.

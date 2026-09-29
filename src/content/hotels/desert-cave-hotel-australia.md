@@ -71,8 +71,8 @@ nearbyAttractions:
   - name: "Painted Desert"
     distance: "150 km"
 coordinates:
-  lat: -29.0133
-  lng: 134.7544
+  lat: -29.010602
+  lng: 134.754364
 featured: false
 editorsPick: false
 trending: false

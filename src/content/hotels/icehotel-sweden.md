@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Abisko National Park, premier northern lights location
     distance: 80 km
 coordinates:
-  lat: 67.8500
-  lng: 20.6000
+  lat: 67.849884
+  lng: 20.597001
 featured: true
 status: published
 seo:

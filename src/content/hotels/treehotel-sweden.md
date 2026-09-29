@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/hotel/se/treehotel.html
 rating: 9.4
 reviewCount: 847
 coordinates:
-  lat: 66.1167
-  lng: 21.0833
+  lat: 66.072856
+  lng: 20.981835
 featured: true
 affiliateLinks:
   - partner: "expedia"

@@ -2,6 +2,8 @@
   command = "npm run build"
   publish = "dist"
   base = "."
+  # Skip deploys for commits that only touch pipeline data / docs (nightly bot commits)
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data/pipeline' ':(exclude)docs'"
 
 [build.environment]
   NODE_VERSION = "20"
@@ -12,6 +14,128 @@
   command = "npm run build"
 
 # ── Redirects ──────────────────────────────────────────────────────────────────
+
+# ── Unpublished hotels (failed verification 2026-09-29) → closest live page ──
+[[redirects]]
+  from = "/hotels/aerie-resort-washington/*"
+  to = "/categories/cliffside-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/aerie-resort-washington"
+  to = "/categories/cliffside-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/fastnet-lighthouse-ireland/*"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/fastnet-lighthouse-ireland"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/nubble-lighthouse-maine/*"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/nubble-lighthouse-maine"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/point-reyes-lighthouse-california/*"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/point-reyes-lighthouse-california"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/portland-bill-lighthouse-england/*"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/portland-bill-lighthouse-england"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/cape-leeuwin-lighthouse-australia/*"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/cape-leeuwin-lighthouse-australia"
+  to = "/categories/lighthouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/aigle-des-neiges-france/*"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/aigle-des-neiges-france"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/houseboat-alleppey-kerala/*"
+  to = "/categories/floating-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/houseboat-alleppey-kerala"
+  to = "/categories/floating-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/la-cabane-perchee-france/*"
+  to = "/categories/treehouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/la-cabane-perchee-france"
+  to = "/categories/treehouse-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/la-bulle-enchantee-france/*"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/la-bulle-enchantee-france"
+  to = "/categories/bubble-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/cuevas-al-jatib-spain/*"
+  to = "/categories/cave-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/cuevas-al-jatib-spain"
+  to = "/categories/cave-hotels/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/sassi-hotel-matera-italy/*"
+  to = "/hotels/sextantio-cave-italy/"
+  status = 301
+
+[[redirects]]
+  from = "/hotels/sassi-hotel-matera-italy"
+  to = "/hotels/sextantio-cave-italy/"
+  status = 301
+
 [[redirects]]
   from = "/rss"
   to = "/rss.xml"

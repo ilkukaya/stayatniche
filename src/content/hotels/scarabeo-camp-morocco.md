@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Ourika Valley
     distance: 50 km
 coordinates:
-  lat: 31.4444
-  lng: -8.0833
+  lat: 31.4337752
+  lng: -8.2013628
 featured: false
 status: published
 seo:

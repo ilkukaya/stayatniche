@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/
 rating: 9.0
 reviewCount: 892
 coordinates:
-  lat: 25.1167
-  lng: -80.4167
+  lat: 25.133094
+  lng: -80.398618
 featured: false
 affiliateLinks:
   - partner: "expedia"

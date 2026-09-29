@@ -57,8 +57,8 @@ nearbyAttractions:
   - name: Verbier
     distance: 50 km
 coordinates:
-  lat: 46.2167
-  lng: 6.9000
+  lat: 46.222973
+  lng: 6.958349
 featured: false
 editorsPick: false
 trending: false

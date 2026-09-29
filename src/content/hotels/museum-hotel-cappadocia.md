@@ -32,8 +32,8 @@ bookingUrl: https://www.booking.com/hotel/tr/museum-hotel-cappadocia.html
 rating: 9.6
 reviewCount: 1243
 coordinates:
-  lat: 38.6328
-  lng: 34.8144
+  lat: 38.633375
+  lng: 34.8069
 featured: true
 affiliateLinks:
   - partner: "expedia"

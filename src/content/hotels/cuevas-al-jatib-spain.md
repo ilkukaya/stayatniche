@@ -41,6 +41,7 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Benalauría,+Málaga,+Andalusia"
     label: "Find Tours on Klook"
+status: draft
 ---
 
 In the white hill villages of the Serranía de Ronda, where Andalusia folds into a landscape of limestone gorges and ancient footpaths, the tradition of living in caves carved from soft local rock stretches back through the Moorish period and beyond. Cuevas Al Jatib — the name draws on the Arabic heritage of the village of Benalauría — has made this tradition its central proposition, restoring a cluster of historic cave dwellings into some of the most characterful accommodation in southern Spain.

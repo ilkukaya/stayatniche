@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Inari, Sámi Cultural Centre
     distance: 40 km
 coordinates:
-  lat: 68.5167
-  lng: 27.3333
+  lat: 68.334611
+  lng: 27.334289
 featured: true
 status: published
 seo:

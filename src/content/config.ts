@@ -24,7 +24,7 @@ const hotels = defineCollection({
 
     priceRange: z.string(),
     pricePerNight: z.number().optional(),
-    priceIndicator: z.number().min(1).max(5),
+    priceIndicator: z.number().min(1).max(5).optional(),
 
     highlights: z.array(z.string()).default([]),
     amenities: z.array(z.string()).default([]),
@@ -74,6 +74,11 @@ const hotels = defineCollection({
     status: z.enum(['published', 'draft', 'archived']).default('published'),
     publishedDate: z.date().optional(),
     updatedDate: z.date().optional(),
+
+    // Provenance for pipeline-added stays
+    sourceId: z.string().optional(),
+    officialWebsite: z.string().optional(),
+    verifiedAt: z.date().optional(),
 
     seo: seoSchema,
   }),

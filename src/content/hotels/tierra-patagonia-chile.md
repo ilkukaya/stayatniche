@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/hotel/cl/tierra-patagonia.html
 rating: 9.5
 reviewCount: 1456
 coordinates:
-  lat: -51.0000
-  lng: -72.9667
+  lat: -51.034981
+  lng: -72.583405
 featured: false
 affiliateLinks:
   - partner: "expedia"

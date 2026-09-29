@@ -57,8 +57,8 @@ nearbyAttractions:
   - name: Salmon Ruins
     distance: 30 km
 coordinates:
-  lat: 36.7826
-  lng: -108.0855
+  lat: 36.789505
+  lng: -108.209289
 featured: false
 editorsPick: false
 trending: false

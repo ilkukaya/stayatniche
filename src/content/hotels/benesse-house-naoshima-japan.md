@@ -32,8 +32,8 @@ bookingUrl: https://www.booking.com/hotel/jp/benesse-house.html
 rating: 9.3
 reviewCount: 427
 coordinates:
-  lat: 34.4667
-  lng: 134.1833
+  lat: 34.4452356
+  lng: 133.9907302
 featured: false
 affiliateLinks:
   - partner: "expedia"

@@ -48,8 +48,8 @@ nearbyAttractions:
   - name: Mývatn volcanic area
     distance: 90 km
 coordinates:
-  lat: 65.8500
-  lng: -19.5000
+  lat: 65.944371
+  lng: -18.939747
 featured: false
 editorsPick: false
 trending: false

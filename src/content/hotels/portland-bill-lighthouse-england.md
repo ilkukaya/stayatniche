@@ -61,7 +61,7 @@ coordinates:
   lat: 50.5152
   lng: -2.4577
 featured: false
-status: published
+status: draft
 seo:
   metaTitle: "Portland Bill Lighthouse Cottage Review, Jurassic Coast, Dorset, England"
   metaDescription: "Stay in the keeper's cottage at Portland Bill's iconic striped lighthouse on the Jurassic Coast. Birdwatching, fossil hunting, and dramatic coastal scenery in Dorset. From $150/night."
