@@ -30,6 +30,7 @@ const get = async (url) => {
 const json = async (url) => (await get(url)).json();
 const km = (a, b, c, d) => { const R = 6371, r = x => x * Math.PI / 180; const x = Math.sin(r(c - a) / 2) ** 2 + Math.cos(r(a)) * Math.cos(r(c)) * Math.sin(r(d - b) / 2) ** 2; return 2 * R * Math.asin(Math.sqrt(x)); };
 const strip = (h = '') => h.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+const cleanAuthor = (a) => (a.match(/No machine-readable author provided\.\s*(.+?)\s+assumed/)?.[1] ?? a).split(' • ')[0].replace(/\s+at English Wikipedia$/, ' (English Wikipedia)').slice(0, 80);
 const fm = (t, k) => (t.match(new RegExp(`^${k}:\\s*(.+)$`, 'm')) ?? [])[1]?.replace(/^["']|["']$/g, '').trim();
 
 const hotels = readdirSync('src/content/hotels').filter(f => f.endsWith('.md')).map(f => {
@@ -71,7 +72,7 @@ for (const h of hotels) {
     const buf = Buffer.from(await (await get(ii.thumburl || ii.url)).arrayBuffer());
     await sharp(buf).rotate().resize(1600, 1067, { fit: 'cover', withoutEnlargement: true }).webp({ quality: 80 }).toFile(`public/images/hotels/${h.slug}.webp`);
     credits[h.slug] = {
-      author: strip(md.Artist?.value) || 'Unknown',
+      author: cleanAuthor(strip(md.Artist?.value)) || 'Unknown',
       license: lic,
       licenseUrl: strip(md.LicenseUrl?.value) || null,
       source: ii.descriptionurl,
