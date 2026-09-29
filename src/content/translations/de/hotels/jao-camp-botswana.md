@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: 300 km
 seo:
   metaTitle: "Jao Camp Botswana: Safari im Okavango-Delta | StayAtNiche"
-  metaDescription: "Jao Camp von Wilderness Safaris im Okavango-Delta: Safaris zu Wasser und zu Land, Baumhaus-Suiten und eine der artenreichsten Privatkonzessionen Afrikas. Ab 1.500 $."
+  metaDescription: "Jao Camp im Okavango-Delta: Safaris zu Wasser und zu Land, Baumhaus-Suiten und eine der artenreichsten Privatkonzessionen Afrikas. Ab 1.500 $."
 ---
 
 Das Okavango-Delta ist eine der einzigartigsten Schöpfungen der Natur: ein Fluss, der in den Bergen Angolas entspringt und nicht ins Meer mündet, sondern in das flache, sandgefüllte Innere der Kalahari, wo er sich über 15.000 Quadratkilometer Botswanas zu einem System aus Kanälen, Lagunen, Überschwemmungsebenen und Inseln ausbreitet, in dem einige der dichtesten Tierbestände Afrikas leben. Das Wasser, das Monate zuvor in Angola als Regen fällt, erreicht das Delta als alljährlicher Lebensimpuls – die Flut, die die Kanäle füllt und die Landschaft von halbtrockener Savanne in ein glitzerndes Binnenmeer verwandelt.

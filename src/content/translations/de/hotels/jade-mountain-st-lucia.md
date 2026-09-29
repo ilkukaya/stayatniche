@@ -47,7 +47,7 @@ nearbyAttractions:
   - name: Diamond Botanical Gardens
     distance: 12 km
 seo:
-  metaTitle: "Jade Mountain St. Lucia: Suiten mit Piton-Blick | StayAtNiche"
+  metaTitle: "Jade Mountain: Suiten mit Piton-Blick | StayAtNiche"
   metaDescription: "29 Klippen-Suiten ohne vierte Wand, mit privatem Infinity-Pool und Blick auf die Pitons: Jade Mountain ist die eigenwilligste Karibik-Architektur. Ab 1.200 $."
 ---
 

@@ -47,8 +47,8 @@ nearbyAttractions:
   - name: "Burg von Uçhisar"
     distance: "22 km"
 seo:
-  metaTitle: "Gamirasu: Höhlenhotel im Kloster, Kappadokien | StayAtNiche"
-  metaDescription: "Übernachten im byzantinischen Kloster aus dem 6. Jahrhundert im stillen Tal von Ayvalı: Gamirasu bietet Ballonblick, Fresken und echte türkische Gastfreundschaft."
+  metaTitle: "Gamirasu: Höhlenhotel in Kappadokien | StayAtNiche"
+  metaDescription: "Übernachten im byzantinischen Kloster aus dem 6. Jahrhundert im stillen Tal von Ayvalı: Gamirasu bietet Ballonblick, Fresken und türkische Gastfreundschaft."
 ---
 
 Kappadokien ist zu einem der meistbesuchten Reiseziele der Türkei geworden, und das zu Recht: Die Landschaft aus vulkanischem Tuff, Feenkaminen und in den Fels gehauenen Tälern gehört zu den eindrucksvollsten der Erde. Doch die Beliebtheit von Göreme und Uçhisar führt dazu, dass sich das Höhlenhotel-Erlebnis in der Hochsaison anfühlen kann, als teile man etwas Privates mit einer sehr großen Menge. Das Gamirasu bietet etwas völlig anderes.

@@ -14,6 +14,8 @@ const ARTICLE: Record<string, string> = {
 };
 const pais = (c: string) => ARTICLE[c] ?? c;
 const enPais = (c: string) => `en ${pais(c)}`;
+const aPais = (c: string) => `a ${pais(c)}`.replace(/^a el /, 'al ');
+const dePais = (c: string) => `de ${pais(c)}`.replace(/^de el /, 'del ');
 const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 
 /** Nombre de categoría en minúscula dentro de la frase. */
@@ -108,11 +110,11 @@ const es: typeof en = {
   essentials: {
     title: 'Planifica el viaje',
     disclaimer: 'Enlaces de socios: podemos recibir una comisión, sin coste adicional para ti.',
-    intro: (where: string) => `Todo lo demás que necesitas para tu viaje a ${pais(where)}, con servicios que usaríamos nosotros mismos.`,
+    intro: (where: string) => `Todo lo demás que necesitas para tu viaje ${aPais(where)}, con servicios que usaríamos nosotros mismos.`,
     with: (brand: string) => `con ${brand}`,
     groups: { there: 'Cómo llegar', during: 'Durante tu estancia', before: 'Antes de salir' },
     items: {
-      flights: { label: 'Vuelos', desc: (c: string) => `Compara vuelos y combinaciones de rutas inteligentes a ${pais(c)}.`, cta: 'Buscar vuelos' },
+      flights: { label: 'Vuelos', desc: (c: string) => `Compara vuelos y combinaciones de rutas inteligentes ${aPais(c)}.`, cta: 'Buscar vuelos' },
       transfer: { label: 'Traslado al aeropuerto', desc: (_c: string) => 'Un conductor a precio cerrado esperándote en llegadas.', cta: 'Reservar traslado' },
       car: { label: 'Alquiler de vehículos', desc: (_c: string) => 'Vehículos de empresas de alquiler locales.', cta: 'Comparar vehículos' },
       tours: { label: 'Tours y actividades', desc: (c: string) => `Excursiones de un día y experiencias ${enPais(c)}.`, cta: 'Buscar tours' },
@@ -173,7 +175,7 @@ const es: typeof en = {
     offers: { expedia: 'Precios para miembros; combínalo con vuelos', booking: 'Cancelación gratuita en muchas habitaciones', officialName: 'Web oficial', official: 'Reserva directamente con el alojamiento' },
     faq: (h: HotelFaq) => [
       { q: `¿Dónde está ${h.name}?`, a: `${h.name} está en ${h.destination}, ${pais(h.country)}${h.address ? ` (${h.address})` : ''}. Forma parte de nuestra colección de ${h.collection ? lc(h.collection) : 'alojamientos únicos'}.` },
-      { q: `¿Cuánto cuesta una noche en ${h.name}?`, a: h.fromOnly ? `Las tarifas parten de ${sinDesde(h.priceRange)} por noche; los precios cambian según la temporada y la disponibilidad, así que consulta las tarifas en tiempo real para tus fechas.` : h.hasPrice ? `Las tarifas suelen estar entre ${h.priceRange} por noche${h.level ? ` (nivel de precio: ${lc(h.level)})` : ''}. Los precios cambian según la temporada y la disponibilidad, así que consulta las tarifas en tiempo real antes de planificar.` : 'Las tarifas varían según la temporada y el tipo de habitación; consulta los precios en tiempo real para tus fechas.' },
+      { q: `¿Cuánto cuesta una noche en ${h.name}?`, a: h.fromOnly ? `Las tarifas parten de ${sinDesde(h.priceRange)} por noche; los precios cambian según la temporada y la disponibilidad, así que consulta las tarifas en tiempo real para tus fechas.` : h.hasPrice ? `Las tarifas habituales son de ${h.priceRange} por noche${h.level ? ` (nivel de precio: ${lc(h.level)})` : ''}. Los precios cambian según la temporada y la disponibilidad, así que consulta las tarifas en tiempo real antes de planificar.` : 'Las tarifas varían según la temporada y el tipo de habitación; consulta los precios en tiempo real para tus fechas.' },
       ...(h.bestTime ? [{ q: `¿Cuál es la mejor época para visitar ${h.name}?`, a: `${h.bestTime}.${h.seasonNotes ? ' ' + h.seasonNotes : ''}` }] : []),
       ...(h.bestFor.length ? [{ q: `¿Para quién es ideal ${h.name}?`, a: `${h.name} es ideal para ${lista(h.bestFor.map(lcFirst))}.` }] : []),
       ...(h.checkIn ? [{ q: `¿A qué hora son el check-in y el check-out en ${h.name}?`, a: `El check-in es a partir de ${h.checkIn} y el check-out, hasta ${h.checkOut}. Confírmalo con el alojamiento al reservar.` }] : []),
@@ -236,7 +238,7 @@ const es: typeof en = {
     types: { country: 'País', city: 'Ciudad', region: 'Región', island: 'Isla' },
   },
   destination: {
-    metaTitle: (name: string) => `Guía de ${pais(name)}: dónde dormir | StayAtNiche`,
+    metaTitle: (name: string) => `Guía ${dePais(name)}: dónde dormir | StayAtNiche`,
     dontMiss: 'Imprescindibles',
     tips: 'Consejos locales',
     bestTime: 'Mejor época para ir',
@@ -273,7 +275,7 @@ const es: typeof en = {
     metaDescription: (c: string, n: number, types: string[]) => `Compara ${n} ${plural(n, 'hotel extraordinario', 'hoteles extraordinarios')} ${enPais(c)}: ${types.join(', ')} y más. Precios habituales, para quién es ideal cada uno y dónde consultar tarifas.`,
     intro: (c: string, n: number, types: string[], from: string, cheapest: string, top: string) => `${n} ${plural(n, 'alojamiento seleccionado', 'alojamientos seleccionados')} ${enPais(c)}: ${types.join(', ')} y mucho más. Los precios parten de unos ${from} la noche en ${cheapest}; nuestra opción mejor puntuada es ${top}.`,
     catWorldwide: (cat: string) => `${cap(cat)} en todo el mundo`,
-    guide: (name: string) => `Guía de viaje de ${pais(name)}`,
+    guide: (name: string) => `Guía de viaje ${dePais(name)}`,
     faq: (f: { country: string; n: number; top: string; topWhere: string; types: string[]; cheapest: string; cheapestWhere: string; cheapestRange: string; seasons: string[] }) => [
       { q: `¿Cuáles son los hoteles más insólitos ${enPais(f.country)}?`, a: `Nuestra opción favorita es ${f.top}, en ${f.topWhere}. Recomendamos ${f.n} ${plural(f.n, 'alojamiento excepcional', 'alojamientos excepcionales')} ${enPais(f.country)}, entre ellos ${lista(f.types)}.` },
       { q: `¿Cuál es el hotel único más económico ${enPais(f.country)}?`, a: `${f.cheapest} (${f.cheapestWhere}) tiene la tarifa habitual más baja de nuestra lista, alrededor de ${f.cheapestRange} por noche. Las tarifas varían según la temporada, así que consulta los precios en tiempo real.` },
@@ -284,8 +286,8 @@ const es: typeof en = {
     slug: (cat: string, country: string) => `${cat}-en-${country}`,
     title: (cat: string, c: string) => `${mejores(cat)} ${lc(cat)} ${enPais(c)}`,
     metaTitle: (cat: string, c: string, n: number) => `${mejores(cat)} ${lc(cat)} ${enPais(c)}: ${n} opciones comparadas`,
-    metaDescription: (cat: string, c: string, names: string[]) => `${mejores(cat)} ${lc(cat)} ${enPais(c)}, comparados: ${lista(names)}. Precios habituales y para quién es ideal cada alojamiento.`.replace(/(las mejores .*?), comparados:/i, '$1, comparadas:'),
-    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string) => `${n} ${lc(cat)} ${enPais(c)} que destacan, clasificados por nuestros editores. Empieza por ${top}, en ${topWhere}; la opción más asequible es ${cheapest}.`.replace(/clasificados/, fem(cat) ? 'clasificadas' : 'clasificados'),
+    metaDescription: (cat: string, c: string, names: string[]) => `${mejores(cat)} ${lc(cat)} ${enPais(c)}, ${fem(cat) ? 'comparadas' : 'comparados'}: ${lista(names)}. Precios habituales y para quién es ideal cada alojamiento.`,
+    intro: (cat: string, c: string, n: number, top: string, topWhere: string, cheapest: string) => `${n} ${lc(cat)} ${enPais(c)} que destacan, ${fem(cat) ? 'clasificadas' : 'clasificados'} por nuestros editores. Empieza por ${top}, en ${topWhere}; la opción más asequible es ${cheapest}.`,
     allCat: (cat: string) => `${todos(cat)} ${lc(cat)}`,
     allIn: (c: string) => `Todos los alojamientos ${enPais(c)}`,
     faq: (f: { cat: string; country: string; names: string[]; top: string; topWhere: string; cheapFrom: string; cheapest: string }) => [

@@ -8,7 +8,7 @@ highlights:
   - Het winterhotel wordt elk jaar opnieuw gebouwd door internationale kunstenaars, in ijs en sneeuw
   - Elke kunstsuite is een unieke samenwerking tussen kunstenaars en architectuur
   - IJsbar met cocktails in glazen van ijs bij -5 °C
-  - 's Winters noorderlicht, 's zomers op ontdekking onder de middernachtszon
+  - "'s Winters noorderlicht, 's zomers op ontdekking onder de middernachtszon"
   - Hondensleetochten, sneeuwscooterexpedities en workshops ijsbeeldhouwen
   - Eigen kapel, de koudste trouwlocatie ter wereld
 amenities:

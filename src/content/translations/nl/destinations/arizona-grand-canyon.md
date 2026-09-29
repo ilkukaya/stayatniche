@@ -24,7 +24,7 @@ travelTips:
   - "Vergunningen voor Havasu Falls worden via een loting op de website van de Havasupai-stam verdeeld. De vraag is overweldigend en ze zijn binnen enkele minuten na vrijgave weg."
 seo:
   metaTitle: "Grand Canyon: bijzondere hotels en lodges | StayAtNiche"
-  metaDescription: "De Grand Canyon voorbij de rand: overnachten in de kloof bij Phantom Ranch, lodges op de North Rim en raftingkampen langs de Colorado. Jouw gids voor bijzondere stays."
+  metaDescription: "De Grand Canyon voorbij de rand: overnachten in de kloof bij Phantom Ranch, lodges op de North Rim en raftingkampen langs de Colorado. Jouw gids voor bijzondere overnachtingen."
 ---
 
 Foto's maken de Grand Canyon plat. Woorden maken hem kleiner. Echt aan de rand staan en een mijl verticale aarde in kijken, met gesteentelagen die bijna de helft van de bekende geschiedenis van de aarde beslaan en in gekleurde banden onder je liggen, is een van die zeldzame momenten waarop geologische tijd heel even te bevatten is. De meeste bezoekers ervaren dat zo'n veertig minuten en lopen dan terug naar hun auto. De beste overnachtingen hier zijn erop gemaakt om verder te gaan dan dat.

@@ -19,7 +19,7 @@ mustSee:
   - "Beartooth Highway, de mooiste bergweg van Amerika"
   - "Little Bighorn Battlefield National Monument"
   - "Bighorn Canyon National Recreation Area"
-  - "De Bob Marshall Wilderness, een van de grootste weglozenatuurgebieden in de 48 aaneengesloten staten"
+  - "De Bob Marshall Wilderness, een van de grootste gebieden zonder wegen in de 48 aaneengesloten staten"
 travelTips:
   - "In het zomerse hoogseizoen moet je voor de corridor van de Going-to-the-Sun Road in Glacier National Park een tijdslot reserveren via Recreation.gov."
   - "Beren – zowel zwarte beren als grizzly's – komen in de hele staat veel voor. Heb altijd berenspray bij je en maak geluid tijdens het wandelen."
