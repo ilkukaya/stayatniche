@@ -18,7 +18,7 @@
     "distanceKm": 3.3
   },
   "ashford-castle-ireland": {
-    "author": "yanshoof • שיחה • דרוש משתמש שיש לגביו הסכמה כללית בוויקי לניסוי מעניין (Transfered by מתניה/Original uploaded by Yanshoof)",
+    "author": "yanshoof",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ashford_castle_from_Lough_Corrib.JPG",
@@ -36,7 +36,7 @@
     "distanceKm": 0.5
   },
   "dromoland-castle-ireland": {
-    "author": "Srleffler at English Wikipedia",
+    "author": "Srleffler (English Wikipedia)",
     "license": "Public domain",
     "licenseUrl": null,
     "source": "https://commons.wikimedia.org/wiki/File:Dromoland_Castle.jpg",
@@ -63,7 +63,7 @@
     "distanceKm": 20.4
   },
   "snowcastle-kemi-finland": {
-    "author": "No machine-readable author provided. Dmit~commonswiki assumed (based on copyright claims).",
+    "author": "Dmit~commonswiki",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
     "source": "https://commons.wikimedia.org/wiki/File:LumiLinna.jpg",
