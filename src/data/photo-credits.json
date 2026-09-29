@@ -799,5 +799,77 @@
     "wikidata": "https://www.wikidata.org/wiki/Q3376139",
     "matched": "Nungwi",
     "distanceKm": 50
+  },
+  "dest:colombia-cartagena": {
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Cartagena_from_Convento_de_Santa_Cruz_de_la_Popa_01.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q657461",
+    "matched": "Cartagena",
+    "distanceKm": 6.2
+  },
+  "dest:florida-keys": {
+    "author": "Tore Sætre",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Key_west_2001.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q485186",
+    "matched": "Key West",
+    "distanceKm": 0.4
+  },
+  "dest:french-polynesia": {
+    "author": "NASA",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Tahiti_ISS007_14626.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q42000",
+    "matched": "Tahiti",
+    "distanceKm": 6.5
+  },
+  "dest:hawaii": {
+    "author": "Aaronbernstein",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waimea_Canyon_mar_2010.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q7960119",
+    "matched": "Waimea Canyon State Park",
+    "distanceKm": 372.4
+  },
+  "dest:india-rajasthan": {
+    "author": "Chainwit.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q836531",
+    "matched": "Hawa Mahal",
+    "distanceKm": 159.8
+  },
+  "dest:kentucky-bourbon-trail": {
+    "author": "ChrisKuehl",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:CumberlandFalls.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q38488",
+    "matched": "Cumberland Falls",
+    "distanceKm": 111.5
+  },
+  "dest:oregon-coast": {
+    "author": "en:User:Googie_man",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:CannonBeachOR.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q988747",
+    "matched": "Cannon Beach",
+    "distanceKm": 139.1
+  },
+  "dest:tanzania": {
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q11812902",
+    "matched": "Serengeti National Park",
+    "distanceKm": 442.5
   }
 }
