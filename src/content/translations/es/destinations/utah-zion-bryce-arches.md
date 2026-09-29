@@ -26,7 +26,7 @@ travelTips:
   - "Springdale (puerta de Zion) y Moab (puerta de Arches y Canyonlands) tienen excelentes restaurantes y alojamientos independientes: reserva con meses de antelación para el verano."
 seo:
   metaTitle: "Utah: Zion, Bryce y Arches, hoteles únicos | StayAtNiche"
-  metaDescription: "Los alojamientos más especiales de Utah cerca de Zion, Bryce Canyon y Arches: glamping en cañones, lodges en acantilados y refugios para ver estrellas. Guía completa."
+  metaDescription: "Los alojamientos más especiales de Utah cerca de Zion, Bryce Canyon y Arches: glamping en cañones, lodges en acantilados y refugios para ver estrellas."
 ---
 
 Asómate al borde de Canyonlands y estarás contemplando 300 millones de años de registro sedimentario: antiguos fondos marinos, deltas fluviales y dunas de arena comprimidos, elevados y esculpidos en un paisaje que se extiende hasta todos los horizontes. Los cinco parques nacionales de Utah no son casillas de una lista. Cada uno es un mundo geológico propio, y recorrerlos a toda prisa en un único viaje por carretera no le hace justicia a ninguno.

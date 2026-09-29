@@ -26,7 +26,7 @@ travelTips:
   - "Contrata a un guía local para una ruta de las especias: las plantaciones de nuez moscada, clavo, vainilla y canela de la isla son fascinantes con el contexto adecuado."
 seo:
   metaTitle: "Zanzíbar: Stone Town, especias y playas | StayAtNiche"
-  metaDescription: "Guía de Zanzíbar: la medina de Stone Town, buceo en arrecifes de coral, el atolón de Mnemba y los hoteles boutique de playa y villas sobre el agua más especiales de la isla."
+  metaDescription: "Guía de Zanzíbar: la medina de Stone Town, buceo en arrecifes de coral, el atolón de Mnemba y los hoteles boutique de playa y villas sobre el agua de la isla."
 ---
 
 Zanzíbar ocupa un lugar mitológico en la geografía de África Oriental. Su solo nombre evoca rutas de las especias y dhows árabes a vela, marfil y clavo, y una cultura comercial que surcaba el océano Índico siglos antes de la llegada del colonialismo europeo. La realidad física del archipiélago —sobre todo la isla principal, Unguja, y la menos visitada Pemba, al norte— está a la altura de esa historia y le suma capas de playa, arrecife y bosque que la convierten en uno de los destinos insulares más completos del océano Índico.

@@ -28,7 +28,7 @@ travelTips:
   - "Reserva los ryokan más solicitados con 3 a 6 meses de antelación, sobre todo en Kioto en temporada alta."
 seo:
   metaTitle: "Japón: ryokan, tren bala y hoteles únicos | StayAtNiche"
-  metaDescription: "Guía completa de Japón: estancias en ryokan, rutas en tren bala, la isla del arte de Naoshima, glamping en Hokkaido y los alojamientos más únicos de Kioto a Niseko."
+  metaDescription: "Guía completa de Japón: ryokan, rutas en tren bala, la isla del arte de Naoshima, glamping en Hokkaido y los alojamientos más únicos de Kioto a Niseko."
 ---
 
 La red ferroviaria de Japón es el mejor argumento para elegir el país como destino. El shinkansen —el sistema de trenes bala que une Tokio con Osaka en 2,5 horas y llega hasta Hokkaido en el norte y Kagoshima en el sur— es una infraestructura tan fiable, tan limpia y tan puntual que la comparación habitual es con un aeropuerto: control de seguridad, asientos numerados y ningún retraso. El récord de puntualidad del Tokaido Shinkansen (la línea Tokio-Osaka, el tren de alta velocidad con más tráfico del mundo) se mide en segundos de retraso medio al año, no en minutos.

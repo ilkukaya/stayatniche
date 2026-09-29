@@ -29,7 +29,7 @@ travelTips:
   - "Aquí rigen las leyes de Texas sobre portar armas a la vista: es legal llevar armas de fuego en la mayoría de los espacios públicos; es algo normal y conviene saberlo si no estás acostumbrado."
 seo:
   metaTitle: "Hill Country de Texas: ranchos, ríos y vino | StayAtNiche"
-  metaDescription: "Los alojamientos más especiales del Hill Country de Texas: fincas vinícolas en Fredericksburg, cabañas junto al río Frio, ranchos en activo y refugios entre cipreses."
+  metaDescription: "Los alojamientos más especiales del Hill Country de Texas: fincas vinícolas en Fredericksburg, cabañas junto al río Frio, ranchos y refugios entre cipreses."
 ---
 
 El Hill Country de Texas no se parece en nada al Texas llano y polvoriento del imaginario popular. Colinas calizas cubiertas de enebros, arroyos de manantial que corren fríos y cristalinos sobre la roca pulida y pueblos históricos de herencia alemana con biergartens y kolaches: tiene un carácter tejano por excelencia y, al mismo tiempo, desmiente todos los estereotipos sobre el estado.

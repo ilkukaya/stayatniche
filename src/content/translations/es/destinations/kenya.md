@@ -28,7 +28,7 @@ travelTips:
   - "Negocia los precios del safari directamente con operadores pequeños; las grandes plataformas de reserva aplican recargos importantes."
 seo:
   metaTitle: "Kenia: safari, Masái Mara y fauna salvaje | StayAtNiche"
-  metaDescription: "Guía de safari en Kenia: la Gran Migración, reservas privadas, campamentos de tiendas y los elefantes de Amboseli. Planifica el mejor viaje de fauna de África Oriental."
+  metaDescription: "Guía de safari en Kenia: la Gran Migración, reservas privadas, campamentos de tiendas y los elefantes de Amboseli. Planifica tu gran viaje por África Oriental."
 ---
 
 Kenia creó el modelo del viaje de fauna salvaje y, pese a cinco décadas de competencia llegada de todas partes, nadie lo ha superado. Sus sabanas, los escarpes del valle del Rift y las tierras altas ecuatoriales siguen albergando algunas de las mayores concentraciones de megafauna africana emblemática de todo el continente. Si es la referencia, es por algo.

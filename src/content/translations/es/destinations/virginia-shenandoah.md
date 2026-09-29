@@ -24,7 +24,7 @@ travelTips:
   - "El Sendero de los Apalaches cruza la Skyline Drive en varios puntos; recorrer tramos entre cruces de carretera es una de las mejores maneras de conocer el parque más allá de las paradas en los miradores."
 seo:
   metaTitle: "Shenandoah, Virginia: hoteles y granjas | StayAtNiche"
-  metaDescription: "Descubre el valle del Shenandoah en Virginia: posadas en viñedos, cabañas en las Blue Ridge y estancias en granjas históricas. Tu guía completa de viajes únicos."
+  metaDescription: "Descubre el valle del Shenandoah en Virginia: posadas en viñedos, cabañas en las Blue Ridge y estancias en granjas históricas. Tu guía de viajes únicos."
 ---
 
 El valle del Shenandoah es uno de los paisajes habitados de forma continuada más antiguos de Norteamérica: pueblos indígenas, colonos europeos, ejércitos de la guerra de Secesión y generaciones de agricultores han dejado su huella en un valle que, pese a todo, sigue siendo realmente bello. Las Blue Ridge al este y los Allegheny al oeste crean un corredor resguardado de una fertilidad agrícola extraordinaria, y por eso se luchó tan encarnizadamente por el valle y por eso sus granjas y huertos siguen siendo hoy tan productivos.

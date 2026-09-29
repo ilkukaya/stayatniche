@@ -28,7 +28,7 @@ travelTips:
   - "Reserva mesa para cenar con antelación; los mejores restaurantes de Matera son pequeños y se llenan enseguida."
 seo:
   metaTitle: "Matera: hoteles cueva y los antiguos sassi | StayAtNiche"
-  metaDescription: "Matera, la ciudad cueva de 9000 años del sur de Italia: hoteles cueva, los sassi Patrimonio de la UNESCO y la extraordinaria gastronomía de la región de Basilicata."
+  metaDescription: "Matera, la ciudad cueva de 9000 años del sur de Italia: hoteles cueva, los sassi Patrimonio de la UNESCO y la extraordinaria gastronomía de Basilicata."
 ---
 
 Carlo Levi, desterrado aquí en 1935 por el gobierno fascista, escribió sobre los sassi de Matera: «Nadie ha tocado una piedra ni la ha cambiado de sitio». Lo decía como acusación: la miseria de las viviendas cueva, la malaria, las condiciones casi medievales de esta ciudad encajada en un barranco del empeine de Italia. En 1952, el gobierno italiano había desalojado a la fuerza a las 15 000 personas que vivían en los sassi, por considerarlos una vergüenza nacional. Matera se convirtió en sinónimo del atraso del sur de Italia.

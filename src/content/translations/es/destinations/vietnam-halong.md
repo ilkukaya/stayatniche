@@ -26,7 +26,7 @@ travelTips:
   - "La cultura del café en Vietnam es extraordinaria: el cà phê trứng (café con huevo, en Hanói) y el cà phê sữa đá (café helado con leche, en todas partes) son experiencias imprescindibles."
 seo:
   metaTitle: "Vietnam: bahía de Hạ Long, Hội An y Sapa | StayAtNiche"
-  metaDescription: "Guía de Vietnam: cruceros con noche en la bahía de Hạ Long, la ciudad antigua de Hội An, las terrazas de Sapa y los hoteles boutique y lodges junto a cuevas más únicos."
+  metaDescription: "Guía de Vietnam: cruceros con noche en la bahía de Hạ Long, la ciudad antigua de Hội An, las terrazas de Sapa y hoteles boutique y lodges junto a cuevas."
 ---
 
 Vietnam recompensa a quien lo recorre de punta a punta. Su estrecha geografía, encajada entre montañas y mar, hace que cada región tenga una cultura, un clima y una identidad culinaria propios, moldeados por distintos reinos e imperios a lo largo de 2000 años de historia escrita. Tres o cuatro semanas viajando de norte a sur —o de sur a norte— forman uno de los grandes itinerarios del Sudeste Asiático, un viaje tanto por el paisaje como por el tiempo.

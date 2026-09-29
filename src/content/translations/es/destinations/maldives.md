@@ -28,7 +28,7 @@ travelTips:
   - "Para la mayoría de los viajeros es imprescindible un seguro de viaje que cubra el buceo."
 seo:
   metaTitle: "Maldivas: villas sobre el agua y atolones | StayAtNiche"
-  metaDescription: "Descubre Maldivas más allá del folleto: bungalós sobre el agua, atolones privados, playas bioluminiscentes y los mejores puntos de buceo del mundo. Guía completa."
+  metaDescription: "Descubre Maldivas más allá del folleto: bungalós sobre el agua, atolones privados, playas bioluminiscentes y los mejores puntos de buceo del mundo."
 ---
 
 Todas las imágenes son reales. Un agua turquesa tan transparente que parece artificial, villas sobre pilotes suspendidas encima de jardines de coral, arena que cruje bajo los pies. Pero lo que las fotografías no captan es el silencio. Aquí, a 800 kilómetros al suroeste de la India, el océano Índico se extiende hasta todos los horizontes y el único sonido es el del agua. Es un tipo de silencio muy particular que no se olvida.

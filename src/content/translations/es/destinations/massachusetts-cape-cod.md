@@ -23,8 +23,8 @@ travelTips:
   - "Los ferris desde Hyannis y Plymouth conectan con Nantucket y Martha's Vineyard: si viajas con vehículo en verano, resérvalo con meses de antelación."
   - "La escena gastronómica del cabo es estacional; muchos de los mejores locales cierran de octubre a abril. Infórmate antes si viajas fuera de temporada."
 seo:
-  metaTitle: "Cape Cod: hoteles únicos y estancias en la costa | StayAtNiche"
-  metaDescription: "Descubre los alojamientos más únicos de Cape Cod: posadas junto a faros, casitas entre dunas y refugios en colonias de artistas. Tu guía de viajes únicos por el cabo."
+  metaTitle: "Cape Cod: hoteles únicos y casas en la costa | StayAtNiche"
+  metaDescription: "Descubre los alojamientos más únicos de Cape Cod: posadas junto a faros, casitas entre dunas y refugios en colonias de artistas. Tu guía de viajes únicos."
 ---
 
 Los glaciares que formaron Cape Cod dejaron una topografía peculiar: lagunas glaciares donde se fundió el hielo enterrado, dunas que se desplazan con cada tormenta del Atlántico y un suelo demasiado fino y arenoso para cultivar, que empujó a los primeros colonos hacia el mar. Los oficios marítimos —la pesca, la caza de ballenas, el cabotaje— dieron forma a cada pueblo a lo largo de la Old King's Highway, y las casas de capitanes de estilo federal y neogriego que se alinean en la costa norte son la arquitectura de aquella prosperidad. Esto no es una Nueva Inglaterra genérica. Tiene su propia ecología, su propia historia y su propio carácter.

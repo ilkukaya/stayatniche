@@ -26,7 +26,7 @@ travelTips:
   - "La restauración del río Elwha, el mayor proyecto de eliminación de presas de la historia de EE. UU., terminado en 2014, es un éxito ecológico en curso que vale la pena conocer antes de la visita."
 seo:
   metaTitle: "Península Olímpica: lodges y costa salvaje | StayAtNiche"
-  metaDescription: "Los alojamientos más especiales de la península Olímpica: lodges en el bosque lluvioso, resorts con aguas termales y cabañas en la costa salvaje del Pacífico Noroeste."
+  metaDescription: "Los alojamientos más especiales de la península Olímpica: lodges en el bosque lluvioso, resorts con aguas termales y cabañas en la costa salvaje del Pacífico."
 ---
 
 La península Olímpica encierra una imposibilidad ecológica. Dentro de los límites de un solo parque nacional, a su vez a menos de un día en auto de Seattle, hay una cordillera cubierta de glaciares, un bosque lluvioso templado de un tipo que solo existe en un puñado de lugares de la Tierra y 73 millas de costa pacífica salvaje y sin carreteras. La transición entre estas zonas es abrupta: deja el suelo del bosque lluvioso y, en menos de 20 millas, puedes estar por encima del límite del bosque en Hurricane Ridge, contemplando hacia el sur toda la extensión de los montes Olympic. Es naturaleza salvaje a una escala y con una variedad realmente difíciles de asimilar.

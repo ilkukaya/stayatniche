@@ -24,7 +24,7 @@ travelTips:
   - "Los resorts de los Northwoods se reservan con mucha antelación para el fin de semana del 4 de Julio y las semanas de alrededor: planifica las visitas de verano con seis a doce meses de antelación si quieres los mejores alojamientos."
 seo:
   metaTitle: "Northwoods de Wisconsin: lagos y lodges | StayAtNiche"
-  metaDescription: "Descubre los Northwoods de Wisconsin: resorts de cabañas junto al lago, estancias en faros de las Apostle Islands y lodges en tierra de canoas. Tu guía de viajes únicos."
+  metaDescription: "Descubre los Northwoods de Wisconsin: resorts de cabañas junto al lago, estancias en faros de las Apostle Islands y lodges en tierra de canoas. Guía completa."
 ---
 
 Los Northwoods de Wisconsin tienen su propia mitología en el Medio Oeste estadounidense: un paisaje de ensueño estival de colimbos sobre lagos como espejos al amanecer, fogatas nocturnas que huelen a cedro y la paz particular de un lugar donde la actividad principal es no tener prisa. Generaciones de familias de Chicago, Milwaukee y Minneapolis llevan décadas refugiándose en las mismas cabañas y resorts de los Northwoods, lo que ha creado una cultura de la hospitalidad que prioriza la continuidad sobre la novedad.

@@ -29,7 +29,7 @@ travelTips:
   - "Las muestras de afecto en público son técnicamente ilegales; actúa con la misma discreción que en cualquier cultura conservadora."
 seo:
   metaTitle: "Dubái y EAU: resorts en el desierto y hoteles | StayAtNiche"
-  metaDescription: "Los alojamientos más especiales de Dubái y los EAU: villas sobre el agua, ecocampamentos en el desierto y el distrito cultural de Abu Dabi. Tu guía completa de viaje."
+  metaDescription: "Los alojamientos más especiales de Dubái y los EAU: villas sobre el agua, ecocampamentos en el desierto y el distrito cultural de Abu Dabi. Tu guía completa."
 ---
 
 Dubái construyó una pista de esquí cubierta en pleno desierto, levantó un archipiélago de islas con forma de palmera y abrió un hotel —el Burj Al Arab— donde el servicio de mayordomo es lo estándar y una suite supera los 10 000 US$ por noche. El empeño de la ciudad por la audacia es constante y, pienses lo que pienses de él, merece vivirse de primera mano en lugar de descartarlo desde lejos.

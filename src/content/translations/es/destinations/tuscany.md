@@ -29,7 +29,7 @@ travelTips:
   - "Aprende unas palabras de italiano; incluso las fórmulas básicas de cortesía abren puertas y hacen el trato mucho más cálido."
 seo:
   metaTitle: "Toscana: viñedos, villas y Val d'Orcia | StayAtNiche"
-  metaDescription: "Los alojamientos más especiales de la Toscana: antiguos monasterios convertidos en hoteles, fincas vinícolas y borgos en lo alto de las colinas. Tu guía completa."
+  metaDescription: "Los alojamientos más especiales de la Toscana: antiguos monasterios convertidos en hoteles, fincas vinícolas y borgos en lo alto de las colinas. Guía completa."
 ---
 
 Pide unos pici cortados a mano en una cantina con bóveda de piedra de Montalcino. Mira cómo la luz del Val d'Orcia se vuelve de oro rosado al atardecer sobre las crestas salpicadas de cipreses solitarios. Llega a tu granja del siglo XIII rehabilitada, con las vides pegadas a las ventanas de contraventanas cerradas. La Toscana es Italia en su versión más densamente gratificante, y lleva tanto tiempo siéndolo que sabe perfectamente lo que hace.

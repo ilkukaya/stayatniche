@@ -26,7 +26,7 @@ travelTips:
   - "Un viaje combinado de gorilas entre Ruanda y Uganda, con trekking en Bwindi y en el Parque Nacional de los Volcanes, es cada vez más popular y aprovecha al máximo el Visado Turístico de África Oriental."
 seo:
   metaTitle: "Uganda: trekking de gorilas y primates | StayAtNiche"
-  metaDescription: "Guía de Uganda: trekking de gorilas de montaña en Bwindi, chimpancés en Kibale, las cataratas Murchison y lodges íntimos en el bosque en el corazón de África Oriental."
+  metaDescription: "Guía de Uganda: trekking de gorilas de montaña en Bwindi, chimpancés en Kibale, las cataratas Murchison y lodges íntimos en el bosque de África Oriental."
 ---
 
 El encuentro dura una hora, por reglamento. Una hora en presencia física de una familia de gorilas de montaña salvajes —el espalda plateada, las hembras, las crías moviéndose entre la vegetación— sin nada entre ellos y tú salvo el respeto mutuo y unos pocos metros de bosque. La norma existe porque los gorilas son vulnerables a las enfermedades respiratorias humanas. Pero esa hora se queda contigo. Los viajeros la describen años después con una precisión poco habitual: la inesperada dulzura en la mirada de un espalda plateada, la destreza de las manos de una cría, el momento en que el bosque vuelve a asentarse alrededor del grupo mientras los gorilas retoman su rutina. Deja en uno una huella duradera.

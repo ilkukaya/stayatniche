@@ -26,7 +26,7 @@ travelTips:
   - "La mayoría de los templos cobran una pequeña entrada; vístete con decoro (hombros y rodillas cubiertos) en todos los lugares religiosos."
 seo:
   metaTitle: "Luang Prabang, Laos: hoteles coloniales | StayAtNiche"
-  metaDescription: "Guía de Luang Prabang: templos Patrimonio de la UNESCO, hoteles boutique coloniales franceses, la ceremonia de ofrendas de los monjes y las cascadas de Kuang Si."
+  metaDescription: "Guía de Luang Prabang: templos Patrimonio de la UNESCO, hoteles boutique coloniales franceses, la ofrenda de los monjes al alba y las cascadas de Kuang Si."
 ---
 
 Luang Prabang figura en la lista del Patrimonio Mundial de la UNESCO desde 1995, y la declaración ha cumplido su función. Mientras otras ciudades de Laos se convertían en cuadrículas de hormigón, esta península real en la confluencia de los ríos Mekong y Nam Khan siguió siendo transitable a pie, repleta de templos y reconociblemente fiel a sí misma. Sigue siendo uno de los pocos lugares del Sudeste Asiático donde la palabra «intacto» no es ficción publicitaria.

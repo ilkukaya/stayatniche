@@ -24,7 +24,7 @@ travelTips:
   - "Para el Derby de Kentucky, en la primera semana de mayo, hay que reservar alojamiento en Louisville con 12 meses o más de antelación. Lexington (a 80 millas) es una base práctica si Louisville está completo."
 seo:
   metaTitle: "Ruta del Bourbon de Kentucky: hoteles únicos | StayAtNiche"
-  metaDescription: "Descubre la Ruta del Bourbon de Kentucky: posadas en fincas agrícolas, B&B en tierra de caballos y lodges junto a destilerías del Bluegrass. Tu guía de viajes únicos."
+  metaDescription: "Descubre la Ruta del Bourbon de Kentucky: posadas en fincas, B&B en tierra de caballos y lodges junto a destilerías del Bluegrass. Tu guía de viajes únicos."
 ---
 
 El noventa y cinco por ciento del bourbon del mundo se elabora en Kentucky, y no es casualidad. La geología caliza filtra el agua que se usa en la producción, el clima hace que el whisky entre y salga de las barricas nuevas de roble tostado a lo largo de inviernos fríos y veranos calurosos, y las familias destiladoras de los condados de Nelson y Woodford llevan generaciones perfeccionando sus técnicas. El bourbon que te sirven en un bar de Manhattan es una cosa. Sentarte a las 7 de la mañana en el porche de una granja del condado de Nelson, viendo cómo se levanta la niebla de las colinas, con un whisky a graduación de barrica de una destilería a 20 minutos, es otra muy distinta.

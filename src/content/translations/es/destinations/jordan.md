@@ -26,7 +26,7 @@ travelTips:
   - "El protector solar es imprescindible en el mar Muerto: la combinación del agua salada, que refleja la luz, y el intenso sol de Oriente Próximo quema más rápido que casi cualquier otro entorno."
 seo:
   metaTitle: "Jordania: Petra, Wadi Rum y campamentos | StayAtNiche"
-  metaDescription: "Guía de Jordania: Petra al amanecer, noches en campamentos de Wadi Rum, flotar en el mar Muerto y los lodges del desierto más extraordinarios de Oriente Próximo."
+  metaDescription: "Guía de Jordania: Petra al amanecer, noches en campamentos de Wadi Rum, flotar en el mar Muerto y los lodges del desierto más especiales de Oriente Próximo."
 ---
 
 Jordania concentra más peso histórico por kilómetro cuadrado que casi cualquier otro país del mundo. En una región a menudo definida por su complejidad geopolítica, se ha ganado fama de hospitalidad sincera y estabilidad política, con una infraestructura turística muy por encima de lo que cabría esperar por su tamaño. Sus yacimientos antiguos, su paisaje desértico y una creciente oferta de alojamiento de lujo levantada a partir del propio dramatismo del terreno la convierten en uno de los viajes más gratificantes de Oriente Próximo.

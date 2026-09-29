@@ -29,7 +29,7 @@ travelTips:
   - "La temporada del barro (marzo y abril) es real y complica el acceso por carreteras rurales: planifícate en consecuencia o tómatela como una forma de forjar el carácter."
 seo:
   metaTitle: "Vermont: posadas, follaje y pueblos de montaña | StayAtNiche"
-  metaDescription: "Los alojamientos más especiales de Vermont: posadas históricas en Stowe, granjas en el valle del Mad River y refugios en plena naturaleza en el Northeast Kingdom."
+  metaDescription: "Los alojamientos más especiales de Vermont: posadas históricas en Stowe, granjas en el valle del Mad River y refugios en la naturaleza del Northeast Kingdom."
 ---
 
 Puedes cruzar Vermont en dos horas, pero instálate en uno de sus valles y una semana después seguirás descubriendo cosas: una quesería en una carretera secundaria que elabora cheddar envuelto en tela, una biblioteca de una sola sala con estufa de leña, una poza en el río que los lugareños han conseguido mantener casi en secreto. Es un estado pequeño con una profundidad poco común.
