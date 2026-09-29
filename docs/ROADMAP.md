@@ -47,3 +47,11 @@ Bunları yapmadan gelir gelmez; sırayla:
 7. **Sosyal hesaplar**: `social.json`'daki Instagram/Pinterest/X/Facebook/TikTok adresleri tahmindir; hesapları açın ya da boşaltın (Organization schema'da `sameAs` olarak yayınlanıyor).
 8. **GitHub varsayılan dal**: şu an `claude/setup-stayatniche-project-xHSQk`. Repo Settings → Branches → default'u `main` yapın (önce `main` oluşturulmalı), sonra `netlify.toml`'daki production `branch` satırını güncelleyin.
 9. **Netlify**: Domain settings → `www.stayatniche.com` → apex'e yönlendirme + HTTPS sertifikası; Forms bildirimi (bülten webhook'u); env değişkenleri (`NEWSLETTER_PROVIDER`, anahtarlar).
+
+## 5. Sıfır bütçe güncellemesi (2. tur)
+
+- **Fotoğrafsız da bitmiş görünen site:** 14 kategori + 7 kıta için özgün, lisans sorunu olmayan illüstrasyon posterleri (`public/images/art/`). Dış (Unsplash) bağımlılığı kaldırıldı.
+- **ChatGPT görselleri için hazır sistem:** `docs/IMAGE-PROMPTS.md` (her sayfa için dosya adı + hazır prompt). Görseli `raw-images/<slug>.png` olarak koyup `npm run optimize-images` çalıştırın; site otomatik kullanır, içerik dosyası düzenlemek gerekmez. Yerel görsel her zaman illüstrasyonun önüne geçer.
+- **Uydurma sosyal kanıt kaldırıldı** ("2.400+ abone", "4.9 puan").
+- **Programatik SEO:** `/countries/*` (25 ülke) ve `/best/<tür>-in-<ülke>` (12 sayfa): karşılaştırma tablosu, SSS, ItemList schema, takipli affiliate CTA.
+- Gerçek öncelik sırası: (1) kategori görselleri (14), (2) öne çıkan oteller, (3) diğerleri.

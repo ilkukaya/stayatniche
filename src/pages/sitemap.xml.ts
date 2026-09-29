@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
+import { slugify } from '../lib/site';
 
 const SITE = 'https://stayatniche.com';
 
@@ -59,7 +60,19 @@ export const GET: APIRoute = async () => {
   const destPages = destinations.map(d => url(`/destinations/${d.slug}/`, today, '0.6', 'monthly'));
   const expPages  = experiences.map(e => url(`/experiences/${e.slug}/`,   today, '0.6', 'monthly'));
 
+  const groups = new Map<string, number>(); const countries = new Map<string, number>();
+  for (const h of hotels) {
+    groups.set(`${h.data.category}|${h.data.country}`, (groups.get(`${h.data.category}|${h.data.country}`) ?? 0) + 1);
+    countries.set(h.data.country, (countries.get(h.data.country) ?? 0) + 1);
+  }
+  const roundups = [
+    ...[...countries].filter(([, n]) => n >= 2).map(([c]) => url(`/countries/${slugify(c)}/`, today, '0.7', 'weekly')),
+    ...[...groups].filter(([, n]) => n >= 2).map(([k]) => { const [cat, c] = k.split('|'); return url(`/best/${cat}-in-${slugify(c)}/`, today, '0.7', 'weekly'); }),
+    url('/countries/', today, '0.6', 'weekly'),
+  ];
+
   const allUrls = [
+    ...roundups,
     ...staticPages,
     ...categoryPages,
     ...hotelPages,

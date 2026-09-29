@@ -1,8 +1,10 @@
 name: Fetch Hotels
 
 on:
-  schedule:
-    - cron: '0 6 * * 1'
+  # Weekly schedule disabled: this job failed every run (needs TRAVELPAYOUTS credentials
+  # as repo secrets). Re-enable the cron below once they are configured.
+  # schedule:
+  #   - cron: '0 6 * * 1'
   workflow_dispatch:
 
 jobs:

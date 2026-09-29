@@ -8,7 +8,7 @@ import TravelServicesBox from '../../components/TravelServicesBox.astro';
 import Faq from '../../components/Faq.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
-import { resolveImage, sizedImage } from '../../lib/images';
+import { resolveImage, sizedImage, fallbackImage } from '../../lib/images';
 import { withTracking, AFFILIATE_REL, expediaSearchUrl, mapsUrl } from '../../lib/affiliate';
 
 export async function getStaticPaths() {
@@ -37,6 +37,7 @@ const metaTitle = seo.metaTitle || `${hotel.data.name} — ${hotel.data.destinat
 const metaDesc  = seo.metaDescription || hotel.data.description;
 
 const hotelImage = resolveImage(hotel.data.coverImage, { category: hotel.data.category, slug: hotel.slug });
+const fbImg = fallbackImage({ category: hotel.data.category });
 const hotelImageLg = sizedImage(hotelImage, 1600);
 const hotelImageOg = sizedImage(hotelImage, 1200);
 
@@ -256,6 +257,7 @@ const faqItems: { q: string; a: string }[] = [
     <div class="rounded-3xl overflow-hidden h-72 sm:h-[480px] relative bg-warm-100">
       <img
         src={hotelImageLg}
+        data-fb-src={fbImg}
         srcset={`${sizedImage(hotelImage, 800)} 800w, ${sizedImage(hotelImage, 1200)} 1200w, ${hotelImageLg} 1600w`}
         sizes="(max-width: 1024px) 100vw, 1200px"
         alt={hotel.data.name}
