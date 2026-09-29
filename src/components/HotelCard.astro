@@ -1,6 +1,6 @@
 ---
 import StayVisual from './StayVisual.astro';
-import { withTracking, AFFILIATE_REL } from '../lib/affiliate';
+import { hotelDealUrl, AFFILIATE_REL } from '../lib/affiliate';
 import { startPrice } from '../lib/site';
 
 interface Props {
@@ -11,7 +11,7 @@ interface Props {
 }
 const { name, destination, country, priceRange, rating, highlights, bookingUrl, slug, category, featured, coverImage, class: cls = '' } = Astro.props;
 const from = startPrice(priceRange);
-const bookUrl = withTracking(bookingUrl, { campaign: 'hotel-card', content: slug });
+const bookUrl = hotelDealUrl(bookingUrl, name, destination, { campaign: 'hotel-card', content: slug });
 ---
 <article class:list={['hotel-card group relative flex flex-col', cls]} data-hotel data-slug={slug} data-name={name.toLowerCase()} data-place={`${destination} ${country}`.toLowerCase()} data-cat={category} data-price={from} data-rating={rating} data-featured={featured ? 1 : 0}>
   <div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-warm-100">

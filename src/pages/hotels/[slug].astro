@@ -4,6 +4,7 @@ import HotelCard from '../../components/HotelCard.astro';
 import CategoryIcon from '../../components/CategoryIcon.astro';
 import StayVisual from '../../components/StayVisual.astro';
 import TripEssentials from '../../components/TripEssentials.astro';
+import PartnerLogo from '../../components/PartnerLogo.astro';
 import Faq from '../../components/Faq.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
@@ -46,10 +47,11 @@ const hotelImageOg = photo ? `https://stayatniche.com${photo}` : 'https://stayat
 const bookUrlTracked = withTracking(hotel.data.bookingUrl, { campaign: 'hotel-detail', content: hotel.slug });
 const isBooking = /booking\.com/.test(hotel.data.bookingUrl);
 const q = encodeURIComponent(`${hotel.data.name}, ${hotel.data.destination.split(',')[0]}`);
+// Expedia first: it is the tracked (commission-earning) hotel partner.
 const offers = [
-  ...(isBooking ? [{ name: 'Booking.com', note: 'Free cancellation on many rooms', url: withTracking(hotel.data.bookingUrl, { campaign: 'hotel-offer', content: hotel.slug }) }] : []),
-  { name: 'Expedia', note: 'Bundle with flights to save', url: withTracking(`https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, { campaign: 'hotel-offer', content: hotel.slug }) },
-  ...(!isBooking ? [{ name: 'Official partner', note: 'Check availability', url: bookUrlTracked }] : []),
+  { name: 'Expedia', logo: 'expedia', note: 'Member prices, bundle with flights', url: withTracking(`https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, { campaign: 'hotel-offer', content: hotel.slug }) },
+  ...(isBooking ? [{ name: 'Booking.com', logo: 'booking', note: 'Free cancellation on many rooms', url: withTracking(hotel.data.bookingUrl, { campaign: 'hotel-offer', content: hotel.slug }) }] : []),
+  ...(!isBooking ? [{ name: 'Official website', logo: '', note: 'Book direct with the property', url: bookUrlTracked }] : []),
 ];
 const from = startPrice(hotel.data.priceRange);
 const mapSrc = hotel.data.coordinates ? (() => { const { lat, lng } = hotel.data.coordinates!; const d = 0.35, f = (x: number) => x.toFixed(4); return `https://www.openstreetmap.org/export/embed.html?bbox=${f(lng - d)}%2C${f(lat - d * 0.6)}%2C${f(lng + d)}%2C${f(lat + d * 0.6)}&layer=mapnik&marker=${lat}%2C${lng}`; })() : null;
@@ -178,7 +180,7 @@ const faqItems: { q: string; a: string }[] = [
       <p class="mt-2 font-body text-xs text-warm-400">Photo: <a href={credit.source} target="_blank" rel="noopener noreferrer" class="underline">{credit.author}</a>, {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{credit.license}</a> : credit.license}, via Wikimedia Commons</p>
     )}
 
-    <div class="mt-10 grid gap-12 lg:grid-cols-[1fr_380px] lg:gap-16">
+    <div class="mt-10 grid grid-cols-1 gap-12 lg:grid-cols-[1fr_380px] lg:gap-16">
       <!-- Main column -->
       <div class="min-w-0">
         <p class="font-display text-[1.7rem] leading-snug text-warm-900 sm:text-3xl">{hotel.data.description}</p>
@@ -257,17 +259,24 @@ const faqItems: { q: string; a: string }[] = [
       </div>
 
       <!-- Booking card -->
-      <aside class="lg:sticky lg:top-24 lg:self-start">
+      <aside class="min-w-0 lg:sticky lg:top-24 lg:self-start">
         <div class="rounded-2xl border border-warm-200 bg-white p-6 shadow-card">
           <p class="font-body text-sm text-warm-600">{from ? <>From <span class="font-display text-4xl text-warm-950">${from.toLocaleString('en-US')}</span> / night</> : 'Rates vary'}</p>
           <p class="mt-1 font-body text-xs text-warm-500">Typical range {hotel.data.priceRange}. Live price depends on dates.</p>
-          <a href={offers[0].url} target="_blank" rel={AFFILIATE_REL} data-cta="primary" class="mt-5 flex w-full items-center justify-center rounded-xl bg-forest-700 px-5 py-4 font-body text-[15px] font-semibold text-white transition hover:bg-forest-800">Check availability on {offers[0].name}</a>
-          <p class="mt-5 eyebrow text-warm-500">Compare</p>
-          <ul class="mt-2 divide-y divide-warm-200 border-y border-warm-200">
+          <a href={offers[0].url} target="_blank" rel={AFFILIATE_REL} data-cta="primary" class="mt-5 flex w-full items-center justify-center gap-2.5 rounded-xl bg-forest-700 px-5 py-4 font-body text-[15px] font-semibold text-white shadow-soft transition hover:bg-forest-800">
+            Check prices on {offers[0].name}
+            <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </a>
+          <p class="mt-2 text-center font-body text-xs text-warm-500">Enter your dates on the next page to see live rates.</p>
+          <p class="mt-6 eyebrow text-warm-500">Compare prices</p>
+          <ul class="mt-2 space-y-2">
             {offers.map(o => (
-              <li><a href={o.url} target="_blank" rel={AFFILIATE_REL} class="group flex items-center justify-between py-3">
-                <span><span class="block font-body text-sm font-semibold text-warm-950">{o.name}</span><span class="block font-body text-xs text-warm-500">{o.note}</span></span>
-                <span class="font-body text-sm font-semibold text-forest-700 group-hover:underline">View ↗</span>
+              <li><a href={o.url} target="_blank" rel={AFFILIATE_REL} class="group flex items-center gap-3 rounded-xl border border-warm-200 p-3 transition hover:border-forest-400 hover:bg-forest-50/40">
+                {o.logo ? <PartnerLogo partner={o.logo} name={o.name} size={36} /> : (
+                  <span class="grid h-9 w-9 flex-shrink-0 place-items-center rounded-xl bg-warm-100 text-warm-700" aria-hidden="true"><svg viewBox="0 0 24 24" class="h-[18px] w-[18px]" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7M5 10v10h14V10M10 20v-6h4v6"/></svg></span>
+                )}
+                <span class="min-w-0 flex-1"><span class="block font-body text-sm font-semibold text-warm-950">{o.name}</span><span class="block truncate font-body text-xs text-warm-500">{o.note}</span></span>
+                <span class="rounded-lg bg-warm-100 px-2.5 py-1.5 font-body text-xs font-semibold text-warm-900 transition group-hover:bg-forest-700 group-hover:text-white">View deal</span>
               </a></li>
             ))}
           </ul>

@@ -1,0 +1,15 @@
+---
+/** A partner's own app icon from public/partners/<key>.png, or a lettered fallback tile. */
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+interface Props { partner: string; name: string; size?: number; class?: string }
+const { partner: key, name, size = 44, class: cls = '' } = Astro.props;
+const src = `/partners/${key}.png`;
+const has = existsSync(join(process.cwd(), 'public', 'partners', `${key}.png`));
+---
+{has ? (
+  <img src={src} alt={`${name} logo`} width={size} height={size} loading="lazy" decoding="async"
+    class:list={['flex-shrink-0 rounded-xl bg-white object-contain ring-1 ring-warm-200', cls]} style={`width:${size}px;height:${size}px`} />
+) : (
+  <span aria-hidden="true" class:list={['grid flex-shrink-0 place-items-center rounded-xl bg-forest-800 font-body font-semibold text-white', cls]} style={`width:${size}px;height:${size}px;font-size:${Math.round(size * 0.42)}px`}>{name.charAt(0)}</span>
+)}
