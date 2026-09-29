@@ -31,7 +31,7 @@ seo:
   metaDescription: "Affronta 23 km di rapide di classe IV-V nella Batoka Gorge, la discesa di rafting in giornata più celebre al mondo, sotto le Cascate Vittoria. Da 160 $."
 ---
 
-La prima cosa è il suono. Molto prima che il gommone raggiunga la prima rapida, senti lo Zambesi: un boato profondo, quasi al di sotto della soglia dell'udito, che le pareti della gola amplificano fino a renderlo quasi fisico. Dal punto d'imbarco sotto le Cascate Vittoria, alzando lo sguardo verso le pareti di basalto alte 120 metri su entrambi i lati e abbassandolo su un fiume che ha appena fatto un salo di 108 metri in un'unica cortina d'acqua, capisci subito che oggi non sarà una giornata qualunque.
+La prima cosa è il suono. Molto prima che il gommone raggiunga la prima rapida, senti lo Zambesi: un boato profondo, quasi al di sotto della soglia dell'udito, che le pareti della gola amplificano fino a renderlo quasi fisico. Dal punto d'imbarco sotto le Cascate Vittoria, alzando lo sguardo verso le pareti di basalto alte 120 metri su entrambi i lati e abbassandolo su un fiume che ha appena fatto un salto di 108 metri in un'unica cortina d'acqua, capisci subito che oggi non sarà una giornata qualunque.
 
 A valle delle cascate lo Zambesi è un fiume completamente diverso dall'ampio e placido corso d'acqua a monte. Le Cascate Vittoria comprimono una portata media di 1.088 metri cubi al secondo in uno stretto abisso di basalto, e l'idraulica che ne risulta crea rapide potenti e tecnicamente complesse. Il fiume è navigato a livello commerciale dagli anni Ottanta, e le squadre di guide, per lo più uomini dello Zimbabwe e dello Zambia che hanno passato anni a leggere proprio questo tratto d'acqua, conoscono per nome ogni buco, ogni treno d'onde e ogni controcorrente.
 
