@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import HotelCard from '../../components/HotelCard.astro';
-import AffiliateBookingBox from '../../components/AffiliateBookingBox.astro';
+import { withTracking, AFFILIATE_REL } from '../../lib/affiliate';
 import { getCollection } from 'astro:content';
 import { resolveImage, sizedImage } from '../../lib/images';
 
@@ -196,12 +196,30 @@ const destJsonLd = {
           </div>
         )}
 
-        <!-- Multi-partner booking box -->
-        <AffiliateBookingBox
-          destination={dest.data.name}
-          country={dest.data.country || dest.data.name}
-          type="destination"
-        />
+        <!-- Book the trip (neutral partner list) -->
+        {(() => {
+          const place = encodeURIComponent(`${dest.data.name}${dest.data.country && dest.data.country !== dest.data.name ? ', ' + dest.data.country : ''}`);
+          const items = [
+            ['Hotels', 'Expedia', `https://www.expedia.com/Hotel-Search?destination=${place}&adults=2`],
+            ['Tours & activities', 'Klook', `https://www.klook.com/en-US/search-results/?query=${place}`],
+            ['Attraction tickets', 'Tiqets', `https://tiqets.com/en/search/?q=${place}`],
+            ['Flights', 'Kiwi.com', `https://www.kiwi.com/en/search/results/anywhere/${place}/anytime/anytime`],
+          ];
+          return (
+            <div class="rounded-2xl border border-warm-200 bg-white p-5">
+              <p class="eyebrow text-warm-500">Book the trip</p>
+              <ul class="mt-2 divide-y divide-warm-200">
+                {items.map(([label, brand, url]) => (
+                  <li><a href={withTracking(url, { campaign: 'destination', content: dest.slug })} target="_blank" rel={AFFILIATE_REL} class="group flex items-center justify-between py-3">
+                    <span><span class="block font-body text-sm font-semibold text-warm-950">{label}</span><span class="block font-body text-xs text-warm-500">{brand}</span></span>
+                    <span class="text-warm-400 group-hover:text-warm-950" aria-hidden="true">↗</span>
+                  </a></li>
+                ))}
+              </ul>
+              <p class="mt-2 font-body text-[11px] text-warm-400">Affiliate links, no extra cost to you.</p>
+            </div>
+          );
+        })()}
 
         <!-- Browse stays CTA -->
         <div class="bg-forest-50 border border-forest-100 rounded-2xl p-5">
