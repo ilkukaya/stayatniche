@@ -5,5 +5,11 @@
   "pinterestTagId": "",
   "hotjarId": "",
   "clarityId": "",
-  "plausibleDomain": ""
+  "plausibleDomain": "",
+  "adsenseClient": "",
+  "adsenseSlots": {
+    "hotel-inline": "",
+    "blog-inline": "",
+    "category-inline": ""
+  }
 }

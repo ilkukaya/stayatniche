@@ -15,7 +15,7 @@ interface Props {
 
 const { destination, country, category = '' } = Astro.props;
 
-const marker = '478307';
+import { tpLink as _tp, TP_MARKER as marker } from '../lib/affiliate';
 const destEnc = encodeURIComponent(destination);
 const countryEnc = encodeURIComponent(country);
 const fullEnc = encodeURIComponent(`${destination}, ${country}`);
@@ -50,9 +50,7 @@ const showBike = bikeRelevant.includes(country);
 const showBoat = boatRelevant.includes(country);
 
 // --- Affiliate links (via tp.media with marker) ---
-function tpLink(programId: string, targetUrl: string): string {
-  return `https://tp.media/r?marker=${marker}&p=${programId}&u=${encodeURIComponent(targetUrl)}`;
-}
+const tpLink = (programId: string, targetUrl: string) => _tp(programId, targetUrl, 'box-' + destination.toLowerCase().replace(/[^a-z0-9]+/g, '-'));
 
 // Car rental links (destination-aware search)
 const localrentUrl = tpLink('6202', `https://localrent.com/en/?location=${destEnc}`);

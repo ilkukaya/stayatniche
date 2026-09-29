@@ -22,14 +22,40 @@ export interface AffiliateOptions {
   partner?: string;
 }
 
+// ── Travelpayouts routing ─────────────────────────────────────────────────
+// Single source of truth for partner IDs. Every outbound partner link on the
+// site goes through `withTracking()`, which auto-detects the partner from the
+// hostname and wraps the URL in a tracked tp.media redirect. A link that is
+// NOT wrapped earns no commission — so never build partner hrefs by hand.
+import { TP_MARKER, TP_PROGRAMS } from './tp-programs.mjs';
+export { TP_MARKER };
+
+/** Booking.com Partner ID (aid). Fill in once approved; empty = plain link. */
+export const BOOKING_AID = '';
+
+function programFor(host: string): string | undefined {
+  const h = host.replace(/^www\./, '');
+  return TP_PROGRAMS[h];
+}
+
+/** Wrap any URL in a Travelpayouts tracked redirect. */
+export function tpLink(programId: string, targetUrl: string, subId?: string): string {
+  const sub = subId ? `&sub_id=${encodeURIComponent(subId.slice(0, 60))}` : '';
+  return `https://tp.media/r?marker=${TP_MARKER}&p=${programId}&u=${encodeURIComponent(targetUrl)}${sub}`;
+}
+
 /**
- * Decorate an outbound URL with UTM params. Safe for URLs that already
- * include query strings or hashes.
+ * Decorate an outbound URL for revenue tracking.
+ *  - internal/anchor links are returned untouched
+ *  - Travelpayouts partners are wrapped in a tracked tp.media redirect
+ *    (with a sub_id so earnings can be attributed to a page/placement)
+ *  - Booking.com gets the partner `aid` when configured
+ *  - everything else gets UTM parameters
  */
 export function withTracking(url: string, opts: AffiliateOptions = {}): string {
   if (!url) return url;
-  // Don't track internal links.
   if (url.startsWith('/') || url.startsWith('#')) return url;
+  if (url.startsWith('https://tp.media/')) return url;
 
   let u: URL;
   try {
@@ -38,12 +64,21 @@ export function withTracking(url: string, opts: AffiliateOptions = {}): string {
     return url;
   }
 
+  const sub = [opts.campaign, opts.content].filter(Boolean).join('_');
+  const pid = programFor(u.hostname);
+  if (pid) return tpLink(pid, u.toString(), sub || 'site');
+
+  if (BOOKING_AID && /(^|\.)booking\.com$/.test(u.hostname)) {
+    if (!u.searchParams.has('aid')) u.searchParams.set('aid', BOOKING_AID);
+    if (sub) u.searchParams.set('label', sub.slice(0, 60));
+    return u.toString();
+  }
+
   const params: Record<string, string> = {
     ...UTM_DEFAULTS,
     utm_campaign: opts.campaign ?? 'site',
   };
   if (opts.content) params.utm_content = opts.content;
-
   for (const [k, v] of Object.entries(params)) {
     if (!u.searchParams.has(k)) u.searchParams.set(k, v);
   }

@@ -3,17 +3,17 @@ import { getCollection } from 'astro:content';
 
 const SITE = 'https://stayatniche.com';
 
-function url(path: string, lastmod: string, priority: string, changefreq: string): string {
+function url(path: string, lastmod: string | undefined, priority: string, changefreq: string): string {
   return `  <url>
-    <loc>${SITE}${path}</loc>
-    <lastmod>${lastmod}</lastmod>
+    <loc>${SITE}${path}</loc>${lastmod ? `\n    <lastmod>${lastmod}</lastmod>` : ''}
     <changefreq>${changefreq}</changefreq>
     <priority>${priority}</priority>
   </url>`;
 }
 
 export const GET: APIRoute = async () => {
-  const today = new Date().toISOString().split('T')[0];
+  // Google ignores lastmod if it is always "today", so only emit real dates.
+  const today = undefined as string | undefined;
 
   const hotels = await getCollection('hotels', h =>
     h.data.status !== 'draft' && h.data.status !== 'archived'
@@ -30,6 +30,8 @@ export const GET: APIRoute = async () => {
     url('/blog/',         today, '0.8', 'daily'),
     url('/destinations/', today, '0.8', 'weekly'),
     url('/experiences/',  today, '0.7', 'weekly'),
+    url('/search/',       today, '0.4', 'monthly'),
+    url('/newsletter/',   today, '0.3', 'monthly'),
     url('/about/',        today, '0.5', 'monthly'),
     url('/contact/',      today, '0.4', 'monthly'),
     url('/disclosure/',   today, '0.3', 'monthly'),
@@ -41,7 +43,7 @@ export const GET: APIRoute = async () => {
       ? new Date(h.data.updatedDate).toISOString().split('T')[0]
       : h.data.publishedDate
         ? new Date(h.data.publishedDate).toISOString().split('T')[0]
-        : today;
+        : undefined;
     return url(`/hotels/${h.slug}/`, lastmod, '0.8', 'monthly');
   });
 

@@ -1,0 +1,22 @@
+---
+/**
+ * AdSlot: Google AdSense unit. Renders NOTHING until an AdSense publisher ID
+ * is set in src/content/settings/analytics.json ("adsenseClient": "ca-pub-…")
+ * and the slot's own ID is passed (or set under "adsenseSlots"). Reserved
+ * min-height prevents layout shift (CLS) once ads load.
+ */
+import { getEntry } from 'astro:content';
+interface Props { slot?: string; format?: 'auto' | 'rectangle' | 'horizontal'; class?: string; }
+const { slot = 'default', format = 'auto', class: cls = '' } = Astro.props;
+const a = (await getEntry('settings', 'analytics').catch(() => null))?.data ?? {};
+const client = (a.adsenseClient as string) || '';
+const slots = (a.adsenseSlots as Record<string, string>) || {};
+const slotId = slots[slot] || '';
+---
+{client && slotId && (
+  <aside class:list={['ad-slot my-8 text-center', cls]} aria-label="Advertisement">
+    <p class="mb-1 font-body text-[10px] uppercase tracking-widest text-warm-400">Advertisement</p>
+    <ins class="adsbygoogle block" style="display:block;min-height:250px" data-ad-client={client} data-ad-slot={slotId} data-ad-format={format} data-full-width-responsive="true"></ins>
+    <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </aside>
+)}
