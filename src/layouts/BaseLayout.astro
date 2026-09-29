@@ -132,9 +132,9 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       "url": canonical,
       "logo": {
         "@type": "ImageObject",
-        "url": `${canonical}/logo.svg`,
-        "width": 200,
-        "height": 60
+        "url": `${canonical}/logo.png`,
+        "width": 512,
+        "height": 512
       },
       "sameAs": sameAs
     })} />
@@ -215,6 +215,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     </noscript>
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <meta name="theme-color" content="#FAF9F6" />

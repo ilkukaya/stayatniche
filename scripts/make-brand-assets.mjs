@@ -1,24 +1,16 @@
-// Generates og-default.png (1200x630), apple-touch-icon.png and PWA icons from SVG.
-// Run: node scripts/make-brand-assets.mjs
+// Brand icons from the "niche" mark (public/favicon.svg). Run: node scripts/make-brand-assets.mjs
+// The social card (public/og-default.png) is rendered separately in a browser so it can use
+// the site's typefaces; see scripts/og-card.html.
 import sharp from 'sharp';
-import { writeFileSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 
-const og = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14412A"/><stop offset="1" stop-color="#082417"/></linearGradient>
-    <radialGradient id="r" cx="0.85" cy="0.1" r="0.7"><stop offset="0" stop-color="#F8931E" stop-opacity="0.55"/><stop offset="1" stop-color="#F8931E" stop-opacity="0"/></radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="url(#g)"/><rect width="1200" height="630" fill="url(#r)"/>
-  <path transform="translate(96 96) scale(3)" fill="#FBBA62" d="M12 2l2.9 6.6 7.1.7-5.4 4.8 1.7 6.9L12 17.4 5.7 21l1.7-6.9L2 9.3l7.1-.7L12 2z"/>
-  <text x="96" y="330" font-family="Georgia, serif" font-size="92" font-weight="700" fill="#FBF8F4">Hotels worth</text>
-  <text x="96" y="430" font-family="Georgia, serif" font-size="92" font-weight="700" font-style="italic" fill="#FBBA62">the trip.</text>
-  <text x="96" y="520" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#DBF4E5">Treehouses, caves, underwater rooms, safari lodges &amp; more</text>
-  <text x="96" y="574" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#FBF8F4">StayAtNiche.com</text>
-</svg>`;
-await sharp(Buffer.from(og)).png().toFile('public/og-default.png');
+const mark = readFileSync('public/favicon.svg');
+// Full-bleed variant for maskable/apple icons (platforms apply their own corner rounding).
+const bleed = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#133B2F"/><g transform="translate(9.6 9.6) scale(.7)"><path d="M20 50V28a12 12 0 0 1 24 0v22" fill="none" stroke="#FAF9F6" stroke-width="4.5" stroke-linecap="round"/><path d="M14 50h36" stroke="#FAF9F6" stroke-width="4.5" stroke-linecap="round"/><circle cx="32" cy="36" r="4.2" fill="#DF7A48"/></g></svg>`);
 
-const icon = (bg) => `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" fill="${bg}"/><path transform="translate(96 96) scale(13.33)" fill="#FBBA62" d="M12 2l2.9 6.6 7.1.7-5.4 4.8 1.7 6.9L12 17.4 5.7 21l1.7-6.9L2 9.3l7.1-.7L12 2z"/></svg>`;
-for (const [name, size] of [['apple-touch-icon.png', 180], ['icon-192.png', 192], ['icon-512.png', 512]]) {
-  await sharp(Buffer.from(icon('#1F7D4A'))).resize(size, size).png().toFile(`public/${name}`);
-}
-console.log('brand assets written');
+await sharp(mark, { density: 384 }).resize(32, 32).png().toFile('public/favicon-32.png');
+await sharp(mark, { density: 768 }).resize(512, 512).png().toFile('public/logo.png');
+await sharp(bleed, { density: 384 }).resize(180, 180).png().toFile('public/apple-touch-icon.png');
+await sharp(bleed, { density: 384 }).resize(192, 192).png().toFile('public/icon-192.png');
+await sharp(bleed, { density: 768 }).resize(512, 512).png().toFile('public/icon-512.png');
+console.log('icons written');

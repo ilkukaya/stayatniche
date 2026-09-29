@@ -27,9 +27,7 @@ const bookUrl = withTracking(bookingUrl, { campaign: 'hotel-card', content: slug
         <a href={`/hotels/${slug}/`} class="after:absolute after:inset-0 after:z-10 after:content-['']">{name}</a>
       </h3>
       {rating != null && (
-        <span class="flex flex-shrink-0 items-center gap-1 font-body text-sm tabular-nums text-warm-900" title="Editor score out of 10">
-          <svg class="h-3 w-3 text-warm-900" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10 1l2.6 5.9 6.4.6-4.9 4.3 1.5 6.2L10 15l-5.6 2.9 1.5-6.2L1 7.5l6.4-.6L10 1z"/></svg>{rating.toFixed(1)}
-        </span>
+        <span class="flex-shrink-0 rounded-md bg-forest-800 px-1.5 py-0.5 font-body text-[12px] font-semibold tabular-nums text-white" title="Editor score out of 10">{rating.toFixed(1)}</span>
       )}
     </div>
     <p class="mt-0.5 truncate font-body text-sm text-warm-500">{destination}, {country}</p>
