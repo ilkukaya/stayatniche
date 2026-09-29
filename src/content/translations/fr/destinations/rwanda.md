@@ -26,7 +26,7 @@ travelTips:
   - "Kigali est régulièrement classée capitale la plus propre et la plus sûre d’Afrique : c’est une excellente base, qui mérite vraiment une journée de découverte avant de rejoindre les volcans."
 seo:
   metaTitle: "Rwanda : gorilles, volcans et lodges | StayAtNiche"
-  metaDescription: "Guide du Rwanda : trek des gorilles des montagnes, volcans des Virunga, chimpanzés de Nyungwe et les lodges de luxe engagés pour la conservation les plus remarquables d’Afrique."
+  metaDescription: "Rwanda : trek des gorilles, volcans des Virunga, chimpanzés de Nyungwe et lodges de luxe engagés pour la conservation, parmi les plus beaux du continent."
 ---
 
 En 1994, le Rwanda a connu l’un des pires génocides du XXe siècle : 800 000 morts en 100 jours. Trois décennies plus tard, le pays domine régulièrement les classements africains en matière de gouvernance, de sécurité, de propreté et de croissance économique. Kigali est la capitale la plus ordonnée du continent. Les routes sont entretenues. L’interdiction des sacs en plastique, en vigueur depuis 2008, a rendu les paysages rwandais visiblement plus propres que ceux de presque tous les autres pays du continent. Et dans les montagnes volcaniques des Virunga, au nord-ouest, vit la dernière population sauvage de gorilles des montagnes au monde.

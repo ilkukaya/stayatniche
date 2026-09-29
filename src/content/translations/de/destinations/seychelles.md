@@ -26,7 +26,7 @@ travelTips:
   - "Die Nuss der Seychellenpalme ist geschützt – kaufen Sie nur zertifizierte Nüsse mit Papieren bei lizenzierten Händlern, sonst droht die Beschlagnahme durch den Zoll."
 seo:
   metaTitle: "Seychellen Reiseführer: Privatinseln & Villen | StayAtNiche"
-  metaDescription: "Seychellen-Ratgeber: das Vallée de Mai auf Praslin, Granitstrände auf La Digue, Wasservillen, Privatinsel-Resorts und die schönste Unterwasserwelt im Indischen Ozean."
+  metaDescription: "Seychellen-Ratgeber: das Vallée de Mai auf Praslin, Granitstrände auf La Digue, Wasservillen, Privatinseln und die schönste Unterwasserwelt im Indischen Ozean."
 ---
 
 Die Seychellen stehen weit oben auf den Traumlisten der meisten Reisenden: 115 Inseln, verstreut über den westlichen Indischen Ozean, fernab der Schifffahrtswege, bekannt für weißen Sand, türkisfarbenes Wasser und äußerste Diskretion. Die Wirklichkeit hält all das. Am meisten haben jene Reisenden von den Seychellen, die über die bekannten inneren Inseln hinaus zu den äußeren Atollen vordringen, wo die Meereswelt zu den unberührtesten und klarsten gehört, die es auf der Erde noch gibt.

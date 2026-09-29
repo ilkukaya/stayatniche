@@ -29,7 +29,7 @@ travelTips:
   - "La Blue Ridge Parkway, qui relie les Smokies à Shenandoah, est l’une des plus belles routes des États-Unis, et elle est presque entièrement gratuite."
 seo:
   metaTitle: "Great Smoky Mountains : cabanes et chalets | StayAtNiche"
-  metaDescription: "Great Smoky Mountains : chalets de montagne isolés, cabanes dans les arbres, lodges historiques et hôtels de charme à Asheville. Notre guide des adresses insolites."
+  metaDescription: "Great Smoky Mountains : chalets de montagne isolés, cabanes dans les arbres, lodges historiques et hôtels de charme à Asheville. Notre sélection."
 ---
 
 Les Smokies sont plus anciennes que les Alpes. Ces crêtes appalachiennes ont été polies par 300 millions d’années d’érosion en formes d’une douceur inhabituelle : l’antithèse du spectacle patagonien, mais tout aussi fascinantes. La fameuse brume bleue qui leur donne leur nom est bien réelle : les composés organiques volatils libérés par la forêt dense créent un voile naturel qui teinte les crêtes d’azur à distance. Le parc compte plus d’espèces d’arbres que toute l’Europe du Nord.

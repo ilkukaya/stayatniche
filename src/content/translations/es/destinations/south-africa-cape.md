@@ -26,7 +26,7 @@ travelTips:
   - "Se espera una propina del 10-15 %, y es importante en un país donde los sueldos del personal de servicio son bajos."
 seo:
   metaTitle: "Ciudad del Cabo y región: guía de viaje | StayAtNiche"
-  metaDescription: "Guía de la región del Cabo: la Montaña de la Mesa, los Winelands, el avistamiento de ballenas y los hoteles boutique y lodges más especiales cerca de Ciudad del Cabo."
+  metaDescription: "Guía de la región del Cabo: la Montaña de la Mesa, los Winelands, el avistamiento de ballenas y los hoteles boutique y lodges más especiales del Cabo."
 ---
 
 En un radio de 200 kilómetros alrededor de Ciudad del Cabo se concentran algunos de los paisajes costeros más espectaculares del hemisferio sur, dos valles vinícolas realmente excepcionales, una fauna marina notable y una ciudad cuyo emplazamiento, entre dos océanos y a los pies de una montaña de cima plana que fabrica su propio clima, ha sido calificado como el más bello del mundo. Cuesta llevar la contraria desde la cima de la Montaña de la Mesa en un día despejado.

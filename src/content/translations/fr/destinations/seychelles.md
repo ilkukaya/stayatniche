@@ -25,7 +25,7 @@ travelTips:
   - "Des chaussons de récif sont indispensables sur de nombreuses plages, où les oursins peuplent les hauts-fonds."
   - "Le coco de mer est une espèce protégée : n’achetez que des noix certifiées, avec documents, auprès de vendeurs agréés, sous peine de confiscation en douane."
 seo:
-  metaTitle: "Seychelles : îles privées et villas sur pilotis | StayAtNiche"
+  metaTitle: "Seychelles : îles privées et pilotis | StayAtNiche"
   metaDescription: "Seychelles : vallée de Mai à Praslin, plages de granit de La Digue, villas sur pilotis, îles-hôtels privées et la plus belle vie marine de l’océan Indien."
 ---
 

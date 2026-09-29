@@ -29,7 +29,7 @@ travelTips:
   - "Auf einspurigen Straßen ist Geduld gefragt: Nutzen Sie stets die Ausweichstellen und fahren Sie nie hektisch."
 seo:
   metaTitle: "Schottland Reiseführer: Schlosshotels & Inseln | StayAtNiche"
-  metaDescription: "Schottlands außergewöhnlichste Unterkünfte: Schlosshotels, abgelegene Lodges in den Highlands und Verstecke auf der Isle of Skye – Ihr Ratgeber für besondere Reisen."
+  metaDescription: "Schottlands außergewöhnlichste Unterkünfte: Schlosshotels, abgelegene Lodges in den Highlands und Verstecke auf der Isle of Skye – Ihr Ratgeber für Schottland."
 ---
 
 In Schottland spricht vor allem die Landschaft. Zackige Gipfel stürzen in schwarze Meeresarme, uralte Kiefernwälder bieten Eichhörnchen und Fischadlern Schutz, und auf jedem markanten Felsen erhebt sich eine steinerne Burg, als hätten die Gletscher sie selbst dort abgelegt. Verlassen Sie die Hauptstraßen, und Sie verstehen schnell, warum die Menschen immer wieder zurückkehren.

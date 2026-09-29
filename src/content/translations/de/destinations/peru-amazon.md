@@ -26,7 +26,7 @@ travelTips:
   - "Nehmen Sie kleine Scheine in Soles mit – Taxis, Märkte und Dorfgemeinschaften haben für größere Scheine selten Wechselgeld."
 seo:
   metaTitle: "Peru Reiseführer: Machu Picchu & Amazonas | StayAtNiche"
-  metaDescription: "Peru-Ratgeber: Machu Picchu, Cusco, der Inka-Pfad, Dschungel-Lodges im Amazonas und der Titicacasee – planen Sie Ihre Abenteuer- und Kulturreise nach Südamerika."
+  metaDescription: "Peru-Ratgeber: Machu Picchu, Cusco, der Inka-Pfad, Dschungel-Lodges im Amazonas und der Titicacasee – planen Sie Ihre Abenteuer- und Kulturreise in Südamerika."
 ---
 
 Peru bündelt mehr unterschiedliche Reiseerlebnisse in einem einzigen Land als fast jeder andere Ort der Hemisphäre: die Baukunst der Inka, spanische Kolonialpracht, die Kultur des Andenhochlands, die Küche der Pazifikküste und der Regenwald des westlichen Amazonas liegen hier innerhalb derselben Grenzen. Seine Geschichte, von Chavín über Tiwanaku und die Inka bis zum Vizekönigreich, gehört zu den reichsten Amerikas, und der Zusammenprall der spanischen Konquistadoren mit dem größten politischen Gebilde des präkolumbischen Amerikas im 16. Jahrhundert hinterließ ein architektonisches und kulturelles Erbe, das eine ernsthafte Erkundung belohnt.
