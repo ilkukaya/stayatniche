@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Tsala Treetop Lodge",
+    "country": "South Africa",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Tsala Treetop Lodge",
+      "display": "Tsala Treetop Lodge, N2, Bitou Ward 7, Bitou Local Municipality, George, Western Cape, 6604, South Africa",
+      "lat": -34.0521781,
+      "lng": 23.2704538,
+      "website": "https://www.hunterhotels.com/tsalatreetoplodge/"
+    },
+    "wikidata": {
+      "id": "Q111401316",
+      "label": "Tsala Treetop Lodge",
+      "desc": "hotel in South Africa",
+      "lat": -34.05043,
+      "lng": 23.27214,
+      "distKm": 0.2,
+      "website": null,
+      "dissolved": false,
+      "image": false
+    }
+  },
+  {
+    "name": "Chewton Glen Treehouses",
+    "country": "United Kingdom",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "TreeHouse Point",
+    "country": "United States",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=guest_house",
+      "name": "Treehouse Point",
+      "display": "Treehouse Point, 6922, Preston Fall City Road Southeast, Issaquah, King County, Washington, 98027, United States",
+      "lat": 47.5378731,
+      "lng": -121.9108621,
+      "website": "https://www.treehousepoint.com"
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Out'n'About Treehouse Treesort",
+    "country": "United States",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Out'n'About Treehouse Treesort",
+      "display": "Out'n'About Treehouse Treesort, 300, Page Creek Road, Josephine County, Oregon, United States",
+      "lat": 42.0371468,
+      "lng": -123.6228584,
+      "website": "https://treehouses.com/"
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Treetops Hotel",
+    "country": "Kenya",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Treetops Lodge",
+      "display": "Treetops Lodge, Aberdare Ranger Path, Gatarakwa ward, Kieni West, Nyeri, 10104, Kenya",
+      "lat": -0.3601251,
+      "lng": 36.9006129,
+      "website": null
+    },
+    "wikidata": {
+      "id": "Q14916266",
+      "label": "Treetops Hotel",
+      "desc": "building in Kenya",
+      "lat": -0.35975,
+      "lng": 36.90041,
+      "distKm": 0,
+      "website": "https://treetops.ke/",
+      "dissolved": false,
+      "image": true
+    }
+  },
+  {
+    "name": "Tongabezi Lodge",
+    "country": "Zambia",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Tongabezi Lodge",
+      "display": "Tongabezi Lodge, Kazungula Road, Simonga, Livingstone District, Southern Province, Zambia",
+      "lat": -17.8210545,
+      "lng": 25.7034828,
+      "website": null
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Lion Sands Chalkley Treehouse",
+    "country": "South Africa",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Woodnest Odda",
+    "country": "Norway",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Baumhaushotel Seemühle",
+    "country": "Germany",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Baumhaushotel Seemühle",
+      "display": "Baumhaushotel Seemühle, 1, Seemühle, Gräfendorf, Verwaltungsgemeinschaft Gemünden a. Main, Landkreis Main-Spessart, Bavaria, 97782, Germany",
+      "lat": 50.1301435,
+      "lng": 9.7465846,
+      "website": "https://www.das-baumhaushotel.de/"
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Château dans les Arbres",
+    "country": "France",
+    "alreadyListed": false,
+    "status": "found-not-lodging",
+    "osm": {
+      "cls": "historic=castle",
+      "name": "Château Saint-Paul",
+      "display": "Château Saint-Paul, Rue du Bourg, Saint-Laurent, Bouscarade, Salles-la-Source, Rodez, Aveyron, Occitania, Metropolitan France, 12330, France",
+      "lat": 44.4347904,
+      "lng": 2.5132161,
+      "website": null
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Cabanes des Grands Lacs",
+    "country": "France",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=guest_house",
+      "name": "Les Cabanes des Grands Lacs",
+      "display": "Les Cabanes des Grands Lacs, Chamin du Moulin, Bonnal, Besançon, Doubs, Bourgogne – Franche-Comté, Metropolitan France, 25680, France",
+      "lat": 47.5094429,
+      "lng": 6.355954,
+      "website": null
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Finca Bellavista",
+    "country": "Costa Rica",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=guest_house",
+      "name": "Finca Bellavista",
+      "display": "Finca Bellavista, Calle La Florida, Bellavista, La Florida, Piedras Blancas, Osa, Puntarenas Province, 60505, Costa Rica",
+      "lat": 8.7795833,
+      "lng": -83.20721,
+      "website": "https://www.fincabellavistacommunity.com"
+    },
+    "wikidata": {
+      "id": "Q5449795",
+      "label": "Finca Bellavista",
+      "desc": "",
+      "lat": 8.78338,
+      "lng": -83.2113,
+      "distKm": 0.6,
+      "website": "http://www.fincabellavista.com/",
+      "dissolved": false,
+      "image": false
+    }
+  },
+  {
+    "name": "Playa Viva",
+    "country": "Mexico",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Vythiri Resort",
+    "country": "India",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "leisure=resort",
+      "name": "vythiri village resort",
+      "display": "vythiri village resort, 453,454(), Old Vythiri, Chundale, Vythiri, Wayanad, Kerala, 673576, India",
+      "lat": 11.5588113,
+      "lng": 76.043127,
+      "website": null
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Green Magic Nature Resort",
+    "country": "India",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Tree House Resort Jaipur",
+    "country": "India",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Canopy Tower",
+    "country": "Panama",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=viewpoint",
+      "name": "Canopy Tower",
+      "display": "Canopy Tower, Semaphore Hill, Ancón, Distrito de Panamá, Panamá Province, 7338, Panama",
+      "lat": 9.0777296,
+      "lng": -79.6491198,
+      "website": null
+    },
+    "wikidata": {
+      "id": "Q114797287",
+      "label": "Canopy Tower",
+      "desc": "birding spot and hotel in Panama",
+      "lat": 9.07766196579803,
+      "lng": -79.64927529106818,
+      "distKm": 0,
+      "website": "https://canopytower.com/canopy-tower/",
+      "dissolved": false,
+      "image": false
+    }
+  },
+  {
+    "name": "Lost Meadow Treehouse",
+    "country": "United Kingdom",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Harads Arctic Treehouse Hotel",
+    "country": "Sweden",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Kolarbyn Eco Lodge",
+    "country": "Sweden",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": {
+      "id": "Q18291298",
+      "label": "Kolarbyn Eco-Lodge",
+      "desc": "",
+      "lat": 59.8082,
+      "lng": 15.7303,
+      "distKm": 0,
+      "website": null,
+      "dissolved": false,
+      "image": true
+    }
+  },
+  {
+    "name": "Hotel Anfiteatro Bocas",
+    "country": "Panama",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Treehouse Lodge Iquitos",
+    "country": "Peru",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Tree Tops Jungle Lodge",
+    "country": "Cambodia",
+    "alreadyListed": false,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Hapuku Lodge",
+    "country": "New Zealand",
+    "alreadyListed": false,
+    "status": "found-not-lodging",
+    "osm": {
+      "cls": "highway=residential",
+      "name": "Hapuku Street",
+      "display": "Hapuku Street, Stortford Lodge, Frimley, Hastings, Hastings District, Hawke's Bay, 4120, New Zealand",
+      "lat": -39.6272299,
+      "lng": 176.8285345,
+      "website": null
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Inkaterra Canopy Treehouse",
+    "country": "Peru",
+    "alreadyListed": true,
+    "status": "not-found",
+    "osm": null,
+    "wikidata": null
+  },
+  {
+    "name": "Keemala",
+    "country": "Thailand",
+    "alreadyListed": false,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Keemala",
+      "display": "Keemala, Phra Barami Road, Kamala, Kathu District, Phuket Province, 83150, Thailand",
+      "lat": 7.9431911,
+      "lng": 98.2788779,
+      "website": null
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Free Spirit Spheres",
+    "country": "Canada",
+    "alreadyListed": true,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Free Spirit Spheres",
+      "display": "Free Spirit Spheres, 420, Horne Lake Road, Dunsmuir, Area H (Lighthouse Country), Regional District of Nanaimo, British Columbia, V9K 1Z2, Canada",
+      "lat": 49.3819735,
+      "lng": -124.6143812,
+      "website": "https://freespiritspheres.com/"
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Treehotel",
+    "country": "Sweden",
+    "alreadyListed": true,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Treehotel",
+      "display": "Treehotel, 2A, Edeforsvägen, Harads, Bodens kommun, Norrbotten County, 961 78, Sweden",
+      "lat": 66.0728585,
+      "lng": 20.9818697,
+      "website": "https://treehotel.se"
+    },
+    "wikidata": {
+      "id": "Q62949281",
+      "label": "Treehotel",
+      "desc": "hotel in Harads, Sweden.",
+      "lat": 66.072861111111,
+      "lng": 20.981833333333,
+      "distKm": 0,
+      "website": null,
+      "dissolved": false,
+      "image": true
+    }
+  },
+  {
+    "name": "The Gibbon Experience",
+    "country": "Laos",
+    "alreadyListed": true,
+    "status": "found-not-lodging",
+    "osm": {
+      "cls": "tourism=attraction",
+      "name": "The Gibbon Experience treehouse (2 day express tour)",
+      "display": "The Gibbon Experience treehouse (2 day express tour), 3, Nalouang, Houaixai District, Bokeo Province, Laos",
+      "lat": 20.41163,
+      "lng": 100.69757,
+      "website": null
+    },
+    "wikidata": null
+  },
+  {
+    "name": "Bambu Indah",
+    "country": "Indonesia",
+    "alreadyListed": true,
+    "status": "verified",
+    "osm": {
+      "cls": "tourism=hotel",
+      "name": "Bambu Indah",
+      "display": "Bambu Indah, Jalan Baung, Penestanan, Sayan, Ubud District, Gianyar, Bali, 80517, Indonesia",
+      "lat": -8.5122246,
+      "lng": 115.2384054,
+      "website": "https://www.bambuindah.com/"
+    },
+    "wikidata": {
+      "id": "Q115795212",
+      "label": "Bambu Indah",
+      "desc": "hotel in Sayan, Indonesia",
+      "lat": -8.520929,
+      "lng": 115.254822,
+      "distKm": 2,
+      "website": null,
+      "dissolved": false,
+      "image": false
+    }
+  }
+]
