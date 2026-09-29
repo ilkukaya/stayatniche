@@ -28,7 +28,7 @@ notIncluded:
   - Fooien voor de gidsen (gebruikelijk en gewaardeerd)
 seo:
   metaTitle: "Vulkaantocht met overnachting op de Acatenango | StayAtNiche"
-  metaDescription: "Kampeer op 3.700 m en zie de Fuego de hele nacht uitbarsten. Een van de grootste avonturen van Midden-Amerika, vanuit Antigua, Guatemala. Vanaf $ 55 per persoon."
+  metaDescription: "Kampeer op 3.700 m en zie de Fuego de hele nacht uitbarsten. Een van de grootste avonturen van Midden-Amerika, vanuit Antigua, Guatemala. Vanaf $ 55 p.p."
 ---
 
 Om 2 uur 's nachts is de Fuego al dertig keer uitgebarsten en heeft iedereen het slapen opgegeven. De uitbarstingen zijn zo luid dat je ze in je borstkas voelt: een diepe dreun, gevolgd door een gebulder dat over de hoogvlakte rolt. De lava die langs de flanken van de Fuego naar beneden stroomt, verlicht de onderkant van de aswolk in flakkerend oranje. Dit is geen spektakel in de verte. De twee vulkanen delen een bergzadel; je kampeert op drie kilometer van de krater. De meeste mensen in het kamp zijn het erover eens dat het het spectaculairste is wat ze ooit vanuit een slaapzak hebben gezien.

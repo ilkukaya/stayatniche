@@ -28,7 +28,7 @@ notIncluded:
   - Extra souvenirs
 seo:
   metaTitle: "Vulkaanboarden op de Cerro Negro, Nicaragua | StayAtNiche"
-  metaDescription: "Beklim een actieve vulkaan en board met 95 km/u over vulkanische as naar beneden, vlak bij León in Nicaragua. De gekste extreme sport ter wereld. Vanaf $ 35 p.p."
+  metaDescription: "Beklim een actieve vulkaan en board met 95 km/u over vulkanische as naar beneden, vlak bij León in Nicaragua. De gekste extreme sport ter wereld. Vanaf $ 35."
 ---
 
 De Cerro Negro barstte voor het laatst uit in 1999 en zal weer uitbarsten. Het is de jongste vulkaan van Midden-Amerika, ontstaan in 1850, een geologische oogwenk, en sindsdien is hij 23 keer actief geweest. Het bewijs ligt overal op de kegel: vers vulkanisch materiaal, zwart en los, zonder begroeiing behalve wat schaars gras aan de voet. Bij de top sissen stoomgaten. De lucht ruikt naar zwavel. Dit is een levende vulkaan, en dat voel je als je hem beklimt.

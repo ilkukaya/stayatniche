@@ -28,7 +28,7 @@ notIncluded:
   - Fooien voor gidsen en scouts
 seo:
   metaTitle: "Wandelsafari in Hwange National Park, Zimbabwe | StayAtNiche"
-  metaDescription: "Trek te voet door Hwange in Zimbabwe met een gediplomeerde gids. Spoor leeuwen, buffels en 40.000 olifanten op tijdens een intense safari. Vanaf $ 180 per persoon."
+  metaDescription: "Trek te voet door Hwange in Zimbabwe met een gediplomeerde gids. Spoor leeuwen, buffels en 40.000 olifanten op tijdens een intense safari. Vanaf $ 180 p.p."
 ---
 
 Gamedrives zijn comfortabel, leveren veel op en staan in wezen op afstand. De auto is een stalen kooi die de bush op gepaste afstand houdt. Een wandelsafari haalt die buffer helemaal weg. Je staat in het ecosysteem op de hoogte van een impala, ademt dezelfde lucht als de leeuw die je volgt en leest dezelfde grond die de luipaard voor zonsopgang overstak. Het is een andere activiteit, geen variant op dezelfde.
