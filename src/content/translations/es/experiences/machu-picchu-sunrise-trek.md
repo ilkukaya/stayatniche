@@ -27,7 +27,7 @@ notIncluded:
   - "Seguro de viaje personal"
 seo:
   metaTitle: "Machu Picchu al amanecer por el Camino Inca | StayAtNiche"
-  metaDescription: "Camina hasta Machu Picchu antes del alba y mira cómo el sol ilumina la ciudadela inca desde la Puerta del Sol. Día completo con guía desde Aguas Calientes. Desde 80 US$."
+  metaDescription: "Camina hasta Machu Picchu antes del alba y mira cómo el sol ilumina la ciudadela inca desde la Puerta del Sol. Día completo con guía. Desde 80 US$."
 ---
 
 El despertador suena a las 4 de la mañana en Aguas Calientes. Te vistes a oscuras y te unes a una corta fila de personas igual de faltas de sueño en la parada de autobús, al pie de las ruinas. La carretera sube por el bosque nuboso en cerradas curvas y, cuando el autobús llega a la entrada, el cielo sobre las cumbres de alrededor apenas empieza a clarear.

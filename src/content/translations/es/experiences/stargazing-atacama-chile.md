@@ -28,7 +28,7 @@ notIncluded:
   - "Alojamiento en San Pedro de Atacama"
 seo:
   metaTitle: "Observación de estrellas en Atacama, Chile | StayAtNiche"
-  metaDescription: "Contempla el cielo nocturno más limpio del mundo a 2400 m en el desierto de Atacama, con telescopios profesionales, astrónomos expertos y la Vía Láctea. Desde 55 US$."
+  metaDescription: "Contempla el cielo más limpio del mundo a 2400 m en el desierto de Atacama, con telescopios profesionales y astrónomos expertos. Desde 55 US$ por persona."
 ---
 
 El Observatorio Europeo Austral eligió este lugar por algo. La red de radiotelescopios ALMA está aquí por algo. En sus zonas interiores, Atacama recibe menos de un milímetro de lluvia al año, se encuentra por encima de los 2400 metros, apenas tiene polvo y casi no hay asentamientos humanos en cientos de kilómetros a la redonda. Esa combinación crea unas condiciones atmosféricas que los astrónomos profesionales sitúan entre las mejores del planeta para observar. No hace falta un doctorado para notar la diferencia.

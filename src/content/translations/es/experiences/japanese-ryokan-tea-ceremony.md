@@ -27,7 +27,7 @@ notIncluded:
   - "Sake u otras bebidas pedidas aparte"
 seo:
   metaTitle: "Ceremonia del té y noche en un ryokan, Kioto | StayAtNiche"
-  metaDescription: "Vive una ceremonia del té privada con un maestro certificado y pasa la noche en un ryokan tradicional de Kioto con cena kaiseki incluida. Desde 280 US$ por persona."
+  metaDescription: "Vive una ceremonia del té privada con un maestro certificado y pasa la noche en un ryokan tradicional de Kioto con cena kaiseki. Desde 280 US$ por persona."
 ---
 
 Kioto es la ciudad que Japón decidió preservar mientras lo modernizaba todo lo demás, y se nota. La arquitectura clásica, la cultura ceremonial y los principios estéticos que definen el Japón tradicional siguen aquí vivos y en uso, no como piezas de museo. Combinar una ceremonia del té formal con una noche en un ryokan es la vía más directa para entrar en ese mundo: dos prácticas pulidas a lo largo de siglos que son a la vez profundamente funcionales y capaces de dejarte sin palabras.

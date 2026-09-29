@@ -28,7 +28,7 @@ notIncluded:
   - "Tasas de visado"
 seo:
   metaTitle: "Trekking con gorilas en Bwindi, Uganda | StayAtNiche"
-  metaDescription: "Recorre el Bosque Impenetrable de Bwindi, en Uganda, para pasar una hora con gorilas de montaña salvajes. Un encuentro único con la fauna. Desde 700 US$ el permiso."
+  metaDescription: "Recorre el Bosque Impenetrable de Bwindi, en Uganda, y pasa una hora con gorilas de montaña salvajes. Un encuentro inolvidable. Desde 700 US$ el permiso."
 ---
 
 El trekking con gorilas en Uganda cuesta 700 US$ por permiso. En Ruanda, el mismo permiso cuesta 1500 US$. Las familias de gorilas, los bosques y la hora que pasas con los animales son, a efectos prácticos, idénticos. Esa diferencia de precio es el dato práctico más importante a la hora de planificar este viaje, y la mayoría de quienes han hecho ambos dicen que gana Uganda.

@@ -28,7 +28,7 @@ notIncluded:
   - "Vuelos a Revelstoke o Golden, Columbia Británica"
 seo:
   metaTitle: "Heliesquí en los Selkirk, Columbia Británica | StayAtNiche"
-  metaDescription: "Lánzate desde un helicóptero a la nieve polvo virgen de los Selkirk: 3000 metros de desnivel al día en plena naturaleza canadiense. Desde 1200 US$ por persona y día."
+  metaDescription: "Lánzate desde un helicóptero a la nieve polvo virgen de los Selkirk: 3000 metros de desnivel al día en plena naturaleza canadiense. Desde 1200 US$ al día."
 ---
 
 El helicóptero te deja en la cima y se aleja. El ruido del rotor se desvanece en el valle. Y entonces, nada. Ni el zumbido de un telesilla, ni otros esquiadores, ni una máquina pisanieves a lo lejos. Solo viento, altitud y un campo de nieve virgen que se extiende un kilómetro por delante sin una sola huella. Tu guía da la señal. Te impulsas.

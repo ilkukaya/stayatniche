@@ -26,7 +26,7 @@ notIncluded:
   - "Seguro de viaje personal"
 seo:
   metaTitle: "Ruta del vino en helicóptero, Sudáfrica | StayAtNiche"
-  metaDescription: "Vuela en helicóptero privado a fincas exclusivas de la región vinícola del Cabo para catas privadas y un almuerzo gourmet en Stellenbosch y Franschhoek. Desde 450 US$."
+  metaDescription: "Vuela en helicóptero privado a fincas vinícolas exclusivas del Cabo para catas privadas y un almuerzo gourmet en Stellenbosch y Franschhoek. Desde 450 US$."
 ---
 
 La región vinícola del Cabo ocupa una geografía de una belleza casi inverosímil. Los fondos de valle plantados con hileras geométricas de viñas dan paso a laderas de fynbos y proteas que ascienden hasta cumbres de granito, las Hottentots Holland, el Simonsberg y las montañas de Franschhoek, cuyas cotas altas todavía se cubren de nieve en invierno. Desde tierra, recorriendo en coche la R44 bordeada de viñedos entre Stellenbosch y Franschhoek, el paisaje es magnífico. Desde un helicóptero, es algo completamente distinto.

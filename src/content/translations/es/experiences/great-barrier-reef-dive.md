@@ -28,7 +28,7 @@ notIncluded:
   - "Curso de certificación de buceo PADI (se puede añadir a la reserva)"
 seo:
   metaTitle: "Buceo a bordo en la Gran Barrera de Coral | StayAtNiche"
-  metaDescription: "Bucea en la Gran Barrera de Coral exterior en una expedición a bordo de 2 días desde Cairns: hasta 11 inmersiones, nocturnas incluidas, en arrecifes remotos. Desde 280 US$."
+  metaDescription: "Bucea en la Gran Barrera de Coral exterior en una expedición de 2 días desde Cairns: hasta 11 inmersiones, nocturnas incluidas. Desde 280 US$ por persona."
 ---
 
 Las excursiones de un día desde Cairns a la Gran Barrera de Coral te llevan al arrecife interior. El barco de buceo con pernocta te lleva al arrecife exterior, y la diferencia importa más de lo que imaginas. La Gran Barrera de Coral mide 2300 kilómetros de largo, ocupa 344 400 kilómetros cuadrados y alberga más especies de peces, corales e invertebrados marinos de las que la mayoría de la gente es capaz de asimilar. Los tramos cercanos a los grandes puertos soportan mucho tráfico. El arrecife exterior, no.

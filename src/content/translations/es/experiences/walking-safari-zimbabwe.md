@@ -28,7 +28,7 @@ notIncluded:
   - "Propinas para guías y escoltas"
 seo:
   metaTitle: "Safari a pie en Hwange, Zimbabue | StayAtNiche"
-  metaDescription: "Recorre a pie el Parque Nacional de Hwange, en Zimbabue, con un guía con licencia. Rastrea leones, búfalos y 40 000 elefantes en el safari más inmersivo. Desde 180 US$."
+  metaDescription: "Recorre a pie el Parque Nacional de Hwange, en Zimbabue, con un guía con licencia y rastrea leones, búfalos y elefantes. Desde 180 US$ por persona."
 ---
 
 Los safaris en vehículo son cómodos, productivos y, en el fondo, distantes. El vehículo es una caja de acero que mantiene la sabana a una distancia controlada. Un safari a pie elimina por completo esa barrera. Estás dentro del ecosistema a la altura de un impala, respirando el mismo aire que el león al que sigues, leyendo el mismo suelo que el leopardo cruzó antes del alba. Es una actividad distinta, no una variante de la misma.

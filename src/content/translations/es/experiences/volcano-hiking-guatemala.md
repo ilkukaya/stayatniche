@@ -28,7 +28,7 @@ notIncluded:
   - "Propinas para los guías (habituales y muy agradecidas)"
 seo:
   metaTitle: "Ascenso al volcán Acatenango, Guatemala | StayAtNiche"
-  metaDescription: "Acampa a 3700 m y mira cómo el volcán de Fuego entra en erupción toda la noche. Una de las grandes aventuras de Centroamérica desde Antigua, Guatemala. Desde 55 US$."
+  metaDescription: "Acampa a 3700 m y mira cómo el volcán de Fuego entra en erupción toda la noche. Una gran aventura desde Antigua, Guatemala. Desde 55 US$ por persona."
 ---
 
 A las 2 de la madrugada, el Fuego ya ha entrado en erupción treinta veces y cualquier intento de dormir se ha abandonado. Las erupciones suenan tan fuerte que las sientes en el pecho, un golpe sordo seguido de un rugido que rueda por el altiplano, y la lava que se derrama por las laderas del Fuego ilumina con un naranja parpadeante la base de la columna de ceniza. No es un espectáculo lejano. Los dos volcanes comparten un collado; estás acampado a tres kilómetros del cráter. La mayoría de la gente en el campamento coincide en que es lo más impresionante que ha visto jamás desde un saco de dormir.

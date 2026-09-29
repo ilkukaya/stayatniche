@@ -26,7 +26,7 @@ notIncluded:
   - "La política de reembolso por cancelación meteorológica varía; consúltala al reservar"
 seo:
   metaTitle: "Vuelo panorámico sobre el Denali, Alaska | StayAtNiche"
-  metaDescription: "Sobrevuela el Denali y los glaciares de Alaska en un vuelo panorámico de 2 horas desde Talkeetna, con aterrizaje opcional en un glaciar. Desde 350 US$ por persona."
+  metaDescription: "Sobrevuela el Denali y los glaciares de Alaska en un vuelo panorámico de 2 horas desde Talkeetna, con aterrizaje opcional en un glaciar. Desde 350 US$."
 ---
 
 Talkeetna es un pueblo pequeño y excéntrico en la confluencia de tres ríos, donde la cordillera de Alaska se alza de golpe hacia el norte. En verano tiene un propósito que lo define todo: es el campo base de todas las expediciones que intentan el Denali. La montaña domina el horizonte como pocas cumbres dominan su entorno en cualquier parte del planeta, porque el Denali se eleva casi desde el nivel del mar. Su desnivel de la base a la cima, de unos 5500 metros, supera al del Everest medido de la misma forma.

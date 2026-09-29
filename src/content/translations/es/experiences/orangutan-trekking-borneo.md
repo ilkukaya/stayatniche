@@ -28,7 +28,7 @@ notIncluded:
   - "Comidas aparte del almuerzo en el campo"
 seo:
   metaTitle: "Trekking con orangutanes en Danum, Borneo | StayAtNiche"
-  metaDescription: "Rastrea orangutanes de Borneo en libertad en la selva virgen del valle de Danum: naturaleza auténtica, guías expertos y una biodiversidad extraordinaria. Desde 220 US$."
+  metaDescription: "Rastrea orangutanes de Borneo en libertad en la selva virgen del valle de Danum, con guías expertos y una biodiversidad extraordinaria. Desde 220 US$."
 ---
 
 La mayoría de las experiencias con orangutanes en Borneo giran en torno a una plataforma de alimentación o un centro de rehabilitación. El valle de Danum no es eso. Sus 438 kilómetros cuadrados de bosque protegido de dipterocarpáceas de tierras bajas, en Sabah, albergan árboles cuyas copas se elevan a 60 metros, un suelo forestal repleto de especies que la ciencia aún no ha descrito y una población de orangutanes de Borneo salvajes que nunca ha sido alimentada, nunca se ha habituado al contacto cercano con humanos y nunca se ha visto acorralada por la deforestación agrícola. Eso lo hace radicalmente distinto de cualquier otro lugar con orangutanes, y los avistamientos, cuando se producen, se viven de una forma completamente diferente.

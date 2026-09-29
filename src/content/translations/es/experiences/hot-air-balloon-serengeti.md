@@ -26,7 +26,7 @@ notIncluded:
   - "Propinas para el piloto y el equipo de tierra"
 seo:
   metaTitle: "Safari en globo sobre el Serengeti, Tanzania | StayAtNiche"
-  metaDescription: "Sobrevuela el Serengeti al amanecer en un safari en globo de 4 horas. Contempla la Gran Migración desde el cielo y termina con un desayuno con champán. Desde 550 US$."
+  metaDescription: "Sobrevuela el Serengeti al amanecer en un safari en globo de 4 horas, contempla la Gran Migración y termina con un desayuno con champán. Desde 550 US$."
 ---
 
 Cuando el globo supera las copas de las acacias y todo el Serengeti se despliega bajo tus pies, la conversación se detiene. Las llanuras se extienden hasta todos los horizontes y se tiñen de dorado a medida que el sol se eleva sobre la frontera con Kenia. En algún lugar ahí abajo, una manada de leones termina su cacería nocturna mientras miles de ñus retoman la migración. Lo ves todo a la vez y, desde esta altura, la escala del ecosistema cobra de pronto un sentido que ningún safari en vehículo llega a transmitir del todo.

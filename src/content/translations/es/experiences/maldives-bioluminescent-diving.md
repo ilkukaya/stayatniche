@@ -26,7 +26,7 @@ notIncluded:
   - "Propinas"
 seo:
   metaTitle: "Buceo nocturno bioluminiscente en Maldivas | StayAtNiche"
-  metaDescription: "Nada de noche entre aguas bioluminiscentes en Maldivas: inmersión nocturna guiada de 2 horas por un arrecife iluminado por plancton en Malé Norte. Desde 150 US$."
+  metaDescription: "Bucea de noche entre plancton bioluminiscente en Maldivas: inmersión guiada de 2 horas por un arrecife del atolón de Malé Norte. Desde 150 US$ por persona."
 ---
 
 Espera a que se ponga el sol, cuando el resort se entrega al ritmo de la hora del cóctel, y entonces métete en el agua. La inmersión nocturna bioluminiscente en el atolón de Malé Norte es una de las experiencias realmente insólitas que ofrece Maldivas, y eso en un destino al que no le faltan espectáculos.

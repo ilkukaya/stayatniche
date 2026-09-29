@@ -27,7 +27,7 @@ notIncluded:
   - "Propinas para los instructores"
 seo:
   metaTitle: "Clase de cocina tailandesa en Bangkok | StayAtNiche"
-  metaDescription: "Cocina platos tailandeses auténticos tras recorrer al amanecer un mercado de Bangkok. Grupos reducidos y técnica real del sabor tailandés. Desde 65 US$ por persona."
+  metaDescription: "Cocina platos tailandeses auténticos tras recorrer al amanecer un mercado de Bangkok. Grupos reducidos y técnica real del sabor tailandés. Desde 65 US$."
 ---
 
 Los mercados de productos frescos de Bangkok siguen su propio horario. A las 5 de la mañana los puestos ya están montados del todo: pirámides de galanga fresca, pescados enteros sobre hielo, hojas de plátano plegadas en recipientes minuciosos, variedades de albahaca tailandesa que la mayoría de los visitantes no sabría nombrar. Los cocineros que abastecen los restaurantes de la ciudad recorren los pasillos con una rapidez y una determinación que convierten las visitas turísticas al mercado en algo completamente distinto. Seguir a tu instructor por este ambiente no es un tour gastronómico edulcorado. Es el comienzo de una formación.

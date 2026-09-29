@@ -27,7 +27,7 @@ notIncluded:
   - "Alojamiento"
 seo:
   metaTitle: "Parapente biplaza en Interlaken, Alpes suizos | StayAtNiche"
-  metaDescription: "Planea sobre el Eiger, el Mönch y el Jungfrau en un vuelo en parapente biplaza sobre Interlaken, una de las experiencias aéreas más bellas de Europa. Desde 180 US$."
+  metaDescription: "Planea sobre el Eiger, el Mönch y el Jungfrau en parapente biplaza sobre Interlaken, una de las experiencias aéreas más bellas de Europa. Desde 180 US$."
 ---
 
 El despegue es lo que más preocupa a la gente y lo que menos recuerda después. Tu piloto lo ha hecho miles de veces. Das seis pasos a la carrera por una ladera de hierba, la vela se llena de aire a tu espalda y, de repente, el suelo deja de estar bajo tus pies.

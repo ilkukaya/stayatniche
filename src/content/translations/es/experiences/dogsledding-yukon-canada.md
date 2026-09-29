@@ -28,7 +28,7 @@ notIncluded:
   - "Propinas para los mushers"
 seo:
   metaTitle: "Trineo de perros en el Yukón, Canadá | StayAtNiche"
-  metaDescription: "Conduce tu propio trineo con huskies de Alaska por la naturaleza boreal del Yukón. Auroras boreales, almuerzo en cabaña de troncos y bosque salvaje. Desde 250 US$."
+  metaDescription: "Conduce tu propio trineo con huskies de Alaska por la naturaleza boreal del Yukón, con auroras boreales y almuerzo en una cabaña de troncos. Desde 250 US$."
 ---
 
 Oyes la perrera antes de verla. A medio kilómetro, sesenta huskies de Alaska saben que se acerca una salida y lo dejan clarísimo a gritos. A las 7 de la mañana, en la oscuridad del Yukón, el volumen conjunto alcanza una frecuencia que se te mete en el pecho. Cuando entras en el recinto, todos los perros tiran de su cadena y el estruendo es continuo y total.

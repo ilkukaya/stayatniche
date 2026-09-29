@@ -29,7 +29,7 @@ notIncluded:
   - "Alcohol (no se sirve en los centros de retiro)"
 seo:
   metaTitle: "Retiro de meditación en silencio en Ubud, Bali | StayAtNiche"
-  metaDescription: "Cinco días de meditación guiada en silencio entre los arrozales de Ubud, con maestros balineses y budistas, yoga, ceremonias y práctica contemplativa. Desde 450 US$."
+  metaDescription: "Cinco días de meditación guiada en silencio entre los arrozales de Ubud, con maestros balineses y budistas, yoga y ceremonias. Desde 450 US$ por persona."
 ---
 
 Ubud se encuentra en el centro geográfico y espiritual de Bali, en las colinas donde los arrozales ascienden en escalones esculpidos y el aire es veinte grados más fresco que en la playa. La cultura hindú aquí no es decorativa. Está viva y en funcionamiento. Cada mañana, mujeres con atuendo ceremonial colocan pequeñas ofrendas de hoja de plátano trenzada en escalones y umbrales de todo el pueblo, y el humo del incienso se eleva de diez mil canang sari en un acto de devoción diaria cuya forma no ha cambiado en siglos. Venir aquí a meditar no es llegar a un resort de bienestar. Es llegar a un lugar donde toda la infraestructura cultural va en la misma dirección que lo que intentas hacer.

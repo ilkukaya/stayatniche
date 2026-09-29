@@ -27,7 +27,7 @@ notIncluded:
   - "Alojamiento en la Dordoña"
 seo:
   metaTitle: "Búsqueda de trufas en el Périgord, Francia | StayAtNiche"
-  metaDescription: "Busca trufas negras del Périgord con un perro adiestrado y un trufficulteur experto en la Dordoña. Degustación incluida; temporada alta de diciembre a febrero. Desde 120 US$."
+  metaDescription: "Busca trufas negras del Périgord con un perro adiestrado y un trufficulteur en la Dordoña. Degustación incluida; temporada de diciembre a febrero."
 ---
 
 El perro la encuentra antes de que tú sospeches siquiera que hay algo que encontrar. En un momento recorre la hojarasca entre los robles sin aparente orden; al siguiente se ha detenido, con el hocico pegado a la tierra y moviendo la cola de una forma concreta y contenida que tu trufficulteur interpreta al instante. Se arrodilla, aparta al perro con suavidad y, con un pequeño pico, afloja la tierra dos o tres centímetros. Ahí está: una esfera negra, irregular y de piel rugosa del tamaño de una pelota de golf, que ya desprende ese aroma complejo e inconfundible en el frío aire invernal.

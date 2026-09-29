@@ -26,7 +26,7 @@ notIncluded:
   - "Seguro de viaje personal"
 seo:
   metaTitle: "Avistamiento de ballenas en Húsavík, Islandia | StayAtNiche"
-  metaDescription: "Avista ballenas jorobadas, rorcuales aliblancos y ballenas azules en la bahía de Skjálfandi, Islandia, con biólogos marinos expertos desde Húsavík. Desde 75 US$."
+  metaDescription: "Avista ballenas jorobadas, rorcuales aliblancos y ballenas azules en la bahía de Skjálfandi con biólogos marinos desde Húsavík, Islandia. Desde 75 US$."
 ---
 
 Húsavík lleva con modestia su corona de capital del avistamiento de ballenas. Su pequeña iglesia de madera, los coloridos edificios del puerto y una población de poco más de 2000 habitantes no dejan adivinar que aquí llegan viajeros de todo el mundo en busca de un encuentro que, el día adecuado, roza lo sobrenatural. La bahía de Skjálfandi, que abraza el puerto del pueblo y se abre hacia el norte a las aguas árticas, concentra una abundancia extraordinaria de vida marina gracias a sus afloramientos de agua fría y rica en nutrientes, y las ballenas siguen a la comida.

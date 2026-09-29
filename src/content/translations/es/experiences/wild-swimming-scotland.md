@@ -28,7 +28,7 @@ notIncluded:
   - "Alojamiento en las Highlands"
 seo:
   metaTitle: "Baño en aguas salvajes en las Highlands | StayAtNiche"
-  metaDescription: "Báñate con un guía experto en lagos y pozas de montaña remotos de las Highlands: inmersión en agua fría en las aguas salvajes más bellas de Escocia. Desde 95 US$."
+  metaDescription: "Báñate con un guía experto en lagos y pozas de montaña remotos de las Highlands: inmersión en agua fría en plena naturaleza escocesa. Desde 95 US$."
 ---
 
 El agua es marrón. No de un marrón turbio e inquietante: es un ámbar claro e intenso, como un whisky muy aguado, el color que le da al agua de las Highlands escocesas la turba por la que se ha filtrado durante años antes de llegar al lago. Te detienes en la orilla, contemplas una superficie que refleja la ladera cubierta de brezo y el cielo inmenso que la cubre, y entonces entras.

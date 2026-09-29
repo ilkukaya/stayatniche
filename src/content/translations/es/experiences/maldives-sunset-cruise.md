@@ -26,7 +26,7 @@ notIncluded:
   - "Seguro de viaje personal"
 seo:
   metaTitle: "Crucero al atardecer con delfines en Maldivas | StayAtNiche"
-  metaDescription: "Mira saltar a los delfines acróbatas junto a tu dhoni privado mientras el sol se pone sobre el atolón de Malé Sur. Un crucero de 2,5 horas en Maldivas. Desde 90 US$."
+  metaDescription: "Mira saltar a los delfines acróbatas junto a tu dhoni privado mientras el sol se pone sobre el atolón de Malé Sur, en Maldivas. 2,5 horas. Desde 90 US$."
 ---
 
 En Maldivas los atardeceres son buenos. La escasa altitud, un horizonte marino de 360 grados y la nitidez de la luz ecuatorial se combinan para crear unas puestas de sol difíciles de superar desde cualquier punto de vista objetivo. Añade un grupo de delfines acróbatas y todo se convierte en otra cosa.

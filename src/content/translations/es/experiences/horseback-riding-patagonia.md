@@ -27,7 +27,7 @@ notIncluded:
   - "Botas de montar (muy recomendables; se pueden alquilar)"
 seo:
   metaTitle: "Cabalgata en Torres del Paine, Patagonia | StayAtNiche"
-  metaDescription: "Cabalga por los paisajes más espectaculares de la Patagonia con guías gauchos en caballos criollos y llega a rincones remotos de Torres del Paine. Desde 120 US$ al día."
+  metaDescription: "Cabalga por la Patagonia con guías gauchos en caballos criollos y llega a rincones remotos de Torres del Paine, en Chile. Desde 120 US$ por persona y día."
 ---
 
 El viento patagónico no es una molestia a la que uno se acostumbra. Es el rasgo que define el paisaje: baja del Campo de Hielo Patagónico Sur con una franqueza que a la vez exaspera y despeja la mente. A caballo, con un gaucho cabalgando diez metros por delante y leyendo el terreno con la soltura de quien aprendió esta tierra de alguien que a su vez la aprendió de otro, el viento pasa a formar parte del ritmo de la cabalgata en lugar de ser un obstáculo.
