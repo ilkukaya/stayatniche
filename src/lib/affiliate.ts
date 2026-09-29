@@ -86,6 +86,19 @@ export function withTracking(url: string, opts: AffiliateOptions = {}): string {
 export const AFFILIATE_REL = 'noopener noreferrer nofollow sponsored';
 
 /**
+ * Best earning link for a hotel's "Check rates" button.
+ * Booking.com pays nothing until BOOKING_AID is set, so those hotels go to a tracked
+ * Expedia search for the property instead; official/other sites keep their own URL.
+ */
+export function hotelDealUrl(bookingUrl: string, name: string, destination: string, opts: AffiliateOptions = {}): string {
+  if (!BOOKING_AID && /(^|\/\/|\.)booking\.com/.test(bookingUrl ?? '')) {
+    const q = encodeURIComponent(`${name}, ${destination.split(',')[0]}`);
+    return withTracking(`https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, opts);
+  }
+  return withTracking(bookingUrl, opts);
+}
+
+/**
  * Build an Expedia hotel-search URL for a given destination.
  */
 export function expediaSearchUrl(destination: string, country?: string): string {

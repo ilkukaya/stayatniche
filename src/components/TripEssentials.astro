@@ -1,6 +1,7 @@
 ---
-/** Neutral, compact list of trip services (all tracked affiliate links). */
+/** Trip services with partner logos and clear calls to action (all tracked affiliate links). */
 import { tpLink } from '../lib/affiliate';
+import PartnerLogo from './PartnerLogo.astro';
 interface Props { destination: string; country: string; subId: string; compact?: boolean }
 const { destination, country, subId } = Astro.props;
 const place = destination.split(',')[0].trim();
@@ -9,40 +10,51 @@ const c = encodeURIComponent(country);
 const esimSlug = country.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
 const airaloUrl = ['usa', 'uk', 'england', 'scotland'].includes(esimSlug) ? 'https://www.airalo.com/' : `https://www.airalo.com/${esimSlug}-esim`;
 const t = (p: string, u: string) => tpLink(p, u, `essentials_${subId}`);
-const ICON: Record<string, string> = {"Flights": "M2.5 19h19M3 13.5l4.5 1.2L17 7.8a2 2 0 012.8 2.8l-6.9 9.6-2.3-.6 2.1-5.2-4.4-1.2-1.5 2.1-1.8-.5z", "Transfers": "M5 17h14M6 17V9l2-4h8l2 4v8M6 11h12M8 17v2M16 17v2M8.5 14h.01M15.5 14h.01", "Car hire": "M4 16v-4l2-5h12l2 5v4M4 16h16M7 19a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17 19a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM6 12h12", "Tours": "M12 3l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.4 6.8 19.1l1-5.8L3.5 9.2l5.9-.9z", "Tickets": "M4 8a2 2 0 002-2h12a2 2 0 002 2v2a2 2 0 000 4v2a2 2 0 00-2 2H6a2 2 0 00-2-2v-2a2 2 0 000-4zM14 6v12", "Luggage": "M7 7h10a1 1 0 011 1v11a1 1 0 01-1 1H7a1 1 0 01-1-1V8a1 1 0 011-1zM9 7V4h6v3M10 11v5M14 11v5", "eSIM data": "M8 3h6l4 4v13a1 1 0 01-1 1H8a1 1 0 01-1-1V4a1 1 0 011-1zM10 12h4v5h-4z", "Insurance": "M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6zM9 12l2 2 4-4", "Flight delays": "M12 21a8 8 0 100-16 8 8 0 000 16zM12 9v4l2.5 2.5M9 2h6"};
 const groups = [
   { title: 'Getting there', items: [
-    ['Flights', 'Kiwi.com', t('', 'https://www.kiwi.com/en/')],
-    ['Transfers', 'Welcome Pickups', t('', 'https://www.welcomepickups.com/')],
-    ['Car hire', 'Localrent', t('', 'https://localrent.com/en/')],
+    { label: 'Flights', brand: 'Kiwi.com', logo: 'kiwi', desc: `Compare flights and smart route combos to ${country}.`, cta: 'Search flights', href: t('', 'https://www.kiwi.com/en/') },
+    { label: 'Airport transfer', brand: 'Welcome Pickups', logo: 'welcomepickups', desc: 'A fixed-price driver waiting at arrivals.', cta: 'Book a pickup', href: t('', 'https://www.welcomepickups.com/') },
+    { label: 'Car hire', brand: 'Localrent', logo: 'localrent', desc: 'Cars from local rental companies.', cta: 'Compare cars', href: t('', 'https://localrent.com/en/') },
   ]},
   { title: 'While you’re there', items: [
-    ['Tours', 'Klook', t('', `https://www.klook.com/en-US/search-results/?query=${c}`)],
-    ['Tickets', 'Tiqets', t('', 'https://www.tiqets.com/en/')],
-    ['Luggage', 'Radical Storage', t('', 'https://radicalstorage.com/')],
+    { label: 'Tours & activities', brand: 'Klook', logo: 'klook', desc: `Day trips and experiences in ${country}.`, cta: 'Find tours', href: t('', `https://www.klook.com/en-US/search-results/?query=${c}`) },
+    { label: 'Attraction tickets', brand: 'Tiqets', logo: 'tiqets', desc: 'Instant mobile tickets for museums and sights.', cta: 'Get tickets', href: t('', 'https://www.tiqets.com/en/') },
+    { label: 'Luggage storage', brand: 'Radical Storage', logo: 'radicalstorage', desc: 'Drop your bags and explore hands-free.', cta: 'Find storage', href: t('', 'https://radicalstorage.com/') },
   ]},
   { title: 'Before you go', items: [
-    ['eSIM data', 'Airalo', t('', airaloUrl)],
-    ['Insurance', 'EKTA', t('', 'https://ekta.travel/')],
-    ['Flight delays', 'AirHelp', t('', 'https://www.airhelp.com/')],
+    { label: 'eSIM data', brand: 'Airalo', logo: 'airalo', desc: `Mobile data for ${country}, no roaming fees.`, cta: 'Get an eSIM', href: t('', airaloUrl) },
+    { label: 'Travel insurance', brand: 'EKTA', logo: 'ekta', desc: 'Medical cover for your trip, bought online.', cta: 'Get a quote', href: t('', 'https://ekta.travel/') },
+    { label: 'Flight delayed?', brand: 'AirHelp', logo: 'airhelp', desc: 'Check if a delay or cancellation entitles you to compensation.', cta: 'Check my flight', href: t('', 'https://www.airhelp.com/') },
   ]},
 ];
 ---
 <section aria-labelledby="essentials-h">
-  <h2 id="essentials-h" class="font-display text-3xl leading-none text-warm-950">Plan the trip</h2>
-  <p class="mt-2 font-body text-sm text-warm-500">Trusted services for a trip to {country}. Affiliate links, no extra cost to you.</p>
-  <div class="mt-6 grid gap-6 md:grid-cols-3">
+  <div class="flex flex-wrap items-end justify-between gap-2">
+    <h2 id="essentials-h" class="font-display text-3xl leading-none text-warm-950">Plan the trip</h2>
+    <p class="font-body text-xs text-warm-500">Partner links: we may earn a commission, at no extra cost to you.</p>
+  </div>
+  <p class="mt-2 font-body text-sm text-warm-600">Everything else you’ll need for {place === country ? country : `${place}, ${country}`}, from services we’d use ourselves.</p>
+  <div class="mt-6 space-y-6 sm:space-y-7">
     {groups.map(g => (
       <div>
         <p class="eyebrow mb-3 text-warm-500">{g.title}</p>
-        <ul class="space-y-2.5">
-          {g.items.map(([label, brand, href]) => (
-            <li><a href={href} target="_blank" rel="noopener noreferrer nofollow sponsored" class="group flex items-center gap-3 rounded-xl border border-warm-200 bg-white p-3 transition hover:-translate-y-0.5 hover:border-forest-400 hover:shadow-card">
-              <span class="grid h-10 w-10 flex-shrink-0 place-items-center rounded-lg bg-forest-50 text-forest-700 transition group-hover:bg-forest-700 group-hover:text-white">
-                <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d={ICON[label]} /></svg>
+        <ul class="grid grid-cols-3 gap-2 sm:gap-3">
+          {g.items.map(it => (
+            <li class="h-full"><a href={it.href} target="_blank" rel="noopener noreferrer nofollow sponsored" data-partner={it.logo}
+              class="group relative flex h-full flex-col rounded-2xl border border-warm-200 bg-white p-3 transition duration-200 hover:-translate-y-0.5 hover:border-warm-300 hover:shadow-card sm:p-4">
+              <svg viewBox="0 0 24 24" class="absolute right-2.5 top-2.5 h-3.5 w-3.5 text-warm-400 sm:hidden" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M8 7h9v9"/></svg>
+              <span class="flex flex-col items-start gap-2 sm:flex-row sm:items-center sm:gap-3">
+                <PartnerLogo partner={it.logo} name={it.brand} size={44} class="!h-10 !w-10 sm:!h-11 sm:!w-11" />
+                <span class="w-full min-w-0 sm:w-auto">
+                  <span class="block font-body text-[13px] font-semibold leading-tight text-warm-950 sm:text-[15px]">{it.label}</span>
+                  <span class="mt-0.5 block truncate font-body text-[11px] text-warm-500 sm:text-xs">with {it.brand}</span>
+                </span>
               </span>
-              <span class="min-w-0 flex-1"><span class="block font-body text-sm font-semibold text-warm-950">{label}</span><span class="block truncate font-body text-xs text-warm-500">via {brand}</span></span>
-              <span class="text-warm-400 transition group-hover:translate-x-0.5 group-hover:text-forest-700" aria-hidden="true">↗</span>
+              <span class="mt-3 hidden flex-1 font-body text-[13px] leading-snug text-warm-600 sm:block">{it.desc}</span>
+              <span class="mt-4 hidden items-center justify-between gap-2 rounded-xl bg-forest-50 px-3.5 py-2.5 font-body text-sm font-semibold text-forest-800 transition group-hover:bg-forest-700 group-hover:text-white sm:inline-flex">
+                {it.cta}
+                <svg viewBox="0 0 24 24" class="h-4 w-4 flex-shrink-0 transition group-hover:translate-x-0.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+              </span>
             </a></li>
           ))}
         </ul>
