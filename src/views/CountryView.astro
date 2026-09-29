@@ -1,0 +1,41 @@
+---
+import HotelRoundup from '../components/HotelRoundup.astro';
+import { startPrice } from '../lib/site';
+import { i18n, type Locale } from '../i18n';
+import { localized } from '../i18n/content';
+import { roundupAlternates } from '../i18n/roundups';
+
+interface Props { locale: Locale; country: string; slug: string; hs: any[] }
+const { country: enCountry, slug, hs } = Astro.props;
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const R = t.countryPage;
+const country = L.country(enCountry);
+const cats = await localized('categories', L.locale);
+const dests = await localized('destinations', L.locale);
+const catSlugs = [...new Set(hs.map((h: any) => h.data.category))];
+const related = [
+  ...catSlugs.map(c => ({ label: R.catWorldwide(L.cat(c, cats.find(x => x.slug === c)?.data.title ?? c)), url: L.path('categories', c) })),
+  ...dests.filter(d => d.en.country === enCountry || d.en.name === enCountry).map(d => ({ label: R.guide(d.data.name), url: L.path('destinations', d.slug) })),
+];
+const cheapest = [...hs].sort((a, b) => startPrice(a.data.priceRange) - startPrice(b.data.priceRange))[0];
+const top = [...hs].sort((a, b) => b.data.rating - a.data.rating)[0];
+const types = [...new Set(hs.map((h: any) => L.cat(h.data.category, h.data.category.replace(/-/g, ' ')).toLowerCase()))];
+const cheapFrom = L.range(cheapest.data.priceRange.split(/\s[-–]\s/)[0]);
+const seasons = [...new Set(hs.map((h: any) => h.data.seasonalInfo?.bestTime).filter(Boolean))].slice(0, 3) as string[];
+const faq = R.faq({ country, n: hs.length, top: top.data.name, topWhere: top.data.destination, types: types.slice(0, 3), cheapest: cheapest.data.name, cheapestWhere: cheapest.data.destination, cheapestRange: L.range(cheapest.data.priceRange), seasons });
+const path = L.path('countries', slug);
+---
+<HotelRoundup
+  title={R.title(country, hs.length)}
+  metaTitle={R.metaTitle(country, hs.length)}
+  metaDescription={R.metaDescription(country, hs.length, types.slice(0, 3))}
+  intro={R.intro(country, hs.length, types.slice(0, 3), cheapFrom, cheapest.data.name, top.data.name)}
+  path={path}
+  hotels={hs}
+  crumbs={[{ name: t.nav.countries, url: L.path('countries') }, { name: country, url: path }]}
+  faq={faq}
+  searchPlace={enCountry}
+  related={related}
+  alternates={await roundupAlternates('countries', enCountry)}
+/>

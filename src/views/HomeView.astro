@@ -1,0 +1,261 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HotelCard from '../components/HotelCard.astro';
+import CategoryIcon from '../components/CategoryIcon.astro';
+import CategoryTile from '../components/CategoryTile.astro';
+import StayVisual from '../components/StayVisual.astro';
+import Faq from '../components/Faq.astro';
+import { getCollection } from 'astro:content';
+import { i18n, type Locale } from '../i18n';
+import { localized, allAlternates } from '../i18n/content';
+import { ownPhoto } from '../lib/images';
+import { AFFILIATE_REL, withTracking } from '../lib/affiliate';
+import { isLive, startPrice, slugify } from '../lib/site';
+
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const H = t.home;
+const hotels = await localized('hotels', L.locale);
+const catsAll = (await localized('categories', L.locale)).sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+const dests = await localized('destinations', L.locale);
+const posts = (await localized('blog', L.locale))
+  .sort((a, b) => +new Date(b.data.publishedDate) - +new Date(a.data.publishedDate)).slice(0, 3);
+
+const n = (slug: string) => hotels.filter(h => h.data.category === slug).length;
+const cats = catsAll.map(c => ({ ...c, title: L.cat(c.slug, c.data.title), count: n(c.slug) })).filter(c => c.count > 0);
+const rank = (a: any, b: any) => Number(b.data.featured) - Number(a.data.featured) || b.data.rating - a.data.rating;
+const shortlist = [...hotels].sort(rank).slice(0, 8);
+const countries = [...new Set(hotels.map(h => L.country(h.data.country)))].sort((a, b) => a.localeCompare(b, L.intl));
+const stats = { hotels: hotels.length, types: cats.length, countries: countries.length };
+
+// Editorial features: categories that have a real photo, each with its top stays.
+const features = cats.filter(c => ownPhoto(c.data.coverImage, c.slug)).slice(0, 2).map(c => ({
+  cat: c, photo: ownPhoto(c.data.coverImage, c.slug)!, top: hotels.filter(h => h.data.category === c.slug).sort(rank).slice(0, 5),
+}));
+const heroPhoto = ownPhoto('/images/hero.webp') ?? ownPhoto(catsAll.find(c => c.slug === 'treehouse-hotels')?.data.coverImage, 'treehouse-hotels');
+
+const bands = [
+  { label: H.bands.low.label, q: 'lt300', note: H.bands.low.note, test: (p: number) => p < 300 },
+  { label: H.bands.mid.label, q: '300-800', note: H.bands.mid.note, test: (p: number) => p >= 300 && p <= 800 },
+  { label: H.bands.high.label, q: 'gt800', note: H.bands.high.note, test: (p: number) => p > 800 },
+].map(b => ({ ...b, count: hotels.filter(h => b.test(startPrice(h.data.priceRange))).length }));
+
+const continents = ['europe', 'africa', 'asia', 'north-america', 'south-america', 'oceania', 'middle-east']
+  .map(c => ({ slug: c, label: L.continent(c), count: dests.filter(d => slugify(d.data.continent) === c).length }))
+  .filter(c => c.count > 0);
+
+const faq = H.faq(stats.types, cats.map(c => c.title));
+const fmt = (d: Date | string) => L.date(d);
+---
+
+<BaseLayout
+  title={H.metaTitle}
+  description={H.metaDescription}
+  heroImage={heroPhoto ?? undefined}
+  alternates={allAlternates('home')}
+>
+
+  <!-- HERO: full-bleed photograph, magazine-cover type -->
+  <section class="relative isolate -mt-16 flex min-h-[640px] items-end overflow-hidden bg-warm-950 pt-28 sm:pt-16 text-white sm:min-h-[720px] lg:min-h-[88vh]">
+    {heroPhoto && <img src={heroPhoto} alt={H.heroAlt} class="absolute inset-0 -z-10 h-full w-full object-cover" fetchpriority="high" width="1600" height="1067" />}
+    <div class="absolute inset-0 -z-10 bg-gradient-to-t from-black/80 via-black/25 to-black/30"></div>
+    <div class="mx-auto w-full max-w-7xl px-4 pb-10 sm:px-6 sm:pb-14 lg:px-8">
+      <p class="eyebrow text-white/80">{H.eyebrow(stats.hotels, stats.countries, stats.types)}</p>
+      <h1 class="mt-4 max-w-4xl font-display text-[3.4rem] leading-[.92] sm:text-8xl lg:text-[8.5rem]">{H.h1a} <span class="italic">{H.h1b}</span></h1>
+      <p class="mt-5 max-w-lg font-body text-base leading-relaxed text-white/80 sm:text-lg">{H.lead}</p>
+
+      <form action={L.path('hotels')} method="get" class="mt-8 max-w-4xl rounded-2xl bg-white p-1.5 text-warm-900 shadow-2xl">
+        <div class="grid gap-1 sm:grid-cols-[1.1fr_1fr_.8fr_auto] sm:items-stretch">
+          <label class="block rounded-xl px-4 py-2.5 hover:bg-warm-100">
+            <span class="block font-body text-[11px] font-semibold text-warm-500">{H.form.kind}</span>
+            <select name="type" class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 focus:outline-none">
+              <option value="">{H.form.anyKind}</option>
+              {cats.map(c => <option value={c.slug}>{c.title}</option>)}
+            </select>
+          </label>
+          <label class="block rounded-xl px-4 py-2.5 hover:bg-warm-100 sm:border-l sm:border-warm-200">
+            <span class="block font-body text-[11px] font-semibold text-warm-500">{H.form.where}</span>
+            <input name="q" list="places" autocomplete="off" placeholder={H.form.wherePlaceholder} class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 placeholder:text-warm-400 focus:outline-none" />
+            <datalist id="places">{countries.map(c => <option value={c} />)}</datalist>
+          </label>
+          <label class="block rounded-xl px-4 py-2.5 hover:bg-warm-100 sm:border-l sm:border-warm-200">
+            <span class="block font-body text-[11px] font-semibold text-warm-500">{H.form.budget}</span>
+            <select name="price" class="w-full bg-transparent font-body text-[15px] font-medium text-warm-950 focus:outline-none">
+              <option value="">{H.form.anyBudget}</option>
+              {bands.map(b => <option value={b.q}>{b.label}</option>)}
+            </select>
+          </label>
+          <button type="submit" class="flex items-center justify-center gap-2 rounded-xl bg-forest-700 px-7 py-4 font-body text-[15px] font-semibold text-white transition hover:bg-forest-800">
+            <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
+            {H.form.search}
+          </button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- CATEGORY RAIL: photo chips -->
+  <nav class="sticky top-16 z-30 border-b border-warm-200 bg-warm-50/95 backdrop-blur" aria-label={t.nav.kindsOfStay}>
+    <ul class="scrollbar-hide mx-auto flex max-w-7xl gap-5 overflow-x-auto px-4 py-4 sm:px-6 lg:gap-2 lg:justify-between lg:px-8">
+      {cats.map(c => {
+        const img = ownPhoto(c.data.coverImage, c.slug);
+        return (
+          <li class="flex-shrink-0">
+            <a href={`${L.path('hotels')}?type=${c.slug}`} class="group flex w-[76px] flex-col items-center gap-2 text-center">
+              <span class="relative block h-14 w-14 overflow-hidden rounded-full ring-2 ring-transparent ring-offset-2 ring-offset-warm-50 transition group-hover:ring-gold-500 sm:h-16 sm:w-16">
+                {img ? <img src={img} alt="" class="h-full w-full object-cover transition duration-500 group-hover:scale-110" loading="lazy" width="128" height="128" /> : <span class="grid h-full w-full place-items-center bg-warm-100 text-forest-700"><CategoryIcon slug={c.slug} size={22} /></span>}
+              </span>
+              <span class="font-body text-[12px] font-semibold leading-tight text-warm-700 group-hover:text-warm-950">{L.locale === 'en' ? c.title.replace(/ (Hotels|Rooms)$/, '') : c.title}</span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </nav>
+
+  <!-- SHORTLIST -->
+  <section class="mx-auto max-w-7xl px-4 pt-14 sm:px-6 lg:px-8 lg:pt-20" id="featured">
+    <div class="mb-8 flex items-end justify-between gap-6 border-b border-warm-200 pb-5">
+      <div>
+        <p class="eyebrow text-gold-600">{H.shortlistEyebrow}</p>
+        <h2 class="mt-2 font-display text-4xl leading-none text-warm-950 sm:text-5xl">{H.shortlistTitle}</h2>
+      </div>
+      <a href={L.path('hotels')} class="hidden whitespace-nowrap font-body text-sm font-semibold text-warm-950 underline underline-offset-4 sm:block">{H.allStays(stats.hotels)}</a>
+    </div>
+    <div class="snap-row scrollbar-hide -mx-4 flex gap-5 overflow-x-auto px-4 pb-2 sm:mx-0 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-10 sm:overflow-visible sm:px-0 lg:grid-cols-4">
+      {shortlist.map(h => (
+        <div class="w-[80%] flex-shrink-0 sm:w-auto">
+          <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} featured={h.data.featured} coverImage={h.data.coverImage} />
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- EDITORIAL FEATURES -->
+  {features.map((f, i) => (
+    <section class="mx-auto max-w-7xl px-4 pt-20 sm:px-6 lg:px-8 lg:pt-28">
+      <div class:list={['grid items-start gap-8 lg:grid-cols-2 lg:gap-16', i % 2 && 'lg:[&>*:first-child]:order-2']}>
+        <a href={L.path('categories', f.cat.slug)} class="group relative block overflow-hidden rounded-xl">
+          <img src={f.photo} alt={f.cat.title} class="aspect-[4/5] w-full object-cover transition duration-700 group-hover:scale-[1.03] sm:aspect-[5/4] lg:aspect-[4/5]" loading="lazy" />
+        </a>
+        <div class="lg:sticky lg:top-40">
+          <p class="eyebrow text-gold-600">{H.collection} · {String(i + 1).padStart(2, '0')}</p>
+          <h2 class="mt-3 font-display text-5xl leading-[.95] text-warm-950 sm:text-6xl">{f.cat.title}</h2>
+          <p class="mt-4 max-w-md font-body leading-relaxed text-warm-600">{f.cat.data.description}</p>
+          <ol class="mt-8 border-t border-warm-200">
+            {f.top.map((h, k) => (
+              <li class="border-b border-warm-200">
+                <a href={L.path('hotels', h.slug)} class="group flex items-baseline gap-5 py-4">
+                  <span class="font-display text-2xl tabular-nums text-warm-400">{k + 1}</span>
+                  <span class="flex-1">
+                    <span class="block font-body text-[15px] font-semibold text-warm-950 group-hover:underline group-hover:underline-offset-4">{h.data.name}</span>
+                    <span class="block font-body text-sm text-warm-500">{h.data.destination}, {L.country(h.data.country)}</span>
+                  </span>
+                  <span class="font-body text-sm tabular-nums text-warm-700">{H.from(L.usd(startPrice(h.data.priceRange)))}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+          <a href={L.path('categories', f.cat.slug)} class="mt-6 inline-flex rounded-full bg-warm-950 px-6 py-3 font-body text-sm font-semibold text-white transition hover:bg-warm-800">{H.seeAll(f.cat.count, f.cat.title)}</a>
+        </div>
+      </div>
+    </section>
+  ))}
+
+  <!-- KINDS OF STAY -->
+  <section class="mx-auto max-w-7xl px-4 pt-20 sm:px-6 lg:px-8 lg:pt-28">
+    <div class="mb-8 flex items-end justify-between gap-6 border-b border-warm-200 pb-5">
+      <h2 class="font-display text-4xl leading-none text-warm-950 sm:text-5xl">{H.kindsTitle}</h2>
+      <a href={L.path('categories')} class="hidden font-body text-sm font-semibold text-warm-950 underline underline-offset-4 sm:block">{H.allKinds(stats.types)}</a>
+    </div>
+    <div class="grid auto-rows-[190px] grid-cols-2 gap-3 sm:auto-rows-[220px] md:grid-cols-4 lg:gap-4">
+      {cats.slice(0, 13).map((c, i) => (
+        <CategoryTile slug={c.slug} title={c.title} count={c.count} coverImage={c.data.coverImage} tagline={c.data.tagline} big={i === 0} class={i === 0 ? 'col-span-2 row-span-2' : ''} />
+      ))}
+    </div>
+  </section>
+
+  <!-- BUDGET -->
+  <section class="mx-auto max-w-7xl px-4 pt-20 sm:px-6 lg:px-8 lg:pt-28">
+    <h2 class="border-b border-warm-200 pb-5 font-display text-4xl leading-none text-warm-950 sm:text-5xl">{H.budgetTitle}</h2>
+    <div class="grid divide-y divide-warm-200 md:grid-cols-3 md:divide-x md:divide-y-0">
+      {bands.map((b, i) => (
+        <a href={`${L.path('hotels')}?price=${b.q}`} class:list={['group block py-8', i > 0 && 'md:pl-8', i < 2 && 'md:pr-8']}>
+          <p class="font-display text-5xl text-warm-950 transition group-hover:text-forest-700">{b.label}</p>
+          <p class="mt-2 font-body text-sm text-warm-500">{H.perNightTypical}</p>
+          <p class="mt-4 font-body text-[15px] leading-relaxed text-warm-700">{b.note}</p>
+          <p class="mt-5 font-body text-sm font-semibold text-warm-950">{t.common.stays(b.count)} <span class="inline-block transition group-hover:translate-x-1" aria-hidden="true">→</span></p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- WHERE: typographic index -->
+  {continents.length > 0 && <section class="mt-20 bg-warm-950 py-16 text-white lg:mt-28 lg:py-24">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <p class="eyebrow text-gold-400">{t.nav.destinations}</p>
+      <h2 class="mt-2 font-display text-4xl sm:text-5xl">{H.whereTitle}</h2>
+      <ul class="mt-10 border-t border-white/15">
+        {continents.map(c => (
+          <li class="border-b border-white/15">
+            <a href={`${L.path('destinations')}#${c.slug}`} class="group flex items-baseline justify-between gap-4 py-4 sm:py-5">
+              <span class="font-display text-4xl leading-none text-white/90 transition group-hover:translate-x-2 group-hover:text-gold-300 sm:text-6xl">{c.label}</span>
+              <span class="font-body text-sm tabular-nums text-white/50">{H.guidesCount(c.count)} →</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <p class="mt-8 font-body text-sm text-white/60">{H.countryQ} <a href={L.path('countries')} class="text-white underline underline-offset-4">{H.countryLink}</a></p>
+    </div>
+  </section>}
+
+  <!-- GUIDES -->
+  {posts.length > 0 && (
+    <section class="mx-auto max-w-7xl px-4 pt-20 sm:px-6 lg:px-8 lg:pt-28">
+      <div class="mb-8 flex items-end justify-between gap-6 border-b border-warm-200 pb-5">
+        <h2 class="font-display text-4xl leading-none text-warm-950 sm:text-5xl">{H.latestGuides}</h2>
+        <a href={L.path('blog')} class="hidden font-body text-sm font-semibold text-warm-950 underline underline-offset-4 sm:block">{H.allGuides}</a>
+      </div>
+      <div class="grid gap-10 md:grid-cols-3 md:gap-8">
+        {posts.map(p => (
+          <a href={L.path('blog', p.slug)} class="group block">
+            <p class="font-body text-xs font-medium uppercase tracking-wider text-warm-500">{t.blog.kinds[p.data.category as keyof typeof t.blog.kinds] ?? p.data.category.replace(/-/g, ' ')} · {fmt(p.data.publishedDate)}</p>
+            <h3 class="mt-3 font-display text-3xl leading-[1.05] text-warm-950 group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4">{p.data.title}</h3>
+            <p class="mt-3 line-clamp-3 font-body text-[15px] leading-relaxed text-warm-600">{p.data.excerpt}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- TRIP ESSENTIALS -->
+  <section class="mx-auto max-w-7xl px-4 pt-20 sm:px-6 lg:px-8 lg:pt-28">
+    <div class="rounded-2xl border border-warm-200 bg-white p-6 sm:p-10">
+      <div class="grid gap-8 lg:grid-cols-[1fr_2fr] lg:items-center">
+        <div>
+          <h2 class="font-display text-4xl leading-none text-warm-950">{H.planTitle}</h2>
+          <p class="mt-3 font-body text-sm text-warm-500">{H.planText} <a href={L.path('disclosure')} class="underline">{H.howItWorks}</a></p>
+        </div>
+        <div class="grid grid-cols-2 gap-px overflow-hidden rounded-xl border border-warm-200 bg-warm-200 sm:grid-cols-4">
+          {[
+            [H.partners.hotels, 'Expedia', 'https://www.expedia.com/Hotels', 'expedia'],
+            [H.partners.tours, 'Klook', 'https://www.klook.com', 'klook'],
+            [H.partners.tickets, 'Tiqets', L.locale === 'en' ? 'https://www.tiqets.com' : `https://www.tiqets.com/${L.locale}/`, 'tiqets'],
+            [H.partners.flights, 'Kiwi.com', L.locale === 'en' ? 'https://www.kiwi.com' : `https://www.kiwi.com/${L.locale}/`, 'kiwi'],
+          ].map(([t, s, u, k]) => (
+            <a href={withTracking(u, { campaign: 'homepage-partners', content: k })} target="_blank" rel={AFFILIATE_REL} class="group bg-white p-5 transition hover:bg-warm-50">
+              <p class="font-display text-2xl text-warm-950">{t}</p>
+              <p class="mt-1 font-body text-sm text-warm-500">{s} <span class="inline-block transition group-hover:translate-x-1" aria-hidden="true">↗</span></p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-3xl px-4 pt-20 sm:px-6 lg:px-8">
+    <Faq heading={t.common.quickAnswers} items={faq} />
+  </section>
+
+</BaseLayout>

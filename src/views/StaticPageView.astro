@@ -1,0 +1,31 @@
+---
+/** Editorial prose page (about, disclosure, privacy) from src/content/pages/<lang>/<name>.md. */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import { i18n, LOCALES, localePath, type Locale } from '../i18n';
+
+interface Props { locale: Locale; page: CollectionEntry<'pages'>; name: string }
+const { page, name } = Astro.props;
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const { Content } = await page.render();
+const all = await getCollection('pages');
+const alternates = (LOCALES as Locale[]).filter(l => all.some(p => p.slug === `${l}/${name}`)).map(l => ({ locale: l, href: localePath(l, name) }));
+---
+<BaseLayout title={page.data.metaTitle} description={page.data.metaDescription} alternates={alternates}>
+  <article class="mx-auto max-w-3xl px-4 pb-10 pt-10 sm:px-6 lg:px-8">
+    <nav aria-label={t.common.breadcrumb} class="font-body text-sm text-warm-500"><a href={L.path('home')} class="hover:text-warm-950">{t.common.home}</a> <span class="mx-1 text-warm-300">/</span> <span class="text-warm-800">{page.data.title}</span></nav>
+    <h1 class="mt-5 font-display text-5xl leading-[.95] text-warm-950 sm:text-6xl">{page.data.title}</h1>
+    {page.data.lead && <p class="mt-5 font-display text-2xl leading-snug text-warm-700">{page.data.lead}</p>}
+    {page.data.updated && <p class="mt-4 font-body text-sm text-warm-500">{t.static.updated}: {L.date(page.data.updated, { month: 'long', day: 'numeric', year: 'numeric' })}</p>}
+    <div class="prose prose-lg mt-10 max-w-none border-t border-warm-200 pt-8 font-body prose-headings:font-display prose-headings:font-normal prose-headings:text-warm-950 prose-h2:text-3xl prose-p:text-warm-700 prose-p:leading-[1.75] prose-li:text-warm-700 prose-a:text-forest-700 prose-strong:text-warm-950">
+      <Content />
+    </div>
+    {name === 'about' && (
+      <div class="mt-12 flex flex-col gap-3 rounded-2xl bg-warm-950 p-8 text-white sm:flex-row sm:items-center sm:justify-between">
+        <p class="font-display text-3xl leading-tight">{t.static.aboutCta}</p>
+        <a href={L.path('hotels')} class="flex-shrink-0 rounded-full bg-white px-6 py-3 text-center font-body text-sm font-semibold text-warm-950 hover:bg-gold-100">{t.static.aboutCtaButton}</a>
+      </div>
+    )}
+  </article>
+</BaseLayout>

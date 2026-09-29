@@ -1,0 +1,93 @@
+---
+/**
+ * Router for every translated language (/de/, /fr/, /es/, /it/, /nl/).
+ * English pages live in their own files at the root; both render the same views.
+ * A page is only generated when its content exists in that language.
+ */
+import HomeView from '../../views/HomeView.astro';
+import HotelView from '../../views/HotelView.astro';
+import HotelsIndexView from '../../views/HotelsIndexView.astro';
+import CategoriesIndexView from '../../views/CategoriesIndexView.astro';
+import CategoryView from '../../views/CategoryView.astro';
+import DestinationsIndexView from '../../views/DestinationsIndexView.astro';
+import DestinationView from '../../views/DestinationView.astro';
+import BlogIndexView from '../../views/BlogIndexView.astro';
+import PostView from '../../views/PostView.astro';
+import CountriesIndexView from '../../views/CountriesIndexView.astro';
+import CountryView from '../../views/CountryView.astro';
+import BestView from '../../views/BestView.astro';
+import ExperiencesIndexView from '../../views/ExperiencesIndexView.astro';
+import ExperienceView from '../../views/ExperienceView.astro';
+import StaticPageView from '../../views/StaticPageView.astro';
+import SearchView from '../../views/SearchView.astro';
+import SavedView from '../../views/SavedView.astro';
+import ContactView from '../../views/ContactView.astro';
+import NewsletterView from '../../views/NewsletterView.astro';
+import NewsletterSuccessView from '../../views/NewsletterSuccessView.astro';
+import NotFoundView from '../../views/NotFoundView.astro';
+import PhotoCreditsView from '../../views/PhotoCreditsView.astro';
+import { getCollection } from 'astro:content';
+import { TRANSLATED, SEGMENTS, categorySlug, type Locale } from '../../i18n';
+import { localized } from '../../i18n/content';
+import { countryGroups, bestGroups } from '../../i18n/roundups';
+
+export async function getStaticPaths() {
+  const out: any[] = [];
+  for (const lang of TRANSLATED as Locale[]) {
+    const seg = SEGMENTS[lang];
+    const add = (path: string | undefined, view: string, props: Record<string, unknown> = {}) =>
+      out.push({ params: { lang, path }, props: { view, ...props } });
+
+    add(undefined, 'home');
+    add(seg.hotels, 'hotels');
+    for (const hotel of await localized('hotels', lang)) add(`${seg.hotels}/${hotel.slug}`, 'hotel', { hotel });
+    add(seg.categories, 'categories');
+    for (const category of await localized('categories', lang)) add(`${seg.categories}/${categorySlug(lang, category.slug)}`, 'category', { category });
+    add(seg.destinations, 'destinations');
+    for (const dest of await localized('destinations', lang)) add(`${seg.destinations}/${dest.slug}`, 'destination', { dest });
+    add(seg.blog, 'blog');
+    for (const post of await localized('blog', lang)) add(`${seg.blog}/${post.slug}`, 'post', { post });
+    add(seg.countries, 'countries');
+    for (const g of await countryGroups(lang)) add(`${seg.countries}/${g.slug}`, 'country', { g });
+    for (const g of await bestGroups(lang)) add(`${seg.best}/${g.slug}`, 'best', { g });
+    add(seg.experiences, 'experiences');
+    for (const experience of await localized('experiences', lang)) add(`${seg.experiences}/${experience.slug}`, 'experience', { experience });
+    for (const name of ['about', 'disclosure', 'privacy'] as const) {
+      const page = (await getCollection('pages')).find(p => p.slug === `${lang}/${name}`);
+      if (page) add(seg[name], 'static', { page, name });
+    }
+    add(seg.search, 'search');
+    add(seg.saved, 'saved');
+    add(seg.contact, 'contact');
+    add(seg.newsletter, 'newsletter');
+    add(seg['newsletter-success'], 'newsletter-success');
+    add(seg['photo-credits'], 'photo-credits');
+    add('404', 'notfound');
+  }
+  return out;
+}
+const { lang } = Astro.params as { lang: Locale };
+const { view, ...p } = Astro.props as any;
+---
+{view === 'home' && <HomeView locale={lang} />}
+{view === 'hotels' && <HotelsIndexView locale={lang} />}
+{view === 'hotel' && <HotelView locale={lang} hotel={p.hotel} />}
+{view === 'categories' && <CategoriesIndexView locale={lang} />}
+{view === 'category' && <CategoryView locale={lang} category={p.category} />}
+{view === 'destinations' && <DestinationsIndexView locale={lang} />}
+{view === 'destination' && <DestinationView locale={lang} dest={p.dest} />}
+{view === 'blog' && <BlogIndexView locale={lang} />}
+{view === 'post' && <PostView locale={lang} post={p.post} />}
+{view === 'countries' && <CountriesIndexView locale={lang} />}
+{view === 'country' && <CountryView locale={lang} {...p.g} />}
+{view === 'best' && <BestView locale={lang} {...p.g} />}
+{view === 'experiences' && <ExperiencesIndexView locale={lang} />}
+{view === 'experience' && <ExperienceView locale={lang} experience={p.experience} />}
+{view === 'static' && <StaticPageView locale={lang} page={p.page} name={p.name} />}
+{view === 'search' && <SearchView locale={lang} />}
+{view === 'saved' && <SavedView locale={lang} />}
+{view === 'contact' && <ContactView locale={lang} />}
+{view === 'newsletter' && <NewsletterView locale={lang} />}
+{view === 'newsletter-success' && <NewsletterSuccessView locale={lang} />}
+{view === 'photo-credits' && <PhotoCreditsView locale={lang} />}
+{view === 'notfound' && <NotFoundView locale={lang} />}

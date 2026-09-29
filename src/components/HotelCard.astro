@@ -2,6 +2,7 @@
 import StayVisual from './StayVisual.astro';
 import { hotelDealUrl, AFFILIATE_REL } from '../lib/affiliate';
 import { startPrice } from '../lib/site';
+import { getLocale, i18n } from '../i18n';
 
 interface Props {
   name: string; destination: string; country: string; description: string;
@@ -10,31 +11,34 @@ interface Props {
   featured?: boolean; coverImage?: string; class?: string;
 }
 const { name, destination, country, priceRange, rating, highlights, bookingUrl, slug, category, featured, coverImage, class: cls = '' } = Astro.props;
+const L = i18n(getLocale(Astro.url));
+const { t } = L;
 const from = startPrice(priceRange);
+const place = L.country(country);
 const bookUrl = hotelDealUrl(bookingUrl, name, destination, { campaign: 'hotel-card', content: slug });
 ---
-<article class:list={['hotel-card group relative flex flex-col', cls]} data-hotel data-slug={slug} data-name={name.toLowerCase()} data-place={`${destination} ${country}`.toLowerCase()} data-cat={category} data-price={from} data-rating={rating} data-featured={featured ? 1 : 0}>
+<article class:list={['hotel-card group relative flex flex-col', cls]} data-hotel data-slug={slug} data-name={name.toLowerCase()} data-place={`${destination} ${country} ${place}`.toLowerCase()} data-cat={category} data-cat-name={L.cat(category, category.replace(/-/g, ' ')).toLowerCase()} data-price={from} data-rating={rating} data-featured={featured ? 1 : 0}>
   <div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-warm-100">
-    <StayVisual slug={slug} name={name} category={category} destination={destination} country={country} coverImage={coverImage} />
-    {featured && <span class="absolute bottom-3 left-3 rounded-full bg-white px-2.5 py-1 font-body text-[11px] font-semibold text-warm-900 shadow-soft">Editor's pick</span>}
-    <button type="button" data-save={slug} aria-pressed="false" aria-label={`Save ${name}`} class="save-btn absolute right-2.5 top-2.5 z-20 grid h-9 w-9 place-items-center rounded-full bg-white/90 text-warm-800 shadow-soft backdrop-blur transition hover:scale-110 hover:bg-white">
+    <StayVisual slug={slug} name={name} category={category} destination={destination} country={place} coverImage={coverImage} />
+    {featured && <span class="absolute bottom-3 left-3 rounded-full bg-white px-2.5 py-1 font-body text-[11px] font-semibold text-warm-900 shadow-soft">{t.card.editorsPick}</span>}
+    <button type="button" data-save={slug} aria-pressed="false" aria-label={t.card.save(name)} class="save-btn absolute right-2.5 top-2.5 z-20 grid h-9 w-9 place-items-center rounded-full bg-white/90 text-warm-800 shadow-soft backdrop-blur transition hover:scale-110 hover:bg-white">
       <svg viewBox="0 0 24 24" class="h-[18px] w-[18px]" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z"/></svg>
     </button>
   </div>
   <div class="pt-3">
     <div class="flex items-baseline justify-between gap-3">
       <h3 class="font-body text-[15px] font-semibold leading-snug text-warm-950">
-        <a href={`/hotels/${slug}/`} class="after:absolute after:inset-0 after:z-10 after:content-['']">{name}</a>
+        <a href={L.path('hotels', slug)} class="after:absolute after:inset-0 after:z-10 after:content-['']">{name}</a>
       </h3>
       {rating != null && (
-        <span class="flex-shrink-0 rounded-md bg-forest-800 px-1.5 py-0.5 font-body text-[12px] font-semibold tabular-nums text-white" title="Editor score out of 10">{rating.toFixed(1)}</span>
+        <span class="flex-shrink-0 rounded-md bg-forest-800 px-1.5 py-0.5 font-body text-[12px] font-semibold tabular-nums text-white" title={t.card.scoreTitle}>{rating.toFixed(1)}</span>
       )}
     </div>
-    <p class="mt-0.5 truncate font-body text-sm text-warm-500">{destination}, {country}</p>
+    <p class="mt-0.5 truncate font-body text-sm text-warm-500">{destination}, {place}</p>
     {highlights?.[0] && <p class="line-clamp-1 font-body text-sm text-warm-500">{highlights[0]}</p>}
     <div class="mt-2 flex items-center justify-between gap-2">
-      <p class="font-body text-sm text-warm-700">{from ? <>From <span class="font-semibold text-warm-950">${from.toLocaleString('en-US')}</span> / night</> : 'See rates'}</p>
-      {bookUrl && <a href={bookUrl} target="_blank" rel={AFFILIATE_REL} class="relative z-20 font-body text-sm font-semibold text-forest-700 underline decoration-forest-300 underline-offset-4 hover:decoration-forest-700">Check rates</a>}
+      <p class="font-body text-sm text-warm-700">{from ? <>{t.card.from} <span class="font-semibold text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : t.card.seeRates}</p>
+      {bookUrl && <a href={bookUrl} target="_blank" rel={AFFILIATE_REL} class="relative z-20 font-body text-sm font-semibold text-forest-700 underline decoration-forest-300 underline-offset-4 hover:decoration-forest-700">{t.card.checkRates}</a>}
     </div>
   </div>
 </article>

@@ -1,0 +1,290 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HotelCard from '../components/HotelCard.astro';
+import StayVisual from '../components/StayVisual.astro';
+import TripEssentials from '../components/TripEssentials.astro';
+import PartnerLogo from '../components/PartnerLogo.astro';
+import Faq from '../components/Faq.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { ownPhoto } from '../lib/images';
+import photoCredits from '../data/photo-credits.json';
+import { SITE, startPrice } from '../lib/site';
+import { withTracking, AFFILIATE_REL, mapsUrl } from '../lib/affiliate';
+import { i18n, type Locale } from '../i18n';
+import { localized, entryAlternates, type Localized } from '../i18n/content';
+
+interface Props { locale: Locale; hotel: Localized<'hotels'> }
+const { hotel } = Astro.props;
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const T = t.hotel;
+const { Content } = await hotel.render();
+const d = hotel.data;
+
+const allHotels = await localized('hotels', L.locale);
+const relatedHotels = allHotels.filter(h => h.slug !== hotel.slug && h.data.category === d.category).slice(0, 4);
+const category = (await localized('categories', L.locale)).find(c => c.slug === d.category);
+const catTitle = category ? L.cat(category.slug, category.data.title) : null;
+const country = L.country(d.country);
+const priceLabels = t.common.priceLevels;
+const range = L.range(d.priceRange);
+
+const metaTitle = d.seo?.metaTitle || T.metaTitle(d.name, d.destination);
+const metaDesc = d.seo?.metaDescription || d.description;
+
+// Only this hotel's own photos are ever shown (never a generic category picture).
+const photo = ownPhoto(d.coverImage, hotel.slug);
+const credit = (photoCredits as Record<string, any>)[hotel.slug];
+const gallery = d.gallery.map((g: string) => ownPhoto(g)).filter(Boolean) as string[];
+const hotelImageOg = photo ? `${SITE}${photo}` : `${SITE}/og-default.png`;
+const pageUrl = SITE + L.path('hotels', hotel.slug);
+
+const bookUrlTracked = withTracking(d.bookingUrl, { campaign: 'hotel-detail', content: hotel.slug });
+const isBooking = /booking\.com/.test(d.bookingUrl);
+const q = encodeURIComponent(`${d.name}, ${d.destination.split(',')[0]}`);
+// Expedia first: it is the tracked (commission-earning) hotel partner.
+const offers = [
+  { name: 'Expedia', logo: 'expedia', note: T.offers.expedia, url: withTracking(`https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, { campaign: 'hotel-offer', content: hotel.slug }) },
+  ...(isBooking ? [{ name: 'Booking.com', logo: 'booking', note: T.offers.booking, url: withTracking(d.bookingUrl, { campaign: 'hotel-offer', content: hotel.slug }) }] : []),
+  ...(!isBooking ? [{ name: T.offers.officialName, logo: '', note: T.offers.official, url: bookUrlTracked }] : []),
+];
+const from = startPrice(d.priceRange);
+const mapSrc = d.coordinates ? (() => { const { lat, lng } = d.coordinates!; const k = 0.35, f = (x: number) => x.toFixed(4); return `https://www.openstreetmap.org/export/embed.html?bbox=${f(lng - k)}%2C${f(lat - k * 0.6)}%2C${f(lng + k)}%2C${f(lat + k * 0.6)}&layer=mapnik&marker=${lat}%2C${lng}`; })() : null;
+const facts = [
+  [T.facts.price, /\d/.test(d.priceRange) ? `${range} ${t.card.perNight}` : T.facts.ratesVary],
+  ...(d.priceIndicator ? [[T.facts.level, priceLabels[d.priceIndicator]]] : []),
+  ...(d.seasonalInfo ? [[T.facts.bestTime, d.seasonalInfo.bestTime]] : []),
+  ...(d.checkInOut ? [[T.facts.checkInOut, `${d.checkInOut.checkIn} / ${d.checkInOut.checkOut}`]] : []),
+  ...(d.bestFor.length ? [[T.facts.bestFor, d.bestFor.slice(0, 3).join(', ')]] : []),
+  [T.facts.score, `${L.num(Number(d.rating.toFixed(1)))} / 10`],
+];
+const locQuery = d.coordinates ? `${d.coordinates.lat},${d.coordinates.lng}` : `${d.name} ${d.destination}`;
+
+const breadcrumbJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: t.common.home, item: SITE + L.path('home') },
+    { '@type': 'ListItem', position: 2, name: T.categories, item: SITE + L.path('categories') },
+    ...(category ? [{ '@type': 'ListItem', position: 3, name: catTitle, item: SITE + L.path('categories', d.category) }] : []),
+    { '@type': 'ListItem', position: category ? 4 : 3, name: d.name, item: pageUrl },
+  ],
+};
+const hotelJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'LodgingBusiness',
+  name: d.name,
+  description: d.description,
+  url: pageUrl,
+  inLanguage: L.intl,
+  address: { '@type': 'PostalAddress', addressLocality: d.destination, addressCountry: country },
+  ...(d.coordinates ? { geo: { '@type': 'GeoCoordinates', latitude: d.coordinates.lat, longitude: d.coordinates.lng } } : {}),
+  image: hotelImageOg,
+  // NOTE: no aggregateRating on purpose. We don't collect guest reviews, and
+  // marking up an editorial score as one violates Google's review guidelines.
+  priceRange: d.priceRange,
+  ...(d.amenities.length ? { amenityFeature: d.amenities.map((n: string) => ({ '@type': 'LocationFeatureSpecification', name: n, value: true })) } : {}),
+  ...(d.checkInOut ? { checkinTime: d.checkInOut.checkIn, checkoutTime: d.checkInOut.checkOut } : {}),
+  isPartOf: { '@type': 'WebSite', name: 'StayAtNiche', url: SITE + L.path('home') },
+};
+
+const faqItems = T.faq({
+  name: d.name, destination: d.destination, country, address: d.address, collection: catTitle,
+  priceRange: range, hasPrice: /\d/.test(d.priceRange), fromOnly: /^from/i.test(d.priceRange), level: d.priceIndicator ? priceLabels[d.priceIndicator] : null,
+  bestTime: d.seasonalInfo?.bestTime ?? null, seasonNotes: d.seasonalInfo?.notes ?? null,
+  bestFor: d.bestFor, checkIn: d.checkInOut?.checkIn ?? null, checkOut: d.checkInOut?.checkOut ?? null,
+  nearby: d.nearbyAttractions.map((n: any) => `${n.name} (${n.distance})`),
+});
+---
+
+<BaseLayout title={metaTitle} description={metaDesc} image={hotelImageOg} heroImage={photo ?? undefined} type="article" hideBottomNav={true} updatedTime={d.updatedDate?.toISOString()} alternates={await entryAlternates('hotels', 'hotels', hotel.slug)}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
+  <script type="application/ld+json" set:html={JSON.stringify(hotelJsonLd)} />
+
+  <article class="mx-auto max-w-7xl px-4 pb-8 pt-6 sm:px-6 lg:px-8">
+    <nav aria-label={t.common.breadcrumb} class="font-body text-sm text-warm-500">
+      <a href={L.path('home')} class="hover:text-warm-950">{t.common.home}</a> <span class="mx-1 text-warm-300">/</span>
+      <a href={L.path('categories', d.category)} class="hover:text-warm-950">{catTitle ?? t.nav.stays}</a> <span class="mx-1 text-warm-300">/</span>
+      <span class="text-warm-800">{d.name}</span>
+    </nav>
+
+    <header class="mt-6 flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+      <div>
+        <p class="eyebrow text-gold-600">{catTitle ?? d.category.replace(/-/g, ' ')}{d.editorsPick || d.featured ? ` · ${t.card.editorsPick}` : ''}</p>
+        <h1 class="mt-2 font-display text-5xl leading-[.95] text-warm-950 sm:text-6xl lg:text-7xl">{d.name}</h1>
+        <p class="mt-3 font-body text-[15px] text-warm-600">{d.destination}, {country} <span class="mx-1.5 text-warm-300">·</span> <span class="rounded-md bg-forest-800 px-1.5 py-0.5 text-[13px] font-semibold tabular-nums text-white">{L.num(Number(d.rating.toFixed(1)))}</span> <span class="text-warm-500">{T.editorScore}</span></p>
+      </div>
+      <div class="flex gap-2">
+        <button type="button" data-save={hotel.slug} aria-pressed="false" class="save-btn inline-flex items-center gap-2 rounded-full border border-warm-300 bg-white px-4 py-2 font-body text-sm font-semibold text-warm-900 hover:border-warm-500">
+          <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z"/></svg>{T.save}
+        </button>
+        <button type="button" data-share data-copied={T.linkCopied} class="inline-flex items-center gap-2 rounded-full border border-warm-300 bg-white px-4 py-2 font-body text-sm font-semibold text-warm-900 hover:border-warm-500">
+          <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 12v7a1 1 0 001 1h14a1 1 0 001-1v-7M12 3v12M7 8l5-5 5 5"/></svg>{T.share}
+        </button>
+      </div>
+    </header>
+
+    <!-- Visual -->
+    <div class:list={['mt-6 grid gap-2 overflow-hidden rounded-2xl', gallery.length ? 'md:grid-cols-[2fr_1fr]' : '']}>
+      <div class:list={['group overflow-hidden bg-warm-100', photo ? 'aspect-[16/10] md:aspect-[16/8]' : 'aspect-[16/10] md:aspect-[16/6]']}>
+        <StayVisual slug={hotel.slug} name={d.name} category={d.category} destination={d.destination} country={country} coverImage={d.coverImage} eager size="hero" />
+      </div>
+      {gallery.length > 0 && (
+        <div class="hidden grid-rows-2 gap-2 md:grid">
+          {gallery.slice(0, 2).map((g, i) => <img src={g} alt={T.photoAlt(d.name, i + 2)} class="h-full w-full object-cover" loading="lazy" />)}
+        </div>
+      )}
+    </div>
+    {!photo && <p class="mt-2 font-body text-xs text-warm-400">{T.noPhoto}</p>}
+    {photo && credit && (
+      <p class="mt-2 font-body text-xs text-warm-400">{T.photo}: <a href={credit.source} target="_blank" rel="noopener noreferrer" class="underline">{credit.author}</a>, {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{credit.license}</a> : credit.license}, {T.viaCommons}</p>
+    )}
+
+    <div class="mt-10 grid grid-cols-1 gap-12 lg:grid-cols-[1fr_380px] lg:gap-16">
+      <!-- Main column -->
+      <div class="min-w-0">
+        <p class="font-display text-[1.7rem] leading-snug text-warm-900 sm:text-3xl">{d.description}</p>
+
+        <dl class="mt-10 grid grid-cols-2 border-t border-warm-200 sm:grid-cols-3">
+          {facts.map(([k, v]) => (
+            <div class="border-b border-warm-200 py-4 pr-4">
+              <dt class="eyebrow text-warm-500">{k}</dt>
+              <dd class="mt-1.5 font-body text-[15px] font-medium text-warm-950">{v}</dd>
+            </div>
+          ))}
+        </dl>
+
+        {d.highlights.length > 0 && (
+          <section class="mt-12">
+            <h2 class="font-display text-3xl leading-none text-warm-950">{T.why}</h2>
+            <ul class="mt-5 grid gap-x-8 gap-y-3 sm:grid-cols-2">
+              {d.highlights.map((h: string) => (
+                <li class="flex gap-3 font-body text-[15px] text-warm-800"><span class="mt-2 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-gold-500"></span>{h}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <div class="prose prose-lg mt-12 max-w-none font-body prose-headings:font-display prose-headings:font-normal prose-headings:text-warm-950 prose-h2:text-3xl prose-p:text-warm-700 prose-p:leading-[1.75] prose-a:text-forest-700 prose-strong:text-warm-950">
+          <Content />
+        </div>
+
+        <AdSlot slot="hotel-inline" />
+
+        {(d.amenities.length > 0 || d.prosAndCons) && (
+          <section class="mt-12 grid gap-10 border-t border-warm-200 pt-10 sm:grid-cols-2">
+            {d.amenities.length > 0 && (
+              <div>
+                <h2 class="font-display text-3xl leading-none text-warm-950">{T.included}</h2>
+                <ul class="mt-5 space-y-2.5">
+                  {d.amenities.map((a: string) => <li class="flex gap-3 font-body text-[15px] text-warm-800"><svg class="mt-1 h-4 w-4 flex-shrink-0 text-forest-600" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>{a}</li>)}
+                </ul>
+              </div>
+            )}
+            {d.prosAndCons && (
+              <div>
+                <h2 class="font-display text-3xl leading-none text-warm-950">{T.goodToKnow}</h2>
+                <ul class="mt-5 space-y-2.5">
+                  {d.prosAndCons.pros.map((x: string) => <li class="flex gap-3 font-body text-[15px] text-warm-800"><span class="font-semibold text-forest-700">+</span>{x}</li>)}
+                  {d.prosAndCons.cons.map((x: string) => <li class="flex gap-3 font-body text-[15px] text-warm-800"><span class="font-semibold text-gold-700">−</span>{x}</li>)}
+                </ul>
+              </div>
+            )}
+          </section>
+        )}
+
+        <section class="mt-12 border-t border-warm-200 pt-10">
+          <h2 class="font-display text-3xl leading-none text-warm-950">{T.whereItIs}</h2>
+          <p class="mt-2 font-body text-[15px] text-warm-600">{d.address ?? `${d.destination}, ${country}`}</p>
+          {mapSrc && (
+            <div class="mt-5 aspect-[16/9] overflow-hidden rounded-xl border border-warm-200 bg-warm-100">
+              <iframe src={mapSrc} title={T.mapOf(d.name)} loading="lazy" class="h-full w-full" referrerpolicy="no-referrer"></iframe>
+            </div>
+          )}
+          <a href={mapsUrl(locQuery)} target="_blank" rel="noopener noreferrer" class="mt-3 inline-block font-body text-sm font-semibold text-warm-950 underline underline-offset-4">{T.openMaps} ↗</a>
+          {d.nearbyAttractions.length > 0 && (
+            <ul class="mt-6 divide-y divide-warm-200 border-y border-warm-200">
+              {d.nearbyAttractions.map((a: any) => <li class="flex justify-between gap-4 py-3 font-body text-[15px]"><span class="text-warm-800">{a.name}</span><span class="tabular-nums text-warm-500">{a.distance}</span></li>)}
+            </ul>
+          )}
+        </section>
+
+        <div class="mt-12 border-t border-warm-200 pt-10">
+          <TripEssentials destination={d.destination} country={d.country} subId={hotel.slug} />
+        </div>
+
+        <div class="mt-12">
+          <Faq items={faqItems} heading={t.common.quickAnswers} />
+        </div>
+      </div>
+
+      <!-- Booking card -->
+      <aside class="min-w-0 lg:sticky lg:top-24 lg:self-start">
+        <div class="rounded-2xl border border-warm-200 bg-white p-6 shadow-card">
+          <p class="font-body text-sm text-warm-600">{from ? <>{t.card.from} <span class="font-display text-4xl text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : T.ratesVary}</p>
+          <p class="mt-1 font-body text-xs text-warm-500">{T.typicalRange(range)}</p>
+          <a href={offers[0].url} target="_blank" rel={AFFILIATE_REL} data-cta="primary" class="mt-5 flex w-full items-center justify-center gap-2.5 rounded-xl bg-forest-700 px-5 py-4 font-body text-[15px] font-semibold text-white shadow-soft transition hover:bg-forest-800">
+            {T.checkPricesOn(offers[0].name)}
+            <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </a>
+          <p class="mt-2 text-center font-body text-xs text-warm-500">{T.enterDates}</p>
+          <p class="mt-6 eyebrow text-warm-500">{T.comparePrices}</p>
+          <ul class="mt-2 space-y-2">
+            {offers.map(o => (
+              <li><a href={o.url} target="_blank" rel={AFFILIATE_REL} class="group flex items-center gap-3 rounded-xl border border-warm-200 p-3 transition hover:border-forest-400 hover:bg-forest-50/40">
+                {o.logo ? <PartnerLogo partner={o.logo} name={o.name} size={36} /> : (
+                  <span class="grid h-9 w-9 flex-shrink-0 place-items-center rounded-xl bg-warm-100 text-warm-700" aria-hidden="true"><svg viewBox="0 0 24 24" class="h-[18px] w-[18px]" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-7 9 7M5 10v10h14V10M10 20v-6h4v6"/></svg></span>
+                )}
+                <span class="min-w-0 flex-1"><span class="block font-body text-sm font-semibold text-warm-950">{o.name}</span><span class="block truncate font-body text-xs text-warm-500">{o.note}</span></span>
+                <span class="rounded-lg bg-warm-100 px-2.5 py-1.5 font-body text-xs font-semibold text-warm-900 transition group-hover:bg-forest-700 group-hover:text-white">{T.viewDeal}</span>
+              </a></li>
+            ))}
+          </ul>
+          <p class="mt-4 font-body text-[11px] leading-relaxed text-warm-400">{T.commission} <a href={L.path('disclosure')} class="underline">{t.footer.disclosure}</a></p>
+        </div>
+        {d.seasonalInfo?.notes && (
+          <div class="mt-4 rounded-2xl bg-warm-100 p-5">
+            <p class="eyebrow text-warm-500">{T.timingTip}</p>
+            <p class="mt-2 font-body text-sm leading-relaxed text-warm-800">{d.seasonalInfo.notes}</p>
+          </div>
+        )}
+      </aside>
+    </div>
+  </article>
+
+  {relatedHotels.length > 0 && (
+    <section class="mx-auto max-w-7xl px-4 pt-16 sm:px-6 lg:px-8">
+      <div class="mb-8 flex items-end justify-between border-b border-warm-200 pb-5">
+        <h2 class="font-display text-4xl leading-none text-warm-950">{T.more(catTitle ?? '')}</h2>
+        <a href={L.path('categories', d.category)} class="font-body text-sm font-semibold text-warm-950 underline underline-offset-4">{T.seeAll}</a>
+      </div>
+      <div class="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
+        {relatedHotels.map(h => (
+          <HotelCard name={h.data.name} destination={h.data.destination} country={h.data.country} description={h.data.description} priceRange={h.data.priceRange} priceIndicator={h.data.priceIndicator} rating={h.data.rating} highlights={h.data.highlights} bookingUrl={h.data.bookingUrl} slug={h.slug} category={h.data.category} featured={h.data.featured} coverImage={h.data.coverImage} />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Mobile booking bar -->
+  <div class="fixed inset-x-0 bottom-0 z-40 border-t border-warm-200 bg-white/95 px-4 pb-[calc(.75rem+env(safe-area-inset-bottom))] pt-3 backdrop-blur lg:hidden">
+    <div class="mx-auto flex max-w-lg items-center gap-3">
+      <div class="min-w-0 flex-1">
+        <p class="truncate font-body text-sm font-semibold text-warm-950">{from ? `${t.card.from} ${L.usd(from)}` : range} <span class="font-normal text-warm-500">{t.card.perNight}</span></p>
+        <p class="truncate font-body text-xs text-warm-500">{d.name}</p>
+      </div>
+      <a href={offers[0].url} target="_blank" rel={AFFILIATE_REL} class="flex-shrink-0 rounded-xl bg-forest-700 px-6 py-3 font-body text-sm font-semibold text-white">{t.card.checkRates}</a>
+    </div>
+  </div>
+  <div class="h-20 lg:hidden"></div>
+
+  <script is:inline>
+    document.querySelectorAll('[data-share]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var d = { title: document.title, url: location.href };
+        if (navigator.share) navigator.share(d).catch(function () {});
+        else if (navigator.clipboard) navigator.clipboard.writeText(location.href).then(function () { b.lastChild.textContent = b.getAttribute('data-copied'); });
+      });
+    });
+  </script>
+</BaseLayout>

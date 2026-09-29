@@ -1,11 +1,41 @@
 ---
 import { getEntry } from 'astro:content';
 import BrandMark from './BrandMark.astro';
+import { getLocale, i18n } from '../i18n';
+import { localized } from '../i18n/content';
 
+const L = i18n(getLocale(Astro.url));
+const { t } = L;
 const nav = (await getEntry('settings', 'navigation').catch(() => null))?.data ?? {};
 const soc = (await getEntry('settings', 'social').catch(() => null))?.data ?? {};
 const year = new Date().getFullYear();
-const columns = (nav.footerColumns as any[]) ?? [];
+
+// Columns: the English navigation settings define WHICH entries appear; labels come from the
+// localized content, and entries without a translation are left out.
+const enCols = ((nav.footerColumns as any[]) ?? []);
+const cats = await localized('categories', L.locale);
+const dests = await localized('destinations', L.locale);
+const slugOf = (url: string) => url.replace(/\/$/, '').split('/').pop() ?? '';
+const catLinks = (enCols[0]?.links ?? []).filter((l: any) => l.url.split('/').length > 2)
+  .map((l: any) => cats.find((c) => c.slug === slugOf(l.url))).filter(Boolean)
+  .map((c: any) => ({ label: L.cat(c.slug, c.data.title), url: L.path('categories', c.slug) }));
+const destLinks = (enCols[1]?.links ?? []).filter((l: any) => l.url.split('/').length > 2)
+  .map((l: any) => ({ d: dests.find((d) => d.slug === slugOf(l.url)), label: l.label })).filter((x: any) => x.d)
+  .map((x: any) => ({ label: L.locale === 'en' ? x.label : x.d.data.name, url: L.path('destinations', x.d.slug) }));
+const columns = [
+  { title: t.footer.colStays, links: [{ label: t.footer.allCategories, url: L.path('categories') }, ...catLinks] },
+  { title: t.footer.colDestinations, links: [{ label: t.footer.allDestinations, url: L.path('destinations') }, ...destLinks] },
+  { title: t.footer.colResources, links: [
+    { label: t.footer.byCountry, url: L.path('countries') },
+    { label: t.footer.guides, url: L.path('blog') },
+    { label: t.footer.experiences, url: L.path('experiences') },
+    { label: t.footer.about, url: L.path('about') },
+    { label: t.footer.contact, url: L.path('contact') },
+    { label: t.footer.newsletter, url: L.path('newsletter') },
+    { label: t.footer.privacy, url: L.path('privacy') },
+    { label: t.footer.disclosure, url: L.path('disclosure') },
+  ] },
+];
 const social = Object.entries(soc as Record<string, string>)
   .filter(([, u]) => typeof u === 'string' && u.startsWith('http'))
   .map(([k, u]) => ({ label: k === 'twitter' ? 'X' : k[0].toUpperCase() + k.slice(1), url: u }));
@@ -15,28 +45,29 @@ const social = Object.entries(soc as Record<string, string>)
   <div class="mx-auto max-w-7xl px-4 pb-10 pt-16 sm:px-6 lg:px-8">
     <div class="grid gap-12 border-b border-white/10 pb-12 lg:grid-cols-[1.2fr_1fr]">
       <div>
-        <a href="/" class="flex items-center gap-3"><BrandMark size={40} tone="light" /><span class="font-display text-4xl leading-none text-white">StayAt<span class="italic text-gold-400">Niche</span></span></a>
-        <p class="mt-4 max-w-md font-display text-2xl leading-snug text-warm-200">Hotels worth the trip. Treehouses, caves, rooms under the sea, and everything in between.</p>
+        <a href={L.path('home')} class="flex items-center gap-3"><BrandMark size={40} tone="light" /><span class="font-display text-4xl leading-none text-white">StayAt<span class="italic text-gold-400">Niche</span></span></a>
+        <p class="mt-4 max-w-md font-display text-2xl leading-snug text-warm-200">{t.footer.tagline}</p>
       </div>
       <div>
-        <p class="eyebrow text-warm-400">The Friday letter</p>
-        <p class="mt-2 font-body text-sm text-warm-400">One unusual stay a week. No spam, unsubscribe in one click.</p>
-        <form class="mt-4 flex gap-2" netlify name="footer-newsletter" method="POST" action="/newsletter-success/" data-netlify-honeypot="bot-field">
+        <p class="eyebrow text-warm-400">{t.footer.letterTitle}</p>
+        <p class="mt-2 font-body text-sm text-warm-400">{t.footer.letterText}</p>
+        <form class="mt-4 flex gap-2" netlify name="footer-newsletter" method="POST" action={L.path('newsletter-success')} data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="footer-newsletter" />
+          <input type="hidden" name="language" value={L.locale} />
           <p class="hidden"><label>Leave empty: <input name="bot-field" /></label></p>
-          <label for="ft-email" class="sr-only">Email address</label>
-          <input id="ft-email" type="email" name="email" required autocomplete="email" placeholder="you@example.com" class="min-w-0 flex-1 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-body text-sm text-white placeholder-warm-500 outline-none focus:border-white/40" />
-          <button type="submit" class="rounded-full bg-white px-5 py-3 font-body text-sm font-semibold text-warm-950 transition hover:bg-gold-100">Subscribe</button>
+          <label for="ft-email" class="sr-only">{t.footer.email}</label>
+          <input id="ft-email" type="email" name="email" required autocomplete="email" placeholder={t.footer.emailPlaceholder} class="min-w-0 flex-1 rounded-full border border-white/15 bg-white/5 px-5 py-3 font-body text-sm text-white placeholder-warm-500 outline-none focus:border-white/40" />
+          <button type="submit" class="rounded-full bg-white px-5 py-3 font-body text-sm font-semibold text-warm-950 transition hover:bg-gold-100">{t.footer.subscribe}</button>
         </form>
       </div>
     </div>
 
     <div class="grid grid-cols-2 gap-8 py-12 md:grid-cols-3">
-      {columns.map((col: any) => (
+      {columns.map((col) => (
         <div>
           <h3 class="eyebrow mb-4 text-warm-500">{col.title}</h3>
           <ul class="space-y-2.5">
-            {col.links.map((l: any) => (
+            {col.links.map((l) => (
               <li><a href={l.url} class="font-body text-sm text-warm-300 transition hover:text-white">{l.label}</a></li>
             ))}
           </ul>
@@ -45,7 +76,7 @@ const social = Object.entries(soc as Record<string, string>)
     </div>
 
     <div class="flex flex-col gap-4 border-t border-white/10 pt-8 font-body text-xs text-warm-500 md:flex-row md:items-center md:justify-between">
-      <p>© {year} StayAtNiche. Some links are affiliate links: we may earn a commission at no extra cost to you. <a href="/disclosure/" class="underline hover:text-white">Disclosure</a> · <a href="/privacy/" class="underline hover:text-white">Privacy</a> · <a href="/photo-credits/" class="underline hover:text-white">Photo credits</a></p>
+      <p>© {year} StayAtNiche. {t.footer.affiliateNote} <a href={L.path('disclosure')} class="underline hover:text-white">{t.footer.disclosure}</a> · <a href={L.path('privacy')} class="underline hover:text-white">{t.footer.privacy}</a> · <a href={L.path('photo-credits')} class="underline hover:text-white">{t.footer.photoCredits}</a></p>
       {social.length > 0 && (
         <ul class="flex gap-4">{social.map(s => <li><a href={s.url} target="_blank" rel="noopener noreferrer" class="hover:text-white">{s.label}</a></li>)}</ul>
       )}

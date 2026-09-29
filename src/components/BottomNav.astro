@@ -1,14 +1,19 @@
 ---
+import { getLocale, i18n } from '../i18n';
+const L = i18n(getLocale(Astro.url));
+const { t } = L;
 const path = Astro.url.pathname;
+const P = (k: string) => L.path(k);
+const starts = (p: string, ...kinds: string[]) => kinds.some(k => p.startsWith(P(k)));
 const items = [
-  { href: '/', label: 'Home', match: (p: string) => p === '/', d: 'M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1v-9Z' },
-  { href: '/hotels/', label: 'Explore', match: (p: string) => p.startsWith('/hotels') || p.startsWith('/categories') || p.startsWith('/countries') || p.startsWith('/best'), d: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm3.5 6.5-2 5-5 2 2-5 5-2Z' },
-  { href: '/search/', label: 'Search', match: (p: string) => p.startsWith('/search'), d: 'M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z' },
-  { href: '/saved/', label: 'Saved', match: (p: string) => p.startsWith('/saved'), d: 'M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z', badge: true },
-  { href: '/blog/', label: 'Guides', match: (p: string) => p.startsWith('/blog') || p.startsWith('/destinations') || p.startsWith('/experiences'), d: 'M4 5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2V5Zm2 14h12M8 7h6' },
+  { href: P('home'), label: t.nav.home, match: (p: string) => p === P('home'), d: 'M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1v-9Z' },
+  { href: P('hotels'), label: t.nav.explore, match: (p: string) => starts(p, 'hotels', 'categories', 'countries', 'best'), d: 'M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm3.5 6.5-2 5-5 2 2-5 5-2Z' },
+  { href: P('search'), label: t.nav.search, match: (p: string) => starts(p, 'search'), d: 'M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0Z' },
+  { href: P('saved'), label: t.nav.saved, match: (p: string) => starts(p, 'saved'), d: 'M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z', badge: true },
+  { href: P('blog'), label: t.nav.guides, match: (p: string) => starts(p, 'blog', 'destinations', 'experiences'), d: 'M4 5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2V5Zm2 14h12M8 7h6' },
 ];
 ---
-<nav aria-label="Primary" class="fixed inset-x-0 bottom-0 z-40 border-t border-warm-200 bg-white/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
+<nav aria-label={t.nav.main} class="fixed inset-x-0 bottom-0 z-40 border-t border-warm-200 bg-white/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
   <ul class="mx-auto grid max-w-md grid-cols-5">
     {items.map(i => {
       const on = i.match(path);

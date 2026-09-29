@@ -4,7 +4,9 @@ import CategoryTile from './CategoryTile.astro';
 import { getCollection } from 'astro:content';
 import { isLive } from '../lib/site';
 interface Props { title: string; slug: string; coverImage?: string; description?: string; [k: string]: any }
+import { getLocale, i18n } from '../i18n';
 const { title, slug, coverImage } = Astro.props;
+const L = i18n(getLocale(Astro.url));
 const count = (await getCollection('hotels', isLive)).filter(h => h.data.category === slug).length;
 ---
-<CategoryTile slug={slug} title={title} count={count} coverImage={coverImage} class="aspect-[4/5] sm:aspect-[4/3]" />
+<CategoryTile slug={slug} title={L.cat(slug, title)} count={count} coverImage={coverImage} class="aspect-[4/5] sm:aspect-[4/3]" />

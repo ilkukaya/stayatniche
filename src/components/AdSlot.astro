@@ -7,15 +7,17 @@
  */
 import { getEntry } from 'astro:content';
 interface Props { slot?: string; format?: 'auto' | 'rectangle' | 'horizontal'; class?: string; }
+import { getLocale, i18n } from '../i18n';
 const { slot = 'default', format = 'auto', class: cls = '' } = Astro.props;
+const L = i18n(getLocale(Astro.url));
 const a = (await getEntry('settings', 'analytics').catch(() => null))?.data ?? {};
 const client = (a.adsenseClient as string) || '';
 const slots = (a.adsenseSlots as Record<string, string>) || {};
 const slotId = slots[slot] || '';
 ---
 {client && slotId && (
-  <aside class:list={['ad-slot my-8 text-center', cls]} aria-label="Advertisement">
-    <p class="mb-1 font-body text-[10px] uppercase tracking-widest text-warm-400">Advertisement</p>
+  <aside class:list={['ad-slot my-8 text-center', cls]} aria-label={L.t.common.advertisement}>
+    <p class="mb-1 font-body text-[10px] uppercase tracking-widest text-warm-400">{L.t.common.advertisement}</p>
     <ins class="adsbygoogle block" style="display:block;min-height:250px" data-ad-client={client} data-ad-slot={slotId} data-ad-format={format} data-full-width-responsive="true"></ins>
     <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </aside>

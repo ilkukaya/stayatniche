@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { i18n, type Locale } from '../i18n';
+import { allAlternates } from '../i18n/content';
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const S = L.t.search;
+const indexUrl = L.locale === 'en' ? '/search-index.json' : `/${L.locale}/search-index.json`;
+---
+<BaseLayout title={S.metaTitle} description={S.metaDescription} noIndex={true} alternates={allAlternates('search')}>
+  <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="font-display text-4xl text-warm-950 sm:text-5xl">{L.t.nav.search}</h1>
+    <form id="s-form" role="search" class="mt-6" onsubmit="return false">
+      <label for="s-q" class="sr-only">{S.label}</label>
+      <input id="s-q" type="search" autocomplete="off" autofocus placeholder={S.placeholder} class="w-full rounded-full border border-warm-300 bg-white px-6 py-4 font-body text-base shadow-soft focus:border-forest-500 focus:outline-none focus:ring-2 focus:ring-forest-200" />
+    </form>
+    <p id="s-count" class="mt-4 font-body text-sm text-warm-500" aria-live="polite" data-one={S.results(1).replace('1', '{n}')} data-many={S.results(2).replace('2', '{n}')} data-none={S.none}></p>
+    <ul id="s-results" class="mt-4 divide-y divide-warm-200 rounded-2xl border border-warm-200 bg-white"></ul>
+  </section>
+  <script is:inline define:vars={{ indexUrl }}>
+    (function () {
+      var q = document.getElementById('s-q'), out = document.getElementById('s-results'), count = document.getElementById('s-count'), rows = [];
+      function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+      function norm(s) { return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); }
+      function run() {
+        var terms = norm(q.value).split(/\s+/).filter(Boolean);
+        if (!terms.length) { out.innerHTML = ''; count.textContent = ''; return; }
+        var hits = rows.map(function (r) {
+          var t = norm(r[1]), hay = norm(r[1] + ' ' + r[3] + ' ' + r[4]), score = 0;
+          for (var i = 0; i < terms.length; i++) { if (hay.indexOf(terms[i]) < 0) return null; score += t.indexOf(terms[i]) >= 0 ? 3 : 1; }
+          return { r: r, s: score };
+        }).filter(Boolean).sort(function (a, b) { return b.s - a.s; }).slice(0, 40);
+        count.textContent = hits.length ? (hits.length === 1 ? count.dataset.one : count.dataset.many).replace('{n}', hits.length) : count.dataset.none;
+        out.innerHTML = hits.map(function (h) {
+          return '<li><a class="flex items-center justify-between gap-4 p-4 hover:bg-warm-50" href="' + h.r[2] + '"><span><span class="block font-display text-lg text-warm-950">' + esc(h.r[1]) + '</span><span class="block font-body text-sm text-warm-500">' + esc(h.r[3]) + '</span></span><span class="rounded-full bg-warm-100 px-2.5 py-1 font-body text-xs font-semibold text-warm-600">' + esc(h.r[0]) + '</span></a></li>';
+        }).join('');
+      }
+      fetch(indexUrl).then(function (r) { return r.json(); }).then(function (d) { rows = d; var p = new URLSearchParams(location.search).get('q'); if (p) q.value = p; run(); });
+      q.addEventListener('input', run);
+    })();
+  </script>
+</BaseLayout>

@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CategoryTile from '../components/CategoryTile.astro';
+import { i18n, type Locale } from '../i18n';
+import { localized } from '../i18n/content';
+import { isLive } from '../lib/site';
+import { getCollection } from 'astro:content';
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const N = t.notFound;
+const hotels = await getCollection('hotels', isLive);
+const cats = (await localized('categories', L.locale)).sort((a, b) => a.data.order - b.data.order).slice(0, 4);
+---
+<BaseLayout title={N.metaTitle} description={N.text} noIndex={true}>
+  <section class="mx-auto max-w-4xl px-4 py-16 text-center sm:px-6 lg:py-24">
+    <p class="font-display text-8xl leading-none text-warm-300">404</p>
+    <h1 class="mt-4 font-display text-5xl leading-[.95] text-warm-950 sm:text-6xl">{N.h1}</h1>
+    <p class="mx-auto mt-5 max-w-xl font-body text-lg text-warm-600">{N.text}</p>
+    <div class="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
+      <a href={L.path('home')} class="rounded-full bg-forest-700 px-7 py-3.5 font-body text-sm font-semibold text-white hover:bg-forest-800">{t.newsletter.backHome}</a>
+      <a href={L.path('search')} class="rounded-full border border-warm-300 bg-white px-7 py-3.5 font-body text-sm font-semibold text-warm-900 hover:border-warm-500">{t.nav.search}</a>
+    </div>
+  </section>
+  <section class="mx-auto max-w-5xl px-4 pb-10 sm:px-6 lg:px-8">
+    <p class="eyebrow mb-4 text-warm-500">{N.maybe}</p>
+    <div class="grid auto-rows-[160px] grid-cols-2 gap-3 md:grid-cols-4">
+      {cats.map(c => <CategoryTile slug={c.slug} title={L.cat(c.slug, c.data.title)} count={hotels.filter(h => h.data.category === c.slug).length} coverImage={c.data.coverImage} />)}
+    </div>
+  </section>
+</BaseLayout>

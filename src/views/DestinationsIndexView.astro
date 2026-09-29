@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { resolveImage } from '../lib/images';
+import { slugify } from '../lib/site';
+import { i18n, type Locale } from '../i18n';
+import { localized, allAlternates } from '../i18n/content';
+
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const D = t.destinations;
+const dests = (await localized('destinations', L.locale)).sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || (a.data.order ?? 99) - (b.data.order ?? 99) || a.data.name.localeCompare(b.data.name, L.intl));
+const hotels = await localized('hotels', L.locale);
+const ORDER = ['europe', 'africa', 'asia', 'middle-east', 'north-america', 'south-america', 'oceania'];
+const label = (c: string) => L.continent(c);
+const groups = ORDER.map(c => ({ slug: c, label: label(c), items: dests.filter(d => slugify(d.data.continent) === c) })).filter(g => g.items.length);
+const other = dests.filter(d => !ORDER.includes(slugify(d.data.continent)));
+if (other.length) groups.push({ slug: 'more', label: D.morePlaces, items: other });
+const staysIn = (d: any) => hotels.filter(h => h.en.country === d.en.country || h.en.country === d.en.name || h.en.destination.includes(d.en.name.split(',')[0])).length;
+---
+<BaseLayout title={D.metaTitle} description={D.metaDescription(dests.length)} alternates={allAlternates('destinations')}>
+  <section class="mx-auto max-w-7xl px-4 pb-6 pt-10 sm:px-6 lg:px-8">
+    <nav aria-label={t.common.breadcrumb} class="font-body text-sm text-warm-500"><a href={L.path('home')} class="hover:text-warm-950">{t.common.home}</a> <span class="mx-1 text-warm-300">/</span> <span class="text-warm-800">{t.nav.destinations}</span></nav>
+    <h1 class="mt-4 max-w-3xl font-display text-5xl leading-[.95] text-warm-950 sm:text-7xl">{D.h1a} <span class="italic">{D.h1b}</span></h1>
+    <p class="mt-4 max-w-2xl font-body text-lg text-warm-600">{D.lead(dests.length)}</p>
+  </section>
+
+  <nav class="sticky top-16 z-30 border-y border-warm-200 bg-warm-50/95 backdrop-blur" aria-label={D.continents}>
+    <ul class="scrollbar-hide mx-auto flex max-w-7xl gap-2 overflow-x-auto px-4 py-3 sm:px-6 lg:px-8">
+      {groups.map(g => <li class="flex-shrink-0"><a href={`#${g.slug}`} class="block rounded-full border border-warm-300 bg-white px-4 py-2 font-body text-sm font-semibold text-warm-800 hover:border-warm-950">{g.label} <span class="font-normal text-warm-400">{g.items.length}</span></a></li>)}
+    </ul>
+  </nav>
+
+  {groups.map(g => (
+    <section id={g.slug} class="mx-auto max-w-7xl scroll-mt-32 px-4 pt-14 sm:px-6 lg:px-8">
+      <div class="mb-6 flex items-end justify-between border-b border-warm-200 pb-4">
+        <h2 class="font-display text-4xl leading-none text-warm-950 sm:text-5xl">{g.label}</h2>
+        <span class="font-body text-sm text-warm-500">{t.home.guidesCount(g.items.length)}</span>
+      </div>
+      <div class="grid grid-cols-2 gap-3 sm:gap-5 md:grid-cols-3 lg:grid-cols-4">
+        {g.items.map(d => {
+          const img = resolveImage(d.data.coverImage, { slug: d.slug, continent: d.data.continent });
+          const n = staysIn(d);
+          return (
+            <a href={L.path('destinations', d.slug)} class="group relative isolate block aspect-[4/5] overflow-hidden rounded-xl bg-warm-200">
+              <img src={img} alt={d.data.name} class="absolute inset-0 -z-10 h-full w-full object-cover transition duration-700 group-hover:scale-[1.05]" loading="lazy" decoding="async" width="600" height="750" />
+              <div class="absolute inset-0 -z-10 bg-gradient-to-t from-black/75 via-black/10 to-transparent"></div>
+              <div class="flex h-full flex-col justify-end p-4 text-white sm:p-5">
+                <p class="eyebrow text-white/70">{d.en.country && d.en.country !== d.en.name ? L.country(d.en.country) : D.types[d.data.type as keyof typeof D.types]}</p>
+                <h3 class="mt-1 font-display text-2xl leading-[1] sm:text-3xl">{d.data.name}</h3>
+                {d.data.bestTimeToVisit?.summary && <p class="mt-2 hidden font-body text-xs text-white/75 sm:block">{D.best}: {d.data.bestTimeToVisit.summary}</p>}
+                {n > 0 && <p class="mt-1 font-body text-xs font-semibold text-gold-200">{D.unusualStays(n)}</p>}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  ))}
+</BaseLayout>

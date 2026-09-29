@@ -1,0 +1,64 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { guideImage } from '../lib/images';
+import { i18n, type Locale } from '../i18n';
+import { localized, allAlternates } from '../i18n/content';
+
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const B = t.blog;
+const dests = await getCollection('destinations');
+const img = (p: any) => guideImage({ ...p, data: p.en }, dests);
+const posts = (await localized('blog', L.locale))
+  .sort((a, b) => +new Date(b.data.publishedDate) - +new Date(a.data.publishedDate));
+const lead = posts.find(p => p.data.featured) ?? posts[0];
+const rest = posts.filter(p => p !== lead);
+const cats = [...new Set(posts.map(p => p.data.category))];
+const nice = (c: string) => B.kinds[c] ?? c.replace(/-/g, ' ');
+const fmt = (d: Date | string) => L.date(d);
+---
+<BaseLayout title={B.metaTitle} description={B.metaDescription} alternates={allAlternates('blog')}>
+  <section class="mx-auto max-w-7xl px-4 pb-6 pt-10 sm:px-6 lg:px-8">
+    <nav aria-label={t.common.breadcrumb} class="font-body text-sm text-warm-500"><a href={L.path('home')} class="hover:text-warm-950">{t.common.home}</a> <span class="mx-1 text-warm-300">/</span> <span class="text-warm-800">{t.nav.guides}</span></nav>
+    <h1 class="mt-4 font-display text-5xl leading-[.95] text-warm-950 sm:text-7xl">{t.nav.guides}</h1>
+    <p class="mt-3 max-w-2xl font-body text-lg text-warm-600">{B.lead}</p>
+  </section>
+
+  {lead && (
+    <section class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <a href={L.path('blog', lead.slug)} class="group grid overflow-hidden rounded-2xl border border-warm-200 bg-white md:grid-cols-[1.4fr_1fr]">
+        <div class="aspect-[16/10] overflow-hidden bg-warm-100 md:aspect-auto"><img src={img(lead)} alt="" class="h-full w-full object-cover transition duration-700 group-hover:scale-[1.03]" width="1200" height="800" /></div>
+        <div class="flex flex-col justify-center p-6 sm:p-10">
+          <p class="eyebrow text-gold-600">{nice(lead.data.category)} · {fmt(lead.data.publishedDate)}</p>
+          <h2 class="mt-3 font-display text-4xl leading-[1] text-warm-950 group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4 sm:text-5xl">{lead.data.title}</h2>
+          <p class="mt-4 font-body leading-relaxed text-warm-600">{lead.data.excerpt}</p>
+          <span class="mt-6 font-body text-sm font-semibold text-warm-950">{B.readGuide} →</span>
+        </div>
+      </a>
+    </section>
+  )}
+
+  <section class="mx-auto max-w-7xl px-4 pt-12 sm:px-6 lg:px-8">
+    <div class="scrollbar-hide -mx-4 mb-8 flex gap-2 overflow-x-auto border-b border-warm-200 px-4 pb-4 sm:mx-0 sm:px-0" role="group" aria-label={B.filter}>
+      <button type="button" data-filter="" class="gchip is-on flex-shrink-0 rounded-full border border-warm-300 px-4 py-2 font-body text-sm font-semibold">{t.explore.all} <span class="font-normal opacity-60">{rest.length}</span></button>
+      {cats.map(c => <button type="button" data-filter={c} class="gchip flex-shrink-0 rounded-full border border-warm-300 px-4 py-2 font-body text-sm font-semibold">{nice(c)}</button>)}
+    </div>
+    <div id="g-grid" class="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3">
+      {rest.map(p => (
+        <a href={L.path('blog', p.slug)} data-cat={p.data.category} class="group block">
+          <div class="aspect-[16/10] overflow-hidden rounded-xl bg-warm-100"><img src={img(p)} alt="" class="h-full w-full object-cover transition duration-700 group-hover:scale-[1.04]" loading="lazy" width="800" height="500" /></div>
+          <p class="mt-4 font-body text-xs font-medium uppercase tracking-wider text-warm-500">{nice(p.data.category)} · {fmt(p.data.publishedDate)}</p>
+          <h3 class="mt-2 font-display text-2xl leading-[1.08] text-warm-950 group-hover:underline group-hover:decoration-1 group-hover:underline-offset-4">{p.data.title}</h3>
+          <p class="mt-2 line-clamp-2 font-body text-[15px] text-warm-600">{p.data.excerpt}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+  <style>.gchip.is-on{background:#0F0E0C;border-color:#0F0E0C;color:#fff}</style>
+  <script is:inline>
+    (function(){var b=document.querySelectorAll('.gchip'),c=document.querySelectorAll('#g-grid > a');
+    b.forEach(function(x){x.addEventListener('click',function(){var f=x.dataset.filter;b.forEach(function(y){y.classList.toggle('is-on',y===x)});c.forEach(function(a){a.hidden=!!f&&a.dataset.cat!==f})})})})();
+  </script>
+</BaseLayout>

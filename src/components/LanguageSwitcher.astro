@@ -1,0 +1,45 @@
+---
+/** Language menu. Links to this page's translation when it exists, else that language's home page. */
+import { getLocale, i18n, LOCALES, LOCALE_META, localePath } from '../i18n';
+interface Props { alternates?: { locale: string; href: string }[]; variant?: 'menu' | 'list'; class?: string }
+const { alternates = [], variant = 'menu', class: cls = '' } = Astro.props;
+const L = i18n(getLocale(Astro.url));
+const items = (LOCALES as string[]).map((l) => ({
+  code: l,
+  name: LOCALE_META[l as keyof typeof LOCALE_META].name,
+  href: alternates.find((a) => a.locale === l)?.href ?? localePath(l, 'home'),
+  current: l === L.locale,
+}));
+const globe = 'M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Zm0 0c2.5-2.4 3.8-5.4 3.8-9S14.5 5.4 12 3m0 18c-2.5-2.4-3.8-5.4-3.8-9S9.5 5.4 12 3M3.5 9h17M3.5 15h17';
+---
+{variant === 'menu' ? (
+  <details class:list={['group relative', cls]} data-lang-menu>
+    <summary class="flex cursor-pointer list-none items-center gap-1.5 rounded-full px-3 py-2 font-body text-[13px] font-semibold uppercase text-warm-700 transition hover:bg-warm-200/60 hover:text-warm-950 [&::-webkit-details-marker]:hidden" aria-label={L.t.nav.language}>
+      <svg viewBox="0 0 24 24" class="h-[18px] w-[18px]" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d={globe} /></svg>
+      {L.locale}
+    </summary>
+    <ul class="absolute right-0 top-full z-50 mt-2 w-48 overflow-hidden rounded-xl border border-warm-200 bg-white py-1.5 shadow-card-hover">
+      {items.map((i) => (
+        <li><a href={i.href} hreflang={i.code} lang={i.code} aria-current={i.current ? 'true' : undefined}
+          class:list={['flex items-center justify-between px-4 py-2 font-body text-sm transition hover:bg-warm-100', i.current ? 'font-semibold text-warm-950' : 'text-warm-700']}>
+          {i.name}<span class="text-[11px] uppercase text-warm-400">{i.code}</span>
+        </a></li>
+      ))}
+    </ul>
+  </details>
+) : (
+  <div class={cls}>
+    <p class="eyebrow mb-3 text-warm-500">{L.t.nav.language}</p>
+    <ul class="flex flex-wrap gap-2">
+      {items.map((i) => (
+        <li><a href={i.href} hreflang={i.code} lang={i.code} aria-current={i.current ? 'true' : undefined}
+          class:list={['block rounded-full border px-3.5 py-1.5 font-body text-sm', i.current ? 'border-warm-950 bg-warm-950 text-white' : 'border-warm-300 bg-white text-warm-800']}>{i.name}</a></li>
+      ))}
+    </ul>
+  </div>
+)}
+<script is:inline>
+  document.addEventListener('click', function (e) {
+    document.querySelectorAll('[data-lang-menu][open]').forEach(function (d) { if (!d.contains(e.target)) d.removeAttribute('open'); });
+  });
+</script>

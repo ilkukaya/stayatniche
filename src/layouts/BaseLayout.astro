@@ -3,6 +3,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BottomNav from '../components/BottomNav.astro';
 import { getEntry } from 'astro:content';
+import { getLocale, i18n, LOCALE_META } from '../i18n';
 
 interface Props {
   title: string;
@@ -18,6 +19,8 @@ interface Props {
   updatedTime?: string;
   /** Extra JSON-LD blocks to inject. */
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+  /** Same page in other languages (hreflang). Include this page's own locale. */
+  alternates?: { locale: string; href: string }[];
 }
 
 const {
@@ -31,7 +34,10 @@ const {
   publishedTime,
   updatedTime,
   jsonLd,
+  alternates = [],
 } = Astro.props;
+const L = i18n(getLocale(Astro.url));
+const meta = LOCALE_META[L.locale];
 
 // Load settings from CMS
 const seoSettings        = await getEntry('settings', 'seo').catch(() => null);
@@ -43,11 +49,10 @@ const gen        = genSettings?.data        ?? {};
 const analytics  = analyticsSettings?.data  ?? {};
 
 const siteName  = gen.siteName    || 'StayAtNiche';
-const lang      = gen.language    || 'en';
+const lang      = L.locale;
 const canonical = seo.canonicalUrl || 'https://stayatniche.com';
 
-const metaDesc = description || seo.defaultDescription ||
-  "Find the world's most unusual hotels — treehouses, caves, underwater rooms, castles, ice palaces, and more. Curated stays that make the trip.";
+const metaDesc = description || (L.locale === 'en' ? seo.defaultDescription : '') || L.t.meta.defaultDescription;
 
 const ogRaw = image || seo.defaultOgImage || '/og-default.png';
 const ogImage = ogRaw.startsWith('/') ? `https://stayatniche.com${ogRaw}` : ogRaw;
@@ -111,7 +116,10 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <meta property="og:image:height" content="630" />
     <meta property="og:image:alt"    content={title} />
     <meta property="og:site_name"   content={siteName} />
-    <meta property="og:locale"      content="en_US" />
+    <meta property="og:locale"      content={meta.og} />
+    {alternates.filter(a => a.locale !== L.locale).map(a => <meta property="og:locale:alternate" content={LOCALE_META[a.locale as keyof typeof LOCALE_META].og} />)}
+    {alternates.length > 1 && alternates.map(a => <link rel="alternate" hreflang={LOCALE_META[a.locale as keyof typeof LOCALE_META].hreflang} href={new URL(a.href, canonical).href} />)}
+    {alternates.length > 1 && alternates.some(a => a.locale === 'en') && <link rel="alternate" hreflang="x-default" href={new URL(alternates.find(a => a.locale === 'en')!.href, canonical).href} />}
     {publishedTime && <meta property="article:published_time" content={publishedTime} />}
     {updatedTime   && <meta property="article:modified_time"  content={updatedTime} />}
 
@@ -144,14 +152,14 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": siteName,
-      "url": canonical,
+      "url": new URL(L.path('home'), canonical).href,
       "description": metaDesc,
-      "inLanguage": "en-US",
+      "inLanguage": meta.intl,
       "potentialAction": {
         "@type": "SearchAction",
         "target": {
           "@type": "EntryPoint",
-          "urlTemplate": `${canonical}/search/?q={search_term_string}`
+          "urlTemplate": `${new URL(L.path('search'), canonical).href}?q={search_term_string}`
         },
         "query-input": "required name=search_term_string"
       }
@@ -220,7 +228,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <link rel="manifest" href="/manifest.webmanifest" />
     <meta name="theme-color" content="#FAF9F6" />
     <link rel="sitemap" href="/sitemap.xml" />
-    <link rel="search" type="text/html" href="/search/" title={`${siteName} search`} />
+    <link rel="search" type="text/html" href={L.path('search')} title={`${siteName} search`} />
     <link rel="alternate" type="application/rss+xml" title={`${siteName} — Blog`} href="/rss.xml" />
 
     <style is:global>
@@ -269,10 +277,10 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     )}
 
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-warm-950 focus:text-white focus:px-4 focus:py-2 focus:rounded-lg">
-      Skip to content
+      {L.t.common.skip}
     </a>
 
-    <Header />
+    <Header alternates={alternates} />
     <main id="main" class="pt-16">
       <slot />
     </main>

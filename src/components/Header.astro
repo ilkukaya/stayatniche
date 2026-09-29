@@ -4,18 +4,25 @@ import BrandMark from './BrandMark.astro';
 import { getCollection } from 'astro:content';
 import { isLive } from '../lib/site';
 import { ownPhoto } from '../lib/images';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+import { getLocale, i18n } from '../i18n';
+import { localized } from '../i18n/content';
 
+interface Props { alternates?: { locale: string; href: string }[] }
+const { alternates = [] } = Astro.props;
+const L = i18n(getLocale(Astro.url));
+const { t } = L;
 const hotels = await getCollection('hotels', isLive);
 const count = (slug: string) => hotels.filter(h => h.data.category === slug).length;
-const cats = (await getCollection('categories'))
+const cats = (await localized('categories', L.locale))
   .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99))
-  .map(c => ({ slug: c.slug, label: c.data.title, n: count(c.slug), img: ownPhoto(c.data.coverImage, c.slug), tagline: c.data.tagline ?? '' }));
+  .map(c => ({ slug: c.slug, label: L.cat(c.slug, c.data.title), n: count(c.slug), img: ownPhoto(c.data.coverImage, c.slug), tagline: c.data.tagline ?? '', href: L.path('categories', c.slug) }));
 
 const navLinks = [
-  { href: '/hotels/', label: 'Explore' },
-  { href: '/countries/', label: 'Countries' },
-  { href: '/destinations/', label: 'Destinations' },
-  { href: '/blog/', label: 'Guides' },
+  { href: L.path('hotels'), label: t.nav.explore },
+  { href: L.path('countries'), label: t.nav.countries },
+  { href: L.path('destinations'), label: t.nav.destinations },
+  { href: L.path('blog'), label: t.nav.guides },
 ];
 const path = Astro.url.pathname;
 const on = (h: string) => path === h || path.startsWith(h);
@@ -23,23 +30,23 @@ const on = (h: string) => path === h || path.startsWith(h);
 
 <header id="site-header" class="fixed inset-x-0 top-0 z-50 border-b border-warm-200 bg-warm-50/90 backdrop-blur-md">
   <div class="mx-auto flex h-16 max-w-7xl items-center gap-6 px-4 sm:px-6 lg:px-8">
-    <a href="/" class="flex flex-shrink-0 items-center gap-2.5" aria-label="StayAtNiche home">
+    <a href={L.path('home')} class="flex flex-shrink-0 items-center gap-2.5" aria-label={t.nav.homeLabel}>
       <BrandMark size={30} />
       <span class="font-display text-[26px] leading-none text-warm-950">StayAt<span class="italic text-gold-600">Niche</span></span>
     </a>
 
-    <nav class="hidden items-center gap-1 md:flex" aria-label="Main">
+    <nav class="hidden items-center gap-1 md:flex" aria-label={t.nav.main}>
       <div class="relative" data-dropdown>
         <button type="button" aria-haspopup="menu" aria-expanded="false" data-dropdown-toggle
-          class:list={['flex items-center gap-1 rounded-full px-3.5 py-2 font-body text-[14px] font-medium transition-colors', on('/categories') ? 'bg-warm-200/70 text-warm-950' : 'text-warm-700 hover:text-warm-950']}>
-          Stays
+          class:list={['flex items-center gap-1 rounded-full px-3.5 py-2 font-body text-[14px] font-medium transition-colors', on(L.path('categories')) ? 'bg-warm-200/70 text-warm-950' : 'text-warm-700 hover:text-warm-950']}>
+          {t.nav.stays}
           <svg class="h-3.5 w-3.5 transition-transform duration-200" data-dropdown-chevron fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" d="M19 9l-7 7-7-7" /></svg>
         </button>
         <div role="menu" data-dropdown-panel class="pointer-events-none invisible absolute left-0 top-full w-[760px] translate-y-1 pt-3 opacity-0 transition-all duration-200">
           <div class="rounded-2xl border border-warm-200 bg-white p-3 shadow-card-hover">
             <div class="grid grid-cols-2 gap-1">
               {cats.map(c => (
-                <a href={`/categories/${c.slug}/`} role="menuitem" class="group/i flex items-center gap-3 rounded-xl p-2 transition-colors hover:bg-warm-100">
+                <a href={c.href} role="menuitem" class="group/i flex items-center gap-3 rounded-xl p-2 transition-colors hover:bg-warm-100">
                   <span class="h-12 w-16 flex-shrink-0 overflow-hidden rounded-lg bg-warm-100">
                     {c.img ? <img src={c.img} alt="" class="h-full w-full object-cover transition duration-500 group-hover/i:scale-110" loading="lazy" width="128" height="96" /> : <span class="grid h-full w-full place-items-center text-forest-700"><CategoryIcon slug={c.slug} size={18} /></span>}
                   </span>
@@ -51,7 +58,7 @@ const on = (h: string) => path === h || path.startsWith(h);
                 </a>
               ))}
             </div>
-            <a href="/categories/" class="mt-2 flex items-center justify-between rounded-xl bg-warm-950 px-4 py-3 font-body text-sm font-semibold text-white hover:bg-warm-800">Browse all kinds of stay <span aria-hidden="true">→</span></a>
+            <a href={L.path('categories')} class="mt-2 flex items-center justify-between rounded-xl bg-warm-950 px-4 py-3 font-body text-sm font-semibold text-white hover:bg-warm-800">{t.nav.browseAll} <span aria-hidden="true">→</span></a>
           </div>
         </div>
       </div>
@@ -61,16 +68,17 @@ const on = (h: string) => path === h || path.startsWith(h);
     </nav>
 
     <div class="ml-auto flex items-center gap-1">
-      <a href="/search/" class="hidden items-center gap-2 rounded-full border border-warm-300 bg-white py-2 pl-3.5 pr-4 font-body text-sm text-warm-500 transition hover:border-warm-500 lg:flex">
+      <LanguageSwitcher alternates={alternates} class="hidden md:block" />
+      <a href={L.path('search')} class="hidden items-center gap-2 rounded-full border border-warm-300 bg-white py-2 pl-3.5 pr-4 font-body text-sm text-warm-500 transition hover:border-warm-500 lg:flex">
         <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
-        Search stays &amp; places
+        {t.nav.searchPlaceholder}
       </a>
-      <a href="/search/" aria-label="Search" class="rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 lg:hidden"><svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg></a>
-      <a href="/saved/" aria-label="Saved stays" class="relative hidden rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 md:block">
+      <a href={L.path('search')} aria-label={t.nav.search} class="rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 lg:hidden"><svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg></a>
+      <a href={L.path('saved')} aria-label={t.nav.savedStays} class="relative hidden rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 md:block">
         <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z"/></svg>
         <span data-saved-count class="absolute right-0.5 top-0.5 hidden h-4 min-w-4 rounded-full bg-gold-500 px-1 text-center font-body text-[10px] font-semibold leading-4 text-white"></span>
       </a>
-      <button id="mobile-menu-toggle" aria-label="Menu" aria-controls="mobile-menu" class="rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 md:hidden">
+      <button id="mobile-menu-toggle" aria-label={t.nav.menu} aria-controls="mobile-menu" class="rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 md:hidden">
         <svg class="h-5 w-5" id="icon-open" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-width="2" d="M4 7h16M4 12h16M4 17h16" /></svg>
         <svg class="hidden h-5 w-5" id="icon-close" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
       </button>
@@ -78,16 +86,17 @@ const on = (h: string) => path === h || path.startsWith(h);
   </div>
 
   <div id="mobile-menu" class="hidden max-h-[80vh] overflow-y-auto border-t border-warm-200 bg-warm-50 md:hidden">
-    <nav class="px-4 py-4" aria-label="Mobile">
-      {[...navLinks, { href: '/about/', label: 'About' }].map(l => (
+    <nav class="px-4 py-4" aria-label={t.nav.mobile}>
+      {[...navLinks, { href: L.path('about'), label: t.nav.about }].map(l => (
         <a href={l.href} class="flex items-center justify-between border-b border-warm-200 py-3.5 font-display text-2xl text-warm-950">{l.label}<span class="font-body text-base text-warm-400" aria-hidden="true">→</span></a>
       ))}
-      <p class="eyebrow mt-6 mb-3 text-warm-500">Kinds of stay</p>
+      <p class="eyebrow mt-6 mb-3 text-warm-500">{t.nav.kindsOfStay}</p>
       <div class="grid grid-cols-2 gap-2">
         {cats.map(c => (
-          <a href={`/categories/${c.slug}/`} class="flex items-center gap-2.5 rounded-xl border border-warm-200 bg-white p-1.5 pr-3 font-body text-sm font-medium text-warm-800">{c.img ? <img src={c.img} alt="" class="h-9 w-9 rounded-lg object-cover" loading="lazy" width="72" height="72" /> : <CategoryIcon slug={c.slug} size={16} class="text-forest-700" />}{c.label}</a>
+          <a href={c.href} class="flex items-center gap-2.5 rounded-xl border border-warm-200 bg-white p-1.5 pr-3 font-body text-sm font-medium text-warm-800">{c.img ? <img src={c.img} alt="" class="h-9 w-9 rounded-lg object-cover" loading="lazy" width="72" height="72" /> : <CategoryIcon slug={c.slug} size={16} class="text-forest-700" />}{c.label}</a>
         ))}
       </div>
+      <LanguageSwitcher alternates={alternates} variant="list" class="mt-6" />
     </nav>
   </div>
 </header>

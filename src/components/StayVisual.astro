@@ -6,8 +6,10 @@
  */
 import CategoryIcon from './CategoryIcon.astro';
 import { ownPhoto, CATEGORY_TONE } from '../lib/images';
+import { getLocale, i18n } from '../i18n';
 interface Props { slug: string; name: string; category: string; destination: string; country: string; coverImage?: string; eager?: boolean; size?: 'card' | 'hero'; }
 const { slug, name, category, destination, country, coverImage, eager = false, size = 'card' } = Astro.props;
+const L = i18n(getLocale(Astro.url));
 const photo = ownPhoto(coverImage, slug);
 const [bg, ink] = CATEGORY_TONE[category] ?? ['#E5E2DA', '#2D2A26'];
 const place = destination.split(',')[0].trim();
@@ -19,7 +21,7 @@ const hero = size === 'hero';
   <div class="label-card relative flex h-full w-full flex-col justify-between overflow-hidden" style={`background:${bg};color:${ink}`} role="img" aria-label={`${name}, ${destination}`}>
     <CategoryIcon slug={category} size={hero ? 420 : 220} strokeWidth={0.6} class="pointer-events-none absolute -bottom-[18%] -right-[12%] opacity-[.13] transition-transform duration-700 group-hover:rotate-[-6deg]" />
     <div class:list={['flex items-center justify-between', hero ? 'p-8' : 'p-4']}>
-      <span class="eyebrow opacity-70">{category.replace(/-/g, ' ')}</span>
+      <span class="eyebrow opacity-70">{L.cat(category, category.replace(/-/g, ' '))}</span>
       <CategoryIcon slug={category} size={hero ? 28 : 18} strokeWidth={1.6} />
     </div>
     <div class={hero ? 'p-8' : 'p-4 pt-0'}>

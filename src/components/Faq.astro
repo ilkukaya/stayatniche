@@ -7,10 +7,13 @@ interface Props {
   items: { q: string; a: string }[];
   heading?: string;
 }
-const { items, heading = 'Frequently asked questions' } = Astro.props;
+import { getLocale, i18n } from '../i18n';
+const L = i18n(getLocale(Astro.url));
+const { items, heading = L.t.common.faqHeading } = Astro.props;
 const ld = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
+  inLanguage: L.locale,
   mainEntity: items.map(i => ({
     '@type': 'Question',
     name: i.q,

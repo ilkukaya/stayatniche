@@ -1,42 +1,9 @@
 ---
-import HotelRoundup from '../../components/HotelRoundup.astro';
-import { getCollection } from 'astro:content';
-import { slugify, isLive, startPrice } from '../../lib/site';
+import CountryView from '../../views/CountryView.astro';
+import { countryGroups } from '../../i18n/roundups';
 
 export async function getStaticPaths() {
-  const hotels = await getCollection('hotels', isLive);
-  const byCountry = new Map<string, any[]>();
-  for (const h of hotels) byCountry.set(h.data.country, [...(byCountry.get(h.data.country) ?? []), h]);
-  const cats = await getCollection('categories');
-  const dests = await getCollection('destinations');
-  return [...byCountry.entries()].filter(([, hs]) => hs.length >= 2).map(([country, hs]) => {
-    const catSlugs = [...new Set(hs.map(h => h.data.category))];
-    const related = [
-      ...catSlugs.map(c => ({ label: `${cats.find(x => x.slug === c)?.data.title ?? c} worldwide`, url: `/categories/${c}/` })),
-      ...dests.filter(d => d.data.country === country || d.data.name === country).map(d => ({ label: `${d.data.name} travel guide`, url: `/destinations/${d.slug}/` })),
-    ];
-    return { params: { slug: slugify(country) }, props: { country, hs, related } };
-  });
+  return (await countryGroups('en')).map(g => ({ params: { slug: g.slug }, props: g }));
 }
-const { country, hs, related } = Astro.props;
-const cheapest = [...hs].sort((a, b) => startPrice(a.data.priceRange) - startPrice(b.data.priceRange))[0];
-const top = [...hs].sort((a, b) => b.data.rating - a.data.rating)[0];
-const types = [...new Set(hs.map((h: any) => h.data.category.replace(/-/g, ' ')))];
-const faq = [
-  { q: `What are the most unusual hotels in ${country}?`, a: `Our top pick is ${top.data.name} in ${top.data.destination}. We list ${hs.length} standout stays in ${country}, including ${types.slice(0, 3).join(', ')}.` },
-  { q: `What is the cheapest unusual hotel in ${country}?`, a: `${cheapest.data.name} (${cheapest.data.destination}) has the lowest typical rate on our list, around ${cheapest.data.priceRange} per night. Rates vary by season, so check live prices.` },
-  { q: `When is the best time to visit ${country} for these stays?`, a: [...new Set(hs.map((h: any) => h.data.seasonalInfo?.bestTime).filter(Boolean))].slice(0, 3).join('; ') || 'It depends on the property; see each hotel page for seasonal notes.' },
-];
 ---
-<HotelRoundup
-  title={`Unusual hotels in ${country}: ${hs.length} stays worth the trip`}
-  metaTitle={`${hs.length} Unusual Hotels in ${country} (Prices & Comparison)`}
-  metaDescription={`Compare ${hs.length} extraordinary hotels in ${country}: ${types.slice(0, 3).join(', ')} and more. Typical prices, who each suits best, and where to check rates.`}
-  intro={`${hs.length} hand-picked stays in ${country}, from ${types.slice(0, 3).join(', ')} and beyond. Prices start around ${cheapest.data.priceRange.split(/\s[-–]\s/)[0]} a night at ${cheapest.data.name}; our highest-scored pick is ${top.data.name}.`}
-  path={`/countries/${Astro.params.slug}/`}
-  hotels={hs}
-  crumbs={[{ name: 'Countries', url: '/countries/' }, { name: country, url: `/countries/${Astro.params.slug}/` }]}
-  faq={faq}
-  searchPlace={country}
-  related={related}
-/>
+<CountryView locale="en" {...Astro.props} />

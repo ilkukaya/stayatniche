@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { i18n, type Locale } from '../i18n';
+import { allAlternates } from '../i18n/content';
+interface Props { locale: Locale }
+const L = i18n(Astro.props.locale);
+const { t } = L;
+const N = t.newsletter;
+const field = 'w-full rounded-xl border border-warm-200 bg-white px-4 py-3 font-body text-sm text-warm-900 placeholder-warm-400 outline-none transition focus:border-forest-400 focus:ring-2 focus:ring-forest-100';
+---
+<BaseLayout title={N.metaTitle} description={N.metaDescription} alternates={allAlternates('newsletter')}>
+  <section class="mx-auto max-w-3xl px-4 pb-10 pt-10 text-center sm:px-6">
+    <p class="eyebrow text-gold-600">{t.footer.letterTitle}</p>
+    <h1 class="mt-4 font-display text-5xl leading-[.95] text-warm-950 sm:text-7xl">{N.h1}</h1>
+    <p class="mx-auto mt-5 max-w-xl font-body text-lg text-warm-600">{N.lead}</p>
+    <form netlify name="newsletter" method="POST" action={L.path('newsletter-success')} data-netlify-honeypot="bot-field" class="mx-auto mt-8 max-w-md space-y-3 text-left">
+      <input type="hidden" name="form-name" value="newsletter" />
+      <input type="hidden" name="language" value={L.locale} />
+      <p class="hidden"><label>Leave empty: <input name="bot-field" /></label></p>
+      <label for="nl-name" class="sr-only">{t.contact.firstName}</label>
+      <input id="nl-name" type="text" name="name" autocomplete="given-name" placeholder={t.contact.firstName} class={field} />
+      <label for="nl-email" class="sr-only">{t.footer.email}</label>
+      <input id="nl-email" type="email" name="email" required autocomplete="email" placeholder={t.footer.emailPlaceholder} class={field} />
+      <button type="submit" class="w-full rounded-full bg-forest-700 px-8 py-4 font-body text-base font-semibold text-white transition hover:bg-forest-800">{N.button}</button>
+      <p class="text-center font-body text-xs text-warm-500">{N.note}</p>
+    </form>
+  </section>
+  <section class="mx-auto max-w-5xl px-4 pb-10 sm:px-6 lg:px-8">
+    <h2 class="border-b border-warm-200 pb-4 font-display text-4xl text-warm-950">{N.whatTitle}</h2>
+    <div class="grid gap-8 pt-8 sm:grid-cols-3">
+      {N.what.map((x) => (
+        <div><h3 class="font-display text-2xl text-warm-950">{x.title}</h3><p class="mt-2 font-body text-[15px] leading-relaxed text-warm-600">{x.text}</p></div>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
