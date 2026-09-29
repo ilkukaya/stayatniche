@@ -45,8 +45,7 @@ const canonical = seo.canonicalUrl || 'https://stayatniche.com';
 const metaDesc = description || seo.defaultDescription ||
   "Find the world's most unusual hotels — treehouses, caves, underwater rooms, castles, ice palaces, and more. Curated stays that make the trip.";
 
-const ogImage = image || seo.defaultOgImage ||
-  'https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1200&h=630&q=80&auto=format&fit=crop';
+const ogImage = image || seo.defaultOgImage || 'https://stayatniche.com/og-default.png';
 
 const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site || canonical);
@@ -57,6 +56,9 @@ const bingVerif     = seo.bingVerification   || '';
 const pinterestVerif = seo.pinterestVerification || '';
 
 const ga4Id          = analytics.ga4Id          || '';
+const socialSettings = await getEntry('settings', 'social').catch(() => null);
+const sameAs = Object.values(socialSettings?.data ?? {}).filter((v): v is string => typeof v === 'string' && v.startsWith('http'));
+const adsenseClient  = (analytics.adsenseClient as string) || '';
 const gtmId          = analytics.gtmId          || '';
 const clarityId      = analytics.clarityId      || '';
 const plausibleDomain = analytics.plausibleDomain || '';
@@ -118,12 +120,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
         "width": 200,
         "height": 60
       },
-      "sameAs": [
-        "https://instagram.com/stayatniche",
-        "https://pinterest.com/stayatniche",
-        "https://twitter.com/stayatniche",
-        "https://facebook.com/stayatniche"
-      ]
+      "sameAs": sameAs
     })} />
 
     <!-- Structured Data: WebSite with SearchAction -->
@@ -138,7 +135,7 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
         "@type": "SearchAction",
         "target": {
           "@type": "EntryPoint",
-          "urlTemplate": `${canonical}/categories/?q={search_term_string}`
+          "urlTemplate": `${canonical}/search/?q={search_term_string}`
         },
         "query-input": "required name=search_term_string"
       }
@@ -176,6 +173,10 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       <script defer data-domain={plausibleDomain} src="https://plausible.io/js/script.js"></script>
     )}
 
+    {adsenseClient && (
+      <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`} crossorigin="anonymous"></script>
+    )}
+
     {heroImage && (
       <link rel="preload" as="image" href={heroImage} fetchpriority="high" />
     )}
@@ -198,10 +199,11 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     </noscript>
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
-    <meta name="theme-color" content="#C9852A" />
+    <meta name="theme-color" content="#1F7D4A" />
     <link rel="sitemap" href="/sitemap.xml" />
+    <link rel="search" type="text/html" href="/search/" title={`${siteName} search`} />
     <link rel="alternate" type="application/rss+xml" title={`${siteName} — Blog`} href="/rss.xml" />
 
     <style>
@@ -246,5 +248,15 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
       <slot />
     </main>
     <Footer />
+    <script is:inline>
+      // Never show a broken-image icon: swap any failed <img> for a themed placeholder.
+      document.addEventListener('error', function (e) {
+        var t = e.target;
+        if (t && t.tagName === 'IMG' && !t.dataset.fb) {
+          t.dataset.fb = '1'; t.removeAttribute('srcset'); t.src = '/images/placeholder.svg';
+        }
+      }, true);
+      document.querySelectorAll('img').forEach(function (i) { if (i.complete && i.naturalWidth === 0 && !i.dataset.fb) { i.dataset.fb = '1'; i.removeAttribute('srcset'); i.src = '/images/placeholder.svg'; } });
+    </script>
   </body>
 </html>

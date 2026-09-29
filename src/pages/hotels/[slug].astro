@@ -5,6 +5,8 @@ import CategoryIcon from '../../components/CategoryIcon.astro';
 import AffiliateBookingBox from '../../components/AffiliateBookingBox.astro';
 import TransportationBox from '../../components/TransportationBox.astro';
 import TravelServicesBox from '../../components/TravelServicesBox.astro';
+import Faq from '../../components/Faq.astro';
+import AdSlot from '../../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
 import { resolveImage, sizedImage } from '../../lib/images';
 import { withTracking, AFFILIATE_REL, expediaSearchUrl, mapsUrl } from '../../lib/affiliate';
@@ -74,17 +76,46 @@ const hotelJsonLd = {
     }
   } : {}),
   "image": hotelImageOg,
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": hotel.data.rating,
-    "bestRating": 10,
-    "ratingCount": hotel.data.reviewCount,
-  },
+  // NOTE: no aggregateRating on purpose. We don't collect guest reviews, and
+  // marking up an editorial score as one violates Google's review guidelines.
   "priceRange": hotel.data.priceRange,
+  ...(hotel.data.amenities.length ? {
+    "amenityFeature": hotel.data.amenities.map((n: string) => ({ "@type": "LocationFeatureSpecification", "name": n, "value": true })),
+  } : {}),
+  ...(hotel.data.checkInOut ? { "checkinTime": hotel.data.checkInOut.checkIn, "checkoutTime": hotel.data.checkInOut.checkOut } : {}),
+  "isPartOf": { "@type": "WebSite", "name": "StayAtNiche", "url": "https://stayatniche.com/" },
 };
+
+const fromPrice = hotel.data.priceRange.split(/\s[-–]\s/)[0];
+const faqItems: { q: string; a: string }[] = [
+  {
+    q: `Where is ${hotel.data.name}?`,
+    a: `${hotel.data.name} is in ${hotel.data.destination}, ${hotel.data.country}${hotel.data.address ? ` (${hotel.data.address})` : ''}. It is featured in our ${category?.data.title ?? 'unique stays'} collection.`,
+  },
+  {
+    q: `How much does ${hotel.data.name} cost per night?`,
+    a: `Rates typically run ${hotel.data.priceRange} per night (${priceLabels[hotel.data.priceIndicator]?.toLowerCase()} tier). Prices change with season and availability, so check live rates before you plan.`,
+  },
+  ...(hotel.data.seasonalInfo ? [{
+    q: `When is the best time to visit ${hotel.data.name}?`,
+    a: `${hotel.data.seasonalInfo.bestTime}.${hotel.data.seasonalInfo.notes ? ' ' + hotel.data.seasonalInfo.notes : ''}`,
+  }] : []),
+  ...(hotel.data.bestFor.length ? [{
+    q: `Who is ${hotel.data.name} best for?`,
+    a: `${hotel.data.name} suits ${hotel.data.bestFor.join(', ').toLowerCase()}.`,
+  }] : []),
+  ...(hotel.data.checkInOut ? [{
+    q: `What are the check-in and check-out times at ${hotel.data.name}?`,
+    a: `Check-in is from ${hotel.data.checkInOut.checkIn} and check-out is by ${hotel.data.checkInOut.checkOut}. Confirm with the property when you book.`,
+  }] : []),
+  ...(hotel.data.nearbyAttractions.length ? [{
+    q: `What is there to do near ${hotel.data.name}?`,
+    a: `Nearby: ${hotel.data.nearbyAttractions.map((n: any) => `${n.name} (${n.distance})`).join('; ')}.`,
+  }] : []),
+];
 ---
 
-<BaseLayout title={metaTitle} description={metaDesc} image={hotelImageOg} heroImage={hotelImageLg} type="article">
+<BaseLayout title={metaTitle} description={metaDesc} image={hotelImageOg} heroImage={hotelImageLg} type="article" updatedTime={hotel.data.updatedDate?.toISOString()}>
 
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
   <script type="application/ld+json" set:html={JSON.stringify(hotelJsonLd)} />
@@ -168,7 +199,7 @@ const hotelJsonLd = {
                 <span class="font-display font-bold text-warm-900 text-sm">{hotel.data.rating}</span>
                 <span class="font-body text-warm-500 text-xs">/ 10</span>
               </div>
-              <span class="font-body text-warm-500 text-xs">({hotel.data.reviewCount.toLocaleString()} reviews)</span>
+              <span class="font-body text-warm-500 text-xs">Editor score</span>
             </div>
           </div>
 
@@ -192,10 +223,10 @@ const hotelJsonLd = {
               </span>
             </div>
 
-            <!-- Why guests love it -->
+            <!-- Highlights -->
             {hotel.data.highlights.length > 0 && (
               <div class="pt-4 border-t border-warm-100">
-                <p class="font-body text-warm-400 text-xs uppercase tracking-wider font-semibold mb-3">Why guests love it</p>
+                <p class="font-body text-warm-400 text-xs uppercase tracking-wider font-semibold mb-3">Highlights</p>
                 {hotel.data.highlights.slice(0, 3).map((h: string) => (
                   <div class="flex items-start gap-2 mb-2">
                     <svg class="w-4 h-4 text-forest-500 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
@@ -263,6 +294,8 @@ const hotelJsonLd = {
           prose-strong:text-warm-900 prose-a:text-forest-600 hover:prose-a:underline">
           <Content />
         </div>
+        <AdSlot slot="hotel-inline" />
+        <Faq items={faqItems} heading={`${hotel.data.name}: quick answers`} />
       </div>
 
       <!-- Sidebar -->

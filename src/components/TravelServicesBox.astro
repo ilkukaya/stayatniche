@@ -14,12 +14,10 @@ interface Props {
 
 const { destination, country } = Astro.props;
 
-const marker = '478307';
+import { tpLink as _tp, TP_MARKER as marker } from '../lib/affiliate';
 const destEnc = encodeURIComponent(destination);
 
-function tpLink(programId: string, targetUrl: string): string {
-  return `https://tp.media/r?marker=${marker}&p=${programId}&u=${encodeURIComponent(targetUrl)}`;
-}
+const tpLink = (programId: string, targetUrl: string) => _tp(programId, targetUrl, 'box-' + destination.toLowerCase().replace(/[^a-z0-9]+/g, '-'));
 
 // eSIM — prioritise by region (Southeast/South Asia, Africa: eSIM extra important)
 const esimPriorityCountries = [

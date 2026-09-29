@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
+Disallow: /search/
+Disallow: /newsletter-success/
 
 # AI crawlers — allow indexing for AI/GEO (Perplexity, ChatGPT, etc.)
 User-agent: GPTBot
@@ -33,4 +35,14 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
 Sitemap: https://stayatniche.com/sitemap.xml
+Sitemap: https://stayatniche.com/rss.xml
