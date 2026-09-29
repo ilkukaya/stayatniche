@@ -8,6 +8,7 @@ import Faq from '../../components/Faq.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
 import { ownPhoto } from '../../lib/images';
+import photoCredits from '../../data/photo-credits.json';
 import { startPrice } from '../../lib/site';
 import { withTracking, AFFILIATE_REL, expediaSearchUrl, mapsUrl } from '../../lib/affiliate';
 
@@ -38,6 +39,7 @@ const metaDesc  = seo.metaDescription || hotel.data.description;
 
 // Only this hotel's own photos are ever shown (never a generic category picture).
 const photo = ownPhoto(hotel.data.coverImage, hotel.slug);
+const credit = (photoCredits as Record<string, any>)[hotel.slug];
 const gallery = hotel.data.gallery.map((g: string) => ownPhoto(g)).filter(Boolean) as string[];
 const hotelImageOg = photo ? `https://stayatniche.com${photo}` : 'https://stayatniche.com/og-default.png';
 
@@ -172,6 +174,9 @@ const faqItems: { q: string; a: string }[] = [
       )}
     </div>
     {!photo && <p class="mt-2 font-body text-xs text-warm-400">Photos of this property are on its booking pages.</p>}
+    {photo && credit && (
+      <p class="mt-2 font-body text-xs text-warm-400">Photo: <a href={credit.source} target="_blank" rel="noopener noreferrer" class="underline">{credit.author}</a>, {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{credit.license}</a> : credit.license}, via Wikimedia Commons</p>
+    )}
 
     <div class="mt-10 grid gap-12 lg:grid-cols-[1fr_380px] lg:gap-16">
       <!-- Main column -->

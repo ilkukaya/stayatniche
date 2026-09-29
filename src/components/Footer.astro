@@ -44,7 +44,7 @@ const social = Object.entries(soc as Record<string, string>)
     </div>
 
     <div class="flex flex-col gap-4 border-t border-white/10 pt-8 font-body text-xs text-warm-500 md:flex-row md:items-center md:justify-between">
-      <p>© {year} StayAtNiche. Some links are affiliate links: we may earn a commission at no extra cost to you. <a href="/disclosure/" class="underline hover:text-white">Disclosure</a> · <a href="/privacy/" class="underline hover:text-white">Privacy</a></p>
+      <p>© {year} StayAtNiche. Some links are affiliate links: we may earn a commission at no extra cost to you. <a href="/disclosure/" class="underline hover:text-white">Disclosure</a> · <a href="/privacy/" class="underline hover:text-white">Privacy</a> · <a href="/photo-credits/" class="underline hover:text-white">Photo credits</a></p>
       {social.length > 0 && (
         <ul class="flex gap-4">{social.map(s => <li><a href={s.url} target="_blank" rel="noopener noreferrer" class="hover:text-white">{s.label}</a></li>)}</ul>
       )}
