@@ -77,3 +77,32 @@ export function resolveImage(url: string | undefined, ctx: ImageContext = {}): s
 export function sizedImage(url: string, _width: number): string {
   return url;
 }
+
+/**
+ * A photo that genuinely belongs to this item (never a shared category image).
+ * Returns null when none exists, so the UI can show a typographic card instead
+ * of repeating one stock image across many different hotels.
+ */
+export function ownPhoto(url: string | undefined, slug?: string): string | null {
+  if (slug && INDEX.has(slug)) return INDEX.get(slug)!;
+  if (url && !/^https?:/i.test(url) && existsSync(join(PUBLIC, url))) return url;
+  return null;
+}
+
+/** Muted tone per category for photo-less cards: [background, ink]. */
+export const CATEGORY_TONE: Record<string, [string, string]> = {
+  'treehouse-hotels': ['#DCE5D6', '#23402C'],
+  'cave-hotels': ['#EADCCB', '#5A3A22'],
+  'underwater-rooms': ['#D3E3E8', '#123C4A'],
+  'castle-hotels': ['#E2DDE6', '#3A2E48'],
+  'floating-hotels': ['#D6E4E3', '#1D4642'],
+  'bubble-hotels': ['#DAD9E8', '#262552'],
+  'cliffside-hotels': ['#E8DDD3', '#5B3A28'],
+  'desert-camps': ['#EFDCC5', '#6B3F1A'],
+  'jungle-lodges': ['#D5E3D1', '#1F4424'],
+  'ice-hotels': ['#DDE8EF', '#1C3B55'],
+  'safari-lodges': ['#EADFC9', '#5A4219'],
+  'overwater-bungalows': ['#D2E6E4', '#11484A'],
+  'lighthouse-hotels': ['#E5E1DA', '#3B3530'],
+  'train-hotels': ['#E6DDD8', '#4A2B2B'],
+};

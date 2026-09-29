@@ -1,212 +1,86 @@
 ---
 import CategoryIcon from './CategoryIcon.astro';
+import { getCollection } from 'astro:content';
+import { isLive } from '../lib/site';
+
+const hotels = await getCollection('hotels', isLive);
+const count = (slug: string) => hotels.filter(h => h.data.category === slug).length;
+const cats = (await getCollection('categories'))
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99))
+  .map(c => ({ slug: c.slug, label: c.data.title, n: count(c.slug) }));
 
 const navLinks = [
-  { href: '/countries',    label: 'Countries' },
-  { href: '/destinations', label: 'Destinations' },
-  { href: '/experiences',  label: 'Experiences' },
-  { href: '/blog',         label: 'Blog' },
+  { href: '/hotels/', label: 'Explore' },
+  { href: '/countries/', label: 'Countries' },
+  { href: '/destinations/', label: 'Destinations' },
+  { href: '/blog/', label: 'Guides' },
 ];
-
-const categories = [
-  { slug: 'treehouse-hotels',    label: 'Treehouse hotels',    desc: 'Sleep up in the canopy' },
-  { slug: 'cave-hotels',         label: 'Cave hotels',         desc: 'Rooms carved from rock' },
-  { slug: 'underwater-rooms',    label: 'Underwater rooms',    desc: 'Wake up under the sea' },
-  { slug: 'castle-hotels',       label: 'Castle hotels',       desc: 'Stay the weekend, knight' },
-  { slug: 'floating-hotels',     label: 'Floating hotels',     desc: 'Rooms right on the water' },
-  { slug: 'bubble-hotels',       label: 'Bubble hotels',       desc: 'Transparent stargazing domes' },
-  { slug: 'cliffside-hotels',    label: 'Cliffside hotels',    desc: 'Built into the edge' },
-  { slug: 'desert-camps',        label: 'Desert camps',        desc: 'Dunes and quiet skies' },
-  { slug: 'jungle-lodges',       label: 'Jungle lodges',       desc: 'Deep in the rainforest' },
-  { slug: 'ice-hotels',          label: 'Ice hotels',          desc: 'Sculpted fresh every winter' },
-  { slug: 'safari-lodges',       label: 'Safari lodges',       desc: 'Wake to lions at dawn' },
-  { slug: 'overwater-bungalows', label: 'Overwater bungalows', desc: 'Lagoon life, elevated' },
-  { slug: 'lighthouse-hotels',   label: 'Lighthouse hotels',   desc: 'Beacon views, sea air' },
-  { slug: 'train-hotels',        label: 'Train hotels',        desc: 'Legendary rail journeys' },
-];
-
-const currentPath = Astro.url.pathname;
+const path = Astro.url.pathname;
+const on = (h: string) => path === h || path.startsWith(h);
 ---
 
-<header
-  class="fixed top-0 left-0 right-0 z-50 bg-white/98 backdrop-blur-md border-b border-warm-200/80 shadow-sm"
-  id="site-header"
->
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="flex items-center justify-between h-16">
+<header id="site-header" class="fixed inset-x-0 top-0 z-50 border-b border-warm-200 bg-warm-50/90 backdrop-blur-md">
+  <div class="mx-auto flex h-16 max-w-7xl items-center gap-6 px-4 sm:px-6 lg:px-8">
+    <a href="/" class="flex-shrink-0 font-display text-[26px] leading-none text-warm-950" aria-label="StayAtNiche home">
+      StayAt<span class="italic text-gold-600">Niche</span>
+    </a>
 
-      <!-- Logo -->
-      <a href="/" class="flex items-center gap-2 group flex-shrink-0" aria-label="StayAtNiche — home">
-        <svg class="w-5 h-5 text-gold-500" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-          <path d="M12 2l2.9 6.6 7.1.7-5.4 4.8 1.7 6.9L12 17.4 5.7 21l1.7-6.9L2 9.3l7.1-.7L12 2z"/>
-        </svg>
-        <span class="font-display text-xl font-bold text-warm-950 group-hover:text-warm-700 transition-colors">
-          StayAtNiche
-        </span>
-      </a>
-
-      <!-- Desktop nav -->
-      <nav class="hidden md:flex items-center gap-1">
-
-        <!-- Categories mega dropdown -->
-        <div class="relative" data-dropdown>
-          <button
-            type="button"
-            aria-haspopup="menu"
-            aria-expanded="false"
-            data-dropdown-toggle
-            class:list={[
-              'flex items-center gap-1 font-body text-sm font-medium px-3 py-2 rounded-lg transition-colors',
-              currentPath.startsWith('/categories')
-                ? 'text-warm-950 bg-warm-100'
-                : 'text-warm-600 hover:text-warm-950 hover:bg-warm-50',
-            ]}
-          >
-            Categories
-            <svg class="w-3.5 h-3.5 transition-transform duration-200" data-dropdown-chevron fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M19 9l-7 7-7-7" />
-            </svg>
-          </button>
-
-          <!-- Mega dropdown panel. A transparent pt-2 keeps the hover bridge
-               continuous from the trigger button so users can cross the gap
-               without the menu vanishing. JS also handles click-to-pin and
-               outside-click / Escape to close. -->
-          <div
-            role="menu"
-            data-dropdown-panel
-            class="absolute top-full left-1/2 -translate-x-1/2 w-[680px] pt-2 opacity-0 invisible translate-y-1 transition-all duration-200 pointer-events-none"
-          >
-            <div class="bg-white rounded-2xl shadow-[0_8px_40px_rgba(0,0,0,0.12)] border border-warm-100">
-              <div class="p-5">
-                <div class="flex items-center justify-between mb-4">
-                  <p class="font-body text-xs font-semibold uppercase tracking-widest text-warm-400">Browse all types</p>
-                  <a href="/categories" class="font-body text-xs font-semibold text-forest-600 hover:text-forest-700 transition-colors">
-                    View all
-                  </a>
-                </div>
-                <div class="grid grid-cols-3 gap-1">
-                  {categories.map(cat => (
-                    <a
-                      href={`/categories/${cat.slug}`}
-                      role="menuitem"
-                      class="group/item flex items-start gap-2.5 p-2.5 rounded-xl hover:bg-warm-50 transition-colors"
-                    >
-                      <span class="flex items-center justify-center w-7 h-7 rounded-lg bg-warm-100 group-hover/item:bg-forest-100 text-forest-600 flex-shrink-0 transition-colors">
-                        <CategoryIcon slug={cat.slug} size={14} />
-                      </span>
-                      <div>
-                        <div class="font-body text-sm font-semibold text-warm-900 group-hover/item:text-forest-700 transition-colors leading-snug">
-                          {cat.label}
-                        </div>
-                        <div class="font-body text-xs text-warm-400 leading-snug mt-0.5">
-                          {cat.desc}
-                        </div>
-                      </div>
-                    </a>
-                  ))}
-                </div>
-              </div>
-              <!-- Bottom CTA bar -->
-              <div class="border-t border-warm-100 px-5 py-3 bg-warm-50/60 rounded-b-2xl flex items-center justify-between">
-                <p class="font-body text-xs text-warm-500">Not sure where to start?</p>
-                <a
-                  href="/categories"
-                  class="inline-flex items-center gap-1.5 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-xs px-4 py-2 rounded-full transition-colors"
-                >
-                  See every category
+    <nav class="hidden items-center gap-1 md:flex" aria-label="Main">
+      <div class="relative" data-dropdown>
+        <button type="button" aria-haspopup="menu" aria-expanded="false" data-dropdown-toggle
+          class:list={['flex items-center gap-1 rounded-full px-3.5 py-2 font-body text-[14px] font-medium transition-colors', on('/categories') ? 'bg-warm-200/70 text-warm-950' : 'text-warm-700 hover:text-warm-950']}>
+          Stays
+          <svg class="h-3.5 w-3.5 transition-transform duration-200" data-dropdown-chevron fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" d="M19 9l-7 7-7-7" /></svg>
+        </button>
+        <div role="menu" data-dropdown-panel class="pointer-events-none invisible absolute left-0 top-full w-[640px] translate-y-1 pt-3 opacity-0 transition-all duration-200">
+          <div class="rounded-2xl border border-warm-200 bg-white p-3 shadow-card-hover">
+            <div class="grid grid-cols-2 gap-0.5">
+              {cats.map(c => (
+                <a href={`/categories/${c.slug}/`} role="menuitem" class="group/i flex items-center gap-3 rounded-xl px-3 py-2.5 transition-colors hover:bg-warm-100">
+                  <span class="grid h-8 w-8 flex-shrink-0 place-items-center rounded-lg border border-warm-200 text-warm-700 group-hover/i:border-forest-600 group-hover/i:text-forest-700"><CategoryIcon slug={c.slug} size={16} /></span>
+                  <span class="flex-1 font-body text-sm font-medium text-warm-900">{c.label}</span>
+                  <span class="font-body text-xs tabular-nums text-warm-400">{c.n}</span>
                 </a>
-              </div>
+              ))}
             </div>
+            <a href="/categories/" class="mt-2 flex items-center justify-between rounded-xl bg-warm-100 px-4 py-3 font-body text-sm font-medium text-warm-900 hover:bg-warm-200">All kinds of stay <span aria-hidden="true">→</span></a>
           </div>
         </div>
+      </div>
+      {navLinks.map(l => (
+        <a href={l.href} class:list={['rounded-full px-3.5 py-2 font-body text-[14px] font-medium transition-colors', on(l.href) ? 'bg-warm-200/70 text-warm-950' : 'text-warm-700 hover:text-warm-950']}>{l.label}</a>
+      ))}
+    </nav>
 
-        <!-- Other nav links -->
-        {navLinks.map(link => (
-          <a
-            href={link.href}
-            class:list={[
-              'font-body text-sm font-medium px-3 py-2 rounded-lg transition-colors',
-              currentPath === link.href || currentPath.startsWith(link.href + '/')
-                ? 'text-warm-950 bg-warm-100'
-                : 'text-warm-600 hover:text-warm-950 hover:bg-warm-50',
-            ]}
-          >
-            {link.label}
-          </a>
-        ))}
-      </nav>
-
-      <a href="/search/" aria-label="Search" class="ml-auto mr-2 rounded-lg p-2 text-warm-600 transition-colors hover:bg-warm-100 hover:text-warm-950 md:ml-0 md:mr-0"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg></a>
-
-<a href="/saved/" aria-label="Saved stays" class="relative mr-1 hidden rounded-lg p-2 text-warm-600 transition-colors hover:bg-warm-100 hover:text-warm-950 md:block"><svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z"/></svg><span data-saved-count class="absolute -right-0.5 -top-0.5 hidden h-4 min-w-4 rounded-full bg-gold-500 px-1 text-center text-[10px] leading-4 text-white"></span></a>
-
-      <!-- Desktop CTA -->
-      <a
-        href="/categories"
-        class="hidden md:inline-flex items-center gap-1.5 bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-5 py-2.5 rounded-full transition-all hover:shadow-md active:scale-95"
-      >
-        Find Your Stay
-        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 5l7 7-7 7" />
-        </svg>
+    <div class="ml-auto flex items-center gap-1">
+      <a href="/search/" class="hidden items-center gap-2 rounded-full border border-warm-300 bg-white py-2 pl-3.5 pr-4 font-body text-sm text-warm-500 transition hover:border-warm-500 lg:flex">
+        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
+        Search stays &amp; places
       </a>
-
-      <!-- Mobile hamburger -->
-      <button
-        class="md:hidden text-warm-700 p-1.5 rounded-lg hover:bg-warm-100 transition-colors"
-        id="mobile-menu-toggle"
-        aria-label="Toggle menu"
-      >
-        <svg class="w-5 h-5" id="icon-open" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-        </svg>
-        <svg class="w-5 h-5 hidden" id="icon-close" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-        </svg>
+      <a href="/search/" aria-label="Search" class="rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 lg:hidden"><svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 10.5a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg></a>
+      <a href="/saved/" aria-label="Saved stays" class="relative hidden rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 md:block">
+        <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 21s-7.5-4.6-9.5-9.2C1.2 8.6 3 5.5 6.2 5.5c1.9 0 3.2 1 3.8 2 .6-1 1.9-2 3.8-2 3.2 0 5 3.1 3.7 6.3C19.5 16.4 12 21 12 21Z"/></svg>
+        <span data-saved-count class="absolute right-0.5 top-0.5 hidden h-4 min-w-4 rounded-full bg-gold-500 px-1 text-center font-body text-[10px] font-semibold leading-4 text-white"></span>
+      </a>
+      <button id="mobile-menu-toggle" aria-label="Menu" aria-controls="mobile-menu" class="rounded-full p-2.5 text-warm-800 hover:bg-warm-200/60 md:hidden">
+        <svg class="h-5 w-5" id="icon-open" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-width="2" d="M4 7h16M4 12h16M4 17h16" /></svg>
+        <svg class="hidden h-5 w-5" id="icon-close" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
       </button>
     </div>
   </div>
 
-  <!-- Mobile menu -->
-  <div class="md:hidden hidden bg-white border-t border-warm-100 max-h-[80vh] overflow-y-auto" id="mobile-menu">
-    <div class="px-4 py-3 space-y-0.5">
-      <a href="/categories" class="flex items-center justify-between font-body text-warm-700 hover:text-warm-950 hover:bg-warm-50 py-2.5 px-3 rounded-xl transition-colors text-sm font-semibold">
-        All Categories
-        <svg class="w-4 h-4 text-warm-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-        </svg>
-      </a>
-      {navLinks.map(link => (
-        <a
-          href={link.href}
-          class="flex items-center font-body text-warm-600 hover:text-warm-950 hover:bg-warm-50 py-2.5 px-3 rounded-xl transition-colors text-sm font-medium"
-        >
-          {link.label}
-        </a>
+  <div id="mobile-menu" class="hidden max-h-[80vh] overflow-y-auto border-t border-warm-200 bg-warm-50 md:hidden">
+    <nav class="px-4 py-4" aria-label="Mobile">
+      {[...navLinks, { href: '/about/', label: 'About' }].map(l => (
+        <a href={l.href} class="flex items-center justify-between border-b border-warm-200 py-3.5 font-display text-2xl text-warm-950">{l.label}<span class="font-body text-base text-warm-400" aria-hidden="true">→</span></a>
       ))}
-    </div>
-    <div class="px-4 pb-3 border-t border-warm-100 pt-3">
-      <p class="text-warm-400 text-xs font-body px-3 mb-2 uppercase tracking-wider font-semibold">Quick browse</p>
-      <div class="flex flex-wrap gap-1.5 px-1">
-        {categories.map(cat => (
-          <a
-            href={`/categories/${cat.slug}`}
-            class="font-body text-xs text-warm-600 hover:text-warm-950 bg-warm-100 hover:bg-warm-200 px-3 py-1.5 rounded-full transition-colors"
-          >
-            {cat.label}
-          </a>
+      <p class="eyebrow mt-6 mb-3 text-warm-500">Kinds of stay</p>
+      <div class="grid grid-cols-2 gap-2">
+        {cats.map(c => (
+          <a href={`/categories/${c.slug}/`} class="flex items-center gap-2 rounded-xl border border-warm-200 bg-white px-3 py-2.5 font-body text-sm font-medium text-warm-800"><CategoryIcon slug={c.slug} size={16} class="text-forest-700" />{c.label}</a>
         ))}
       </div>
-    </div>
-    <div class="px-4 pb-4 pt-2">
-      <a
-        href="/categories"
-        class="block w-full text-center bg-forest-600 hover:bg-forest-700 text-white font-body font-semibold text-sm px-4 py-3 rounded-full transition-colors"
-      >
-        Find Your Stay
-      </a>
-    </div>
+    </nav>
   </div>
 </header>
 

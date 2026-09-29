@@ -1,75 +1,39 @@
 /** @type {import('tailwindcss').Config} */
+import typography from '@tailwindcss/typography';
+
+// Design tokens: "editorial travel magazine".
+// warm   = paper & ink neutrals (warm greys, no yellow cast)
+// forest = primary: deep evergreen, used for actions
+// gold   = accent: terracotta, used sparingly for emphasis
 export default {
   content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
   theme: {
     extend: {
       colors: {
         warm: {
-          50:  '#FBF8F4',
-          100: '#F4EDE2',
-          200: '#E8D9C4',
-          300: '#D5C0A4',
-          400: '#BCA07F',
-          500: '#A08060',
-          600: '#7D6248',
-          700: '#5C4835',
-          800: '#3D3025',
-          900: '#261D16',
-          950: '#160E09',
-        },
-        gold: {
-          50:  '#FFF8EC',
-          100: '#FEEECE',
-          200: '#FDD99C',
-          300: '#FBBA62',
-          400: '#F8931E',
-          500: '#E07610',
-          600: '#C45B09',
-          700: '#9E430B',
-          800: '#7D3410',
-          900: '#672C10',
-          950: '#3A1505',
+          50: '#FAF9F6', 100: '#F2F0EB', 200: '#E5E2DA', 300: '#D0CBC1', 400: '#A8A296',
+          500: '#7C766B', 600: '#5E5950', 700: '#45413A', 800: '#2D2A26', 900: '#1C1A17', 950: '#0F0E0C',
         },
         forest: {
-          50:  '#F0FAF4',
-          100: '#DBF4E5',
-          200: '#B7E8CB',
-          300: '#84D4A7',
-          400: '#4DB87D',
-          500: '#2E9B5E',
-          600: '#1F7D4A',
-          700: '#1A633C',
-          800: '#174F32',
-          900: '#14412A',
-          950: '#082417',
+          50: '#EEF4F1', 100: '#D5E6DE', 200: '#ABCDBE', 300: '#7BAF99', 400: '#4C8E74', 500: '#2E735A',
+          600: '#1F5C48', 700: '#184A3A', 800: '#133B2F', 900: '#0F3027', 950: '#081B16',
+        },
+        gold: {
+          50: '#FDF3EE', 100: '#FAE2D5', 200: '#F3C2A6', 300: '#EA9C72', 400: '#DF7A48', 500: '#C9602E',
+          600: '#AB4A21', 700: '#883A1C', 800: '#6B2F1A', 900: '#572818', 950: '#31130A',
         },
       },
       fontFamily: {
-        display: ['Playfair Display', 'Georgia', 'serif'],
-        body: ['DM Sans', 'system-ui', 'sans-serif'],
+        display: ['"Instrument Serif"', 'Georgia', 'serif'],
+        body: ['Geist', 'system-ui', '-apple-system', 'Segoe UI', 'sans-serif'],
       },
       boxShadow: {
-        card: '0 2px 16px 0 rgba(26,18,9,0.07)',
-        'card-hover': '0 8px 40px 0 rgba(26,18,9,0.13)',
-        soft: '0 1px 8px 0 rgba(26,18,9,0.06)',
+        card: '0 1px 2px rgba(15,14,12,.04), 0 4px 16px rgba(15,14,12,.05)',
+        'card-hover': '0 2px 4px rgba(15,14,12,.05), 0 16px 40px rgba(15,14,12,.10)',
+        soft: '0 1px 3px rgba(15,14,12,.05)',
       },
-      animation: {
-        'fade-in': 'fadeIn 0.5s ease-in-out',
-        'slide-up': 'slideUp 0.6s ease-out',
-      },
-      keyframes: {
-        fadeIn: {
-          '0%':   { opacity: '0' },
-          '100%': { opacity: '1' },
-        },
-        slideUp: {
-          '0%':   { opacity: '0', transform: 'translateY(20px)' },
-          '100%': { opacity: '1', transform: 'translateY(0)' },
-        },
-      },
+      letterSpacing: { tightest: '-.035em' },
     },
   },
-  plugins: [
-    require('@tailwindcss/typography'),
-  ],
+  plugins: [typography],
 };

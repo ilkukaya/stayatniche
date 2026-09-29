@@ -1,0 +1,25 @@
+---
+import CategoryIcon from './CategoryIcon.astro';
+import { ownPhoto, CATEGORY_TONE } from '../lib/images';
+interface Props { slug: string; title: string; count: number; coverImage?: string; tagline?: string; big?: boolean; class?: string }
+const { slug, title, count, coverImage, tagline, big = false, class: cls = '' } = Astro.props;
+const photo = ownPhoto(coverImage, slug);
+const [bg, ink] = CATEGORY_TONE[slug] ?? ['#E5E2DA', '#2D2A26'];
+---
+<a href={`/categories/${slug}/`} class:list={['group relative isolate block overflow-hidden rounded-xl', cls]} style={photo ? undefined : `background:${bg};color:${ink}`}>
+  {photo ? (
+    <>
+      <img src={photo} alt="" class="absolute inset-0 -z-10 h-full w-full object-cover transition duration-700 group-hover:scale-[1.04]" loading="lazy" decoding="async" />
+      <div class="absolute inset-0 -z-10 bg-gradient-to-t from-black/65 via-black/5 to-transparent"></div>
+    </>
+  ) : (
+    <CategoryIcon slug={slug} size={big ? 360 : 200} strokeWidth={0.6} class="pointer-events-none absolute -bottom-10 -right-8 -z-10 opacity-[.14] transition-transform duration-700 group-hover:rotate-[-6deg]" />
+  )}
+  <div class:list={['flex h-full flex-col justify-between', big ? 'p-6 sm:p-8' : 'p-4 sm:p-5', photo && 'text-white']}>
+    <CategoryIcon slug={slug} size={20} strokeWidth={1.6} />
+    <div>
+      <h3 class:list={['font-display leading-[1]', big ? 'text-4xl sm:text-5xl' : 'text-[1.7rem]']}>{title}</h3>
+      <p class="mt-1.5 font-body text-sm opacity-80">{count} {count === 1 ? 'stay' : 'stays'}{big && tagline ? ` · ${tagline}` : ''}</p>
+    </div>
+  </div>
+</a>

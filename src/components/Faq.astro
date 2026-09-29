@@ -21,15 +21,15 @@ const ld = {
 {items.length > 0 && (
   <section class="my-10" aria-labelledby="faq-heading">
     <script type="application/ld+json" set:html={JSON.stringify(ld)} />
-    <h2 id="faq-heading" class="font-display text-2xl font-bold text-warm-950 mb-5">{heading}</h2>
-    <div class="divide-y divide-warm-200 rounded-2xl border border-warm-200 bg-white">
+    <h2 id="faq-heading" class="mb-4 font-display text-4xl leading-none text-warm-950">{heading}</h2>
+    <div class="divide-y divide-warm-200 border-y border-warm-200">
       {items.map(i => (
-        <details class="group p-5">
-          <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-body font-semibold text-warm-900">
+        <details class="group py-5">
+          <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-body text-[16px] font-semibold text-warm-950">
             <span>{i.q}</span>
             <svg class="h-4 w-4 flex-shrink-0 text-warm-400 transition-transform group-open:rotate-180" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 8l5 5 5-5"/></svg>
           </summary>
-          <p class="mt-3 font-body text-sm leading-relaxed text-warm-700">{i.a}</p>
+          <p class="mt-3 max-w-2xl font-body text-[15px] leading-relaxed text-warm-600">{i.a}</p>
         </details>
       ))}
     </div>

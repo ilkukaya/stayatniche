@@ -43,7 +43,7 @@ const allCategories = await getCollection('categories');
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div class="grid grid-cols-2 sm:grid-cols-4 gap-8 text-center">
         <div>
-          <div class="font-display text-4xl font-bold text-gold-500 mb-2">{allHotels.length}+</div>
+          <div class="font-display text-4xl font-bold text-gold-500 mb-2">{allHotels.length}</div>
           <div class="font-body text-warm-600 text-sm">Extraordinary Stays</div>
         </div>
         <div>
@@ -51,12 +51,12 @@ const allCategories = await getCollection('categories');
           <div class="font-body text-warm-600 text-sm">Niche Categories</div>
         </div>
         <div>
-          <div class="font-display text-4xl font-bold text-gold-500 mb-2">40+</div>
+          <div class="font-display text-4xl font-bold text-gold-500 mb-2">{new Set(allHotels.map(h => h.data.country)).size}</div>
           <div class="font-body text-warm-600 text-sm">Countries Covered</div>
         </div>
         <div>
-          <div class="font-display text-4xl font-bold text-gold-500 mb-2">100%</div>
-          <div class="font-body text-warm-600 text-sm">Hand-curated</div>
+          <div class="font-display text-4xl font-bold text-gold-500 mb-2">$0</div>
+          <div class="font-body text-warm-600 text-sm">Extra cost to you</div>
         </div>
       </div>
     </div>
@@ -77,7 +77,7 @@ const allCategories = await getCollection('categories');
           We scour the globe for accommodations that push the boundaries of what a "stay" can be — whether that's sleeping under the stars in a transparent bubble dome, waking up to manta rays swimming past your bedroom window, or spending the night in a centuries-old castle.
         </p>
         <p class="font-body text-warm-600 leading-relaxed">
-          Every property we feature has been researched, vetted, and selected for its wow factor, authentic character, and genuine guest satisfaction.
+          Every property we feature is selected for its setting, architecture or experience: the place itself has to be the reason to go.
         </p>
       </div>
       <div class="relative">
