@@ -14377,7 +14377,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Alaska",
@@ -14392,7 +14392,8 @@
    "snippet": "lose Menu Folder: ABOUT Back History Property Gallery Contact Folder: VISIT Back Stay Overnight Day Tours Weddings Corporate Retreats Folder: EXPLORE Back Excursions Visit Sitka Employment Folder: SHOP Back Shop The Lighthouse Reservations Explore a historic lighthouse on a fully private island through curated Alaska experiences. This isn't just another vacation, this is where Alaska unfolds at your own pace. Some days invite stillness and reflection; others call you outward to explore forest, sea, and sky. The lighthouse serves as a steady base, allowing you to move easily between quiet resto"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:node/2476487081": {
   "id": "osm:node/2476487081",
@@ -19064,7 +19065,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Newfoundland and Labrador",
@@ -19079,7 +19080,8 @@
    "snippet": "Quirpon Lighthouse Inn - Linkum Tours Fully restored by Linkum Tours, Quirpon Lighthouse Inn features ten beautiful rooms at the base of a still-operating lighthouse.  Quirpon Lighthouse Inn - Linkum Tours You are using an outdated browser. Please upgrade your browser to improve your experience. Group 21 Lighthouse Inns Tours Attractions Gallery About Contact Book Now Lighthouse Inns Tours A"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:node/4195437221": {
   "id": "osm:node/4195437221",
@@ -21465,7 +21467,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Scotland",
@@ -21480,7 +21482,8 @@
    "snippet": "Home | Corsewall Lighthouse Hotel and Restaurant Experience a luxury stay at Corsewall Lighthouse Hotel — a unique working lighthouse hotel on Scotland’s wild coast with sea views, exceptional dining, peaceful escapes and historic charm.  --> Home | Corsewall Lighthouse Hotel and Restaurant ._internalContainerRoot_1xyyz_1{position:relative;width:100%;height:100%;--borderTopWidth: 0px;--borderTopStyle: solid;--borderTopColor: transparent;--borderInlineEndWidth:"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:node/4697252070": {
   "id": "osm:node/4697252070",
@@ -31922,7 +31925,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -31937,7 +31940,8 @@
    "snippet": "Lighthouse Keeper&#x27;s Cottage 2 Tyne and Wear | National Trust A cliff-top cottage perching in the shadows of the iconic red and white Souter Lighthouse.  Lighthouse Keeper s Cottage 2 Tyne and Wear | National Trust Focus Reset Skip to content Search My Account Donate Visit Discover learn Our cause Membership Support us Holidays Shop Visit Disco"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:node/9659474034": {
   "id": "osm:node/9659474034",
@@ -31955,7 +31959,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -31970,7 +31974,8 @@
    "snippet": "Lighthouse Keeper&#x27;s Cottage 1 Tyne and Wear | National Trust As part of the lighthouse, you’ll be a stone’s throw from the Sunderland coast.  Lighthouse Keeper s Cottage 1 Tyne and Wear | National Trust Focus Reset Skip to content Search My Account Donate Visit Discover learn Our cause Membership Support us Holidays Shop Visit Discover learn O"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:node/9664629061": {
   "id": "osm:node/9664629061",
@@ -34863,7 +34868,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "New South Wales",
@@ -34878,7 +34883,8 @@
    "snippet": "aters All accommodation Edit All accommodation Wilderluxe glamping Campsites Cabins Holiday homes Tiny homes Glamping tents Who s coming? Select Adults Kids Infants Dogs Reset guests Search Norah Head / Accommodation Not dog friendly Head Lighthouse Keepers Quarters 9 guests 3 bedrooms 1 bathroom Not dog friendly Assistant Lighthouse Keepers Quarters 9 guests 3 bedrooms 1 bathroom Amenities Accessible Waterfront Not dog-friendly Kiosk (office) Amenity block/s Reflections Norah Head Lighthouse Cottages reviews 4.7/5 39 reviews See all reviews An amazing and unique holiday. Great position and vi"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/112229854": {
   "id": "osm:way/112229854",
@@ -40272,7 +40278,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Dobrich",
@@ -40287,7 +40293,8 @@
    "snippet": "t Golf Hotel for 8th consecutive year Golf 14 Nov 2025 One More Escape Before Back-to-School Holidays 21 Aug 2025 Ten Outdoor Activities to Enjoy Food Beverage 08 May 2025 Discover the Hidden Gem of Balchik: Queen’s Winery House Food Beverage 10 Mar 2025 Lighthouse Events Happanings Simming Lessons Fun and engaging swimming lessons for both kids and adults. Sessions are held every Tuesday and Thursday at 18:30, and on Sundays at 14:00 and 15:00. Reservations and payment are made at the SPA reception. Pilates Отпуснете тялото и ума с релаксиращи Pilates тренировки, подходящи за всички нива. Про"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/1540893186": {
   "id": "osm:way/1540893186",
@@ -40663,7 +40670,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "lighthouse-hotels",
@@ -40677,7 +40684,8 @@
    "snippet": "Avila Lighthouse Suites is now Avila Beach House Welcome to Avila Beach House, formerly Avila Lighthouse Suites. Find answers about reservations, gift cards, suite layouts, and what has changed.  Avila Lighthouse Suites is now Avila Beach House Skip to content This website uses cookies. If that's okay with you, keep on browsing, or learn more about our Privacy Policy . Close Cookie Disclosure Notice Avila Beach House - Go Bac"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/159469682": {
   "id": "osm:way/159469682",
@@ -42063,7 +42071,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "lighthouse-hotels",
@@ -42077,7 +42085,8 @@
    "snippet": "fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize <img data-src=\"https://images.squarespace-cdn.com/content/v1/6484608661c558034f2d757e/1694861989723-IT4G6J3ZOCTNVX23Y8WP/the-lighthouse-bedroom.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/6484608661c558034f2d757e/1694861989723-IT4G6J3ZOCTNVX23Y8WP/the-lighthouse-bedroom.jpg\" data-image-dimensions=\"1200x800\" data-image-focal-point=\"0.5,0.5\" alt=\"Bedroom with large bay windows showing a sunset view of mountains and"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/210443019": {
   "id": "osm:way/210443019",
@@ -44102,7 +44111,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on the Hudson River in New York, United States",
@@ -44119,7 +44128,8 @@
    "snippet": "orm needs a storage option. Edit the block and enter a storage location via the Storage tab. Email Address Sign Up Thank you! SAUGERTIES LIGHTHOUSE SAUGERTIES LIGHTHOUSE SAUGERTIES LIGHTHOUSE SAUGERTIES LIGHTHOUSE 168 Lighthouse Drive Saugerties, NY 12477 info@saugertieslighthouse.com (845) 247-0656 QUICK LINKS Get Hours Directions Overnight Availability Tide Table Become a Member Volunteer FOLLOW DONATE"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/264888761": {
   "id": "osm:way/264888761",
@@ -46836,7 +46846,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Florida",
@@ -46851,7 +46861,8 @@
    "snippet": "Lighthouse Hotel in Key West | Key West Historic Inns Collection Stay at Lighthouse Hotel in Key West, steps from the Hemingway Home and Lighthouse, with poolside dining, live music, historic charm, and thoughtful amenities.  Lighthouse Hotel in Key West | Key West Historic Inns Collection Skip to main content EXCLUSIVE WEBSITE ONLY OFFER Up to 25% off + perks! VIEW OFFER Menu Close Wins"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/343190497": {
   "id": "osm:way/343190497",
@@ -49434,7 +49445,7 @@
    "historic": "lighthouse"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -49449,7 +49460,8 @@
    "snippet": "amatic skies meet endless sea. An unforgettable experience. Book Now  Belle Tout Lighthouse B B - Britain s Most Dramatic Stay Skip to content Home Accommodation Beachy Head Captains Cabin Keepers Loft South Downs Old England Seven Sisters Breakfast Lantern Room Guest Lounge Room Rates Room Rates for This Year Room Rates for Next Year Bookings Contact Information Accessibility FAQs How to Get Here Where to Eat Beachy Head Seven Sisters History Build a New Life The Story of the Belle Tout Lighthouse Reviews More Reviews Even More Reviews Britain's Most Dramatic Stay Book Now Stay Inside Britain"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/428931097": {
   "id": "osm:way/428931097",
@@ -52893,7 +52905,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Büsum, Germany",
@@ -52909,7 +52921,8 @@
    "snippet": "e Heimathafen® Hotels. Viel spass beim Eintauchen in unseren Kosmos. Heimathafen Hotels 19.06.2025 Mehrweg mit Meerblick – der ÖkoCup ist da! Kulinarik 19.06.2025 Schnüsch erhält 8 GUSTO-Pfannen Wellness 24.02.2025 SPA Suite & Floating Insides 11.04.2025 Cruiser King – Fahrradverleih im Lighthouse Insides 03.07.2019 Wittmann Suite Deals 11.04.2025 Unser Sommerangebood ist zurück Insides 11.04.2025 Frische Öffnungszeiten im Frühling Kulinarik 22.11.2023 FEINHEIMISCH - wir sind Mitglied Heimathafen Hotels 23.04.2025 Heimathafen Hotels x Alpakas gegen Nazis 11.04.2025 Frühstück im Lighthouse Well"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/675736803": {
   "id": "osm:way/675736803",
@@ -56637,7 +56650,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Texas",
@@ -56652,7 +56665,8 @@
    "snippet": "st packages and events at the Lighthouse Inn ROCKPORT WEATHER The Lighthouse Inn at Aransas Bay 200 South Fulton Beach Road Rockport, Texas 78382 Tel: 361-790-8439 / 866-790-8439 Email: info@lighthousetexas.com ROCKPORT WEATHER Instagram Copyright © 2024 The Lighthouse Inn Texas. | Site Map | All Rights Reserved. Powered by Accommodations Amenities Dining Gallery Custom Events Specials Packages About Us Attractions Blog Contact Location Guest Reviews Awards History Privacy Policy Accommodations Amenities Dining Gallery Custom Events Specials Packages About Us Attractions Blog Contact Location"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/92419582": {
   "id": "osm:way/92419582",
@@ -57416,7 +57430,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "new",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Oregon",
@@ -57431,7 +57445,8 @@
    "snippet": "X Pinterest © 2026 Oregon Beach Vacations . All rights reserved. | All Properties | Powered by Flow One The Lighthouse in Lincoln City | House - 2 Bed House in Lincoln City, OR | Oregon Beach Vacations The Lighthouse in Lincoln City Lincoln City, OR 97367 Share About this place The Lighthouse in Lincoln City - Oregon Beach Vacations Welcome to The Lighthouse in Lincoln City, located in, you guessed it - Lincoln City! This one story home has room for up to six guests, with two bedrooms and two bathrooms! You ll have incredibly close beach access, just a short walk away down the street, with not"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "recheck": true
  },
  "osm:way/994956201": {
   "id": "osm:way/994956201",
