@@ -1167,7 +1167,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -1179,11 +1179,10 @@
    "title": "KohYao Luxury Beachfront TreeHouse Villas Resort Near Phuket",
    "description": "TreeHouse Villas Koh Yao Noi luxury beachfront &amp; seaside resort in Koh Yao Noi in Phang-Nga near Phuket &amp; Krabi. The worldclass design with modern TreeHouse style leads us on the top of the list of luxury hotels in Thailand.",
    "keyword": "TreeHouse Villa",
-   "snippet": "KohYao Luxury Beachfront TreeHouse Villas Resort Near Phuket TreeHouse Villas Koh Yao Noi luxury beachfront &amp; seaside resort in Koh Yao Noi in Phang-Nga near Phuket &amp; Krabi. The worldclass design with modern TreeHouse style leads us on the top of the list of luxury hotels in Thailand.  KohYao Luxury Beachfront TreeHouse Villas Resort Near Phuket MENU CLOSE EN Engli"
+   "snippet": "hailand.  KohYao Luxury Beachfront TreeHouse Villas Resort Near Phuket MENU CLOSE EN English TH ไทย CN 简体中文 Hi! Member Member Benefits Sign Up GAIN ACCESS TO EXCLUSIVE ROOM TYPES AND RATES AFTER SIGN UP SIGN UP No, Thanks Book Now Destination Villas TreeHouse Villa Beachfront Pool Villa Hilltop Pool Villa Experiences Offers Gallery Destination Villas TreeHouse Villa Beachfront Pool Villa Hilltop Pool Villa Experiences Offers Gallery TreeHouse Villas Koh Yao 5-star Luxurious TreeHouse Villas with Secluded Beach The Original Luxury TreeHouse Experience in Asia ‘Designed by craftsmen, inspired by"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/10699527023": {
   "id": "osm:node/10699527023",
@@ -1406,23 +1405,24 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Newfoundland and Labrador",
   "category": "lighthouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://linkumtours.com/accommodations/cape-anguille-lighthouse-inn/",
    "title": "Cape Anguille Lighthouse Inn - Linkum Tours",
    "description": "Our Inn at Cape Anguille is a restored century-old light-keeper’s home in a beautiful corner of western Newfoundland.",
-   "keyword": "Lighthouse Inns Tours Attractions Gallery About Contact Book Now Tours Accommodation",
-   "snippet": "autiful corner of western Newfoundland.  Cape Anguille Lighthouse Inn - Linkum Tours You are using an outdated browser. Please upgrade your browser to improve your experience. Group 21 Lighthouse Inns Tours Attractions Gallery About Contact Book Now Lighthouse Inns Tours Attractions Gallery About Contact Book Now Tours Accommodations CALL NL PO Box 12345 St. John\\'s, NL, Canada Plan Your Stay Quirpon Lighthouse Inn A deserted island offers the quintessential experience of lighthouse life. Book Now Plan Your Tour Zodiac Tours These tours are an incredible way to get up close with icebergs and w"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/10783766642": {
   "id": "osm:node/10783766642",
@@ -1731,6 +1731,41 @@
   "category": "lighthouse-hotels",
   "score": 4,
   "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
+ },
+ "osm:node/10852897826": {
+  "id": "osm:node/10852897826",
+  "name": "Underwater Explorers",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": -26.8441491,
+  "lng": 32.8888418,
+  "website": "https://www.thewhaler.co.za/",
+  "wikidata": null,
+  "country": "Mozambique",
+  "city": "Maputo Province",
+  "osm": {
+   "tourism": "guest_house"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "region": "Maputo Province",
+  "category": "underwater-rooms",
+  "score": 5,
+  "evidence": {
+   "status": 200,
+   "url": "https://underwaterexplorer.co.za/",
+   "title": "Underwater Explorers",
+   "description": "",
+   "keyword": null,
+   "snippet": null
+  },
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
@@ -2573,7 +2608,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Wales",
@@ -2588,8 +2623,7 @@
    "snippet": "About | Rhiw Wood Treehouses Rhiw Wood is born from a deep-rooted love and respect for nature. Tucked away in the heart of an ancient Welsh Woodland, our enchanting retreat offers an unparalleled escape from the ordinary. Surrounded by the serenity of nature, Rhiw Wood is a place where time seems to stand still, and worries fade away amidst the lush greenery.  --> A"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/11257481322": {
   "id": "osm:node/11257481322",
@@ -3202,7 +3236,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Puerto Rico",
@@ -3217,8 +3251,7 @@
    "snippet": "Treehouses - Yuquiyu Farm Yuquiy&uacute; is a rustic retreat in the foothills of Puerto Rico&rsquo;s El Yunque rainforest &mdash; a place to reawaken the senses in harmony with nature.  Treehouses - Yuquiyu Farm 0 Shopping Cart 0.00 --> Home Treehouses Garden Cuisine Explorations Reservations Contact Us Menu Menu Treehouses Treehouses An architectu"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/11627999369": {
   "id": "osm:node/11627999369",
@@ -3351,7 +3384,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -3366,8 +3399,9 @@
    "snippet": "AND SERVICES Free Coffee Tea BBQ Bar area Free towels Swimming Pool Free Wifi OUR GUESTS LOVE US What our guests are saying about us view all reviews Nice Place Beautiful property with breathtaking sea views. Great atmosphere. Thank you so much The Lighthouse Arrifana for the lovely stay! We will be back Ina Aldrich Austria Perfect This house was the highlight of our trip around the portuguese west coast. Wild sunsets from the living room and bbq every single day. Everything brand new and amazing staff is always there for you. John Anderson USA Good Choice Great decoration with the best comfo"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:node/11722191104": {
   "id": "osm:node/11722191104",
@@ -3537,7 +3571,7 @@
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Baden-Württemberg",
@@ -3552,8 +3586,9 @@
    "snippet": "Baumhaustechnik Zwischen den berühmten Riesentannen im Schwarzwald entstehen mehrere Baumhaus-Siedlungen zum Übernachten! Hast Du Lust zum Mitbauen?  Baumhaustechnik Baumhaustechnik"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:node/11787484770": {
   "id": "osm:node/11787484770",
@@ -4325,7 +4360,7 @@
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Baden-Württemberg",
@@ -4340,8 +4375,9 @@
    "snippet": "Baumhaustechnik Zwischen den berühmten Riesentannen im Schwarzwald entstehen mehrere Baumhaus-Siedlungen zum Übernachten! Hast Du Lust zum Mitbauen?  Baumhaustechnik Baumhaustechnik"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:node/11997906519": {
   "id": "osm:node/11997906519",
@@ -4828,23 +4864,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "treehouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://transfagarasantreehousevillage.com/",
    "title": "Cazare si Restaurant - Transfagarasan Tree House Village",
    "description": "Bine ati venit la Transfagarasan Tree House Village Required fields are followed by * Check-in * Check-out * Adults 12 Children 0 &#8211; 11 01234 Casute in Copac Cazarea noastra consta intr-un mic satuc de case suspendate in copaci, proiect [&hellip;]",
-   "keyword": "Tree House Villa",
-   "snippet": "Cazare si Restaurant - Transfagarasan Tree House Village Bine ati venit la Transfagarasan Tree House Village Required fields are followed by * Check-in * Check-out * Adults 12 Children 0 &#8211; 11 01234 Casute in Copac Cazarea noastra consta intr-un mic satuc de case suspendate in copaci, proiect [&hellip;]  Cazare si Restaurant - Transfagarasan Tree House Village Transfagarasan Tree"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/12119725363": {
   "id": "osm:node/12119725363",
@@ -4925,7 +4962,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Uusimaa",
@@ -4936,12 +4973,11 @@
    "url": "https://archipelagoigloos.com/",
    "title": "Archipelago Igloos &#8211; Luxory Glass Igloos In Helsinki and Sipoo Archipelago",
    "description": "We offer unique eco-friendly accommodation experience in floating glass igloos in Helsinki and Sipoo archipelago.",
-   "keyword": "Igloo",
-   "snippet": "Archipelago Igloos &#8211; Luxory Glass Igloos In Helsinki and Sipoo Archipelago We offer unique eco-friendly accommodation experience in floating glass igloos in Helsinki and Sipoo archipelago.  Archipelago Igloos Luxory Glass Igloos In Helsinki and Sipoo Archipelago Hoppa till innehåll Archipelago Igloos Luxory Glass Igloos In Helsinki and Sipoo Archipelago"
+   "keyword": "Glass Igloos",
+   "snippet": "Archipelago Igloos &#8211; Luxory Glass Igloos In Helsinki and Sipoo Archipelago We offer unique eco-friendly accommodation experience in floating glass igloos in Helsinki and Sipoo archipelago.  Archipelago Igloos Luxory Glass Igloos In Helsinki and Sipoo Archipelago Hoppa till innehåll Archipelago Igloos Luxory Glass Igloos In Helsinki and Sipoo Archipelago Meny + expanderad mini"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/12149890577": {
   "id": "osm:node/12149890577",
@@ -4959,23 +4995,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.alicehotelantalya.com/en",
    "title": "Alice Hotel Antalya | Official Site | Hotel in Antalya",
    "description": "Alice Hotel Antalya offers Hotel accommodation in Aksu (Antalya). Airport transfer, restaurant, bar and Wi-Fi. Book directly on our official website.",
-   "keyword": "ice Hotel",
-   "snippet": "Alice Hotel Antalya | Official Site | Hotel in Antalya Alice Hotel Antalya offers Hotel accommodation in Aksu (Antalya). Airport transfer, restaurant, bar and Wi-Fi. Book directly on our official website.  --> Alice Hotel Antalya | Official Site | Hotel in Antalya Home Gallery Rooms About Us Discover Contact Us Blog Food Beverage EN TR EN DE FR ES RO"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/12153387908": {
   "id": "osm:node/12153387908",
@@ -5112,7 +5149,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Madre de Dios",
@@ -5127,8 +5164,7 @@
    "snippet": "? A Treehouse Lodge in Peru typically includes private accommodations, guided jungle walks, birdwatching, river excursions, and opportunities to observe the diverse wildlife of the Manu rainforest. Q4. Is Robles Treehouse a good option for a private treehouse stay in Peru? Yes, Private Treehouse Stay Peru experiences at Robles Treehouse Lodge provide secluded bungalows, natural surroundings, and an immersive ecotourism adventure for couples, families, and nature lovers. Q5. What makes Robles Treehouse one of the best Treehouse Resorts in Manu? As a Treehouse Resort in Manu, Robles Treehouse Lo"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/12224946901": {
   "id": "osm:node/12224946901",
@@ -6804,23 +6840,24 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "bubble-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://tripnhostel.com/pink-bubble/",
    "title": "Trip&#39;N&#39;Hostel Pink Bubble · Tirana&#39;s Biggest Party Hostel",
    "description": "Trip",
-   "keyword": "Bubble Room",
-   "snippet": "-mono, Caveat 700 -> --font-hand. Google provider downloads at build time — no Google Fonts CDN at runtime. --> so the :checked ~ .site-nav sibling selector can open/close the mobile off-canvas panel. --> Trip'n'Hostel Pink Bubble Trip'n'Hostel Pink Bubble Rooms Gallery Tours About Contact Properties Properties Trip'n Homepage Original Chill Zone Seaside Book a Bed → Book a Bed → Toggle navigation PINK BUBBLE Tirana, Albania · since 2025 The biggest social hostel in town . 9.7 EXCEPTIONAL 100+ reviews over 100 beds!! Book here and pay 10% less than Hostelworld Direct rates at Trip n Hostel Pin"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/12927958118": {
   "id": "osm:node/12927958118",
@@ -7213,23 +7250,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://alicehotel.hu/",
    "title": "Home - Alice Hotel Budapest",
    "description": "A kényeztető elegancia varázsa Alice Hotel Villa a belváros szívében Az Alice Hotel Budapest egy bájos szálloda, amely a város...",
-   "keyword": "ice Hotel",
-   "snippet": "Home - Alice Hotel Budapest A kényeztető elegancia varázsa Alice Hotel Villa a belváros szívében Az Alice Hotel Budapest egy bájos szálloda, amely a város...  Home - Alice Hotel Budapest L o a d i n g A szálloda Törzsvendégprogram Kapcsolat Szobák Classic szoba Superior szoba Deluxe szoba Alice lakosztály Alice Terrace Rendezvények Aktivitások A kényeztető"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/13045112702": {
   "id": "osm:node/13045112702",
@@ -7338,7 +7376,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Baden-Württemberg",
@@ -7353,8 +7391,9 @@
    "snippet": "Baumhaustechnik Zwischen den berühmten Riesentannen im Schwarzwald entstehen mehrere Baumhaus-Siedlungen zum Übernachten! Hast Du Lust zum Mitbauen?  Baumhaustechnik Baumhaustechnik"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:node/13081238601": {
   "id": "osm:node/13081238601",
@@ -9771,23 +9810,24 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "treehouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.treehouse.sk/treehouse/treehouse-vi/",
    "title": "Treehouse VI. | Bojnice | Domček v korunách stromov",
    "description": "Treehouse VI. - Luxusný domček na strome pre romantický útek v prírode. Výhľad na Bojnícky kraj, terasa, ohnisko a nezabudnuteľné chvíle.",
-   "keyword": "treehouses",
-   "snippet": "ate .wpbs-form-field-input ); setTimeout(() = { if (endDateDiv.textContent) { console.log( teraz áno ); const newDate = addOneDay(endDateDiv.textContent); endDateDiv.textContent = newDate; } }, 100); }); } /script Sledujte nás na sociálnych sieťach #treehousesk Ubytovanie Treehouse Darčekové poukazy Informácie O nás Aktivity FAQ Cenník Ubytovanie Právne informácie Ochrana osobných údajov Obchodné podmienky Rezervácie +421 911 520 650 rezervacie@treehouse.sk Kontakt Treehouse Family s.r.o. info@treehouse.sk Ubytovanie Treehouse Dar ekov poukazy Inform cie O n s Aktivity FAQ Cenn k Ubytovanie Pr"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/13974227603": {
   "id": "osm:node/13974227603",
@@ -9805,23 +9845,24 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "treehouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.treehouse.sk/treehouse/treehouse-iv/",
    "title": "Treehouse IV. | Bojnice | Domček v korunách stromov",
    "description": "Treehouse IV. - Ponúka priestranné ubytovanie pre 5 osôb s terasou a ohniskom, ideálne pre rodiny a páry. V srdci prírody Bojníc.",
-   "keyword": "treehouses",
-   "snippet": "ate .wpbs-form-field-input ); setTimeout(() = { if (endDateDiv.textContent) { console.log( teraz áno ); const newDate = addOneDay(endDateDiv.textContent); endDateDiv.textContent = newDate; } }, 100); }); } /script Sledujte nás na sociálnych sieťach #treehousesk Ubytovanie Treehouse Darčekové poukazy Informácie O nás Aktivity FAQ Cenník Ubytovanie Právne informácie Ochrana osobných údajov Obchodné podmienky Rezervácie +421 911 520 650 rezervacie@treehouse.sk Kontakt Treehouse Family s.r.o. info@treehouse.sk Ubytovanie Treehouse Dar ekov poukazy Inform cie O n s Aktivity FAQ Cenn k Ubytovanie Pr"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/13974227604": {
   "id": "osm:node/13974227604",
@@ -9839,23 +9880,24 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "treehouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.treehouse.sk/treehouse/treehouse-vii/",
    "title": "Treehouse VII. | Bojnice | Domček v korunách stromov",
    "description": "Treehouse VII. - Luxusný domček na strome pre romantický útek v prírode. Výhľad na Bojnícky kraj, terasa, ohnisko a nezabudnuteľné chvíle.",
-   "keyword": "treehouses",
-   "snippet": "ate .wpbs-form-field-input ); setTimeout(() = { if (endDateDiv.textContent) { console.log( teraz áno ); const newDate = addOneDay(endDateDiv.textContent); endDateDiv.textContent = newDate; } }, 100); }); } /script Sledujte nás na sociálnych sieťach #treehousesk Ubytovanie Treehouse Darčekové poukazy Informácie O nás Aktivity FAQ Cenník Ubytovanie Právne informácie Ochrana osobných údajov Obchodné podmienky Rezervácie +421 911 520 650 rezervacie@treehouse.sk Kontakt Treehouse Family s.r.o. info@treehouse.sk Ubytovanie Treehouse Dar ekov poukazy Inform cie O n s Aktivity FAQ Cenn k Ubytovanie Pr"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/13981602825": {
   "id": "osm:node/13981602825",
@@ -10412,7 +10454,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Saxony",
@@ -10427,8 +10469,9 @@
    "snippet": "Spend the night in a cozy stilt tree house! - Treehouses for Rent in Mülsen, Saxony, Germany - Airbnb Sep 29, 2026 · Treehouse · Experience pure nature with comfort. Our lovingly developed wooden tree house offers sleeping accommodations (bunk beds made from pallets) in a rus...  Spend the night in a cozy stilt tree house! - Treehouses for Rent in Mülsen, Saxony, Germany - Airbnb Skip to conte"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:node/14078281535": {
   "id": "osm:node/14078281535",
@@ -10446,7 +10489,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Saxony",
@@ -10461,8 +10504,9 @@
    "snippet": "Spend the night in a cozy stilt tree house! - Treehouses for Rent in Mülsen, Saxony, Germany - Airbnb Sep 29, 2026 · Treehouse · Experience pure nature with comfort. Our lovingly developed wooden tree house offers sleeping accommodations (bunk beds made from pallets) in a rus...  Spend the night in a cozy stilt tree house! - Treehouses for Rent in Mülsen, Saxony, Germany - Airbnb Skip to conte"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:node/14087723001": {
   "id": "osm:node/14087723001",
@@ -12108,7 +12152,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Valais/Wallis",
@@ -12123,8 +12167,7 @@
    "snippet": "HOME | B&amp;B Baumhaus Fiesch Das Bed&amp;Breakfast Baumhaus liegt inmitten der Oberwalliser Berge in Fiesch. Zentral, aber ruhig gelegen und nur 5 Minuten vom Bahnhof und der Seilbahnstation Fiesch–Fiescheralp entfernt. Der optimale Ausgangspunkt für Erlebnisse in den Oberwalliser Bergen.  --> HOME | B B Baumhaus Fiesch top of page HOME BAUMHAUS ZIMMER PAUSCHAL"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/1581729093": {
   "id": "osm:node/1581729093",
@@ -12570,23 +12613,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "North Rhine-Westphalia",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.twicehotels.de/bonn",
    "title": "Dein Hotel in Bad Godesberg | tinyTwice Hotel Bonn",
    "description": "Dein zweites Zuhause - im Diplomatenviertel Bonn/Bad Godesberg. ♥ Cosy &amp;amp; fancy Design ♥ direkt am Kurpark ♥ deluxe Frühstück » Entdecke Bonn mit uns!",
-   "keyword": "ice Hotel",
-   "snippet": "Dein Hotel in Bad Godesberg | tinyTwice Hotel Bonn Dein zweites Zuhause - im Diplomatenviertel Bonn/Bad Godesberg. ♥ Cosy &amp;amp; fancy Design ♥ direkt am Kurpark ♥ deluxe Frühstück » Entdecke Bonn mit uns!  Dein Hotel in Bad Godesberg | tinyTwice Hotel Bonn --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Zum Inhalt springen Zur Hauptnavigation springen en «Twice"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/1747477199": {
   "id": "osm:node/1747477199",
@@ -12735,7 +12779,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lower Saxony",
@@ -12750,8 +12794,7 @@
    "snippet": "Übernachten im Baumhaus - Baumhaushotel Solling Ihr Baumhaushotel mitten in Deutschland seit 2008. Wir erfüllen Ihren Traum von einer Übernachtung im Baumhaus oder Baumzelt.  Übernachten im Baumhaus - Baumhaushotel Solling Willkommen Baumhäuser Baumtraum Freiraum Refugium Kobel Rundhaus Burg Sternengucker Sollingblick Ahletal Aurora Baumzelte Gruppenraum Preise A"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/1782363210": {
   "id": "osm:node/1782363210",
@@ -13092,7 +13135,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -13107,8 +13150,7 @@
    "snippet": "ympos Tree Houses welcomes at Olympos Antalya Turkey. Olympos Tree Houses, Olympos - Turkey, Olympos  Olympos Saban Tree Houses Pension Antalya Turkey Türkçe - Deutsch Homepage Olympos(Olimpos) Activities Gallery Reservation Contact Guest Book Saban Treehouses BUNGALOWS Bungalows are for 2,3 or4 person with bathroom , wc and air conditioning. Reservation TREE HOUSES Treehouses are for 2 or 3 person shared bathroom and wc. Reservation DORM Dorm have 12 beds with air conditioning, shared bathroom and wc. Reservation Situated among the towering pines of the Olympos valley and a short walk to the"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/1889949865": {
   "id": "osm:node/1889949865",
@@ -13783,7 +13825,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Inhambane Province",
@@ -13798,8 +13840,9 @@
    "snippet": "Indian Ocean. EXPLORE CASAS Esperanza Beach Lodge Chalets Experience luxury by the ocean in one of our 4 upmarket Esperanza Beach Lodge Chalets . Enjoy cooling sea breezes and an unforgettable ocean view from your private space. EXPLORE CHALETS Home Accommodation About Enquiries FOLLOW US   Esperanza Lodge & Lighthouse Reef - Website Design and Hosting by Infinity Focus"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:node/224428856": {
   "id": "osm:node/224428856",
@@ -14040,7 +14083,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lapland",
@@ -14051,12 +14094,11 @@
    "url": "https://arcticguesthouseandigloos.com/",
    "title": "Praised Accommodation in Ranua - Arctic Guesthouse &amp; Igloos",
    "description": "Looking for an affordable and awarded accommodation in Lapland? Book your stay in 10 movable AuroraHut glass igloos or inside Gasthaus Ranua B&amp;B Inn.",
-   "keyword": "Igloo",
-   "snippet": "Praised Accommodation in Ranua - Arctic Guesthouse &amp; Igloos Looking for an affordable and awarded accommodation in Lapland? Book your stay in 10 movable AuroraHut glass igloos or inside Gasthaus Ranua B&amp;B Inn.  Praised Accommodation in Ranua - Arctic Guesthouse Igloos Skip to content +358 50 378 7989 Contact us Store Front Page Aurora Lake Lodges Igloos Guesthouse Winter Activities Summer Activit"
+   "keyword": "glass igloos",
+   "snippet": "Praised Accommodation in Ranua - Arctic Guesthouse &amp; Igloos Looking for an affordable and awarded accommodation in Lapland? Book your stay in 10 movable AuroraHut glass igloos or inside Gasthaus Ranua B&amp;B Inn.  Praised Accommodation in Ranua - Arctic Guesthouse Igloos Skip to content +358 50 378 7989 Contact us Store Front Page Aurora Lake Lodges Igloos Guesthouse Winter Activities Summer Activities Restaurant Huskies Info FAQ Blog Menu Front Page Aurora Lake Lodges Igloos Guesthouse Winter Activities Su"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/2356198792": {
   "id": "osm:node/2356198792",
@@ -14335,7 +14377,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Alaska",
@@ -14346,12 +14388,11 @@
    "url": "https://www.sitkalighthouse.com/",
    "title": "Sitka Lighthouse | Stay, Explore &amp; Celebrate in Alaska",
    "description": "Experience the Sitka Lighthouse in Alaska with unforgettable overnight stays, day tours, waterfront brunches, weddings, retreats, and scenic adventures.",
-   "keyword": "Lighthouse | Stay",
-   "snippet": "Sitka Lighthouse | Stay, Explore &amp; Celebrate in Alaska Experience the Sitka Lighthouse in Alaska with unforgettable overnight stays, day tours, waterfront brunches, weddings, retreats, and scenic adventures.  Sitka Lighthouse | Stay, Explore Celebrate in Alaska 0 Skip to Content ABOUT History Property Gallery Contact VISIT Stay Overnight Day Tours We"
+   "keyword": "historic lighthouse",
+   "snippet": "lose Menu Folder: ABOUT Back History Property Gallery Contact Folder: VISIT Back Stay Overnight Day Tours Weddings Corporate Retreats Folder: EXPLORE Back Excursions Visit Sitka Employment Folder: SHOP Back Shop The Lighthouse Reservations Explore a historic lighthouse on a fully private island through curated Alaska experiences. This isn't just another vacation, this is where Alaska unfolds at your own pace. Some days invite stillness and reflection; others call you outward to explore forest, sea, and sky. The lighthouse serves as a steady base, allowing you to move easily between quiet resto"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/2476487081": {
   "id": "osm:node/2476487081",
@@ -15364,7 +15405,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -15375,12 +15416,11 @@
    "url": "https://www.snowresortkirkenes.com/",
    "title": "Snow Resort Kirkenes and Snowhotel Kirkenes - Arctic Adventure Norway",
    "description": "",
-   "keyword": "snow hotel",
-   "snippet": "nture Norway   Snow Resort Kirkenes and Snowhotel Kirkenes - Arctic Adventure Norway Menu Menu Accommodation Restaurants Activities Packages About us Meetings Events Transfers Contact BOOK NOW SNOW RESORT KIRKENES Stay in the world’s only year-round snow hotel and resort READ MORE Most Popular Arctic Holiday Packages From: 7600 NOK Autumn Aurora Package Chase the Northern Lights and hike with huskies through the autumn-coloured Arctic landscape. BOOK NOW From: 8910 NOK Summer Package Experience summer in Northern Norway and make the most of every moment under the midnight sun. BOOK NOW From: 1"
+   "keyword": "Snowhotel",
+   "snippet": "Snow Resort Kirkenes and Snowhotel Kirkenes - Arctic Adventure Norway   Snow Resort Kirkenes and Snowhotel Kirkenes - Arctic Adventure Norway Menu Menu Accommodation Restaurants Activities Packages About us Meetings Events Transfers Contact BOOK NOW SNOW RESORT KIRKENES Stay in the world’s only year-round snow hotel and resort READ MORE Most Popular Arctic Holiday Packages"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/2901381171": {
   "id": "osm:node/2901381171",
@@ -16433,22 +16473,23 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://emersonspice.com/",
    "title": "Emerson Spice Hotel",
    "description": "Emerson Spice Hotel Stone Town Zanzibar - authentic Swahili culture, architecture &amp; cuisine The Secret Garden &amp; Rooftop Tea House Restaurants",
-   "keyword": "ice Hotel",
-   "snippet": "Emerson Spice Hotel Emerson Spice Hotel Stone Town Zanzibar - authentic Swahili culture, architecture &amp; cuisine The Secret Garden &amp; Rooftop Tea House Restaurants  Emerson Spice Hotel Skip to content EN EN FR DE ES SV PL NO NL RU ZH JA ID HA AR EN EN FR DE ES SV PL NO NL RU ZH JA ID HA AR Book Now EN EN FR DE ES SV PL NO NL RU ZH JA ID HA AR EN EN FR"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/323150651": {
   "id": "osm:node/323150651",
@@ -17158,6 +17199,34 @@
    "no category evidence on official website"
   ]
  },
+ "osm:node/3404578352": {
+  "id": "osm:node/3404578352",
+  "name": "Submarine Hostel",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 50.0663995,
+  "lng": 19.9401792,
+  "website": null,
+  "wikidata": null,
+  "country": "Poland",
+  "city": "Kraków",
+  "osm": {
+   "tourism": "hostel"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "region": "Lesser Poland Voivodeship",
+  "category": "underwater-rooms",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
+ },
  "osm:node/3404864796": {
   "id": "osm:node/3404864796",
   "name": "Faro de Culebrita",
@@ -17427,7 +17496,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -17442,8 +17511,9 @@
    "snippet": "Lighthouse Residence Pattaya | Pattaya Lighthouse Residence Pattaya, Pattaya. 2,908 followers &#xb7; 1,421 were here. Service Apartment for Monthly Rent and Yearly Rent  Lighthouse Residence Pattaya | Pattaya {\"require\":[[\"ScheduledServerJS\",\"handle\",null,[{\"__bbox\":{\"define\":[[\"cr:38451\",[\"CometRouterUIComponentsDefaultErrorRootFallback.react\"],{\"__rc\":[\"CometRouterUIComponentsDefaultErrorRootFallback.react\",null]},-1],[\"cr:12222\",[],{\"__rc\":[null,null]},-1],[\"cr:12223\",[],{\"__rc\":[null,null]"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:node/355722885": {
   "id": "osm:node/355722885",
@@ -18212,23 +18282,24 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lombardy",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://spicehotelmilano.it/it/",
    "title": "Spice Hotel Milano - Il tuo rifugio a 2 passi dalla Stazione Centrale",
    "description": "Spice Hotel Milano, il tuo hotel a 3 stelle di fiducia, a pochi passi dalla Stazione Centrale di Milano. Scopri di più e vieni a trovarci!",
-   "keyword": "ice Hotel",
-   "snippet": "Spice Hotel Milano - Il tuo rifugio a 2 passi dalla Stazione Centrale Spice Hotel Milano, il tuo hotel a 3 stelle di fiducia, a pochi passi dalla Stazione Centrale di Milano. Scopri di più e vieni a trovarci!  Spice Hotel Milano - Il tuo rifugio a 2 passi dalla Stazione Centrale Salta al contenuto HOTEL CAMERE SERVIZI CONTATTI COME ARRIVARE PRENOTA H"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/3906862678": {
   "id": "osm:node/3906862678",
@@ -18361,7 +18432,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "KwaZulu-Natal",
@@ -18376,8 +18447,7 @@
    "snippet": "Sycamore Avenue | Treehouse Accommodation   Sycamore Avenue | Treehouse Accommodation Home About us Meals Activities Our Area Downloads Downloads GIANT`S VIEW – HYDROPONICS Gallery Accommodation Romantic Treehouse Fantasy Treehouse Bottle Treehouse Faraway Treehouse Pegasus Treehouse Planequarium Treehouse Country Cottage 1 Country Cottage 2 Directions Rates Booking"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/3982527859": {
   "id": "osm:node/3982527859",
@@ -18610,7 +18680,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Nunavut",
@@ -18625,8 +18695,9 @@
    "snippet": "Igloolik &#8211; Inns North Hotels   Igloolik Inns North Hotels Skip to content ABOUT US ACTIVITIES CULTURE LOCATIONS ARCTIC BAY ARVIAT BAKER LAKE CAMBRIDGE BAY CHESTERFIELD INLET CORAL HARBOUR GJOA HAVEN GRISE FIORD IGLOOLIK KUGAARUK KUGLUKTUK NAUJAAT PANGNIRTUNG POND INLET QIKIQTARJUAQ RANKIN INLET SINIKTARVIK RANKIN INLET TURAARVIK SANIRAJAK SAN"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:node/4057475389": {
   "id": "osm:node/4057475389",
@@ -18993,7 +19064,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Newfoundland and Labrador",
@@ -19004,12 +19075,11 @@
    "url": "https://linkumtours.com/accommodations/quirpon-lighthouse-inn/",
    "title": "Quirpon Lighthouse Inn - Linkum Tours",
    "description": "Fully restored by Linkum Tours, Quirpon Lighthouse Inn features ten beautiful rooms at the base of a still-operating lighthouse.",
-   "keyword": "Lighthouse Inn features ten beautiful rooms",
-   "snippet": "Quirpon Lighthouse Inn - Linkum Tours Fully restored by Linkum Tours, Quirpon Lighthouse Inn features ten beautiful rooms at the base of a still-operating lighthouse.  Quirpon Lighthouse Inn - Linkum Tours You are using an outdated browser. Please upgrade your browser to improve your experience. Group 21 Lighthouse Inns Tours Attractions Gallery About Contact Book Now Lighthouse Inns Tours Attractions Gallery About Contact B"
+   "keyword": "restored by Linkum Tours, Quirpon Lighthouse",
+   "snippet": "Quirpon Lighthouse Inn - Linkum Tours Fully restored by Linkum Tours, Quirpon Lighthouse Inn features ten beautiful rooms at the base of a still-operating lighthouse.  Quirpon Lighthouse Inn - Linkum Tours You are using an outdated browser. Please upgrade your browser to improve your experience. Group 21 Lighthouse Inns Tours Attractions Gallery About Contact Book Now Lighthouse Inns Tours A"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/4195437221": {
   "id": "osm:node/4195437221",
@@ -19202,7 +19272,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Hesse",
@@ -19214,11 +19284,10 @@
    "title": "Baumhaushotel Robins Nest",
    "description": "In den Wipfeln großer Bäume können Naturverbundene und Aufgeweckte eine wunderbare Zeit verleben, den Wald mit anderen Augen sehen und ihre Kindheitsträume wahr werden lassen. Ein gelungener Unterschlupf für Urlauber, die das Besondere suchen und eine neue Art von Reise wollen, was sicher ein unvergessliches Abenteuer wird. Baumhaushotel, Baumhaus",
    "keyword": "Baumhaus",
-   "snippet": "Baumhaushotel Robins Nest In den Wipfeln großer Bäume können Naturverbundene und Aufgeweckte eine wunderbare Zeit verleben, den Wald mit anderen Augen sehen und ihre Kindheitsträume wahr werden lassen. Ein gelungener Unterschlupf für Urlauber, die das Besondere suchen und eine neue Art von Reise wollen, was sicher ein unvergessliches Abenteuer wird"
+   "snippet": "leben, den Wald mit anderen Augen sehen und ihre Kindheitsträume wahr werden lassen. Ein gelungener Unterschlupf für Urlauber, die das Besondere suchen und eine neue Art von Reise wollen, was sicher ein unvergessliches Abenteuer wird. Baumhaushotel, Baumhaus  Baumhaushotel Robins Nest DE | EN TreeHouses RESTAURANT EVENTS Art / AiR spa Gift Certificate ABOUT US CONTACT News BAUMHÄUSER RESTAURANT EVENTS Kunst / AiR spa GUTSCHEINE ÜBER UNS Kontakt FAQ Zurück All TreeHouses Ball Treehouse BIRCH TREEHOUSE CORK TREEHOUSE Dome Trunk TREEHOUSE Stilt House Glamping lodge Block Hut Wald Loft Zurück ALLE"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/424228711": {
   "id": "osm:node/424228711",
@@ -19365,7 +19434,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -19380,8 +19449,9 @@
    "snippet": "House Hotel Faro Sunlight House Hotel Faro Sunlight House Hotel Faro Sunlight House Hotel Faro Sunlight House Hotel Faro Sunlight House Hotel Faro 1/19 Book Now NEXT TO OLD TOWN, SHOPS RESTAURANTS DELICIOUS BREAKFAST FREE PUBLIC PARKING COMFORTABLE ROOMS Find us Rua Dr Francisco Lazaro Cortes 11 8000-142 Faro ​ Email us sunlighthousehostel@hotmail.com ​ Contact us 00351 920 540 207 ​​(call to national mobile network) ​ ​ Free Public Parking (10m) Largo de S. Francisco BUS Station (850m) Terminal Station Bus schedule Train Station (900m) CP Terminal Registration Number 2351/AL Privacy Policy T"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:node/4254091789": {
   "id": "osm:node/4254091789",
@@ -19870,7 +19940,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -19885,8 +19955,9 @@
    "snippet": "IGLOO HOSTEL Igloo Hostel is proud to be valued as Nottingham  IGLOO HOSTEL IGLOO HOSTEL Home [IGLOO HYBRID & SHED] GROUP BOOKINGS Notts Guest Book Blog Find Us Igloo Hybrid & Shed Contact Team Home / [IGLOO HYBRID & SHED] / GROUP BOOKINGS / Notts / Guest Book / Blog / Find Us / Igloo Hybrid & Shed Contact / Team / Igloo Hostel is proud to be value"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:node/4340782692": {
   "id": "osm:node/4340782692",
@@ -19974,6 +20045,38 @@
   "category": "treehouse-hotels",
   "score": 4,
   "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
+ },
+ "osm:node/4342588423": {
+  "id": "osm:node/4342588423",
+  "name": "Submarine Guest House",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 3.1428525,
+  "lng": 101.6966462,
+  "website": "http://www.submarinehotels.com",
+  "wikidata": null,
+  "country": "Malaysia",
+  "city": "Kuala Lumpur",
+  "osm": {
+   "tourism": "hostel"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "region": null,
+  "category": "underwater-rooms",
+  "score": 4,
+  "evidence": {
+   "status": 0,
+   "keyword": null,
+   "snippet": null
+  },
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
@@ -20643,6 +20746,41 @@
    "no category evidence on official website"
   ]
  },
+ "osm:node/4554705889": {
+  "id": "osm:node/4554705889",
+  "name": "Submarine hotel ltd",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": -3.8288011,
+  "lng": 32.6070701,
+  "website": "https://submarinehotelsltd.co.tz/",
+  "wikidata": null,
+  "country": "Tanzania",
+  "city": "Kahama",
+  "osm": {
+   "tourism": "hotel"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "region": "Shinyanga Region",
+  "category": "underwater-rooms",
+  "score": 5,
+  "evidence": {
+   "status": 200,
+   "url": "https://submarinehotelsltd.co.tz/",
+   "title": "Submarine Hotels LTD",
+   "description": "Welcome to Submarine Hotels, your premier destination for luxury stays in Tanzania. Enjoy elegant rooms, fine dining, and world-class hospitality in the heart of the city.",
+   "keyword": null,
+   "snippet": null
+  },
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
+ },
  "osm:node/4556017175": {
   "id": "osm:node/4556017175",
   "name": "El Farol",
@@ -20892,6 +21030,34 @@
    "no category evidence on official website"
   ]
  },
+ "osm:node/4591539189": {
+  "id": "osm:node/4591539189",
+  "name": "Submarine hotel",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": -3.8287874,
+  "lng": 32.6070642,
+  "website": null,
+  "wikidata": null,
+  "country": "Tanzania",
+  "city": "Kahama",
+  "osm": {
+   "tourism": "hotel"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "region": "Shinyanga Region",
+  "category": "underwater-rooms",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
+ },
  "osm:node/4598283910": {
   "id": "osm:node/4598283910",
   "name": "Treehouse Patagonia",
@@ -21007,6 +21173,38 @@
   "category": "bubble-hotels",
   "score": 4,
   "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
+ },
+ "osm:node/4619901232": {
+  "id": "osm:node/4619901232",
+  "name": "Submarine @ Central Market",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 3.1456802,
+  "lng": 101.6961285,
+  "website": "http://www.submarinehotels.com/",
+  "wikidata": null,
+  "country": "Malaysia",
+  "city": "Kuala Lumpur",
+  "osm": {
+   "tourism": "guest_house"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "region": null,
+  "category": "underwater-rooms",
+  "score": 4,
+  "evidence": {
+   "status": 0,
+   "keyword": null,
+   "snippet": null
+  },
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
@@ -21267,7 +21465,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Scotland",
@@ -21278,12 +21476,11 @@
    "url": "https://www.lighthousehotel.co.uk/",
    "title": "Home | Corsewall Lighthouse Hotel and Restaurant",
    "description": "Experience a luxury stay at Corsewall Lighthouse Hotel — a unique working lighthouse hotel on Scotland’s wild coast with sea views, exceptional dining, peaceful escapes and historic charm.",
-   "keyword": "Lighthouse Hotel and Restaurant Experience a luxury stay",
-   "snippet": "Home | Corsewall Lighthouse Hotel and Restaurant Experience a luxury stay at Corsewall Lighthouse Hotel — a unique working lighthouse hotel on Scotland’s wild coast with sea views, exceptional dining, peaceful escapes and historic charm.  --> Home | Corsewall Lighthouse Hotel and Restaurant ._internalContainerRoot_1xyyz_1{position:relative;width:100%;height:100%;--"
+   "keyword": "working lighthouse",
+   "snippet": "Home | Corsewall Lighthouse Hotel and Restaurant Experience a luxury stay at Corsewall Lighthouse Hotel — a unique working lighthouse hotel on Scotland’s wild coast with sea views, exceptional dining, peaceful escapes and historic charm.  --> Home | Corsewall Lighthouse Hotel and Restaurant ._internalContainerRoot_1xyyz_1{position:relative;width:100%;height:100%;--borderTopWidth: 0px;--borderTopStyle: solid;--borderTopColor: transparent;--borderInlineEndWidth:"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/4697252070": {
   "id": "osm:node/4697252070",
@@ -21850,7 +22047,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Oregon",
@@ -21865,8 +22062,7 @@
    "snippet": "odations at Treehouse Paradise Experience luxury and adventure at our treehouse resort. Book your dream treehouse vacation today and escape to nature&#x27;s beauty.  Treehouse vacations: Stay in Unique Accommodations at Treehouse Paradise HOME RATES TREEHOUSES CONTACT US EVENTS ABOUT ACTIVITIES THINGS TO DO AREA ATTRACTIONS winter nesting packages TESTIMONIALS More HOME RATES TREEHOUSES CONTACT US EVENTS ABOUT ACTIVITIES THINGS TO DO AREA ATTRACTIONS winter nesting packages TESTIMONIALS BOOK NOW HOME RATES TREEHOUSES CONTACT US EVENTS ABOUT ACTIVITIES THINGS TO DO AREA ATTRACTIONS winter nesti"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/4867950021": {
   "id": "osm:node/4867950021",
@@ -22683,15 +22879,23 @@
   "lng": -79.5908689,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Ecuador",
+  "city": "Milagro",
   "osm": {
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Guayas",
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5187607845": {
   "id": "osm:node/5187607845",
@@ -22703,15 +22907,23 @@
   "lng": 95.8481997,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "India",
+  "city": "Kronli (Arzoo circle)",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Arunachal Pradesh",
+  "category": "ice-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5194050852": {
   "id": "osm:node/5194050852",
@@ -22723,15 +22935,58 @@
   "lng": -64.3033969,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Argentina",
+  "city": "Santa Rosa",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "La Pampa",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
+ },
+ "osm:node/5198258491": {
+  "id": "osm:node/5198258491",
+  "name": "Yellow Submarine",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 51.2250629,
+  "lng": 4.4052564,
+  "website": "https://www.yellowsubmarine.be/bedandbreakfast.html",
+  "wikidata": null,
+  "country": "Belgium",
+  "city": "Antwerp",
+  "osm": {
+   "tourism": "guest_house"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "region": "Antwerp",
+  "category": "underwater-rooms",
+  "score": 4,
+  "evidence": {
+   "status": 404,
+   "url": "https://www.yellowsubmarine.be/bedandbreakfast.html",
+   "title": "YS |",
+   "description": "Yellow Submarine is een reclamebureau te Antwerpen gelegen aan het Falconplein, gespecialiseerd in communicatie, media en grafisch ontwerp.",
+   "keyword": null,
+   "snippet": null
+  },
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5198661677": {
   "id": "osm:node/5198661677",
@@ -22743,15 +22998,23 @@
   "lng": -6.4403898,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Spain",
+  "city": "Chipiona",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Andalusia",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5218380240": {
   "id": "osm:node/5218380240",
@@ -22763,15 +23026,23 @@
   "lng": 35.1187411,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Kenya",
+  "city": "Sinyerere ward",
   "osm": {
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Trans-Nzoia County",
+  "category": "treehouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5232529960": {
   "id": "osm:node/5232529960",
@@ -22783,15 +23054,23 @@
   "lng": 99.9543079,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Thailand",
+  "city": "Hua Hin City Municipality",
   "osm": {
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": null,
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5242842704": {
   "id": "osm:node/5242842704",
@@ -22803,15 +23082,20 @@
   "lng": 80.1848739,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "India",
+  "city": "Chennai",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Tamil Nadu",
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ],
+  "checkedAt": "2026-09-29"
  },
  "osm:node/5244801906": {
   "id": "osm:node/5244801906",
@@ -22853,15 +23137,23 @@
   "lng": 15.9361405,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Bosnia and Herzegovina",
+  "city": "City of Bihać",
   "osm": {
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Federation of Bosnia and Herzegovina",
+  "category": "treehouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5254954830": {
   "id": "osm:node/5254954830",
@@ -22873,15 +23165,23 @@
   "lng": -75.6102074,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Colombia",
+  "city": "Santa Rosa de Cabal",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Risaralda",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/527358244": {
   "id": "osm:node/527358244",
@@ -22928,15 +23228,23 @@
   "lng": 123.7240876,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Philippines",
+  "city": "Legazpi",
   "osm": {
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Albay",
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5301352992": {
   "id": "osm:node/5301352992",
@@ -22948,15 +23256,23 @@
   "lng": -56.4470733,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Paraguay",
+  "city": "San Pedro",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "San Pedro",
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5305279776": {
   "id": "osm:node/5305279776",
@@ -22968,15 +23284,23 @@
   "lng": 1.2662046,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Togo",
+  "city": "Lomé",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Maritime Region",
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5315270775": {
   "id": "osm:node/5315270775",
@@ -22988,15 +23312,23 @@
   "lng": -48.8187191,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Brazil",
+  "city": "Laguna",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Santa Catarina",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5323974917": {
   "id": "osm:node/5323974917",
@@ -23008,15 +23340,23 @@
   "lng": -48.8178873,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Brazil",
+  "city": "Laguna",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Santa Catarina",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5323975554": {
   "id": "osm:node/5323975554",
@@ -23028,15 +23368,23 @@
   "lng": -48.8166123,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Brazil",
+  "city": "Laguna",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Santa Catarina",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5331535572": {
   "id": "osm:node/5331535572",
@@ -23048,15 +23396,23 @@
   "lng": 29.6457384,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Rwanda",
+  "city": "Musanze District",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Northern Province",
+  "category": "ice-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/540032961": {
   "id": "osm:node/540032961",
@@ -23236,16 +23592,24 @@
   "lng": -61.633742,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Trinidad and Tobago",
+  "city": "Siparia",
   "osm": {
    "tourism": "viewpoint",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Siparia",
+  "category": "lighthouse-hotels",
+  "score": 3,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "not tagged as accommodation"
+  ]
  },
  "osm:node/5449806527": {
   "id": "osm:node/5449806527",
@@ -23257,15 +23621,23 @@
   "lng": 122.1314241,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Philippines",
+  "city": "Santa Cruz",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Marinduque",
+  "category": "treehouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5465816921": {
   "id": "osm:node/5465816921",
@@ -23277,15 +23649,23 @@
   "lng": -97.6799292,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Mexico",
+  "city": "Libres",
   "osm": {
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Puebla",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5473210839": {
   "id": "osm:node/5473210839",
@@ -23297,15 +23677,23 @@
   "lng": -57.9416236,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Argentina",
+  "city": "La Plata",
   "osm": {
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Buenos Aires",
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5490871529": {
   "id": "osm:node/5490871529",
@@ -23317,15 +23705,23 @@
   "lng": 102.3239936,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Thailand",
+  "city": "Ko Chang District",
   "osm": {
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": null,
+  "category": "treehouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5492732929": {
   "id": "osm:node/5492732929",
@@ -23337,16 +23733,24 @@
   "lng": 120.0038849,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Philippines",
+  "city": "Alaminos",
   "osm": {
    "tourism": "yes",
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Pangasinan",
+  "category": "lighthouse-hotels",
+  "score": 3,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "not tagged as accommodation"
+  ]
  },
  "osm:node/5496390237": {
   "id": "osm:node/5496390237",
@@ -23358,15 +23762,23 @@
   "lng": -67.3792879,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Canada",
+  "city": "Baie-Trinité",
   "osm": {
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Quebec",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5517768818": {
   "id": "osm:node/5517768818",
@@ -23378,15 +23790,23 @@
   "lng": 99.9704463,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Thailand",
+  "city": "Ko Pha-ngan District",
   "osm": {
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": null,
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5527755711": {
   "id": "osm:node/5527755711",
@@ -23398,15 +23818,23 @@
   "lng": 153.6133304,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Australia",
+  "city": "New South Wales",
   "osm": {
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "New South Wales",
+  "category": "treehouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5533455520": {
   "id": "osm:node/5533455520",
@@ -23418,15 +23846,23 @@
   "lng": 26.1715039,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Romania",
+  "city": "Buzău",
   "osm": {
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": null,
+  "category": "bubble-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5543949528": {
   "id": "osm:node/5543949528",
@@ -23438,15 +23874,20 @@
   "lng": -66.2201625,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Argentina",
+  "city": "Potrero de los Funes",
   "osm": {
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "San Luis",
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ],
+  "checkedAt": "2026-09-29"
  },
  "osm:node/5577322412": {
   "id": "osm:node/5577322412",
@@ -23490,15 +23931,23 @@
   "lng": 124.7081079,
   "website": null,
   "wikidata": null,
-  "country": null,
+  "country": "Philippines",
   "city": "Mambajao",
   "osm": {
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Camiguin",
+  "category": "treehouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/558686562": {
   "id": "osm:node/558686562",
@@ -23541,15 +23990,23 @@
   "lng": 24.4142884,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Ukraine",
+  "city": "Nadvirna Raion",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Ivano-Frankivsk Oblast",
+  "category": "ice-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5603397770": {
   "id": "osm:node/5603397770",
@@ -23561,15 +24018,23 @@
   "lng": -71.1774132,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Argentina",
+  "city": "Villa Pehuenia",
   "osm": {
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Neuquén",
+  "category": "lighthouse-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/561245418": {
   "id": "osm:node/561245418",
@@ -23616,15 +24081,23 @@
   "lng": 38.9086161,
   "website": null,
   "wikidata": null,
-  "country": null,
-  "city": null,
+  "country": "Tanzania",
+  "city": "Pwani Region",
   "osm": {
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "region": "Pwani Region",
+  "category": "ice-hotels",
+  "score": 4,
+  "evidence": null,
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/5628630222": {
   "id": "osm:node/5628630222",
@@ -23663,7 +24136,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Bavaria",
@@ -23675,11 +24148,10 @@
    "title": "Baumhaushotel Seemühle in Gräfendorf - Luxus in der Natur",
    "description": "Übernachten Sie im einmaligen Baumhaushotel Seemühle im Spessart, mitten in Deutschland. Wir bieten am Rande von Gräfendorf Luxus in der Natur.",
    "keyword": "Baumhaus",
-   "snippet": "Baumhaushotel Seemühle in Gräfendorf - Luxus in der Natur Übernachten Sie im einmaligen Baumhaushotel Seemühle im Spessart, mitten in Deutschland. Wir bieten am Rande von Gräfendorf Luxus in der Natur.  Baumhaushotel Seemühle in Gräfendorf - Luxus in der Natur Das Baumhaushotel Das Baumhaushotel Seemühle bietet viel Natur und Ruhe, Luxus-Baumhäuser"
+   "snippet": "heiten Meet Greet Sternenhimmel Only Adult Hunde u.a. Tiere Rauchen Wohnen Übernachten Genießen Sie zu Zweit den Aufenthalt in einem unserer Luxus-Baumhäuser, Natur, Ruhe und Wellness. Wir haben das passende Angebot für Sie beide. Frühstücken Sie im Baumhaus in luftiger Höhe und starten dann in einen Tag voller Zweisamkeit. Alle Baumhäuser Stadl Chalet Studio Cottage Lodge Chateau Refugio Casa Cabin Castell Appartements 3 Luxus-Ateliers Schäferwagen Fuchsbau Preise Events Ob alleine, zu zweit oder in der Gruppe – genießen Sie ein unvergessliches Abenteuer in unserem Baumhaus-Resort! Wir freuen"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/5657432788": {
   "id": "osm:node/5657432788",
@@ -25760,7 +26232,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Thanh Hóa Province",
@@ -25775,8 +26247,7 @@
    "snippet": "/House on Stilt Tree Houses Bungalows The Nest Family Room UNIQUE EXPERIENCES Tours Cooking Class Yoga Retreat Appointment GALLERY Overview the area CONNECT Meet the owner Meet the Staff Menu Overview Pu Luong Nature Reserve and its people READ MORE Treehouses The Pu Luong Treehouse s namesake and vision that inspired the lodge, these structures are thoroughly modern in their design but constructed using traditional materials and methods by a master Vietnamese bamboo builder. READ MORE Bungalows Built entirely from stone found on the property and local bamboo, these thatch roofed bungalows are"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/6463717518": {
   "id": "osm:node/6463717518",
@@ -26136,7 +26607,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Baden-Württemberg",
@@ -26148,11 +26619,10 @@
    "title": "Baumhaushotel OaseWeil | Veranstaltungshalle | Ayurveda",
    "description": "Ankommen in der OaseWeil, das Baumhaushotel OaseWeil genießen und in der Veranstaltungshalle Wissen tanken. Eingebettet in der Natur.",
    "keyword": "Baumhaus",
-   "snippet": "Baumhaushotel OaseWeil | Veranstaltungshalle | Ayurveda Ankommen in der OaseWeil, das Baumhaushotel OaseWeil genießen und in der Veranstaltungshalle Wissen tanken. Eingebettet in der Natur.  Baumhaushotel OaseWeil | Veranstaltungshalle | Ayurveda -- End of the comment --> +49 7157 66985-0 info@oaseweil.de OaseWeil Newsletter anmelden Die Römer ware"
+   "snippet": "schäftliche Veranstaltungen aller Art inmitten dieser wunderbaren Natur zur Verfügung steht. Es eröffnen sich im sprichwörtlichen Sinne neue Lebensräume und hier finden Sie die Balance zwischen Erlebnis und Entspannung. Nach Lust und Laune ist unser Baumhaus-Dorf der ideale Ausgangspunkt für vielfältige Aktivitäten in der näheren und weiteren Umgebung wie Reiten, Golfen, Falknerei besuchen, Lagerverkauf berühmter Marken nutzen, Thermalbad genießen, E-Bike mieten und die Umgebung erkunden, eine individuell geführte Tour durch den Naturpark Schönbuch buchen, oder ein Ort zum Erholen und Genießen"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/6557143687": {
   "id": "osm:node/6557143687",
@@ -26621,7 +27091,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Rhineland-Palatinate",
@@ -26636,8 +27106,7 @@
    "snippet": "Baumhaus Sankt Martin - Modernes Ferienhaus bei Neustadt in der Pfalz Baumhaushotel und Ferienwohnung in Sankt Martin bei Neustadt an der Weinstraße in der wunderschönen Pfalz - Der besondere Urlaub unter Bäumen  Baumhaus Sankt Martin - Modernes Ferienhaus bei Neustadt in der Pfalz Zum Inhalt springen WILLKOMMEN STORY BAUMHAUS IMPRESSIONEN PREISE I"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/6788860985": {
   "id": "osm:node/6788860985",
@@ -28464,7 +28933,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Grand Est",
@@ -28479,8 +28948,7 @@
    "snippet": "Nos bons cadeaux - Les Cabanes perchées du Grand Ballon Buy online the vouchers proposed by Les Cabanes perchées du Grand Ballon.  Nos bons cadeaux - Les Cabanes perchées du Grand Ballon Javascript n'est pas activé sur votre navigateur. Pour voir l'ensemble du contenu de cette page, veuillez modifier la configuration de votre navigateur. Nous découvrir Nous découvrir Nos"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/7873812993": {
   "id": "osm:node/7873812993",
@@ -29021,23 +29489,24 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "treehouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.treehouse.sk/treehouse/treehouse-i/",
    "title": "Treehouse I. | Trenčianske Teplice | Domček v korunách",
    "description": "Treehouse I. - Ponúka útulné ubytovanie v lese s manželskou a poschodovou posteľou, terasou a suchým WC. Ideálne pre rodiny milujúce prírodu.",
-   "keyword": "treehouses",
-   "snippet": "ate .wpbs-form-field-input ); setTimeout(() = { if (endDateDiv.textContent) { console.log( teraz áno ); const newDate = addOneDay(endDateDiv.textContent); endDateDiv.textContent = newDate; } }, 100); }); } /script Sledujte nás na sociálnych sieťach #treehousesk Ubytovanie Treehouse Darčekové poukazy Informácie O nás Aktivity FAQ Cenník Ubytovanie Právne informácie Ochrana osobných údajov Obchodné podmienky Rezervácie +421 911 520 650 rezervacie@treehouse.sk Kontakt Treehouse Family s.r.o. info@treehouse.sk Ubytovanie Treehouse Dar ekov poukazy Inform cie O n s Aktivity FAQ Cenn k Ubytovanie Pr"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/8296687082": {
   "id": "osm:node/8296687082",
@@ -29055,23 +29524,24 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "treehouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.treehouse.sk/treehouse/treehouse-ii/",
    "title": "Treehouse II. | Trenčianske Teplice | Domček v korunách",
    "description": "Treehouse II. - Preskúmate večer s deťmi okolie domčeka s baterkami, alebo si vychutnajte romantiku pri svetle sviečok s pohárikom vínka.",
-   "keyword": "treehouses",
-   "snippet": "ate .wpbs-form-field-input ); setTimeout(() = { if (endDateDiv.textContent) { console.log( teraz áno ); const newDate = addOneDay(endDateDiv.textContent); endDateDiv.textContent = newDate; } }, 100); }); } /script Sledujte nás na sociálnych sieťach #treehousesk Ubytovanie Treehouse Darčekové poukazy Informácie O nás Aktivity FAQ Cenník Ubytovanie Právne informácie Ochrana osobných údajov Obchodné podmienky Rezervácie +421 911 520 650 rezervacie@treehouse.sk Kontakt Treehouse Family s.r.o. info@treehouse.sk Ubytovanie Treehouse Dar ekov poukazy Inform cie O n s Aktivity FAQ Cenn k Ubytovanie Pr"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:node/8299642156": {
   "id": "osm:node/8299642156",
@@ -29832,7 +30302,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "New South Wales",
@@ -29843,12 +30313,13 @@
    "url": "https://www.airbnb.com.au/rooms/39352031",
    "title": "Scotts Lighthouse - Luxury stay &amp; 270 degree views - Houses for Rent in Scotts Head, New South Wales, Australia - Airbnb",
    "description": "29 Sept 2026 · Entire home · Scotts Lighthouse is a luxury headland stay with views from every room. Huge architecturally designed timber decks on both sides of the house mean ...",
-   "keyword": "Lighthouse - Luxury stay",
-   "snippet": "Scotts Lighthouse - Luxury stay &amp; 270 degree views - Houses for Rent in Scotts Head, New South Wales, Australia - Airbnb 29 Sept 2026 · Entire home · Scotts Lighthouse is a luxury headland stay with views from every room. Huge architecturally designed timber decks on both sides of the house mean ...  Scotts Lighthouse - Luxury stay 270 degree views -"
+   "keyword": "2026 · Entire home · Scotts Lighthouse",
+   "snippet": "Scotts Lighthouse - Luxury stay &amp; 270 degree views - Houses for Rent in Scotts Head, New South Wales, Australia - Airbnb 29 Sept 2026 · Entire home · Scotts Lighthouse is a luxury headland stay with views from every room. Huge architecturally designed timber decks on both sides of the house mean ...  Scotts Lighthouse - Luxury stay 270 degree views - Houses for Rent in Scotts Head, New South Wales, Australia - Airbnb Skip to content We’re sorry, some parts of the Airbnb webs"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:node/897081221": {
   "id": "osm:node/897081221",
@@ -30338,7 +30809,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "British Columbia",
@@ -30353,8 +30824,9 @@
    "snippet": "Lighthouse Motel | Come explore all that Qualicum Bay has to offer We&#039;re surrounded by adventure. Come stay at Lighthouse Motel located near mountain biking trails, year-round golf, oyster fishing, and more. Affordable nightly rates. Be sure to check our availability to find the perfect time for your stay. We can&#039;t wait to see you.  Lighthouse Motel | Come explore all that Qualicum Bay has to offer Home About Our rooms Adventures Contact Select"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:node/9111505799": {
   "id": "osm:node/9111505799",
@@ -31450,7 +31922,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -31461,12 +31933,11 @@
    "url": "https://www.nationaltrust.org.uk/holidays/northumberland-north-east/lighthouse-keepers-cottage-2",
    "title": "Lighthouse Keeper&#x27;s Cottage 2 Tyne and Wear | National Trust",
    "description": "A cliff-top cottage perching in the shadows of the iconic red and white Souter Lighthouse.",
-   "keyword": "rooms 2 Acorn rating 3 What s this? Number of dogs welcome 2 Reference 017003 Lighthouse",
-   "snippet": "mber of nights selected. If your chosen date does not show a price, please select a different number of nights from the drop-down box. A cliff-top cottage perching in the shadows of the iconic red and white Souter Lighthouse. At a glance Guests 4 Bedrooms 2 Acorn rating 3 What s this? Number of dogs welcome 2 Reference 017003 Lighthouse Keeper’s Cottage 2 is a cosy seafront house at the end of the iconic red and white Souter Lighthouse . It was built in 1871 to ward ships from the dangerous rocks at Whitburn Steel, and this two-bedroom cottage would have housed the former keeper and his family"
+   "keyword": "Lighthouse Keeper",
+   "snippet": "Lighthouse Keeper&#x27;s Cottage 2 Tyne and Wear | National Trust A cliff-top cottage perching in the shadows of the iconic red and white Souter Lighthouse.  Lighthouse Keeper s Cottage 2 Tyne and Wear | National Trust Focus Reset Skip to content Search My Account Donate Visit Discover learn Our cause Membership Support us Holidays Shop Visit Disco"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/9659474034": {
   "id": "osm:node/9659474034",
@@ -31484,7 +31955,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -31495,12 +31966,11 @@
    "url": "https://www.nationaltrust.org.uk/holidays/northumberland-north-east/lighthouse-keepers-cottage-1",
    "title": "Lighthouse Keeper&#x27;s Cottage 1 Tyne and Wear | National Trust",
    "description": "As part of the lighthouse, you’ll be a stone’s throw from the Sunderland coast.",
-   "keyword": "holiday cottages, from lighthouse",
-   "snippet": "ake, some cleaning supplies to get you started and bed linen and towels, unless otherwise stated on the webpage or your booking confirmation email. Read the full inventory to find out more. Find more cottages Explore the full range of National Trust holiday cottages, from lighthouses and farmhouses to thatched cottages and cabins. Search for your holiday Sign up to hear more from the National Trust Subscribe By sharing your email address you’re agreeing to receive marketing emails from the National Trust and confirm you’re 18 years old or over. Please see our Privacy policy for more informatio"
+   "keyword": "Lighthouse Keeper",
+   "snippet": "Lighthouse Keeper&#x27;s Cottage 1 Tyne and Wear | National Trust As part of the lighthouse, you’ll be a stone’s throw from the Sunderland coast.  Lighthouse Keeper s Cottage 1 Tyne and Wear | National Trust Focus Reset Skip to content Search My Account Donate Visit Discover learn Our cause Membership Support us Holidays Shop Visit Discover learn O"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/9664629061": {
   "id": "osm:node/9664629061",
@@ -31871,7 +32341,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Occitania",
@@ -31886,8 +32356,7 @@
    "snippet": "Nid&#039;en&#039;Ô - Cabanes dans les arbres en Occitanie Lot, Périgord Séjour insolite dans le Lot au cœur du Périgord Noir à Nid’en’Ô : 5 cabanes perchées avec spa privatif et tout confort. 2 cabanes accessibles PMR. Idéal pour escapade nature en amoureux ou en famille. Animaux acceptés.  Nid en Ô - Cabanes dans les arbres en Occitanie Lot, Périgord --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> --> Rése"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:node/9875948263": {
   "id": "osm:node/9875948263",
@@ -32852,7 +33321,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lower Austria",
@@ -32867,8 +33336,7 @@
    "snippet": "mp; buchen.  edelførst Baumhäuser Schrems EDELFØRST BAUMHÄUSER EDELFØRST BAUMHÄUSER Zu Gast bei Mutter Natur im Waldviertel Genieße die perfekte Kombination aus stilvoller Architektur und der Ursprünglichkeit des Waldes mit der Übernachtung in einem Baumhaus. Gegen den Alltagsstress ist ein ganzer Wald gewachsen Was früher ein Steinbruch für den Granitabbau war, ist heute ein geschützter Rückzugsort – exklusiv für unsere Gäste. Umgeben vom Naturpark Schrems bietet dir unser privater Wald Raum für Entschleunigung, Stille und das achtsame Erleben der Natur – ideal für Waldbaden, auch bekannt als"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:relation/7919573": {
   "id": "osm:relation/7919573",
@@ -33474,7 +33942,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -33489,8 +33957,9 @@
    "snippet": "ouse Marina Resort | Central Luzon The Lighthouse Marina Resort is beacon that steers boats to shore, this magnificent establishment on the Subic Bay waterfront can serve as a venue that beckons travelers seeking world-class comfort  --> Hotel | The Lighthouse Marina Resort | Central Luzon top of page Home Rooms Rates Dining Experience Our Legacy The Foundation Sustainable Tourism Movement for Change Legacy Store Our Stories Careers Contact More Use tab to navigate through the menu items. THE LIGHTHOUSE Like a beacon that steers boats to shore, this magnificent establishment on the Subic Bay w"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/1032703737": {
   "id": "osm:way/1032703737",
@@ -33967,7 +34436,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Schleswig-Holstein",
@@ -33979,11 +34448,10 @@
    "title": "Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️",
    "description": "Das Ostsee Baumhaushotel: Übernachten im Baumhaus in Schleswig-Holstein ✓ Mit Sauna, Whirlpool &amp;amp; Blick ins Grüne ✓ Jetzt deine Auszeit im Baumhaus buchen! ☀️",
    "keyword": "Baumhaus",
-   "snippet": "Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ Das Ostsee Baumhaushotel: Übernachten im Baumhaus in Schleswig-Holstein ✓ Mit Sauna, Whirlpool &amp;amp; Blick ins Grüne ✓ Jetzt deine Auszeit im Baumhaus buchen! ☀️  Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ --> Zum Inhalt springen Zur Hauptnavigation springen Baumhaushotel Hä"
+   "snippet": "Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ Das Ostsee Baumhaushotel: Übernachten im Baumhaus in Schleswig-Holstein ✓ Mit Sauna, Whirlpool &amp;amp; Blick ins Grüne ✓ Jetzt deine Auszeit im Baumhaus buchen! ☀️  Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ --> Zum Inhalt springen Zur Hauptnavigation springen Baumhaushotel Häufige Fragen Google Bewertungen Kontakt / Anreise Newsletter Unser Konzept Unsere Philosophie Ausf"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/1075267870": {
   "id": "osm:way/1075267870",
@@ -34121,7 +34589,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Western Cape",
@@ -34136,8 +34604,9 @@
    "snippet": "ing&quot;, where guests become like family.  Home - Lighthouse Farm Backpackers Lodge Lighthouse Farm Backpackers Lodge: Int +27 82 744 2504 or Local 082 744 2504 Landline: 021 447 9165 Search Primary Menu Skip to content Home Book Now Safely Online Accommodation Facilities Directions Bookings Contact Us Privacy Policy Meet The Team Lighthouse Blog Book Tours Oude Molen Eco Village Search for: Home The Lighthouse Farm Lodge Backpackers is situated in the : Oude Molen Eco Village A Beautiful site on the last remaining farmland in Central Cape Town. Enjoy a taste of farm style living, with open"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/1088792027": {
   "id": "osm:way/1088792027",
@@ -34195,7 +34664,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -34210,8 +34679,7 @@
    "snippet": "Malting Farm, Essex | Luxury Cabin &amp; Treehouse Holidays Escape to Malting Farm! Luxury holiday cabins, treehouses and glamping bell-tents nestled around a meadow in the heart of the Essex countryside.  Malting Farm, Essex | Luxury Cabin Treehouse Holidays Book now Stay With Us Cabins Book now Glamping Book now Treehouse Coming soon Our Policies Children All ages welcome. Pets Sorry, no pets. Smoking Strictly no smoking. Accepted Payment Methods Visa"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/1101830569": {
   "id": "osm:way/1101830569",
@@ -34395,7 +34863,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "New South Wales",
@@ -34406,12 +34874,11 @@
    "url": "https://reflectionsholidays.com.au/unique-stays/norah-head-lighthouse/accommodation/?from=2024-06-19&to=2024-06-21&adults=2",
    "title": "Accommodation Options | Norah Head Lighthouse &amp; Cottages | Reflections Holidays",
    "description": "Stay at Norah Head Lighthouse Cottages for a blend of history, stunning views, and coastal adventure. Perfect for families and couples. Book your escape now!",
-   "keyword": "Accommodation Options | Norah Head Lighthouse",
-   "snippet": "Accommodation Options | Norah Head Lighthouse &amp; Cottages | Reflections Holidays Stay at Norah Head Lighthouse Cottages for a blend of history, stunning views, and coastal adventure. Perfect for families and couples. Book your escape now!  Accommodation Options | Norah Head Lighthouse Cottages | Reflections Holidays Skip to: Home Content Footer"
+   "keyword": "Keepers Quarters",
+   "snippet": "aters All accommodation Edit All accommodation Wilderluxe glamping Campsites Cabins Holiday homes Tiny homes Glamping tents Who s coming? Select Adults Kids Infants Dogs Reset guests Search Norah Head / Accommodation Not dog friendly Head Lighthouse Keepers Quarters 9 guests 3 bedrooms 1 bathroom Not dog friendly Assistant Lighthouse Keepers Quarters 9 guests 3 bedrooms 1 bathroom Amenities Accessible Waterfront Not dog-friendly Kiosk (office) Amenity block/s Reflections Norah Head Lighthouse Cottages reviews 4.7/5 39 reviews See all reviews An amazing and unique holiday. Great position and vi"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/112229854": {
   "id": "osm:way/112229854",
@@ -34927,7 +35394,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Michigan",
@@ -34942,8 +35409,9 @@
    "snippet": "ift shop, or in the pilothouse. A groundskeeper, who lives on the premises and is employed by the county is responsible for grounds maintenance and scheduling use of the facilities for various social events. It is not the responsibility of the Guest Lighthouse Keeper to do this or clean restrooms. Tours of duty range from two to four weeks and run from Monday to Monday. The lighthouse museum, gift shop, Glawe School and Calcite Pilot House are operated and maintained by the 40 Mile Point Lighthouse Society and are open to the public Memorial Day Weekend to Mid-October, Tuesday to Saturday 10 a"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/1195187157": {
   "id": "osm:way/1195187157",
@@ -35360,23 +35828,24 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Oregon",
   "category": "lighthouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://lighthouseinn-florence.com/",
    "title": "Welcome &middot; The Lighthouse Inn",
    "description": "Historic family-owned hotel in Florence, Oregon — serving travelers to the Oregon Coast since 1938.",
-   "keyword": "Lighthouse Inn Florence, Oregon Serving the Oregon Coast since 1938 Home Our Rooms",
-   "snippet": "Welcome &middot; The Lighthouse Inn Historic family-owned hotel in Florence, Oregon — serving travelers to the Oregon Coast since 1938.  Welcome The Lighthouse Inn The Lighthouse Inn Florence, Oregon Serving the Oregon Coast since 1938 Home Our Rooms Breakfast Info Policies How to Find Us Things to Do Trails Fun Facts Blackberries Reserve Now Our restaurant provides free, fresh cooked breakfast. Typically the menu includes waffles, homemade biscuits and gravy. We grind our own barley grains to add to the biscuits"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/1219696405": {
   "id": "osm:way/1219696405",
@@ -35496,25 +35965,26 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Achern, Germany",
   "hasWikiImage": false,
   "region": "Baden-Württemberg",
   "category": "ice-hotels",
-  "score": 8,
+  "score": 6,
   "evidence": {
    "status": 200,
    "url": "https://www.twicehotels.de/achern",
    "title": "mightyTwice Hotel Achern | Dein neues Hotel im Schwarzwald",
    "description": "Schwarzwald wir kommen! ♥ Buche jetzt Deinen Hotelaufenthalt im wohl angesagtesten Hotel der Umgebung ►",
-   "keyword": "ice Hotel",
-   "snippet": "mightyTwice Hotel Achern | Dein neues Hotel im Schwarzwald Schwarzwald wir kommen! ♥ Buche jetzt Deinen Hotelaufenthalt im wohl angesagtesten Hotel der Umgebung ►  mightyTwice Hotel Achern | Dein neues Hotel im Schwarzwald --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Zum Inhalt springen Zur Hauptnavigation springen en «Twice Hotel FAQ"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/1227208707": {
   "id": "osm:way/1227208707",
@@ -35708,7 +36178,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "New York",
@@ -35723,8 +36193,9 @@
    "snippet": "eserve your campsite in Marathon, NY.. On-Site Camping Amenities Make the Lighthouse Landing Campground your home away from home. Canoe, Kayak and Tube Rental Rates Our boating rentals include all of the gear you need for your water adventure. Event Rentals The Lighthouse Landing Campground is the perfect spot for company picnics, family vacations and birthday parties. Camping Rates Learn more about our camping rates. Contact Us Reserve your camping space today. Plan Your Next Family Vacation Camp along the Tioughnioga River Learn More We are open year round! We offer a complete selection of o"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/1241117437": {
   "id": "osm:way/1241117437",
@@ -36722,22 +37193,23 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.kosicehotel.sk/",
    "title": "KOŠICE HOTEL",
    "description": "Komfortné ubytovanie, ktoré plne uspokojí aj najnáročnejších hostí. Svojim klientom ponúkame svetlo, priestor, najvyššiu úroveň výbavy, pohodlie a eleganciu.",
-   "keyword": "ICE HOTEL",
-   "snippet": "KOŠICE HOTEL Komfortné ubytovanie, ktoré plne uspokojí aj najnáročnejších hostí. Svojim klientom ponúkame svetlo, priestor, najvyššiu úroveň výbavy, pohodlie a eleganciu.  KOŠICE HOTEL KOŠICE HOTEL Ubytovanie Reštaurácia Podujatia Denné menu Kontakt Online rezervácia Ubytovanie Reštaurácia Podujatia Denné menu Kontakt Online rezervácia sk en Rezervuj"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/1322837048": {
   "id": "osm:way/1322837048",
@@ -37052,7 +37524,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "California",
@@ -37067,8 +37539,9 @@
    "snippet": "London has officially been awarded the Green Key eco-certification—an internationally recognised mark of excellence in sustainable hospitality. Continue Reading View all Stories Good times for all times #treehousehotels https://www.instagram.com/staytreehousesiliconvalley/ https://www.tiktok.com/@treehousehotels https://www.facebook.com/staytreehouse @soula_photography @soula_photography @natecormier_work.life @soula_photography @omalovesfun @stephanieizard @jennofthepho @all_in_represents @staytreehouse @theb0badiaries Let's pass each other Notes First Name Last Name Email Address I agree to"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/1338609056": {
   "id": "osm:way/1338609056",
@@ -37405,7 +37878,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -37420,8 +37893,7 @@
    "snippet": "With A Room Family Nest Facilities & Services Facilities & Services Restaurant Cafe Seminar Room Activities Activities Bike Tour Canoe Palm Forest Boat Tour Chilling Offers Offers Gallery Gallery Contact Us Contact Us Listing Sitemap Listing Sitemap Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation,"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/1356885633": {
   "id": "osm:way/1356885633",
@@ -37679,7 +38151,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "treehouse-hotels",
@@ -37693,8 +38165,7 @@
    "snippet": "SNAS FAMILY CAMPS Map The BLOG Blog Gallery Testimonials Family Fun! Cottage details Camping Details Treehouse details Scroll Where the Adventure Begins! Book Yours! 2026 Reservations are Now Open! Click the pictures below for pictures and details! Treehouses Units that sleep 4, 5, 6 and 7, fire pits, decks with chairs. Some have washrooms, power and mini fridges- see specific tree houses for full details 2 Bedroom Cottages Sleep 4 to 7, Kitchen, bathroom living room. Some are pet friendly and have satellite TV. Check out each cottage for more details. RV Tent Sites Full 30 amp service hook-u"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/138142380": {
   "id": "osm:way/138142380",
@@ -37712,22 +38183,23 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.twicehotels.de/dresden",
    "title": "Hotel Dresden Neustadt | mightyTwice Hotel Dresden",
    "description": "sleep cosy, stay twice! Im coolsten Hotel in Dresden Neustadt ♫ einzigartiges Design ♫ funky beats ► Jetzt entdecken!",
-   "keyword": "ice Hotel",
-   "snippet": "Hotel Dresden Neustadt | mightyTwice Hotel Dresden sleep cosy, stay twice! Im coolsten Hotel in Dresden Neustadt ♫ einzigartiges Design ♫ funky beats ► Jetzt entdecken!  Hotel Dresden Neustadt | mightyTwice Hotel Dresden --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Zum Inhalt springen Zur Hauptnavigation springen en «Twice Hotel Zimmer Frühstück Anfahrt & Par"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/1382880481": {
   "id": "osm:way/1382880481",
@@ -38406,7 +38878,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "South Cotabato",
@@ -38421,8 +38893,7 @@
    "snippet": "Mt. Matutum DomesVille Glamping - Tupi, Philippines - Book Now These eccentric and outstanding camping accommodations are designed to offer the highest level of comfort with less to none impact of any kind on the surrounding environment. Geodesic dome glamping is an ultimate experience, the versatility of these structures allows them to be installed in the most scenic and unlikely locations. From mountain tops, deep in the forest, oceanfront cliffs, in the middle of the dessert, rice field or even snow. Here at DomesVille, these domes were assembled in the  Mt. Matutum DomesVille G"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/146588594": {
   "id": "osm:way/146588594",
@@ -39128,7 +39599,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Thurgau",
@@ -39143,8 +39614,7 @@
    "snippet": "Baumhaus B&amp;B | Die Seele mal Baum-eln lassen   Baumhaus B B | Die Seele mal Baum-eln lassen Home Impressions Things to see and do Booking Received Pricing Contact Booking Booking requests Select Page Baumhaus B B einfach SEIN +++ Please vote for us: here +++ Gruezi ! The Treehouse in Halden is an extraordinary place to stay. The small village o"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/151066342": {
   "id": "osm:way/151066342",
@@ -39802,7 +40272,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Dobrich",
@@ -39813,12 +40283,11 @@
    "url": "https://lighthousegolfresort.com/",
    "title": "Lighthouse Golf &amp; Spa Hotel, Balchik | Top Golf &amp; Spa in Bulgaria",
    "description": "Experience world-class golf, luxurious spa treatments, and stunning sea views at Lighthouse Golf &amp; Spa Hotel in Balchik. Perfect for a relaxing getaway with family-friendly activities.",
-   "keyword": "Stay connected with Lighthouse",
-   "snippet": "ivities.  Lighthouse Golf Spa Hotel, Balchik | Top Golf Spa in Bulgaria --> Special offers Gift boxes Properties for sale +359 52 401 401 Location Facebook Instagram reservations@lighthousegolfresort.com Book now 15° C BG EN Subscribe for Newsletter Stay connected with Lighthouse Golf & Spa to get the inside scoop on our latest promotions, news and exclusive offers. Newsletter signup Mr/Mrs * Mr. Mrs. Name Surname Email * Consent * I agree to the privacy policy. Name This field is for validation purposes and should be left unchanged. Mr. Mr. Mrs. I agree to my personal data being used for the"
+   "keyword": "2025 Lighthouse",
+   "snippet": "t Golf Hotel for 8th consecutive year Golf 14 Nov 2025 One More Escape Before Back-to-School Holidays 21 Aug 2025 Ten Outdoor Activities to Enjoy Food Beverage 08 May 2025 Discover the Hidden Gem of Balchik: Queen’s Winery House Food Beverage 10 Mar 2025 Lighthouse Events Happanings Simming Lessons Fun and engaging swimming lessons for both kids and adults. Sessions are held every Tuesday and Thursday at 18:30, and on Sundays at 14:00 and 15:00. Reservations and payment are made at the SPA reception. Pilates Отпуснете тялото и ума с релаксиращи Pilates тренировки, подходящи за всички нива. Про"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/1540893186": {
   "id": "osm:way/1540893186",
@@ -39856,7 +40325,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "ice-hotels",
@@ -39870,8 +40339,9 @@
    "snippet": "Motorradurlaub &amp; Skiurlaub am Hochkönig – Bike &amp; Snow Lederer Biken &amp; Motorrad Urlaub, Skiurlaub direkt an der Piste: Bike &amp; Snow Hotel Lederer im Salzburger Land ist optimaler Ausgangspunkt oder Zwischenstopp für Motorradtouren &amp; Biker in der Region Hochkönig. Abwechslung im Sommerurlaub ist zudem beim Wandern, Klettern, Mountainbiken, E Biken, Bergsteigen &amp; Baden garantiert. Durch Ski-in Ski-out ist Skifahren direkt an der Piste perfekt. Ganz einfach Urlaub, Bi"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/1550001365": {
   "id": "osm:way/1550001365",
@@ -39963,7 +40433,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Washington",
@@ -39974,12 +40444,11 @@
    "url": "https://www.treehousepoint.com/",
    "title": "Treehouse Point | Discover Nature, Book Your Stay",
    "description": "Experience unique treehouse stays in Washington",
-   "keyword": "treehouse stay",
-   "snippet": "Treehouse Point | Discover Nature, Book Your Stay Experience unique treehouse stays in Washington  Treehouse Point | Discover Nature, Book Your Stay 0 Skip to Content Stay Stay Treehouses Additional Accommodations Amenities The Property Snoqualmie Valley FAQs Events Events Weddings Small Ceremonies Corporate Retreats Special Occasions Tour Shop Gift Blog About Us Book Now Open Menu Close Menu Stay Stay Treehouses A"
+   "keyword": "Treehouses",
+   "snippet": "Treehouse Point | Discover Nature, Book Your Stay Experience unique treehouse stays in Washington  Treehouse Point | Discover Nature, Book Your Stay 0 Skip to Content Stay Stay Treehouses Additional Accommodations Amenities The Property Snoqualmie Valley FAQs Events Events Weddings Small Ceremonies Corporate Retreats Special Occasions Tour Shop Gift Blog About Us Book Now Open Menu Close Menu Stay Stay Treehouses Additional Accommodations Amenities The Property Snoqualmie Valley FAQs Events Events Weddings Small Ceremonie"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/1558262992": {
   "id": "osm:way/1558262992",
@@ -40194,7 +40663,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "lighthouse-hotels",
@@ -40204,12 +40673,11 @@
    "url": "https://stayavilabeachhouse.com/welcome-avila-lighthouse-suites/",
    "title": "Avila Lighthouse Suites is now Avila Beach House",
    "description": "Welcome to Avila Beach House, formerly Avila Lighthouse Suites. Find answers about reservations, gift cards, suite layouts, and what has changed.",
-   "keyword": "Lighthouse Suites",
-   "snippet": "Avila Lighthouse Suites is now Avila Beach House Welcome to Avila Beach House, formerly Avila Lighthouse Suites. Find answers about reservations, gift cards, suite layouts, and what has changed.  Avila Lighthouse Suites is now Avila Beach House Skip to content This website uses cookies. If that's okay with you, keep on browsing, or learn more about our P"
+   "keyword": "formerly Avila Lighthouse",
+   "snippet": "Avila Lighthouse Suites is now Avila Beach House Welcome to Avila Beach House, formerly Avila Lighthouse Suites. Find answers about reservations, gift cards, suite layouts, and what has changed.  Avila Lighthouse Suites is now Avila Beach House Skip to content This website uses cookies. If that's okay with you, keep on browsing, or learn more about our Privacy Policy . Close Cookie Disclosure Notice Avila Beach House - Go Bac"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/159469682": {
   "id": "osm:way/159469682",
@@ -40339,6 +40807,26 @@
   "osm": {
    "tourism": "hotel",
    "stars": "2"
+  },
+  "source": "osm",
+  "status": "new",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29"
+ },
+ "osm:way/166107056": {
+  "id": "osm:way/166107056",
+  "name": "Yellow Submarine",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": -27.4674936,
+  "lng": 153.0127925,
+  "website": null,
+  "wikidata": null,
+  "country": null,
+  "city": null,
+  "osm": {
+   "tourism": "hostel"
   },
   "source": "osm",
   "status": "new",
@@ -41575,7 +42063,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "lighthouse-hotels",
@@ -41585,12 +42073,11 @@
    "url": "https://www.steephill-cove.co.uk/the-lighthouse",
    "title": "The Lighthouse &mdash; Steephill Cove Luxury Self Catering Holiday Properties",
    "description": "A three bedroom house that has real WOW factor. With every room boasting stunning sea and coastal views this property is a perfect holiday retreat by the sea.",
-   "keyword": "Lighthouse &mdash; Steephill Cove Luxury Self Catering Holiday Properties A three bedroom",
-   "snippet": "The Lighthouse &mdash; Steephill Cove Luxury Self Catering Holiday Properties A three bedroom house that has real WOW factor. With every room boasting stunning sea and coastal views this property is a perfect holiday retreat by the sea.  The Lighthouse Steephill Cove Luxury Self Catering Holiday Properties 0 Skip to Content HOME PROPERTIES The Boathous"
+   "keyword": "1694861989723-IT4G6J3ZOCTNVX23Y8WP/the-lighthouse",
+   "snippet": "fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize <img data-src=\"https://images.squarespace-cdn.com/content/v1/6484608661c558034f2d757e/1694861989723-IT4G6J3ZOCTNVX23Y8WP/the-lighthouse-bedroom.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/6484608661c558034f2d757e/1694861989723-IT4G6J3ZOCTNVX23Y8WP/the-lighthouse-bedroom.jpg\" data-image-dimensions=\"1200x800\" data-image-focal-point=\"0.5,0.5\" alt=\"Bedroom with large bay windows showing a sunset view of mountains and"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/210443019": {
   "id": "osm:way/210443019",
@@ -41858,23 +42345,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Southern Province",
   "category": "lighthouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.jetwinghotels.com/jetwinglighthouse/",
    "title": "Luxury Boutique Hotels in Galle | Jetwing Lighthouse",
    "description": "One of the most iconic boutique hotels in Galle, Jetwing Lighthouse sits on a hill with ocean views, near the heritage city, blending luxury and Sri Lankan hospitality.",
-   "keyword": "Lighthouse --> Book Check Rates Menu Home Accommodation",
-   "snippet": "Hotels in Galle | Jetwing Lighthouse One of the most iconic boutique hotels in Galle, Jetwing Lighthouse sits on a hill with ocean views, near the heritage city, blending luxury and Sri Lankan hospitality.  Luxury Boutique Hotels in Galle | Jetwing Lighthouse --> Book Check Rates Menu Home Accommodation Location Dining Special Offers Experiences Weddings Gallery Jetwing Hotels Luxury Reserves Bentota Jetwing Saman Villas (adults only) Galle Jetwing Lighthouse Kandy Jetwing Kandy Gallery Negombo Jetwing Lagoon Wellness (adults only) Nuwara Eliya Jetwing Warwick Gardens Pottuvil Jetwing Surf Sa"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/221764551": {
   "id": "osm:way/221764551",
@@ -41927,7 +42415,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "duplicate",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Schleswig-Holstein",
@@ -41939,11 +42427,13 @@
    "title": "Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️",
    "description": "Das Ostsee Baumhaushotel: Übernachten im Baumhaus in Schleswig-Holstein ✓ Mit Sauna, Whirlpool &amp;amp; Blick ins Grüne ✓ Jetzt deine Auszeit im Baumhaus buchen! ☀️",
    "keyword": "Baumhaus",
-   "snippet": "Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ Das Ostsee Baumhaushotel: Übernachten im Baumhaus in Schleswig-Holstein ✓ Mit Sauna, Whirlpool &amp;amp; Blick ins Grüne ✓ Jetzt deine Auszeit im Baumhaus buchen! ☀️  Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ --> Zum Inhalt springen Zur Hauptnavigation springen Baumhaushotel Hä"
+   "snippet": "Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ Das Ostsee Baumhaushotel: Übernachten im Baumhaus in Schleswig-Holstein ✓ Mit Sauna, Whirlpool &amp;amp; Blick ins Grüne ✓ Jetzt deine Auszeit im Baumhaus buchen! ☀️  Baumhaushotel Ostsee | Auf Höhe der Baumkronen mit SPA☀️ --> Zum Inhalt springen Zur Hauptnavigation springen Baumhaushotel Häufige Fragen Google Bewertungen Kontakt / Anreise Newsletter Unser Konzept Unsere Philosophie Ausf"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "same website as another verified candidate"
+  ],
+  "duplicateOf": "osm:way/1075267869"
  },
  "osm:way/223188415": {
   "id": "osm:way/223188415",
@@ -42996,7 +43486,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse in Southend, Argyll, Scotland",
@@ -43009,12 +43499,13 @@
    "url": "http://lighthousesforsale.co.uk/mull-of-kintyre-lighthouse-buildings/",
    "title": "Mull of Kintyre Lighthouse Buildings | The Lighthouse Bulletin",
    "description": "This page is subject to update and imminent news. Please check back soon for updates. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&amp;#8212…",
-   "keyword": "rently TWO former lighthouse keepers cottage",
-   "snippet": "From The Sea MV Lochmor Sailing Home Mull of Kintyre Lighthouse Buildings, Argyll Photo Courtesy of Chris Downer A really nice selection of photographs from Michael Lindley of the Mull of Kintyre Lighthouse are available via Flickr : Click Here. Currently TWO former lighthouse keepers cottages are available for rent: Hector s House and Harvey s House . Location: Mull of Kintyre Lighthouse Keepers Cottages, Southend, Argyll, PA28 6RU Interesting details about the lighthouse keepers houses for rent: PDF Welcome Pack Click Here Guide: £ Varies contact owners (listed below). Further Details: Clic"
+   "keyword": "8212;&#8212;&amp;#8212…  Mull of Kintyre Lighthouse",
+   "snippet": "Mull of Kintyre Lighthouse Buildings | The Lighthouse Bulletin This page is subject to update and imminent news. Please check back soon for updates. &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&amp;#8212…  Mull of Kintyre Lighthouse Buildings | The Lighthouse Bulletin Skip to primary content The Lighthouse Bulletin A dedicated lighthouse research facility for folk who would like to live or holiday at a lighthouse station. Search Main menu Front Page Sales Lighthouse Buildings For Sale Features Features Drop-Down Menu Communit"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:way/244244727": {
   "id": "osm:way/244244727",
@@ -43611,7 +44102,7 @@
    "man_made": "lighthouse"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "lighthouse on the Hudson River in New York, United States",
@@ -43624,12 +44115,11 @@
    "url": "https://www.saugertieslighthouse.com/",
    "title": "SAUGERTIES LIGHTHOUSE",
    "description": "The Saugerties Lighthouse is an 1869 landmark beacon on the Hudson River that stands proudly as a Living Museum and a renowned Bed &amp; Breakfast. Step back in time over 150 years to experience the charm and rustic simplicity of life in the middle of the river.",
-   "keyword": "LIGHTHOUSE 0 Skip to Content SAUGERTIES LIGHTHOUSE Home Visit Stay Accommodation",
-   "snippet": "is an 1869 landmark beacon on the Hudson River that stands proudly as a Living Museum and a renowned Bed &amp; Breakfast. Step back in time over 150 years to experience the charm and rustic simplicity of life in the middle of the river.  SAUGERTIES LIGHTHOUSE 0 Skip to Content SAUGERTIES LIGHTHOUSE Home Visit Stay Accommodations Rates and Policies Availability Trip Planning Reviews FAQ Learn Overview Museum TOWER History Restoration Keepers Support Conservancy Giving Volunteering Membership Contact DONATE Open Menu Close Menu SAUGERTIES LIGHTHOUSE Home Visit Stay Accommodations Rates and Poli"
+   "keyword": "12477 info@saugertieslighthouse",
+   "snippet": "orm needs a storage option. Edit the block and enter a storage location via the Storage tab. Email Address Sign Up Thank you! SAUGERTIES LIGHTHOUSE SAUGERTIES LIGHTHOUSE SAUGERTIES LIGHTHOUSE SAUGERTIES LIGHTHOUSE 168 Lighthouse Drive Saugerties, NY 12477 info@saugertieslighthouse.com (845) 247-0656 QUICK LINKS Get Hours Directions Overnight Availability Tide Table Become a Member Volunteer FOLLOW DONATE"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/264888761": {
   "id": "osm:way/264888761",
@@ -44856,7 +45346,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -44871,8 +45361,9 @@
    "snippet": "IGLOO HOSTEL Igloo Hostel is proud to be valued as Nottingham  IGLOO HOSTEL IGLOO HOSTEL Home [IGLOO HYBRID & SHED] GROUP BOOKINGS Notts Guest Book Blog Find Us Igloo Hybrid & Shed Contact Team Home / [IGLOO HYBRID & SHED] / GROUP BOOKINGS / Notts / Guest Book / Blog / Find Us / Igloo Hybrid & Shed Contact / Team / Igloo Hostel is proud to be value"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/295323506": {
   "id": "osm:way/295323506",
@@ -45532,6 +46023,26 @@
   "reasons": [
    "not tagged as accommodation"
   ]
+ },
+ "osm:way/320549461": {
+  "id": "osm:way/320549461",
+  "name": "Hostal Yellow Submarine",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 12.3817249,
+  "lng": -87.0445723,
+  "website": null,
+  "wikidata": null,
+  "country": null,
+  "city": null,
+  "osm": {
+   "tourism": "hostel"
+  },
+  "source": "osm",
+  "status": "new",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29"
  },
  "osm:way/321582543": {
   "id": "osm:way/321582543",
@@ -46289,6 +46800,26 @@
    "no category evidence on official website"
   ]
  },
+ "osm:way/338531214": {
+  "id": "osm:way/338531214",
+  "name": "Submarine Annex Hotel",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": -3.8308647,
+  "lng": 32.5964044,
+  "website": null,
+  "wikidata": null,
+  "country": null,
+  "city": "Kahama",
+  "osm": {
+   "tourism": "hotel"
+  },
+  "source": "osm",
+  "status": "new",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29"
+ },
  "osm:way/339414865": {
   "id": "osm:way/339414865",
   "name": "Lighthouse Hotel - Key West Historic Inns",
@@ -46305,7 +46836,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Florida",
@@ -46316,12 +46847,11 @@
    "url": "https://www.keywesthistoricinns.com/the-inns/lighthouse-hotel/",
    "title": "Lighthouse Hotel in Key West | Key West Historic Inns Collection",
    "description": "Stay at Lighthouse Hotel in Key West, steps from the Hemingway Home and Lighthouse, with poolside dining, live music, historic charm, and thoughtful amenities.",
-   "keyword": "Lighthouse Hotel in Key West | Key West Historic Inns Collection Stay",
-   "snippet": "Lighthouse Hotel in Key West | Key West Historic Inns Collection Stay at Lighthouse Hotel in Key West, steps from the Hemingway Home and Lighthouse, with poolside dining, live music, historic charm, and thoughtful amenities.  Lighthouse Hotel in Key West | Key West Historic Inns Collection Skip to main content EXCLUSIVE WEBSITE ONLY OFFER Up to 25%"
+   "keyword": "Historic Inns Collection Stay at Lighthouse",
+   "snippet": "Lighthouse Hotel in Key West | Key West Historic Inns Collection Stay at Lighthouse Hotel in Key West, steps from the Hemingway Home and Lighthouse, with poolside dining, live music, historic charm, and thoughtful amenities.  Lighthouse Hotel in Key West | Key West Historic Inns Collection Skip to main content EXCLUSIVE WEBSITE ONLY OFFER Up to 25% off + perks! VIEW OFFER Menu Close Wins"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/343190497": {
   "id": "osm:way/343190497",
@@ -46609,23 +47139,24 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
   "category": "bubble-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://domegarden.co.uk/",
    "title": "Dome Garden Glamping Village - Luxury glamping holidays",
-   "description": "For 12 years, the Dome Garden Glamping village has lead the way in luxury glamping holidays, voted in the top five luxury camping sites by newspapers, magazines and websites.",
-   "keyword": "geodesic dome",
-   "snippet": "re Night Falls Brighten Up Your Weekends CLICK HERE 2025 Dates Prices Welcome to the Dome Garden The UK s Longest Running Glamping Village Geo-Domes, Magical Rooms and, soon, a Stunning Treehouse Dome Garden is a magical eco-encampment with a mix of geodesic domes, inspiring hotel rooms and now a transformational contemporary treehouse in the heart of the Forest of Dean, just north of Bristol. For 15 years we have lead the way in luxury camping and been voted in the top five luxury campsites or glamping holiday sites by newspapers, magazines and websites all around the world from The Guardian"
+   "description": "",
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/358509216": {
   "id": "osm:way/358509216",
@@ -47512,22 +48043,23 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.bestpricehotel.de/en/hotels/hotel-bestprice-bendorf/",
    "title": "Rheinsteig Quartier - Bestprice Hotels",
    "description": "",
-   "keyword": "ice Hotel",
-   "snippet": "Rheinsteig Quartier - Bestprice Hotels   Rheinsteig Quartier - Bestprice Hotels Homepage Hotels About Us Contact besttime bestprice Hotel Rheinsteig Quartier --> Hotels 1 2 3 Number of guests Check-out date Check-in date Description Rooms Location Information Reviews Rheinsteig Quartier Best value for money in a quiet location Are you looking for a hotel in the quiet outskirt"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/377745265": {
   "id": "osm:way/377745265",
@@ -47741,23 +48273,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.facebook.com/TheRiceHotel/",
    "title": "The Rice Hotel ร้อยเอ็ด | Muang Roi Et",
    "description": "The Rice Hotel &#xe23;&#xe49;&#xe2d;&#xe22;&#xe40;&#xe2d;&#xe47;&#xe14;, Muang Roi Et. 3,923 followers &#xb7; 20 talking about this &#xb7; 8,318 were here. &#xe42;&#xe23;&#xe07;&#xe41;&#xe23;&#xe21; 043-519999",
-   "keyword": "ice Hotel",
-   "snippet": "The Rice Hotel ร้อยเอ็ด | Muang Roi Et The Rice Hotel &#xe23;&#xe49;&#xe2d;&#xe22;&#xe40;&#xe2d;&#xe47;&#xe14;, Muang Roi Et. 3,923 followers &#xb7; 20 talking about this &#xb7; 8,318 were here. &#xe42;&#xe23;&#xe07;&#xe41;&#xe23;&#xe21; 043-519999  The Rice Hotel ร้อยเอ็ด | Muang Roi Et {\"require\":[[\"ScheduledServerJS\",\"handle\",null,[{\"__bbox\":{\"define"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:way/381308209": {
   "id": "osm:way/381308209",
@@ -48283,23 +48816,24 @@
    "tourism": "wilderness_hut"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Canterbury",
   "category": "lighthouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/godley-head/things-to-do/lighthouse-cottage/",
    "title": "Lighthouse Cottage: Awaroa/Godley Head",
    "description": "This is a well-equipped lodge inside of Godley Head Campsite. It has great views up the coastline and sits in an area full of history.",
-   "keyword": "room Image: | DOC Lighthouse Cottage kitchen facilities Image: | DOC Lighthouse",
-   "snippet": "DOC Lighthouse Cottage Located in Awaroa/Godley Head in the Canterbury region This is a well-equipped lodge inside of Godley Head Campsite. It has great views up the coastline and sits in an area full of history. Bookings required Image gallery Bunkroom Image: | DOC Lighthouse Cottage kitchen facilities Image: | DOC Lighthouse Cottage overlooking Awaroa/Godley Head Image: | DOC Facilities This cottage has electric heating, power, table and chairs and a fully equipped kitchen including a fridge and electric stove. Boil water before use. The bunk room consists of a 3-bed platform and a single b"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/402278595": {
   "id": "osm:way/402278595",
@@ -48900,7 +49434,7 @@
    "historic": "lighthouse"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "England",
@@ -48911,12 +49445,11 @@
    "url": "https://www.belletout.co.uk/",
    "title": "Belle Tout Lighthouse B&amp;B - Britain&#039;s Most Dramatic Stay",
    "description": "Escape to the extraordinary at Belle Tout Lighthouse B&amp;B where dramatic skies meet endless sea. An unforgettable experience. Book Now",
-   "keyword": "Lighthouse B&amp;B - Britain&#039;s Most Dramatic Stay",
-   "snippet": "Belle Tout Lighthouse B&amp;B - Britain&#039;s Most Dramatic Stay Escape to the extraordinary at Belle Tout Lighthouse B&amp;B where dramatic skies meet endless sea. An unforgettable experience. Book Now  Belle Tout Lighthouse B B - Britain s Most Dramatic Stay Skip to content Home Accommodation Beachy Head Captains Cabin Keepers Loft South Downs Old England"
+   "keyword": "Lantern Room",
+   "snippet": "amatic skies meet endless sea. An unforgettable experience. Book Now  Belle Tout Lighthouse B B - Britain s Most Dramatic Stay Skip to content Home Accommodation Beachy Head Captains Cabin Keepers Loft South Downs Old England Seven Sisters Breakfast Lantern Room Guest Lounge Room Rates Room Rates for This Year Room Rates for Next Year Bookings Contact Information Accessibility FAQs How to Get Here Where to Eat Beachy Head Seven Sisters History Build a New Life The Story of the Belle Tout Lighthouse Reviews More Reviews Even More Reviews Britain's Most Dramatic Stay Book Now Stay Inside Britain"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/428931097": {
   "id": "osm:way/428931097",
@@ -48969,7 +49502,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "duplicate",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Washington",
@@ -48980,12 +49513,14 @@
    "url": "https://www.treehousepoint.com/",
    "title": "Treehouse Point | Discover Nature, Book Your Stay",
    "description": "Experience unique treehouse stays in Washington",
-   "keyword": "treehouse stay",
-   "snippet": "Treehouse Point | Discover Nature, Book Your Stay Experience unique treehouse stays in Washington  Treehouse Point | Discover Nature, Book Your Stay 0 Skip to Content Stay Stay Treehouses Additional Accommodations Amenities The Property Snoqualmie Valley FAQs Events Events Weddings Small Ceremonies Corporate Retreats Special Occasions Tour Shop Gift Blog About Us Book Now Open Menu Close Menu Stay Stay Treehouses A"
+   "keyword": "Treehouses",
+   "snippet": "Treehouse Point | Discover Nature, Book Your Stay Experience unique treehouse stays in Washington  Treehouse Point | Discover Nature, Book Your Stay 0 Skip to Content Stay Stay Treehouses Additional Accommodations Amenities The Property Snoqualmie Valley FAQs Events Events Weddings Small Ceremonies Corporate Retreats Special Occasions Tour Shop Gift Blog About Us Book Now Open Menu Close Menu Stay Stay Treehouses Additional Accommodations Amenities The Property Snoqualmie Valley FAQs Events Events Weddings Small Ceremonie"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "same website as another verified candidate"
+  ],
+  "duplicateOf": "osm:way/1557218627"
  },
  "osm:way/429896031": {
   "id": "osm:way/429896031",
@@ -49609,7 +50144,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Bavaria",
@@ -49621,11 +50156,10 @@
    "title": "Home - Baumhaushotel",
    "description": "Ruhe. Richtung. Raum. Ein magischer Ort, der neue Kräfte weckt. Jetzt buchen Abenteuer &#038; Entspannung in Oberbayern Willkommen im &#8220;Das Baumhaus Oberbayern&#8221; – euer idyllischer Rückzugsort in Jetzendorf Herzlich willkommen in eurem ganz besonderen Zufluchtsort, versteckt im Herzen Oberbayerns in Jetzendorf, im malerischen Südwesten des Landkreises Pfaffenhofen an der Ilm und nur eine",
    "keyword": "Baumhaus",
-   "snippet": "Home - Baumhaushotel Ruhe. Richtung. Raum. Ein magischer Ort, der neue Kräfte weckt. Jetzt buchen Abenteuer &#038; Entspannung in Oberbayern Willkommen im &#8220;Das Baumhaus Oberbayern&#8221; – euer idyllischer Rückzugsort in Jetzendorf Herzlich willkommen in eurem ganz besonderen Zufluchtsort, versteckt im Herzen Oberbayerns in Jetzendorf, im malerische"
+   "snippet": "Home - Baumhaushotel Ruhe. Richtung. Raum. Ein magischer Ort, der neue Kräfte weckt. Jetzt buchen Abenteuer &#038; Entspannung in Oberbayern Willkommen im &#8220;Das Baumhaus Oberbayern&#8221; – euer idyllischer Rückzugsort in Jetzendorf Herzlich willkommen in eurem ganz besonderen Zufluchtsort, versteckt im Herzen Oberbayerns in Jetzendorf, im malerischen Südwesten des Landkreises Pfaffenhofen an der Ilm und nur eine gemütliche halbe ...  Home - Baumhaushotel Schulstraße 26 | D – 85305 Jetzendorf Tel: +49 (0)"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/46999233": {
   "id": "osm:way/46999233",
@@ -49865,6 +50399,40 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "not tagged as accommodation"
+  ]
+ },
+ "osm:way/487539015": {
+  "id": "osm:way/487539015",
+  "name": "Hausboot Yellow Submarine",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 54.6628026,
+  "lng": 10.0211225,
+  "website": "https://www.ostsee-olpenitz.org/",
+  "wikidata": null,
+  "country": "DE",
+  "city": "Kappeln",
+  "osm": {
+   "tourism": "chalet"
+  },
+  "source": "osm",
+  "status": "weak",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "category": "underwater-rooms",
+  "score": 5,
+  "evidence": {
+   "status": 200,
+   "url": "https://www.ostsee-olpenitz.org/",
+   "title": "Ostsee Resort Olpenitz exclusive Ferienunterkünfte Ostsee",
+   "description": "Ferienunterkünfte im Ostsee Resort Olpenitz direkt und bequem buchen. Übersicht aller buchbaren Ferienwohnungen und Ferienhäusern.",
+   "keyword": null,
+   "snippet": null
+  },
+  "checkedAt": "2026-09-29",
+  "reasons": [
+   "no category evidence on official website"
   ]
  },
  "osm:way/488892711": {
@@ -51035,7 +51603,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "North Rhine-Westphalia",
@@ -51050,8 +51618,7 @@
    "snippet": "HOME   HOME BAUM haus SCHÄFER wagen DAS BESONDERE WOCHENEND- UND FERIENDOMIZIL HOME BAUMHAUS SCHÄFERWAGEN ÜBER UNS BUCHUNG KONTAKT IMPRESSUM | DATENSCHUTZ Herzlich Willkommen in BAUM haus und SCHÄFER wagen Im Naturschutzgebiet Krummauel inmitten der Altarmschleife der Sieg und umgeben von Wald und Feld haben wir zwei außergewöhnliche Wochenend- und Feriendomizile geschaffen, die dazu einladen, Ruhe und Natur entspannt zu genießen"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/556478665": {
   "id": "osm:way/556478665",
@@ -51251,6 +51818,28 @@
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29"
  },
+ "osm:way/585823379": {
+  "id": "osm:way/585823379",
+  "name": "Jules' Undersea Lodge",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 25.1331631,
+  "lng": -80.3985326,
+  "website": "https://www.jul.com/",
+  "wikidata": "Q1413516",
+  "country": "US",
+  "city": "Key Largo",
+  "osm": {
+   "tourism": "hotel"
+  },
+  "source": "osm",
+  "status": "duplicate",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "duplicateOf": "jules-undersea-lodge-florida",
+  "checkedAt": "2026-09-29"
+ },
  "osm:way/58771935": {
   "id": "osm:way/58771935",
   "name": "Ashtree House Hotel",
@@ -51307,7 +51896,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Michigan",
@@ -51322,8 +51911,9 @@
    "snippet": "Lighthouse View Motel - Mackinaw City Motels, Mackinaw City Hotels Lighthouse View Motel is a family owned and operated business offering extremely clean rooms at affordable prices. The best value of all Mackinaw City Motels.  Lighthouse View Motel - Mackinaw City Motels, Mackinaw City Hotels Lighthouse View Motel Lighthouse View Motel Lighthouse View Motel Lighthouse View Motel Lighthouse View Motel Lighthouse Vi"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/598018717": {
   "id": "osm:way/598018717",
@@ -51574,23 +52164,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Hesse",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.twicehotels.de/wiesbaden",
    "title": "tinyTwice Hotel Wiesbaden | Dein Hotel in Wiesbaden-Nordenstadt",
    "description": "Dein super-cosy Hotel in Wiesbaden-Nordenstadt mit dem absoluten Wohlfühlfaktor. ✓ 45 Zimmer ✓ Klimaanlage ✓ super Frühstück » Hier entdecken!",
-   "keyword": "ice Hotel",
-   "snippet": "tinyTwice Hotel Wiesbaden | Dein Hotel in Wiesbaden-Nordenstadt Dein super-cosy Hotel in Wiesbaden-Nordenstadt mit dem absoluten Wohlfühlfaktor. ✓ 45 Zimmer ✓ Klimaanlage ✓ super Frühstück » Hier entdecken!  tinyTwice Hotel Wiesbaden | Dein Hotel in Wiesbaden-Nordenstadt --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Zum Inhalt spring"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/61956192": {
   "id": "osm:way/61956192",
@@ -51935,7 +52526,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
@@ -51950,8 +52541,9 @@
    "snippet": "Lighthouse View Cottage - Self Catering Holiday Rental Castletownbere Escape to the wonderful Beara Peninsula in West Cork and stay at our newly-built self catering cottage by the sea to experience the breath-taking views of Beara  Lighthouse View Cottage - Self Catering Holiday Rental Castletownbere HOME COTTAGE RATES ACTIVITIES CONTACT Lighthouse"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/642762441": {
   "id": "osm:way/642762441",
@@ -52061,7 +52653,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lapland",
@@ -52072,12 +52664,11 @@
    "url": "https://pyhaigloos.com/",
    "title": "Igloo Hotel in Pyhätunturi, Lapland",
    "description": "The spacious, fully equipped rooms provide perfect base for your wilderness adventure. The panoramic view of the Lapland sky from the glass-roofed room is like a window into your dreams.",
-   "keyword": "Igloo",
+   "keyword": "Igloo Hotel",
    "snippet": "Igloo Hotel in Pyhätunturi, Lapland The spacious, fully equipped rooms provide perfect base for your wilderness adventure. The panoramic view of the Lapland sky from the glass-roofed room is like a window into your dreams.  Igloo Hotel in Pyhätunturi, Lapland --> Book Your adventure begins here. en fi Adventure = Exciting and special experience Are"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/660606481": {
   "id": "osm:way/660606481",
@@ -52302,7 +52893,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel in Büsum, Germany",
@@ -52314,12 +52905,11 @@
    "url": "https://www.hotel-lighthouse.de/",
    "title": "Hotel in Büsum | Lighthouse Hotel & Spa",
    "description": "Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!",
-   "keyword": "Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suite",
-   "snippet": "Hotel in Büsum | Lighthouse Hotel & Spa Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!  Hotel in Büsum | Lighthouse Hotel & Spa --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Hotel Wohnen Zimmer Suiten Hafen Apartments Über uns News FAQs Philosophie Anfahrt Freundeskreis MINI"
+   "keyword": "2025 Cruiser King – Fahrradverleih im Lighthouse",
+   "snippet": "e Heimathafen® Hotels. Viel spass beim Eintauchen in unseren Kosmos. Heimathafen Hotels 19.06.2025 Mehrweg mit Meerblick – der ÖkoCup ist da! Kulinarik 19.06.2025 Schnüsch erhält 8 GUSTO-Pfannen Wellness 24.02.2025 SPA Suite & Floating Insides 11.04.2025 Cruiser King – Fahrradverleih im Lighthouse Insides 03.07.2019 Wittmann Suite Deals 11.04.2025 Unser Sommerangebood ist zurück Insides 11.04.2025 Frische Öffnungszeiten im Frühling Kulinarik 22.11.2023 FEINHEIMISCH - wir sind Mitglied Heimathafen Hotels 23.04.2025 Heimathafen Hotels x Alpakas gegen Nazis 11.04.2025 Frühstück im Lighthouse Well"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/675736803": {
   "id": "osm:way/675736803",
@@ -53215,23 +53805,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": null,
   "category": "lighthouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://www.lighthouseinn.is/",
    "title": "Home | Lighthouse-Inn",
    "description": "",
-   "keyword": "Lighthouse-Inn   --> Home | Lighthouse-Inn top of page Home Volcano video Volcano Rooms",
-   "snippet": "Home | Lighthouse-Inn   --> Home | Lighthouse-Inn top of page Home Volcano video Volcano Rooms About Location Activities nearby Contact More Use tab to navigate through the menu items. BOOK YOUR Stay BOOK YOUR Stay ABOUT OUR HOTEL We are located only 11 km from Keflav k International Airport, on the northern tip of the Reykjanes peninsula, in the town of"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/723996182": {
   "id": "osm:way/723996182",
@@ -53712,7 +54303,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lapland",
@@ -53723,12 +54314,11 @@
    "url": "https://arcticsnowhotel.fi/",
    "title": "Arctic SnowHotel &amp; Glass Igloos | Rovaniemi, Lappi",
    "description": "Arctic SnowHotel &amp; Glass Igloos on unohtumattomia lumi- ja jääelämyksiä tarjoava käyntikohde. Majoitu Lumi- ja jäähotellissa tai 360° lasi-igluissa.",
-   "keyword": "Igloo",
-   "snippet": "Arctic SnowHotel &amp; Glass Igloos | Rovaniemi, Lappi Arctic SnowHotel &amp; Glass Igloos on unohtumattomia lumi- ja jääelämyksiä tarjoava käyntikohde. Majoitu Lumi- ja jäähotellissa tai 360° lasi-igluissa.  Arctic SnowHotel Glass Igloos | Rovaniemi, Lappi Ohita navigointi Varaa nyt Varaa nyt FI English Suomi Valikko Valikko Valikko Valikko Teema 2025–2026 Vieraile Aukioloaja"
+   "keyword": "SnowHotel",
+   "snippet": "Arctic SnowHotel &amp; Glass Igloos | Rovaniemi, Lappi Arctic SnowHotel &amp; Glass Igloos on unohtumattomia lumi- ja jääelämyksiä tarjoava käyntikohde. Majoitu Lumi- ja jäähotellissa tai 360° lasi-igluissa.  Arctic SnowHotel Glass Igloos | Rovaniemi, Lappi Ohita navigointi Varaa nyt Varaa nyt FI English Suomi Valikko Valikko Valikko Valikko Teema 2025–20"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/77448484": {
   "id": "osm:way/77448484",
@@ -54084,7 +54674,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Baden-Württemberg",
@@ -54099,8 +54689,7 @@
    "snippet": "baumhaus-freiburg.de &#187; Ferienwohnungen in Freiburg Ferienwohnungen - baumhaus-freiburg.de in 79104 Freiburg, Ferienwohnungen in Freiburg - Firmen aus Ihrer Region - Branchen und Veranstaltungen - Ferienwohnungen aus Freiburg in den Regioseiten  baumhaus-freiburg.de Ferienwohnungen in Freiburg baumhaus-freiburg.de Freiburg baumhaus-freiburg.de"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/80909785": {
   "id": "osm:way/80909785",
@@ -54586,7 +55175,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Scotland",
@@ -54601,8 +55190,9 @@
    "snippet": "The Light House Pottery | SELF-CATERING ACCOMODATION IN PORTPATRICK, SCOTLAND LIGHT HOUSE STUDIO APARTMENT AND LIGHTKEEPERS SNUG Home About Us News The Lighthouse Apartment The Lightkeepers Snug Places To Go Testimonials Contact Us WELCOME TO The Lighthouse Apartment LIGHTKEEPERS SNUG Self catering, stylish accommodation on the South Pier of this quiet ,picturesque fishing village, overlooking the harbour, little sandy beach and the promenade with its restaurants, hotels and bars. Portpatrick is ideal for walking and is the starting point of The Southern Upland Way. It is also a good centre"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/835235237": {
   "id": "osm:way/835235237",
@@ -54672,23 +55262,24 @@
    "historic": "lighthouse"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Wisconsin",
   "category": "lighthouse-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://vrentals.vacationrentaldesk.com/USCGLighthouses/homepage.html",
    "title": "Sector Lake Michigan MWR -",
    "description": "Enjoy your next vacation at Sherwood Point or Rawley Point MWR Lighthouse!",
-   "keyword": "Renting FAQ New Renters MWR Eligibility Contact Properties MWR Vacation Rental Lighthouse",
-   "snippet": "Sector Lake Michigan MWR - Enjoy your next vacation at Sherwood Point or Rawley Point MWR Lighthouse!  Sector Lake Michigan MWR - Sector Lake Michigan MWR More Door County Maritime Museum Two Rivers/Manitowoc WI Door County Tips and Tricks for Renting FAQ New Renters MWR Eligibility Contact Properties MWR Vacation Rental Lighthouse in Sturgeon Bay , WI Sherwood Point Lighthouse Sturgeon Bay, WI 3 Bedrooms Sleeps 7 Close Properties Sherwood Point Lighthouse MWR Eligibility Door County Maritime Museum Two Rivers/Manitowoc WI Door County Tips and Tricks for Renting FAQ New Renters Contact U"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no official website (listing/social/builder page)"
+  ]
  },
  "osm:way/838815315": {
   "id": "osm:way/838815315",
@@ -55405,23 +55996,24 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Arizona",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://thealicehotel.com/",
    "title": "A Trendsetting New Hotel in the Heart of Tucson | Official Site",
    "description": "This vibrant downtown Tucson hotel, inspired by all things &quot;Alice,&quot; is iconic and trendsetting, pulsing with life, music, and adventure.",
-   "keyword": "ice Hotel",
-   "snippet": "&quot;Alice,&quot; is iconic and trendsetting, pulsing with life, music, and adventure.  A Trendsetting New Hotel in the Heart of Tucson | Official Site Skip to content Home Reservations Photos Amenities Swim club Uncover Tucson’s Newest Gem, The Alice Hotel WE ARE NOW OPEN AND ACCEPTING GUESTS! Book Now Photos Amenities Swim Club (Coming Soon) Get ready to step into a new world at The Alice Hotel. Located in the heart of Tucson – a small town with a lot of strange occurrences – the Alice offers an eclectic experience with modern luxury. Inspired by the legendary Alices who have left their ma"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/885914895": {
   "id": "osm:way/885914895",
@@ -55439,7 +56031,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Alaska",
@@ -55454,8 +56046,9 @@
    "snippet": "Igloo Creek Campground - Denali National Park & Preserve (U.S. National Park Service) Igloo Creek Campground  Igloo Creek Campground - Denali National Park & Preserve (U.S. National Park Service) --> An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an of"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/886300359": {
   "id": "osm:way/886300359",
@@ -56044,7 +56637,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Texas",
@@ -56055,12 +56648,11 @@
    "url": "https://www.lighthousetexas.com/",
    "title": "The Lighthouse Inn at Aransas Bay | Hotels in Rockport TX - Lodging Rockport",
    "description": "Relax and enjoy boutique accommodations with modern amenities at The Lighthouse Inn at Aransas Bay, a hotel in Rockport, TX.",
-   "keyword": "accommodations with modern amenities at The Lighthouse",
-   "snippet": "The Lighthouse Inn at Aransas Bay | Hotels in Rockport TX - Lodging Rockport Relax and enjoy boutique accommodations with modern amenities at The Lighthouse Inn at Aransas Bay, a hotel in Rockport, TX.  The Lighthouse Inn at Aransas Bay | Hotels in Rockport TX - Lodging Rockport Skip to content BOOK NOW Print Brochure Area Map Accommodations Amenities Dining Gallery Custom Events Specials Packages About Us Attractions Blog Contact Location Guest Re"
+   "keyword": "2024 The Lighthouse",
+   "snippet": "st packages and events at the Lighthouse Inn ROCKPORT WEATHER The Lighthouse Inn at Aransas Bay 200 South Fulton Beach Road Rockport, Texas 78382 Tel: 361-790-8439 / 866-790-8439 Email: info@lighthousetexas.com ROCKPORT WEATHER Instagram Copyright © 2024 The Lighthouse Inn Texas. | Site Map | All Rights Reserved. Powered by Accommodations Amenities Dining Gallery Custom Events Specials Packages About Us Attractions Blog Contact Location Guest Reviews Awards History Privacy Policy Accommodations Amenities Dining Gallery Custom Events Specials Packages About Us Attractions Blog Contact Location"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/92419582": {
   "id": "osm:way/92419582",
@@ -56428,7 +57020,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Saxony",
@@ -56440,11 +57032,10 @@
    "title": "Home - Baumhaushotel Kriebelland",
    "description": "",
    "keyword": "Baumhaus",
-   "snippet": "Home - Baumhaushotel Kriebelland   Home - Baumhaushotel Kriebelland Facebook Home Buchung Baumhäuser • Romantik Baumhaus • Fass Baumhaus • Baumhaus Jurte • Baumhaus Segelschiffe • Familien- Baumhaus Aktiv • Grillplatz • Kanuverleih • Bootstour • Umgebung Gutschein Angebote • Feiertage 2027 • Wochenende 2027 • Baumsparer Sommer- ferien 2027 360° Tour / Vid"
+   "snippet": "Home - Baumhaushotel Kriebelland   Home - Baumhaushotel Kriebelland Facebook Home Buchung Baumhäuser • Romantik Baumhaus • Fass Baumhaus • Baumhaus Jurte • Baumhaus Segelschiffe • Familien- Baumhaus Aktiv • Grillplatz • Kanuverleih • Bootstour • Umgebung Gutschein Angebote • Feiertage 2027 • Wochenende 2027 • Baumsparer Sommer- ferien 2027 360° Tour / Videos • 360° Tour • Videos Job Cookie-Richtlinie (EU) Seite wählen BAUMHAUSHOTEL KRIEBELLAND ☞ Baumhausinfo"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/953180599": {
   "id": "osm:way/953180599",
@@ -56581,7 +57172,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lower Saxony",
@@ -56593,11 +57184,10 @@
    "title": "Baumhaushotel Deutschland – Baumhotel an der Nordsee",
    "description": "Baumhaushotel Otterndorf: Kuschelig übernachten in 4 m Höhe mit Blick auf den Deich. Ruhe, Natur &amp; Kanus inklusive – Nordsee-Glamping pur.",
    "keyword": "Baumhaus",
-   "snippet": "Baumhaushotel Deutschland – Baumhotel an der Nordsee Baumhaushotel Otterndorf: Kuschelig übernachten in 4 m Höhe mit Blick auf den Deich. Ruhe, Natur &amp; Kanus inklusive – Nordsee-Glamping pur.  Baumhaushotel Deutschland – Baumhotel an der Nordsee ➜ Jetzt 2 Nächte buchen Rabatte entdecken Zum Inhalt springen Baumhaushotel – Urlaub an der Nordsee"
+   "snippet": "➜ Jetzt 2 Nächte buchen Rabatte entdecken Zum Inhalt springen Baumhaushotel – Urlaub an der Nordsee Start Gutscheine Unterkünfte Stelzenhäuser Amsel Blaumeise Buntspecht Zaunkönig Rotkehlchen Kohlmeise Kleiber Star Spatz Fasan Erdhäuser Neu ab 2027 Baumhaus im Baum Verpflegung Events Veranstaltungen Arrangements Urlaub mit Hund Me-Time Auszeit allein Romantisches Wochenende Entdeckungen Aktivitäten Kulinarik Lieblingsplätze App-Empfehlungen Über uns Kontakt Newsletter Über uns FAQ Gästebuch Jobs Presse Start Gutscheine Unterkünfte Stelzenhäuser Amsel Blaumeise Buntspecht Zaunkönig Rotkehlchen"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/959469705": {
   "id": "osm:way/959469705",
@@ -56718,7 +57308,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Michigan",
@@ -56733,8 +57323,9 @@
    "snippet": "Lighthouse County Park - Campsites in Huron County, MI | Huron County Parks RV and tent camping is available at Lighthouse Park. Enjoy the view of Lake Huron and visit the Point Aux Barques Lighthouse, right on site. Lighthouse Park is great for camping, cabin rentals, boating, special events, day use, and hiking.  Lighthouse County Park - Campsites in Huron County, MI | Huron County Parks Menu Home Parks Caseville Information Reservations Lighthouse Information Reservations Oak Beach Information Reservations Sebewaing Information Reservations Stafford Informat"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/976736810": {
   "id": "osm:way/976736810",
@@ -56792,7 +57383,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Bavaria",
@@ -56807,8 +57398,7 @@
    "snippet": "Baumhaus Samerberg – Ferienwohnung mit Panoramablick bis Chiemsee 48 m² Baumhaus-Ferienwohnung in Alleinlage am Samerberg – 360°-Panorama bis zum Chiemsee, Bett unter Sternen. Nahe Chiemgau, ganzjährig buchbar.  --> Baumhaus Samerberg – Ferienwohnung mit Panoramablick bis Chiemsee top of page BAUMHAUS SAMERBERG Ferienhaus im Chiemgau Online buchen"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/992301755": {
   "id": "osm:way/992301755",
@@ -56826,7 +57416,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Oregon",
@@ -56837,12 +57427,11 @@
    "url": "https://www.oregonbeachvacations.com/listings/181",
    "title": "The Lighthouse in Lincoln City | House - 2 Bed House in Lincoln City, OR | Oregon Beach Vacations",
    "description": "Explore the details of The Lighthouse in Lincoln City with Oregon Beach Vacations. Find amenities, availability, and pricing for your next vacation rental stay.",
-   "keyword": "stay at The Lighthouse",
-   "snippet": "north will bring you to several other restaurants, along with the outlet mall! Down south, you ll find the Taft district, snuggled up against the Siletz Bay, with more food options and plenty of glass blowing shops if you feel so inclined! Book your stay at The Lighthouse in Lincoln City today! Dog Friendly for up to 2 dogs, no other pets allowed. Please do not leave dogs unattended at any time in or on the property. Maximum Occupancy for this property, including adults, children and infants is 6 Occupancy limits cannot be exceeded at any time, including visitors. Please note that boats, trail"
+   "keyword": "97367 Share About this place The Lighthouse",
+   "snippet": "X Pinterest © 2026 Oregon Beach Vacations . All rights reserved. | All Properties | Powered by Flow One The Lighthouse in Lincoln City | House - 2 Bed House in Lincoln City, OR | Oregon Beach Vacations The Lighthouse in Lincoln City Lincoln City, OR 97367 Share About this place The Lighthouse in Lincoln City - Oregon Beach Vacations Welcome to The Lighthouse in Lincoln City, located in, you guessed it - Lincoln City! This one story home has room for up to six guests, with two bedrooms and two bathrooms! You ll have incredibly close beach access, just a short walk away down the street, with not"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/994956201": {
   "id": "osm:way/994956201",
@@ -56861,7 +57450,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "new",
+  "status": "verified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "description": "hotel rebuilt each year with snow and ice in northern Sweden",
@@ -56873,12 +57462,11 @@
    "url": "https://www.icehotel.com/",
    "title": "The ICEHOTEL in Sweden | Since 1989 | ICEHOTEL",
    "description": "Welcome to the original Icehotel in Sweden. We are a hotel and an art exhibition with ever-changing art made out of ice and snow.",
-   "keyword": "made of ice",
-   "snippet": "for everyone, whether you want to hike, go dog sledding or experience rafting on the Torne River - and it all takes place in the exquisite, unspoiled nature. ICEHOTEL offers a unique Arctic holiday in both winter and summer. Here you stay in a hotel made of ice - but you will also experience the vastness and adventures of Northern Sweden. Our coffee is brewed over an open fire, and the food is carefully prepared using local ingredients. Karl Moa Eat and drink At ICEHOTEL, every meal is special and an essential part of the experience for our visitors. Here, loud restaurants and fast food are re"
+   "keyword": "ICEHOTEL",
+   "snippet": "The ICEHOTEL in Sweden | Since 1989 | ICEHOTEL Welcome to the original Icehotel in Sweden. We are a hotel and an art exhibition with ever-changing art made out of ice and snow.  The ICEHOTEL in Sweden | Since 1989 | ICEHOTEL For full functionality of this site it is necessary to enable JavaScript. Here are the instructions how to enable JavaScript in y"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": []
  },
  "osm:way/995434094": {
   "id": "osm:way/995434094",
@@ -56897,23 +57485,24 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lapland",
   "category": "ice-hotels",
-  "score": 7,
+  "score": 5,
   "evidence": {
    "status": 200,
    "url": "https://santashotels.fi/hotelli/igloos-arctic-circle-rovaniemi/",
    "title": "Igloos Arctic Circle - Santa&#039;s Hotels",
    "description": "Igloos Arctic Circle on lasi-igluhotelli Joulupukin Pajakylässä Rovaniemellä. Yö lasi-iglussa on unohtumaton elämys, joka kannattaa kokea ainakin kerran elämässä.",
-   "keyword": "Igloo",
-   "snippet": "Igloos Arctic Circle - Santa&#039;s Hotels Igloos Arctic Circle on lasi-igluhotelli Joulupukin Pajakylässä Rovaniemellä. Yö lasi-iglussa on unohtumaton elämys, joka kannattaa kokea ainakin kerran elämässä.  Igloos Arctic Circle - Santa s Hotels Etusivu Hotellit Rovaniemi Santa Claus Rudolf Noelle Igloos Arctic Circle Luosto Villa Borealis Aurora Ki"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "osm:way/995440409": {
   "id": "osm:way/995440409",
@@ -56973,7 +57562,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "region": "Lapland",
@@ -56988,8 +57577,9 @@
    "snippet": "landscape of Rovaniemi, Lapland. This exquisite hotel offers a unique blend of comfort, elegance, and Nordic charm.  Arctic TreeHouse Hotel Lapland --> Ohita navigointi English English Finnish Valikko Valikko Book accommodation Accommodation Arctic TreeHouse Suite Arctic GlassHouse ArcticScene Executive Suite Hidden Arctic Cloud -Villas Aino Private Island Hotel Extraordinary Activities Summer activities Autumn activities Winter activities Complimentary activities Christmas Fairytale Experience Traditional Lappish Sauna Rakas Restaurant Services Private Dining Syvä Wellness Nest Traditional L"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "excluded name (not a niche stay)"
+  ]
  },
  "osm:way/99670119": {
   "id": "osm:way/99670119",
@@ -58181,7 +58771,7 @@
   "city": "Büsum",
   "description": "hotel in Büsum, Germany",
   "source": "wikidata",
-  "status": "new",
+  "status": "duplicate",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "duplicateOf": "osm:way/674379446",
@@ -58194,12 +58784,13 @@
    "url": "https://www.hotel-lighthouse.de/",
    "title": "Hotel in Büsum | Lighthouse Hotel & Spa",
    "description": "Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!",
-   "keyword": "Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suite",
-   "snippet": "Hotel in Büsum | Lighthouse Hotel & Spa Wo Küstenherzen heller leuchten: Lighthouse Hotel &amp;amp; Spa ✓ hochwertiges Designhotel ✓ Zimmer &amp;amp; Suiten ✓ Meerblick ✓ Spa &amp;amp; Fine Dining. ♥ Jetzt buchen!  Hotel in Büsum | Lighthouse Hotel & Spa --> \" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"> Hotel Wohnen Zimmer Suiten Hafen Apartments Über uns News FAQs Philosophie Anfahrt Freundeskreis MINI"
+   "keyword": "2025 Cruiser King – Fahrradverleih im Lighthouse",
+   "snippet": "e Heimathafen® Hotels. Viel spass beim Eintauchen in unseren Kosmos. Heimathafen Hotels 19.06.2025 Mehrweg mit Meerblick – der ÖkoCup ist da! Kulinarik 19.06.2025 Schnüsch erhält 8 GUSTO-Pfannen Wellness 24.02.2025 SPA Suite & Floating Insides 11.04.2025 Cruiser King – Fahrradverleih im Lighthouse Insides 03.07.2019 Wittmann Suite Deals 11.04.2025 Unser Sommerangebood ist zurück Insides 11.04.2025 Frische Öffnungszeiten im Frühling Kulinarik 22.11.2023 FEINHEIMISCH - wir sind Mitglied Heimathafen Hotels 23.04.2025 Heimathafen Hotels x Alpakas gegen Nazis 11.04.2025 Frühstück im Lighthouse Well"
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "same website as another verified candidate"
+  ]
  },
  "wd:Q111394539": {
   "id": "wd:Q111394539",
@@ -60395,24 +60986,25 @@
   "city": "Norrbotten County",
   "description": "former ice hotel in Sweden",
   "source": "wikidata",
-  "status": "new",
+  "status": "weak",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
   "hasWikiImage": false,
   "region": null,
   "category": "ice-hotels",
-  "score": 8,
+  "score": 6,
   "evidence": {
    "status": 200,
    "url": "https://iglootel.de/",
    "title": "Herzlich Willkommen im IGLOOTEL Lapland",
    "description": "Herzlich Willkommen im IGLOOTEL Lapland in schwedisch lappland, wir freuen uns sie in Arjeplog begrüßen zu dürfen. Das einzigartige Hotel aus Schnee und Eis erreichen Sie innerhalb nur 3 Stunden von 4 deutschen Flughäfen mit der FlyCar GmbH.",
-   "keyword": "IGLOO",
-   "snippet": "Herzlich Willkommen im IGLOOTEL Lapland Herzlich Willkommen im IGLOOTEL Lapland in schwedisch lappland, wir freuen uns sie in Arjeplog begrüßen zu dürfen. Das einzigartige Hotel aus Schnee und Eis erreichen Sie innerhalb nur 3 Stunden von 4 deutschen Flughäfen mit der FlyCar GmbH.  Herzlich Willkommen im IGLOOTEL Lapland Iglootel IGLOOTEL Lapland Iglootel News Wissenswer"
+   "keyword": null,
+   "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [],
-  "recheck": true
+  "reasons": [
+   "no category evidence on official website"
+  ]
  },
  "wd:Q20044116": {
   "id": "wd:Q20044116",
@@ -60723,7 +61315,7 @@
   "status": "duplicate",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-09-29",
-  "duplicateOf": "icehotel-sweden",
+  "duplicateOf": "osm:way/994956201",
   "checkedAt": "2026-09-29"
  },
  "wd:Q46172568": {
@@ -60817,5 +61409,25 @@
   "reasons": [
    "category not confirmed"
   ]
+ },
+ "wd:Q7903424": {
+  "id": "wd:Q7903424",
+  "name": "Utter Inn",
+  "categories": [
+   "underwater-rooms"
+  ],
+  "lat": 59.59463888888889,
+  "lng": 16.564138888888888,
+  "website": null,
+  "wikidata": "Q7903424",
+  "country": null,
+  "city": null,
+  "description": "art project in Sweden with underwater accommodation",
+  "source": "wikidata",
+  "status": "duplicate",
+  "firstSeen": "2026-09-29",
+  "lastSeen": "2026-09-29",
+  "duplicateOf": "utter-inn-sweden",
+  "checkedAt": "2026-09-29"
  }
 }
