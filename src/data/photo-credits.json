@@ -718,5 +718,149 @@
     "wikidata": "https://www.wikidata.org/wiki/Q1422831",
     "matched": "Grand Prismatic Spring",
     "distanceKm": 22.5
+  },
+  "dest:arizona-grand-canyon": {
+    "author": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:10_Grand_Canyon_Navajo_Point_viewpoint_terrace,_Grand_Canyon_National_Park,_USA_-_American_nature.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q220289",
+    "matched": "Grand Canyon National Park",
+    "distanceKm": 5.8
+  },
+  "dest:botswana": {
+    "author": "Gorgo",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Gnus_zebras_chobe_national_park.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q859389",
+    "matched": "Chobe National Park",
+    "distanceKm": 410.1
+  },
+  "dest:chile-atacama": {
+    "author": "NASA",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Volcan_Licancabur_Bolivia.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q422713",
+    "matched": "Licancabur",
+    "distanceKm": 33.6
+  },
+  "dest:india-kerala": {
+    "author": "Kondephy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Munnar_Overview.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1025124",
+    "matched": "Munnar",
+    "distanceKm": 120.8
+  },
+  "dest:maldives": {
+    "author": "Adrian.benko",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Vaadhoo.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2188645",
+    "matched": "Vaadhoo",
+    "distanceKm": 105.7
+  },
+  "dest:mozambique": {
+    "author": "Rosino",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beach_cleaning.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q331099",
+    "matched": "Island of Mozambique",
+    "distanceKm": 685.1
+  },
+  "dest:namibia": {
+    "author": "Anagoria",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011-02-09_066.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q1932730",
+    "matched": "Sossusvlei",
+    "distanceKm": 381.2
+  },
+  "dest:new-hampshire-white-mountains": {
+    "author": "Stephen Sokolowski",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Pemigewassett_covered_bridge.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q383400",
+    "matched": "Franconia Notch State Park",
+    "distanceKm": 33.5
+  },
+  "dest:zanzibar": {
+    "author": "Moongateclimber",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nungwi_(2010-011-1318-T).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q3376139",
+    "matched": "Nungwi",
+    "distanceKm": 50
+  },
+  "dest:colombia-cartagena": {
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Cartagena_from_Convento_de_Santa_Cruz_de_la_Popa_01.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q657461",
+    "matched": "Cartagena",
+    "distanceKm": 6.2
+  },
+  "dest:florida-keys": {
+    "author": "Tore Sætre",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Key_west_2001.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q485186",
+    "matched": "Key West",
+    "distanceKm": 0.4
+  },
+  "dest:hawaii": {
+    "author": "Aaronbernstein",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waimea_Canyon_mar_2010.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q7960119",
+    "matched": "Waimea Canyon State Park",
+    "distanceKm": 372.4
+  },
+  "dest:india-rajasthan": {
+    "author": "Chainwit.",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q836531",
+    "matched": "Hawa Mahal",
+    "distanceKm": 159.8
+  },
+  "dest:kentucky-bourbon-trail": {
+    "author": "ChrisKuehl",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:CumberlandFalls.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q38488",
+    "matched": "Cumberland Falls",
+    "distanceKm": 111.5
+  },
+  "dest:oregon-coast": {
+    "author": "en:User:Googie_man",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:CannonBeachOR.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q988747",
+    "matched": "Cannon Beach",
+    "distanceKm": 139.1
+  },
+  "dest:tanzania": {
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q11812902",
+    "matched": "Serengeti National Park",
+    "distanceKm": 442.5
   }
 }
