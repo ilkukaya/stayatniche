@@ -8,7 +8,7 @@ export const CATEGORIES = {
   'treehouse-hotels': {
     name: 'tree ?house|treehotel|treetop|baumhaus|cabanes? (dans les|perch)|boomhut|trädkoja|trehytte|casa (en el|na) árvore|casa del árbol',
     site: /tree ?house (room|suite|cabin|villa|accommodation|stay)|treehouses|treetop (room|suite|cabin|lodge|villa)|rooms? (up )?in the trees|(built|perched|suspended) in(to)? the trees|baumhaus|cabane dans les arbres|cabanes perchées|trädkoja/i,
-    exclude: /lemon tree|double ?tree|apple tree|bay tree|pear tree|olive tree|plum tree|rain ?tree|palm tree|portree|pine tree|oak tree|elm tree|yew tree|treehouse hotel (london|manchester)/i,
+    exclude: /lemon tree|double ?tree|apple tree|bay tree|pear tree|olive tree|plum tree|rain ?tree|palm tree|portree|pine tree|oak tree|elm tree|yew tree|treehouse hotels?\b/i,
   },
   'cave-hotels': {
     name: 'cave|cueva|grotta|grotte|mağara|magara|troglo|höhle|caverna|sassi',
@@ -45,7 +45,8 @@ export const CATEGORIES = {
   },
   'ice-hotels': {
     name: 'ice ?hotel|icehotel|snow ?hotel|snowhotel|snow ?castle|snowcastle|igloo|lumihotelli|snøhotell',
-    site: /ice hotel|snow hotel|igloo|ice room|snow castle|made (entirely )?(of|from) (ice|snow)/i,
+    site: /ice ?hotel|snow ?hotel|glass igloos?|igloo (hotel|village|suite|room|cabin|resort)s?|(aurora|arctic|glass|snow) igloos?|snow ?castle|ice (room|suite)s?|made (entirely )?(of|from) (ice|snow)/i,
+    exclude: /igloolik|igloo (hostel|hybrid|creek)|campground|bike ?& ?snow/i,
   },
   'safari-lodges': {
     name: 'safari|game lodge|tented camp|bush camp|game reserve lodge',
@@ -57,8 +58,9 @@ export const CATEGORIES = {
   },
   'lighthouse-hotels': {
     name: 'lighthouse|light house|fyr|phare|faro|leuchtturm|vuurtoren|majakka|fyrvokter',
-    site: /(stay|sleep|overnight|night|room|suite|accommodation|holiday (let|cottage)|rent)[^.]{0,80}(lighthouse|keeper'?s (house|cottage))|(lighthouse|keeper'?s (house|cottage))[^.]{0,80}(stay|sleep|overnight|rooms?|suites?|accommodation|holiday (let|cottage)|rental)/i,
-    exclude: /museum|ruinas|ruins/i,
+    // Must describe the building itself (historic / keeper's quarters / light station), not a business named "Lighthouse".
+    site: /(former|historic|restored|converted|working|active|decommissioned|original|victorian|\d{4}|century)[^.]{0,40}(lighthouse|light ?station)|lighthouse keeper|(light)?keeper'?s (house|cottage|quarters|dwelling)|light ?station|lighthouse (was )?(built|dating|dates|erected|constructed) (in|from|back to)|inside (the|a) lighthouse|lighthouse tower|lantern room/i,
+    exclude: /museum|ruinas|ruins|motel|residence|golf|marina|reef|view|campground|camping|campsite|apartment|backpackers|farm|sunlight|hostel/i,
     extra: ['nwr["man_made"="lighthouse"]["tourism"~"^(hotel|guest_house|chalet|hostel|apartment|motel)$"];'],
   },
   'train-hotels': {
