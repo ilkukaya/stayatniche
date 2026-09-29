@@ -73,7 +73,7 @@ Uçhisar sits at Cappadocia's highest point, and the Kale Konak's location near 
 ---
 
 
-In 1993, Carlo Levi described Matera as "the shame of Italy" — a warren of rock-cut cave dwellings in southern Basilicata where peasant families lived with their livestock in conditions that embarrassed the postwar Italian state. The residents were forcibly relocated. Sixty years later, Matera is a UNESCO World Heritage Site, the 2019 European Capital of Culture, and home to some of Italy's most atmospheric boutique hotels.
+After Carlo Levi's *Christ Stopped at Eboli* (1945) brought it to national attention, Matera became known as "the shame of Italy" — a warren of rock-cut cave dwellings in southern Basilicata where peasant families lived with their livestock in conditions that embarrassed the postwar Italian state. The residents were forcibly relocated. Sixty years later, Matera is a UNESCO World Heritage Site, the 2019 European Capital of Culture, and home to some of Italy's most atmospheric boutique hotels.
 
 The sassi, meaning stones, are a labyrinth of cave dwellings cut into two ravines (the Sasso Caveoso and Sasso Barisano) and a canyon (the Gravina), stretching back over 9,000 years. Some of the cave churches still contain Byzantine frescoes. At night, when the sassi are lit from within and the canyon falls into darkness below, the landscape is genuinely magical.
 

@@ -59,7 +59,7 @@ Uçhisar se trouve au point culminant de la Cappadoce, et l'emplacement du Kale 
 ---
 
 
-En 1993, Carlo Levi qualifiait Matera de « honte de l'Italie » : un dédale d'habitations troglodytiques du sud de la Basilicate où des familles paysannes vivaient avec leur bétail dans des conditions qui embarrassaient l'État italien de l'après-guerre. Les habitants furent relogés de force. Soixante ans plus tard, Matera est inscrite au patrimoine mondial de l'UNESCO, a été capitale européenne de la culture en 2019 et abrite certains des boutique-hôtels les plus envoûtants d'Italie.
+Après que *Le Christ s’est arrêté à Eboli* (1945), de Carlo Levi, l’eut révélée au pays tout entier, Matera fut surnommée la « honte de l’Italie » : un dédale d'habitations troglodytiques du sud de la Basilicate où des familles paysannes vivaient avec leur bétail dans des conditions qui embarrassaient l'État italien de l'après-guerre. Les habitants furent relogés de force. Soixante ans plus tard, Matera est inscrite au patrimoine mondial de l'UNESCO, a été capitale européenne de la culture en 2019 et abrite certains des boutique-hôtels les plus envoûtants d'Italie.
 
 Les sassi (littéralement « les pierres ») forment un labyrinthe d'habitations troglodytiques creusées dans deux ravins (le Sasso Caveoso et le Sasso Barisano) et un canyon (la Gravina), dont l'histoire remonte à plus de 9 000 ans. Certaines églises rupestres conservent encore des fresques byzantines. La nuit, lorsque les sassi s'illuminent de l'intérieur et que le canyon plonge dans l'obscurité en contrebas, le paysage devient réellement magique.
 

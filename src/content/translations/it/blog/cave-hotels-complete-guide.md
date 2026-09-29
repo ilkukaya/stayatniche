@@ -59,7 +59,7 @@ Uçhisar è il punto più alto della Cappadocia, e la posizione del Kale Konak v
 ---
 
 
-Nel 1993 Carlo Levi definì Matera «la vergogna d’Italia»: un dedalo di abitazioni rupestri nel sud della Basilicata dove famiglie contadine vivevano insieme agli animali in condizioni che imbarazzavano lo Stato italiano del dopoguerra. Gli abitanti furono trasferiti con la forza. Sessant’anni dopo, Matera è Patrimonio dell’Umanità UNESCO, è stata Capitale europea della cultura 2019 e ospita alcuni dei boutique hotel più suggestivi d’Italia.
+Dopo che *Cristo si è fermato a Eboli* (1945) di Carlo Levi l’ebbe portata all’attenzione nazionale, Matera divenne nota come «la vergogna d’Italia»: un dedalo di abitazioni rupestri nel sud della Basilicata dove famiglie contadine vivevano insieme agli animali in condizioni che imbarazzavano lo Stato italiano del dopoguerra. Gli abitanti furono trasferiti con la forza. Sessant’anni dopo, Matera è Patrimonio dell’Umanità UNESCO, è stata Capitale europea della cultura 2019 e ospita alcuni dei boutique hotel più suggestivi d’Italia.
 
 I Sassi, cioè «pietre», sono un labirinto di abitazioni rupestri scavate in due valloni (il Sasso Caveoso e il Sasso Barisano) e in un canyon (la Gravina), con una storia che risale a oltre 9.000 anni fa. Alcune chiese rupestri conservano ancora affreschi bizantini. La sera, quando i Sassi si illuminano dall’interno e il canyon sprofonda nel buio, il paesaggio è davvero magico.
 

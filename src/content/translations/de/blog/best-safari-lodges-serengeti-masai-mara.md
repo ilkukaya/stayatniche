@@ -4,7 +4,7 @@ title: "Die besten Safari-Lodges in der Serengeti und der Masai Mara: der große
 excerpt: "Das Ökosystem von Serengeti und Masai Mara ist Schauplatz des größten Tierspektakels der Erde. Dieser Ratgeber stellt die besten Lodges beiderseits der Grenze für die perfekte Migrationssafari vor."
 seo:
   metaTitle: "Safari-Lodges in Serengeti & Masai Mara | StayAtNiche"
-  metaDescription: "Die besten Safari-Lodges in der Serengeti und der Masai Mara: wo Sie zur Großen Migration wohnen sollten und welche Camps ganzjährig beste Tierbeobachtung bieten."
+  metaDescription: "Die besten Safari-Lodges in Serengeti und Masai Mara: wo Sie zur Großen Migration wohnen sollten und welche Camps ganzjährig beste Tierbeobachtung bieten."
 ---
 
 Das Ökosystem von Serengeti und Masai Mara ist das größte Tierspektakel der Erde – und die Wahl der richtigen Lodge kann aus einer hervorragenden Safari eine außergewöhnliche machen. Das Ökosystem erstreckt sich über die Grenze zwischen Tansania und Kenia: Der Serengeti-Nationalpark umfasst 14.763 Quadratkilometer, das Masai-Mara-Nationalreservat weitere 1.510 Quadratkilometer. Das eigentliche Safarigebiet reicht jedoch weit über diese Grenzen hinaus – in private Schutzgebiete und Konzessionen, die deutlich mehr Exklusivität und Flexibilität bieten als die Nationalparks selbst.

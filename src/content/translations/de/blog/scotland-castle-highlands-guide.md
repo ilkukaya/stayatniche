@@ -4,7 +4,7 @@ title: "Schlosshotels und Highland-Refugien in Schottland: Der große Ratgeber f
 excerpt: "Schottlands Schlosshotels und Highland-Lodges gehören zu den außergewöhnlichsten Unterkünften Europas: alte Festungen an Highland-Lochs, Whisky-Anwesen und Jagdhäuser in dramatischen Glens."
 seo:
   metaTitle: "Schottland: Schlosshotels & Highland-Lodges | StayAtNiche"
-  metaDescription: "Die schönsten Schlosshotels und Highland-Refugien Schottlands: alte Burgen, Whisky-Anwesen, Lodges am Loch und Inselhäuser – mit Preisen und Tipps zur Buchung."
+  metaDescription: "Die schönsten Schlosshotels und Highland-Refugien Schottlands: alte Burgen, Whisky-Anwesen, Lodges am Loch und Inselhäuser – mit Preisen und Buchungstipps."
 ---
 
 In Schottland wirken außergewöhnliche Unterkünfte wie eine Selbstverständlichkeit. Ein Land von solch dramatischer Schönheit – wo Highland-Glens zu Meeresarmen abfallen, wo Ruinen mittelalterlicher Festungen jede Landzunge krönen, wo das Wetter ein Licht hervorbringt, das die Landschaft von Augenblick zu Augenblick verwandelt – bringt ganz natürlich Hotels hervor, die ihre Umgebung als ihr größtes Kapital begreifen.

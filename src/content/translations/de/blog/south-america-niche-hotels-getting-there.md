@@ -4,7 +4,7 @@ title: "Besondere Hotels in Südamerika: So erreichen Sie Atacama, Amazonas und 
 excerpt: "Die Wüstenlodges der chilenischen Atacama. Das private Amazonas-Regenwaldreservat im brasilianischen Mato Grosso. Die gläserne Nebelwaldlodge zwei Stunden von Quito. Südamerikas außergewöhnlichste Unterkünfte verteilen sich über einen Kontinent von 18 Millionen Quadratkilometern. Dies ist der Ratgeber für die Anreise."
 seo:
   metaTitle: "Südamerika: Anreise zu Atacama & Amazonas | StayAtNiche"
-  metaDescription: "So erreichen Sie Südamerikas außergewöhnlichste Unterkünfte: Lodges in der Atacama, Amazonas-Camps, Nebelwald in Ecuador und Patagonien – Flüge und Transfers."
+  metaDescription: "So erreichen Sie Südamerikas außergewöhnlichste Unterkünfte: Lodges in der Atacama, Amazonas-Camps, Nebelwald in Ecuador und Patagonien – Flüge, Transfers."
 ---
 
 Südamerika ist der Kontinent, der Reisende am reichsten belohnt, wenn sie bereit sind, ein Stück weiter zu gehen. Die leicht erreichbaren Orte – Buenos Aires, Rio de Janeiro, Machu Picchu – sind außergewöhnlich. Doch die Orte, die am längsten nachklingen – die Sternwarten-Lodges der Atacama, die privaten Amazonasreservate, die endemischen Vögel des Nebelwalds bei Sonnenaufgang –, verlangen ein paar Flugetappen mehr und eine andere Art der Planung.

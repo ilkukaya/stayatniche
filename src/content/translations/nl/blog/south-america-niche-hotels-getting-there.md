@@ -4,7 +4,7 @@ title: "Bijzondere hotels in Zuid-Amerika: zo kom je in de Atacama, de Amazone e
 excerpt: "De woestijnlodges in de Chileense Atacama. Het particuliere Amazonereservaat in het Braziliaanse Mato Grosso. De glazen nevelwoudlodge op twee uur van Quito. De bijzonderste overnachtingen van Zuid-Amerika liggen verspreid over een continent van 18 miljoen vierkante kilometer. Dit is je routeplanner."
 seo:
   metaTitle: "Zuid-Amerika: Atacama, Amazone en nevelwoud | StayAtNiche"
-  metaDescription: "Zo bereik je de bijzonderste overnachtingen van Zuid-Amerika: woestijnlodges in de Atacama, de Amazone, het nevelwoud van Ecuador en Patagonië. Vluchten en transfers."
+  metaDescription: "Zo bereik je de bijzonderste overnachtingen van Zuid-Amerika: de Atacama, de Amazone, het nevelwoud van Ecuador en Patagonië. Met vluchten en transfers."
 ---
 
 Zuid-Amerika is het continent dat de reiziger die verder durft te gaan het rijkst beloont. De bereikbare plekken (Buenos Aires, Rio de Janeiro, Machu Picchu) zijn al buitengewoon. Maar de plekken die het langst blijven hangen, zoals de sterrenkijklodges in de Atacama, de particuliere Amazonereservaten en de endemische vogels van het nevelwoud bij zonsopkomst, vragen een paar extra vluchten en een andere manier van plannen.

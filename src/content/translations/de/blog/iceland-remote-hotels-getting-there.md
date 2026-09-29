@@ -4,7 +4,7 @@ title: "Abgelegene Hotels in Island: Anreise auf eigene Faust, ohne Gruppentour"
 excerpt: "Islands außergewöhnlichste Unterkünfte – geodätische Kuppeln an Gletscherlagunen, umgebaute Leuchttürme auf Atlantikhalbinseln, Polarlicht-Blasen tief in den Westfjorden – verlangen eine Planung, die weit über Booking.com hinausgeht. So erreichen Sie die abgelegenen Häuser ohne Reisegruppe."
 seo:
   metaTitle: "Abgelegene Hotels in Island ohne Tour | StayAtNiche"
-  metaDescription: "So erreichen Sie Islands abgelegenste und außergewöhnlichste Hotels auf eigene Faust: Flugsuche, Mietwagen, Fahren im Winter und besondere Häuser abseits der Ringstraße."
+  metaDescription: "So erreichen Sie Islands abgelegenste Hotels auf eigene Faust: Flugsuche, Mietwagen, Fahren im Winter und besondere Häuser abseits der Ringstraße."
 ---
 
 Island belohnt Reisende, die nicht der Gruppe folgen. Der Golden Circle – Geysir, Gullfoss, Þingvellir – wird von Linienbussen abgefahren, die im 20-Minuten-Takt Reisegruppen ausspucken. Die Orte, an denen es sich zu übernachten lohnt – jene, die die Fotos hervorbringen und den wirklich veränderten Zustand, den gutes Reisen erzeugt –, liegen fast nie an diesen Buslinien.

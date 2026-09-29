@@ -4,7 +4,7 @@ title: "Die besten Eco-Lodges in Costa Rica: außergewöhnliche Dschungelunterk�
 excerpt: "Costa Rica hat die Eco-Lodge erfunden – und beherrscht sie bis heute am besten. Diese außergewöhnlichen Häuser verbinden Regenwaldnähe, herausragende Tierbeobachtungen und echte Nachhaltigkeit."
 seo:
   metaTitle: "Eco-Lodges in Costa Rica: Dschungel & Tiere | StayAtNiche"
-  metaDescription: "Die besten Eco-Lodges in Costa Rica – vom Regenwald der Osa-Halbinsel bis zum Nebelwald von Monteverde. Mit Preisen, Tierbeobachtung und Nachhaltigkeitsnachweisen."
+  metaDescription: "Die besten Eco-Lodges in Costa Rica – vom Regenwald der Osa-Halbinsel bis zum Nebelwald von Monteverde. Mit Preisen, Tierwelt und Nachhaltigkeitsnachweisen."
 ---
 
 Costa Rica hat den modernen Ökotourismus erfunden. Das ist keine Übertreibung. Die Entscheidung des Landes in den 1980er-Jahren, 25 % seines Staatsgebiets als Nationalparks und Reservate unter Schutz zu stellen – verbunden mit einer touristischen Infrastruktur, die Besuchern diese Schutzgebiete tatsächlich erschließt –, schuf ein Modell, das weltweit studiert und nachgeahmt wurde. Costa Rica begriff früher als fast jedes andere Land, dass intakte Wildnis wirtschaftlich mehr wert ist als gerodetes Land: Ein lebender Jaguar in einem funktionierenden Regenwald bringt der Volkswirtschaft mehr ein als dieselbe Fläche, abgeholzt für Rinderweiden.

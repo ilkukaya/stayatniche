@@ -59,7 +59,7 @@ Uçhisar ligt op het hoogste punt van Cappadocië, en door de ligging van Kale K
 ---
 
 
-In 1993 noemde Carlo Levi Matera "de schande van Italië": een doolhof van rotswoningen in het zuiden van Basilicata, waar boerenfamilies samen met hun vee leefden in omstandigheden waarvoor de naoorlogse Italiaanse staat zich schaamde. De bewoners werden gedwongen verhuisd. Zestig jaar later is Matera UNESCO-werelderfgoed, was het in 2019 Culturele Hoofdstad van Europa en herbergt het enkele van de sfeervolste boetiekhotels van Italië.
+Nadat Carlo Levi's *Christus kwam niet verder dan Eboli* (1945) het hele land op Matera had gewezen, kreeg de stad de bijnaam "de schande van Italië": een doolhof van rotswoningen in het zuiden van Basilicata, waar boerenfamilies samen met hun vee leefden in omstandigheden waarvoor de naoorlogse Italiaanse staat zich schaamde. De bewoners werden gedwongen verhuisd. Zestig jaar later is Matera UNESCO-werelderfgoed, was het in 2019 Culturele Hoofdstad van Europa en herbergt het enkele van de sfeervolste boetiekhotels van Italië.
 
 De sassi, wat "stenen" betekent, zijn een labyrint van grotwoningen, uitgehouwen in twee ravijnen (de Sasso Caveoso en de Sasso Barisano) en een kloof (de Gravina), met een geschiedenis van meer dan 9.000 jaar. In sommige grotkerken zitten nog Byzantijnse fresco's. 's Avonds, als de sassi van binnenuit verlicht zijn en de kloof beneden in het donker verdwijnt, is het landschap echt magisch.
 

@@ -4,7 +4,7 @@ title: "Der große Hotelratgeber für die Flitterwochen: außergewöhnliche Unte
 excerpt: "Ihre Flitterwochen verdienen etwas Außergewöhnliches. Von Privatinseln im Indischen Ozean bis zu Höhlensuiten hoch über den Tälern Kappadokiens: Das sind die romantischsten außergewöhnlichen Hotels der Welt."
 seo:
   metaTitle: "Flitterwochen: die romantischsten Hotels | StayAtNiche"
-  metaDescription: "Die außergewöhnlichsten Hotels für die Flitterwochen: Privatinseln, Wasservillen, Baumhaussuiten im Dschungel und Höhlenrefugien – für die romantischste Reise Ihres Lebens."
+  metaDescription: "Die außergewöhnlichsten Hotels für die Flitterwochen: Privatinseln, Wasservillen, Baumhaussuiten im Dschungel und Höhlensuiten für Ihre Hochzeitsreise."
 ---
 
 Die Paare, die sich ein Leben lang an ihre Hochzeitsreise erinnern, sind nicht jene, die ein nettes Resort gebucht und eine Woche am Strand gelegen haben. Es sind jene, die über türkisfarbenen Lagunen aufgewacht sind, im Morgengrauen durch Nebelwälder gewandert sind, vom Bett aus Polarlichter beobachtet haben oder bei Sonnenaufgang im Heißluftballon über Feenkamine geschwebt sind. Die Unterkünfte in diesem Ratgeber teilen ein Kriterium: Sie schenken Erlebnisse, die Teil der gemeinsamen Geschichte eines Paares werden – die Bezugspunkte, auf die man sich Jahre später beruft, die Nächte, die zur Antwort werden auf die Frage: „Was ist das Außergewöhnlichste, das ihr je zusammen erlebt habt?“

@@ -59,7 +59,7 @@ Uçhisar se encuentra en el punto más alto de Capadocia, y la ubicación de Kal
 ---
 
 
-En 1993, Carlo Levi describió Matera como «la vergüenza de Italia»: un laberinto de viviendas excavadas en la roca en el sur de Basilicata donde las familias campesinas vivían con su ganado en unas condiciones que avergonzaban al Estado italiano de la posguerra. Los habitantes fueron realojados a la fuerza. Sesenta años después, Matera es Patrimonio de la Humanidad de la UNESCO, fue Capital Europea de la Cultura en 2019 y alberga algunos de los hoteles boutique con más encanto de Italia.
+Después de que *Cristo se detuvo en Éboli* (1945), de Carlo Levi, la pusiera en el foco nacional, Matera pasó a ser conocida como «la vergüenza de Italia»: un laberinto de viviendas excavadas en la roca en el sur de Basilicata donde las familias campesinas vivían con su ganado en unas condiciones que avergonzaban al Estado italiano de la posguerra. Los habitantes fueron realojados a la fuerza. Sesenta años después, Matera es Patrimonio de la Humanidad de la UNESCO, fue Capital Europea de la Cultura en 2019 y alberga algunos de los hoteles boutique con más encanto de Italia.
 
 Los sassi, que significa «piedras», son un laberinto de viviendas cueva excavadas en dos barrancos (el Sasso Caveoso y el Sasso Barisano) y un cañón (la Gravina), con una historia de más de 9000 años. Algunas de las iglesias rupestres conservan todavía frescos bizantinos. De noche, cuando los sassi se iluminan desde dentro y el cañón se sume en la oscuridad, el paisaje resulta realmente mágico.
 

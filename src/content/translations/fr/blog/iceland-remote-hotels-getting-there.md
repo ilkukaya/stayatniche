@@ -4,7 +4,7 @@ title: "Hôtels isolés en Islande : y aller sans voyage organisé"
 excerpt: "Les hébergements les plus extraordinaires d'Islande (dômes géodésiques au bord des lagunes glaciaires, phares reconvertis sur des péninsules atlantiques, cabanes-bulles pour les aurores au fin fond des fjords de l'Ouest) demandent une organisation qui va bien au-delà de Booking.com. Voici comment rejoindre les plus reculés sans passer par un groupe."
 seo:
   metaTitle: "Hôtels isolés en Islande : y aller seul | StayAtNiche"
-  metaDescription: "Rejoindre seul les hôtels les plus isolés d'Islande : vols, location de voiture, conduite en hiver et les adresses insolites que la route circulaire ne dessert pas."
+  metaDescription: "Rejoindre seul les hôtels les plus isolés d'Islande : vols, location de voiture, conduite en hiver et les adresses insolites loin de la route circulaire."
 ---
 
 L'Islande récompense le voyageur qui ne suit pas le groupe. Le Cercle d'or (Geysir, Gullfoss, Þingvellir) fonctionne au rythme des cars qui déversent des groupes toutes les 20 minutes. Les lieux où il vaut vraiment la peine de dormir, ceux qui donnent les photos et cet état second que procure un beau voyage, ne figurent presque jamais sur ces itinéraires.

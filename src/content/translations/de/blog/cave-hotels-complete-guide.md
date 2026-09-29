@@ -59,7 +59,7 @@ Uçhisar liegt am höchsten Punkt Kappadokiens, und die Lage des Kale Konak nahe
 ---
 
 
-1993 bezeichnete Carlo Levi Matera als „Schande Italiens“ – ein Gewirr aus Felsbehausungen im Süden der Basilikata, in denen Bauernfamilien mit ihrem Vieh unter Bedingungen lebten, die den italienischen Nachkriegsstaat beschämten. Die Bewohner wurden zwangsumgesiedelt. Sechzig Jahre später ist Matera UNESCO-Welterbe, war 2019 Kulturhauptstadt Europas und beherbergt einige der stimmungsvollsten Boutiquehotels Italiens.
+Nachdem Carlo Levis Roman *Christus kam nur bis Eboli* (1945) ganz Italien auf die Stadt aufmerksam gemacht hatte, galt Matera als „Schande Italiens“ – ein Gewirr aus Felsbehausungen im Süden der Basilikata, in denen Bauernfamilien mit ihrem Vieh unter Bedingungen lebten, die den italienischen Nachkriegsstaat beschämten. Die Bewohner wurden zwangsumgesiedelt. Sechzig Jahre später ist Matera UNESCO-Welterbe, war 2019 Kulturhauptstadt Europas und beherbergt einige der stimmungsvollsten Boutiquehotels Italiens.
 
 Die Sassi – übersetzt „Steine“ – sind ein Labyrinth aus Höhlenwohnungen, gehauen in zwei Talmulden (den Sasso Caveoso und den Sasso Barisano) und eine Schlucht (die Gravina), deren Geschichte über 9.000 Jahre zurückreicht. Einige der Höhlenkirchen bergen noch byzantinische Fresken. Nachts, wenn die Sassi von innen leuchten und die Schlucht darunter in Dunkelheit versinkt, ist die Landschaft wahrhaft magisch.
 

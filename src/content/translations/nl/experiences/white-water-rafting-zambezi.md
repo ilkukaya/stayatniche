@@ -27,7 +27,7 @@ notIncluded:
   - Overnachting en maaltijden naast de lunch
   - Visumkosten voor Zambia of Zimbabwe
 seo:
-  metaTitle: "Wildwaterraften op de Zambezi, Victoriawatervallen | StayAtNiche"
+  metaTitle: "Wildwaterraften op de Zambezi, Batoka Gorge | StayAtNiche"
   metaDescription: "Raft 23 km stroomversnellingen van klasse IV-V door de Batoka Gorge: de meest geprezen raftingtocht van één dag ter wereld. Vanaf $ 160 per persoon, hele dag."
 ---
 

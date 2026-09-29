@@ -4,7 +4,7 @@ title: "Kappadokien: der große Ratgeber zu Heißluftballons und Höhlenhotels"
 excerpt: "Im Morgengrauen über Feenkamine schweben, in einer jahrtausendealten Felssuite schlafen: Kappadokien bietet gleich zwei der außergewöhnlichsten Reiseerlebnisse auf einmal."
 seo:
   metaTitle: "Kappadokien: Höhlenhotels & Ballonfahrt | StayAtNiche"
-  metaDescription: "Die besten Höhlenhotels in Kappadokien, Tipps zur Buchung einer Ballonfahrt, die beste Reisezeit und alles, was Sie für eine außergewöhnliche Türkeireise brauchen."
+  metaDescription: "Die besten Höhlenhotels in Kappadokien, Tipps zur Buchung einer Ballonfahrt, die beste Reisezeit und alles, was Sie für eine besondere Türkeireise brauchen."
 ---
 
 Im Morgengrauen über Göreme, noch bevor die Sonne ganz über den vulkanischen Tuffformationen steht, beginnt sich der Himmel zu füllen. Erst ein Ballon, dann zehn, dann dreißig, dann hundert, die in langsamer Stille über eine Landschaft treiben, die – es gibt kein anderes Wort dafür – wie ein anderer Planet aussieht. Darunter, in Zimmern, die direkt in den vor drei Millionen Jahren durch Vulkanausbrüche entstandenen Fels gehauen sind, erwachen Gäste in Betten aus Leinen und behauenem Stein und bereiten sich darauf vor, das Schauspiel mit einem Glas türkischem Tee von der eigenen Terrasse aus zu verfolgen.

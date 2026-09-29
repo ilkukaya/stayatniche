@@ -4,7 +4,7 @@ title: "Schlosshotels in Europa: der große Ratgeber für Nächte in mittelalter
 excerpt: "Von Festungen in den schottischen Highlands bis zu den Châteaux der Loire: Entdecken Sie Europas schönste Schlosshotels, in denen jahrhundertealte Geschichte auf zeitgemäßen Luxus trifft."
 seo:
   metaTitle: "Die schönsten Schlosshotels in Europa | StayAtNiche"
-  metaDescription: "Europas schönste Schlosshotels von Schottland bis Portugal: mittelalterliche Burgen, französische Châteaux und irische Herrenhäuser als außergewöhnliche Unterkünfte."
+  metaDescription: "Europas schönste Schlosshotels von Schottland bis Portugal: mittelalterliche Burgen, französische Châteaux und irische Herrenhäuser mit Preisen und Tipps."
 ---
 
 Die Vorstellung, in einer mittelalterlichen Burg zu schlafen, übt einen tiefen Reiz aus. Die dicken Steinmauern, die Jahrhunderte der Geschichte gesehen haben, die Türmchen, in denen einst Wachen den fernen Horizont absuchten, die großen Säle, in denen Feste gefeiert und Bündnisse geschmiedet wurden – ein Aufenthalt im Schlosshotel versetzt Sie mitten in ein lebendiges Stück europäischer Geschichte, wie es kein Museum vermag.

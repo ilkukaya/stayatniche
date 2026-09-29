@@ -4,7 +4,7 @@ title: "Les 30 hôtels les plus insolites du monde : des séjours extraordinair
 excerpt: "Des chambres sous-marines aux Maldives à une capsule transparente accrochée à une falaise péruvienne, 30 des expériences hôtelières les plus extraordinaires et insolites du monde, classées par catégorie."
 seo:
   metaTitle: "Les 30 hôtels les plus insolites du monde | StayAtNiche"
-  metaDescription: "Les hôtels les plus insolites du monde : chambres sous-marines, suites de glace, bulles dans les arbres, grottes et capsules à flanc de falaise sur tous les continents."
+  metaDescription: "Les hôtels les plus insolites du monde : chambres sous-marines, suites de glace, bulles perchées, grottes et capsules à flanc de falaise sur chaque continent."
 ---
 
 Le monde compte trop de chambres d'hôtel beiges. Si vous lisez ces lignes, vous savez déjà qu'il existe une autre voie : des hébergements si originaux que le séjour lui-même devient le cœur du voyage. Nous avons répertorié les exemples les plus extraordinaires dans toutes les catégories imaginables.
