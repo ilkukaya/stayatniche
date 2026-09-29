@@ -57,8 +57,8 @@ nearbyAttractions:
   - name: Kenai Fjords National Park
     distance: 120 km
 coordinates:
-  lat: 59.5500
-  lng: -151.3000
+  lat: 59.51096
+  lng: -151.383726
 featured: false
 editorsPick: false
 trending: false

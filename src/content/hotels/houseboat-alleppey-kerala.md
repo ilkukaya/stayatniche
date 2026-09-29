@@ -41,6 +41,7 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Alleppey,+Kerala"
     label: "Find Tours on Klook"
+status: draft
 ---
 
 The backwaters of Kerala, the labyrinthine network of lagoons, canals, lakes, and rivers that runs parallel to the Malabar coast for nearly 900 kilometres, constitute one of Asia's most extraordinary and least easily categorised landscapes. Here, the distinction between water and land is perpetually negotiable: villages stand on narrow strips of earth between canals, farmers wade through paddy fields surrounded by water on three sides, and the fishermen who work the backwater network have developed techniques, including the famous Chinese fishing nets of Kochi, that reflect centuries of adaptation to a world that is half liquid.

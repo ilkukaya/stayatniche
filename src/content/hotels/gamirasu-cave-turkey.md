@@ -72,8 +72,8 @@ nearbyAttractions:
   - name: "Uçhisar Castle"
     distance: "22 km"
 coordinates:
-  lat: 38.5333
-  lng: 34.6167
+  lat: 38.545764
+  lng: 34.870935
 featured: false
 editorsPick: true
 trending: false

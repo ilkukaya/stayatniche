@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/hotel/cr/lapa-rios.html
 rating: 9.4
 reviewCount: 1234
 coordinates:
-  lat: 8.3833
-  lng: -83.4167
+  lat: 8.4003528
+  lng: -83.2852958
 featured: false
 affiliateLinks:
   - partner: "expedia"

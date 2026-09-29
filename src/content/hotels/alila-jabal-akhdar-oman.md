@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Bahla Fort (UNESCO World Heritage)
     distance: 40 km
 coordinates:
-  lat: 23.0000
-  lng: 57.6500
+  lat: 23.140472
+  lng: 57.540044
 featured: false
 status: published
 seo:

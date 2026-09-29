@@ -74,8 +74,8 @@ nearbyAttractions:
   - name: "Chichester"
     distance: "22 km"
 coordinates:
-  lat: 50.8833
-  lng: -0.5167
+  lat: 50.909039
+  lng: -0.540224
 featured: false
 editorsPick: true
 trending: false

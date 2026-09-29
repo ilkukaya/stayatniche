@@ -61,7 +61,7 @@ coordinates:
   lat: 43.1651
   lng: -70.5912
 featured: false
-status: published
+status: draft
 seo:
   metaTitle: "Nubble Lighthouse Inn Review, Cape Neddick Light, York Beach, Maine"
   metaDescription: "Stay with views of America's most photographed lighthouse at York Beach, Maine. Lobster, New England charm, and classic coastal atmosphere on the southern Maine coast. From $180/night."

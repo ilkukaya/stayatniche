@@ -41,6 +41,7 @@ affiliateLinks:
   - partner: "klook"
     url: "https://www.klook.com/en-US/search-results/?query=Normandy"
     label: "Find Tours on Klook"
+status: draft
 ---
 
 Normandy is a region of deep greens and soft silences: apple orchards, hedgerow-bordered meadows, and skies that shift through dozens of shades of grey and blue in a single afternoon. La Bulle Enchantée plants its transparent domes directly within this landscape. The result is a sleeping experience that feels both rooted in the French countryside and entirely outside ordinary life.

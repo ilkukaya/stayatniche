@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Moray Agricultural Terraces
     distance: 40 km
 coordinates:
-  lat: -13.2589
-  lng: -72.2653
+  lat: -13.1676675
+  lng: -72.2836888
 featured: true
 status: published
 seo:

@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Sydney CBD
     distance: 160 km
 coordinates:
-  lat: -32.8333
-  lng: 151.3000
+  lat: -33.023568
+  lng: 149.956902
 featured: false
 status: published
 seo:

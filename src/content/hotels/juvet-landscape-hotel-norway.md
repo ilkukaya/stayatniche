@@ -33,8 +33,8 @@ bookingUrl: https://www.booking.com/hotel/no/juvet-landscape-hotel.html
 rating: 9.2
 reviewCount: 487
 coordinates:
-  lat: 62.3333
-  lng: 7.4667
+  lat: 62.332507
+  lng: 7.470861
 featured: true
 affiliateLinks:
   - partner: "expedia"

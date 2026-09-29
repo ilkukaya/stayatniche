@@ -61,7 +61,7 @@ coordinates:
   lat: 51.3656
   lng: -9.6021
 featured: false
-status: published
+status: draft
 seo:
   metaTitle: "Fastnet Rock Lighthouse Experience Review, Ireland's Teardrop, County Cork"
   metaDescription: "Visit Ireland's most famous lighthouse, 14 km off the Cork coast. Boat excursions to Fastnet Rock with Atlantic wildlife, maritime history, and the world's most iconic offshore sailing mark. From $180."

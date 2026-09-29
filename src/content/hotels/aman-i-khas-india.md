@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Sawai Madhopur railway station
     distance: 7 km
 coordinates:
-  lat: 26.0000
-  lng: 76.5000
+  lat: 26.063655
+  lng: 76.441221
 featured: false
 status: published
 seo:

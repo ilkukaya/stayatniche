@@ -33,8 +33,8 @@ bookingUrl: https://www.booking.com/hotel/th/soneva-kiri.html
 rating: 9.4
 reviewCount: 521
 coordinates:
-  lat: 11.6333
-  lng: 102.5333
+  lat: 11.6986466
+  lng: 102.5311225
 featured: true
 affiliateLinks:
   - partner: "expedia"

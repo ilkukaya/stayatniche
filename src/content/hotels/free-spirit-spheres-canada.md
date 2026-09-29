@@ -71,8 +71,8 @@ nearbyAttractions:
   - name: "Horne Lake Caves"
     distance: "22 km"
 coordinates:
-  lat: 49.3833
-  lng: -124.6167
+  lat: 49.38202
+  lng: -124.614092
 featured: true
 editorsPick: true
 trending: true

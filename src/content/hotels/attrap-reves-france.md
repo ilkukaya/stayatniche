@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Cassis
     distance: 35 km
 coordinates:
-  lat: 43.3333
-  lng: 5.4833
+  lat: 43.325512
+  lng: 5.464278
 featured: false
 status: published
 seo:

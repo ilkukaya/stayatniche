@@ -114,7 +114,7 @@ const faqItems: { q: string; a: string }[] = [
   },
   {
     q: `How much does ${hotel.data.name} cost per night?`,
-    a: /\d/.test(hotel.data.priceRange) ? `Rates typically run ${hotel.data.priceRange} per night${hotel.data.priceIndicator ? ` (${priceLabels[hotel.data.priceIndicator].toLowerCase()} tier)` : ''}. Prices change with season and availability, so check live rates before you plan.` : `Rates vary by season and room type; check live prices for your dates.`,
+    a: /^from/i.test(hotel.data.priceRange) ? `Rates start ${hotel.data.priceRange.toLowerCase()} per night; prices change with season and availability, so check live rates for your dates.` : /\d/.test(hotel.data.priceRange) ? `Rates typically run ${hotel.data.priceRange} per night${hotel.data.priceIndicator ? ` (${priceLabels[hotel.data.priceIndicator].toLowerCase()} tier)` : ''}. Prices change with season and availability, so check live rates before you plan.` : `Rates vary by season and room type; check live prices for your dates.`,
   },
   ...(hotel.data.seasonalInfo ? [{
     q: `When is the best time to visit ${hotel.data.name}?`,

@@ -61,7 +61,7 @@ coordinates:
   lat: 37.9957
   lng: -122.9994
 featured: false
-status: published
+status: draft
 seo:
   metaTitle: "Point Reyes Lighthouse Hostel Review, Coastal Wilderness Accommodation, California"
   metaDescription: "Stay within Point Reyes National Seashore at the historic Coast Guard lifeboat station. Grey whale watching, tule elk, and exceptional hiking on the California coast. From $30/night."

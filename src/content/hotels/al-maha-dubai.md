@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Dubai International Airport
     distance: 50 km
 coordinates:
-  lat: 24.9667
-  lng: 55.5167
+  lat: 24.8229989
+  lng: 55.6624743
 featured: false
 status: published
 seo:

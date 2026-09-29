@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/hotel/pf/intercontinental-bora-bora-resort-t
 rating: 9.3
 reviewCount: 2145
 coordinates:
-  lat: -16.4917
-  lng: -151.7417
+  lat: -16.505202
+  lng: -151.701447
 featured: false
 affiliateLinks:
   - partner: "expedia"

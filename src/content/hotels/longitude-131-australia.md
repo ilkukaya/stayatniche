@@ -59,8 +59,8 @@ nearbyAttractions:
   - name: Uluru-Kata Tjuta Cultural Centre
     distance: 8 km
 coordinates:
-  lat: -25.3444
-  lng: 131.0369
+  lat: -25.250359
+  lng: 131.008058
 featured: true
 status: published
 seo:

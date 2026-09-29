@@ -74,8 +74,8 @@ nearbyAttractions:
   - name: "The Burren National Park"
     distance: "45 km"
 coordinates:
-  lat: 52.7417
-  lng: -8.8611
+  lat: 52.783048
+  lng: -8.905636
 featured: true
 editorsPick: true
 trending: false

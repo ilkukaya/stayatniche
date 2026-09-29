@@ -72,8 +72,8 @@ nearbyAttractions:
   - name: "Lake Mälaren archipelago"
     distance: "on-site"
 coordinates:
-  lat: 59.6167
-  lng: 16.5833
+  lat: 59.594608
+  lng: 16.564254
 featured: false
 editorsPick: true
 trending: false

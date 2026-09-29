@@ -61,7 +61,7 @@ coordinates:
   lat: -34.3739
   lng: 115.1347
 featured: false
-status: published
+status: draft
 seo:
   metaTitle: "Cape Leeuwin Lighthouse Cottages Review, Where Two Oceans Meet, Western Australia"
   metaDescription: "Stay in the historic keeper's cottages at Cape Leeuwin, where the Indian and Southern Oceans collide at Australia's southwestern tip. Whale watching, lighthouse climbs, and wild coastal scenery. From $280/night."

@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/hotel/se/arctic-bath.html
 rating: 9.4
 reviewCount: 892
 coordinates:
-  lat: 66.0833
-  lng: 21.0000
+  lat: 66.088693
+  lng: 20.938161
 featured: false
 affiliateLinks:
   - partner: "expedia"

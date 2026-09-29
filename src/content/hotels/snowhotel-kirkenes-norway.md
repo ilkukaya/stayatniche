@@ -31,8 +31,8 @@ bookingUrl: https://www.booking.com/hotel/no/snowhotel-kirkenes.html
 rating: 9.1
 reviewCount: 734
 coordinates:
-  lat: 69.7272
-  lng: 30.0452
+  lat: 69.676827
+  lng: 29.904617
 featured: false
 affiliateLinks:
   - partner: "expedia"

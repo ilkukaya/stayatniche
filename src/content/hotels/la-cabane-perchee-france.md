@@ -78,7 +78,7 @@ coordinates:
 featured: true
 editorsPick: true
 trending: true
-status: "published"
+status: draft
 publishedDate: 2025-01-15
 seo:
   metaTitle: "La Cabane Perchée Review, Luxury Treehouses in the Dordogne, France"

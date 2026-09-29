@@ -33,8 +33,8 @@ bookingUrl: https://www.booking.com/hotel/no/manshausen.html
 rating: 9.0
 reviewCount: 356
 coordinates:
-  lat: 67.8833
-  lng: 15.4667
+  lat: 67.835247
+  lng: 14.773851
 featured: false
 affiliateLinks:
   - partner: "expedia"
