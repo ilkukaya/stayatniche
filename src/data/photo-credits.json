@@ -818,15 +818,6 @@
     "matched": "Key West",
     "distanceKm": 0.4
   },
-  "dest:french-polynesia": {
-    "author": "NASA",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:Tahiti_ISS007_14626.jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q42000",
-    "matched": "Tahiti",
-    "distanceKm": 6.5
-  },
   "dest:hawaii": {
     "author": "Aaronbernstein",
     "license": "CC BY-SA 3.0",
