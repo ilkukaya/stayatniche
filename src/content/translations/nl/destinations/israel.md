@@ -26,7 +26,7 @@ travelTips:
   - "De Negevwoestijn verken je het best met de auto; het openbaar vervoer komt niet in het grootste deel van het binnenland."
   - "Kraanwater is in heel Israël veilig om te drinken."
 seo:
-  metaTitle: "Israël reisgids: Negev, Jeruzalem en overnachten | StayAtNiche"
+  metaTitle: "Israël reisgids: Negev en Jeruzalem | StayAtNiche"
   metaDescription: "Reisgids Israël: hotels in de Negevwoestijn, de oude stad van Jeruzalem, de Dode Zee, Makhtesh Ramon en de bijzonderste overnachtingen van Tel Aviv tot Eilat."
 ---
 

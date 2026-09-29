@@ -23,7 +23,7 @@ travelTips:
   - "Veerboten vanuit Hyannis en Plymouth varen naar Nantucket en Martha's Vineyard. Reserveer een plek voor je auto op zomerafvaarten maanden vooruit."
   - "De restaurantscene op de Cape is seizoensgebonden: veel van de beste adressen zijn van oktober tot en met april dicht. Check dat vooraf als je buiten het seizoen gaat."
 seo:
-  metaTitle: "Cape Cod reisgids: bijzondere hotels aan de kust | StayAtNiche"
+  metaTitle: "Cape Cod reisgids: bijzonder aan de kust | StayAtNiche"
   metaDescription: "De bijzonderste overnachtingen op Cape Cod: herbergen bij vuurtorens, huisjes in de duinen en retreats in kunstenaarskolonies. Je complete gids voor de Cape."
 ---
 

@@ -29,7 +29,7 @@ travelTips:
   - "Leer een paar woorden Italiaans; zelfs eenvoudige beleefdheidsfrasen openen deuren en maken contacten een stuk warmer."
 seo:
   metaTitle: "Toscane reisgids: wijndomeinen en Val d'Orcia | StayAtNiche"
-  metaDescription: "De bijzonderste overnachtingen in Toscane: hotels in verbouwde kloosters, wijndomeinen en retreats in heuvelborghi. Je complete gids voor Chianti en Val d'Orcia."
+  metaDescription: "De bijzonderste overnachtingen in Toscane: hotels in oude kloosters, wijndomeinen en retreats in heuvelborghi. Je complete gids voor Chianti en Val d'Orcia."
 ---
 
 Bestel de met de hand gesneden pici in een cantina met stenen gewelven in Montalcino. Zie het licht in de Val d'Orcia in de schemering rozegoud worden boven de heuvelruggen met hun eenzame cipressen. Kom aan bij je verbouwde boerderij uit de 13e eeuw, met de wijnranken tegen de luiken gedrukt. Toscane is Italië op zijn meest lonend, en dat is het al lang genoeg om precies te weten wat het doet.

@@ -25,8 +25,8 @@ travelTips:
   - "Drink alleen flessenwater of gefilterd water. IJs in goede restaurants is meestal veilig, maar vermijd ijs bij straatstalletjes."
   - "De meeste tempels vragen een kleine toegangsprijs; kleed je bedekt (schouders en knieën) op alle religieuze plekken."
 seo:
-  metaTitle: "Luang Prabang reisgids: koloniale hotels en tempels | StayAtNiche"
-  metaDescription: "Reisgids Luang Prabang: tempels op de Werelderfgoedlijst, boetiekhotels in Franse koloniale villa's, de aalmoesceremonie van de monniken en de Kuang Si-watervallen."
+  metaTitle: "Luang Prabang reisgids: tempels en villa's | StayAtNiche"
+  metaDescription: "Reisgids Luang Prabang: tempels op de Werelderfgoedlijst, boetiekhotels in Franse koloniale villa's, de aalmoesceremonie en de Kuang Si-watervallen."
 ---
 
 Luang Prabang staat sinds 1995 op de Werelderfgoedlijst van UNESCO, en die status heeft stand gehouden. Waar andere Laotiaanse steden betonnen rasters werden, bleef dit koninklijke schiereiland op de samenvloeiing van de Mekong en de Nam Khan beloopbaar, vol tempels en herkenbaar zichzelf. Het is een van de weinige plekken in Zuidoost-Azië waar het woord 'ongerept' geen marketingverzinsel is.

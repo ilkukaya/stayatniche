@@ -23,8 +23,8 @@ travelTips:
   - "Bizons zijn wild en gevaarlijk: ze lijken traag, maar kunnen zonder waarschuwing met 35 mph aanvallen. De National Park Service raadt aan altijd minstens 25 yards afstand te houden."
   - "Het stadje Wall, thuis van Wall Drug, is de commerciële toegangspoort tot het park en een werkelijk uniek stukje Amerikaanse wegcultuur dat een uurtje van je tijd waard is."
 seo:
-  metaTitle: "Badlands reisgids: prairie en bijzonder overnachten | StayAtNiche"
-  metaDescription: "Ontdek de Badlands van South Dakota: glamping op de prairie, lodges in de Black Hills en overnachtingen op ranches in de wildernis. Je complete gids voor de regio."
+  metaTitle: "Badlands reisgids: prairie en lodges | StayAtNiche"
+  metaDescription: "Ontdek de Badlands van South Dakota: glamping op de prairie, lodges in de Black Hills en overnachtingen op ranches in de wildernis. Je gids voor de regio."
 ---
 
 De formaties van de Badlands begonnen zo'n 500.000 jaar geleden te eroderen en slijten nog steeds met ongeveer een inch per jaar, wat betekent dat wat je nu ziet over nog eens 500.000 jaar helemaal verdwenen is. De fossielen in de gesteentelagen zijn nog ouder: de lagen uit het Oligoceen bevatten hier enkele van de rijkste vindplaatsen van prehistorische zoogdieren op aarde, waaronder voorouders van paarden, neushoorns en kamelen die 30–35 miljoen jaar geleden over deze prairies trokken. In het bezoekerscentrum van het park zit een fossielenlab waar je paleontologen live aan specimens ziet werken.

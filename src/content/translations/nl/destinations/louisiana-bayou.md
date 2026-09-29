@@ -23,7 +23,7 @@ travelTips:
   - "In sommige gemeenschappen wordt nog cajunfrans gesproken; de bewoners zijn doorgaans trots op dat taalerfgoed en waarderen respectvolle nieuwsgierigheid."
   - "Overstromingen zijn een vaste realiteit in de laaggelegen bayougemeenschappen. Check altijd de weersvoorspelling en de staat van de wegen, zeker na zware regen."
 seo:
-  metaTitle: "Louisiana bayou reisgids: moerassen en overnachten | StayAtNiche"
+  metaTitle: "Louisiana bayou reisgids: moerassen | StayAtNiche"
   metaDescription: "Ontdek het bayouland van Louisiana: hutten in cipressenmoerassen, herbergen op plantages en overnachtingen in de cajuncultuur. Je complete gids voor de bayou."
 ---
 

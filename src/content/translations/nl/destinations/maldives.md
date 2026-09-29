@@ -27,7 +27,7 @@ travelTips:
   - "De overwatervilla's met het mooiste uitzicht liggen op het westen, voor de zonsondergang. Geef dat altijd aan bij het boeken."
   - "Een reisverzekering die duiken dekt, is voor de meeste bezoekers onmisbaar."
 seo:
-  metaTitle: "Malediven reisgids: overwatervilla's en atollen | StayAtNiche"
+  metaTitle: "Malediven reisgids: villa's en atollen | StayAtNiche"
   metaDescription: "Ontdek de Malediven voorbij de folder: overwaterbungalows, privéatollen, bioluminescente stranden en de beste duikstekken ter wereld. Je complete reisgids."
 ---
 

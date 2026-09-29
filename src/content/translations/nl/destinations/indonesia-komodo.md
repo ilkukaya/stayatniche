@@ -25,7 +25,7 @@ travelTips:
   - "De stroming in de Straat van Komodo kan extreem sterk zijn en sommige duikstekken zijn alleen geschikt voor gevorderde duikers. Wees eerlijk over je ervaring."
   - "Labuan Bajo is de laatste jaren enorm vooruitgegaan. Boek hier accommodatie voor en na een duiksafari, want vluchten raken snel vol."
 seo:
-  metaTitle: "Komodo reisgids: varanen, duiken en roze strand | StayAtNiche"
+  metaTitle: "Komodo reisgids: varanen en duiken | StayAtNiche"
   metaDescription: "Reisgids Komodo: komodovaranen, uitzonderlijk duiken, roze stranden, mantaroggen en duiksafari's aan boord in de Indonesische regio Nusa Tenggara."
 ---
 

@@ -23,8 +23,8 @@ travelTips:
   - "Regel een Bob of vervoer als je op één dag meerdere distilleerderijen bezoekt: de proefglaasjes zijn royaal en de wegen ertussen zijn landelijk en soms bochtig."
   - "Voor de Kentucky Derby in de eerste week van mei moet je accommodatie in Louisville 12 maanden of langer vooruit boeken. Lexington (80 mijl verderop) is een praktische uitvalsbasis als Louisville vol zit."
 seo:
-  metaTitle: "Kentucky Bourbon Trail: reisgids en overnachten | StayAtNiche"
-  metaDescription: "Ontdek de Bourbon Trail van Kentucky: herbergen op landgoederen, B&B's in het paardenland en lodges bij distilleerderijen in de Bluegrass State. Je complete gids."
+  metaTitle: "Kentucky Bourbon Trail reisgids | StayAtNiche"
+  metaDescription: "Ontdek de Bourbon Trail van Kentucky: herbergen op landgoederen, B&B's in het paardenland en lodges bij distilleerderijen in de Bluegrass State."
 ---
 
 Vijfennegentig procent van alle bourbon ter wereld wordt in Kentucky gemaakt, en dat is geen toeval. De kalksteenbodem filtert het water dat voor de productie wordt gebruikt, het klimaat drijft de whiskey door koude winters en hete zomers in en uit nieuwe, uitgebrande eikenhouten vaten, en de stokersfamilies van Nelson en Woodford County verfijnen deze technieken al generaties lang. Bourbon uit een fles in een bar in Manhattan is één ding. Om 7 uur 's ochtends op de veranda van een boerderij in Nelson County zitten, kijkend hoe de mist van de heuvels optrekt, met iets op vatsterkte van een distilleerderij op 20 minuten afstand in je hand, is iets heel anders.

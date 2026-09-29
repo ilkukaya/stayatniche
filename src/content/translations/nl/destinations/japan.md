@@ -28,7 +28,7 @@ travelTips:
   - "Boek populaire ryokans 3–6 maanden vooruit, zeker in Kyoto in het hoogseizoen."
 seo:
   metaTitle: "Japan reisgids: ryokans, shinkansen en meer | StayAtNiche"
-  metaDescription: "Complete reisgids Japan: overnachten in een ryokan, shinkansenroutes, kunsteiland Naoshima, glamping op Hokkaido en de bijzonderste slaapplekken van Kyoto tot Niseko."
+  metaDescription: "Reisgids Japan: overnachten in een ryokan, shinkansenroutes, kunsteiland Naoshima, glamping op Hokkaido en de bijzonderste slaapplekken tot in Niseko."
 ---
 
 Het treinnet is het beste argument voor Japan als reisbestemming. De shinkansen – het hogesnelheidsnet dat Tokio in 2,5 uur met Osaka verbindt en in het noorden tot Hokkaido en in het zuiden tot Kagoshima reikt – is een stuk infrastructuur dat zo betrouwbaar, zo schoon en zo precies op tijd is dat de gangbare vergelijking een luchthaven is: veiligheidscontrole, genummerde stoelen, geen vertraging. De punctualiteit van de Tokaido-shinkansen (de lijn Tokio–Osaka, de drukste hogesnelheidslijn ter wereld) wordt gemeten in seconden gemiddelde vertraging per jaar, niet in minuten.

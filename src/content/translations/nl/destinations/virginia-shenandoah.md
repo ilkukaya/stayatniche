@@ -23,8 +23,8 @@ travelTips:
   - "Voor Old Rag Mountain heb je van maart tot en met november in het weekend en op feestdagen een aparte reservering met tijdslot nodig. Boek ruim vooruit via Recreation.gov."
   - "De Appalachian Trail kruist Skyline Drive op meerdere punten. Stukken wandelen tussen die kruisingen is een van de beste manieren om het park te beleven voorbij de uitkijkpunten."
 seo:
-  metaTitle: "Shenandoah reisgids: wijnherbergen en boerderijen | StayAtNiche"
-  metaDescription: "Ontdek de Shenandoah Valley in Virginia: herbergen op wijngaarden, blokhutten in de Blue Ridge en historische boerderijverblijven. Je complete gids voor de vallei."
+  metaTitle: "Shenandoah reisgids: wijn en boerderijen | StayAtNiche"
+  metaDescription: "Ontdek de Shenandoah Valley in Virginia: herbergen op wijngaarden, blokhutten in de Blue Ridge en historische boerderijverblijven. Je gids voor de vallei."
 ---
 
 De Shenandoah Valley is een van de langst onafgebroken bewoonde landschappen van Noord-Amerika: inheemse Amerikanen, Europese kolonisten, legers uit de Burgeroorlog en generaties boeren hebben allemaal hun sporen achtergelaten in een vallei die ondanks alles werkelijk prachtig is gebleven. De Blue Ridge in het oosten en de Alleghenies in het westen vormen een beschutte corridor van buitengewone vruchtbaarheid, en daarom werd er zo fel om de vallei gevochten en zijn de boerderijen en boomgaarden er vandaag nog zo productief.

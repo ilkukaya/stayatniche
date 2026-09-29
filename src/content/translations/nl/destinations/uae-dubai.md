@@ -28,8 +28,8 @@ travelTips:
   - "De woestijn op een uur rijden van Dubai is een totaal andere wereld: een nacht in een kamp onder de sterren is een van de meest memorabele ervaringen van de VAE."
   - "Openlijke uitingen van genegenheid zijn formeel verboden; wees net zo discreet als in elke conservatieve cultuur."
 seo:
-  metaTitle: "Dubai reisgids: woestijnresorts en iconische hotels | StayAtNiche"
-  metaDescription: "De bijzonderste overnachtingen in Dubai en de VAE: overwatervilla's, ecokampen in de woestijn en de culturele wijk van Abu Dhabi. Je complete gids voor de Emiraten."
+  metaTitle: "Dubai reisgids: woestijn en iconische hotels | StayAtNiche"
+  metaDescription: "De bijzonderste overnachtingen in Dubai en de VAE: overwatervilla's, ecokampen in de woestijn en de culturele wijk van Abu Dhabi. Je complete gids."
 ---
 
 Dubai bouwde een overdekte skipiste in de woestijn, legde een archipel aan in de vorm van een palmboom en opende een hotel – de Burj Al Arab – waar een butler standaard is en een suite meer dan $ 10.000 per nacht kost. De stad is consequent in haar durf, en wat je er ook van vindt: het is de moeite waard om dat zelf te ervaren in plaats van het van een afstand af te doen.

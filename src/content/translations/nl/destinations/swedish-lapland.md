@@ -27,7 +27,7 @@ travelTips:
   - "Boek hondensleetochten en sneeuwscootertours weken vooruit: er zijn weinig gasten per gids en de plekken raken snel vol."
   - "Rendiervlees, kruipbramen en lokaal ambachtelijk bier zijn hoogtepunten van de regionale keuken. Zoek restaurants op die door Sami worden gerund."
 seo:
-  metaTitle: "Zweeds Lapland reisgids: noorderlicht en ICEHOTEL | StayAtNiche"
+  metaTitle: "Zweeds Lapland reisgids: noorderlicht | StayAtNiche"
   metaDescription: "Plan je avontuur in Zweeds Lapland: glazen iglo's voor het noorderlicht, een nacht in het ICEHOTEL, hondensleetochten en Samische cultuur boven de poolcirkel."
 ---
 
