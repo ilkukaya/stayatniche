@@ -98,15 +98,6 @@
     "matched": "Aconcagua",
     "distanceKm": 113.9
   },
-  "dest:arizona-grand-canyon": {
-    "author": "davidpinter",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_University,_3300_W_Camelback_Rd,_Phoenix,_AZ_85017_-_panoramio_(195).jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q4570025",
-    "matched": "Grand Canyon University",
-    "distanceKm": 288.5
-  },
   "dest:arizona-sedona": {
     "author": "Terrydarc",
     "license": "CC BY-SA 3.0",
@@ -152,15 +143,6 @@
     "matched": "Otemanu",
     "distanceKm": 0.9
   },
-  "dest:botswana": {
-    "author": "Teo Gómez",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:Okavango11.jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q650872",
-    "matched": "Okavango Delta",
-    "distanceKm": 374.7
-  },
   "dest:california-big-sur": {
     "author": "Astronautilus",
     "license": "CC BY 2.0",
@@ -196,15 +178,6 @@
     "wikidata": "https://www.wikidata.org/wiki/Q620593",
     "matched": "Göreme National Park",
     "distanceKm": 3.2
-  },
-  "dest:chile-atacama": {
-    "author": "user:idobi",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ischigualasto01.jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q639503",
-    "matched": "Ischigualasto Provincial Park",
-    "distanceKm": 802
   },
   "dest:colorado": {
     "author": "Rhododendrites",
@@ -296,15 +269,6 @@
     "matched": "Sawtooth Range",
     "distanceKm": 58.4
   },
-  "dest:india-kerala": {
-    "author": "Unknown",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "source": "https://commons.wikimedia.org/wiki/File:Kerala_Backwaters.png",
-    "wikidata": "https://www.wikidata.org/wiki/Q666519",
-    "matched": "Kerala backwaters",
-    "distanceKm": 110.2
-  },
   "dest:indonesia-komodo": {
     "author": "anoldent from Asheville, NC, USA",
     "license": "CC BY-SA 2.0",
@@ -350,15 +314,6 @@
     "matched": "Wadi Rum",
     "distanceKm": 137
   },
-  "dest:kentucky-bourbon-trail": {
-    "author": "Kaplansa",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:Buffalo_trace_distillery.jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q2927641",
-    "matched": "Buffalo Trace Distillery",
-    "distanceKm": 67.3
-  },
   "dest:kenya": {
     "author": "Morris Pügner",
     "license": "Public domain",
@@ -403,15 +358,6 @@
     "wikidata": "https://www.wikidata.org/wiki/Q337396",
     "matched": "Acadia National Park",
     "distanceKm": 139.6
-  },
-  "dest:maldives": {
-    "author": "helix84",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "source": "https://commons.wikimedia.org/wiki/File:Kaafu_Atoll.png",
-    "wikidata": "https://www.wikidata.org/wiki/Q1468407",
-    "matched": "Kaafu Atoll",
-    "distanceKm": 138.5
   },
   "dest:massachusetts-cape-cod": {
     "author": "SeduisantRedux",
@@ -467,15 +413,6 @@
     "matched": "Aït Benhaddou",
     "distanceKm": 82.6
   },
-  "dest:mozambique": {
-    "author": "Unknown",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:Bazaruto_island.jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q2860206",
-    "matched": "Bazaruto Archipelago",
-    "distanceKm": 343.1
-  },
   "dest:myanmar-inle-lake": {
     "author": "Shelly Zohar",
     "license": "CC BY-SA 4.0",
@@ -484,15 +421,6 @@
     "wikidata": "https://www.wikidata.org/wiki/Q1043461",
     "matched": "Inle Lake",
     "distanceKm": 1.7
-  },
-  "dest:namibia": {
-    "author": "MarkDhawn",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Parched-earth-dead-vlei.jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q1180957",
-    "matched": "Deadvlei",
-    "distanceKm": 382
   },
   "dest:nepal": {
     "author": "Wolfgang Beyer",
@@ -511,15 +439,6 @@
     "wikidata": "https://www.wikidata.org/wiki/Q1137657",
     "matched": "Great Basin National Park",
     "distanceKm": 7.3
-  },
-  "dest:new-hampshire-white-mountains": {
-    "author": "Allie_Caulfield from Germany",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2008-05-24_Pittsburgh_040_Duquesne_Incline_(2669552496).jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q55744609",
-    "matched": "Mount Washington",
-    "distanceKm": 832.8
   },
   "dest:new-mexico-santa-fe": {
     "author": "uncredited NPS employee",
@@ -799,14 +718,5 @@
     "wikidata": "https://www.wikidata.org/wiki/Q1422831",
     "matched": "Grand Prismatic Spring",
     "distanceKm": 22.5
-  },
-  "dest:zanzibar": {
-    "author": "Mysid",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Topographic_map_of_Zanzibar-en.svg",
-    "wikidata": "https://www.wikidata.org/wiki/Q844417",
-    "matched": "Stone Town",
-    "distanceKm": 0.4
   }
 }
