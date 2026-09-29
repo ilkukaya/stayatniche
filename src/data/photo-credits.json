@@ -1,1 +1,83 @@
-{}
+{
+  "amangiri-utah": {
+    "author": "POET ARCHITECTURE",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Amangiri_Resort_Canyon_Point_Utah.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q28941983",
+    "matched": "Amangiri",
+    "distanceKm": 2.3
+  },
+  "amberley-castle-england": {
+    "author": "Jonathan Day from Brighton, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amberley_castle.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q4741357",
+    "matched": "Amberley Castle",
+    "distanceKm": 3.3
+  },
+  "ashford-castle-ireland": {
+    "author": "yanshoof • שיחה • דרוש משתמש שיש לגביו הסכמה כללית בוויקי לניסוי מעניין (Transfered by מתניה/Original uploaded by Yanshoof)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ashford_castle_from_Lough_Corrib.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q725274",
+    "matched": "Ashford Castle, County Mayo",
+    "distanceKm": 1.4
+  },
+  "atlantis-aquaventure-bahamas": {
+    "author": "Don Ramey Logan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Royal_Tower_Atlantis_Paradise_Island_photo_Don_Ramey_Logan.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2722966",
+    "matched": "Atlantis Paradise Island",
+    "distanceKm": 0.5
+  },
+  "dromoland-castle-ireland": {
+    "author": "Srleffler at English Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Dromoland_Castle.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2547857",
+    "matched": "Dromoland Castle",
+    "distanceKm": 5.5
+  },
+  "jade-mountain-st-lucia": {
+    "author": "PSUIST",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jade_Mountain_Resort_interior.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q123419597",
+    "matched": "Jade Mountain Resort",
+    "distanceKm": 2.3
+  },
+  "kakslauttanen-finland": {
+    "author": "Tarja Mitrovic",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kakslauttanen_Igloo_village.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q41776583",
+    "matched": "Kakslauttanen Arctic Resort",
+    "distanceKm": 20.4
+  },
+  "snowcastle-kemi-finland": {
+    "author": "No machine-readable author provided. Dmit~commonswiki assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:LumiLinna.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1746596",
+    "matched": "SnowCastle of Kemi",
+    "distanceKm": 0.8
+  },
+  "treehotel-sweden": {
+    "author": "Åke E-son Lindman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Treehotel_2008-2010.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q62949281",
+    "matched": "Treehotel",
+    "distanceKm": 6.7
+  }
+}
