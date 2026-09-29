@@ -3,8 +3,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import credits from '../data/photo-credits.json';
 const hotels = await getCollection('hotels');
+const dests = await getCollection('destinations');
 const rows = Object.entries(credits as Record<string, any>)
-  .map(([slug, c]) => ({ slug, c, name: hotels.find(h => h.slug === slug)?.data.name ?? slug }))
+  .map(([key, c]) => {
+    const isDest = key.startsWith('dest:'); const slug = key.replace(/^dest:/, '');
+    const name = isDest ? `${dests.find(d => d.slug === slug)?.data.name ?? slug} (${c.matched ?? 'destination'})` : hotels.find(h => h.slug === slug)?.data.name ?? slug;
+    return { slug, c, name, href: isDest ? `/destinations/${slug}/` : `/hotels/${slug}/` };
+  })
   .sort((a, b) => a.name.localeCompare(b.name));
 ---
 <BaseLayout title="Photo credits" description="Credits and licences for photographs used on StayAtNiche.">
@@ -15,7 +20,7 @@ const rows = Object.entries(credits as Record<string, any>)
       <ul class="mt-8 divide-y divide-warm-200 border-y border-warm-200">
         {rows.map(r => (
           <li class="py-4 font-body text-sm">
-            <a href={`/hotels/${r.slug}/`} class="font-semibold text-warm-950 underline underline-offset-4">{r.name}</a>
+            <a href={r.href} class="font-semibold text-warm-950 underline underline-offset-4">{r.name}</a>
             <span class="block text-warm-600">by <a href={r.c.source} target="_blank" rel="noopener noreferrer" class="underline">{r.c.author}</a> · {r.c.licenseUrl ? <a href={r.c.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{r.c.license}</a> : r.c.license}</span>
           </li>
         ))}
