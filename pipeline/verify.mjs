@@ -10,6 +10,13 @@ import { getJSON, loadQueue, saveQueue, sleep, publishedHotels, matchesPublished
 
 const LIMIT = +(process.argv[2] ?? 400);
 const CLOSED = /permanently closed|we have (now )?closed|no longer (open|operating|accepting)|closed (for good|permanently)|this (hotel|property) (has|is) (now )?closed|ceased trading/i;
+// Hosts that are not the property's own website (listings, builders, sales, restricted/military rentals).
+const NOT_OFFICIAL = /(^|\.)(facebook|instagram|airbnb|booking|tripadvisor|lighthousesforsale|baumhaustechnik|vacationrentaldesk|nps)\.[a-z.]+$/i;
+// Hosts that legitimately list several distinct properties (don't de-dup by host).
+const MULTI = /(^|\.)(nationaltrust\.org\.uk|linkumtours\.com|keywesthistoricinns\.com|reflectionsholidays\.com\.au|jetwinghotels\.com|santashotels\.fi|doc\.govt\.nz|landmarktrust\.org\.uk|cloudbeds\.com)$/i;
+const hostOf = (u) => { try { return new URL(/^https?:/.test(u) ? u : 'https://' + u).hostname.replace(/^www\./, ''); } catch { return null; } };
+// Word-boundary version of a category's site regex, so "ice hotel" can't match "Alice Hotel".
+const bounded = (re) => new RegExp(`(?<![\\p{L}])(?:${re.source})(?![\\p{L}])`, 'iu');
 const q = loadQueue();
 const pub = publishedHotels();
 const now = new Date().toISOString().slice(0, 10);
@@ -29,12 +36,13 @@ async function fetchSite(url) {
 }
 
 const pending = Object.values(q).filter(c => c.status === 'new')
-  .sort((a, b) => Number(!!b.wikidata) - Number(!!a.wikidata) || Number(!!b.website) - Number(!!a.website))
+  .sort((a, b) => Number(!!b.recheck) - Number(!!a.recheck) || Number(!!b.wikidata) - Number(!!a.wikidata) || Number(!!b.website) - Number(!!a.website))
   .slice(0, LIMIT);
 console.log(`verifying ${pending.length} candidates`);
 
 for (const c of pending) {
   const reasons = [];
+  delete c.recheck;
   // duplicates
   const dupPub = matchesPublished(c, pub);
   if (dupPub) { c.status = 'duplicate'; c.duplicateOf = dupPub.slug; c.checkedAt = now; continue; }
@@ -74,7 +82,7 @@ for (const c of pending) {
     if (def.exclude?.test(c.name)) continue;
     let s = 0;
     if (new RegExp(def.name, 'i').test(c.name)) { s += 3; }
-    const m = siteText.match(def.site);
+    const m = siteText.match(bounded(def.site));
     if (m) s += 2;
     if (lodging) s += 1;
     if (c.wikidata) s += 1;
@@ -88,7 +96,13 @@ for (const c of pending) {
 
   if (closed) { c.status = 'rejected'; reasons.push(dissolved ? 'wikidata: dissolved' : 'website says closed'); }
   else if (!lodging) { c.status = 'rejected'; reasons.push('not tagged as accommodation'); }
-  else if (best.siteMatch && site?.ok && best.score >= 6) c.status = 'verified';
+  else if (NOT_OFFICIAL.test(hostOf(site?.url || c.website) ?? '')) { c.status = best.score >= 4 ? 'weak' : 'rejected'; reasons.push('no official website (listing/social/builder page)'); }
+  else if (best.siteMatch && site?.ok && best.score >= 6) {
+    const h = hostOf(site.url);
+    const twin = !MULTI.test(h ?? '') && Object.values(q).find(o => o !== c && o.status === 'verified' && hostOf(o.evidence?.url || o.website || '') === h);
+    if (twin) { c.status = 'duplicate'; c.duplicateOf = twin.id; reasons.push('same website as another verified candidate'); }
+    else c.status = 'verified';
+  }
   else if (best.score >= 4) { c.status = 'weak'; reasons.push(best.siteMatch ? 'low confidence' : 'no category evidence on official website'); }
   else { c.status = 'rejected'; reasons.push('category not confirmed'); }
   c.reasons = reasons;
