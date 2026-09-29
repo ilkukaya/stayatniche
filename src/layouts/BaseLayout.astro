@@ -80,6 +80,17 @@ const extraLd = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
     <meta name="generator" content={Astro.generator} />
     <meta name="format-detection" content="telephone=no" />
 
+    <!-- Travelpayouts Drive (converts partner links to tracked affiliate links). Verbatim from the dashboard. -->
+    <script is:inline nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+      (function () {
+          var script = document.createElement("script");
+          script.async = 1;
+          script.setAttribute("data-cmp-ab","2");
+          script.src = 'https://emrldco.com/NDc4MzA3.js?t=478307';
+          document.head.appendChild(script);
+      })();
+    </script>
+
     <title>{fullTitle}</title>
     <meta name="description" content={metaDesc} />
     <link rel="canonical" href={canonicalUrl} />
