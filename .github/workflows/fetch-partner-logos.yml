@@ -1,0 +1,30 @@
+name: Fetch partner logos
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Re-download existing logos (yes/no)'
+        default: 'no'
+
+permissions:
+  contents: write
+
+jobs:
+  logos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20', cache: 'npm' }
+      - run: npm ci
+      - run: node scripts/fetch-partner-logos.mjs ${{ github.event.inputs.force == 'yes' && '--force' || '' }}
+      - name: Commit results to the same branch
+        run: |
+          git config user.name "stayatniche-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/partners
+          git diff --cached --quiet && echo "No new logos" && exit 0
+          git commit -m "Add partner logos"
+          git pull --rebase origin ${GITHUB_REF_NAME}
+          git push origin HEAD:${GITHUB_REF_NAME}
