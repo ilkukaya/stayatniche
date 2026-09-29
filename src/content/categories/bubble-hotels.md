@@ -3,6 +3,7 @@ title: Bubble Hotels
 tagline: "Sleep inside a transparent stargazing dome"
 description: Sleep under the stars in transparent bubble domes that offer panoramic views of the night sky. Finland's aurora-watching bubbles are legendary, but this innovative accommodation style is spreading from Lapland to Provence.
 icon: bubble-hotels
+coverImage: /images/categories/bubble-hotels.webp
 stats:
   hotelCount: 28
   avgPrice: 380

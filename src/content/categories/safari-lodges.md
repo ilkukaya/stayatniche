@@ -3,6 +3,7 @@ title: Safari Lodges
 tagline: Where wilderness meets extraordinary luxury
 description: Fall asleep to lion roars and wake to elephant sightings from your private deck. Africa's finest safari lodges combine extraordinary, unfiltered wildlife access with levels of luxury that rival the world's great city hotels, candlelit bush dinners, private game drives, and the vast, humbling silence of the African night.
 icon: safari-lodges
+coverImage: /images/categories/safari-lodges.webp
 stats:
   hotelCount: 89
   avgPrice: 680

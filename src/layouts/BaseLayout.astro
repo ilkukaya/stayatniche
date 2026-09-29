@@ -49,7 +49,8 @@ const canonical = seo.canonicalUrl || 'https://stayatniche.com';
 const metaDesc = description || seo.defaultDescription ||
   "Find the world's most unusual hotels — treehouses, caves, underwater rooms, castles, ice palaces, and more. Curated stays that make the trip.";
 
-const ogImage = image || seo.defaultOgImage || 'https://stayatniche.com/og-default.png';
+const ogRaw = image || seo.defaultOgImage || '/og-default.png';
+const ogImage = ogRaw.startsWith('/') ? `https://stayatniche.com${ogRaw}` : ogRaw;
 
 const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site || canonical);

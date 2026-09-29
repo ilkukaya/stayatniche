@@ -3,6 +3,7 @@ title: Overwater Bungalows
 tagline: Your own private paradise above the lagoon
 description: Step directly from your bedroom into a warm turquoise lagoon. Overwater bungalows, born in French Polynesia and now found across the tropical world, are the gold standard of island luxury. Glass floors revealing the reef below, private sun decks above flawless water, and the ocean as your constant, immersive companion.
 icon: overwater-bungalows
+coverImage: /images/categories/overwater-bungalows.webp
 stats:
   hotelCount: 74
   avgPrice: 720
