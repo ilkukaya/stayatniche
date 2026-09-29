@@ -21,7 +21,7 @@ bestFor:
   - "Cultuurliefhebbers"
 seo:
   metaTitle: "Cappadocia Cave Suites: grothotel Göreme | StayAtNiche"
-  metaDescription: "Slapen in een grotsuite in het hart van Göreme, met een dakterras recht op de tientallen luchtballonnen die elke ochtend boven Cappadocië opstijgen. Vanaf $ 180."
+  metaDescription: "Slapen in een grotsuite in het hart van Göreme, met een dakterras recht op de tientallen luchtballonnen die elke ochtend boven Cappadocië opstijgen."
 ---
 
 Cappadocia Cave Suites ligt in het hart van Göreme en loopt via een reeks overwelfde kamers en uitgehakte gangen de heuvel in. De suites verschillen van karakter: sommige liggen in oorspronkelijke Byzantijnse grotruimtes met gladde tufsteenmuren en tongewelven; andere zijn hoekiger en preciezer uitgehakt, afgewerkt met Anatolische tegels en kelimkussens die warmte brengen in de lichte steen. Het tufsteen houdt het hele jaar een natuurlijke temperatuur van rond de 18 °C vast – echt koel in de zomer, en in de winter merkbaar warmer dan de buitenlucht.

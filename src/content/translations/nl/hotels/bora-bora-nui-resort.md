@@ -21,7 +21,7 @@ bestFor:
   - "Reizigers die de Stille Zuidzee niet willen missen"
 seo:
   metaTitle: "Bora Bora Nui: overwaterbungalows | StayAtNiche"
-  metaDescription: "Ruime overwaterbungalows met uitzicht op de Mount Otemanu en snorkelen vanaf je eigen terras tussen rifhaaien en roggen: Bora Bora Nui Resort & Spa in Frans-Polynesië."
+  metaDescription: "Ruime overwaterbungalows met zicht op de Mount Otemanu en snorkelen vanaf je terras tussen rifhaaien en roggen: Bora Bora Nui Resort & Spa in Frans-Polynesië."
 ---
 
 Bora Bora is het nulpunt van de overwaterbungalow: het concept werd hier bedacht, en het eiland is nog altijd het overtuigendste argument ervoor. In het midden staat de 727 meter hoge basalttop van de Mount Otemanu, omringd door een barrièrerif rond een lagune waarvan de turquoise kleur haar tot een van de meest gefotografeerde wateren op aarde heeft gemaakt. Dit is de Stille Zuidzee zoals de foto's beloven, en dat is zeldzamer dan het klinkt.

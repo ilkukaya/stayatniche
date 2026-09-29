@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: "150 km"
 seo:
   metaTitle: "Desert Cave Hotel: ondergronds in Coober Pedy | StayAtNiche"
-  metaDescription: "Slapen onder de grond in opaalhoudend zandsteen in het Desert Cave Hotel in Coober Pedy, het meest surrealistische outbackstadje van Australië. Het hele jaar 23 °C."
+  metaDescription: "Slapen onder de grond in opaalhoudend zandsteen in het Desert Cave Hotel in Coober Pedy, het vreemdste outbackstadje van Australië. Het hele jaar 23 °C."
 ---
 
 Wie door de outback van South Australia naar het noorden rijdt, ziet Coober Pedy aan de horizon opdoemen als een veld van hopen, pijpen en puin, zonder één boom. De grond is bezaaid met duizenden mijnschachten. Van een afstand lijkt het een landschap dat industrieel is afgegraven en daarna grotendeels verlaten – en in zekere zin klopt dat ook. Het stadje is gebouwd op de opaalwinning, en die heeft alles eraan bepaald, ook het feit dat de meeste van de 2000 inwoners ondergronds wonen, in huizen die dugouts heten. Als het 's zomers bovengronds regelmatig meer dan 50 °C wordt, is die logica moeilijk te weerleggen. De Aboriginalnaam voor het gebied is *kupa piti*: witte man in een gat.

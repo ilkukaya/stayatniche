@@ -26,7 +26,7 @@ travelTips:
   - "Namibia es uno de los países más seguros de África para viajar por libre: la delincuencia es baja y la infraestructura turística es fiable."
 seo:
   metaTitle: "Namibia: guía de viaje, Sossusvlei y Etosha | StayAtNiche"
-  metaDescription: "Guía de Namibia: dunas de Sossusvlei, safaris en Etosha, la Costa de los Esqueletos y los lodges en el desierto y campamentos de safari más especiales de África."
+  metaDescription: "Guía de Namibia: dunas de Sossusvlei, safaris en Etosha, la Costa de los Esqueletos y los lodges del desierto y campamentos de safari más especiales de África."
 ---
 
 Namibia recibe menos de dos millones de turistas al año, pocos para un país que ofrece tanto, lo que significa que aquí la sensación de naturaleza salvaje es auténtica, no escenificada. Puedes conducir cuatro horas por Damaraland sin cruzarte con otro vehículo. Puedes dormir en un lodge del desierto cuyo vecino más cercano está a 50 kilómetros. Un espacio intacto a esta escala es cada vez más raro. Namibia es uno de los pocos lugares donde todavía es lo normal.

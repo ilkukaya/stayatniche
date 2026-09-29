@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: 12 km
 seo:
   metaTitle: "Jade Mountain Saint Lucia: klifresort | StayAtNiche"
-  metaDescription: "Negenentwintig suites tegen de klif zonder vierde muur, met eigen infinitypool en direct zicht op de Pitons op Saint Lucia. Jade Mountain vanaf $ 1.200 per nacht."
+  metaDescription: "Negenentwintig suites tegen de klif zonder vierde muur, met eigen infinitypool en direct zicht op de Pitons op Saint Lucia. Vanaf $ 1.200 per nacht."
 ---
 
 De Pitons zijn hét beeld van Saint Lucia: twee vulkanische pluggen die ten zuiden van Soufrière loodrecht uit de Caribische Zee oprijzen, de Gros Piton van 770 meter en de Petit Piton van 743 meter, sinds 2004 UNESCO-werelderfgoed. Elk resort aan de zuidkust van Saint Lucia is zich bewust van de Pitons. Jade Mountain heeft er zijn hele architectonische concept omheen gebouwd, met negenentwintig sanctuaries tegen de klif waarin de vierde muur – die normaal de kamer afsluit en scheidt van de omgeving – volledig ontbreekt. De Pitons staan in de kamer.

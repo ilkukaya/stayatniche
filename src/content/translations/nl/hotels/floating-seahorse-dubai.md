@@ -41,7 +41,7 @@ nearbyAttractions:
     distance: "20 min met de auto vanaf de jachthaven"
 seo:
   metaTitle: "Floating Seahorse Dubai: onderwatervilla | StayAtNiche"
-  metaDescription: "Slapen 3 meter onder de Perzische Golf in de Floating Seahorse-villa's van Dubai: half ondergedompelde luxe op kunstmatige eilanden, met eigen koraalrif en dakterras."
+  metaDescription: "Slapen 3 meter onder de Perzische Golf in de Floating Seahorse-villa's van Dubai: half ondergedompelde luxe met eigen koraalrif en dakterras."
 ---
 
 Dubai heeft nooit uitgeblonken in ingetogenheid, en The Floating Seahorse past helemaal in die traditie. Deze half ondergedompelde villa's liggen bij The World Islands – een kunstmatige archipel in de vorm van een wereldkaart – en reiken drie meter onder het oppervlak van de Perzische Golf.

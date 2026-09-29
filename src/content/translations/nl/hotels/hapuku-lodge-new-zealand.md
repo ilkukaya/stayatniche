@@ -49,7 +49,7 @@ nearbyAttractions:
     distance: "25 km"
 seo:
   metaTitle: "Hapuku Lodge: boomhutten in Nieuw-Zeeland | StayAtNiche"
-  metaDescription: "Luxe boomhutten 8 meter boven een manukabosje, met uitzicht op de Kaikōura Ranges en de Stille Oceaan. Hapuku Lodge is het mooiste boomhutverblijf van Nieuw-Zeeland."
+  metaDescription: "Luxe boomhutten 8 meter boven een manukabosje, met uitzicht op de Kaikōura Ranges en de Stille Oceaan. Hapuku Lodge is de mooiste boomhut van Nieuw-Zeeland."
 ---
 
 Het uitzicht vanaf het terras van een boomhut van Hapuku is bijna oneerlijk mooi. In het westen rijzen de Kaikōura Ranges steil op uit de vlakke kustvlakte, met sneeuw op de bovenste kammen gedurende een groot deel van het jaar. In het oosten strekt de Stille Oceaan zich ononderbroken uit tot aan de horizon. Onder je, acht meter lager, wiegen inheemse manukabomen in de zeebries, hun zilvergroene blaadjes vangen het middaglicht. Het is het soort uitzicht waarbij je je afvraagt waarom je ooit op de begane grond slaapt.

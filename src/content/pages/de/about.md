@@ -1,7 +1,7 @@
 ---
 title: Wir finden die Unterkünfte, die andere übersehen
 metaTitle: "Über StayAtNiche | Die außergewöhnlichsten Hotels der Welt"
-metaDescription: "StayAtNiche ist ein unabhängiger Guide zu den außergewöhnlichsten Hotels der Welt: Baumhäuser, Höhlen, Unterwasserzimmer, Eishotels, Schlösser – geprüft."
+metaDescription: "StayAtNiche ist ein unabhängiger Guide zu den ungewöhnlichsten Hotels: Baumhäuser, Höhlen, Unterwasserzimmer, Eishotels und mehr – geprüft und verglichen."
 lead: StayAtNiche ist ein unabhängiger Reiseführer zu den außergewöhnlichsten Schlafplätzen der Welt. Gewöhnlich können andere.
 ---
 

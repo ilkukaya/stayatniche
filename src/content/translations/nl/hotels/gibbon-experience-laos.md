@@ -21,7 +21,7 @@ bestFor:
   - "Onverschrokken ontdekkingsreizigers"
 seo:
   metaTitle: "The Gibbon Experience: boomhutten in Laos | StayAtNiche"
-  metaDescription: "Slapen in een boomhut 40 meter hoog in het regenwoud van Laos, tokkelen door het bladerdak en bij zonsopkomst wilde gibbons zien. Ecotoerisme dat natuur beschermt."
+  metaDescription: "Slapen in een boomhut 40 meter hoog in het regenwoud van Laos, tokkelen door het bladerdak en bij zonsopkomst wilde gibbons zien. Ecotoerisme met een doel."
 ---
 
 Nergens anders in Zuidoost-Azië bestaat iets vergelijkbaars. Veertig meter boven de bodem van het Bokeo Nature Reserve in Laos, op platforms van hout en staalkabel die in het bladerdak van het primaire regenwoud hangen, is The Gibbon Experience tegelijk het lichamelijk zwaarste en ecologisch meest doelgerichte boomhutverblijf van de regio.

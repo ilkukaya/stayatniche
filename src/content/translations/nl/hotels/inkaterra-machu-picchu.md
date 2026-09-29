@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: 80 km per trein
 seo:
   metaTitle: "Inkaterra Machu Picchu: nevelwoudlodge Peru | StayAtNiche"
-  metaDescription: "Drieëntachtig casita's in eigen nevelwoud aan de voet van Machu Picchu, met de grootste orchideeëncollectie van Peru en vroege toegang tot de citadel. Vanaf $ 600."
+  metaDescription: "Drieëntachtig casita's in eigen nevelwoud aan de voet van Machu Picchu, met de grootste orchideeëncollectie van Peru en vroege toegang tot de citadel."
 ---
 
 Aguas Calientes is een stadje dat alleen bestaat vanwege wat er vier kilometer verderop ligt, en dat zie je aan de infrastructuur: souvenirwinkels, toeristenrestaurants, backpackershostels en middenklassehotels langs de hoofdstraat en de kloof van de Urubamba. Inkaterra Machu Picchu Pueblo Hotel is de uitzondering. Het hotel beslaat vijf hectare nevelwoud boven het stadje, met de drieëntachtig casita's verspreid door het groen langs met steen geplaveide paden die het natuurlijke reliëf volgen, en altijd ergens beneden het geluid van de Urubamba.

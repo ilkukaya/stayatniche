@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: "22 km"
 seo:
   metaTitle: "Gamirasu Cave Hotel: grothotel in Cappadocië | StayAtNiche"
-  metaDescription: "Slapen in een Byzantijns klooster uit de 6e eeuw in het rustige Ayvalı-dal in Cappadocië, met originele fresco's, luchtballonnen voor de deur en Turkse gastvrijheid."
+  metaDescription: "Slapen in een Byzantijns klooster uit de 6e eeuw in het rustige Ayvalı-dal in Cappadocië, met originele fresco's en luchtballonnen voor de deur."
 ---
 
 Cappadocië is uitgegroeid tot een van de drukst bezochte bestemmingen van Turkije, en niet voor niets: het landschap van vulkanisch tufsteen, feeënschoorstenen en uitgehakte dalen hoort bij het meest spectaculaire op aarde. Maar door de populariteit van Göreme en Uçhisar kan een verblijf in een grothotel in het hoogseizoen voelen alsof je iets intiems deelt met een heel grote menigte. Gamirasu biedt iets heel anders.

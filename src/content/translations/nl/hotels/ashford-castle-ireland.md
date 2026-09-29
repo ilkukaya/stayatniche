@@ -23,7 +23,7 @@ bestFor:
   - Bijzondere gelegenheden
 seo:
   metaTitle: "Ashford Castle: kasteelhotel in Ierland | StayAtNiche"
-  metaDescription: "Overnachten in een echt Iers kasteel uit 1228 aan Lough Corrib: 83 unieke kamers, een valkeniersschool en een landgoed van 350 acre. Ashford Castle in County Mayo."
+  metaDescription: "Overnachten in een echt Iers kasteel uit 1228 aan Lough Corrib: 83 unieke kamers, een valkeniersschool en een groot landgoed. Ashford Castle in County Mayo."
 ---
 
 Ashford Castle bestaat al sinds 1228, toen de Anglo-Normandische familie De Burgo de oorspronkelijke toren bouwde aan de oever van Lough Corrib. De familie Guinness breidde het in de 19e eeuw flink uit, en het resultaat is een Iers landgoed van 350 acre met in het hart een kasteel dat onmiskenbaar het echte werk is: geen victoriaanse gril, geen hotel dat toevallig een torentje heeft.

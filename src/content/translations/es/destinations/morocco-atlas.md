@@ -25,7 +25,7 @@ travelTips:
   - "Cuidado con los ganchos que se ofrecen a llevarte a la tienda de alfombras 'de su primo': declina con educación y muévete por tu cuenta o con un guía acreditado."
   - "Los mejores riads deben reservarse con mucha antelación: el alojamiento boutique más selecto de Marruecos se llena con meses de antelación en primavera y otoño."
 seo:
-  metaTitle: "Marruecos: guía de viaje, Sáhara, Atlas y riads | StayAtNiche"
+  metaTitle: "Marruecos: guía, Sáhara, Atlas y riads | StayAtNiche"
   metaDescription: "Guía de Marruecos: la medina de Fez, las dunas del Sáhara, trekking por el Atlas y los riads y campamentos en el desierto más extraordinarios del país."
 ---
 

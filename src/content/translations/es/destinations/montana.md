@@ -29,7 +29,7 @@ travelTips:
   - "La cultura ranchera está en todas partes y es auténtica: respeta los límites de las propiedades privadas y pide siempre permiso antes de atravesarlas."
 seo:
   metaTitle: "Montana: guía de viaje, ranchos y lodges | StayAtNiche"
-  metaDescription: "Los alojamientos más especiales de Montana: lodges del Parque Nacional de los Glaciares, ranchos para huéspedes y refugios de pesca con mosca en el Madison y el Gallatin."
+  metaDescription: "Dónde dormir en Montana: lodges del Parque Nacional de los Glaciares, ranchos para huéspedes y refugios de pesca con mosca en los ríos Madison y Gallatin."
 ---
 
 Artistas y escritores llevan idealizando Montana desde que el Oeste americano existe como idea y, de algún modo, el estado ha seguido siendo lo bastante salvaje como para justificar el mito. Puedes conducir dos horas sin cruzar un pueblo. Siempre cabe la posibilidad de que un grizzly salga del bosque. Y las truchas del río que ves desde la ventana de tu cabaña son muy reales.

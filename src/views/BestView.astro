@@ -26,6 +26,7 @@ const path = L.path('best', slug);
   crumbs={[{ name: t.hotel.categories, url: L.path('categories') }, { name: catTitle, url: L.path('categories', cat) }, { name: country, url: path }]}
   faq={faq}
   searchPlace={enCountry}
+  placeLabel={country}
   related={[{ label: B.allCat(catTitle), url: L.path('categories', cat) }, { label: B.allIn(country), url: L.path('countries', countrySlug(L.locale, enCountry)) }]}
   alternates={await roundupAlternates('best', enCountry, cat)}
 />

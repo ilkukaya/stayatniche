@@ -23,7 +23,7 @@ bestFor:
   - Belevenissen die je maar één keer in je leven hebt
 seo:
   metaTitle: "Conrad Maldives Muraka: slapen onder water | StayAtNiche"
-  metaDescription: "Slapen 5 meter onder de zee in The Muraka van Conrad Maldives: de enige onderwatersuite met twee verdiepingen ter wereld, met eigen butler, kok en uitzicht op het rif."
+  metaDescription: "Slapen 5 meter onder de zee in The Muraka van Conrad Maldives: de enige onderwatersuite met twee verdiepingen ter wereld, met eigen butler, kok en rifzicht."
 ---
 
 Muraka, 'koraal' in het Dhivehi, is de meest uitzonderlijke hotelkamer op aarde. De suite werd in 2019 gelanceerd na vijf jaar ontwikkeling en vroeg om technische oplossingen die in de hotellerie nog nooit waren geprobeerd.

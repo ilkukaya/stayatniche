@@ -20,8 +20,8 @@ bestFor:
   - "Liefhebbers van de onderwaterwereld"
   - "Reizigers die iets onvergetelijks zoeken"
 seo:
-  metaTitle: "Jules' Undersea Lodge: onderwaterhotel Florida | StayAtNiche"
-  metaDescription: "Slapen onder water in Key Largo: bij Jules' Undersea Lodge duik je 6 meter diep en kom je binnen via een moonpool in de vloer. Het enige onderwaterhotel met wetsuit."
+  metaTitle: "Jules' Undersea Lodge, Florida | StayAtNiche"
+  metaDescription: "Slapen onder water in Key Largo: bij Jules' Undersea Lodge duik je 6 meter diep en kom je binnen via een moonpool in de vloer. Inchecken doe je in wetsuit."
 ---
 
 Jules' Undersea Lodge is een categorie op zich. Nergens anders ter wereld moeten gasten duikuitrusting aantrekken, afdalen in een lagune en hun verblijf binnengaan via een moonpool in de vloer – en toch doet de lodge precies dat al sinds 1986 in de mangrovelagune van Key Largo Undersea Park. Daarmee is het het eerste en langst draaiende onderwaterhotel ter wereld.

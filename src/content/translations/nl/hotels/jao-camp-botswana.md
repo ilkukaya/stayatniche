@@ -48,7 +48,7 @@ nearbyAttractions:
     distance: 300 km
 seo:
   metaTitle: "Jao Camp: safarilodge in de Okavangodelta | StayAtNiche"
-  metaDescription: "Jao Camp van Wilderness Safaris in de Okavangodelta in Botswana: safari's te water en te land, suites in boomhutstijl en een privéconcessie vol wild. Vanaf $ 1.500."
+  metaDescription: "Jao Camp van Wilderness Safaris in de Okavangodelta in Botswana: safari's te water en te land, suites in boomhutstijl en een privéconcessie vol wild."
 ---
 
 De Okavangodelta is een van de meest bijzondere scheppingen van de natuur: een rivier die in de bergen van Angola ontspringt en niet in zee uitmondt, maar in het vlakke, zanderige binnenland van de Kalahari. Daar waaiert ze uit over 15.000 vierkante kilometer van Botswana, in een stelsel van kanalen, lagunes, uiterwaarden en eilanden waar enkele van de grootste concentraties wilde dieren van Afrika leven. Het water dat maanden eerder als regen in Angola viel, bereikt de delta als een jaarlijkse levenspuls: de vloed die de kanalen vult en het landschap verandert van halfdroge savanne in een glinsterende binnenzee.

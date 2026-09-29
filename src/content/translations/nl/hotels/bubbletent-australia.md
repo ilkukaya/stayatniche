@@ -50,8 +50,8 @@ nearbyAttractions:
   - name: Centrum van Sydney
     distance: 160 km
 seo:
-  metaTitle: "BubbleTent Australia: bubbelhotel Hunter Valley | StayAtNiche"
-  metaDescription: "Slapen onder het Zuiderkruis in een doorzichtige bubbeltent in het wijngebied van de Hunter Valley in Australië. Onvergetelijk sterrenkijken, vanaf $ 320 per nacht."
+  metaTitle: "BubbleTent Australia: bubbelhotel | StayAtNiche"
+  metaDescription: "Slapen onder het Zuiderkruis in een doorzichtige bubbeltent in het wijngebied van de Hunter Valley in Australië. Sterrenkijken vanaf $ 320 per nacht."
 ---
 
 Voor bezoekers van het noordelijk halfrond is de zuidelijke hemel een echte verrassing. Bekende sterrenbeelden staan onder de verkeerde hoek, er verschijnen nieuwe sterren waar je ze niet verwacht, en de Melkweg is in een heldere, maanloze nacht zo dicht dat hij een vage schaduw kan werpen. BubbleTent Australia bestaat met het eenvoudige doel om je die hemel vanuit een comfortabel bed te laten beleven.

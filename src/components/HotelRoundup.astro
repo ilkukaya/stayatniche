@@ -17,11 +17,12 @@ interface Props {
   hotels: any[];        // collection entries
   crumbs: { name: string; url: string }[];
   faq: { q: string; a: string }[];
-  searchPlace: string;  // for the Expedia CTA
+  searchPlace: string;  // for the Expedia CTA (English, used in partner search URLs)
+  placeLabel?: string;  // same place, localized for display
   related?: { label: string; url: string }[];
   alternates?: { locale: string; href: string }[];
 }
-const { title, metaTitle, metaDescription, intro, path, hotels, crumbs, faq, searchPlace, related = [], alternates } = Astro.props;
+const { title, metaTitle, metaDescription, intro, path, hotels, crumbs, faq, searchPlace, related = [], alternates, placeLabel } = Astro.props;
 const L = i18n(getLocale(Astro.url));
 const R = L.t.roundup;
 
@@ -80,7 +81,7 @@ const ld = [
   <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
     <AdSlot slot="category-inline" />
     <div class="my-8 rounded-2xl border border-warm-200 bg-warm-100 p-6 text-center">
-      <p class="font-display text-xl font-bold text-warm-950">{R.more(searchPlace)}</p>
+      <p class="font-display text-xl font-bold text-warm-950">{R.more(placeLabel ?? searchPlace)}</p>
       <div class="mt-4 flex flex-col justify-center gap-3 sm:flex-row">
         <a href={withTracking(`https://www.expedia.com/Hotel-Search?destination=${encodeURIComponent(searchPlace)}&adults=2`, { campaign: 'roundup-cta', content: path })} target="_blank" rel="noopener noreferrer nofollow sponsored" class="rounded-full bg-[#00356B] px-6 py-3 font-body text-sm font-bold text-white">{R.expedia}</a>
         <a href={withTracking(`https://www.klook.com/en-US/search-results/?query=${encodeURIComponent(searchPlace)}`, { campaign: 'roundup-cta', content: path })} target="_blank" rel="noopener noreferrer nofollow sponsored" class="rounded-full bg-[#FF5722] px-6 py-3 font-body text-sm font-bold text-white">{R.tours}</a>

@@ -36,6 +36,7 @@ const path = L.path('countries', slug);
   crumbs={[{ name: t.nav.countries, url: L.path('countries') }, { name: country, url: path }]}
   faq={faq}
   searchPlace={enCountry}
+  placeLabel={country}
   related={related}
   alternates={await roundupAlternates('countries', enCountry)}
 />

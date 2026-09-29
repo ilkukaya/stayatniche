@@ -50,7 +50,7 @@ nearbyAttractions:
   - name: Cassis
     distance: 35 km
 seo:
-  metaTitle: "Attrap'Rêves: slapen in een bubbel in de Provence | StayAtNiche"
+  metaTitle: "Attrap'Rêves: bubbelhotel in de Provence | StayAtNiche"
   metaDescription: "Slapen in een doorzichtige bubbel in het Provençaalse heuvelland bij Marseille: Attrap'Rêves is hét bubbelhotel van Frankrijk om sterren te kijken, vanaf $ 280."
 ---
 
