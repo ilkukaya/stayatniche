@@ -26,7 +26,7 @@ travelTips:
   - "Akklimatisierungstage (Ruhetage) sind nicht optional. Sie auszulassen, um Zeit zu sparen, ist die häufigste Ursache schwerer Höhenkrankheit bei Trekkern."
 seo:
   metaTitle: "Nepal Reiseführer: Everest und Annapurna | StayAtNiche"
-  metaDescription: "Nepal-Ratgeber: Trek zum Everest-Basislager, Annapurna Circuit, Tempel im Kathmandutal und die außergewöhnlichsten Teehäuser und Lodges im Himalaya – mit Reisezeit."
+  metaDescription: "Nepal-Ratgeber: Trek zum Everest-Basislager, Annapurna Circuit, Tempel im Kathmandutal und die schönsten Teehäuser und Lodges im Himalaya – mit Reisezeit."
 ---
 
 Nepal presst auf 200 Kilometern Nord-Süd-Ausdehnung mehr Höhenunterschied zusammen als fast jeder andere Ort der Erde. Von der subtropischen Terai-Ebene auf 70 Metern bis zum Gipfel des Everest auf 8.849 Metern durchläuft die Landschaft subtropischen Dschungel, Terrassen im Mittelgebirge, Rhododendronwälder, Yakweiden, alpine Moränen und ewiges Eis. Eine einzige Nepalreise kann Panzernashörner im Tieflanddschungel ebenso umfassen wie den Blick auf ein Viertel aller Achttausender der Welt. Kein anderes kleines Land bietet eine solche Bandbreite.

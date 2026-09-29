@@ -268,7 +268,7 @@ const it: typeof en = {
     placesToSleep: 'Dove dormire',
     handPicked: (name: string) => `${name}: gli hotel insoliti che valgono il viaggio, scelti uno a uno dalla redazione.`,
     browseCategories: 'Sfoglia tutte le categorie',
-    placesToStay: 'Dove dormire:',
+    placesToStay: (n: string) => `Dove dormire: ${n}`,
   },
   post: {
     team: 'La redazione di StayAtNiche',

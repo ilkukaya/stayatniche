@@ -26,7 +26,7 @@ travelTips:
   - "Dugongs reagieren äußerst empfindlich auf Störungen durch Boote. Nähern Sie sich ihnen nur schnorchelnd und schwimmend, nie motorisiert. Die Guides Ihrer Lodge kennen die Verhaltensregeln."
 seo:
   metaTitle: "Mosambik Reiseführer: Inseln und Walhaie | StayAtNiche"
-  metaDescription: "Mosambik-Ratgeber: Bazaruto-Archipel, Insel-Lodges der Quirimbas, Walhaie in Tofo, Dugongs und Afrikas schönste Strände am Indischen Ozean – mit Reisezeit und Tipps."
+  metaDescription: "Mosambik-Ratgeber: Bazaruto-Archipel, Insel-Lodges der Quirimbas, Walhaie in Tofo, Dugongs und Afrikas schönste Strände am Indischen Ozean – mit Reisetipps."
 ---
 
 Mosambik hat 2.500 Kilometer Küste am Indischen Ozean, und der Großteil davon ist noch unerschlossen. Strände ziehen sich kilometerweit ohne Unterbrechung. Am Horizont liegen Daus. Keine Hochhäuser durchbrechen die Baumlinie. Die Meereswelt – Korallenriffe, Walhaie, Buckelwale, Mantarochen, Dugongs, Nistplätze von Meeresschildkröten – wird von einer Handvoll Lodges erschlossen, deren Kapazität so bewusst begrenzt ist, dass das Gefühl, etwas Unberührtes entdeckt zu haben, nicht bloß Marketing ist.

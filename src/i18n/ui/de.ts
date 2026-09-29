@@ -303,7 +303,7 @@ const de: typeof en = {
     placesToSleep: 'Unterkünfte',
     handPicked: (name: string) => `Handverlesen: die außergewöhnlichen Hotels ${inCountry(name)}, für die sich die Reise lohnt.`,
     browseCategories: 'Alle Kategorien ansehen',
-    placesToStay: 'Hoteltipps',
+    placesToStay: (n: string) => `Hoteltipps: ${n}`,
   },
   post: {
     team: 'Redaktion StayAtNiche',

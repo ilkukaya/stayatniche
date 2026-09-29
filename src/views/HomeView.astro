@@ -97,16 +97,16 @@ const fmt = (d: Date | string) => L.date(d);
 
   <!-- CATEGORY RAIL: photo chips -->
   <nav class="sticky top-16 z-30 border-b border-warm-200 bg-warm-50/95 backdrop-blur" aria-label={t.nav.kindsOfStay}>
-    <ul class="scrollbar-hide mx-auto flex max-w-7xl gap-5 overflow-x-auto px-4 py-4 sm:px-6 lg:gap-2 lg:justify-between lg:px-8">
+    <ul class="scrollbar-hide mx-auto flex max-w-7xl gap-5 overflow-x-auto px-4 py-4 sm:px-6 lg:gap-6 lg:px-8 lg:[mask-image:linear-gradient(to_right,black_94%,transparent)]">
       {cats.map(c => {
         const img = ownPhoto(c.data.coverImage, c.slug);
         return (
           <li class="flex-shrink-0">
-            <a href={`${L.path('hotels')}?type=${c.slug}`} class="group flex w-[76px] flex-col items-center gap-2 text-center">
+            <a href={`${L.path('hotels')}?type=${c.slug}`} class="group flex min-w-[76px] flex-col items-center gap-2 text-center">
               <span class="relative block h-14 w-14 overflow-hidden rounded-full ring-2 ring-transparent ring-offset-2 ring-offset-warm-50 transition group-hover:ring-gold-500 sm:h-16 sm:w-16">
                 {img ? <img src={img} alt="" class="h-full w-full object-cover transition duration-500 group-hover:scale-110" loading="lazy" width="128" height="128" /> : <span class="grid h-full w-full place-items-center bg-warm-100 text-forest-700"><CategoryIcon slug={c.slug} size={22} /></span>}
               </span>
-              <span class="font-body text-[12px] font-semibold leading-tight text-warm-700 group-hover:text-warm-950">{L.locale === 'en' ? c.title.replace(/ (Hotels|Rooms)$/, '') : c.title}</span>
+              <span class="whitespace-nowrap font-body text-[12px] font-semibold leading-tight text-warm-700 group-hover:text-warm-950">{L.locale === 'en' ? c.title.replace(/ (Hotels|Rooms)$/, '') : c.title}</span>
             </a>
           </li>
         );

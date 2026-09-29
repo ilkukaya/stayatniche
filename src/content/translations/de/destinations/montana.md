@@ -29,7 +29,7 @@ travelTips:
   - "Die Ranchkultur ist allgegenwärtig und echt. Respektieren Sie Grundstücksgrenzen und fragen Sie immer, bevor Sie Privatland betreten."
 seo:
   metaTitle: "Montana Reiseführer: Ranches und Glacier | StayAtNiche"
-  metaDescription: "Montana entdecken: historische Lodges im Glacier National Park, echte Gästeranches und Fliegenfischer-Lodges an Madison und Gallatin – Ihr Ratgeber für Big Sky Country."
+  metaDescription: "Montana entdecken: historische Lodges im Glacier National Park, echte Gästeranches und Fliegenfischer-Lodges an Madison und Gallatin – Ihr Ratgeber für Big Sky."
 ---
 
 Künstler und Schriftsteller verklären Montana, seit es den amerikanischen Westen als Idee gibt – und doch ist das Land irgendwie wild genug geblieben, um diese Verklärung zu rechtfertigen. Man kann zwei Stunden fahren, ohne einen Ort zu passieren. Dass ein Grizzly aus dem Wald tritt, ist jederzeit möglich. Und die Forellen im Fluss vor dem Hüttenfenster sind echt.

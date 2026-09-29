@@ -26,7 +26,7 @@ travelTips:
   - "Schaf voor afgelegen reizen een satellietcommunicator aan (SPOT of Garmin inReach). In deze omgeving is dat echt levensreddende uitrusting."
 seo:
   metaTitle: "Australische outback: Uluru en woestijnlodges | StayAtNiche"
-  metaDescription: "Reisgids outback: Uluru, Kata Tjuta, Kakadu, de kloven van de Kimberley en de bijzonderste woestijn- en wildernislodges van Australië, van bubbeltent tot glamping."
+  metaDescription: "Reisgids outback: Uluru, Kata Tjuta, Kakadu, de kloven van de Kimberley en de bijzonderste woestijn- en wildernislodges van Australië, van bubbel tot glamping."
 ---
 
 De Australische outback beslaat zo'n 70 procent van het continent, maar er woont nog geen procent van de bevolking. De rots van Uluru is ongeveer 550 miljoen jaar oud. De verweerde bergen van de Pilbara in West-Australië bevatten een deel van het oudste blootliggende gesteente op aarde. De Aboriginal-volken van Australië leven al minstens 65.000 jaar in een ononderbroken relatie met dit landschap: de oudste levende cultuur ter wereld. Laat die feiten even op je inwerken voordat je aankomt.

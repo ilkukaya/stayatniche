@@ -251,7 +251,7 @@ const nl: typeof en = {
     placesToSleep: 'Waar je slaapt',
     handPicked: (name: string) => `We selecteerden met de hand de bijzondere hotels ${inC(name)} die de reis waard zijn.`,
     browseCategories: 'Bekijk alle categorieën',
-    placesToStay: 'Overnachten in',
+    placesToStay: (n: string) => `Overnachten: ${n}`,
   },
   post: {
     team: 'Team StayAtNiche',

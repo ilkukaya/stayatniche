@@ -253,7 +253,7 @@ const es: typeof en = {
     placesToSleep: 'Dónde dormir',
     handPicked: (name: string) => `Hemos seleccionado a mano los hoteles únicos que valen el viaje ${enPais(name)}.`,
     browseCategories: 'Ver todas las categorías',
-    placesToStay: 'Dónde alojarse en',
+    placesToStay: (n: string) => `Dónde alojarse en ${n}`,
   },
   post: {
     team: 'Equipo de StayAtNiche',

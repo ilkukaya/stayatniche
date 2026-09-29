@@ -29,7 +29,7 @@ travelTips:
   - "De middernachtzon beïnvloedt je slaap echt. Neem een goed slaapmasker mee en geef jezelf een paar dagen om te wennen."
 seo:
   metaTitle: "Alaska: wildernislodges en beren kijken | StayAtNiche"
-  metaDescription: "Alaska: afgelegen lodges om beren te kijken, hutten met uitzicht op gletsjers, plekken voor het noorderlicht en wilderniskampen die je alleen per vliegtuigje bereikt."
+  metaDescription: "Alaska: afgelegen lodges om beren te kijken, hutten met gletsjerzicht, plekken voor het noorderlicht en wilderniskampen die je alleen per vliegtuigje bereikt."
 ---
 
 Sta in juli op een grindbank bij Brooks Falls, zie een bruine beer zijn bek opendoen en een rode zalm midden in de sprong vangen, en je snapt meteen waarom geen enkele reistekst over Alaska echt klopt. De schaal is te groot voor taal. Ook voor foto's, trouwens. Als een getijdengletsjer een ijsblok zo groot als een huis in een fjord laat vallen, klinkt dat als rollende donder en zet de golf elke boot binnen een halve mijl aan het schommelen. Je moest erbij zijn geweest.

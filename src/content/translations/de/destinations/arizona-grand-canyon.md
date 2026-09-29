@@ -24,7 +24,7 @@ travelTips:
   - "Genehmigungen für die Havasu Falls verlost der Stamm der Havasupai über seine Website; die Nachfrage ist überwältigend, und die Plätze sind wenige Minuten nach Freigabe vergeben."
 seo:
   metaTitle: "Grand Canyon: besondere Hotels & Lodges | StayAtNiche"
-  metaDescription: "Den Grand Canyon jenseits der Aussichtspunkte erleben: Lodges in der Schlucht, Refugien am North Rim und Rafting-Camps am Colorado River – mit Tipps zur Planung."
+  metaDescription: "Den Grand Canyon jenseits der Aussichtspunkte erleben: Lodges in der Schlucht, Refugien am North Rim und Rafting-Camps am Colorado River – mit Tipps zur Reise."
 ---
 
 Fotos machen den Grand Canyon flach. Worte machen ihn klein. Am Rand zu stehen und eine Meile tief in die senkrechte Erde zu blicken – Gesteinsschichten, die fast die Hälfte der bekannten Erdgeschichte umfassen und sich in farbigen Bändern unter Ihnen stapeln –, gehört zu den seltenen Momenten, in denen die Dimension geologischer Zeit für einen Augenblick begreifbar wird. Die meisten Besucher erleben diesen Moment etwa vierzig Minuten lang, dann steigen sie wieder ins Auto. Die besten Unterkünfte hier sind darauf ausgelegt, tiefer einzutauchen.

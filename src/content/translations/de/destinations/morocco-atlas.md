@@ -26,7 +26,7 @@ travelTips:
   - "Die besten Riads müssen weit im Voraus gebucht werden – Marokkos schönste Boutique-Unterkünfte sind für Frühling und Herbst oft Monate vorher ausgebucht."
 seo:
   metaTitle: "Marokko Reiseführer: Sahara, Atlas & Riads | StayAtNiche"
-  metaDescription: "Marokko-Ratgeber: die Medina von Fès, Dünen der Sahara, Trekking im Atlas und die außergewöhnlichsten Riads und Wüstencamps des Landes – mit Reisezeit und Tipps."
+  metaDescription: "Marokko-Ratgeber: die Medina von Fès, Dünen der Sahara, Trekking im Atlas und die außergewöhnlichsten Riads und Wüstencamps des Landes – mit Reisetipps."
 ---
 
 Seit Jahrhunderten lockt Marokko Reisende über die Straße von Gibraltar, und jede dieser Reisen ist es wert. Im Norden das Mittelmeer, im Westen der Atlantik, im Süden die Sahara – und mittendurch zieht sich diagonal der Hohe Atlas mit Gipfeln von fast 4.200 Metern. Jede dieser Zonen folgt ihrem eigenen Klima, ihrer eigenen Kultur und ihrer eigenen Logik. Nur wenige Länder bringen so viele Gegensätze in einer einzigen Reiseroute unter.

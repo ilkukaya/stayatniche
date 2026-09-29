@@ -26,7 +26,7 @@ travelTips:
   - "Sterrenkijken is hier uitzonderlijk. Sedona heeft regels tegen lichtvervuiling en de rotsformaties vormen een dramatische voorgrond voor astrofotografie."
 seo:
   metaTitle: "Sedona: red rocks, spa's en bijzondere hotels | StayAtNiche"
-  metaDescription: "Sedona in Arizona: resorts met uitzicht op de rode rotsen, retraites aan de kreek, glamping in de canyon en wellnesslodges. Jouw gids voor bijzondere overnachtingen."
+  metaDescription: "Sedona: resorts met uitzicht op de rode rotsen, retraites aan de kreek, glamping in de canyon en wellnesslodges. Jouw gids voor bijzondere overnachtingen."
 ---
 
 De zandsteenformaties van de Coconino rond Sedona werden 270 miljoen jaar geleden afgezet als woestijnduinen en daarna door water en wind uitgesleten tot een landschap van buttes, mesa's en spitsen die bijna bewust ontworpen lijken. Het resultaat is een bestemming waar het landschap je echt overweldigt, hoeveel foto's je er vooraf ook van hebt gezien. De rode rotsen zijn geen decor. Ze zijn de bestemming.

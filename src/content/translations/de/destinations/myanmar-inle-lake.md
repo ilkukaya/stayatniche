@@ -26,7 +26,7 @@ travelTips:
   - "Nehmen Sie Bargeld in US-Dollar mit (saubere, unbeschädigte Scheine), da Geldautomaten unzuverlässig sind und Karten kaum akzeptiert werden."
 seo:
   metaTitle: "Inle-See Myanmar: Pfahlbauhotels & Seeleben | StayAtNiche"
-  metaDescription: "Inle-See in Myanmar: schwimmende Dörfer, Pfahlbauhotels über dem Wasser, Einbeinruderer und das außergewöhnlichste Hochlandziel des Landes – mit Reisezeit und Tipps."
+  metaDescription: "Inle-See in Myanmar: schwimmende Dörfer, Pfahlbauhotels über dem Wasser, Einbeinruderer und das außergewöhnlichste Hochlandziel des Landes – mit Reisezeit."
 ---
 
 Die Morgen am Inle-See haben etwas, dem sich Fotos nähern, das sie aber nie ganz einfangen. Der Nebel liegt in scheinbar festen Schichten auf dem Wasser; in Zeitlupe tauchen daraus die Silhouetten der Einbeinruderer auf, und die ganze Szene hat die Ruhe eines Holzschnitts. Es ist einer der eindrucksvollsten Orte Asiens – und, was das tatsächliche Leben der Menschen angeht, einer der ungewöhnlichsten.

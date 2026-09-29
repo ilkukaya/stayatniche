@@ -221,7 +221,7 @@ const faqItems = T.faq({
       <!-- Booking card -->
       <aside class="min-w-0 lg:sticky lg:top-24 lg:self-start">
         <div class="rounded-2xl border border-warm-200 bg-white p-6 shadow-card">
-          <p class="font-body text-sm text-warm-600">{from ? <>{t.card.from} <span class="font-display text-4xl text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : T.ratesVary}</p>
+          <p class="font-body text-sm text-warm-600">{from ? <>{t.card.from}{' '}<span class="font-display text-4xl text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : T.ratesVary}</p>
           <p class="mt-1 font-body text-xs text-warm-500">{T.typicalRange(range)}</p>
           <a href={offers[0].url} target="_blank" rel={AFFILIATE_REL} data-cta="primary" class="mt-5 flex w-full items-center justify-center gap-2.5 rounded-xl bg-forest-700 px-5 py-4 font-body text-[15px] font-semibold text-white shadow-soft transition hover:bg-forest-800">
             {T.checkPricesOn(offers[0].name)}

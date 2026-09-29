@@ -26,7 +26,7 @@ travelTips:
   - "Leitungswasser ist nicht trinkbar – nehmen Sie eine Filterflasche mit, um Plastikmüll zu vermeiden."
 seo:
   metaTitle: "Bali: Tempel, Reisterrassen & Boutiquehotels | StayAtNiche"
-  metaDescription: "Bali-Reiseführer: Reisterrassen, Hindutempel, Dschungel-Refugien und die außergewöhnlichsten Boutiquehotels und Baumhaushotels der Insel – mit Tipps zur Anreise."
+  metaDescription: "Bali-Reiseführer: Reisterrassen, Hindutempel, Dschungel-Refugien und die außergewöhnlichsten Boutiquehotels und Baumhaushotels der Insel – mit Anreisetipps."
 ---
 
 Bali schwingt auf einer anderen Frequenz. Der Hinduismus der Insel – eine einzigartige Form, die über Jahrhunderte animistische und buddhistische Einflüsse aufgenommen hat – durchdringt den Alltag auf eine Weise, die man sofort spürt: Weihrauch steigt vor Sonnenaufgang von Opfergaben an den Türschwellen auf, Gamelan-Proben wehen durch die Abendluft, Prozessionen von Frauen in Festtagskleidung tragen hoch aufgetürmte Opfergaben zum Dorftempel. Das ist keine Vorführung für Touristen. So lebt Bali einfach.

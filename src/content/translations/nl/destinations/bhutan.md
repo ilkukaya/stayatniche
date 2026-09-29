@@ -26,7 +26,7 @@ travelTips:
   - "Bhutan ligt tussen 200 m in het zuiden en 7.500 m in het noorden. Sommige bezoekers krijgen in Paro (2.200 m) al last van hoogteziekte; neem de tijd om te acclimatiseren."
 seo:
   metaTitle: "Bhutan: Tijgersnest, dzongs en Himalayalodges | StayAtNiche"
-  metaDescription: "Reisgids Bhutan: het Tijgersnestklooster, feesten in de dzongs, trektochten in de Himalaya en de bijzonderste boetieklodges van het koninkrijk, van Paro tot Gangtey."
+  metaDescription: "Reisgids Bhutan: het Tijgersnestklooster, feesten in de dzongs, trektochten in de Himalaya en de bijzonderste lodges van het koninkrijk in Paro en Gangtey."
 ---
 
 Bhutan heeft ervoor gekozen zichzelf te blijven. Terwijl buurlanden opengingen voor massatoerisme en de gevolgen incasseerden (overvolle bezienswaardigheden, uitgeholde cultuur, eenheidsworst in de architectuur), bouwde Bhutan decennialang aan een bewust beleid van kleinschalig toerisme dat de cultuur beschermt. Het resultaat is een land waar het boeddhisme een werkend kader voor het dagelijks leven is en geen erfgoedvitrine, waar dzongs nog altijd dienen als centra van bestuur en religie, en waar de Himalaya echte heilige betekenis heeft in plaats van als decor voor foto's te dienen.

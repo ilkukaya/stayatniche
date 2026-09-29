@@ -240,7 +240,7 @@ const destJsonLd = {
     <section class="bg-warm-100 border-t border-warm-200">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
-          {D.placesToStay} <span class="text-gold-500">{dest.data.name}</span>
+          {D.placesToStay(dest.data.name)}
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           {localHotels.map(h => (

@@ -231,7 +231,7 @@ const en = {
     placesToSleep: 'Places to sleep',
     handPicked: (name: string) => `We've hand-picked the unusual hotels worth the trip in ${name}.`,
     browseCategories: 'Browse all categories',
-    placesToStay: 'Places to stay in',
+    placesToStay: (n: string) => `Places to stay in ${n}`,
   },
   post: {
     team: 'StayAtNiche Team',

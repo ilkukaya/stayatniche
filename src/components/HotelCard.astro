@@ -37,7 +37,7 @@ const bookUrl = hotelDealUrl(bookingUrl, name, destination, { campaign: 'hotel-c
     <p class="mt-0.5 truncate font-body text-sm text-warm-500">{destination}, {place}</p>
     {highlights?.[0] && <p class="line-clamp-1 font-body text-sm text-warm-500">{highlights[0]}</p>}
     <div class="mt-2 flex items-center justify-between gap-2">
-      <p class="font-body text-sm text-warm-700">{from ? <>{t.card.from} <span class="font-semibold text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : t.card.seeRates}</p>
+      <p class="font-body text-sm text-warm-700">{from ? <>{t.card.from}{' '}<span class="font-semibold text-warm-950">{L.usd(from)}</span> {t.card.perNight}</> : t.card.seeRates}</p>
       {bookUrl && <a href={bookUrl} target="_blank" rel={AFFILIATE_REL} class="relative z-20 font-body text-sm font-semibold text-forest-700 underline decoration-forest-300 underline-offset-4 hover:decoration-forest-700">{t.card.checkRates}</a>}
     </div>
   </div>

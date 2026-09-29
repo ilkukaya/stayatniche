@@ -26,7 +26,7 @@ travelTips:
   - "Für mehrtägige Kajaktouren an den Pictured Rocks brauchen Sie eine Genehmigung; geführte Touren sind die sicherste und lehrreichste Art, die Klippen vom Wasser aus zu erleben."
 seo:
   metaTitle: "Upper Peninsula Michigan: Reiseführer | StayAtNiche"
-  metaDescription: "Michigans Upper Peninsula: Hütten an den Pictured Rocks, Blockhäuser im Urwald der Porcupine Mountains, Wasserfälle am Lake Superior und tief verschneite Winterquartiere."
+  metaDescription: "Michigans Upper Peninsula: Hütten an den Pictured Rocks, Blockhütten in den Porcupine Mountains, Wasserfälle am Lake Superior und Winterquartiere im Schnee."
 ---
 
 Die Yoopers, die Bewohner der Upper Peninsula, sagen gern, die UP sei Gottes eigenes Land und der Rest von Michigan bloß Kulisse. Das ist Lokalpatriotismus, liegt aber nicht weit daneben. Auf der Halbinsel finden sich Urwälder, die nie abgeholzt wurden, 150 Wasserfälle mit eigenem Namen, drei ausgewiesene Wildnisgebiete und am Südufer des Lake Superior die klarste Süßwasserküste Nordamerikas. Die Anreise verlangt Entschlossenheit – und genau deshalb wissen diejenigen, die sie auf sich nehmen, sehr genau, wofür sie kommen.

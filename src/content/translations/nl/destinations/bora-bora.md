@@ -28,7 +28,7 @@ travelTips:
   - "Zonnebrand met rifveilige certificering is niet alleen goed voor het milieu, maar ook wettelijk verplicht."
 seo:
   metaTitle: "Bora Bora: overwaterbungalows en lagune | StayAtNiche"
-  metaDescription: "Plan je reis naar Bora Bora: de beste overwaterbungalows van het eiland, lagunesafari's, wandelingen rond de Otemanu en ongerepte koraaltuinen. De complete gids."
+  metaDescription: "Plan je reis naar Bora Bora: de beste overwaterbungalows van het eiland, lagunesafari's, wandelingen rond de Otemanu en ongerepte koraaltuinen. Complete gids."
 ---
 
 Bora Bora balanceert al decennia op de rand van een parodie: het huwelijksreiscliché, het screensavereiland, de plek die iedereen 'te toeristisch' noemt terwijl hij hem stilletjes op zijn eigen lijstje zet. De waarheid is interessanter: Bora Bora is een van die zeldzame plekken waar de werkelijkheid de mythe waarmaakt. De kleur van de lagune is geen filter.
