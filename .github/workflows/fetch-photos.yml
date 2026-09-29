@@ -15,11 +15,12 @@ jobs:
         with: { node-version: '20', cache: 'npm' }
       - run: npm ci
       - run: node scripts/fetch-wikimedia-photos.mjs
+      - run: node scripts/fetch-wikimedia-photos.mjs --destinations
       - name: Commit results to the same branch
         run: |
           git config user.name "stayatniche-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add public/images/hotels src/data/photo-credits.json
+          git add public/images/hotels public/images/destinations src/data/photo-credits.json
           git diff --cached --quiet && echo "No new photos" && exit 0
-          git commit -m "Add free-licensed hotel photos from Wikimedia Commons"
+          git commit -m "Add free-licensed photos from Wikimedia Commons"
           git push origin HEAD:${GITHUB_REF_NAME}
