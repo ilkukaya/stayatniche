@@ -755,15 +755,6 @@
     "matched": "Munnar",
     "distanceKm": 120.8
   },
-  "dest:kentucky-bourbon-trail": {
-    "author": "Robert G. Davis, NWSRS",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:Red_River_KY.jpg",
-    "wikidata": "https://www.wikidata.org/wiki/Q2136041",
-    "matched": "Red River Gorge",
-    "distanceKm": 58.1
-  },
   "dest:maldives": {
     "author": "Adrian.benko",
     "license": "CC BY-SA 3.0",
