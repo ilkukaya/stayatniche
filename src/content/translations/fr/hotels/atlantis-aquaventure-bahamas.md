@@ -21,7 +21,7 @@ bestFor:
   - "Couples"
 seo:
   metaTitle: "Atlantis Bahamas : suites et parc aquatique | StayAtNiche"
-  metaDescription: "Atlantis Paradise Island aux Bahamas : suites avec vue sur l'aquarium The Dig, requins et raies, et Aquaventure, plus grand parc aquatique des Caraïbes."
+  metaDescription: "Atlantis Paradise Island aux Bahamas : suites avec vue sur l'aquarium géant, requins et raies, et Aquaventure, plus grand parc aquatique des Caraïbes."
 ---
 
 L'Atlantis Paradise Island n'est pas un hôtel doté de quelques équipements. C'est un complexe-destination qui se trouve avoir des chambres : 11 hôtels, plus de 40 restaurants, un casino, un parc aquatique et l'élément qui le distingue réellement des autres méga-resorts des Caraïbes, The Dig, un habitat marin de 11 millions de litres qui serpente à travers les couloirs et les suites du resort.
