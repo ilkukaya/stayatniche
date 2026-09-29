@@ -4,10 +4,10 @@ title: "La guía definitiva de hoteles para la luna de miel: alojamientos extrao
 excerpt: "Tu luna de miel merece algo extraordinario. De islas privadas escondidas en el océano Índico a suites cueva sobre los acantilados de Capadocia, estos son los hoteles extraordinarios más románticos del mundo."
 seo:
   metaTitle: "Hoteles únicos para tu luna de miel | StayAtNiche"
-  metaDescription: "Los hoteles más románticos para la luna de miel: islas privadas en Seychelles, villas sobre el agua en Maldivas, suites cueva en Capadocia y castillos irlandeses."
+  metaDescription: "Los hoteles más románticos para tu luna de miel: islas privadas en Seychelles, villas sobre el agua en Maldivas, suites cueva en Capadocia y castillos."
 ---
 
-Las parejas que recuerdan su luna de miel el resto de su vida no son las que reservaron un buen resort y pasaron una semana tumbadas en la playa. Son las que despertaron sobre lagunas turquesa, caminaron por bosques nubosos al amanecer, vieron auroras boreales desde la cama o flotaron en globo sobre chimeneas de hadas al salir el sol. Los alojamientos de esta guía comparten un único criterio: ofrecen el tipo de experiencia que pasa a formar parte de la historia compartida de una pareja, esos puntos de referencia que se evocan años después, las noches que responden a la pregunta «¿qué es lo más extraordinario que habéis hecho juntos?».
+Las parejas que recuerdan su luna de miel el resto de su vida no son las que reservaron un buen resort y pasaron una semana tumbadas en la playa. Son las que despertaron sobre lagunas turquesa, caminaron por bosques nubosos al amanecer, vieron auroras boreales desde la cama o flotaron en globo sobre chimeneas de hadas al salir el sol. Los alojamientos de esta guía comparten un único criterio: ofrecen el tipo de experiencia que pasa a formar parte de la historia compartida de una pareja, esos puntos de referencia que se evocan años después, las noches que responden a la pregunta «¿qué es lo más extraordinario que hemos hecho juntos?».
 
 Esta guía está organizada por tipo de experiencia, con valoraciones sinceras de lo que hace especial cada categoría y consejos prácticos para reservar las estancias románticas más codiciadas.
 
@@ -23,7 +23,7 @@ Las villas tienen 450 metros cuadrados cada una, con espacios de estar interiore
 
 **Precio:** desde 6000 US$ por noche (todo incluido: comidas, actividades, esnórquel y buceo)
 **Cómo llegar:** vuelo a Mahé (Seychelles) y helicóptero hasta North Island (15 minutos)
-**Consejo para reservar:** North Island se llena por completo en temporada alta (de diciembre a febrero y julio-agosto) con más de 12 meses de antelación; lo ideal es reservar en cuanto os comprometáis.
+**Consejo para reservar:** North Island se llena por completo en temporada alta (de diciembre a febrero y julio-agosto) con más de 12 meses de antelación; lo ideal es reservar nada más anunciar el compromiso.
 
 ---
 
@@ -122,10 +122,10 @@ Para las parejas que quieren la grandeza europea sin las multitudes del Mediterr
 
 Los alojamientos para lunas de miel más extraordinarios —North Island en Seychelles, Gili Lankanfushi, Soneva Jani, Amangiri— tienen una ocupación alta todo el año y hay que reservarlos con mucha antelación. Para la temporada alta (de diciembre a febrero en Maldivas y Seychelles; de junio a agosto en Europa), lo habitual es reservar las mejores habitaciones con 12 meses de antelación.
 
-Reserva en cuanto os comprometáis. El alojamiento que más deseas es el que tiene más probabilidades de agotarse si esperas.
+Reserva en cuanto anuncies el compromiso. El alojamiento que más deseas es el que tiene más probabilidades de agotarse si esperas.
 
 
-La mayoría de los hoteles ofrecen paquetes de luna de miel que añaden extras (champán, arreglos florales, masajes en la habitación, crucero al atardecer) a la tarifa base. Valóralos con sinceridad: si los extras son cosas que pagarías de todos modos, el paquete sale a cuenta. Si no, reservar solo la habitación y elegir complementos concretos en el hotel suele salir mejor. Lo único que conviene hacer siempre: avisar al hotel de que es vuestra luna de miel al reservar, contratéis o no un paquete; la mayoría de los alojamientos añadirán algún detalle de cortesía.
+La mayoría de los hoteles ofrecen paquetes de luna de miel que añaden extras (champán, arreglos florales, masajes en la habitación, crucero al atardecer) a la tarifa base. Valóralos con sinceridad: si los extras son cosas que pagarías de todos modos, el paquete sale a cuenta. Si no, reservar solo la habitación y elegir complementos concretos en el hotel suele salir mejor. Lo único que conviene hacer siempre: avisar al hotel de que es tu luna de miel al reservar, contrates o no un paquete; la mayoría de los alojamientos añadirán algún detalle de cortesía.
 
 
 La fórmula clásica de la luna de miel de lujo son dos destinos que contrastan: cultura + playa, aventura + descanso, montaña + océano. Combinaciones habituales:

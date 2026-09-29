@@ -4,7 +4,7 @@ title: "Hoteles de hielo y auroras boreales: la guía completa de la experiencia
 excerpt: "Duerme en una habitación esculpida en hielo, contempla las auroras boreales desde la cama y sobrevive con estilo a -5 °C. La guía completa de los hoteles de hielo y los viajes para ver auroras."
 seo:
   metaTitle: "Hoteles de hielo y auroras boreales | StayAtNiche"
-  metaDescription: "Guía de hoteles de hielo: ICEHOTEL, Hôtel de Glace, SnowCastle e iglús de cristal en Laponia, con precios, qué llevar y cómo aumentar tus opciones de ver auroras."
+  metaDescription: "Hoteles de hielo: ICEHOTEL, Hôtel de Glace, SnowCastle e iglús de cristal en Laponia, con precios, qué llevar y cómo aumentar tus opciones de ver la aurora."
 ---
 
 La idea de dormir voluntariamente en una habitación hecha de hielo tiene algo de locura. Sin aislamiento. Paredes a -5 °C. Una piel de reno entre tú y una cama de nieve compactada. Y aun así, miles de viajeros hacen exactamente eso cada invierno y vuelven a casa contando que fue una de las noches más memorables de su vida.

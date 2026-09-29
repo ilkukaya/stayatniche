@@ -4,7 +4,7 @@ title: "Campamentos en el desierto del Sáhara y Wadi Rum: la guía definitiva p
 excerpt: "De las dunas de Erg Chebbi, en Marruecos, a los valles rojizos de Jordania, descubre las experiencias de campamento en el desierto más extraordinarias del mundo, donde el silencio y las estrellas redefinen el lujo."
 seo:
   metaTitle: "Campamentos en el desierto: Sáhara y Wadi Rum | StayAtNiche"
-  metaDescription: "Los mejores campamentos en el desierto de Marruecos, Wadi Rum, Omán y Rajastán, con precios, mejor época para ir, qué llevar y qué esperar de la vida en el campamento."
+  metaDescription: "Los mejores campamentos en el desierto de Marruecos, Wadi Rum, Omán y Rajastán, con precios, mejor época para ir, qué llevar y qué esperar del campamento."
 ---
 
 El Sáhara y Wadi Rum comparten algo que ningún diseño de resort puede fabricar: el silencio absoluto. En una noche despejada en cualquiera de los dos lugares, contemplas un cielo que la mayoría de las personas vivas hoy no han visto jamás: sin contaminación lumínica, con la Vía Láctea de horizonte a horizonte y estrellas tan brillantes que proyectan sombras. Las formaciones de arenisca del Wadi Rum jordano ya eran antiguas antes de que existiera Roma. Las dunas de Erg Chebbi, en Marruecos, llevan milenios desplazándose con los mismos vientos. Este es el contexto que hace extraordinaria una acampada en el desierto, y no tiene nada que ver con la calidad de las sábanas.

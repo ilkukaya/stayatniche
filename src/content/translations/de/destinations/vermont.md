@@ -29,7 +29,7 @@ travelTips:
   - "Die Schlammsaison (März bis April) ist real und macht ländliche Straßen schwer passierbar – planen Sie entsprechend oder nehmen Sie es als Charakterschule."
 seo:
   metaTitle: "Vermont: Landgasthöfe, Herbstlaub & Bergdörfer | StayAtNiche"
-  metaDescription: "Vermont: historische Gasthöfe in Stowe, Farmhäuser im Mad River Valley und Refugien in der Wildnis des Northeast Kingdom – Ihr Reiseführer."
+  metaDescription: "Vermont-Reiseführer: historische Gasthöfe in Stowe, Farmhäuser im Mad River Valley und Wildnisrefugien im Northeast Kingdom – mit Tipps zur Laubsaison."
 ---
 
 In zwei Stunden durchqueren Sie Vermont mit dem Auto, doch wer sich in einem seiner Täler niederlässt, entdeckt auch nach einer Woche noch Neues: eine Käserei an einer Nebenstraße, die in Tuch gereiften Cheddar herstellt, eine Bibliothek mit einem einzigen Raum und Holzofen, eine Badestelle am Fluss, die die Einheimischen weitgehend geheim halten konnten. Es ist ein kleiner Bundesstaat von ungewöhnlicher Tiefe.

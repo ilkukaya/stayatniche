@@ -81,7 +81,7 @@ Mövenpick Petra, het dichtst bij de ingang van Petra gelegen hotel met volledig
 ---
 
 
-De meest buitengewone klifhotels van China maken gebruik van enkele van de spectaculairste berg- en kloflandschappen ter wereld: plekken waar het hoogteverschil in duizenden meters wordt gemeten en waar het landschap de inspiratie was voor de zwevende bergen in Avatar van James Cameron.
+De meest buitengewone klifhotels van China maken gebruik van enkele van de spectaculairste berglandschappen en kloven ter wereld: plekken waar het hoogteverschil in duizenden meters wordt gemeten en waar het landschap de inspiratie was voor de zwevende bergen in Avatar van James Cameron.
 
 
 Alila Yangshuo is gebouwd tegen de karstkliffen van de vallei van de Li-rivier, het landschap van torenhoge rotspieken en riviernevel dat op het Chinese biljet van 20 yuan staat, en is een van de meest geroemde designhotels van China. Het oorspronkelijke gebouw was een suikerfabriek uit de jaren zestig; bij de verbouwing door Vector Architects werd de bestaande industriële structuur opgenomen in een nieuw gebouw dat rechtstreeks in dialoog gaat met de rotswanden en de rivier beneden. Het infinityzwembad lijkt aan de rand van de klif boven het water te zweven.

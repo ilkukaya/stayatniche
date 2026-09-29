@@ -4,7 +4,7 @@ title: "Los mejores hoteles de Islandia para ver auroras boreales: la guía comp
 excerpt: "De lodges con paredes de cristal en las tierras altas islandesas a piscinas geotermales bajo auroras danzantes: estos son los mejores hoteles para perseguir las auroras boreales en Islandia."
 seo:
   metaTitle: "Hoteles en Islandia para ver auroras boreales | StayAtNiche"
-  metaDescription: "Los mejores hoteles de Islandia para ver auroras boreales: cabañas de cristal, Blue Lagoon y lodges remotos, con precios, mejor época y consejos para predecirlas."
+  metaDescription: "Los mejores hoteles de Islandia para ver auroras boreales: cabañas de cristal, Blue Lagoon y lodges remotos, con precios, mejor época y consejos de previsión."
 ---
 
 Islandia se encuentra justo bajo el óvalo auroral, el anillo de máxima actividad geomagnética que rodea el polo magnético de la Tierra, y aquí las auroras boreales aparecen con una frecuencia que ningún otro destino de fácil acceso puede igualar. Súmale paisajes de un dramatismo casi teatral: cascadas escalonadas, playas de arena negra, campos geotermales humeantes y glaciares que se desprenden en lagunas. Islandia tiene todos los argumentos a su favor.
