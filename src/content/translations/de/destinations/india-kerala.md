@@ -26,7 +26,7 @@ travelTips:
   - "Autorikschas in Kerala fahren mit Taxameter (oder sollten es) – bestehen Sie darauf oder vereinbaren Sie den Preis vor der Abfahrt."
 seo:
   metaTitle: "Kerala: Hausboote, Backwaters & Gewürzgärten | StayAtNiche"
-  metaDescription: "Kerala-Reiseführer: Hausboote in den Backwaters von Alleppey, Bergorte in Wayanad, das koloniale Erbe von Fort Kochi und Ayurveda-Kuren im entspanntesten Teil Indiens."
+  metaDescription: "Kerala-Reiseführer: Hausboote in den Backwaters von Alleppey, Bergorte in Wayanad, das koloniale Erbe von Fort Kochi und Ayurveda im ruhigsten Teil Indiens."
 ---
 
 Kerala tickt in einem anderen Takt als der Rest Indiens. Die Kokospalmen leuchten in einem fast unwirklichen Grün. Morgens spiegeln sich die Ufer messerscharf in den Backwaters. Auf den Gewürzmärkten duftet es zu gleichen Teilen nach Kardamom und schwarzem Pfeffer. Dazu sind die Straßen besser, die Alphabetisierungsrate ist die höchste des Landes, und das Essen ist herausragend. Kaum irgendwo in Indien wird Langsamkeit so belohnt wie hier – wer länger bleibt, wünscht sich stets, noch länger geblieben zu sein.
