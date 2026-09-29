@@ -6,7 +6,7 @@ The site uses **Netlify Forms** to capture email signups, with an optional serve
 
 1. User fills out the form on `/newsletter` or the homepage
 2. Netlify Forms stores the submission
-3. A webhook triggers `netlify/functions/newsletter-subscribe.js`
+3. A webhook triggers `netlify/functions/newsletter-subscribe.cjs`
 4. The function forwards the subscriber to your chosen provider
 
 ## Step 1: Choose a Free Provider
