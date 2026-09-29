@@ -1,0 +1,45 @@
+---
+/** Neutral, compact list of trip services (all tracked affiliate links). */
+import { tpLink } from '../lib/affiliate';
+interface Props { destination: string; country: string; subId: string; compact?: boolean }
+const { destination, country, subId } = Astro.props;
+const place = destination.split(',')[0].trim();
+const d = encodeURIComponent(place), full = encodeURIComponent(`${place}, ${country}`);
+const t = (p: string, u: string) => tpLink(p, u, `essentials_${subId}`);
+const groups = [
+  { title: 'Getting there', items: [
+    ['Flights', 'Kiwi.com', t('4114', `https://www.kiwi.com/en/search/results/anywhere/${full}/anytime/anytime`)],
+    ['Airport transfer', 'Welcome Pickups', t('4558', `https://www.welcomepickups.com/transfers/?destination=${d}`)],
+    ['Car hire', 'Localrent', t('6202', `https://localrent.com/en/?location=${d}`)],
+  ]},
+  { title: 'While you’re there', items: [
+    ['Tours & activities', 'Klook', t('3540', `https://www.klook.com/en-US/search-results/?query=${full}`)],
+    ['Attraction tickets', 'Tiqets', t('4030', `https://tiqets.com/en/search/?q=${d}`)],
+    ['Luggage storage', 'Radical Storage', t('6203', `https://radicalstorage.com/?city=${d}`)],
+  ]},
+  { title: 'Before you go', items: [
+    ['Mobile data (eSIM)', 'Airalo', t('6445', 'https://www.airalo.com')],
+    ['Travel insurance', 'EKTA', t('5784', 'https://ekta.travel')],
+    ['Flight delayed?', 'AirHelp', t('4044', 'https://www.airhelp.com')],
+  ]},
+];
+---
+<section aria-labelledby="essentials-h">
+  <h2 id="essentials-h" class="font-display text-3xl leading-none text-warm-950">Plan the trip</h2>
+  <p class="mt-2 font-body text-sm text-warm-500">Services for {place}. Affiliate links, no extra cost to you.</p>
+  <div class="mt-6 grid gap-8 sm:grid-cols-3">
+    {groups.map(g => (
+      <div>
+        <p class="eyebrow mb-2 text-warm-500">{g.title}</p>
+        <ul class="divide-y divide-warm-200 border-y border-warm-200">
+          {g.items.map(([label, brand, href]) => (
+            <li><a href={href} target="_blank" rel="noopener noreferrer nofollow sponsored" class="group flex items-center justify-between gap-3 py-3">
+              <span><span class="block font-body text-sm font-semibold text-warm-950">{label}</span><span class="block font-body text-xs text-warm-500">{brand}</span></span>
+              <span class="text-warm-400 transition group-hover:translate-x-0.5 group-hover:text-warm-950" aria-hidden="true">↗</span>
+            </a></li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</section>

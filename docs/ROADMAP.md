@@ -62,3 +62,11 @@ Bunları yapmadan gelir gelmez; sırayla:
 - Airbnb tarzı yeni otel kartı: kalp ile kaydetme (`/saved/`, cihazda saklanır), fiyat, puan, "Check rates" bağlantısı.
 - Mobilde alt gezinme çubuğu (Home / Explore / Search / Saved / Guides), otel sayfalarında gizli (kendi sabit rezervasyon çubuğu var).
 - İçerik dosyalarındaki eski dış (Unsplash) görsel bağlantıları artık yok sayılıyor; görseller yerel dosya > çizim poster sırasıyla seçilir.
+
+## 7. Editoryal yeniden tasarım (Opus turu)
+- Yeni kimlik: Instrument Serif + Geist, kâğıt/mürekkep nötrleri, koyu yeşil birincil, terracotta vurgu. Gradient, parlama, nokta deseni, rozet yığınları kaldırıldı.
+- Ana sayfa: tam ekran gerçek fotoğraflı kapak, arama paneli, yapışkan kategori şeridi, numaralı "koleksiyon" bölümleri, tipografik kıta indeksi.
+- Fotoğrafı olmayan oteller için tekrar eden stok görsel yerine her otele özel tipografik "etiket kartı" (yanıltıcı olmayan). `public/images/<otel-slug>.webp` eklenince otomatik fotoğrafa geçer.
+- Otel sayfası: sakin rezervasyon kartı + karşılaştırma listesi, önemli bilgiler tablosu, OpenStreetMap haritası (ücretsiz), sade "Plan the trip" (takipli linkler), mobil sabit rezervasyon çubuğu, paylaş butonu.
+- Kategori sayfaları ve kartlar artık gerçek otel sayılarını ve gerçek fiyat medyanını gösteriyor (içerik dosyasındaki uydurma "42 stays" / "$260" kaldırıldı).
+- Kategori fotoğrafları slug adlı WebP'ye çevrildi (`public/images/categories/`).

@@ -18,7 +18,15 @@ const { category } = Astro.props;
 const { Content } = await category.render();
 
 const allHotels = await getCollection('hotels', h => h.data.status !== 'draft' && h.data.status !== 'archived');
-const categoryHotels = allHotels.filter(h => h.data.category === category.slug);
+const categoryHotels = allHotels.filter(h => h.data.category === category.slug)
+  .sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || b.data.rating - a.data.rating);
+const _prices = categoryHotels.map(h => { const m = h.data.priceRange.match(/[\d,]+/); return m ? +m[0].replace(/,/g, '') : 0; }).filter(Boolean).sort((a, b) => a - b);
+const realStats = {
+  count: categoryHotels.length,
+  from: _prices[0] ?? 0,
+  median: _prices.length ? _prices[Math.floor(_prices.length / 2)] : 0,
+  top: Object.entries(categoryHotels.reduce((m: Record<string, number>, h) => ((m[h.data.country] = (m[h.data.country] ?? 0) + 1), m), {})).sort((a, b) => b[1] - a[1])[0]?.[0] ?? '',
+};
 
 const allCategories = await getCollection('categories');
 const relatedCategories = allCategories
@@ -133,15 +141,15 @@ const itemListJsonLd = categoryHotels.length > 0 ? {
           <div class="space-y-4">
             <div class="flex justify-between items-center pb-4 border-b border-warm-100">
               <span class="font-body text-warm-600 text-sm">Total stays</span>
-              <span class="font-display text-gold-600 font-bold text-lg">{category.data.stats.hotelCount}</span>
+              <span class="font-display text-gold-600 font-bold text-lg">{realStats.count}</span>
             </div>
             <div class="flex justify-between items-center pb-4 border-b border-warm-100">
-              <span class="font-body text-warm-600 text-sm">Avg. price / night</span>
-              <span class="font-display text-gold-600 font-bold text-lg">${category.data.stats.avgPrice}</span>
+              <span class="font-body text-warm-600 text-sm">Median starting price</span>
+              <span class="font-display text-gold-600 font-bold text-lg">${realStats.median}</span>
             </div>
             <div class="flex justify-between items-center">
               <span class="font-body text-warm-600 text-sm">Top spot</span>
-              <span class="font-display text-warm-900 font-bold text-sm text-right max-w-[140px] leading-tight">{category.data.stats.topDestination}</span>
+              <span class="font-display text-warm-900 font-bold text-sm text-right max-w-[140px] leading-tight">{realStats.top}</span>
             </div>
           </div>
           <a
@@ -161,7 +169,7 @@ const itemListJsonLd = categoryHotels.length > 0 ? {
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div class="flex items-end justify-between mb-10">
           <h2 class="font-display text-3xl font-bold text-warm-950">
-            {category.data.title} <span class="text-gold-500">Stays</span>
+            Every {category.data.title.toLowerCase().replace(/s$/, '')} we list
           </h2>
           <span class="font-body text-warm-500 text-sm">{categoryHotels.length} {categoryHotels.length === 1 ? 'property' : 'properties'}</span>
         </div>
@@ -212,7 +220,7 @@ const itemListJsonLd = categoryHotels.length > 0 ? {
   <!-- Related categories -->
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
     <h2 class="font-display text-2xl font-bold text-warm-950 mb-8">
-      Explore Other <span class="text-gold-500">Categories</span>
+      Other kinds of stay
     </h2>
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
       {relatedCategories.map(cat => (

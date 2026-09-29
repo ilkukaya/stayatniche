@@ -3,7 +3,7 @@ title: Underwater Rooms
 tagline: "Wake up on the ocean floor"
 description: The rarest accommodation experience on earth, underwater hotel rooms place you in a world of coral reefs, tropical fish, and luminous blue water. With fewer than twenty true underwater suites worldwide, these extraordinary rooms in the Maldives and beyond represent the absolute frontier of niche travel.
 icon: underwater-rooms
-coverImage: /images/2bb49edc-807e-41d7-aba4-424940ca0a4d.jpg
+coverImage: /images/categories/underwater-rooms.webp
 stats:
   hotelCount: 18
   avgPrice: 850
