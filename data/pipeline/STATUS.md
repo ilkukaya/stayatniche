@@ -1,6 +1,6 @@
 # Hotel pipeline status
 
-Updated 2026-10-05T07:27:07.112Z. Published hotels on site: 105.
+Updated 2026-10-06T08:00:32.495Z. Published hotels on site: 105.
 
 | Category | new | verified | weak | rejected | duplicate | published |
 |---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Updated 2026-10-05T07:27:07.112Z. Published hotels on site: 105.
 | desert-camps | 193 | 33 | 63 | 13 | 4 | 0 |
 | jungle-lodges | 653 | 74 | 322 | 2 | 2 | 0 |
 | ice-hotels | 14 | 6 | 102 | 52 | 3 | 0 |
-| safari-lodges | 0 | 0 | 0 | 0 | 0 | 0 |
-| overwater-bungalows | 0 | 0 | 0 | 0 | 0 | 0 |
+| safari-lodges | 767 | 156 | 180 | 2 | 17 | 0 |
+| overwater-bungalows | 34 | 2 | 43 | 0 | 0 | 0 |
 | lighthouse-hotels | 99 | 7 | 539 | 339 | 4 | 0 |
 | train-hotels | 0 | 0 | 11 | 15 | 0 | 0 |
