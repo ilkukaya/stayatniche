@@ -1,0 +1,27 @@
+{
+ "id": "wd:Q57821388",
+ "name": "Ahmed Safari Camp & Hotel‎",
+ "queueStatus": "rejected",
+ "queueCategory": "desert-camps",
+ "categories": [
+  "desert-camps"
+ ],
+ "lat": 28.348056,
+ "lng": 28.822222,
+ "country": "Egypt",
+ "city": "Aj Jiza",
+ "region": "Aj Jiza",
+ "osm": null,
+ "wikidata": "Q57821388",
+ "wikidataDescription": "camp and hotel in Ayn el Tibiya, el Bawiti, El Bahariya Oasis, Egypt",
+ "website": "https://ahmedsafaricamp.business.site/",
+ "fetchedAt": "2026-10-08T17:52:01.395Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "website fetch failed: 404"
+ ],
+ "finalUrl": "https://ahmedsafaricamp.business.site/",
+ "httpStatus": 404
+}

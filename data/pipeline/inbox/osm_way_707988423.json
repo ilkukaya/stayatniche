@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/707988423",
+ "name": "Schwimmendes Haus",
+ "queueStatus": "weak",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 51.5277833,
+ "lng": 14.1646662,
+ "country": "Germany",
+ "city": "Bautzen - Budyšin",
+ "region": "Saxony",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://partwitzer-hof.de/schwimmendes-haus/",
+ "fetchedAt": "2026-10-08T17:52:13.878Z",
+ "pages": [
+  {
+   "url": "http://partwitzer-hof.de/schwimmendes-haus/",
+   "kind": "home",
+   "title": "Das schwimmende Haus &#8211; Partwitzer Hof",
+   "description": "Schwimmendes Haus\r\nDas Schwimmende Haus wurde als Referenzanlage für die Siedlung schwimmende Häuser am Partwitzer See errichtet. Es ist der kleinste zweigeschossige Typus und bietet durch seinen kompakten, durchdachten Grundriss Platz für 2-3 Bewohner. Flur, Bad und die voll ausgestattete Wohnküche mit direktem Ausgang zum großzügigen blickgeschützen Sonnendeck bilden das Erdgeschoss. Der Wohnraum mit gemütlicher Sitzecke",
+   "text": "Das schwimmende Haus Partwitzer Hof\nDas schwimmende Haus\nStartseite / Das schwimmende Haus\nDas schwimmende Haus\nTeam\n2025-01-30T16:36:43+00:00\nSchwimmendes Haus\nDas Schwimmende Haus wurde als Referenzanlage für die Siedlung schwimmende Häuser am Partwitzer See errichtet. Es ist der kleinste zweigeschossige Typus und bietet durch seinen kompakten, durchdachten Grundriss Platz für 2-3 Bewohner. Flur, Bad und die voll ausgestattete Wohnküche mit direktem Ausgang zum großzügigen blickgeschützen Sonnendeck bilden das Erdgeschoss. Der Wohnraum mit gemütlicher Sitzecke und Zugang zum Oberdeck (Balkon) sowie das Schafzimmer mit Panoramafenster befinden sich im Obergeschoss.\nDas erste Schwimmende Haus auf dem Partwitzer See lädt ganzjährig zum Urlaub auf dem Wasser ein. Faszinierend hierbei ist der Ausblick auf einen Sonnenuntergang von der Terasse aus sowie das leichte Schaukeln auf den Wellen.\nInformationen zum Schwimmenden Haus\nLage:\n02979 Elsterheide\nGröße:\n40 m²\nZimmer:\nWohnküche, Schlafzimmer, Wohnbereich mit Aufbettung, Bad mit Dusche,\n2 Terasssen\nAusstattung:\nvollständige Ausstattung zur Selbstverpflegung, Bettwäsche, Handtücher, Endreinigung und Nebenkosten inklusive\nPreis:\n85,00 € je Nacht für 2 Personen (September-April)\n90,00 € je Nacht für 2 Personen (Mai- August)\n20,00 € Aufbettung je Nacht 1 Aufbettung möglich\nkleiner Hund 15,00 Euro pauschal\nDen Belegungskalender finden Sie unter www.bootshaeuser.de .\nReservierung unter:\nAqua Terra Lausitz GbR\nSchäfereiweg 4\n02979 Elsterheide\nTel. 035751/15311\nMail: k.mietke@atl-online.eu\nAuch als Gutschein eine besondere Idee gern senden wir Ihnen diesen mit oder ohne Datum zu."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://partwitzer-hof.de/schwimmendes-haus/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

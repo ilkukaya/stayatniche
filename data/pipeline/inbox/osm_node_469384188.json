@@ -1,0 +1,27 @@
+{
+ "id": "osm:node/469384188",
+ "name": "Corsewall Lighthouse Hotel",
+ "queueStatus": "verified",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 55.0069692,
+ "lng": -5.1593019,
+ "country": "United Kingdom",
+ "city": "Kirkcolm",
+ "region": "Scotland",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.lighthousehotel.co.uk/",
+ "fetchedAt": "2026-10-08T17:53:27.366Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

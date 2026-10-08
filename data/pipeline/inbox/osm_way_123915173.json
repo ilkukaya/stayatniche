@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/123915173",
+ "name": "Langley Castle",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 54.9566234,
+ "lng": -2.2595855,
+ "country": "United Kingdom",
+ "city": "Hexham",
+ "region": "England",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2969643",
+ "wikidataDescription": "Grade I listed castle in Langley, Northumberland, England, UK",
+ "website": "https://www.langleycastle.com/",
+ "fetchedAt": "2026-10-08T17:50:36.912Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Langley Castle",
+  "url": "https://en.wikipedia.org/wiki/Langley_Castle",
+  "extract": "Langley Castle is a restored medieval tower house, in the village of Langley in the valley of the River South Tyne. The castle is 3 miles (5 km) south of Haydon Bridge, in Northumberland, England. Langley Castle is a Grade I listed building. The property switched ownership several times over hundreds of years until Langley Castle was finally built in 1364. The castle was built in an H shape with four floors, and has four towers on each corner. The castle has several other unique architectural features. After being severely damaged by a fire in 1405, Langley Castle was left in ruins for 500 years until it was restored in 1914. In the last 100 years Langley Castle went through many uses, and now operates as a hotel."
+ },
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

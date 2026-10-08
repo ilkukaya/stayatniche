@@ -1,0 +1,35 @@
+{
+ "id": "osm:way/263842806",
+ "name": "Pałac Kosińskich",
+ "queueStatus": "rejected",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 52.2498556,
+ "lng": 17.3917938,
+ "country": "Poland",
+ "city": "Połażejewo",
+ "region": "Greater Poland Voivodeship",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q11815087",
+ "wikidataDescription": null,
+ "website": "https://www.palacykkosinskich.pl/",
+ "fetchedAt": "2026-10-08T17:51:01.347Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "pl",
+  "title": "Pałacyk Kosińskich",
+  "url": "https://pl.wikipedia.org/wiki/Pa%C5%82acyk_Kosi%C5%84skich",
+  "extract": "Pałacyk Kosińskich – pałac znajdujący się w Połażejewie, zbudowany prawdopodobnie dla Witolda i Marii Kosińskich."
+ },
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "https://www.palacykkosinskich.pl/",
+ "httpStatus": 0
+}

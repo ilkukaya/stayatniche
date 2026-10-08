@@ -1,0 +1,34 @@
+{
+ "id": "osm:way/423023928",
+ "name": "Point Bonita Lighthouse",
+ "queueStatus": "rejected",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 37.8155951,
+ "lng": -122.5295379,
+ "country": "United States",
+ "city": "Marin County",
+ "region": "California",
+ "osm": {
+  "tourism": "attraction",
+  "historic": "maritime",
+  "man_made": "lighthouse"
+ },
+ "wikidata": "Q2100738",
+ "wikidataDescription": "lighthouse at Point Bonita at the San Francisco Bay entrance, California, United States",
+ "website": "https://www.nps.gov/goga/pobo.htm",
+ "fetchedAt": "2026-10-08T17:53:29.773Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Point Bonita Lighthouse",
+  "url": "https://en.wikipedia.org/wiki/Point_Bonita_Lighthouse",
+  "extract": "Point Bonita Lighthouse is a lighthouse located at Point Bonita at the San Francisco Bay entrance in the Marin Headlands. It was the last staffed lighthouse on the California coast. Point Bonita Lighthouse was added to the National Register of Historic Places in 1991."
+ },
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

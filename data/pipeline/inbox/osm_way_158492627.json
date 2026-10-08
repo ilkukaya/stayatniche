@@ -1,0 +1,27 @@
+{
+ "id": "osm:way/158492627",
+ "name": "Doubletree Hotel Chicago - North Shore Conference Center",
+ "queueStatus": "rejected",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 42.0544002,
+ "lng": -87.7452708,
+ "country": "United States",
+ "city": "Skokie",
+ "region": "Illinois",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.hilton.com/en/hotels/chiccdt-doubletree-chicago-north-shore-conference-center/",
+ "fetchedAt": "2026-10-08T17:55:14.740Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

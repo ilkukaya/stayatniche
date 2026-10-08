@@ -1,0 +1,27 @@
+{
+ "id": "osm:node/3562042305",
+ "name": "Khwai Tented Camp",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -19.1533983,
+ "lng": 23.7711701,
+ "country": "Botswana",
+ "city": "North-West District",
+ "region": "North-West District",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.kerdowneybotswana.com/our-camps/khwai-tented-camp-african-bush-camps/",
+ "fetchedAt": "2026-10-08T17:54:11.000Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

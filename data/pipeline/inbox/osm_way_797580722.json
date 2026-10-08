@@ -1,0 +1,30 @@
+{
+ "id": "osm:way/797580722",
+ "name": "Parador de Málaga Gibralfaro",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 36.7230439,
+ "lng": -4.409985,
+ "country": "Spain",
+ "city": "Málaga-Costa del Sol",
+ "region": "Andalusia",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "4"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.parador.es",
+ "fetchedAt": "2026-10-08T17:53:27.660Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "https://www.parador.es",
+ "httpStatus": 0
+}

@@ -1,0 +1,35 @@
+{
+ "id": "osm:way/168876332",
+ "name": "Westin Harbour Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 43.6409376,
+ "lng": -79.3756144,
+ "country": "Canada",
+ "city": "Toronto",
+ "region": "Ontario",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "4"
+ },
+ "wikidata": "Q2565400",
+ "wikidataDescription": "hotel in Toronto, Canada",
+ "website": "http://www.westinharbourcastletoronto.com/?SWAQ=958P",
+ "fetchedAt": "2026-10-08T17:51:00.651Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Westin Harbour Castle Hotel",
+  "url": "https://en.wikipedia.org/wiki/Westin_Harbour_Castle_Hotel",
+  "extract": "The Westin Harbour Castle Toronto is a large hotel opened in 1975 on the waterfront of Toronto, Ontario, Canada. It is part of the Westin Hotels chain within Marriott International."
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "finalUrl": "https://www.marriott.com/en-us/hotels/yyzwi-the-westin-harbour-castle-toronto/overview/?EM=DNM_WESTINHARBOURCASTLETORONTO.COM",
+ "httpStatus": 403
+}

@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/13038212520",
+ "name": "Alice Hotel",
+ "queueStatus": "weak",
+ "queueCategory": "ice-hotels",
+ "categories": [
+  "ice-hotels"
+ ],
+ "lat": 47.5128887,
+ "lng": 19.0739133,
+ "country": "Hungary",
+ "city": "Budapest",
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://alicehotel.hu/",
+ "fetchedAt": "2026-10-08T17:52:37.071Z",
+ "pages": [
+  {
+   "url": "https://alicehotel.hu/",
+   "kind": "home",
+   "title": "Home - Alice Hotel Budapest",
+   "description": "A kényeztető elegancia varázsa Alice Hotel Villa a belváros szívében Az Alice Hotel Budapest egy bájos szálloda, amely a város...",
+   "text": "Home - Alice Hotel Budapest\nL\no\na\nd\ni\nn\ng\nA kényeztető elegancia varázsa\nAlice Hotel\nVilla a belváros szívében\nAz Alice Hotel Budapest egy bájos szálloda, amely a város egyik legimpozánsabb és legelegánsabb utcájában, az Andrássy úton található. A szálloda számos kényelmi szolgáltatást kínál vendégei számára, többek között elbűvölő, hangulatos teraszt és stílusos bárt.\nFoglalás\nA szerencse nálunk parkol.\nFoglaljon közvetlenül, élvezze a WHB Hotels vendégszeretetét, regisztráljon a nyereményjátékra, és legyen Ön az, aki hazaviszi a fődíjat.\nFődíj: 1 db Suzuki Vitara 1.4 Hybrid GLX Urban Black 4WD AT Panorama (V6WLA9N), 1373 cm³, Elefántcsont–fekete (A9N) személygépkocsi.\nBővebben\nA nyereményjáték kommunikációjában megjelenő képek illusztrációk, a kiállított gépjármű marketingcélokat szolgál, műszaki állapotát a kiállítás nem befolyásolja. A részvétel feltételeihez kötött. A részletes feltételeket kérjük, olvassa el a Játékszabályzatban és az Adatkezelési Tájékoztatóban.\nSZOBAKÍNÁLAT\nKifinomult elegancia, mesébe illő miliő és maximális kényelem\nAz Alice Hotel otthona az az 1800-as évek második felében épült Kallina Mór által megálmodott villa, amely szépségével tökéletesen illeszkedik az UNESCO által védett Andrássy út varázsához, miközben modern felszereltségének köszönhetően korunk minden elvárásának megfelel.\nAz Alice Hotel 41 szobája közül minden városi utazó megtalálja a hozzá leginkább illőt – legyen szó baráti társaságokról, családokról vagy üzleti útra érkezőkről.\nSzobáink\nClassic szobák\nSuperior szobák\nDeluxe szobák\nAlice lakosztálya\nAlice Terrace & Salon\nA visszafogottan nagypolgári Alice Salonban minden vendégünk meghitten és otthonosan érezheti magát.\nTapasztalja meg Ön is az Andrássy útra néző Alice Salon egyedülálló varázsát, ahol különleges ízélmények várják.\nIndítsa a napját egy ízletes reggelivel, majd merüljön el a kulináris élvezetekben egy könnyű ebéddel, vagy tegye még egyedibbé az együtt töltött időt a Salon bárunkban.\nBŐVEBBEN\nGASZTRONÓMIA\nKülönleges ízélmények\nAz Alice Salon meghitt, nagypolgári miliője tökéletes helyszínt kínál egy otthonos ebédhez.\nVálasztékos menünkben hazai klasszikusok, nemzetközi kedvencek és speciális étrendekhez illeszkedő fogások is megtalálhatók, mind helyi és friss alapanyagokból, gondos odafigyeléssel elkészítve.\nBorlapunkon a válogatott magyar borok dominálnak, amelyeket néhány francia és újvilági különlegesség tesz még izgalmasabbá.\nAsztalfoglalás\ngaléria\nAdja át magát a múlt kifinomult eleganciának!\nBlog\nFedezd fel Budapestet!\n2025.09.26.\nBlog\nAndrássy út – A város gerince, ahol a múlt sétál a jelennel\n2025.10.03.\nBlog\nSzépművészeti Múzeum – A csendes találkozás a mesterekkel\n2025.10.03.\nBlog\nMűcsarnok – A jelen pillanat művészete\n2025.10.03.\nBlog\nHősök tere – Ahol a történelem méltósággal áll\n2025.10.03.\nBlog\nMagyar Zene Háza – Ahol a dallamok mesélnek\nAktivitások /\nProgramok\nA szálloda recepcióján számos Budapest és környékbeli programra tudunk vendéginknek foglalni.\nAsztalfoglalás\nDunai hajóutak\nWellness\nNevezetességek\nVezetett túrák\nBicikli kölcsönzés\nFoglalás\nFoglalja le szállását online!\nOnline időpontfoglaló felületünkön akár azonnal is leadhatja foglalását a keresett dátumra.\nLEFOGLALOM"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://alicehotel.hu/",
+ "httpStatus": 200,
+ "htmlLang": "hu-HU"
+}

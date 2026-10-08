@@ -1,0 +1,27 @@
+{
+ "id": "osm:node/2495957064",
+ "name": "Wadi Rum Desert Secret",
+ "queueStatus": "verified",
+ "queueCategory": "desert-camps",
+ "categories": [
+  "desert-camps"
+ ],
+ "lat": 29.602016,
+ "lng": 35.487128,
+ "country": "Jordan",
+ "city": "Aqaba",
+ "region": "Aqaba",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.wadirumthesecondtime.com/",
+ "fetchedAt": "2026-10-08T17:51:55.778Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

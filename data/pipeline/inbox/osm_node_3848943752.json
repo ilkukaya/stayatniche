@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/3848943752",
+ "name": "Childers Ecolodge",
+ "queueStatus": "rejected",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -25.2354106,
+ "lng": 152.2061187,
+ "country": "Australia",
+ "city": "Queensland",
+ "region": "Queensland",
+ "osm": {
+  "tourism": "hostel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://childersecolodge.com.au/",
+ "fetchedAt": "2026-10-08T17:53:20.838Z",
+ "pages": [
+  {
+   "url": "https://childersecolodge.com.au/",
+   "kind": "home",
+   "title": "Childers Eco-lodge - Backpacker Farm Work, Hostel, Accommodation",
+   "description": "A great hostel providing backpacker farm work for 2nd year Working Holiday Visa, with amazing facilities and beautiful suroundings",
+   "text": "Childers Eco-lodge - Backpacker Farm Work, Hostel, Accommodation\nApply Farmgate Backpackers\nApply Farmgate Backpackers\nChilders Ecolodge is closed permanently. Time for new adventures...\nChilders Ecolodge is closed permanently. Time for new adventures...\nChilders Ecolodge is closed permanently. Time for new adventures...\nChilders Ecolodge is closed permanently. Time for new adventures...\nThanks for the Memories...\nIt's been 13 years, over a thousand backpackers, many more thousands of avocados, mangos,and lychee picked and packed, hundreds of thousands of macadamia trees planted, and many others grafted, pruned and irrigated.\nWe set out to create a hostel where backpackers enjoyed their time on farms and created lifelong friends and memories - job done!\nIf you missed out on the Childers Ecolodge experience, apply to Farmgate Backpackers in Childers - they'll look after you.\nFarmgate Apply\nFarmgate Backpackers in Childers is your local option for Farmwork around the Childers area... apply online\nPowered by\nThis website uses cookies.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.\nDecline Accept"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://childersecolodge.com.au/",
+ "httpStatus": 200,
+ "htmlLang": "en-AU"
+}

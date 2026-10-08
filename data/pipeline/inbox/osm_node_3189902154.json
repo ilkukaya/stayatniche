@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/3189902154",
+ "name": "Houseboat Harmony",
+ "queueStatus": "verified",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 52.114633,
+ "lng": 5.0969414,
+ "country": "Netherlands",
+ "city": "Utrecht",
+ "region": "Utrecht",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.bed-and-breakfast-utrecht.nl",
+ "fetchedAt": "2026-10-08T17:52:05.494Z",
+ "pages": [
+  {
+   "url": "https://bed-and-breakfast-utrecht.nl/homepage/",
+   "kind": "home",
+   "title": "Welcome to Houseboat Harmony • Bed and Breakfast in Utrecht!",
+   "description": "Living in a Bed and Breakfast room in Utrecht on a houseboat with beautiful views of the Vecht.... Look no further, you are home!",
+   "text": "Welcome to Houseboat Harmony • Bed and Breakfast in Utrecht!\nSkip to content\nMenu\nBed and Breakfast in Utrecht\nLook no further, you're home!\nHave you ever lived on the water? It s an unique experience!\nSleeping in a Bed and Breakfast room in Utrecht on a houseboat with beautiful views of the Vecht boats pass by grebes at one meter distance swans and herons Feel free and enjoy\nThe breakfast\nThe breakfast of your host Gerard Vogel is much praised! It is an extensive breakfast that you can use in your room at the table overlooking the water of the beautiful river Vecht.\nIf the weather permits it you can of course sit outside on the terrace.Naturally you will get freshly squeezed orange juice with it.\nThe room\nThere is a lovely double bed waiting for you. It is a cozy high sleeper with a small staircase. You can also relax in one of the two comfortable chairs. The table, where you can have breakfast, is also suitable to work on. Atmospheric lighting completes it.\nFor your groceries there is a handy fridge in your room and you have free wifi.\nThe kitchen is at your disposal to make coffee and tea . The bathroom, with shower and toilet, is directly opposite your room.\nThe garden and your parking space\nOutside you can sit in the garden on a terrace by the water. A grape plant meanders over a romantic bamboo pergola, allowing you to sit in the shade if the weather is too warm. Go ahead and smell the aromatic plants in the herb garden\nOf course, you park free of charge in front of the door. Opposite the houseboat is a park where you can take a lovely stroll.\nPure nature in Utrecht\nThe pure simplicity of a Bed & Breakfast room in a houseboat on the river Vecht with lots of hospitality : perfect for nature lovers, peace seekers and romantics. A special experience in the middle of nature: you are in your element out here!\nYour host Gerard\nWelcome to Houseboat Harmony! I am your host and I would like to help you as much as possible, to make sure you have a wonderful stay here.\nWhether you want tips for an excursion or a nice restaurant address, I ll gladly advise you. Of course, I will also be happy to provide you with an extensive breakfast!\nIn addition to being an enthusiastic host, I also work as a pianist, and play at various dance training courses. Furthermore, I give concerts throughout the Netherlands and play in multiple formations.\nThe price\nPrice per night for one or two persons: € 79,50\nThis of course includes breakfast , as you cannot have a Bed & Breakfast without Breakfast!\nCheck-in after 4 pm; check-out before 10 am.\nIn case of cancellation, you will be charged the total price of the reservation at any given time .\nMore information...\nOr reserve your spot!\nWe use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you agree with this. Ok Privacy policy"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://bed-and-breakfast-utrecht.nl/homepage/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

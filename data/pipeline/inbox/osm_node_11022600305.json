@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/11022600305",
+ "name": "Camping Biebrzańskie Safari",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 53.5902005,
+ "lng": 22.8939779,
+ "country": "Poland",
+ "city": "Kopytkowo",
+ "region": "Podlachia Voivodeship",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://rumcajsy.com/",
+ "fetchedAt": "2026-10-08T17:54:11.333Z",
+ "pages": [
+  {
+   "url": "https://rumcajsy.com/",
+   "kind": "home",
+   "title": "AGROTURYSTYKA - NOCLEGI - SP�YWY TRATWAMI i KAJAKAMI",
+   "description": "Je�eli jeste� zm�czony cywilizacj� i szukasz kultowego miejsca na wypoczynek , takiego z kameraln� atmosfer�, cichego i spokojnego, otoczonego dziewicz� przyrod� i krystalicznie czystym powietrzem, z niewielkim zaludnieniem, takiego zagubionego gdzie� na ko�cu �wiata... To w�a�nie znalaz�e� takie miejsce  - to Dworek na Ko�cu �wiata nad Biebrz�!!! ",
+   "text": "AGROTURYSTYKA - NOCLEGI - SP�YWY TRATWAMI i KAJAKAMI\nSTRONA G��WNA\nBAZA NOCLEGOWA\nWYPO�YCZALNIA\nATRAKCJE\nGALERIA\nKONTAKT\nWersja\nstrony do urz�dze� mobilnych\nAgroturystyka - Dworek na Ko�cu\n�wiata nad Biebrz� oaza spokoju i relaksu w sercu natury\nJe�li marzysz o oderwaniu si� od miejskiego zgie�ku i chcia�by� sp�dzi�\nniezapomniane chwile w otoczeniu pi�knej przyrody, to Dworek na Ko�cu\n�wiata nad Biebrz� jest idealnym miejscem dla Ciebie. To miejsce urzeknie\nCi� swoim\nurokiem i niepowtarzalnym klimatem.\nDworek na Ko�cu �wiata nad Biebrz� to miejsce, kt�re zapewni Ci nie\ntylko wygodny nocleg, ale tak�e niezapomniane prze�ycia zwi�zane z\nblisko�ci� biebrza�skiej natury. Odpocznij od codziennego miejskiego zgie�ku i ciesz si� spokojem\ni pi�knem otaczaj�cej Ci� biebrza�skiej przyrody.\nPo�o�ony w Biebrza�skim Parku Narodowym w malowniczej miejscowo�ci\nKopytkowo, ten unikalny obiekt agroturystyczny zapewni Ci nie tylko\ndoskona�e i r�norodne warunki noclegowe, ale tak�e niepowtarzalne\ndoznania zwi�zane z blisko�ci� biebrza�skiej natury.\nOtoczony niezwyk�� przyrod� Biebrza�skiego Parku Narodowego, malowniczymi dzikimi ��kami\ni rzek� Biebrz� wraz z Kana�em Augustowskim, stanowi doskona�� baz� wypadow� dla mi�o�nik�w aktywnego wypoczynku na\n�wie�ym powietrzu.\nW okolicy znajduj� si� liczne szlaki turystyczne, kt�re umo�liwiaj�\nzar�wno d�ugie w�dr�wki, sp�ywy jak i rowerowe przeja�d�ki.\nJedn� z najciekawszych, wr�cz egzotycznych naszych atrakcji\nturystycznych jest sp�yw tratwami biebrza�skimi lub biesiadnymi. Kilku\ngodzinny sp�yw tratw� w gronie przyjaci� lub rodziny po��czony z\ndegustacja kie�baski z grilla pozostawi niezapomniane wra�enia. Tratwy\ns� ulubionym sprz�tem p�ywaj�cym wszystkich w�dkarzy, mi�o�nik�w\nprzyrody i fotograf�w. A latem tratwy biebrza�skie spe�niaj� funkcj�\np�ywaj�cych pomost�w k�pielowych.\nDla os�b preferuj�cych bardziej energiczny wypoczynek polecamy sp�ywy\nkajakowe po rzece Biebrzy, Nettcie i Kanale Augustowskim. Sp�ywy\njednodniowe lub kilkudniowe z noclegami na polach namiotowych nad\nBiebrz�.\nKontakt telefoniczny\n+48 600 273 051,"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://rumcajsy.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

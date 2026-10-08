@@ -1,0 +1,57 @@
+{
+ "id": "osm:node/5978720883",
+ "name": "Peartree House",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 54.978246,
+ "lng": -2.0222209,
+ "country": "United Kingdom",
+ "city": "Northumberland",
+ "region": "England",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.peartreebedandbreakfast.com",
+ "fetchedAt": "2026-10-08T17:54:54.965Z",
+ "pages": [
+  {
+   "url": "http://www.peartreebedandbreakfast.com/",
+   "kind": "home",
+   "title": "Bed and Breakfast Corbridge, Northumberland, Peartree House",
+   "description": "The Bed and Breakfast that doesn",
+   "text": "Bed and Breakfast Corbridge, Northumberland, Peartree House\nPeartree House\nBed and Breakfast, Corbridge, Northumberland\nTelephone: 01434 632223\nEmail: contactus@peartreebedandbreakfast.com\nAddress: Peartree House, Roman Way, Corbridge, Northumberland, NE45 5JN.\nHome\nCovid 19\nAbout Us\nRates\nAccommodation\nBreakfast\nLocation\nLocal Area\nAccess Statement\nContact Us\nPeartree\nBed and Breakfast\n\"With fantastic facilities and spacious rooms, we're delighted that\nwe can recommend Pearltree House B&B. We're inundated with positive\ncomments from walkers who have stayed here, such as 'Jan and Doug are\nincredibly helpful and friendly and provided excellent food which kept us\ngoing on our hikes.' We truly care that our walkers have a thoroughly\nenjoyable and memorable trip, and Pearltree B&B helps us to provide them\nwith just that.\"\nHillwalk Tours - Hadrian's\nWall Path\nHome\nWelcome to Peartree House -the Bed and Breakfast that doesn't cost the earth, where sustainable tourism comes second only to the comfort of our guests. Our recently refurbished B&B is a five minute walk from the centre of the village with its restaurants, tea rooms and pubs. We offer two en-suite guest bedrooms and high quality, locally sourced, full breakfasts.\nThe Corstopitum Roman site is also a five minute walk. We have facilities for walkers and cyclists and are on the Hadrian's cycle route and 1.5 mile from the Hadrian's walk route.\nHexham is 4 miles away, Newcastle 18 miles and Newcastle Airport 15 miles. For wedding guests looking for comfortable accommodation we are a short taxi ride from Slaley Hall, Matfen Hall and High House Brewery."
+  },
+  {
+   "url": "http://www.peartreebedandbreakfast.com/aboutus.html",
+   "kind": "sub",
+   "label": "About Us",
+   "title": "About Us - Peartree House Bed and Breakfast Accomodation, Corbridge, Northumberland",
+   "text": "About Us - Peartree House Bed and Breakfast Accomodation, Corbridge, Northumberland\nPeartree House\nBed and Breakfast, Corbridge, Northumberland\nTelephone: 01434 632223\nEmail: contactus@peartreebedandbreakfast.com\nAddress: Peartree House, Roman Way, Corbridge, Northumberland, NE45 5JN.\nHome\nAbout Us\nRates\nAccommodation\nBreakfast\nLocation\nLocal Area\nAccess Statement\nContact Us\nPeartree\nBed and Breakfast\nAbout Us\nCorbridge is a village located in Northumberland, situated 16 miles west of Newcastle and 4 miles east of Hexham (an awarding winning market town). Corbridge has a rich Roman history with Corstopitum Roman Site less than a 5 minute walk from Peartree House and a number of other fascinating sites in the area."
+  },
+  {
+   "url": "http://www.peartreebedandbreakfast.com/accommodation.html",
+   "kind": "sub",
+   "label": "Accommodation",
+   "title": "Accommodation - Peartree House Bed and Breakfast Accommodation, Corbridge, Northumberland",
+   "text": "Accommodation - Peartree House Bed and Breakfast Accommodation, Corbridge, Northumberland\nPeartree House\nBed and Breakfast, Corbridge, Northumberland\nTelephone: 01434 632223\nEmail: contactus@peartreebedandbreakfast.com\nAddress: Peartree House, Roman Way, Corbridge, Northumberland, NE45 5JN.\nHome\nAbout Us\nRates\nAccommodation\nBreakfast\nLocation\nLocal Area\nAccess Statement\nContact Us\nPeartree\nBed and Breakfast\nAccommodation\nKing-size Double En-suite Room\nTwin En-suite Room"
+  },
+  {
+   "url": "http://www.peartreebedandbreakfast.com/location.html",
+   "kind": "sub",
+   "label": "Location",
+   "title": "Location - Peartree House Bed and Breakfast Accommodation, Corbridge, Northumberland",
+   "text": "Location - Peartree House Bed and Breakfast Accommodation, Corbridge, Northumberland\nPeartree House\nBed and Breakfast, Corbridge, Northumberland\nTelephone: 01434 632223\nEmail: contactus@peartreebedandbreakfast.com\nAddress: Peartree House, Roman Way, Corbridge, Northumberland, NE45 5JN.\nHome\nAbout Us\nRates\nAccommodation\nBreakfast\nLocation\nLocal Area\nAccess Statement\nContact Us\nPeartree\nBed and Breakfast\nLocation\nDirections\nThe nearest railway station is Corbridge, which is 1.5 km (1.0 miles) away\n(a 20-30 minute walk). If you require a taxi this can be booked in advance, call Geoff on 01434 634006\nThe nearest bus stop is 0.8km (1/2 mile) from the B&B. Corbridge is serviced by:\n685 Newcastle to Carlisle operated by Arriva\n684 Newcastle to Hexham operated by Travelnortheast\nNo 10 Newcastle to Hexham via Metrocentre and Prudhoe operated by Gonortheast."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.peartreebedandbreakfast.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

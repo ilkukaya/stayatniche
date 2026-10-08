@@ -1,0 +1,29 @@
+{
+ "id": "osm:way/479409575",
+ "name": "The Lighthouse Resort",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 41.5336748,
+ "lng": -82.7145767,
+ "country": "United States",
+ "city": "Marblehead",
+ "region": "Ohio",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.thelighthouseresort.com/",
+ "fetchedAt": "2026-10-08T17:53:28.956Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "http://www.thelighthouseresort.com/",
+ "httpStatus": 0
+}

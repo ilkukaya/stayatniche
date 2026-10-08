@@ -1,0 +1,27 @@
+{
+ "id": "osm:way/885914895",
+ "name": "Igloo Creek Campground",
+ "queueStatus": "rejected",
+ "queueCategory": "ice-hotels",
+ "categories": [
+  "ice-hotels"
+ ],
+ "lat": 63.6095213,
+ "lng": -149.5837873,
+ "country": "United States",
+ "city": "Denali Borough",
+ "region": "Alaska",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.nps.gov/dena/planyourvisit/campground-igloo.htm",
+ "fetchedAt": "2026-10-08T17:52:47.905Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

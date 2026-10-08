@@ -1,0 +1,27 @@
+{
+ "id": "osm:way/379949590",
+ "name": "The Rice hotel",
+ "queueStatus": "weak",
+ "queueCategory": "ice-hotels",
+ "categories": [
+  "ice-hotels"
+ ],
+ "lat": 16.0703085,
+ "lng": 103.6506815,
+ "country": "Thailand",
+ "city": "Mueang Roi Et District",
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.facebook.com/thericehotel/",
+ "fetchedAt": "2026-10-08T17:52:36.972Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

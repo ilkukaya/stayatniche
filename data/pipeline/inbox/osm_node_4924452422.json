@@ -1,0 +1,29 @@
+{
+ "id": "osm:node/4924452422",
+ "name": "The Cavern Pod Hotel & Specialty Cafe",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 11.1675798,
+ "lng": 119.3969679,
+ "country": "Philippines",
+ "city": "El Nido",
+ "region": "Palawan",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://TheCavernElNido.com",
+ "fetchedAt": "2026-10-08T17:51:22.499Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "http://TheCavernElNido.com",
+ "httpStatus": 0
+}

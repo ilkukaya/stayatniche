@@ -1,0 +1,27 @@
+{
+ "id": "osm:node/4192048906",
+ "name": "Quirpon Lighthouse Inn",
+ "queueStatus": "verified",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 51.6399985,
+ "lng": -55.4269653,
+ "country": "Canada",
+ "city": "Newfoundland and Labrador",
+ "region": "Newfoundland and Labrador",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.linkumtours.com/accommodations/quirpon-lighthouse-inn/",
+ "fetchedAt": "2026-10-08T17:53:21.109Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

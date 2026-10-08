@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/556243217",
+ "name": "Baumhaus",
+ "queueStatus": "verified",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 50.8101167,
+ "lng": 7.5856264,
+ "country": "Germany",
+ "city": "Windeck",
+ "region": "North Rhine-Westphalia",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.baumhaus-schaeferwagen.de/",
+ "fetchedAt": "2026-10-08T17:54:44.129Z",
+ "pages": [
+  {
+   "url": "https://www.baumhaus-schaeferwagen.de/",
+   "kind": "home",
+   "title": "HOME",
+   "description": "",
+   "text": "HOME\nBAUM haus & SCHÄFER wagen\nDAS BESONDERE WOCHENEND- UND FERIENDOMIZIL\nHerzlich Willkommen\nin BAUM haus und SCHÄFER wagen\nIm Naturschutzgebiet Krummauel inmitten der Altarmschleife der Sieg und umgeben von Wald und Feld haben wir zwei außergewöhnliche Wochenend- und Feriendomizile geschaffen, die dazu einladen, Ruhe und Natur entspannt zu genießen – und das sogar fußläufig vom Bahnhof Schladern /Sieg .... hereinspaziert\nBAUM haus & SCHÄFER wagen\nDAS BESONDERE WOCHENEND- UND FERIENDOMIZIL\nBAUM haus & SCHÄFER wagen\nDAS BESONDERE WOCHENEND- UND FERIENDOMIZIL\nMENUE"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.baumhaus-schaeferwagen.de/",
+ "httpStatus": 200,
+ "htmlLang": "de-DE"
+}

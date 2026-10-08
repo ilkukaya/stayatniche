@@ -1,0 +1,28 @@
+{
+ "id": "osm:way/1388542320",
+ "name": "Palafitos Overwater Bungalows",
+ "queueStatus": "verified",
+ "queueCategory": "overwater-bungalows",
+ "categories": [
+  "overwater-bungalows"
+ ],
+ "lat": 20.7207332,
+ "lng": -86.978651,
+ "country": "Mexico",
+ "city": "Playa del Carmen",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "stars": "5"
+ },
+ "wikidata": "Q135975338",
+ "wikidataDescription": "hotel in Playa del Carmen, Mexico",
+ "website": "https://www.lomashospitality.com/es/hotel-palafitos-en-playa-del-carmen/",
+ "fetchedAt": "2026-10-08T17:53:30.121Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

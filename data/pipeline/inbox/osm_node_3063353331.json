@@ -1,0 +1,29 @@
+{
+ "id": "osm:node/3063353331",
+ "name": "Vuurtoren van Harlingen",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 53.1738182,
+ "lng": 5.4118292,
+ "country": "Netherlands",
+ "city": "Harlingen",
+ "region": "Frisia",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.vuurtoren-harlingen.nl/",
+ "fetchedAt": "2026-10-08T17:53:29.018Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "https://www.vuurtoren-harlingen.nl/",
+ "httpStatus": 0
+}

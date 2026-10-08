@@ -1,0 +1,27 @@
+{
+ "id": "osm:node/8608462864",
+ "name": "Grottammare mon amour Marina Grande e Piccola",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 42.9957417,
+ "lng": 13.870282,
+ "country": "Italy",
+ "city": "Grottammare",
+ "region": "Marche",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.gmonamour.it/",
+ "fetchedAt": "2026-10-08T17:51:24.206Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [
+  "robots.txt disallows fetching"
+ ]
+}

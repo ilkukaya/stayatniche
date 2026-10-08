@@ -1,0 +1,37 @@
+{
+ "id": "osm:node/10087060865",
+ "name": "Hotel Castello",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 40.5610507,
+ "lng": 17.8078045,
+ "country": "Italy",
+ "city": "Mesagne",
+ "region": "Apulia",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.hotelcastellomesagne.com/",
+ "fetchedAt": "2026-10-08T17:50:07.343Z",
+ "pages": [
+  {
+   "url": "https://www.hotelcastellomesagne.com/",
+   "kind": "home",
+   "title": "Hotel Castello Mesagne ITA",
+   "description": "Hotel Castello piazza Vittorio Emanuele II, 2 - Mesagne (Brindisi)",
+   "text": "Hotel Castello Mesagne ITA\nHotel Castello\ndal 1922 l'unico albergo nel centro della città\nPrenota\nServizi\nColazione\nSala colazione interna\ndalle h 07:00 alle h 10:00\nWi-Fi\nWi-Fi gratuito\ndisponibile in tutta\nla struttura\nReception\nAperto h 24\nPagamenti\nSi accettano pagamenti in\ncontanti, PagoBancomat, Visa, Mastercard, Amex, Maestro, VPay\nAscensore\nCon l'ascensore è possibile raggiungere le camere e la reception al 1° piano\nRistorante\nI ristoranti convenzionati sono ubicati nel centro storico della città\nServizio Navetta\nIl servizio (a pagamento) viene effettuato tramite NCC e TAXI convenzionati\nWhatsApp\n0831 777500\nCenni Storici\nIl fabbricato, sede dell'HOTEL CASTELLO, fu realizzato nei primi anni del XV secolo e destinato a convento come dimora di una piccola comunità di nove padri Conventuali, seguaci della regola di San Francesco d'Assisi.\nEssi ottennero il primo Agosto 1425 l'autorizzazione dal Ponetefice Martino V per la costruzione del nuovo convento Francescano, da edificarsi poco distante dalla loro abitazione a ridosso della già esistente chiesa di S. Maria di Nazaret (oggi chiesa dell'Immacolata).\nEsso venne adibito nei primi anni del XIX secolo, cioè qualche anno dopo la soppressione dei conventi e degli ordini monastici incluso l'Ordine Francescano avvenuta il 07/08/1809 e voluta dal governo Francese prima e da quello Sabaudo dopo, a sede della Gendarmeria Reale ed a casa di arresto.\nNel 1860 a causa del deficit del neonato Regno d'Italia, lo STATO si servì anche della confisca dei patrimoni degli Ordini Religiosi per la copertura del bilancio, ed il convento fu venduto al signor Nicola Martucci Clavica, possidente di Mesagne, che lo utilizzò come alloggi per gente senza casa.\nTra il 1907 ed il 1921 vi furono altri passaggi di proprietà, finché il 23/02/1922 l'ex convento venne acquistato per la somma di lire 29.000 dai coniugi Ruggiero Vincenzo e Zà Rosa i quali trasferirono la loro attività alberghiera, già esistente presso altro fabbricato, nell'ex convento dei Francescani con la denominazione di Albergo Stella.\nTale fino al 1982 quando l'albergo Stella cessò la sua attività per motivi di anzianità del proprietario, figlio dei predetti coniugi Ruggiero-Zà.\nDal 1982 al 1987 non ha avuto alcun utilizzo.\nFinché dall'Agosto del 1994 dopo radicale, profonda e meticolosa ristrutturazione e dotato di tutti i comfort, l'ex convento dei Francescani ha iniziato la sua attività alberghiera con l'insegna di: \" HOTEL CASTELLO\" con la classifica TRE.\nDove Siamo\nHotel Castello Mesagne\nRegione Puglia\nGalleria Immagini\nInterni\n1° piano ex Convento dei Francescani del 1400. Read more..\nEsterni\nVista panoramica su piazza Vittorio Emanuele II, Castello Normanno Svevo,\nvilla Comunale\ne Porta Grande. Read more..\nCamere\n11 camere con bagno privato\nRead more..\nInvia un messaggio\nThanks for filling out the form!\nOops...! some problem!\nInvia messaggio\nContatti\nTelefono\n0831777500\nEmail\ninfo@hotelcastellomesagne.com\nIndirizzo\n72023 Mesagne (Br)\npiazza Vittorio Emanuele II, 2\nAperto\n0:00 - 24:00\nFollow Us!\n© Copyright Hotel Castello Mesagne - All Rights Reserved\nCIN IT074010A100020605\nCIS BR074010013S0001885\nPartita Iva 02263720746\nBest AI Website Maker"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.hotelcastellomesagne.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}
