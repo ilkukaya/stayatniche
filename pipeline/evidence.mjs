@@ -32,21 +32,29 @@ const clean = (html) => html
 async function allowed(url) {
   const u = new URL(url);
   if (!robotsCache.has(u.origin)) {
-    let rules = [];
+    const rules = [];
     try {
       const r = await fetchText(`${u.origin}/robots.txt`, 8000);
-      if (r?.ok) {
-        let applies = false;
+      if (r?.ok && !/<html/i.test(r.text)) {
+        let applies = false; let lastWasAgent = false;
         for (const line of r.text.split('\n')) {
-          const [k, ...rest] = line.split(':'); const v = rest.join(':').trim(); const key = k.trim().toLowerCase();
-          if (key === 'user-agent') applies = v === '*' || /stayatniche/i.test(v);
-          else if (key === 'disallow' && applies && v) rules.push(v);
+          const [k, ...rest] = line.replace(/#.*/, '').split(':'); const v = rest.join(':').trim(); const key = k.trim().toLowerCase();
+          if (key === 'user-agent') { const m = v === '*' || /stayatniche/i.test(v); applies = lastWasAgent ? applies || m : m; lastWasAgent = true; continue; }
+          lastWasAgent = false;
+          if ((key === 'disallow' || key === 'allow') && applies && v) {
+            // Robots patterns: * matches anything, $ anchors the end.
+            const re = new RegExp('^' + v.replace(/[.+?^{}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*').replace(/\\\$$|\$$/, '$'));
+            rules.push({ allow: key === 'allow', len: v.length, re });
+          }
         }
       }
     } catch {}
     robotsCache.set(u.origin, rules);
   }
-  return !robotsCache.get(u.origin).some(p => u.pathname.startsWith(p.replace(/\*.*$/, '')));
+  // Longest matching rule wins; no match means allowed.
+  const path = u.pathname + u.search;
+  const hit = robotsCache.get(u.origin).filter(r => r.re.test(path)).sort((a, b) => b.len - a.len)[0];
+  return !hit || hit.allow;
 }
 
 async function fetchText(url, ms = 15000) {
@@ -120,7 +128,12 @@ for (const id of ids) {
   if (c.website) {
     const home = /^https?:\/\//.test(c.website) ? c.website : 'https://' + c.website;
     if (await allowed(home).catch(() => true)) {
-      const r = await fetchText(home);
+      let r = await fetchText(home);
+      // Connection-level failures: retry over http and with/without www before giving up.
+      for (const alt of [home.replace(/^https:/, 'http:'), home.replace(/^(https?:\/\/)(www\.)?/, (_, s, w) => s + (w ? '' : 'www.'))]) {
+        if (r.status !== 0 || alt === home) break;
+        r = await fetchText(alt);
+      }
       pack.finalUrl = r.url; pack.httpStatus = r.status;
       if (r.ok && r.text) {
         const title = (r.text.match(/<title[^>]*>([^<]{0,200})/i) ?? [])[1]?.trim() ?? '';
