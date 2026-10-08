@@ -22,7 +22,7 @@ const robotsCache = new Map();
 
 const fileName = (id) => id.replace(/[^a-z0-9]+/gi, '_') + '.json';
 const clean = (html) => html
-  .replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<noscript[\s\S]*?<\/noscript>|<svg[\s\S]*?<\/svg>/gi, ' ')
+  .replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<noscript[\s\S]*?<\/noscript>|<svg[\s\S]*?<\/svg>|<select[\s\S]*?<\/select>/gi, ' ')
   .replace(/<(header|nav|footer)[\s\S]*?<\/\1>/gi, ' ')
   .replace(/<br\s*\/?>|<\/(p|div|li|h[1-6]|section|article|tr)>/gi, '\n')
   .replace(/<[^>]+>/g, ' ')
@@ -62,7 +62,15 @@ async function fetchText(url, ms = 15000) {
   try {
     const r = await fetch(url, { redirect: 'follow', signal: ctl.signal, headers: { 'User-Agent': UA, 'Accept-Language': 'en,*;q=0.5' } });
     const type = r.headers.get('content-type') ?? '';
-    const text = /html|text|xml|json/.test(type) || !type ? (await r.text()).slice(0, 800000) : '';
+    let text = '';
+    if (/html|text|xml|json/.test(type) || !type) {
+      // Decode with the page's own charset (header or <meta>), not always UTF-8.
+      const buf = Buffer.from(await r.arrayBuffer()).subarray(0, 1500000);
+      const head = buf.subarray(0, 4000).toString('latin1');
+      const cs = (type.match(/charset=([\w-]+)/i) ?? head.match(/<meta[^>]+charset=["']?([\w-]+)/i) ?? [])[1]?.toLowerCase() ?? 'utf-8';
+      try { text = new TextDecoder(cs).decode(buf); } catch { text = new TextDecoder('utf-8').decode(buf); }
+      text = text.slice(0, 800000);
+    }
     return { ok: r.ok, status: r.status, url: r.url, text };
   } catch (e) { return { ok: false, status: 0, url, text: '', error: String(e.message ?? e).slice(0, 100) }; }
   finally { clearTimeout(t); }

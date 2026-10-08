@@ -37,21 +37,29 @@ for (const d of decisions) {
   if (!d.is_lodging || d.operating_status === 'closed' || d.niche_scope === 'name_only' || (!d.category && !d.other_niche_type) || blocking.length) verdict = 'rejected';
   else if (d.category && categoryQuoteOk && d.confidence >= 0.8 && ['whole_property', 'some_units'].includes(d.niche_scope) && d.operating_status !== 'unknown') verdict = d.niche_scope === 'some_units' ? 'needs_review' : 'accepted';
   else verdict = 'needs_review';
+  // No page text and nothing that disproves it: fetch again later instead of rejecting on the name alone.
+  if (verdict !== 'accepted' && !ev.pages.length && !ev.wikipedia && d.is_lodging !== false) verdict = 'no_evidence';
   const c = q[d.id] ?? {};
-  rows.push({ d, verdict, dropped, regex: c.status, regexCat: c.category ?? c.categories?.[0], name: ev.name, country: ev.country, pages: ev.pages.length });
+  let host = null; try { host = new URL(ev.finalUrl ?? ev.website).hostname.replace(/^www\./, ''); } catch {}
+  rows.push({ d, verdict, dropped, host, regex: c.status, regexCat: c.category ?? c.categories?.[0], name: ev.name, country: ev.country, pages: ev.pages.length });
+}
+// Several map entries for one property (e.g. each bungalow of a resort): keep the first, mark the rest.
+const seenHost = new Map();
+for (const r of rows.filter(r => r.host && ['accepted', 'needs_review'].includes(r.verdict))) {
+  if (seenHost.has(r.host)) { r.verdict = 'duplicate'; r.dropped.push(`same site as ${seenHost.get(r.host)}`); } else seenHost.set(r.host, r.d.id);
 }
 
-const order = { accepted: 0, needs_review: 1, rejected: 2 };
+const order = { accepted: 0, needs_review: 1, no_evidence: 2, duplicate: 3, rejected: 4 };
 rows.sort((a, b) => order[a.verdict] - order[b.verdict] || (a.d.category ?? 'zz').localeCompare(b.d.category ?? 'zz'));
 const count = (f) => rows.filter(f).length;
 const cell = (s) => String(s ?? '').replace(/\|/g, '/').replace(/\n/g, ' ');
 const md = [
   '# Haiku classification: sample report', '',
-  `Candidates: ${rows.length}. Accepted: ${count(r => r.verdict === 'accepted')}, needs review: ${count(r => r.verdict === 'needs_review')}, rejected: ${count(r => r.verdict === 'rejected')}.`,
+  `Candidates: ${rows.length}. ${Object.keys(order).map(v => `${v}: ${count(r => r.verdict === v)}`).join(', ')}.`,
   `Quotes checked against evidence: ${stats.quotesOk}/${stats.quotes} found verbatim.`, '',
   '## Regex status vs Haiku verdict', '',
-  '| Regex \\ Haiku | accepted | needs_review | rejected |', '|---|---|---|---|',
-  ...['verified', 'weak', 'rejected'].map(s => `| ${s} | ${['accepted', 'needs_review', 'rejected'].map(v => count(r => r.regex === s && r.verdict === v)).join(' | ')} |`), '',
+  `| Regex \\ Haiku | ${Object.keys(order).join(' | ')} |`, `|---|${Object.keys(order).map(() => '---').join('|')}|`,
+  ...['verified', 'weak', 'rejected'].map(s => `| ${s} | ${Object.keys(order).map(v => count(r => r.regex === s && r.verdict === v)).join(' | ')} |`), '',
   '## Decisions', '',
   '| Verdict | Name | Country | Regex guess | Haiku category | Scope | Conf. | Pages | What is unusual / reason | Dropped quotes |', '|---|---|---|---|---|---|---|---|---|---|',
   ...rows.map(r => `| ${r.verdict} | ${cell(r.name)} | ${cell(r.country)} | ${r.regexCat} (${r.regex}) | ${r.d.category ?? r.d.other_niche_type ?? '–'} | ${r.d.niche_scope} | ${r.d.confidence} | ${r.pages} | ${cell(r.d.niche_feature ?? r.d.reason)} | ${r.dropped.join(', ')} |`), '',
