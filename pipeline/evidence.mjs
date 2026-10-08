@@ -1,13 +1,17 @@
 /**
- * Evidence packs: for each candidate id, fetch the official website (home + up to 3 relevant
+ * Evidence packs: for each candidate, fetch the official website (home + up to 3 relevant
  * subpages), schema.org JSON-LD, and a Wikipedia summary, and write one JSON file per candidate
- * to data/pipeline/inbox/. Claude sessions classify from these files without touching the web.
- * Usage: node pipeline/evidence.mjs <ids.json | id...>
+ * to the inbox on the pipeline-data branch. Claude sessions classify from these files without
+ * touching the web. Marks each candidate with `lastEvidence` in the queue.
+ * Usage: node pipeline/evidence.mjs --next 150        (next candidates in cell priority order)
+ *        node pipeline/evidence.mjs <ids.json | id...> (specific candidates)
  */
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { getJSON, loadQueue, sleep, UA } from './lib.mjs';
+import { getJSON, loadQueue, saveQueue, sleep, UA, INBOX, packName, today } from './lib.mjs';
+import { cellRanker, needsEvidence } from './priorities.mjs';
 
-const OUT = 'data/pipeline/inbox';
+const OUT = INBOX;
+const CONCURRENCY = 4;
 const PAGE_CHARS = 6000;
 const SUBPAGES = 3;
 // Link text / path hints for pages that describe the stay itself.
@@ -15,12 +19,18 @@ const SUB_HINT = /room|suite|accommodation|stay|lodg|cabin|tent|villa|treehouse|
 const SKIP_HINT = /\.(pdf|jpg|jpeg|png|gif|webp|zip)(\?|$)|mailto:|tel:|javascript:|#|login|cart|checkout|privacy|cookie|terms|impressum|legal|gdpr|careers|jobs|gift|voucher|press|blog\/page/i;
 
 const args = process.argv.slice(2);
-const ids = args.length === 1 && args[0].endsWith('.json') ? JSON.parse(readFileSync(args[0], 'utf8')) : args;
 const q = loadQueue();
+let ids;
+if (args[0] === '--next') {
+  const rank = cellRanker(q);
+  ids = Object.values(q).filter(c => needsEvidence(c))
+    .sort((a, b) => rank(a) - rank(b) || (b.score ?? 0) - (a.score ?? 0) || Number(!!b.wikidata) - Number(!!a.wikidata))
+    .slice(0, +(args[1] ?? 150)).map(c => c.id);
+} else ids = args.length === 1 && args[0].endsWith('.json') ? JSON.parse(readFileSync(args[0], 'utf8')) : args;
+console.log(`evidence for ${ids.length} candidates -> ${OUT}`);
 mkdirSync(OUT, { recursive: true });
 const robotsCache = new Map();
 
-const fileName = (id) => id.replace(/[^a-z0-9]+/gi, '_') + '.json';
 const clean = (html) => html
   .replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<noscript[\s\S]*?<\/noscript>|<svg[\s\S]*?<\/svg>|<select[\s\S]*?<\/select>/gi, ' ')
   .replace(/<(header|nav|footer)[\s\S]*?<\/\1>/gi, ' ')
@@ -124,9 +134,9 @@ async function wikipedia(qid) {
 }
 
 let n = 0;
-for (const id of ids) {
+async function collect(id) {
   const c = q[id];
-  if (!c) { console.log(`missing ${id}`); continue; }
+  if (!c) { console.log(`missing ${id}`); return; }
   const pack = {
     id, name: c.name, queueStatus: c.status, queueCategory: c.category ?? c.categories[0], categories: c.categories,
     lat: c.lat, lng: c.lng, country: c.country, city: c.city, region: c.region ?? null,
@@ -162,6 +172,14 @@ for (const id of ids) {
   } else pack.notes.push('no website known');
   if (c.wikidata) pack.wikipedia = await wikipedia(c.wikidata).catch(() => null);
   pack.jsonLd = pack.jsonLd.slice(0, 3);
-  writeFileSync(`${OUT}/${fileName(id)}`, JSON.stringify(pack, null, 1) + '\n');
+  writeFileSync(`${OUT}/${packName(id)}.json`, JSON.stringify(pack, null, 1) + '\n');
+  c.lastEvidence = today();
   console.log(`${String(++n).padStart(3)} ${pack.pages.length}p ${pack.wikipedia ? 'wiki ' : ''}${c.name}`);
 }
+
+// A few candidates at a time (different hosts); each host still gets one request per second.
+const work = [...ids];
+await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
+  while (work.length) { const id = work.shift(); try { await collect(id); } catch (e) { console.log(`error ${id}: ${e.message}`); } }
+}));
+saveQueue(q);

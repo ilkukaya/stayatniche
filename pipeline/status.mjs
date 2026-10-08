@@ -4,7 +4,7 @@ import { loadQueue, publishedHotels } from './lib.mjs';
 import { CATEGORIES } from './categories.mjs';
 const q = Object.values(loadQueue());
 const pub = publishedHotels();
-const S = ['new', 'verified', 'weak', 'rejected', 'duplicate', 'published'];
+const S = ['new', 'verified', 'weak', 'classified', 'approved', 'rejected', 'duplicate', 'published'];
 const rows = Object.keys(CATEGORIES).map(cat => {
   const inCat = q.filter(c => (c.category ?? c.categories[0]) === cat);
   return `| ${cat} | ${S.map(s => inCat.filter(c => c.status === s).length).join(' | ')} |`;

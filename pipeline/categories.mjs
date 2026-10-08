@@ -28,8 +28,10 @@ export const CATEGORIES = {
     site: /floating (hotel|room|cabin|villa|suite|home)|houseboat|on the water.*(sleep|stay)|boatel/i,
   },
   'bubble-hotels': {
-    name: 'bubble|bulle|glass igloo|glass dome|sphere|sphère|dome',
+    // "dome" only as a whole word: Polish "domek/domki" (cottage) matched it before.
+    name: 'bubble|bulle|glass igloo|glass dome|sphere|sphère|(^|[^a-z])domes?([^a-z]|$)',
     site: /bubble (room|tent|hotel|suite|dome)|transparent (dome|bubble)|glass igloo|geodesic dome|sleep under the stars/i,
+    exclude: /\bdom(ek|ki|ku|eczek|ków)\b|champagne|bulles? de champagne/i,
   },
   'cliffside-hotels': {
     name: 'cliff|clifftop|cliffside|kayalık|falaise|acantilado|scogliera',

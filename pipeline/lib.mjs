@@ -3,6 +3,13 @@ import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 export const UA = 'StayAtNicheBot/1.0 (+https://stayatniche.com/about/)';
 export const QUEUE = 'data/pipeline/candidates.json';
 export const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+// Evidence packs live on the orphan `pipeline-data` branch, checked out here (git-ignored).
+export const DATA_DIR = process.env.PIPELINE_DATA ?? '.pipeline-data';
+export const INBOX = `${DATA_DIR}/inbox`;
+export const DECISIONS = 'data/pipeline/decisions';
+export const packName = (id) => id.replace(/[^a-z0-9]+/gi, '_');
+export const today = () => new Date().toISOString().slice(0, 10);
+export const catOf = (c) => c.category ?? c.categories?.[0];
 export const km = (a, b, c, d) => { const R = 6371, r = x => x * Math.PI / 180; const x = Math.sin(r(c - a) / 2) ** 2 + Math.cos(r(a)) * Math.cos(r(c)) * Math.sin(r(d - b) / 2) ** 2; return 2 * R * Math.asin(Math.sqrt(x)); };
 export const norm = (s = '') => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/\b(the|hotel|resort|lodge|&|and|spa)\b/g, ' ').replace(/[^a-z0-9]+/g, ' ').trim();
 
