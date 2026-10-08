@@ -1,334 +1,331 @@
-# Dünya çapında niş otel bulma ve zenginleştirme: Haiku planı
+# Dünya çapında niş otel bulma ve zenginleştirme: Haiku planı (API'siz)
 
 Amaç: 14 kategorinin hepsi için dünyadaki gerçek niş konaklamaları bulmak, her biri için doğrulanmış
-bilgi toplamak ve siteye yayınlanabilir hale getirmek. Bu belge işin Claude Haiku ile nasıl yapılacağını,
-neyin Haiku'ya verilip neyin verilmeyeceğini ve hangi alanların toplanacağını tanımlar.
+bilgi toplamak ve siteye yayınlanabilir hale getirmek.
+
+**Kısıt:** Anthropic API anahtarı veya ayrı bir bütçe yok. Model işi sadece **Claude Code
+oturumlarında** (claude.ai/code, zamanlanmış Routine'ler) yapılır ve mevcut abonelik kullanım
+limitinden düşer. İnternet işi ücretsiz olan **GitHub Actions**'ta yapılır.
 
 ## 1. Kısa cevap
 
-**Evet, Haiku bu işin büyük kısmını yapabilir, ama "Haiku'ya dünyayı tara de" şeklinde değil.**
+**Evet, Claude Code içinde Haiku bu işi yapabilir, API gerekmez.**
 
-- Haiku (`claude-haiku-5-5`) bir **okuyucu ve karar verici** olarak çok iyi ve çok ucuz: bir otelin web
-  sitesinden alınmış metni okuyup "bu gerçekten bir mağara oteli mi, açık mı, odaları nasıl, hangi
-  olanaklar var" sorularını yapılandırılmış JSON olarak cevaplar. Fiyat: 1M girdi token'ı $0.10,
-  1M çıktı token'ı $0.50 (100K token'a kadar olan istekler), Batch API ile %50 indirim.
-- **Tarama işini (hangi otel var, sitesi ne, sayfayı indir) kod yapmalı**, Haiku değil. Serbest gezinen bir
-  "web ajanı" olarak Haiku: kapsama ölçülemez, maliyeti kontrol edilemez, tekrar üretilemez ve kendi
-  bilgisinden gerçek uydurma riski taşır. Ayrıca gelişmiş web arama aracı (`web_search_20260209`,
-  dinamik filtreleme) Haiku'da yok.
-- Doğru kurgu: **kod keşfeder ve kanıt toplar → Haiku sınıflandırır ve bilgi çıkarır → kod Haiku'nun
-  çıktısını kaynak metne karşı doğrular → sınırda kalanlara Sonnet bakar → yazım ve yayın.**
+- Claude Code'da bir oturum, işi **Haiku modelinde çalışan alt ajanlara** (subagent) dağıtabilir. Alt
+  ajan `.claude/agents/<ad>.md` dosyasında `model: haiku` ile tanımlanır. Haiku, abonelik limitinden
+  Sonnet/Opus'a göre çok daha az harcar; okuma ağırlıklı toplu iş için doğru model.
+- Bu oturumlar zamanlanabilir. Hesabınızda zaten her gün 04:50 UTC'de çalışan bir
+  **"StayAtNiche daily writer" Routine'i var**; aynı mekanizmayla ikinci bir "sınıflandırıcı" Routine kurulur.
+- **Sohbet (claude.ai chat)**: tek tek otel araştırmak veya politika kararı tartışmak için olur. Ama
+  repoya yazamaz, binlerce adayı işleyemez ve tekrar edilebilir değildir. Ana iş için uygun değil.
 
-### Bugünkü durum (neden asıl ihtiyaç bu)
+### Bugün tespit ettiklerim
 
-Repoda keşif + doğrulama hattı zaten var (`pipeline/discover.mjs`, `pipeline/verify.mjs`, her gece
-`hotel-pipeline.yml`). Kuyrukta (`data/pipeline/candidates.json`) **7.993 aday, 218 ülke** var:
+1. **Yazar Routine'i her gün boşa çalışıyor.** 8 Ekim çalışması 1 dakikada bitti ve 0 otel yayınladı.
+   Gerekçesi: "DirectBooker bağlantısı yok, kayıtlı kanıt sadece site başlığı + meta açıklama +
+   kısa snippet; 250–450 kelime uydurmadan yazılamaz." Yani eksik olan şey **zengin kanıt**.
+2. **Bulut oturumu otel sitelerini açamıyor.** Ortamın ağ politikası genel sitelere çıkışı engelliyor
+   (`curl` ve WebFetch: 403 / EGRESS_BLOCKED). **WebSearch çalışıyor** ama arama özetleri ikincil
+   kaynaklardan geliyor ve çelişebiliyor. Örneğin Inverlochy Castle'ın giriş saati bir kaynakta
+   14:00, diğerinde 15:00. Bu yüzden arama sonuçları yayın gerçeği olarak kullanılmamalı.
+3. **GitHub Actions'ın interneti açık ve ücretsiz.** Repo herkese açık (public) olduğu için standart
+   runner dakikaları sınırsız. Gece işi her gün sorunsuz çalışıyor (~15–25 dk).
+4. **Zamanlama kayıyor.** `hotel-pipeline.yml` 01:17 UTC'ye planlı, ama GitHub gecikmesiyle fiilen
+   07:00–07:40 UTC'de başlıyor. Yazar 04:50'de çalıştığı için hep bir önceki günün verisini görüyor.
+5. **Kuyrukta 218 ülkeden 7.993 aday var**, regex doğrulaması iki yönde hata yapıyor:
+   - Yanlış pozitif: `Hotel Castello` (Mesagne) "kale oteli" diye onaylı, ama büyük olasılıkla sadece
+     kalenin adını taşıyan meydandaki bir otel.
+   - Yanlış negatif: başka dilde yazılmış gerçek niş oteller "weak" kalıyor.
 
 | Durum | Sayı |
 |---|---|
-| new (henüz kontrol edilmedi) | 2.831 |
+| new | 2.831 |
 | verified | 794 |
 | weak | 3.505 (1.824'ünün web sitesi yok) |
 | rejected | 782 |
 | duplicate | 81 |
 | **published** | **0** |
 
-Yani darboğaz keşif değil; **adayı anlamlandırma ve bilgi çıkarma**. Mevcut doğrulama regex ile
-yapılıyor ve iki yönde hata yapıyor:
+## 2. Yeni işbölümü
 
-- Yanlış pozitif: ör. `Hotel Castello` (Mesagne, İtalya) "verified castle-hotels" olarak işaretli, ama
-  site metni "1922'den beri şehir merkezindeki tek otel" diyor; büyük olasılıkla kalenin adını taşıyan
-  meydandaki bir otel, kale içinde değil. Regex "Castello" kelimesini görünce geçiriyor.
-- Yanlış negatif: sitesi İtalyanca/Türkçe/Japonca olan veya kategori kelimesini farklı ifade eden
-  gerçek niş oteller "weak" kalıyor.
+| Katman | Nerede | Maliyet | Ne yapar |
+|---|---|---|---|
+| **İnternet işleri** | GitHub Actions (gece) | Ücretsiz | Keşif, otel sitelerini indirme, kanıt paketleri, kararları doğrulayıp kuyruğa işleme |
+| **Okuma + karar** | Claude Code Routine "classifier", **Haiku alt ajanları** | Abonelik limiti | Kanıtı okuyup kategori/durum kararı verir, bilgileri JSON olarak çıkarır |
+| **Yazım** | Mevcut "daily writer" Routine'i (revize) | Abonelik limiti | İngilizce sayfayı yazar; 5 çeviriyi Haiku alt ajanlarına yaptırır |
+| **Kontrol** | Siz | Zaman | İlk haftalarda PR onayı, sonra örneklem kontrolü |
 
-Haiku tam bu boşluğu kapatır: anlamı okur, çok dilli çalışır, "adı kale ama kendisi kale değil" ayrımını yapar.
+Temel kural: **Claude oturumları internete çıkmaz, sadece repodaki dosyaları okur ve yeni karar
+dosyaları yazar.** Böylece ağ engeli sorun olmaz, her karar tekrar üretilebilir ve denetlenebilir.
 
-## 2. Görev dağılımı
-
-| İş | Kim yapar | Neden |
-|---|---|---|
-| Aday keşfi (OSM, Wikidata, listeler) | Kod | Deterministik, ücretsiz, tekrar edilebilir, kapsam ölçülebilir |
-| Web sitesi ve alt sayfaları indirme, metni temizleme, JSON-LD okuma | Kod | robots.txt, hız limiti, önbellek kontrolü bizde kalır |
-| Tekilleştirme, koordinat → ülke/şehir | Kod (mevcut `lib.mjs`, Nominatim) | Kural tabanlı |
-| **"Gerçekten bu kategoride mi, açık mı, konaklama mı?" kararı** | **Haiku (Batch)** | Ucuz, çok dilli, anlam okur |
-| **Oda tipi, olanaklar, öne çıkanlar, sezon, ulaşım gibi bilgileri çıkarma** | **Haiku (Batch)** | Yapılandırılmış çıktı |
-| Haiku'nun alıntılarının kaynak metinde birebir geçtiğini kontrol | Kod | Uydurmaya karşı ana koruma |
-| Düşük güvenli / çelişkili / sınırda vakalar | Sonnet 5.5 (`claude-sonnet-5-5`) | Daha iyi muhakeme, sadece ~%10'luk dilim |
-| Fiyat, müsaitlik | DirectBooker / Travelpayouts API | Model asla fiyat üretmez |
-| Fotoğraf | Wikimedia Commons (mevcut script), lisanslı API görselleri | Telif |
-| Otel sayfası metni + 5 çeviri | Sonnet 5.5 (pilotta Haiku ile karşılaştırılır) | Editoryal kalite, SEO |
-| Yayın onayı (ilk aylarda) | İnsan, örneklem üzerinden | Güven ve Google kalite politikaları |
-
-## 3. Hattın aşamaları
-
-Her aday şu durumlardan geçer (mevcut durum alanı genişletilir):
+## 3. Günlük akış
 
 ```
-new → evidence_ready → classified (accepted | rejected | needs_review) → enriched → drafted → published
-                                                                                             ↘ stale (yeniden kontrol)
+GitHub Actions (~07:00 UTC, ücretsiz)
+  1. apply-decisions.mjs  dünkü Haiku kararlarını doğrula → candidates.json'a işle
+  2. discover.mjs         yeni aday bul (OSM, Wikidata, listeler)
+  3. verify.mjs           ucuz ön eleme (kapalı, tekrar, konaklama değil)
+  4. evidence.mjs         sıradaki N aday için siteleri indir → "pipeline-inbox" dalına yaz
+  5. status.mjs
+
+Claude Code Routine "classifier" (~10:00 UTC, Haiku alt ajanları)
+  6. pipeline-inbox dalındaki kanıt paketlerini oku
+  7. 20'şerlik gruplar halinde hotel-classifier alt ajanlarına dağıt (paralel)
+  8. kararları data/pipeline/decisions/<tarih>/*.json olarak commit + push
+     (candidates.json'a dokunmaz → Actions ile çakışma olmaz)
+
+Claude Code Routine "writer" (~12:00 UTC, mevcut Routine saati kaydırılır)
+  9. accepted + bilgisi çıkarılmış adaylardan en fazla 8 tanesini yaz
+ 10. 5 çeviriyi Haiku alt ajanlarına yaptır, i18n-check + build, PR
 ```
 
-### A. Keşif: kapsamı genişletmek (kod)
+### Neden ayrı bir `pipeline-inbox` dalı?
 
-Mevcut OSM (ad regex'i) + Wikidata (anahtar kelime arama) korunur, şunlar eklenir:
+Kanıt paketleri büyüktür (aday başına 4–8 KB metin). Ana dalda tutulursa git geçmişi yılda yüzlerce
+MB büyür. `pipeline-inbox` her gece sıfırdan oluşturulup üzerine yazılan (geçmişi tutulmayan) bir
+daldır. Kararlar küçük olduğu için (aday başına ~1 KB) ana dalda saklanır. Ayrıca otel sitelerinden
+alınan metinler herkese açık repoda kalıcı olarak birikmemiş olur.
 
-1. **OSM'de ada değil etikete göre arama.** Birçok niş otelin adında kategori kelimesi geçmez.
+## 4. Aşamaların ayrıntısı
+
+### A. Keşif (Actions, kod): kapsamı genişletmek
+
+Mevcut OSM (ad regex'i) + Wikidata (anahtar kelime) korunur, şunlar eklenir:
+
+1. **OSM'de etikete göre arama.** Niş otellerin çoğunun adında kategori kelimesi geçmez.
    - Kale/saray: `tourism=hotel` + `historic~castle|palace|manor|fort` veya `building=castle`
    - Deniz feneri: `man_made=lighthouse` + konaklama etiketi (kısmen var)
-   - Yüzen: `floating=yes`, `building=houseboat`, `tourism=hotel` + `boat=yes`
-   - Mağara: `tourism=*` + `natural=cave_entrance` 50 m içinde, Kapadokya/Matera/Guadix/Santorini çevresi
-   - Tren: `railway=*` ile kesişen `tourism=hotel|guest_house`, `historic=railway_car`
-   - Su üstü: `tourism=hotel|resort` + `man_made=pier` veya kıyı çizgisinin denizde kalan tarafı
-2. **Wikidata SPARQL** (şu anki metin aramasından çok daha kapsamlı): ör. "P31 = otel ve P149 / P31
-   kale, saray, deniz feneri" ya da "P366 (kullanım) = otel olan kale/fener/tren vagonu".
-   Ayrıca her dildeki Wikipedia site bağlantıları kanıt toplamada kullanılır.
-3. **Küratörlü listeler ve birlikler.** Kod sayfayı indirir, **Haiku listeyi isim + şehir + URL olarak çıkarır**:
-   - Wikipedia liste ve kategori sayfaları (çok dilli: "Liste der Schlosshotels", "Paradores", "Kategori:Mağara otelleri" vb.)
-   - Paradores (İspanya), Pousadas de Portugal, Historic Hotels of America / of Europe, Schlosshotels,
-     Landmark Trust, Norveç ve İsveç fener kiralama listeleri, Relais & Châteaux ve Small Luxury Hotels'in
-     kategori sayfaları, ulusal park lodge listeleri, safari koruma alanı konsesyon listeleri.
-4. **Çok dilli terim listesi.** Haiku'ya bir kez, her kategori için 20+ dilde yerel terimleri ürettirip
-   (ör. mağara: cueva, grotta, troglodyte, mağara, 洞窟, σπηλιά...) bir insanın gözden geçirdiği bir
-   dosyaya koyun; OSM ve Wikidata sorguları bu listeyle zenginleşir. Model burada sadece sözlük
-   önerisi yapar, gerçek üretmez.
-5. **Bölgesel bölme.** Overpass sorguları kategori başına tüm dünya yerine kıta/ülke kutularına
-   bölünür (zaman aşımını önler, hangi bölgenin tarandığı izlenir).
+   - Yüzen: `floating=yes`, `building=houseboat`
+   - Mağara: konaklama + 50 m içinde `natural=cave_entrance`
+   - Tren: `historic=railway_car` + konaklama
+2. **Wikidata SPARQL:** "kullanımı otel olan kale/fener/vagon" gibi yapısal sorgular (metin aramasından çok daha kapsamlı).
+3. **Küratörlü listeler.** Actions sayfayı indirip inbox'a koyar, **Haiku alt ajanı listeyi isim + şehir + URL olarak çıkarır**:
+   - Wikipedia liste ve kategori sayfaları (çok dilli)
+   - Paradores, Pousadas de Portugal, Historic Hotels of America / of Europe, Landmark Trust
+   - Norveç ve İsveç fener kiralama listeleri, Relais & Châteaux kategori sayfaları
+4. **Çok dilli terimler:** Bir Claude Code oturumunda bir kez, her kategori için 20+ dilde terim
+   listesi hazırlanıp `pipeline/categories.mjs`'e eklenir (model sözlük önerir, insan onaylar).
+5. **Bölgesel bölme:** Overpass sorguları kıta/ülke kutularına bölünür. Böylece zaman aşımı olmaz ve
+   hangi bölgenin tarandığı izlenir.
 
-Yapılmayacaklar: Booking, TripAdvisor, Google Maps gibi siteleri kazımak (kullanım şartlarına aykırı,
-IP engeli). Bunlar yerine affiliate API'leri (Travelpayouts/Hotellook, DirectBooker) kullanılır.
+Yapılmayacak: Booking, TripAdvisor, Google Maps kazıma (kullanım şartlarına aykırı).
 
-### B. Ön eleme (kod, ücretsiz)
+### B. Kanıt paketi (Actions, `pipeline/evidence.mjs`)
 
-- Tekilleştirme: `osm:` ↔ `wd:` eşleşmesi, aynı web sitesi host'u, 300 m içinde benzer isim (mevcut `matchesPublished` genişletilir).
-- Kapalı / terk edilmiş etiketleri, Wikidata "dissolved" tarihi olanlar elenir (mevcut).
-- Web sitesi olmayanlar ayrı kuyruğa: Wikidata/Wikipedia'dan site bulunmaya çalışılır, DirectBooker
-  ile isim + koordinat araması yapılır; yine bulunamazsa beklemede kalır (yayınlanmaz).
+Her aday için bir JSON:
 
-### C. Kanıt toplama (kod)
+- Resmi site ana sayfası + en fazla 3 alt sayfa. Alt sayfa bağlantı metnine göre seçilir:
+  rooms/zimmer/camere/odalar, about/history/storia, location/getting here.
+- HTML → temiz metin, sayfa başına ~1.500 kelime sınırı.
+- Sayfadaki `schema.org` JSON-LD (Hotel/LodgingBusiness): adres, telefon, `checkinTime`, `amenityFeature`, koordinat.
+- Wikipedia özeti (varsa, İngilizce + yerel dil), OSM etiketleri, Wikidata iddiaları.
+- Kurallar: `robots.txt`, alan adı başına saniyede ≤1 istek, mevcut `StayAtNicheBot` User-Agent'ı.
+- Sıralama: önce `verified`, sonra web sitesi olan `weak`, sonra `new`.
 
-Her aday için `data/pipeline/evidence/<id>.json` (git dışında, Actions cache veya artifact olarak saklanır):
+### C. Haiku sınıflandırıcı (Claude Code alt ajanı)
 
-- Resmi site ana sayfası + en fazla 3 alt sayfa. Alt sayfa, bağlantı metnine göre seçilir:
-  rooms/zimmer/camere/odalar, about/history/storia/hakkımızda, location/getting here, faq.
-- HTML → temiz metin; her sayfa ~2.500 token ile sınırlı, toplam ~10K token. Kırpılan yer not edilir.
-- Sayfadaki `schema.org` JSON-LD (Hotel/LodgingBusiness): adres, telefon, `starRating`, `checkinTime`,
-  `priceRange`, `amenityFeature`, koordinat. Bu alanlar varsa doğrudan kullanılır, Haiku'ya da verilir.
-- Wikipedia özeti (varsa, İngilizce + yerel dil).
-- OSM etiketleri, Wikidata iddiaları.
-- Kurallar: `robots.txt`'e uy, alan adı başına saniyede ≤1 istek, mevcut `StayAtNicheBot` User-Agent'ı,
-  15 sn zaman aşımı, sonuçları 30 gün önbellekle.
+`.claude/agents/hotel-classifier.md` (taslak):
 
-### D. Haiku: sınıflandırma + bilgi çıkarma (Batch API)
+```markdown
+---
+name: hotel-classifier
+description: Reads evidence packs for candidate niche hotels and writes a JSON decision per candidate.
+model: haiku
+tools: Read, Write, Glob
+---
+You classify candidate stays for stayatniche.com using ONLY the evidence files you are given.
+Never use your own knowledge of a hotel, never browse.
+For each candidate write one object following docs/pipeline/HAIKU-PLAN.md section 5.1 ...
+Category rules: (section 6 table) ...
+Every claim needs a verbatim quote from the evidence; if you can't quote it, leave the field null.
+```
 
-- Model: `claude-haiku-5-5`, **Message Batches API** (%50 ucuz, 24 saat içinde döner; gece işine uygun).
-- `output_config.effort: "low"` (sınıflandırma/çıkarma için yeterli; pilotta `medium` ile karşılaştırılır).
-- Yapılandırılmış çıktı (`output_config.format` ile JSON şeması): geçersiz JSON imkansız hale gelir.
-- Sistem istemi sabit: kategori tanımları + kabul/ret kuralları (bölüm 5) + "sadece verilen metinden
-  bilgi yaz, metinde yoksa null bırak". Sabit kısım prompt caching ile önbelleklenir.
-- Her istek tek aday: aday meta verisi + kanıt metni.
+- Ana oturum (classifier Routine) kanıt paketlerini 20'şerli gruplara böler ve 4–5 alt ajanı paralel
+  çalıştırır. Her alt ajan kendi karar dosyasını yazar. Ana oturum sadece koordinasyon yapar.
+- **Uydurmaya karşı koruma kodda:** ertesi gece `apply-decisions.mjs` her alıntının kanıt metninde
+  birebir geçtiğini kontrol eder. Geçmeyen alan silinir; kategori alıntısı tutmuyorsa aday `needs_review` olur.
+- Sınırda kalanlar (güven < 0,8, `niche_scope` = `some_units`/`unclear`, regex ile çelişki)
+  `needs_review` olur. Bunlara writer oturumu (Sonnet) yazmadan önce bakar, ya da siz karar verirsiniz.
 
-**Uydurmaya karşı ana koruma:** her kritik iddia için Haiku kaynak metinden **birebir alıntı** verir;
-kod bu alıntının kanıt metninde gerçekten geçtiğini kontrol eder. Alıntı bulunamazsa o alan silinir;
-kategori alıntısı bulunamazsa aday `needs_review` olur.
+### D. Web sitesi olmayan adaylar (1.824 "weak")
 
-### E. Hakem ve kalite ölçümü (Sonnet + kod)
+Bulut oturumunda WebSearch çalıştığı için:
 
-Sonnet 5.5'e (yine Batch) gidenler:
-- Haiku güveni < 0,8,
-- Haiku kararı ile regex skoru çelişiyorsa (regex "verified", Haiku "reddet" veya tersi),
-- `niche_scope = some_rooms` (otelin sadece bir kısmı niş) gibi politika gerektiren vakalar,
-- Her gece rastgele %5 örneklem (Haiku'nun gerçek isabet oranını sürekli ölçmek için).
+- Classifier Routine her gün sınırlı sayıda (ör. 20) sitesiz aday için Haiku alt ajanına
+  "<isim> <şehir> official website" araması yaptırır. Ajan, alan adı otelin adıyla uyuşan resmi site
+  adayını önerir. Booking, TripAdvisor, Facebook gibi ilan siteleri kabul edilmez.
+- Önerilen URL kuyruğa yazılır. **Siteyi ertesi gece Actions indirir** ve normal akışa girer.
+- Arama sonuçlarındaki özetler hiçbir zaman yayın bilgisi olarak kullanılmaz; sadece site bulmaya yarar.
 
-### F. Zenginleştirme (kod + API)
+### E. Yazar Routine'inin revizyonu
 
-- Ülke, şehir, bölge, kıta: Nominatim (mevcut).
-- Fiyat ve rezervasyon: DirectBooker eşleşmesi (`WRITER.md`'deki akış), Travelpayouts linki. **Gözlenmemiş fiyat yazılmaz.**
-- Fotoğraf: `scripts/fetch-wikimedia-photos.mjs` (lisanslı). Otel sitesinden görsel indirilmez.
-- Yakındaki yerler: `data/destination-landmarks.json` + OSM `tourism=attraction` mesafe hesabı (kod).
+`docs/pipeline/WRITER.md` ve Routine istemi şöyle değişir:
 
-### G. Yazım
+- Uygun aday: `status: accepted` + çıkarılmış bilgi alanları dolu (sadece `verified` değil).
+- **DirectBooker zorunlu değil.** Yoksa fiyat "Rates vary", `priceIndicator` yok (kurallar bunu zaten
+  izin veriyor), yazım çıkarılmış ve doğrulanmış bilgilerden yapılır.
+- 5 çeviri, Haiku modelinde bir `hotel-translator` alt ajanına yaptırılır (abonelik limitini korur);
+  `node scripts/i18n-check.mjs` hataları yakalar.
+- Routine saati Actions + classifier sonrasına (ör. 12:00 UTC) alınır.
 
-- Frontmatter alanlarının çoğu D ve F'den doğrudan gelir (bölüm 4'teki eşleme).
-- Gövde metni (250–450 kelime) ve 5 dil çevirisi: Sonnet 5.5, sadece doğrulanmış alanlardan beslenir
-  (`WRITER.md` kuralları aynen geçerli). Pilotta 20 otel Haiku ile de yazdırılıp karşılaştırılır; kalite
-  yeterliyse çeviriler Haiku'ya kaydırılabilir.
-- `node scripts/i18n-check.mjs` ve `npm run build && node scripts/check-build.mjs` yayın öncesi zorunlu.
+## 5. Toplanacak bilgiler
 
-### H. Yayın kapısı ve tazelik
-
-- Günlük yayın limiti (ör. 10–20 otel). Toplu, ince içerik Google'ın "scaled content abuse" politikasına
-  takılabilir; yavaş ve kaliteli yayın daha güvenli.
-- İlk 4–6 hafta: her PR'da insan onayı. İsabet ölçümü ≥%95 kalırsa sadece örneklem kontrolüne geçilir.
-- Tazelik: yayınlanan her otel 90 günde bir yeniden kontrol edilir (site çalışıyor mu, "kapandı" metni var
-  mı, fiyat linki geçerli mi). Sorunluysa `stale` → insan kararı (arşiv / güncelle).
-
-## 4. Toplanacak bilgiler
-
-### 4.1 Haiku çıktı şeması (her aday için)
+### 5.1 Haiku karar şeması (aday başına)
 
 ```jsonc
 {
+  "id": "osm:node/123",
   // Karar
-  "is_lodging": true,                       // gece kalınabilen bir yer mi (restoran, müze, bar, etkinlik mekanı değil)
-  "operating_status": "open",               // open | seasonal | closed | unknown
-  "category": "cave-hotels",                // 14 slug'dan biri veya null
-  "also_fits": ["cliffside-hotels"],        // ikincil kategoriler
-  "niche_scope": "whole_property",          // whole_property | some_units | name_only | unclear
-  "niche_unit_count": 12,                   // niş birim sayısı (metinde varsa, yoksa null)
-  "niche_feature": "Rooms carved into volcanic tuff in Göreme",   // niş olan şey tam olarak ne (kısa, İngilizce)
-  "category_evidence_quote": "...",         // kaynak metinden BİREBİR alıntı (kod doğrular)
-  "confidence": 0.93,                       // 0–1
-  "red_flags": [],                          // listing_site | for_sale | event_venue_only | restaurant_only |
-                                            // museum | private_residence | closed_hint | chain_generic | theme_only
-  "other_niche_type": null,                 // 14 kategoriye uymayan ama niş bir şeyse (yel değirmeni, silo, uçak...)
+  "is_lodging": true,                    // gece kalınabilen yer mi (restoran, müze, bar, etkinlik mekanı değil)
+  "operating_status": "open",            // open | seasonal | closed | unknown
+  "category": "cave-hotels",             // 14 slug'dan biri veya null
+  "also_fits": [],
+  "niche_scope": "whole_property",       // whole_property | some_units | name_only | unclear
+  "niche_unit_count": 12,                // metinde yazıyorsa
+  "niche_feature": "Rooms carved into volcanic tuff in Göreme",
+  "category_quote": "...",               // kanıttan BİREBİR alıntı (kod doğrular)
+  "confidence": 0.93,
+  "red_flags": [],                       // listing_site | for_sale | event_venue_only | restaurant_only |
+                                         // museum | private_residence | closed_hint | theme_only
+  "other_niche_type": null,              // 14 kategoriye uymayan niş (yel değirmeni, silo, uçak...)
 
   // Kimlik
   "official_name": "Gamirasu Cave Hotel",
-  "property_type": "boutique hotel",        // hotel | lodge | B&B | guesthouse | camp | glamping | villa | train | ship | apartment
+  "property_type": "boutique hotel",     // hotel | lodge | B&B | guesthouse | camp | glamping | villa | train | ship
   "address": "...",
   "official_website": "https://...",
-  "official_booking_url": "https://...",    // otelin kendi rezervasyon sayfası varsa
 
-  // Konaklama gerçekleri (sadece metinde açıkça yazanlar)
-  "room_count": 23,
+  // Konaklama bilgileri (sadece metinde açıkça yazanlar, her biri alıntılı)
+  "room_count": { "value": 23, "quote": "..." },
   "room_types": ["Cave suite", "Deluxe cave room"],
-  "amenities": ["Restaurant", "Spa", "Free Wi-Fi", "Airport transfer"],
-  "highlights": [ { "text": "Rooms in a 1,000-year-old Byzantine monastery", "quote": "..." } ],
-  "check_in": "14:00", "check_out": "12:00",
-  "season": { "open_months": "Apr–Oct", "quote": "..." },
-  "min_age_or_family": "adults only",       // adults_only | family_friendly | unknown
-  "access": "45 min drive from Kayseri airport; transfer offered",
-  "accessibility_notes": "Steep stairs to upper cave rooms",
-  "sustainability": ["Solar power"],
-  "price_on_site": { "amount": 180, "currency": "EUR", "basis": "per night, double", "quote": "..." },  // sadece sitede yazıyorsa
-  "best_for": ["Couples", "Honeymoon"],     // çıkarım, kanıta dayanmalı
-  "site_languages": ["en", "tr"]
+  "amenities": [ { "text": "Spa", "quote": "..." } ],
+  "highlights": [ { "text": "Rooms in a former Byzantine monastery", "quote": "..." } ],
+  "check_in": null, "check_out": null,
+  "season": { "text": "Open April–October", "quote": "..." },
+  "audience": "adults_only",             // adults_only | family_friendly | unknown
+  "access": { "text": "45 min drive from Kayseri airport", "quote": "..." },
+  "accessibility_notes": null,
+  "price_on_site": null,                 // sadece sitede açıkça yazıyorsa {amount, currency, basis, quote}
+  "best_for": ["Couples"]
 }
 ```
 
-Kural: metinde olmayan her alan `null`/boş dizi. Haiku hiçbir alanı kendi genel bilgisinden doldurmaz.
+Kural: metinde olmayan her alan `null` ya da boş dizi. Haiku hiçbir alanı kendi genel bilgisinden doldurmaz.
 
-### 4.2 Kod/API'den gelenler
+### 5.2 Kod tarafından eklenenler
 
 | Alan | Kaynak |
 |---|---|
 | Koordinat | OSM / Wikidata / JSON-LD (birbirinden >1 km farklıysa işaretle) |
-| Ülke, şehir, bölge, kıta | Nominatim |
+| Ülke, şehir, bölge, kıta | Nominatim (mevcut) |
 | Wikidata ID, Wikipedia linkleri | Wikidata |
-| Fiyat aralığı, `priceIndicator` | DirectBooker / Travelpayouts (gözlenen fiyat) |
-| Affiliate linkleri | `src/lib/affiliate.ts` + Travelpayouts |
-| Fotoğraflar | Wikimedia Commons (lisans + yazar bilgisiyle) |
-| Yakındaki yerler + mesafe | OSM / `destination-landmarks.json` |
-| Kaynak izi | `sourceId`, `officialWebsite`, `verifiedAt`, kanıt URL'leri, model adı + istem sürümü |
+| Fotoğraf | Wikimedia Commons, lisans + yazar bilgisiyle (`fetch-wikimedia-photos.mjs`) |
+| Yakındaki yerler + mesafe | OSM / `data/destination-landmarks.json` |
+| Affiliate linkleri | `src/lib/affiliate.ts` (Travelpayouts marker'ı, ücretsiz) |
+| Kaynak izi | `sourceId`, `officialWebsite`, `verifiedAt`, kanıt URL'leri, karar dosyası yolu |
 
-### 4.3 Site frontmatter'ı ile eşleme (`src/content/config.ts`)
+### 5.3 Site frontmatter'ı ile eşleme (`src/content/config.ts`)
 
 | Frontmatter | Nereden |
 |---|---|
 | `name` | `official_name` |
 | `category` | `category` |
 | `destination`, `country`, `continent`, `address` | Nominatim + `address` |
-| `description` | Yazım aşaması, `niche_feature` + `highlights` temelli |
-| `highlights` | Haiku `highlights[].text` (alıntısı doğrulanmışlar) |
-| `amenities` | Haiku `amenities` + JSON-LD `amenityFeature` |
-| `bestFor`, `tags` | Haiku `best_for`, `niche_scope`, `min_age_or_family` |
-| `priceRange`, `pricePerNight`, `priceIndicator` | Sadece API'de gözlenen fiyat, yoksa "Rates vary" |
-| `checkInOut` | `check_in` / `check_out` |
-| `seasonalInfo` | `season` |
-| `nearbyAttractions` | Kod |
-| `coordinates`, `officialWebsite`, `sourceId`, `verifiedAt` | Kod |
-| `bookingUrl`, `affiliateLinks` | Affiliate katmanı |
-| `rating` | Editör puanı (mevcut 7,5–9,5 kuralı), başka sitelerin puanı kopyalanmaz |
-| `reviewCount` | 0 (sahte yorum sayısı yok, ROADMAP'teki karar) |
+| `description` | Yazar, `niche_feature` + `highlights` temelli |
+| `highlights`, `amenities` | Alıntısı doğrulanmış Haiku alanları (+ JSON-LD) |
+| `bestFor`, `tags` | `best_for`, `audience`, `niche_scope` |
+| `priceRange`, `priceIndicator` | Gözlenen fiyat yoksa "Rates vary", gösterge yok |
+| `checkInOut`, `seasonalInfo` | `check_in`/`check_out`, `season` |
+| `nearbyAttractions`, `coordinates`, `officialWebsite`, `sourceId`, `verifiedAt` | Kod |
+| `rating` | Editör puanı (7,5–9,5 kuralı); başka sitelerin puanı kopyalanmaz |
+| `reviewCount` | 0 (sahte yorum sayısı yok) |
 
-## 5. Kategori kabul kuralları (Haiku sistem istemine girer)
+## 6. Kategori kabul kuralları (alt ajan istemine girer)
 
 | Kategori | Kabul | Sık görülen yanlış pozitif |
 |---|---|---|
 | treehouse-hotels | Uyunan birim ağaçta veya ağaçlar arasında yükseltilmiş yapı | "Lemon Tree", "Treehouse" adlı hostel/bar, ağaç evi yapan firma |
-| cave-hotels | Odalar kayaya/tüfe oyulmuş veya doğal mağara içinde | Fransızca "cave" = şarap mahzeni, "Cave" adlı bar/restoran, sadece mağara turu |
-| underwater-rooms | Yatak odası su seviyesinin altında, akvaryum camlı | Su altı restoranı, akvaryum manzaralı lobi |
-| castle-hotels | Tarihî kale, saray, şato, kale içinde konaklama | Kaleye bakan / kalenin adını taşıyan otel, kale temalı yeni bina (Fransız "château" şarap çiftliği: politika kararı) |
-| floating-hotels | Uyunan birim yüzen yapı veya tekne | Suya bakan otel, sadece günlük tekne turu (nehir kruvazörleri: politika kararı) |
-| bubble-hotels | Şeffaf şişme balon veya cam kubbe | "Bubble" adlı hostel; opak jeodezik kubbe (politika kararı) |
+| cave-hotels | Odalar kayaya/tüfe oyulmuş veya doğal mağara içinde | Fransızca "cave" = şarap mahzeni, "Cave" adlı bar, sadece mağara turu |
+| underwater-rooms | Yatak odası su seviyesinin altında | Su altı restoranı, akvaryum manzaralı lobi |
+| castle-hotels | Tarihî kale, saray, şato binasında konaklama | Kaleye bakan / kalenin adını taşıyan otel, kale temalı yeni bina |
+| floating-hotels | Uyunan birim yüzen yapı veya tekne | Suya bakan otel, günlük tekne turu |
+| bubble-hotels | Şeffaf şişme balon veya cam kubbe | "Bubble" adlı hostel, opak jeodezik kubbe |
 | cliffside-hotels | Odalar uçurum yüzeyinde/kenarında, uçuruma oyulmuş veya asılı | Adında "Cliff" geçen sıradan sahil oteli |
 | desert-camps | Çölde çadır/kamp/lodge | Çöl şehrindeki şehir oteli |
-| jungle-lodges | Yağmur ormanı/bulut ormanı içinde lodge | Şehirdeki "Jungle" adlı hostel/bar |
-| ice-hotels | Buzdan/kardan yapılmış oda veya cam iglo | "Igloo" kamp alanı, dondurma dükkanı |
-| safari-lodges | Rezerv/koruma alanında, oyun sürüşü sunan lodge veya çadır kamp | Safari parkı otelleri, "Safari" adlı şehir oteli |
-| overwater-bungalows | Su üzerinde kazıklı villa/bungalov | "Water villa" adı taşıyan havuzlu villa, deniz manzaralı oda |
-| lighthouse-hotels | Fener binası veya fener bekçisi evi | "Lighthouse" adlı motel/marina/restoran |
-| train-hotels | Vagonda konaklama veya yataklı lüks tren yolculuğu | "Station Hotel", demiryolu temalı otel |
+| jungle-lodges | Yağmur/bulut ormanı içinde lodge | Şehirdeki "Jungle" adlı hostel |
+| ice-hotels | Buzdan/kardan oda veya cam iglo | "Igloo" kamp alanı |
+| safari-lodges | Rezerv/koruma alanında, oyun sürüşü sunan lodge/çadır kamp | Safari parkı otelleri, "Safari" adlı şehir oteli |
+| overwater-bungalows | Su üzerinde kazıklı villa/bungalov | Havuzlu "water villa", deniz manzaralı oda |
+| lighthouse-hotels | Fener binası veya fener bekçisi evi | "Lighthouse" adlı motel/marina |
+| train-hotels | Vagonda konaklama veya yataklı lüks tren | "Station Hotel", demiryolu temalı otel |
 
-Genel ret kuralları: `niche_scope = name_only`; konaklama değil; kapalı; satılık ilanı; sadece etkinlik mekanı;
-niş özelliği sadece dekorasyon/tema.
+Genel ret kuralları: `niche_scope = name_only`; konaklama değil; kapalı; satılık ilanı; sadece
+etkinlik mekanı; niş özelliği sadece dekorasyon/tema.
 
-## 6. Haiku'nun sınırları ve nasıl ölçeceğiz
+## 7. Kalite ölçümü (API'siz)
 
-Güçlü olduğu yerler: metinden sınıflandırma, çok dilli siteleri okuma, yapılandırılmış çıkarım, liste çıkarma.
-Zayıf olduğu yerler: kendi bilgisinden gerçek söylemek (yasaklıyoruz), politika gerektiren sınır vakalar
-(Sonnet'e gidiyor), uzun editoryal metin kalitesi (Sonnet'te kalıyor).
+1. Kuyruktan 100 aday seçilir (her kategoriden; verified/weak/rejected karışık; 10+ dil).
+2. Bunlar için kanıt paketleri hazırlanır. Bir Claude Code oturumunda Sonnet/Opus ana oturum ve siz
+   birlikte doğru cevapları belirlersiniz. Bu `pipeline/eval/golden.json` olur.
+3. Aynı paketler `hotel-classifier` (Haiku) alt ajanına verilir; `pipeline/eval/score.mjs` sonuçları karşılaştırır.
+4. Hedef: kabul edilenlerin **≥%95'i doğru** (yanlış yayın pahalı), gerçek niş otellerin ≥%85'i yakalanmış.
+5. İstem her değiştiğinde aynı set yeniden çalıştırılır.
 
-**Pilot (Faz 0):**
-1. Kuyruktan 200 aday seçilir (her kategoriden, verified/weak/rejected karışık, 10+ dil).
-2. İnsan etiketler: kategori doğru mu, scope, açık mı. Bu "altın set" `pipeline/eval/golden.json` olur.
-3. Haiku (`low` ve `medium` effort) ve Sonnet 5.5 aynı sette çalıştırılır.
-4. Ölçütler: kabul edilenlerde **isabet (precision) ≥ %95** (yanlış yayın pahalı), geri çağırma ≥ %85,
-   alıntı doğrulama başarısızlık oranı, aday başına maliyet.
-5. Haiku hedefi tutturursa ana model o olur; tutturamazsa eşik ve Sonnet'e yönlendirme oranı ayarlanır.
+Haiku hedefi tutturamazsa: eşik yükseltilir, daha çok aday `needs_review`'a gider.
 
-Altın set her istem değişikliğinde yeniden çalıştırılır (regresyon testi).
+## 8. Kapasite (bütçe yerine abonelik limiti)
 
-## 7. Maliyet tahmini
+Para maliyeti yok; sınırlayıcı olan, aboneliğin kullanım limiti ve sizin kontrol zamanınız.
 
-Varsayım: aday başına ~10K girdi + ~1,5K çıktı token'ı (düşünme dahil). Pilotta gerçek değerlerle güncellenecek.
+- Başlangıç: classifier her gün **100 aday**, writer günde 8 otel.
+- İlk hafta her Routine çalışmasının limitten ne kadar yediğine bakılır, sayı buna göre artırılır
+  (Haiku alt ajanları ana oturumdan çok daha az harcar).
+- Kaba takvim: günde 100–200 adayla mevcut 7.993 aday 6–12 haftada değerlendirilir. Yeni kaynaklar
+  bunun üstüne gelir. Keşif ve indirme tamamen Actions'ta olduğu için hiç limit yemez.
+- Gün içinde siz de Claude Code kullanıyorsanız, Routine'leri gece saatlerine koymak çakışmayı azaltır.
 
-| Kalem | Birim | 8.000 aday (bugünkü kuyruk) | 100.000 aday |
-|---|---|---|---|
-| Haiku 5.5, Batch | ~$0,001 / aday | ~$8 | ~$90 |
-| Sonnet 5.5 hakem (%10), Batch | ~$0,018 / aday | ~$15 | ~$180 |
-| Yazım + 5 çeviri, Sonnet 5.5 | ~$0,10 / yayınlanan otel | 1.000 otel ≈ $100 | 5.000 otel ≈ $500 |
+## 9. Fiyat ve rezervasyon (API'siz)
 
-Asıl maliyet modelde değil; tarama süresi (hız limitleri), API kotaları (DirectBooker, Nominatim) ve insan kontrol zamanında.
+- DirectBooker bağlantısı Routine'de yok; olmadan da yayın yapılır ("Rates vary").
+- DirectBooker'ı claude.ai bağlayıcısı olarak ücretsiz ekleyebiliyorsanız Routine'e eklenir; fiyat o zaman gösterilir.
+- Travelpayouts affiliate linkleri ücretsiz ve zaten çalışıyor; gelir için fiyat göstermek şart değil.
 
-## 8. Repoda uygulama
+## 10. Repoda yapılacaklar
 
 ```
-pipeline/
-  categories.mjs          (mevcut) + kabul kuralları metni, çok dilli terimler
-  sources/osm-tags.mjs    etiket tabanlı OSM sorguları, bölgesel bölme
-  sources/wikidata.mjs    SPARQL sorguları
-  sources/lists.mjs       küratörlü liste sayfaları → Haiku ile isim çıkarma
-  evidence.mjs            site + alt sayfa indirme, JSON-LD, temiz metin
-  classify.mjs            Haiku Batch: gönder / durum sorgula / sonuçları topla, alıntı doğrulama
-  review.mjs              Sonnet hakem Batch'i
-  enrich.mjs              konum, fiyat, foto, yakın yerler
-  eval/golden.json, eval/run.mjs
+.claude/agents/hotel-classifier.md     Haiku alt ajanı (sınıflandırma + çıkarım)
+.claude/agents/hotel-translator.md     Haiku alt ajanı (çeviri, TRANSLATING.md kuralları)
+.claude/agents/list-extractor.md       Haiku alt ajanı (liste sayfasından aday çıkarma)
+pipeline/evidence.mjs                  site + alt sayfa + JSON-LD → pipeline-inbox dalı
+pipeline/apply-decisions.mjs           alıntı doğrulama + candidates.json güncelleme
+pipeline/sources/osm-tags.mjs, wikidata-sparql.mjs, lists.mjs
+pipeline/eval/golden.json, score.mjs
+docs/pipeline/CLASSIFIER.md            classifier Routine runbook'u
+docs/pipeline/WRITER.md                revize (accepted, DirectBooker opsiyonel, Haiku çeviri)
+.github/workflows/hotel-pipeline.yml   apply → discover → verify → evidence → status
 ```
 
-- Bağımlılık: `@anthropic-ai/sdk`. GitHub secret: `ANTHROPIC_API_KEY`.
-- `candidates.json` şimdiden 5,4 MB; alanlar artınca kategori başına JSONL dosyalarına
-  (`data/pipeline/candidates/<kategori>.jsonl`) bölünmeli ki git diff'leri okunabilir kalsın.
-- `hotel-pipeline.yml` iki adımlı olur: (1) keşif + kanıt + batch gönder, (2) bir sonraki çalıştırmada
-  batch sonuçlarını topla + hakem + durum raporu. `STATUS.md`'ye yeni durumlar ve Haiku/Sonnet oranları eklenir.
-- Her Haiku kararı adayın kaydında saklanır: model, istem sürümü, tarih, alıntılar (denetlenebilirlik).
+Routine'ler:
 
-## 9. Yol haritası
+- **Yeni:** "StayAtNiche classifier", her gün ~10:00 UTC, `docs/pipeline/CLASSIFIER.md`'yi uygular.
+- **Mevcut:** "StayAtNiche daily writer", 04:50 → ~12:00 UTC, istemi revize WRITER.md'ye göre güncellenir.
+
+## 11. Yol haritası
 
 | Faz | İş | Çıktı |
 |---|---|---|
-| 0 (2–3 gün) | Altın set (200), Haiku vs Sonnet pilotu, şema ve istem | İsabet raporu, kesin maliyet |
-| 1 (1 hafta) | Mevcut 7.993 adayı Haiku ile yeniden değerlendir (`evidence` + `classify`) | Temiz "accepted" listesi; en hızlı değer buradan |
-| 2 (1–2 hafta) | Yeni kaynaklar: OSM etiketleri, SPARQL, küratörlü listeler, çok dilli terimler | Kuyruk büyür, kapsama haritası (ülke × kategori) |
-| 3 (sürekli) | Zenginleştirme + yazım + günlük sınırlı yayın, insan onaylı | Haftada 50–100 yeni otel |
-| 4 (sürekli) | 90 günlük tazelik kontrolü, altın set regresyonu | Kapanan otel / kırık link yok |
+| 1 (1–2 gün) | `evidence.mjs` + `pipeline-inbox` dalı + classifier alt ajanı + `apply-decisions.mjs` | Zengin kanıt; yazarın "kanıt yetersiz" sorunu biter |
+| 2 (2–3 gün) | 100 adaylık altın set, Haiku isabet ölçümü, istem ayarı | İsabet raporu |
+| 3 | Classifier Routine'i aç, writer'ı revize et ve saatini kaydır | Günde ~8 otel yayını başlar |
+| 4 (1–2 hafta) | OSM etiketleri, SPARQL, küratörlü listeler, çok dilli terimler, sitesiz adaylar için WebSearch | Kuyruk büyür, ülke × kategori kapsama haritası |
+| 5 (sürekli) | 90 günde bir tazelik kontrolü (Actions: site çalışıyor mu, "kapandı" metni var mı) | Kapanan otel / kırık link yok |
 
-## 10. Sizin karar vermeniz gerekenler
+## 12. Sizin karar vermeniz gerekenler
 
-1. **Politika vakaları:** Fransız şarap şatoları, opak glamping kubbeleri, nehir kruvazörleri, otelin
-   sadece birkaç odası niş olan yerler (`some_units`) kabul edilsin mi?
-2. **Bütçe ve API anahtarı:** Anthropic API anahtarı GitHub secret olarak eklenmeli; aylık üst limit.
-3. **Yayın modu:** İlk dönemde her PR'ı siz mi onaylayacaksınız, yoksa günlük limitle otomatik mi?
-4. **Yeni kategoriler:** Haiku'nun `other_niche_type` alanı (yel değirmeni, silo, uçak, manastır, yurt...)
-   yeni kategori fikirlerini de toplayacak; bunları açmak isteyip istemediğiniz.
+1. **Sınır vakalar:** Fransız şarap şatoları, opak glamping kubbeleri, nehir gemileri ve sadece
+   birkaç odası niş olan oteller kabul edilsin mi?
+2. **Yayın modu:** İlk dönemde writer'ın PR'larını siz mi onaylayacaksınız, yoksa CI yeşilse otomatik
+   birleştirme (bugünkü kural) devam mı?
+3. **Routine'ler:** Classifier Routine'inin eklenmesi ve writer'ın saatinin ~12:00 UTC'ye kaydırılması uygun mu?
+4. **İsteğe bağlı:** Ortamın ağ erişimi genişletilirse Claude oturumları siteleri doğrudan da
+   okuyabilir. Ama bu plan buna ihtiyaç duymaz; Actions yeterli.
