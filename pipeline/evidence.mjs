@@ -172,8 +172,15 @@ async function collect(id) {
   } else pack.notes.push('no website known');
   if (c.wikidata) pack.wikipedia = await wikipedia(c.wikidata).catch(() => null);
   pack.jsonLd = pack.jsonLd.slice(0, 3);
-  writeFileSync(`${OUT}/${packName(id)}.json`, JSON.stringify(pack, null, 1) + '\n');
   c.lastEvidence = today();
+  if (!pack.pages.length && !pack.wikipedia) {
+    // Nothing to read: no pack (saves a classifier call); retried after 30 days, dropped after 3 tries.
+    c.noEvidence = (c.noEvidence ?? 0) + 1; c.noEvidenceAt = new Date().toISOString();
+    if (c.noEvidence >= 3) { c.status = 'rejected'; c.reasons = ['no readable website after 3 tries']; }
+    console.log(`${String(++n).padStart(3)} -- ${c.name} (${pack.notes.join('; ')})`);
+    return;
+  }
+  writeFileSync(`${OUT}/${packName(id)}.json`, JSON.stringify(pack, null, 1) + '\n');
   console.log(`${String(++n).padStart(3)} ${pack.pages.length}p ${pack.wikipedia ? 'wiki ' : ''}${c.name}`);
 }
 
