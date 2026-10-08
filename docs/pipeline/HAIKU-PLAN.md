@@ -1,5 +1,7 @@
 # Dünya çapında niş otel bulma ve zenginleştirme: Haiku planı (API'siz)
 
+> Güncel çalışan sistem için bkz. [README.md](README.md). Bu belge ilk planlama notlarıdır.
+
 Amaç: 14 kategorinin hepsi için dünyadaki gerçek niş konaklamaları bulmak, her biri için doğrulanmış
 bilgi toplamak ve siteye yayınlanabilir hale getirmek.
 

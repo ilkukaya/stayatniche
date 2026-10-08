@@ -1,28 +1,40 @@
 # Daily writer runbook (for the scheduled Claude session)
 
-Goal: publish up to **8** newly verified niche stays per day, accurately. Quality over volume:
-never publish anything you could not verify. If nothing qualifies, publish nothing.
+Goal: publish the stays the owner **approved on the review page**, up to **20** per day, accurately.
+Never publish anything that is not `status: "approved"` in the queue. If nothing is approved, publish nothing.
+
+- Default branch: `claude/setup-stayatniche-project-xHSQk` (call it `$B`).
+- Review page: https://claude.ai/artifact/WC5XfcRYrJmXf8aqCCfDz7 (collection `queue`, document id =
+  candidate id with every non-alphanumeric run replaced by `_`, e.g. `osm:way/123` -> `osm_way_123`).
 
 ## 0. Setup
-1. Work in the `stayatniche` repo on a new branch from the default branch
-   (`claude/setup-stayatniche-project-xHSQk`): `git checkout -b claude/pipeline-YYYY-MM-DD origin/claude/setup-stayatniche-project-xHSQk`.
-2. `npm ci`.
+1. `git fetch origin $B && git checkout -b claude/pipeline-YYYY-MM-DD origin/$B`, then `npm ci`.
+2. Evidence packs: `mkdir -p .pipeline-data && git fetch --depth 1 origin pipeline-data && git archive FETCH_HEAD | tar -x -C .pipeline-data`.
+3. Pick up decisions made since the classifier ran: ArtifactData `query` on `queue` with
+   `{"where": [["status","==","pending"]], "limit": 1000}` and `out_dir: "/tmp/review-export"`, then
+   `node pipeline/sync-reviews.mjs /tmp/review-export`.
 
 ## 1. Pick candidates
-- Read `data/pipeline/candidates.json`. Eligible: `status: "verified"`.
-- Choose up to 8, favouring categories with the fewest published hotels (see `data/pipeline/STATUS.md`),
-  then candidates with a Wikidata id and a website `evidence.keyword` match.
-- Skip anything that is a chain hotel with nothing unusual about the stay itself.
+- Read `data/pipeline/candidates.json`. Eligible: `status: "approved"` only.
+- `node pipeline/approved.mjs 20` lists them in cell order (id, review-page doc id, category, country, name). Take those, so that
+  whole category × country cells fill up and their "Best … in …" pages appear.
+- The category to publish under is `finalCategory` (the reviewer's choice), not the old guess.
 
-## 2. Verify and gather facts (per candidate)
-- Evidence already collected: `evidence.title`, `evidence.description`, `evidence.snippet`, `website`, `country`, `city`, coordinates.
-- DirectBooker: `hotel-lookup-by-name-and-coordinates` with the candidate's name and coordinates.
-  - If `exact_match` (or a clearly same-property `possible_match` within ~1 km): call `hotel-details`, and
-    `hotel-availability-lowest-direct-rate` for 2 adults, 2 nights, check-in ~60 days from today.
-  - If no match: continue with evidence only.
-- The stay must genuinely belong to the category (a "treehouse" must be a room in/among trees on a raised
-  structure; a "cave hotel" must have rooms in rock; etc.). If in doubt, set the candidate to `weak` with a reason and skip.
-- If anything suggests it is closed, set `status: "rejected"` with a reason and skip.
+## 2. Gather facts (per candidate)
+Use only these sources:
+- The Haiku decision: `haiku.file` in the queue entry points to `checked.json`; its entry for this id
+  has `official_name`, `niche_feature`, `highlights` / `amenities` (each with a verified quote),
+  `room_count`, `season`, `access`, `check_in`/`check_out`, `audience`.
+- The evidence pack `.pipeline-data/inbox/<doc id>.json`: the official site's text, JSON-LD and
+  Wikipedia summary. Read it; it has more than the decision.
+- The reviewer's `reviewNote` in the queue entry (e.g. "only 3 of 20 rooms are treehouses"): the page
+  must reflect it.
+- DirectBooker only if its tools are available in this session (`hotel-lookup-by-name-and-coordinates`,
+  then `hotel-details` and `hotel-availability-lowest-direct-rate` for 2 adults, 2 nights, ~60 days out).
+  Without it, prices are "Rates vary". Missing DirectBooker is never a reason to skip a stay.
+- If the evidence pack is missing or says the place closed, set the candidate back to `classified`
+  with a `reviewNote` explaining why, and skip it.
+- If only some rooms are the niche (`haiku.scope: some_units`), say so plainly in the description and body.
 
 ## 3. Write `src/content/hotels/<slug>.md`
 Slug: `kebab-case-name-country` (unique). Frontmatter (match `src/content/config.ts`):
@@ -56,9 +68,10 @@ quotes, review counts, prices, room counts, dates or amenities. No superlatives 
 Do not copy sentences from the hotel website; paraphrase facts.
 
 ## 3b. Translations (required)
-The site is published in English, German, French, Spanish, Italian and Dutch. For every hotel you
-publish, also write its five translations, following `docs/i18n/TRANSLATING.md` exactly (format,
-allowed fields, glossary, voice per language):
+The site is published in English, German, French, Spanish, Italian and Dutch. After the English pages
+are written, launch `hotel-translator` subagents (they run on Haiku), up to 5 slugs each and at most
+4 at a time, with the prompt "Translate these hotel pages: <slugs>". They write, following
+`docs/i18n/TRANSLATING.md`:
 
 ```
 src/content/translations/de/hotels/<slug>.md
@@ -68,14 +81,17 @@ src/content/translations/it/hotels/<slug>.md
 src/content/translations/nl/hotels/<slug>.md
 ```
 
-Write each as a native travel editor of that language would, not word for word, and never add facts
-that the English page doesn't have. Then run `node scripts/i18n-check.mjs all hotels` and fix every error.
+Then run `node scripts/i18n-check.mjs all hotels` and fix every error yourself (read the failing file,
+correct it). Spot-read one translation per run for tone.
 A hotel without its translations only appears on the English site. That is acceptable only if you
 run out of time, and you must say so in the final message.
 
-## 4. Update the queue
-Set each published candidate to `status: "published"` and `slug: "<slug>"`. Save rejected/weak decisions with `reasons`.
-Run `node pipeline/status.mjs`.
+## 4. Update the queue and the review page
+1. In `data/pipeline/candidates.json` set each published candidate to `status: "published"` and
+   `slug: "<slug>"`. Run `node pipeline/status.mjs`.
+2. After the PR is merged: for each published stay, ArtifactData `get` its `queue` document (note the
+   `version`), then `update` it with `{"status": "published", "slug": "<slug>", "publishedAt": "<ISO date>"}`
+   and that `if_version`. It then appears under "Yayında" on the review page.
 
 ## 5. Check and ship
 1. `npm run build && node scripts/check-build.mjs` must pass.

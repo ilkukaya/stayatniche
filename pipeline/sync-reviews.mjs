@@ -27,7 +27,7 @@ for (const f of files(root)) {
   const cat = CATEGORIES[doc.finalCat] ? doc.finalCat : doc.cat;
   if (doc.decision === 'approve' && CATEGORIES[cat]) {
     if (c.status !== 'approved') bump('approved');
-    Object.assign(c, { status: 'approved', finalCategory: cat, reviewNote: doc.note || undefined, reviewedAt: doc.reviewedAt ?? null });
+    Object.assign(c, { status: 'approved', reasons: [], finalCategory: cat, reviewNote: doc.note || undefined, reviewedAt: doc.reviewedAt ?? null });
   } else if (doc.decision === 'reject') {
     if (c.status !== 'rejected') bump('rejected');
     Object.assign(c, { status: 'rejected', reasons: [`reviewer: ${doc.note || 'rejected on review page'}`], reviewedAt: doc.reviewedAt ?? null });
