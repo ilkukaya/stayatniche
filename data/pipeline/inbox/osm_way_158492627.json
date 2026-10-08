@@ -17,11 +17,13 @@
  "wikidata": null,
  "wikidataDescription": null,
  "website": "https://www.hilton.com/en/hotels/chiccdt-doubletree-chicago-north-shore-conference-center/",
- "fetchedAt": "2026-10-08T17:55:14.740Z",
+ "fetchedAt": "2026-10-08T18:01:58.780Z",
  "pages": [],
  "jsonLd": [],
  "wikipedia": null,
  "notes": [
-  "robots.txt disallows fetching"
- ]
+  "website fetch failed: 403"
+ ],
+ "finalUrl": "https://www.hilton.com/en/hotels/chiccdt-doubletree-chicago-north-shore-conference-center/",
+ "httpStatus": 403
 }

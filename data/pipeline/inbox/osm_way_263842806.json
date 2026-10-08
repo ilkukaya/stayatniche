@@ -18,7 +18,7 @@
  "wikidata": "Q11815087",
  "wikidataDescription": null,
  "website": "https://www.palacykkosinskich.pl/",
- "fetchedAt": "2026-10-08T17:51:01.347Z",
+ "fetchedAt": "2026-10-08T17:57:31.715Z",
  "pages": [],
  "jsonLd": [],
  "wikipedia": {
@@ -30,6 +30,6 @@
  "notes": [
   "website fetch failed: 0 fetch failed"
  ],
- "finalUrl": "https://www.palacykkosinskich.pl/",
+ "finalUrl": "https://palacykkosinskich.pl/",
  "httpStatus": 0
 }

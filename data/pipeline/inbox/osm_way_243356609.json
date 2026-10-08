@@ -17,11 +17,13 @@
  "wikidata": null,
  "wikidataDescription": null,
  "website": "https://www.hilton.com/en/hotels/sfopypy-canopy-san-francisco-soma/",
- "fetchedAt": "2026-10-08T17:53:20.746Z",
+ "fetchedAt": "2026-10-08T17:59:51.296Z",
  "pages": [],
  "jsonLd": [],
  "wikipedia": null,
  "notes": [
-  "robots.txt disallows fetching"
- ]
+  "website fetch failed: 403"
+ ],
+ "finalUrl": "https://www.hilton.com/en/hotels/sfopypy-canopy-san-francisco-soma/",
+ "httpStatus": 403
 }

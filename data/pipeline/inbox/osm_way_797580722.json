@@ -18,13 +18,13 @@
  "wikidata": null,
  "wikidataDescription": null,
  "website": "https://www.parador.es",
- "fetchedAt": "2026-10-08T17:53:27.660Z",
+ "fetchedAt": "2026-10-08T18:00:00.802Z",
  "pages": [],
  "jsonLd": [],
  "wikipedia": null,
  "notes": [
   "website fetch failed: 0 fetch failed"
  ],
- "finalUrl": "https://www.parador.es",
+ "finalUrl": "https://parador.es",
  "httpStatus": 0
 }

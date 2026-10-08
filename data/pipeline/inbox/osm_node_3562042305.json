@@ -17,11 +17,13 @@
  "wikidata": null,
  "wikidataDescription": null,
  "website": "https://www.kerdowneybotswana.com/our-camps/khwai-tented-camp-african-bush-camps/",
- "fetchedAt": "2026-10-08T17:54:11.000Z",
+ "fetchedAt": "2026-10-08T18:00:55.518Z",
  "pages": [],
  "jsonLd": [],
  "wikipedia": null,
  "notes": [
-  "robots.txt disallows fetching"
- ]
+  "website fetch failed: 404"
+ ],
+ "finalUrl": "https://kerdowneybotswana.com/our-camps/khwai-tented-camp-african-bush-camps/",
+ "httpStatus": 404
 }
