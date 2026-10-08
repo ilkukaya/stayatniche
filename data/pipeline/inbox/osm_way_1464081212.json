@@ -1,0 +1,234 @@
+{
+ "id": "osm:way/1464081212",
+ "name": "Matutum Domesville Glamping",
+ "queueStatus": "verified",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": 6.3168836,
+ "lng": 125.0283507,
+ "country": "Philippines",
+ "city": "Tupi",
+ "region": "South Cotabato",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://hotels.cloudbeds.com/reservation/KbrUB1",
+ "fetchedAt": "2026-10-08T17:56:43.111Z",
+ "pages": [
+  {
+   "url": "https://hotels.cloudbeds.com/reservation/KbrUB1",
+   "kind": "home",
+   "title": "Mt. Matutum DomesVille Glamping - Tupi, Philippines - Book Now",
+   "description": "These eccentric and outstanding camping accommodations are designed to offer the highest level of comfort with less to none impact of any kind on the surrounding environment. Geodesic dome glamping is an ultimate experience, the versatility of these structures allows them to be installed in the most scenic and unlikely locations. From mountain tops, deep in the forest, oceanfront cliffs, in the middle of the dessert, rice field or even snow. Here at DomesVille, these domes were assembled in the ",
+   "text": "Mt. Matutum DomesVille Glamping - Tupi, Philippines - Book Now\n{\"@context\":\"https://schema.org\",\"@type\":\"LodgingBusiness\",\"@id\":\"https://hotels.cloudbeds.com/reservation/KbrUB1\",\"name\":\"Mt. Matutum DomesVille Glamping\",\"telephone\":\"0917 461 6771\",\"email\":\"mtmatutumdomesville@yahoo.com\",\"checkinTime\":\"15:00:00\",\"checkoutTime\":\"12:00:00\",\"url\":\"https://www.facebook.com/Mt.MatutumDomesVille\",\"logo\":\"https://h-img2.cloudbeds.com/uploads/247614/9997e7f4-d01b-43eb-9648-97e8d4bb9cd8_gallery~~65112362add91.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Sitio Lemblisong Rd\",\"addressLocality\":\"Tupi\",\"addressRegion\":\"South Cotabato\",\"postalCode\":\"9505\",\"addressCountry\":\"PH\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":6.33440018,\"longitude\":124.95279694},\"description\":[{\"@value\":\"These eccentric and outstanding camping accommodations are designed to offer the highest level of comfort with less to none impact of any kind on the surrounding environment. Geodesic dome glamping is an ultimate experience, the versatility of these structures allows them to be installed in the most scenic and unlikely locations. From mountain tops, deep in the forest, oceanfront cliffs, in the middle of the dessert, rice field or even snow. Here at DomesVille, these domes were assembled in the foot of a mountain, with a bit of a cliff offering the best scenery of the surrounding hills and the Mt Matutum itself, an overlooking view of the majestic Sarangani Bay as well as the buzzing City of Gensan and of course, the unobstructed view of the fresh pineapple plantation. You can find these latest type of accommodation all over the world, in Australia, China, Malaysia, parts of Europe and Africa, even in the US. Hence, the desire of the owner to bring these kind of accommodation here in the South. These domes also offer a relaxing way and one of a kind experience, that while in the inside, you and your partner can enjoy the unlimited stargazing experience, making promises to one another or planning your future ahead or just chatting to each other, exchanging ideas until you fall asleep, a truly perfect romantic getaway. Finally, DomesVille Glamping was founded, built and created to let our valued guests experience the UNCONVENTIONAL.\",\"@language\":\"en\"}],\"amenityFeature\":[{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"24-hour front desk\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"24-hour security\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"All rooms disinfected daily\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Breakfast complimentary\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Buzzer / wireless intercom\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Cashless payment accepted\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"CCTV in common areas\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"CCTV outside property\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Daily Housekeeping\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Fire extinguishers\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Garden\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Guest parking\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Hiking\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Horseback riding\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Internet\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Linens, towels, laundry washed per local authority guidelines\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Miniature golf\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Movie nights\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Non-smoking rooms\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Open-air bath\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Outdoor fireplace\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Picnic area\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Pool / Beach towels\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Restaurant\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Room service\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Soundproof rooms\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Sun deck\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Swimming pool\",\"@language\":\"en\"}]}],\"containsPlace\":[{\"@type\":\"HotelRoom\",\"@id\":\"https://hotels.cloudbeds.com/reservation/KbrUB1?rid=572156\",\"name\":[{\"@value\":\"Deluxe Dome\",\"@language\":\"en\"}],\"description\":[{\"@value\":\"Suitable for couple who want to enjoy peace and quiet surroundings as the domes are secluded from the activities area. Regular rate is inclusive of complimentary breakfast for two (2) *Breakfast is serve from 7:00 AM to 10:00 AM Children 4 yrs old below will be free of charge but without breakfast Dome rate is good for 2 pax only, in excess will be charged for Php 500.00 per pax with breakfast Maximum per dome will "
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LodgingBusiness",
+   "name": "Mt. Matutum DomesVille Glamping",
+   "description": [
+    {
+     "@value": "These eccentric and outstanding camping accommodations are designed to offer the highest level of comfort with less to none impact of any kind on the surrounding environment.  Geodesic dome glamping is an ultimate experience, the versatility of these structures allows them to be installed in the most scenic and unlikely locations. From mountain tops, deep in the forest, oceanfront cliffs, in the middle of the dessert, rice field or even snow. Here at DomesVille, these domes were assembled in the foot of a mountain, with a bit of a cliff offering the best scenery of the surrounding hills and the Mt Matutum itself, an overlooking view of the majestic Sarangani Bay as well as the buzzing City of Gensan and of course, the unobstructed view of the fresh pineapple plantation. You can find these latest type of accommodation all over the world, in Australia, China, Malaysia, parts of Europe and Africa, even in the US. Hence, the desire of the owner to bring these kind of accommodation here in the South. These domes also offer a relaxing way and one of a kind experience, that while in the inside, you and your partner can enjoy the unlimited stargazing experience, making promises to one another or planning your future ahead or just chatting to each other, exchanging ideas until you fall asleep,  a truly perfect romantic getaway. Finally, DomesVille Glamping was founded, built and created to let our valued guests experience the UNCONVENTIONAL.",
+     "@language": "en"
+    }
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sitio Lemblisong Rd",
+    "addressLocality": "Tupi",
+    "addressRegion": "South Cotabato",
+    "postalCode": "9505",
+    "addressCountry": "PH"
+   },
+   "telephone": "0917 461 6771",
+   "checkinTime": "15:00:00",
+   "checkoutTime": "12:00:00",
+   "amenityFeature": [
+    [
+     {
+      "@value": "24-hour front desk",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "24-hour security",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "All rooms disinfected daily",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Breakfast complimentary",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Buzzer / wireless intercom",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Cashless payment accepted",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "CCTV in common areas",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "CCTV outside property",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Daily Housekeeping",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Fire extinguishers",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Garden",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Guest parking",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Hiking",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Horseback riding",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Internet",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Linens, towels, laundry washed per local authority guidelines",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Miniature golf",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Movie nights",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Non-smoking rooms",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Open-air bath",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Outdoor fireplace",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Picnic area",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Pool / Beach towels",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Restaurant",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Room service",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Soundproof rooms",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Sun deck",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Swimming pool",
+      "@language": "en"
+     }
+    ]
+   ],
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 6.33440018,
+    "longitude": 124.95279694
+   },
+   "url": "https://www.facebook.com/Mt.MatutumDomesVille"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://hotels.cloudbeds.com/reservation/KbrUB1",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

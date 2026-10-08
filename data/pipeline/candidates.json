@@ -455,7 +455,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Andalusia",
@@ -464,7 +464,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10050386394": {
@@ -511,7 +511,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -520,7 +520,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10052463615": {
@@ -595,7 +595,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "apartment in Benalua de Guadix",
@@ -612,7 +612,17 @@
    "snippet": "Cuevas La Granja | Casas Cueva en Granada | Turismo Rural ¿Listo para una experiencia que despierta todos tus sentidos? ¡Descubre el encanto atemporal de las casas cuevas en Granada!  Cuevas La Granja | Casas Cueva en Granada | Turismo Rural Reservar Ahora Fecha de Entrada Fecha de Salida Huéspedes 1 2 3 4 5 6 7 8 Código Promocional Reservar Ahora Las Cuevas Cuevas Estudio"
   },
   "checkedAt": "2026-10-01",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "cave-hotels",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Guest houses (cave houses) dug into the hillside in Guadix, Andalusia",
+   "reason": "Complex of 18 cave houses in Benalua de Guadix that operates as lodging with a restaurant and pool; the cave-dwelling stay is the niche.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/10054651922": {
   "id": "osm:node/10054651922",
@@ -808,7 +818,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -824,7 +834,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10077473834": {
@@ -843,7 +853,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -852,7 +862,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10086913534": {
@@ -899,7 +909,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "region": "Apulia",
@@ -914,7 +924,19 @@
    "snippet": "Hotel Castello Mesagne ITA Hotel Castello piazza Vittorio Emanuele II, 2 - Mesagne (Brindisi)  Hotel Castello Mesagne ITA dal 1922 CIN IT074010A100020605 Servizi Cenni Storici Dove Siamo Galleria Contatti Hotel Castello dal 1922 l'unico albergo nel centro della città Prenota Servizi Colazione Sala colazione interna dalle h 07:00 alle h 10:00 Wi-Fi Wi-Fi"
   },
   "checkedAt": "2026-10-02",
-  "reasons": []
+  "reasons": [
+   "haiku: Name suggests a castle, but the site describes a 3-star hotel in a former convent with only a castle view nearby; no castle rooms."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": null,
+   "reason": "Name suggests a castle, but the site describes a 3-star hotel in a former convent with only a castle view nearby; no castle rooms.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/10088755017": {
   "id": "osm:node/10088755017",
@@ -1487,7 +1509,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": null,
@@ -1496,7 +1518,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10128303031": {
@@ -2842,7 +2864,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -2851,7 +2873,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10307573509": {
@@ -3367,7 +3389,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": null,
@@ -3382,7 +3404,19 @@
    "snippet": "Ha Giang Safari | Small-Group Ha Giang Loop &amp; Cao Bang Tours Conquer the Ha Giang Loop with Safari Ha Giang Loop! Book your Ha Giang Loop Tour with easy riders, all-inclusive packages, and support. Your ultimate Vietnam adventure starts here.  Ha Giang Safari | Small-Group Ha Giang Loop Cao Bang Tours Skip to content Home About Ha Giang Loop Tours 2 Day"
   },
   "checkedAt": "2026-10-06",
-  "reasons": []
+  "reasons": [
+   "haiku: Hostel and motorbike-tour company in Ha Giang; the 'Safari' in the name is a brand name and no niche stay is described."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "Hostel and motorbike-tour company in Ha Giang; the 'Safari' in the name is a brand name and no niche stay is described.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/10578687394": {
   "id": "osm:node/10578687394",
@@ -4052,7 +4086,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -4061,7 +4095,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10681194938": {
@@ -4379,7 +4413,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -4394,7 +4428,17 @@
    "snippet": "Houseboat &quot;Arka&quot; &#8211; Houseboat Mielno   Houseboat Arka Houseboat Mielno Houseboat Arka Przełącz Nawigację Home Galeria Filmy Facebook Booking ARKA I ARKA II Regulamin Kontakt \"ARKA\" Domki na Wodzie Houseboat Mielno Domki na wodzie \"Arka\", malownicza okolica nad jeziorem Jamno i Morzem Bałtyckim. Booking Houseboat \"Arka\" Ekskluzywny La"
   },
   "checkedAt": "2026-10-03",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "floating-hotels",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Self-contained houseboat rental moored at a campsite near Lake Jamno and the Baltic coast",
+   "reason": "Houseboat rental on a campsite by Lake Jamno and the Baltic coast, matching floating-hotels with the houseboat as the whole stay.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/10713342181": {
   "id": "osm:node/10713342181",
@@ -4996,7 +5040,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Silesian Voivodeship",
@@ -5005,7 +5049,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10761294267": {
@@ -5735,7 +5779,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -5744,7 +5788,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10822710505": {
@@ -6061,7 +6105,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-02",
   "region": "Maputo Province",
@@ -6077,8 +6121,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: A PADI dive resort with beachside rooms; the name suggests underwater rooms but the rooms are not underwater, and dive shops are a listed false positive."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "A PADI dive resort with beachside rooms; the name suggests underwater rooms but the rooms are not underwater, and dive shops are a listed false positive.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/10855982293": {
   "id": "osm:node/10855982293",
@@ -6747,7 +6801,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -6763,7 +6817,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10960368586": {
@@ -7099,7 +7153,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -7108,7 +7162,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/10992028105": {
@@ -7190,7 +7244,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Podlachia Voivodeship",
@@ -7206,8 +7260,18 @@
   },
   "checkedAt": "2026-10-06",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Agritourism guesthouse and campsite in the Biebrza area offering raft and kayak trips; the Safari name is not supported by any game-drive or other niche description in the evidence."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.15,
+   "feature": null,
+   "reason": "Agritourism guesthouse and campsite in the Biebrza area offering raft and kayak trips; the Safari name is not supported by any game-drive or other niche description in the evidence.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/11023171905": {
   "id": "osm:node/11023171905",
@@ -7225,7 +7289,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "region": null,
@@ -7240,7 +7304,19 @@
    "snippet": "Pullman Tbilisi Hotel &#8211; Upscale hotel in the heart of Tbilisi   Pullman Tbilisi Hotel Upscale hotel in the heart of Tbilisi Rooms Suites Superior Room Executive Room Junior Suite Superior Suite Restaurant Bar The Junction Dumas Restaurant Weather Report Meetings Events Ballroom Meeting and Function Rooms Weddings Pool Wellness SPECIAL OFFERS"
   },
   "checkedAt": "2026-10-07",
-  "reasons": []
+  "reasons": [
+   "haiku: Pullman is a hotel brand name; this is a standard 218-room city hotel in a tower, with no railway carriage or train element."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "Pullman is a hotel brand name; this is a standard 218-room city hotel in a tower, with no railway carriage or train element.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/11026854247": {
   "id": "osm:node/11026854247",
@@ -8815,7 +8891,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Quebec",
@@ -8824,7 +8900,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/11206420646": {
@@ -9032,7 +9108,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "region": "Saxony",
@@ -9049,7 +9125,17 @@
   "checkedAt": "2026-10-07",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "train-hotels",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "converted railway carriages rented as holiday apartments at Zittauer Schmalspurbahn stations",
+   "reason": "Two converted railway carriages (Ferienwaggons) at Zittauer Schmalspurbahn stations are rented as holiday apartments; seasonal, with the Jonsdorf carriage stationed from Easter to July.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/11217898334": {
   "id": "osm:node/11217898334",
@@ -11107,7 +11193,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -11116,7 +11202,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/11486140004": {
@@ -13114,7 +13200,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -13130,7 +13216,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/1179856063": {
@@ -14295,7 +14381,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -14304,7 +14390,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/11938340212": {
@@ -14323,7 +14409,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -14332,7 +14418,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/11938340222": {
@@ -14351,7 +14437,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -14360,7 +14446,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/11939583589": {
@@ -14904,7 +14990,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -14913,7 +14999,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12001337339": {
@@ -15581,7 +15667,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "region": "England",
@@ -15597,8 +15683,18 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as train-hotels, but it is an off-grid tent and campervan campsite with no rail element and no other niche category; closed until Easter 2027."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.6,
+   "feature": "Off-grid campsite in the Surrey Hills for tents, roof tents and small campervans, with no power on site",
+   "reason": "Queued as train-hotels, but it is an off-grid tent and campervan campsite with no rail element and no other niche category; closed until Easter 2027.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/12060519066": {
   "id": "osm:node/12060519066",
@@ -16390,7 +16486,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -16398,7 +16494,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12100133801": {
@@ -16513,7 +16609,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Peloponnese Region",
@@ -16522,7 +16618,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12105703218": {
@@ -16569,7 +16665,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -16585,7 +16681,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12112960473": {
@@ -16672,7 +16768,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "region": "North-West District",
@@ -16687,7 +16783,17 @@
    "snippet": "boundary of the Central Kalahari Game Reserve in one of the largest private game reserves in Botswana. The Deception Valley Private Reserve spans 43,000-hectares of pristine Kalahari wilderness. Designated waterholes, hidden viewing hides, vegetated dunes, natural pans and an amazing valley offering incredible game viewing opportunities. The lodge uniquely pairs traditional safaris with cultural immersion, as guests are guided through traditional activities by the Naru-speaking San tribe’s. During day and night game drives, witness diverse wildlife including the black-maned Kalahari lion, chee"
   },
   "checkedAt": "2026-10-04",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "desert-camps",
+   "scope": "whole_property",
+   "confidence": 0.8,
+   "feature": "Kalahari desert lodge in a private reserve, with game drives and San cultural walks",
+   "reason": "A Kalahari reserve lodge with game drives and San cultural walks; the desert setting supports desert-camps, with safari-lodges as a second fit.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/12118525397": {
   "id": "osm:node/12118525397",
@@ -16705,7 +16811,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -16722,7 +16828,17 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "treehouse-hotels",
+   "scope": "whole_property",
+   "confidence": 0.95,
+   "feature": "Cabins suspended among trees in a small village in the Fagaras mountains, inspired by shinrin-yoku",
+   "reason": "Village of cabins suspended among trees in the Fagaras mountains with online booking; the whole property is the treehouse stay.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/12119725363": {
   "id": "osm:node/12119725363",
@@ -16922,7 +17038,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "region": "Uusimaa",
@@ -16937,7 +17053,17 @@
    "snippet": "Archipelago Igloos &#8211; Luxory Glass Igloos In Helsinki and Sipoo Archipelago We offer unique eco-friendly accommodation experience in floating glass igloos in Helsinki and Sipoo archipelago.  Archipelago Igloos Luxory Glass Igloos In Helsinki and Sipoo Archipelago Hoppa till innehåll Archipelago Igloos Luxory Glass Igloos In Helsinki and Sipoo Archipelago Meny + expanderad mini"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "ice-hotels",
+   "scope": "whole_property",
+   "confidence": 0.85,
+   "feature": "Floating glass igloo suite for two on Helsinki-area archipelago water, moved to Sipoo ice in winter",
+   "reason": "Glass igloo units are an accepted ice-hotel case; the site describes a single floating glass igloo suite for two that relocates seasonally.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/12144433744": {
   "id": "osm:node/12144433744",
@@ -17111,7 +17237,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -17127,7 +17253,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12154903424": {
@@ -17146,7 +17272,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Greater Poland Voivodeship",
@@ -17155,7 +17281,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/1215561321": {
@@ -17174,7 +17300,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Chaco",
@@ -17183,7 +17309,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12158006885": {
@@ -17723,7 +17849,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": "Madre de Dios",
@@ -17738,7 +17864,17 @@
    "snippet": "? A Treehouse Lodge in Peru typically includes private accommodations, guided jungle walks, birdwatching, river excursions, and opportunities to observe the diverse wildlife of the Manu rainforest. Q4. Is Robles Treehouse a good option for a private treehouse stay in Peru? Yes, Private Treehouse Stay Peru experiences at Robles Treehouse Lodge provide secluded bungalows, natural surroundings, and an immersive ecotourism adventure for couples, families, and nature lovers. Q5. What makes Robles Treehouse one of the best Treehouse Resorts in Manu? As a Treehouse Resort in Manu, Robles Treehouse Lo"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "treehouse-hotels",
+   "scope": "whole_property",
+   "confidence": 0.6,
+   "feature": "elevated treehouse-style bungalows above the jungle floor in Manu rainforest, on the Palotoa river",
+   "reason": "Eco-lodge on the Palotoa river in Manu with 10 treehouse-style bungalows raised above the jungle floor; the treehouse fit rests on the lodge's own wording, so confidence is moderate.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/12222169280": {
   "id": "osm:node/12222169280",
@@ -18815,7 +18951,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -18824,7 +18960,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12312859426": {
@@ -20252,7 +20388,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": null,
@@ -20261,7 +20397,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12464992309": {
@@ -21592,7 +21728,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -21608,7 +21744,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/1259236249": {
@@ -22225,7 +22361,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -22241,7 +22377,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12671020366": {
@@ -22971,7 +23107,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -22980,7 +23116,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12773368296": {
@@ -23349,7 +23485,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Vysočina Region",
@@ -23358,7 +23494,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12829789720": {
@@ -23377,7 +23513,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Vysočina Region",
@@ -23386,7 +23522,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/12830621193": {
@@ -25004,7 +25140,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -25013,7 +25149,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13005123501": {
@@ -25032,7 +25168,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Masovian Voivodeship",
@@ -25041,7 +25177,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13006092301": {
@@ -25455,7 +25591,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "region": null,
@@ -25471,8 +25607,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as ice-hotels only because of the name Alice; it is a regular villa hotel on Andrássy út with no ice or other niche feature."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "Queued as ice-hotels only because of the name Alice; it is a regular villa hotel on Andrássy út with no ice or other niche feature.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/13039029069": {
   "id": "osm:node/13039029069",
@@ -25854,7 +26000,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Liège",
@@ -25870,8 +26016,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Only the name suggests a bubble; the homepage has no text beyond the name, and hotels named Bubble are a listed false positive."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "Only the name suggests a bubble; the homepage has no text beyond the name, and hotels named Bubble are a listed false positive.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/1306687421": {
   "id": "osm:node/1306687421",
@@ -26078,7 +26234,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "category": "lighthouse-hotels",
@@ -26086,7 +26242,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13081725737": {
@@ -27255,7 +27411,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -27264,7 +27420,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13157397160": {
@@ -27758,7 +27914,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -27767,7 +27923,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13230984593": {
@@ -27786,7 +27942,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -27795,7 +27951,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13231415120": {
@@ -27814,7 +27970,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -27823,7 +27979,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13234316414": {
@@ -27842,7 +27998,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -27851,7 +28007,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13234436262": {
@@ -27954,7 +28110,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -27963,7 +28119,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13246707626": {
@@ -29258,7 +29414,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -29274,7 +29430,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13378700230": {
@@ -31799,7 +31955,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "region": "Canterbury",
@@ -31814,7 +31970,19 @@
    "snippet": "Colonial Wagon - Wacky Stays, Kaikoura, New Zealand NZ Colonial Wagon - Wacky Stays - high quality glamping accommodation in Kaikoura, New Zealand NZ  Colonial Wagon - Wacky Stays, Kaikoura, New Zealand NZ HOME Colonial Wagon Train Carriage Yurt Tipi / Teepee House Truck Farmers Cottage LLAMA TREKKING TOUR FAQs, blogs, Newsletters Contact Us Location BOOK NOW Colonial Wagon text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 text 2 A stay in our Colonial Wagon offers a truly unique and comfortable escape. Nestled in a tranquil countryside setting, this"
   },
   "checkedAt": "2026-10-07",
-  "reasons": []
+  "reasons": [
+   "haiku: Wacky Stays glamping unit named Colonial Wagon; the evidence never describes a railway carriage or train, so train-hotels does not fit and no other niche is described."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "Wacky Stays glamping unit named Colonial Wagon; the evidence never describes a railway carriage or train, so train-hotels does not fit and no other niche is described.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/13576170901": {
   "id": "osm:node/13576170901",
@@ -32926,7 +33094,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -32942,7 +33110,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13692076001": {
@@ -33254,7 +33422,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -33270,7 +33438,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/1371472162": {
@@ -34749,7 +34917,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -34762,7 +34930,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13935509114": {
@@ -35321,7 +35489,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Quintana Roo",
@@ -35330,7 +35498,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13983542536": {
@@ -35384,7 +35552,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -35393,7 +35561,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/13990152201": {
@@ -36709,7 +36877,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -36725,7 +36893,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/14087944301": {
@@ -37053,7 +37221,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Ústí nad Labem Region",
@@ -37062,7 +37230,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/14106896073": {
@@ -37954,7 +38122,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -37970,7 +38138,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/14137931875": {
@@ -42602,7 +42770,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Region of Southern Denmark",
@@ -42618,7 +42786,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/1755183892": {
@@ -47709,7 +47877,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -47725,7 +47893,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2201260296": {
@@ -48685,7 +48853,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "region": "Lapland",
@@ -48700,7 +48868,17 @@
    "snippet": "Praised Accommodation in Ranua - Arctic Guesthouse &amp; Igloos Looking for an affordable and awarded accommodation in Lapland? Book your stay in 10 movable AuroraHut glass igloos or inside Gasthaus Ranua B&amp;B Inn.  Praised Accommodation in Ranua - Arctic Guesthouse Igloos Skip to content +358 50 378 7989 Contact us Store Front Page Aurora Lake Lodges Igloos Guesthouse Winter Activities Summer Activities Restaurant Huskies Info FAQ Blog Menu Front Page Aurora Lake Lodges Igloos Guesthouse Winter Activities Su"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "ice-hotels",
+   "scope": "some_units",
+   "confidence": 0.85,
+   "feature": "10 movable glass igloos alongside guesthouse rooms and lodges in Ranua, Lapland",
+   "reason": "Glass igloos are an accepted ice-hotel case; they are 10 of several accommodation types on the property, so some_units.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/2328921248": {
   "id": "osm:node/2328921248",
@@ -49902,7 +50080,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": null,
@@ -49911,7 +50089,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/243676782": {
@@ -50161,7 +50339,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": "Tuscany",
@@ -50176,7 +50354,19 @@
    "snippet": "Agriturismo La Grotta, località Monticello - San Giuliano terme, Pisa - Home L  Agriturismo La Grotta, località Monticello - San Giuliano terme, Pisa - Home >> [FREE] >>> --> >> [FREE] >>> --> >> [FREE] >>> --> PRENOTA ORA L'agriturismo Le Camere Gli Appartamenti La Piscina Prenota Dove Siamo L'azienda agricola Risparmio energetico Produzione Incentivi Ricevuti R"
   },
   "checkedAt": "2026-10-01",
-  "reasons": []
+  "reasons": [
+   "haiku: Farm stay whose apartments are a converted wine cellar; no cave is described and the 'Grotta' name is the only cave signal."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "Farm stay whose apartments are a converted wine cellar; no cave is described and the 'Grotta' name is the only cave signal.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/2461153446": {
   "id": "osm:node/2461153446",
@@ -50659,7 +50849,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "region": "Aqaba",
@@ -50674,7 +50864,19 @@
    "snippet": "Wadi Rum the Second Time - Bedouin Experience - Jeep Tour Unique and insipiring Bedouin experience in Wadi Rum. Discover Bedouin life and traditions with our jeep and camel tours. Ecotourism in the desert.  --> Wadi Rum the Second Time - Bedouin Experience - Jeep Tour top of page Home About Tours Overnight Experiences Contact Book More Use tab to n"
   },
   "checkedAt": "2026-10-04",
-  "reasons": []
+  "reasons": [
+   "haiku: A jeep and camel tour operator with no accommodation on the site, so it is not a desert camp and fails the lodging test."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "A jeep and camel tour operator with no accommodation on the site, so it is not a desert camp and fails the lodging test.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/2495957095": {
   "id": "osm:node/2495957095",
@@ -51059,7 +51261,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "region": "Hardap",
@@ -51074,7 +51276,17 @@
    "snippet": "Stay at Desert Camp, Namibia - Self-Catering accommodation only 5km from the entrance to Sossusvlei, Deadvlei &amp; the Namib Desert!   Stay at Desert Camp, Namibia - Self-Catering accommodation only 5km from the entrance to Sossusvlei, Deadvlei the Namib Desert! +27 21 930 4564 reservations@desertcamp.com English ENGLISH GERMAN --> Home Accommodation Self"
   },
   "checkedAt": "2026-10-04",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "desert-camps",
+   "scope": "whole_property",
+   "confidence": 0.6,
+   "feature": "Self-catering bungalow camp in the Namib Desert, at the entrance to Sossusvlei",
+   "reason": "A self-catering camp of 28 bungalows on the edge of the Namib Desert near Sossusvlei; a desert camp, though the units are chalets rather than tents.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/2518857599": {
   "id": "osm:node/2518857599",
@@ -51570,7 +51782,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "category": "lighthouse-hotels",
@@ -51578,7 +51790,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2566092835": {
@@ -54052,7 +54264,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -54068,7 +54280,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2837648879": {
@@ -54147,7 +54359,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -54163,7 +54375,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2839915943": {
@@ -54912,7 +55124,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "region": null,
@@ -54927,7 +55139,17 @@
    "snippet": "Snow Resort Kirkenes and Snowhotel Kirkenes - Arctic Adventure Norway   Snow Resort Kirkenes and Snowhotel Kirkenes - Arctic Adventure Norway Menu Menu Accommodation Restaurants Activities Packages About us Meetings Events Transfers Contact BOOK NOW SNOW RESORT KIRKENES Stay in the world’s only year-round snow hotel and resort READ MORE Most Popular Arctic Holiday Packages"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "ice-hotels",
+   "scope": "some_units",
+   "confidence": 0.9,
+   "feature": "Hotel rooms carved from ice and snow by ice artists, open all year; wooden Gamme cabins are also offered",
+   "reason": "Snowhotel rooms of ice and snow are the niche and are open 365 days; the resort also rents wooden Gamme cabins, so the scope is some units.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/2891540804": {
   "id": "osm:node/2891540804",
@@ -55138,7 +55360,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -55147,7 +55369,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2909973053": {
@@ -55186,7 +55408,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -55195,7 +55417,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2910531112": {
@@ -55214,7 +55436,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -55223,7 +55445,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2910612333": {
@@ -55270,7 +55492,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -55279,7 +55501,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/2918147449": {
@@ -56881,7 +57103,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -56897,7 +57119,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3063353331": {
@@ -56916,7 +57138,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Frisia",
@@ -56930,7 +57152,17 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "lighthouse-hotels",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Overnight stay in a restored 1920s lighthouse, with a bed and 360-degree view",
+   "reason": "The lighthouse itself is the overnight unit (a bed on the top floor with 360-degree views), a direct fit for lighthouse-hotels.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/3063488056": {
   "id": "osm:node/3063488056",
@@ -57102,7 +57334,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -57111,7 +57343,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3076149316": {
@@ -58216,7 +58448,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Otjozondjupa",
@@ -58231,7 +58463,17 @@
    "snippet": "Okonjima Luxury Bush Camp Okonjima Private Bush Suite Okonjima African Villa Okonjima Plains Camp Okonjima Campsites Experience Research Collars Leopard Tracking Pangolin Tracking Brown Hyena Tracking Rhino Tracking Into AfriCat – Behind the Science Game Drive Night Drives Guided Nature Trails Nature Hiking Trails Fitness Rates Info Contact Us Home Okonjima About Okonjima Okonjima FAQ AfriCat The Evolution of the AfriCat Logo About AfriCat AfriCat FAQ Accommodation Okonjima Luxury Bush Camp Okonjima Private Bush Suite Okonjima African Villa Okonjima Plains Camp Okonjima Campsites Experience Re"
   },
   "checkedAt": "2026-10-06",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "safari-lodges",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "safari camp inside a 22,000-hectare reserve with guided game drives and leopard tracking",
+   "reason": "Luxury Bush Camp is a safari camp inside Okonjima Nature Reserve with guided game drives and leopard tracking.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/3150301792": {
   "id": "osm:node/3150301792",
@@ -58843,7 +59085,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "region": "Utrecht",
@@ -58858,7 +59100,17 @@
    "snippet": "Welcome to Houseboat Harmony • Bed and Breakfast in Utrecht! Living in a Bed and Breakfast room in Utrecht on a houseboat with beautiful views of the Vecht.... Look no further, you are home!  Welcome to Houseboat Harmony • Bed and Breakfast in Utrecht! Skip to content Menu Bed & Breakfast Houseboat Harmony Home Reviews The Local Area News Reservation Directio"
   },
   "checkedAt": "2026-10-03",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "floating-hotels",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Bed and breakfast room on a houseboat on the Vecht river in Utrecht",
+   "reason": "A B&B room on a houseboat on the Vecht in Utrecht, matching floating-hotels with the houseboat as the whole stay.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/3192451427": {
   "id": "osm:node/3192451427",
@@ -59275,7 +59527,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Rocha",
@@ -59284,7 +59536,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3226753061": {
@@ -59456,7 +59708,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -59472,7 +59724,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3244380040": {
@@ -59491,7 +59743,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -59500,7 +59752,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3244380043": {
@@ -59519,7 +59771,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -59528,7 +59780,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3244380054": {
@@ -59547,7 +59799,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -59556,7 +59808,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3247478164": {
@@ -61843,7 +62095,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Catamarca",
@@ -61852,7 +62104,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3359885865": {
@@ -62079,7 +62331,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Córdoba",
@@ -62088,7 +62340,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3389576483": {
@@ -62681,7 +62933,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -62696,7 +62948,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3448334660": {
@@ -63264,7 +63516,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Quebec",
@@ -63277,7 +63529,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3526022616": {
@@ -63741,7 +63993,10 @@
   "checkedAt": "2026-10-06",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:node/356345433": {
   "id": "osm:node/356345433",
@@ -63935,7 +64190,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -63951,7 +64206,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3586472458": {
@@ -64005,7 +64260,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -64021,7 +64276,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3592074325": {
@@ -65556,7 +65811,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Northland",
@@ -65565,7 +65820,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3703511787": {
@@ -65856,7 +66111,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Bagamati Province",
@@ -65871,7 +66126,17 @@
    "snippet": "Hotel in Chitwan National Park | Barahi Jungle Lodge Book a hotel in Chitwan National Park at Barahi Jungle Lodge. Enjoy luxury jungle accommodation, wildlife experiences, nature, and exceptional hospitality.  Hotel in Chitwan National Park | Barahi Jungle Lodge Skip to main content reserve now Suites Rooms Experiences Offers Wellness Dine Bar Activities Gallery Reviews Contact Other Hot"
   },
   "checkedAt": "2026-10-05",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "safari-lodges",
+   "scope": "whole_property",
+   "confidence": 0.8,
+   "feature": "Thatched-hut eco lodge on the Rapti river near Chitwan National Park offering private safaris",
+   "reason": "Eco-certified thatched-hut lodge near Chitwan National Park offering private safaris, so it is a safari lodge more than a rainforest lodge; all 35 units are huts.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/3743081176": {
   "id": "osm:node/3743081176",
@@ -66538,7 +66803,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Michoacán",
@@ -66547,7 +66812,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/3826975381": {
@@ -66759,8 +67024,18 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "website says closed"
-  ]
+   "haiku: Site says the business is closed permanently; it was a farm-work backpacker hostel, and the ecolodge name is the only jungle hint."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": null,
+   "reason": "Site says the business is closed permanently; it was a farm-work backpacker hostel, and the ecolodge name is the only jungle hint.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/3853449508": {
   "id": "osm:node/3853449508",
@@ -66984,7 +67259,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -66999,7 +67274,17 @@
    "snippet": "Urgup Inn Cave Hotel   Urgup Inn Cave Hotel İçeriğe atla +90 532 387 10 98 [email protected] Whatsapp Instagram Tripadvisor Ana Sayfa Odalarımız Galeri Aktiviteler İletişim Language Menu Ana Sayfa Odalarımız Galeri Aktiviteler İletişim Language RESERVATION Urgup Inn Cave Hotel Urgup Inn Cave Hotel is a comfortable, superbly furnished family run hotel enjoyin"
   },
   "checkedAt": "2026-10-01",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "cave-hotels",
+   "scope": "some_units",
+   "confidence": 0.45,
+   "feature": "one room (no. 105) named as a cave room; otherwise a converted family house in the city centre",
+   "reason": "Converted family house in Urgup centre; the only cave signal is one room named as a cave room, with no description of rooms carved into rock, so confidence is moderate.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/3887179427": {
   "id": "osm:node/3887179427",
@@ -69165,7 +69450,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Silesian Voivodeship",
@@ -69181,7 +69466,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4012073192": {
@@ -70073,7 +70358,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Ohio",
@@ -70082,7 +70367,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4117111811": {
@@ -70519,7 +70804,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "region": "British Columbia",
@@ -70535,8 +70820,18 @@
   },
   "checkedAt": "2026-10-07",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as train-hotels because of the Old West chuckwagon theme; it is a restaurant with cabins and rooms, the site is dated 2017, and nothing in it is a niche stay."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.6,
+   "feature": null,
+   "reason": "Queued as train-hotels because of the Old West chuckwagon theme; it is a restaurant with cabins and rooms, the site is dated 2017, and nothing in it is a niche stay.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/4164185189": {
   "id": "osm:node/4164185189",
@@ -71006,7 +71301,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Newfoundland and Labrador",
@@ -71021,7 +71316,17 @@
    "snippet": "Quirpon Lighthouse Inn - Linkum Tours Fully restored by Linkum Tours, Quirpon Lighthouse Inn features ten beautiful rooms at the base of a still-operating lighthouse.  Quirpon Lighthouse Inn - Linkum Tours You are using an outdated browser. Please upgrade your browser to improve your experience. Group 21 Lighthouse Inns Tours Attractions Gallery About Contact Book Now Lighthouse Inns Tours A"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "lighthouse-hotels",
+   "scope": "whole_property",
+   "confidence": 0.95,
+   "feature": "Ten rooms in a restored 1922 light-keeper's home at the base of a working lighthouse on a remote island",
+   "reason": "A ten-room inn in a restored 1922 light-keeper's home at the base of a still-operating lighthouse on Quirpon Island; clearly fits lighthouse-hotels.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/4193625855": {
   "id": "osm:node/4193625855",
@@ -71906,7 +72211,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Scotland",
@@ -71922,7 +72227,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4245484490": {
@@ -72254,7 +72559,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": null,
@@ -72270,7 +72575,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4267540591": {
@@ -72907,7 +73212,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "California",
@@ -72923,7 +73228,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4304692955": {
@@ -74081,7 +74386,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -74094,7 +74399,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4353227089": {
@@ -74612,7 +74917,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Sucumbíos",
@@ -74627,7 +74932,17 @@
    "snippet": "ervasguacamayo@gmail.com Guacamayo Ecolodge Cuyabeno Reserve Ecuador | Guacamayo Lodge | booking +593 93 906 2779 Menu Home About Us The Lodge Rooms Facilities How to get there? Packing list Privacy Policies Frequently Asked Questions Gallery Prices Amazon Tours Dolphin Tour Cuyabeno 3 Days 2 Nights Piranha Tour Cuyabeno – 4 Days / 3 Nights Cananguene Tour Cuyabeno – 5 Days / 4 Nights Cuyabeno Payments Contact Ecuadorian nature meets ecological comfort A hidden gem where nature thrives and sustainability reigns, offering eco-friendly accommodations amidst lush rainforest adventures. 3 days / 2"
   },
   "checkedAt": "2026-10-05",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "jungle-lodges",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Ecolodge of wooden huts set in primary rainforest in the Cuyabeno Reserve, Ecuador",
+   "reason": "Rainforest ecolodge with huts in primary forest in the Cuyabeno Reserve; it also sells its own guided tours, but the stays are real lodging so is_lodging is true.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/4387929989": {
   "id": "osm:node/4387929989",
@@ -76399,7 +76714,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Riau Islands",
@@ -76414,7 +76729,17 @@
    "snippet": "e Riau Islands, Telunas Private Island is a restorative retreat 50 km from Singapore. Here, time moves differently, shaped by the rhythm of the sea, the warmth of community, and the stillness that only an island can provide. Choose a family-friendly Overwater Villa for time above the sea, or an adults-only Ridge Villa for a couples retreat with a private plunge pool. You can also explore the included scheduled activities or plan your journey from Singapore . Telunas Private Island is an escape into simple island comfort and authentic hospitality. Soak up the sun above the ocean waters of Indon"
   },
   "checkedAt": "2026-10-06",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "overwater-bungalows",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "15 overwater villas on a private island, plus 5 adults-only ridge villas on land",
+   "reason": "Resort of 15 overwater villas, which fits overwater-bungalows; the adults-only ridge villas are land-based and do not change the category.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/4489873689": {
   "id": "osm:node/4489873689",
@@ -76874,7 +77199,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Chubut",
@@ -76883,7 +77208,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4532116091": {
@@ -77045,7 +77370,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -77061,7 +77386,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4538595289": {
@@ -78596,7 +78921,10 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.685Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:node/4620915469": {
   "id": "osm:node/4620915469",
@@ -79174,7 +79502,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Pastaza",
@@ -79190,8 +79518,18 @@
   },
   "checkedAt": "2026-10-05",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Only a Mapcarta listing is available; it places the guest house near forest parks, not inside jungle, so jungle-lodges rests on the name at low confidence."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": "jungle-lodges",
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": "Eco cabins near forest parks in Shell, Ecuador; the name suggests jungle but the evidence does not confirm it",
+   "reason": "Only a Mapcarta listing is available; it places the guest house near forest parks, not inside jungle, so jungle-lodges rests on the name at low confidence.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/4689659394": {
   "id": "osm:node/4689659394",
@@ -79305,7 +79643,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Scotland",
@@ -79320,7 +79658,17 @@
    "snippet": "Home | Corsewall Lighthouse Hotel and Restaurant Experience a luxury stay at Corsewall Lighthouse Hotel — a unique working lighthouse hotel on Scotland’s wild coast with sea views, exceptional dining, peaceful escapes and historic charm.  --> Home | Corsewall Lighthouse Hotel and Restaurant ._internalContainerRoot_1xyyz_1{position:relative;width:100%;height:100%;--borderTopWidth: 0px;--borderTopStyle: solid;--borderTopColor: transparent;--borderInlineEndWidth:"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "lighthouse-hotels",
+   "scope": "some_units",
+   "confidence": 0.9,
+   "feature": "Rooms in the original lighthouse keepers' quarters, plus modern sea-view rooms nearby",
+   "reason": "A working-lighthouse hotel where six rooms are in the original keepers' quarters, with other rooms in modern buildings nearby, so the scope is some_units.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/4695024889": {
   "id": "osm:node/4695024889",
@@ -81053,7 +81401,10 @@
   "checkedAt": "2026-10-05",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:node/4788896847": {
   "id": "osm:node/4788896847",
@@ -81531,7 +81882,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -81547,7 +81898,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4830713813": {
@@ -83106,7 +83457,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -83115,7 +83466,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4924452422": {
@@ -83148,7 +83499,10 @@
   "checkedAt": "2026-10-01",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:node/4927573921": {
   "id": "osm:node/4927573921",
@@ -83771,7 +84125,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -83787,7 +84141,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/4986124923": {
@@ -86186,7 +86540,10 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:node/5198661677": {
   "id": "osm:node/5198661677",
@@ -92077,7 +92434,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Taita–Taveta",
@@ -92092,7 +92449,17 @@
    "snippet": "Severin Safari Camp | Unforgettable Safari Adventures in Tsavo West   Severin Safari Camp | Unforgettable Safari Adventures in Tsavo West book your stay MENU About Rooms Suites Restaurant Bar Spa Wellness Experiences A Day at Severin Career Location Contact Media book your stay MENU About Rooms Suites Restaurant Bar Spa Wellness Experiences A Day at Severi"
   },
   "checkedAt": "2026-10-06",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "safari-lodges",
+   "scope": "whole_property",
+   "confidence": 0.95,
+   "feature": "Tented safari camp inside Tsavo West National Park with game drives and Kilimanjaro views",
+   "reason": "Tented safari camp inside Tsavo West National Park with game drives and official pages for rooms, prices and booking, matching safari-lodges.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/5654956021": {
   "id": "osm:node/5654956021",
@@ -92561,7 +92928,10 @@
   "checkedAt": "2026-10-04",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:node/5713167084": {
   "id": "osm:node/5713167084",
@@ -92886,7 +93256,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "California",
@@ -92902,7 +93272,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/5737394115": {
@@ -94193,7 +94563,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "description": "hostel in Hyderabad",
@@ -94204,7 +94574,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/5863917986": {
@@ -95598,7 +95968,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": "England",
@@ -95614,8 +95984,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Ordinary two-room bed and breakfast in Corbridge; the Peartree name is the only link to treehouses and nothing in the evidence describes a treehouse."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.1,
+   "feature": null,
+   "reason": "Ordinary two-room bed and breakfast in Corbridge; the Peartree name is the only link to treehouses and nothing in the evidence describes a treehouse.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/5979818518": {
   "id": "osm:node/5979818518",
@@ -95748,7 +96128,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -95757,7 +96137,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/599477724": {
@@ -96695,7 +97075,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -96704,7 +97084,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/6126428226": {
@@ -96723,7 +97103,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -96732,7 +97112,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/6126433386": {
@@ -96751,7 +97131,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -96760,7 +97140,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/6126722685": {
@@ -100371,7 +100751,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Washington",
@@ -100387,7 +100767,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/6466339321": {
@@ -101423,7 +101803,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Greater Poland Voivodeship",
@@ -101432,7 +101812,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/6561210884": {
@@ -103628,7 +104008,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -103641,7 +104021,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/6802840785": {
@@ -106098,7 +106478,7 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -106107,7 +106487,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7099728465": {
@@ -107337,7 +107717,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Silesian Voivodeship",
@@ -107346,7 +107726,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7221072137": {
@@ -107365,7 +107745,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Silesian Voivodeship",
@@ -107374,7 +107754,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7221072218": {
@@ -107393,7 +107773,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Silesian Voivodeship",
@@ -107402,7 +107782,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7222372475": {
@@ -108573,7 +108953,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -108589,7 +108969,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7516132693": {
@@ -108803,7 +109183,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Łódź Voivodeship",
@@ -108819,7 +109199,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7545044710": {
@@ -109293,7 +109673,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -109309,7 +109689,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7664101369": {
@@ -109922,7 +110302,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -109931,7 +110311,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7775416785": {
@@ -109950,7 +110330,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Ioanian Islands",
@@ -109959,7 +110339,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/7784724427": {
@@ -110992,7 +111372,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -111008,7 +111388,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8004208788": {
@@ -113640,7 +114020,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -113649,7 +114029,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8504884284": {
@@ -113668,7 +114048,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -113677,7 +114057,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8517971279": {
@@ -114004,7 +114384,10 @@
   "checkedAt": "2026-10-04",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:node/8594616446": {
   "id": "osm:node/8594616446",
@@ -114112,7 +114495,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": "Marche",
@@ -114128,8 +114511,18 @@
   },
   "checkedAt": "2026-10-01",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Holiday apartments on the Adriatic in Grottammare; 'Grotta' is only a substring of the town name, not a cave."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "Holiday apartments on the Adriatic in Grottammare; 'Grotta' is only a substring of the town name, not a cave.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/8608483272": {
   "id": "osm:node/8608483272",
@@ -114264,7 +114657,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -114273,7 +114666,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8652902677": {
@@ -114735,7 +115128,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -114744,7 +115137,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8778783053": {
@@ -114795,7 +115188,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -114804,7 +115197,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8789567817": {
@@ -115030,7 +115423,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -115039,7 +115432,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8819251056": {
@@ -115078,7 +115471,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -115094,7 +115487,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8842309521": {
@@ -115153,7 +115546,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -115162,7 +115555,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8852638330": {
@@ -115427,7 +115820,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -115436,7 +115829,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8920102262": {
@@ -115649,7 +116042,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "region": "Sicily",
@@ -115665,8 +116058,18 @@
   },
   "checkedAt": "2026-10-03",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as castle-hotels from the name alone; the official page is a bot-check screen, so there is no evidence of a castle building or niche feature."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": null,
+   "reason": "Queued as castle-hotels from the name alone; the official page is a bot-check screen, so there is no evidence of a castle building or niche feature.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/8960061429": {
   "id": "osm:node/8960061429",
@@ -115913,7 +116316,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Kuyavian-Pomeranian Voivodeship",
@@ -115922,7 +116325,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/8998967910": {
@@ -115976,7 +116379,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -115985,7 +116388,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9002151781": {
@@ -116475,7 +116878,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -116484,7 +116887,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9059518561": {
@@ -116661,7 +117064,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -116677,7 +117080,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/907386339": {
@@ -117248,7 +117651,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Cusco",
@@ -117263,7 +117666,17 @@
    "snippet": "rse yourself in a living culture. Culture The mystery: everywhere you go, there’s a sense that the Inca culture still permeates every hilltop, village and valley. Machu picchu Ecolodge: Where the Salkantay trek meets relaxation We are located in the rain forest. one of the most fantastic protected areas in South America is an unique place that is perfectly combine with your trekking to Machupichu by the Salcantay pass. It was created for travelers looking for unique experiences and beauty of nature, designed to relax with privileged to admire Machupicchu, Huaynapicchu, Machupicchu Mountain, Sa"
   },
   "checkedAt": "2026-10-05",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "jungle-lodges",
+   "scope": "whole_property",
+   "confidence": 0.8,
+   "feature": "Off-grid ecolodge in the rainforest with panoramic Machu Picchu views, no device charging",
+   "reason": "An off-grid lodge in the rainforest near Machu Picchu with panoramic views; the rain forest statement fits jungle-lodges.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/9142767672": {
   "id": "osm:node/9142767672",
@@ -117638,7 +118051,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -117647,7 +118060,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9199130802": {
@@ -118248,7 +118661,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "region": "Piedmont",
@@ -118264,8 +118677,18 @@
   },
   "checkedAt": "2026-10-03",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: The website shows only Lorem ipsum placeholder text, so the castle name is the only signal; the OSM tag marks it as a guest house."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.15,
+   "feature": null,
+   "reason": "The website shows only Lorem ipsum placeholder text, so the castle name is the only signal; the OSM tag marks it as a guest house.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:node/9300848517": {
   "id": "osm:node/9300848517",
@@ -118828,7 +119251,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -118844,7 +119267,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9414914132": {
@@ -120086,7 +120509,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Inhambane Province",
@@ -120099,7 +120522,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9626594239": {
@@ -120154,7 +120577,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120170,7 +120593,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634139016": {
@@ -120189,7 +120612,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120205,7 +120628,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634145813": {
@@ -120224,7 +120647,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120240,7 +120663,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634163217": {
@@ -120259,7 +120682,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120275,7 +120698,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634163218": {
@@ -120294,7 +120717,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120310,7 +120733,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634163219": {
@@ -120329,7 +120752,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120345,7 +120768,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634163220": {
@@ -120364,7 +120787,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120380,7 +120803,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634163221": {
@@ -120399,7 +120822,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120415,7 +120838,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634163222": {
@@ -120434,7 +120857,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120450,7 +120873,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9634163223": {
@@ -120469,7 +120892,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -120485,7 +120908,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/963575571": {
@@ -120702,7 +121125,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -120718,7 +121141,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9657202752": {
@@ -121578,7 +122001,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Silesian Voivodeship",
@@ -121591,7 +122014,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/976729871": {
@@ -123221,7 +123644,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "category": "lighthouse-hotels",
@@ -123236,7 +123659,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9913167521": {
@@ -123310,7 +123733,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -123319,7 +123742,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9919310907": {
@@ -123615,7 +124038,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Łódź Voivodeship",
@@ -123624,7 +124047,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9937795742": {
@@ -123899,7 +124322,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "South Bohemian Region",
@@ -123908,7 +124331,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9963656841": {
@@ -123927,7 +124350,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "South Bohemian Region",
@@ -123936,7 +124359,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9964506898": {
@@ -123955,7 +124378,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -123964,7 +124387,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:node/9968985443": {
@@ -125340,7 +125763,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": "New Mexico",
@@ -125356,8 +125779,18 @@
   },
   "checkedAt": "2026-10-01",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: A cavern-named hotel next to Carlsbad Caverns; the rooms are standard hotel rooms with no cave element, so it is a near-cave hotel, not a cave hotel."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "A cavern-named hotel next to Carlsbad Caverns; the rooms are standard hotel rooms with no cave element, so it is a near-cave hotel, not a cave hotel.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:relation/16202672": {
   "id": "osm:relation/16202672",
@@ -128072,7 +128505,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -128085,7 +128518,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1017050754": {
@@ -128269,7 +128702,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Nouvelle-Aquitaine",
@@ -128285,7 +128718,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1020086975": {
@@ -128357,7 +128790,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -128373,7 +128806,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/102069613": {
@@ -129425,7 +129858,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -129440,7 +129873,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1050209608": {
@@ -129637,7 +130070,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -129646,7 +130079,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1055898554": {
@@ -129798,7 +130231,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -129814,7 +130247,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1058276864": {
@@ -133320,7 +133753,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Silesian Voivodeship",
@@ -133336,7 +133769,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1126915550": {
@@ -133472,7 +133905,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -133481,7 +133914,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1134434601": {
@@ -135286,7 +135719,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -135295,7 +135728,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1191324833": {
@@ -135808,7 +136241,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -135824,7 +136257,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/120255352": {
@@ -136221,7 +136654,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -136230,7 +136663,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1211830267": {
@@ -136817,7 +137250,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -136826,7 +137259,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1219860114": {
@@ -137101,7 +137534,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "description": "hotel in Achern, Germany",
@@ -137119,8 +137552,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Part of the twiceHotels chain with a fairy-tale theme; 'Twice' contains 'ice' by coincidence and no ice hotel is described."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "Part of the twiceHotels chain with a fairy-tale theme; 'Twice' contains 'ice' by coincidence and no ice hotel is described.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/1227208707": {
   "id": "osm:way/1227208707",
@@ -137692,7 +138135,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "description": "Grade I listed castle in Langley, Northumberland, England, UK",
@@ -137709,7 +138152,17 @@
    "snippet": "Langley Castle Hotel | Castle Hotel Restaurant in Hexham Langley Castle Hotel | Castle Hotel &amp; Restaurant in Hexham close to Hadrian&#039;s Wall - Wedding Venue - Four Star Award Winning Castle Hotel in Northumberland. Book your stay today.  Langley Castle Hotel | Castle Hotel Restaurant in Hexham Skip to content Langley Castle Events 2026 Murder Myste"
   },
   "checkedAt": "2026-10-02",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "castle-hotels",
+   "scope": "some_units",
+   "confidence": 0.95,
+   "feature": "Rooms inside a 14th-century medieval castle (nine in the main castle), plus converted rooms in the grounds",
+   "reason": "Operating 14th-century castle hotel with nine rooms inside the main castle, so castle-hotels with some_units; the other rooms are in converted buildings in the grounds.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/1239529065": {
   "id": "osm:way/1239529065",
@@ -137932,7 +138385,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -137948,7 +138401,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/124406047": {
@@ -138865,7 +139318,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -138881,7 +139334,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1272044081": {
@@ -139102,7 +139555,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -139118,7 +139571,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1280349450": {
@@ -139980,7 +140433,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Ontario",
@@ -139996,7 +140449,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/130177717": {
@@ -140577,7 +141030,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -140586,7 +141039,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/131429018": {
@@ -140758,7 +141211,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Brittany",
@@ -140774,7 +141227,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1318879777": {
@@ -140874,7 +141327,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -140883,7 +141336,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1319210059": {
@@ -140902,7 +141355,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Subcarpathian Voivodeship",
@@ -140911,7 +141364,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/131944867": {
@@ -141201,7 +141654,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Calabria",
@@ -141217,7 +141670,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1322883529": {
@@ -141308,7 +141761,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -141317,7 +141770,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1327091065": {
@@ -142009,7 +142462,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -142022,7 +142475,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1340232965": {
@@ -142648,7 +143101,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -142663,7 +143116,17 @@
    "snippet": "With A Room Family Nest Facilities & Services Facilities & Services Restaurant Cafe Seminar Room Activities Activities Bike Tour Canoe Palm Forest Boat Tour Chilling Offers Offers Gallery Gallery Contact Us Contact Us Listing Sitemap Listing Sitemap Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation, restaurant and cafe Bangkok Tree House Tree house accommodation,"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "treehouse-hotels",
+   "scope": "whole_property",
+   "confidence": 0.85,
+   "feature": "Treehouse-style rooms among the trees, including a bamboo balcony at treetop level",
+   "reason": "Tree-top and raised treehouse-style rooms in an eco resort in Bang Kachao; the category quote describes a bamboo balcony atop the treetops.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/135453935": {
   "id": "osm:way/135453935",
@@ -142716,7 +143179,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -142732,7 +143195,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1357214744": {
@@ -143826,7 +144289,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "description": "hotel in Playa del Carmen, Mexico",
@@ -143843,7 +144306,17 @@
    "snippet": "galows Despierta cada mañana flotando sobre el azul infinito del Caribe en nuestros Overwater Bungalows. Imagina un lugar donde puedes ver la vida marina desde el suelo de cristal de tu habitación, tomar el sol en … Ver más Reserva Palafitos - Elite Overwater Bungalow Eleva tu experiencia de alojamiento a nuevas alturas con nuestros Palafitos - Elite Overwater Bungalows. Situados para ofrecerte impresionantes vistas panorámicas del océano, estos bungalows cuentan con todas las comodidades para una estadía romántica: tina … Ver más Reserva Two Bedroom Presidential Overwater Bungalow Un refugio"
   },
   "checkedAt": "2026-10-06",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "overwater-bungalows",
+   "scope": "whole_property",
+   "confidence": 0.9,
+   "feature": "Hotel whose rooms are all overwater bungalows on stilts in the Riviera Maya",
+   "reason": "Every room is an overwater bungalow on the Caribbean; the other Lomas Hospitality properties on the same site are land-based and were not counted.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/1389338967": {
   "id": "osm:way/1389338967",
@@ -144223,7 +144696,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -144232,7 +144705,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/140870977": {
@@ -145103,7 +145576,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Podlachia Voivodeship",
@@ -145112,7 +145585,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/143530924": {
@@ -145691,7 +146164,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -145707,7 +146180,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1458948344": {
@@ -145955,7 +146428,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "South Cotabato",
@@ -145970,7 +146443,17 @@
    "snippet": "Mt. Matutum DomesVille Glamping - Tupi, Philippines - Book Now These eccentric and outstanding camping accommodations are designed to offer the highest level of comfort with less to none impact of any kind on the surrounding environment. Geodesic dome glamping is an ultimate experience, the versatility of these structures allows them to be installed in the most scenic and unlikely locations. From mountain tops, deep in the forest, oceanfront cliffs, in the middle of the dessert, rice field or even snow. Here at DomesVille, these domes were assembled in the  Mt. Matutum DomesVille G"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "bubble-hotels",
+   "scope": "unclear",
+   "confidence": 0.5,
+   "feature": "Geodesic dome glamping units in South Cotabato; stargazing from inside, but transparency of the domes is not stated",
+   "reason": "Dome glamping fits bubble-hotels only if the domes are clear; stargazing suggests this but the evidence never says transparent, so scope is unclear.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/1464871395": {
   "id": "osm:way/1464871395",
@@ -146228,7 +146711,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "South Aegean",
@@ -146244,7 +146727,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1479835628": {
@@ -148817,7 +149300,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -148825,7 +149308,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/150370874": {
@@ -150697,7 +151180,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -150705,7 +151188,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/1560889629": {
@@ -151104,7 +151587,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -151120,7 +151603,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/158289943": {
@@ -151139,7 +151622,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -151154,7 +151637,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/158322483": {
@@ -151212,7 +151695,10 @@
   "reasons": [
    "excluded name (not a niche stay)"
   ],
-  "checkedAt": "2026-09-29"
+  "checkedAt": "2026-09-29",
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:way/159406223": {
   "id": "osm:way/159406223",
@@ -152097,7 +152583,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -152112,7 +152598,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/166812151": {
@@ -152567,7 +153053,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "description": "hotel in Toronto, Canada",
@@ -152585,8 +153071,18 @@
   },
   "checkedAt": "2026-10-02",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as castle-hotels from the Harbour Castle name; the Wikipedia summary describes a 1975 waterfront hotel of the Westin chain, not a castle, and the site returned 403."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.8,
+   "feature": null,
+   "reason": "Queued as castle-hotels from the Harbour Castle name; the Wikipedia summary describes a 1975 waterfront hotel of the Westin chain, not a castle, and the site returned 403.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/169004208": {
   "id": "osm:way/169004208",
@@ -152932,7 +153428,7 @@
    "stars": "4,3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Lower Saxony",
@@ -152948,7 +153444,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/172362200": {
@@ -153020,7 +153516,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -153036,7 +153532,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/174192365": {
@@ -153383,7 +153879,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Veneto",
@@ -153399,7 +153895,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/177925803": {
@@ -155676,7 +156172,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -155685,7 +156181,7 @@
   "evidence": null,
   "checkedAt": "2026-09-30",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/200524878": {
@@ -156063,7 +156559,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "category": "floating-hotels",
@@ -156077,7 +156573,17 @@
    "snippet": "The Harpy Houseboat, Tower Bridge - Direct Bookings Website The bed with the best view in London, available for holiday lets. City short lets  The Harpy Houseboat, Tower Bridge - Direct Bookings Website The Harpy, Tower Bridge London s Unique 5* Holiday Let Houseboat The Harpy Homepage Overview Map Gallery Availability Rates Reviews Terms Contact us EN EUR M"
   },
   "checkedAt": "2026-10-04",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "floating-hotels",
+   "scope": "whole_property",
+   "confidence": 0.85,
+   "feature": "Converted 1904 floating customs office, now a holiday-let houseboat moored by Tower Bridge",
+   "reason": "A historic 1904 customs houseboat offered as a holiday let; the floating-home and moored-ship evidence supports floating-hotels.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/203306150": {
   "id": "osm:way/203306150",
@@ -156872,7 +157378,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "description": "hotel in Ireland",
@@ -156889,7 +157395,19 @@
    "snippet": "Castle Dargan Hotel | Luxury Hotel in Sligo Welcome to Castle Dargan, a magnificent, rambling country estate on 170 rolling acres in W.B. Yeats’ beloved County Sligo.  Castle Dargan Hotel | Luxury Hotel in Sligo Skip to main content Hit enter to search or ESC to close Close Search Book Now Menu Book Now Menu Check-in Check-out Nights Number of Room"
   },
   "checkedAt": "2026-10-02",
-  "reasons": []
+  "reasons": [
+   "haiku: Country-house estate with a golf course whose rooms are in an 18th-century house; the castle is only a ruin on the grounds, so castle-hotels does not fit."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": null,
+   "reason": "Country-house estate with a golf course whose rooms are in an 18th-century house; the castle is only a ruin on the grounds, so castle-hotels does not fit.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/212786593": {
   "id": "osm:way/212786593",
@@ -157704,7 +158222,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "category": "lighthouse-hotels",
@@ -157719,7 +158237,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/221401368": {
@@ -158503,9 +159021,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/224696582": {
   "id": "osm:way/224696582",
@@ -159320,7 +159841,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -159333,7 +159854,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/230903173": {
@@ -159441,7 +159962,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -159457,7 +159978,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/231157316": {
@@ -159717,7 +160238,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Zeeland",
@@ -159733,7 +160254,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/231741738": {
@@ -160211,9 +160732,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/23600122": {
   "id": "osm:way/23600122",
@@ -161329,7 +161853,10 @@
   "checkedAt": "2026-10-05",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:way/243449826": {
   "id": "osm:way/243449826",
@@ -161773,9 +162300,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/246052121": {
   "id": "osm:way/246052121",
@@ -161793,9 +162323,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/246067116": {
   "id": "osm:way/246067116",
@@ -161846,7 +162379,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "region": "Region of Bratislava",
@@ -161862,8 +162395,18 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: The name 'Botel' suggests a boat hotel, but no page says the rooms float or are moored; the site content is about a casino hotel, so confidence is low."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": "floating-hotels",
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "The name 'Botel' suggests a boat hotel, but no page says the rooms float or are moored; the site content is about a casino hotel, so confidence is low.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/246264177": {
   "id": "osm:way/246264177",
@@ -163670,7 +164213,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "category": "train-hotels",
@@ -163684,7 +164227,19 @@
    "snippet": "Pullman Bali Legian Beach: Exquisite Bali Beachfront Hotel Experience bliss at Pullman Bali Legian Beach, one of Bali&#039;s best business and leisure resort, offering a serene beachfront retreat nestled between Kuta and Legian  Pullman Bali Legian Beach: Exquisite Bali Beachfront Hotel Pullman Bali Legian Beach - Luxury hotel Pullman Bali Legian B"
   },
   "checkedAt": "2026-10-07",
-  "reasons": []
+  "reasons": [
+   "haiku: Queued as train-hotels because of the Pullman brand name; it is a 378-room beachfront hotel in Legian, not a rail-based stay."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "Queued as train-hotels because of the Pullman brand name; it is a 378-room beachfront hotel in Legian, not a rail-based stay.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/260631220": {
   "id": "osm:way/260631220",
@@ -164019,7 +164574,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "rejected",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "description": null,
@@ -164035,7 +164590,17 @@
   "checkedAt": "2026-10-02",
   "reasons": [
    "category not confirmed"
-  ]
+  ],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "castle-hotels",
+   "scope": "unclear",
+   "confidence": 0.3,
+   "feature": "Historic palace building in Połażejewo; guest rooms not verified",
+   "reason": "Wikipedia describes a palace building and OSM tags it as a hotel, but the website fetch failed and no page text confirms guest rooms inside the palace.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/263844615": {
   "id": "osm:way/263844615",
@@ -164654,7 +165219,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -164670,7 +165235,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/267920218": {
@@ -164934,7 +165499,7 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
+   "re-check: site was decoded with the wrong charset"
   ]
  },
  "osm:way/270707952": {
@@ -166044,7 +166609,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -166060,7 +166625,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/279256899": {
@@ -166190,7 +166755,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -166206,7 +166771,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/280742355": {
@@ -166292,9 +166857,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/281840275": {
   "id": "osm:way/281840275",
@@ -166617,9 +167185,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/283858856": {
   "id": "osm:way/283858856",
@@ -166637,9 +167208,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/283858865": {
   "id": "osm:way/283858865",
@@ -166657,9 +167231,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/283858884": {
   "id": "osm:way/283858884",
@@ -166677,9 +167254,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/284399335": {
   "id": "osm:way/284399335",
@@ -166804,9 +167384,12 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/285026474": {
   "id": "osm:way/285026474",
@@ -167566,7 +168149,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -167579,7 +168162,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/291198595": {
@@ -167598,7 +168181,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "category": "bubble-hotels",
@@ -167613,7 +168196,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/291716194": {
@@ -167874,9 +168457,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/294394921": {
   "id": "osm:way/294394921",
@@ -167894,9 +168480,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/294394922": {
   "id": "osm:way/294394922",
@@ -167914,9 +168503,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/294414398": {
   "id": "osm:way/294414398",
@@ -168318,7 +168910,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": null,
@@ -168334,7 +168926,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/296923761": {
@@ -168388,7 +168980,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -168404,7 +168996,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/297491997": {
@@ -168423,7 +169015,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -168439,7 +169031,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/297543205": {
@@ -168755,9 +169347,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/299548310": {
   "id": "osm:way/299548310",
@@ -169585,9 +170180,12 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/309447791": {
   "id": "osm:way/309447791",
@@ -170049,9 +170647,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/313924601": {
   "id": "osm:way/313924601",
@@ -170207,9 +170808,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-08"
+  "lastSeen": "2026-10-08",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/314858485": {
   "id": "osm:way/314858485",
@@ -170533,9 +171137,12 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/317977470": {
   "id": "osm:way/317977470",
@@ -171510,9 +172117,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/326477847": {
   "id": "osm:way/326477847",
@@ -171570,7 +172180,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -171586,7 +172196,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/327469013": {
@@ -171942,7 +172552,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -171958,7 +172568,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/330361858": {
@@ -172196,9 +172806,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/331813117": {
   "id": "osm:way/331813117",
@@ -172453,7 +173066,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Andalusia",
@@ -172466,7 +173079,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/332748282": {
@@ -172856,7 +173469,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -172872,7 +173485,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/338095251": {
@@ -172986,7 +173599,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Florida",
@@ -173001,7 +173614,19 @@
    "snippet": "Lighthouse Hotel in Key West | Key West Historic Inns Collection Stay at Lighthouse Hotel in Key West, steps from the Hemingway Home and Lighthouse, with poolside dining, live music, historic charm, and thoughtful amenities.  Lighthouse Hotel in Key West | Key West Historic Inns Collection Skip to main content EXCLUSIVE WEBSITE ONLY OFFER Up to 25% off + perks! VIEW OFFER Menu Close Wins"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [
+   "haiku: Named for the Key West Lighthouse, but the site describes a group of mid-1800s buildings near that lighthouse, not a stay inside a lighthouse."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.2,
+   "feature": null,
+   "reason": "Named for the Key West Lighthouse, but the site describes a group of mid-1800s buildings near that lighthouse, not a stay inside a lighthouse.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/34024734": {
   "id": "osm:way/34024734",
@@ -173518,9 +174143,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/347741206": {
   "id": "osm:way/347741206",
@@ -173947,7 +174575,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -173963,7 +174591,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/356721086": {
@@ -173982,9 +174610,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/356802276": {
   "id": "osm:way/356802276",
@@ -174002,9 +174633,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/356896977": {
   "id": "osm:way/356896977",
@@ -174302,9 +174936,12 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/358685367": {
   "id": "osm:way/358685367",
@@ -174913,9 +175550,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/362860355": {
   "id": "osm:way/362860355",
@@ -174969,9 +175609,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/363232536": {
   "id": "osm:way/363232536",
@@ -175514,7 +176157,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -175530,7 +176173,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/367832148": {
@@ -176318,9 +176961,12 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/375876146": {
   "id": "osm:way/375876146",
@@ -176867,7 +177513,10 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no official website (listing/social/builder page)"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:way/380325734": {
   "id": "osm:way/380325734",
@@ -177633,9 +178282,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/387051354": {
   "id": "osm:way/387051354",
@@ -178633,7 +179285,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Warmian-Masurian Voivodeship",
@@ -178649,7 +179301,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/399219094": {
@@ -178932,7 +179584,10 @@
   "checkedAt": "2026-10-06",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:way/402163055": {
   "id": "osm:way/402163055",
@@ -179010,9 +179665,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/402777884": {
   "id": "osm:way/402777884",
@@ -179836,9 +180494,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/412858875": {
   "id": "osm:way/412858875",
@@ -179924,7 +180585,10 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:way/414755775": {
   "id": "osm:way/414755775",
@@ -179942,7 +180606,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Washington",
@@ -179958,7 +180622,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/414755777": {
@@ -179977,7 +180641,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Washington",
@@ -179993,7 +180657,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/414825858": {
@@ -180238,9 +180902,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/417670239": {
   "id": "osm:way/417670239",
@@ -180278,9 +180945,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/417976227": {
   "id": "osm:way/417976227",
@@ -180790,8 +181460,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "not tagged as accommodation"
-  ]
+   "haiku: National Park Service day-visit lighthouse with a trail and viewing platform; the evidence describes no overnight stay, so it is not lodging."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "National Park Service day-visit lighthouse with a trail and viewing platform; the evidence describes no overnight stay, so it is not lodging.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/423380978": {
   "id": "osm:way/423380978",
@@ -181030,7 +181710,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -181046,7 +181726,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/429010112": {
@@ -182245,7 +182925,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -182261,7 +182941,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/443773021": {
@@ -182855,7 +183535,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -182871,7 +183551,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/449214203": {
@@ -184850,7 +185530,10 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:way/479717586": {
   "id": "osm:way/479717586",
@@ -184988,9 +185671,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/483785575": {
   "id": "osm:way/483785575",
@@ -186807,9 +187493,12 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/508697744": {
   "id": "osm:way/508697744",
@@ -187304,7 +187993,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -187320,7 +188009,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/518872231": {
@@ -188019,9 +188708,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/528777061": {
   "id": "osm:way/528777061",
@@ -188094,9 +188786,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/531431848": {
   "id": "osm:way/531431848",
@@ -188366,9 +189061,12 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/534845368": {
   "id": "osm:way/534845368",
@@ -188386,7 +189084,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": null,
@@ -188402,8 +189100,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Hotel and aparthotel in central Satu Mare with no bubble or glass dome in the evidence; 'Dome' in the name is the only signal."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "Hotel and aparthotel in central Satu Mare with no bubble or glass dome in the evidence; 'Dome' in the name is the only signal.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/535037498": {
   "id": "osm:way/535037498",
@@ -189272,9 +189980,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/544739747": {
   "id": "osm:way/544739747",
@@ -189292,9 +190003,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/544739748": {
   "id": "osm:way/544739748",
@@ -189312,9 +190026,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/545241450": {
   "id": "osm:way/545241450",
@@ -189703,7 +190420,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "region": "Trentino – Alto Adige/Südtirol",
@@ -189719,8 +190436,18 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as desert-camps, but the site describes a Lana resort in South Tyrol with a luxury campground and a 3-star hotel with a rooftop pool, not a desert camp or other niche."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "unclear",
+   "confidence": 0.7,
+   "feature": null,
+   "reason": "Queued as desert-camps, but the site describes a Lana resort in South Tyrol with a luxury campground and a 3-star hotel with a rooftop pool, not a desert camp or other niche.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/550690658": {
   "id": "osm:way/550690658",
@@ -190043,7 +190770,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": "North Rhine-Westphalia",
@@ -190058,7 +190785,19 @@
    "snippet": "HOME   HOME BAUM haus SCHÄFER wagen DAS BESONDERE WOCHENEND- UND FERIENDOMIZIL HOME BAUMHAUS SCHÄFERWAGEN ÜBER UNS BUCHUNG KONTAKT IMPRESSUM | DATENSCHUTZ Herzlich Willkommen in BAUM haus und SCHÄFER wagen Im Naturschutzgebiet Krummauel inmitten der Altarmschleife der Sieg und umgeben von Wald und Feld haben wir zwei außergewöhnliche Wochenend- und Feriendomizile geschaffen, die dazu einladen, Ruhe und Natur entspannt zu genießen"
   },
   "checkedAt": "2026-09-29",
-  "reasons": []
+  "reasons": [
+   "haiku: German-language site for two weekend and holiday homes in a nature reserve; nothing says a unit is built in trees, so the treehouse fit rests on the name alone."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "German-language site for two weekend and holiday homes in a nature reserve; nothing says a unit is built in trees, so the treehouse fit rests on the name alone.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/556478665": {
   "id": "osm:way/556478665",
@@ -190561,9 +191300,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-09-29"
+  "lastSeen": "2026-09-29",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/565178468": {
   "id": "osm:way/565178468",
@@ -191518,7 +192260,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "verified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-02",
   "region": "Kerala",
@@ -191533,7 +192275,19 @@
    "snippet": "Airlink Castle | Airlink Castle Home  Airlink Castle | Airlink Castle Home FEATURES ROOMS RESTAURANT +91 940047 6666 Classification [email protected] BANQUETS GALLERY CONTACT US Welcome to Hotel Airlink Castle!! Hotel Airlink Castle is an exquisite Five Star Luxury Hotel, located at the portals of Cochin International Airport, Nedumabassery, Cochin and Ker"
   },
   "checkedAt": "2026-10-04",
-  "reasons": []
+  "reasons": [
+   "haiku: Five-star airport hotel whose name is its only castle link; the evidence describes modern rooms with carved woodwork and no castle building."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.1,
+   "feature": null,
+   "reason": "Five-star airport hotel whose name is its only castle link; the evidence describes modern rooms with carved woodwork and no castle building.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/587340643": {
   "id": "osm:way/587340643",
@@ -191739,9 +192493,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/593578442": {
   "id": "osm:way/593578442",
@@ -191952,9 +192709,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/599046676": {
   "id": "osm:way/599046676",
@@ -192139,7 +192899,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lublin Voivodeship",
@@ -192155,7 +192915,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/603165644": {
@@ -193042,9 +193802,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/625029678": {
   "id": "osm:way/625029678",
@@ -193557,7 +194320,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Holy Cross Voivodeship",
@@ -193570,7 +194333,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/63791196": {
@@ -195392,7 +196155,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -195408,7 +196171,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/683172219": {
@@ -195447,9 +196210,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/686679758": {
   "id": "osm:way/686679758",
@@ -195503,7 +196269,7 @@
    "stars": "2"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Normandy",
@@ -195519,7 +196285,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/68703657": {
@@ -195660,9 +196426,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-10-03",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/689050030": {
   "id": "osm:way/689050030",
@@ -196007,9 +196776,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/696261767": {
   "id": "osm:way/696261767",
@@ -196082,9 +196854,12 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/696484811": {
   "id": "osm:way/696484811",
@@ -196558,7 +197333,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "region": "Saxony",
@@ -196575,7 +197350,17 @@
   "checkedAt": "2026-10-04",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "floating-hotels",
+   "scope": "whole_property",
+   "confidence": 0.8,
+   "feature": "Single two-storey floating house on Partwitzer See, rented per night",
+   "reason": "A floating holiday house rented per night is a sleeping unit on a floating structure, which fits floating-hotels.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/707994967": {
   "id": "osm:way/707994967",
@@ -196593,9 +197378,12 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/709175133": {
   "id": "osm:way/709175133",
@@ -196653,7 +197441,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "description": "house in Latrán, Czech Republic",
@@ -196671,7 +197459,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/712009770": {
@@ -196950,7 +197738,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Autonomous Community of the Basque Country",
@@ -196966,7 +197754,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/716895124": {
@@ -196985,7 +197773,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -197001,7 +197789,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/71865955": {
@@ -197060,9 +197848,12 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/71996554": {
   "id": "osm:way/71996554",
@@ -197338,9 +198129,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/724733485": {
   "id": "osm:way/724733485",
@@ -198592,7 +199386,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Łódź Voivodeship",
@@ -198608,7 +199402,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/760844842": {
@@ -200127,7 +200921,10 @@
   "checkedAt": "2026-09-29",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.686Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "osm:way/797696376": {
   "id": "osm:way/797696376",
@@ -200516,9 +201313,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/803291230": {
   "id": "osm:way/803291230",
@@ -200536,9 +201336,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/80419995": {
   "id": "osm:way/80419995",
@@ -201515,7 +202318,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Grand Est",
@@ -201531,8 +202334,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as bubble-hotels because of the name, which refers to champagne bubbles; it is a self-catering gîte with a private jacuzzi, not a bubble or dome stay."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.9,
+   "feature": null,
+   "reason": "Queued as bubble-hotels because of the name, which refers to champagne bubbles; it is a self-catering gîte with a private jacuzzi, not a bubble or dome stay.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/827506775": {
   "id": "osm:way/827506775",
@@ -201550,9 +202363,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/827854231": {
   "id": "osm:way/827854231",
@@ -201765,9 +202581,12 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/830605921": {
   "id": "osm:way/830605921",
@@ -202132,9 +202951,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/838961273": {
   "id": "osm:way/838961273",
@@ -202193,9 +203015,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/840842104": {
   "id": "osm:way/840842104",
@@ -202213,9 +203038,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/840842105": {
   "id": "osm:way/840842105",
@@ -202233,9 +203061,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/840842106": {
   "id": "osm:way/840842106",
@@ -202253,9 +203084,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/840920755": {
   "id": "osm:way/840920755",
@@ -203486,7 +204320,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -203502,7 +204336,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/878739814": {
@@ -203521,7 +204355,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Washington",
@@ -203537,7 +204371,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/881519779": {
@@ -203811,8 +204645,18 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "excluded name (not a niche stay)"
-  ]
+   "haiku: An NPS campground named Igloo; the page describes a wooded campground with no fires and nothing about ice structures, so the ice-hotel link is only the name."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.3,
+   "feature": null,
+   "reason": "An NPS campground named Igloo; the page describes a wooded campground with no fires and nothing about ice structures, so the ice-hotel link is only the name.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/886131094": {
   "id": "osm:way/886131094",
@@ -203865,9 +204709,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/886300662": {
   "id": "osm:way/886300662",
@@ -203885,9 +204732,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/888033507": {
   "id": "osm:way/888033507",
@@ -204216,7 +205066,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -204232,7 +205082,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/90348098": {
@@ -204466,7 +205316,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Masovian Voivodeship",
@@ -204482,7 +205332,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/908931019": {
@@ -204501,7 +205351,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Masovian Voivodeship",
@@ -204517,7 +205367,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/908931020": {
@@ -204536,9 +205386,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/908931022": {
   "id": "osm:way/908931022",
@@ -204556,7 +205409,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Masovian Voivodeship",
@@ -204572,7 +205425,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/908932218": {
@@ -204921,7 +205774,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lower Silesian Voivodeship",
@@ -204937,7 +205790,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/918106058": {
@@ -205121,7 +205974,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Zlín Region",
@@ -205137,7 +205990,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/923182239": {
@@ -205211,9 +206064,12 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/926246869": {
   "id": "osm:way/926246869",
@@ -205340,7 +206196,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "category": "lighthouse-hotels",
@@ -205355,7 +206211,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/930614710": {
@@ -205427,7 +206283,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Lesser Poland Voivodeship",
@@ -205443,7 +206299,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/932193151": {
@@ -205593,9 +206449,12 @@
    "tourism": "motel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-07"
+  "lastSeen": "2026-10-07",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/934263726": {
   "id": "osm:way/934263726",
@@ -205764,7 +206623,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "Pomeranian Voivodeship",
@@ -205780,7 +206639,7 @@
   },
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "osm:way/93767394": {
@@ -206352,9 +207211,12 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/953679528": {
   "id": "osm:way/953679528",
@@ -206928,7 +207790,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "classified",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Malé Atoll",
@@ -206945,7 +207807,17 @@
   "checkedAt": "2026-10-06",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "overwater-bungalows",
+   "scope": "some_units",
+   "confidence": 0.8,
+   "feature": "17 water bungalows built over the lagoon on an island resort in North Male Atoll",
+   "reason": "Island resort where only the 17 water bungalows over the lagoon are clearly overwater; the other 70 units are beach or superior bungalows not described as over the water, so this is a some_units case.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/96173078": {
   "id": "osm:way/96173078",
@@ -207243,7 +208115,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "duplicate",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Malé Atoll",
@@ -207260,7 +208132,17 @@
   "checkedAt": "2026-10-06",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "haiku": {
+   "verdict": "duplicate",
+   "category": "overwater-bungalows",
+   "scope": "some_units",
+   "confidence": 0.8,
+   "feature": "17 water bungalows built over the lagoon at a North Male Atoll island resort, alongside beach and superior bungalows",
+   "reason": "Resort with 17 water bungalows over the lagoon, which fits overwater-bungalows; the beach bungalows are not part of the niche.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/96173097": {
   "id": "osm:way/96173097",
@@ -207383,7 +208265,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "weak",
+  "status": "duplicate",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Malé Atoll",
@@ -207400,7 +208282,17 @@
   "checkedAt": "2026-10-06",
   "reasons": [
    "no category evidence on official website"
-  ]
+  ],
+  "haiku": {
+   "verdict": "duplicate",
+   "category": "overwater-bungalows",
+   "scope": "some_units",
+   "confidence": 0.85,
+   "feature": "overwater water bungalows over the lagoon with direct access to the house reef",
+   "reason": "Resort whose 17 water bungalows and 20 superior water bungalows stand over the lagoon; the 50 beach bungalows are not niche.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "osm:way/96173101": {
   "id": "osm:way/96173101",
@@ -208085,9 +208977,12 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-03"
+  "lastSeen": "2026-10-03",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/983531155": {
   "id": "osm:way/983531155",
@@ -208464,9 +209359,12 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "new",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
-  "lastSeen": "2026-10-08"
+  "lastSeen": "2026-10-08",
+  "reasons": [
+   "excluded name"
+  ]
  },
  "osm:way/995444704": {
   "id": "osm:way/995444704",
@@ -211096,7 +211994,7 @@
   "city": "Fort Bragg",
   "description": "hotel in Fort Bragg, United States",
   "source": "wikidata",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "hasWikiImage": false,
@@ -211113,8 +212011,18 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: Queued as cliffside-hotels from the name; the site describes ocean-view suites beside a harbour in Fort Bragg with no evidence of being built on or into a cliff."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.85,
+   "feature": null,
+   "reason": "Queued as cliffside-hotels from the name; the site describes ocean-view suites beside a harbour in Fort Bragg with no evidence of being built on or into a cliff.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "wd:Q111394539": {
   "id": "wd:Q111394539",
@@ -211590,7 +212498,7 @@
   "city": "Balchik",
   "description": "hotel in Baltchik, Bulgaria",
   "source": "wikidata",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "hasWikiImage": false,
@@ -211600,7 +212508,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "wd:Q111401187": {
@@ -215365,7 +216273,7 @@
   "city": "Olongapo",
   "description": "hotel in Manila, Philippines",
   "source": "wikidata",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "hasWikiImage": false,
@@ -215375,7 +216283,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "wd:Q111864584": {
@@ -217552,7 +218460,7 @@
   "city": "Lisbon",
   "description": "hotel in Lisbon, Portugal",
   "source": "wikidata",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "hasWikiImage": false,
@@ -217562,7 +218470,7 @@
   "evidence": null,
   "checkedAt": "2026-09-29",
   "reasons": [
-   "no category evidence on official website"
+   "excluded name"
   ]
  },
  "wd:Q112012405": {
@@ -218557,7 +219465,7 @@
   "city": "Manitou Springs",
   "description": "hotel in Manitou Springs, United States",
   "source": "wikidata",
-  "status": "weak",
+  "status": "rejected",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "hasWikiImage": true,
@@ -218574,8 +219482,18 @@
   },
   "checkedAt": "2026-10-04",
   "reasons": [
-   "no category evidence on official website"
-  ]
+   "haiku: An ordinary Victorian-style hotel at the foot of Pikes Peak; the cliff link is only the name and the pages do not describe rooms on a cliff, so cliffside-hotels is rejected."
+  ],
+  "haiku": {
+   "verdict": "rejected",
+   "category": null,
+   "scope": "name_only",
+   "confidence": 0.4,
+   "feature": null,
+   "reason": "An ordinary Victorian-style hotel at the foot of Pikes Peak; the cliff link is only the name and the pages do not describe rooms on a cliff, so cliffside-hotels is rejected.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "wd:Q14709102": {
   "id": "wd:Q14709102",
@@ -219848,7 +220766,10 @@
   "checkedAt": "2026-10-04",
   "reasons": [
    "category not confirmed"
-  ]
+  ],
+  "noEvidence": 1,
+  "noEvidenceAt": "2026-10-08T20:06:42.685Z",
+  "noEvidenceFile": "data/pipeline/decisions/sample/checked.json"
  },
  "wd:Q60515789": {
   "id": "wd:Q60515789",
@@ -219899,7 +220820,7 @@
   "city": "County Waterford",
   "description": "hotel in Waterford, Ireland",
   "source": "wikidata",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "hasWikiImage": true,
@@ -219915,7 +220836,17 @@
    "snippet": "ummer Escapes Luxury Irish Staycations at Cliff House Hotel, Ardmore What s On Around Ardmore Rooms Suites Residences Offers Dining Cliff House Hotel Gifts Gifts Arrival Departure Book Now Welcome to Ireland s Edge Escape to the Atlantic Find a room Cliffside Hotel Overlooking Ardmore Bay, Co. Waterford Five-Star Luxury Hotel in Ardmore, County Waterford Cliff House Hotel is a 5-star, privately owned luxury hotel on Ireland's southern coast, located close to both Cork and Waterford. Perched dramatically on the cliffs above the historic fishing village of Ardmore, our privately owned, 39-room s"
   },
   "checkedAt": "2026-10-04",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "accepted",
+   "category": "cliffside-hotels",
+   "scope": "whole_property",
+   "confidence": 0.92,
+   "feature": "5-star hotel perched on cliffs above Ardmore Bay, with rooms along the cliff edge",
+   "reason": "A privately owned 5-star hotel on the cliffs above Ardmore Bay with rooms along the cliff edge, a clear fit for cliffside-hotels.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  },
  "wd:Q7548259": {
   "id": "wd:Q7548259",
@@ -220123,7 +221054,7 @@
   "city": "Pattaya City",
   "description": "hotel",
   "source": "wikidata",
-  "status": "verified",
+  "status": "classified",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "hasWikiImage": true,
@@ -220139,6 +221070,16 @@
    "snippet": "tels Discover your ideal beach hotel in Pattaya within our four distinct properties. The first hotel under our brand, the Royal Cliff Beach Terrace opened its doors in 1973. This romantic low-rise 5-star Pattaya resort is seamlessly nestled into the cliffside, with 89 suites that open right onto the beach and sweeping panoramic views of the sea. Opening in the following year of 1974, the Royal Cliff Beach Hotel is situated at the heart of our collection of Pattaya hotels. It’s a perfect blend of contemporary luxury and tropical elegance, with undeniable beach views that will linger in your min"
   },
   "checkedAt": "2026-10-04",
-  "reasons": []
+  "reasons": [],
+  "haiku": {
+   "verdict": "needs_review",
+   "category": "cliffside-hotels",
+   "scope": "some_units",
+   "confidence": 0.65,
+   "feature": "Royal Cliff Beach Terrace: low-rise resort nestled into the cliffside, with 89 suites opening onto the beach",
+   "reason": "Only the Royal Cliff Beach Terrace is stated to be nestled into the cliffside (89 suites); the evidence ties the cliffside niche to that one of the group's four hotels.",
+   "file": "data/pipeline/decisions/sample/checked.json",
+   "decidedAt": "sample"
+  }
  }
 }
