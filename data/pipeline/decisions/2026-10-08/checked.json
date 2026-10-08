@@ -1,0 +1,5811 @@
+[
+ {
+  "id": "osm:node/14005215694",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Exclusive-use baronial castle on Loch Ness with 12 bedrooms",
+  "category_quote": "A 400-year-old Baronial castle thoughtfully reimagined for today as a beautiful home and exclusive stay",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Aldourie Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": {
+   "value": 12,
+   "quote": "Aldourie Castle sleeps 24 guests across 12 en-suite bedrooms."
+  },
+  "amenities": [
+   {
+    "text": "Sauna yurt by Loch Ness",
+    "quote": "Guests can enjoy use of the Sauna Yurt hidden in the trees by Loch Ness"
+   },
+   {
+    "text": "Daily housekeeping and staffed castle",
+    "quote": "The castle is fully staffed and includes daily housekeeping"
+   },
+   {
+    "text": "Meals by in-house chefs",
+    "quote": "all meals prepared by our in-house team of chefs with lots of the produce grown in the castle gardens"
+   },
+   {
+    "text": "Concierge and trip planning",
+    "quote": "Full concierge and trip planning services are available from point of booking onwards"
+   },
+   {
+    "text": "Wellness space in the Steadings",
+    "quote": "the Steadings which house a wellness space"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Exclusive-use castle on the shores of Loch Ness",
+    "quote": "A baronial beauty offering exclusive-use stays on the shores of Loch Ness"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "groups and celebrations"
+  ],
+  "reason": "The official site describes an exclusive-use baronial castle with 12 bedrooms on Loch Ness, so guests stay inside a historic castle.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/340524418",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Victorian Gothic castle with guest rooms and suites inside the castle walls",
+  "category_quote": "Peckforton Castle is an authentic Victorian castle built in 1851 to recreate a medieval fortress.",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Peckforton Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 48,
+   "quote": "Accommodation is available with 48 individually appointed bedrooms"
+  },
+  "amenities": [
+   {
+    "text": "1851 Restaurant open to residents and non-residents",
+    "quote": "as well as an award-winning fine dining 1851 Restaurant open to both residents and non-residents"
+   },
+   {
+    "text": "WiFi and parking included",
+    "quote": "All castle stays include luxury accommodation, WiFi, parking, and access to the castle grounds"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Woodland walks, formal gardens and Welsh mountain views",
+    "quote": "Our 48-acre estate includes woodland walks, formal gardens, and elevated positions that offer panoramic views stretching to the Welsh mountains on clear days."
+   },
+   {
+    "text": "Tower suites in the castle towers",
+    "quote": "Tower Suites Spectacular accommodations in the castle s iconic towers"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 20 minutes by car from Chester city centre",
+   "quote": "Peckforton Castle is approximately 20 minutes drive from Chester city centre"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Official site describes a genuine medieval-style castle hotel with bedrooms inside the castle walls, so the whole property fits castle-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/470690310",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Rooms and suites in a 19th-century Scottish castle near Fort William",
+  "category_quote": "Our luxurious rooms and suites are scattered around the main castle building and gardens.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Inverlochy Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Afternoon tea and restaurant dining",
+    "quote": "From the exquisite ritual of afternoon tea to the seasonal sensations of Seasgair"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Walled garden and secret woodland paths",
+    "quote": "Stop and smell the flowers in our magnificent walled garden"
+   },
+   {
+    "text": "Events with Michel Roux Jr.",
+    "quote": "Indulge in the ultimate foodie experience: a demonstration or dinner hosted by the Michelin-starred master of classical French cooking, Michel Roux Jr."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About three miles from Fort William",
+   "quote": "at just three miles from Fort William, it’s refreshingly easy to get here."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site and Wikipedia describe a 19th-century castle hotel with rooms in the castle building and grounds.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5316410834",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Working country-house hotel inside a 19th-century castle in the Eden Valley",
+  "category_quote": "Sleep in a real 19th-century castle between the Lake District and Yorkshire Dales.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Augill Castle",
+  "property_type": "hotel",
+  "address": "Leacett Lane, Kirkby Stephen, Cumbria, CA17 4DE",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant",
+    "quote": "Eat, drink and sleep at Augill Castle Hotel & Restaurant"
+   },
+   {
+    "text": "Afternoon tea",
+    "quote": "we’ve been serving afternoon tea in the Eden Valley for years"
+   },
+   {
+    "text": "Bar in the conservatory",
+    "quote": "we encourage you to have a drink in the conservatory and enjoy the live edged bar Oliver built"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle rooms, most with four-poster beds and views",
+    "quote": "Castle rooms, most with four-poster, have views to the Yorkshire Dales and Lakeland Fells"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Four miles outside Kirkby Stephen, Cumbria",
+   "quote": "Augill Castle is at the geographical centre of the British Isles, four miles outside the small market town of Kirkby Stephen"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Official site describes a 19th-century castle stay in Cumbria, with castle rooms and a restaurant on site.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7014050695",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "16th-century castle building converted into a hotel with 82 bedrooms",
+  "category_quote": "This imposing 16th century Castle has evolved into a traditional welcoming Hotel, Conference & Wedding Venue",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Barony Castle Hotel",
+  "property_type": "hotel",
+  "address": "Old Manse Road, Eddleston, Scottish Borders, EH45 8QW",
+  "room_count": {
+   "value": 82,
+   "quote": "Barony Castle Hotel offers 82 bedrooms featuring single, double and twin as well as family rooms and 6 individual suites."
+  },
+  "amenities": [
+   {
+    "text": "Indoor pool, sauna and heated loungers",
+    "quote": "Our leisure spa includes a 10 metre pool with whirlpool bath, sauna and heated loungers."
+   },
+   {
+    "text": "Bar lounge with malt whiskies",
+    "quote": "Relax in the Bar Lounge with a cocktail or a dram from our extensive range of malt whiskies"
+   },
+   {
+    "text": "Dogs allowed in some bedrooms",
+    "quote": "a child friendly environment and dogs are allowed in a limited amount of bedrooms"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Great Polish Map in 25 acres of grounds",
+    "quote": "discover the Great Polish Map located in the 25 acres surrounding the hotel"
+   },
+   {
+    "text": "Castle grounds of 25 acres",
+    "quote": "Set in 25 acres of beautiful grounds, Barony Castle is a fairytale setting for your dream castle wedding"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "3pm",
+   "quote": "Check in:  3pm  |  Check out:  11am"
+  },
+  "check_out": {
+   "text": "11am",
+   "quote": "Check in:  3pm  |  Check out:  11am"
+  },
+  "access": {
+   "text": "About 35 minutes (17 miles) south of Edinburgh",
+   "quote": "located just 35 minutes (17 miles) south of Edinburgh on the edge of the Scottish Borders"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "A 16th-century castle building operating as a 4-star hotel with 82 bedrooms, so the stay is inside a castle.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/1356092",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel in a 12th-century castle with a panelled Great Hall",
+  "category_quote": "Tulloch Castle dates from the 12th century, when the Bains and later the Clan Davidson laid claim to its lands.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Tulloch Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 22,
+   "quote": "Today, Tulloch Castle has 22 well-appointed en suite"
+  },
+  "amenities": [
+   {
+    "text": "Complimentary on-site parking",
+    "quote": "Complimentary on-site parking is available for hotel guests, with no booking required."
+   },
+   {
+    "text": "Dog friendly (£15 per dog per night)",
+    "quote": "Dogs are welcome in all bedrooms and the Green Lady Bar, with a charge of £15 per dog, per night."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panelled Great Hall and period features",
+    "quote": "The castle retains many of its period features, including the 250-year-old panelled Great Hall"
+   },
+   {
+    "text": "Restored original fireplaces and ceilings",
+    "quote": "painstakingly restored original fireplaces and ceilings"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes a 12th-century castle that is now a hotel with 22 en suite bedrooms, so the whole property fits castle-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/9991140",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel in a 12th-century castle; some rooms sit in the castle towers",
+  "category_quote": "Castle rooms have either twin or double beds and are located within the main castle.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Walworth Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Castle Tavern and beer garden",
+    "quote": "Our Castle Tavern & Beer Garden serves a tempting menu filled with seasonal dishes"
+   },
+   {
+    "text": "Afternoon tea",
+    "quote": "We also offer traditional Afternoon Tea, perfect for a celebration"
+   },
+   {
+    "text": "Garden terrace",
+    "quote": "A garden terrace with relaxed surroundings"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "18 acres of grounds",
+    "quote": "Set within 18 acres of grounds, it combines the convenience of a Darlington hotel"
+   },
+   {
+    "text": "King James I Suite with royal history",
+    "quote": "King James VI of Scotland actually stayed in what is now the King James Suite on 14th April 1603"
+   },
+   {
+    "text": "Four-poster suites, some in the castle towers",
+    "quote": "The ultimate in a luxury stay. These rooms are extra large and comprise of a four-poster bed"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Easy access to Darlington and the wider County Durham area",
+   "quote": "Easy access to Darlington and the wider County Durham area"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The hotel is a 12th-century castle with castle rooms inside the main building; the annex is a minor add-on, so the whole property fits.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/329021982",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Historic castle hotel in North Yorkshire with 32 rooms; 9 are in the main castle and others in courtyard buildings",
+  "category_quote": "Hazlewood Castle is a historic castle hotel and wedding venue in North Yorkshire, located between York and Leeds.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hazlewood Castle & Spa",
+  "property_type": "hotel",
+  "address": "Paradise Lane, Tadcaster, North Yorkshire LS24 9NJ, UK",
+  "room_count": {
+   "value": 32,
+   "quote": "Hazlewood Castle offers 32 beautifully appointed rooms and suites"
+  },
+  "amenities": [
+   {
+    "text": "Thermal spa with Finnish sauna and steam room",
+    "quote": "Immerse yourself in our thermal spa, complete with a Finnish Sauna, Aroma Steam, and raindrop shower."
+   },
+   {
+    "text": "Free WiFi in bedrooms and public areas",
+    "quote": "Yes we have complimentary wifi in the bedrooms and public areas."
+   },
+   {
+    "text": "Restaurant dining",
+    "quote": "Enjoy dinner in the Vavasour Restaurant"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "9 rooms and suites in the main Castle",
+    "quote": "9 Spacious rooms and suites located in the main Castle with views of the gardens and gallops."
+   },
+   {
+    "text": "Domesday Book history",
+    "quote": "The Castle dates back to the Domesday Book and provides a unique setting for weddings, countryside stays and events in Yorkshire."
+   },
+   {
+    "text": "77 acres of woodland with activities",
+    "quote": "Set within 77 acres of woodland, the estate offers comfortable accommodation, castle weddings, spa, dining, adventure activities and event spaces."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "From 3pm",
+   "quote": "You can check in from 3pm and check out is by 10.30am"
+  },
+  "check_out": {
+   "text": "By 10:30am",
+   "quote": "You can check in from 3pm and check out is by 10.30am"
+  },
+  "access": {
+   "text": "Nearest train station Church Fenton, 4 miles away; taxi needed",
+   "quote": "The nearest train station is Church Fenton which is 4 miles from the hotel, a taxi would be required to complete your journey."
+  },
+  "audience": "unknown",
+  "best_for": [
+   "weddings",
+   "countryside stays"
+  ],
+  "reason": "The official site calls it a historic castle hotel with 32 rooms, most of them outside the main castle, so the whole property fits castle-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/343001044",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Castle hotel near Edinburgh with 33 bedrooms and suites, many with four-poster beds",
+  "category_quote": "Where better to stay when visiting Edinburgh than in a castle?",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Melville Castle",
+  "property_type": "hotel",
+  "address": "Gilmerton Road, Lasswade, Edinburgh EH18 1AP, Scotland",
+  "room_count": {
+   "value": 33,
+   "quote": "Home to 33 luxury bedrooms and suites, Melville Castle is the perfect place to treat yourself to some well-deserved R&R refined relaxation."
+  },
+  "amenities": [
+   {
+    "text": "Full Scottish breakfast when booked direct",
+    "quote": "All stays booked direct include a complimentary Full Scottish Breakfast each morning of your stay."
+   },
+   {
+    "text": "Private car park",
+    "quote": "Parking in our private car park."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Grounds with Queen Mary's five oak trees to find",
+    "quote": "Get lost in our enchanted grounds and search for Queen Mary's five oak trees"
+   },
+   {
+    "text": "Rooms beneath the turrets",
+    "quote": "Bed down beneath the turrets for a deep slumber"
+   },
+   {
+    "text": "Afternoon tea served daily",
+    "quote": "Afternoon Tea is served from 14:00 - 17:00 daily"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "From 15:00",
+   "quote": "If your room is ready before 15:00, we'll let you know."
+  },
+  "check_out": null,
+  "access": {
+   "text": "About 30 minutes' drive from Edinburgh city",
+   "quote": "The bustling city of Edinburgh is only a 30minute drive away."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "city breaks near Edinburgh",
+   "weddings",
+   "dog-friendly stays"
+  ],
+  "reason": "The official site presents the hotel as a castle where guests stay in its bedrooms, so the whole property fits castle-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/543871596",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Restored Tudor castle, rented as a self-catering romantic retreat for two",
+  "category_quote": "Built in 1550 on the site of an earlier medieval castle, it has recently been restored from a crumbling ruin into a delightful retreat for two",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Scargill Castle",
+  "property_type": "other",
+  "address": "Teesdale, County Durham (contact: Lartington, Barnard Castle, DL12 9BP)",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Well equipped kitchen and banqueting dining hall",
+    "quote": "The accommodation consists of a sunny entrance hall, well equipped kitchen, lavish bathroom, a banqueting dining hall, living room and bedroom."
+   },
+   {
+    "text": "Welcome hamper and tea tray",
+    "quote": "You will be welcomed with a hamper of food and wine"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Sheltered courtyard gardens from the old Tudor manor",
+    "quote": "Private parking leads through a gate into your own sheltered courtyard gardens"
+   },
+   {
+    "text": "Featured in a Time Team excavation",
+    "quote": "partially excavated by Channel 4 television’s The Time Team in 2009"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Private parking and gate into the courtyard",
+   "quote": "Private parking leads through a gate into your own sheltered courtyard gardens"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "couples",
+   "anniversaries and honeymoons"
+  ],
+  "reason": "A single restored 1550 castle offered as a romantic retreat for two, so the whole property is the castle niche.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/723957347",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Grade II listed castellated country house hotel in Northumberland with 17 en-suite rooms",
+  "category_quote": "offering 17 cozy en-suite bedrooms within a Grade II listed building",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Otterburn Castle",
+  "property_type": "hotel",
+  "address": "Newcastle upon Tyne, England, NE19 1NS, UK",
+  "room_count": {
+   "value": 17,
+   "quote": "offering 17 cozy en-suite bedrooms within a Grade II listed building on 32 acres of stunning land."
+  },
+  "amenities": [
+   {
+    "text": "Complimentary in-room gym kits",
+    "quote": "Move at your own pace with our in-room gym kits, complimentary for hotel guests."
+   },
+   {
+    "text": "Parking with EV charging",
+    "quote": "Yes, parking is available at our venue with EV charging available."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Norman stronghold origins",
+    "quote": "Founded in 1086 by a cousin of William the Conqueror, Otterburn Castle began its life as a Norman stronghold guarding England’s volatile northern frontier."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "From 3pm",
+   "quote": "Our standard check-in time is from 3:00pm, with check-out at 11:00am."
+  },
+  "check_out": {
+   "text": "By 11am",
+   "quote": "Our standard check-in time is from 3:00pm, with check-out at 11:00am."
+  },
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "romantic stays",
+   "special occasions"
+  ],
+  "reason": "A Grade II listed castle building operating as a boutique hotel with 17 en-suite bedrooms, so the whole property fits castle-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11275731132",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 10,
+  "niche_feature": "Hotel of cave suite rooms with a heated cave swimming pool in Nevşehir",
+  "category_quote": "Cave Rooms and Heated Swimming Pool",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Cappadocia Inans Cave Suites",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 10,
+   "quote": "Our hotel has 10 special rooms, each carefully decorated."
+  },
+  "amenities": [
+   {
+    "text": "Heated swimming pool",
+    "quote": "Cave Rooms and Heated Swimming Pool"
+   },
+   {
+    "text": "Open buffet breakfast",
+    "quote": "Open buffet breakfast consisting of local delicacies."
+   },
+   {
+    "text": "Airport transfer",
+    "quote": "Private or shared transfer service is available from Nevşehir Airport to our hotel."
+   },
+   {
+    "text": "Free tea and coffee in rooms",
+    "quote": "All rooms have kettle, tea and coffee. tea and coffee is free."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Carefully decorated cave suite rooms",
+    "quote": "Inans Cave Suites provides service with carefully decorated suite rooms in Cappadocia."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Private or shared airport transfer from Nevşehir Airport",
+   "quote": "Private or shared transfer service is available from Nevşehir Airport to our hotel."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes its 10 rooms as cave rooms with a heated cave pool, so the whole property fits cave-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12338806497",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Boutique resort of cave suites in Cappadocia",
+  "category_quote": "with our luxurious cave suites, where history meets modern comfort",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Signature Cave Cappadocia Trademark Collection By Wyndham",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Direct pool access from pool suite",
+    "quote": "featuring 1 double bed, direct access to the pool area, and private outdoor sitting area"
+   },
+   {
+    "text": "Air conditioning and laptop-sized safe",
+    "quote": "Additional amenities include a laptop-sized safe, desk, prayer mats, clothes hamper, sitting area, and air conditioning."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panoramic views of the landscapes",
+    "quote": "each suite is a masterpiece of design, offering panoramic views of the majestic landscapes"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes its suites as cave suites in Cappadocia, so the whole property fits cave-hotels.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/368291602",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel in Göreme whose rooms are carved out of rock",
+  "category_quote": "Melek Cave deki her oda kayalardan oyulmuştur ve bireysel bir şekilde döşenmiştir",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Melek Cave Hotel",
+  "property_type": "hotel",
+  "address": "Gafeli Mah. Ünlü Sok. No:28, 50180 Göreme, Nevsehir Türkiye",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free breakfast on the terrace",
+    "quote": "Her sabah, Melek Otelin güzel terasında ücretsiz kahvaltı servis edilir."
+   },
+   {
+    "text": "Free Wi-Fi",
+    "quote": "Otelimizde konakladığınız süre boyunca ücretsiz olarak hızlı ve sınırsız WiFi erişimi sağlayabilirsiniz"
+   },
+   {
+    "text": "Laundry, childcare and health services",
+    "quote": "Konuklar için çamaşır makinesi, Çocuk bakıcısı, Havlu değiştirme, Sağlık hizmetleri"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Sigara içilebilir alan, Oda temizliği ve Restoran"
+   },
+   {
+    "text": "Car and bike rental",
+    "quote": "Araba kiralama, Bisiklet kiralama, Herkese açık internetli bilgisayar, 24-saat oda servisi"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Balloon trips can be arranged through the hotel",
+    "quote": "Melek Otel aracılığıyla bir balon yolculuğu ayarlayabilirsiniz."
+   },
+   {
+    "text": "Central Göreme location near the fairy chimneys",
+    "quote": "Peri bacaları ile çevrili tarihi Göreme nin merkezinde bulunan Melek Cave Hotel"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Free transfer from the bus station (otogar) to the hotel",
+   "quote": "Ayrıca otogardan otele ücretsiz bir transfer de mevcuttur."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site says every room is carved from rock in central Göreme, a clear cave-hotel fit.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3764833635",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Cave and stone suites on a hillside above Göreme, built over old cave houses",
+  "category_quote": "Bu odalar, yüzyıllardır yerel halk tarafından kullanılan eski mağara evlerinin üzerine inşa edilmiş olup, orijinal mağara duvarları özenle korunmuş",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Sultan Cave Suites",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 35,
+   "quote": "Klasik Odalar, Junior Süitler, Süitler, King Süitler, Paşa Süitler ve lüks Sultan Süitler de dahil olmak üzere 35 benzersiz tasarımlı odasıyla"
+  },
+  "amenities": [
+   {
+    "text": "Breakfast buffet included",
+    "quote": "Tüm konaklamalarımıza açık büfe kahvaltı dahildir."
+   },
+   {
+    "text": "24/7 reception",
+    "quote": "Evet. Resepsiyonumuz 7/24 hizmet vermektedir."
+   },
+   {
+    "text": "Free shared parking in front of the hotel",
+    "quote": "Otelimizin önünde ücretsiz ortak kullanım alanları bulunmaktadır."
+   },
+   {
+    "text": "Seten restaurant and cultural centre on the property",
+    "quote": "mülk içinde ünlü Seten Restoranı ve Anadolu Kültür Merkezi'ni de kurmuştur"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Balloon views from many rooms and terraces",
+    "quote": "Birçok odamız ve ortak teras alanlarımız Kapadokya’nın eşsiz sıcak hava balonu manzarasına sahiptir."
+   },
+   {
+    "text": "On-site Seten restaurant listed in the 2026 Michelin Guide",
+    "quote": "Bu eşsiz mutfak yolculuğu, 2026 Michelin Rehberi’ne dahil edilerek kalitesi ve özgünlüğüyle uluslararası ölçekte takdir edildi."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "from 14:00",
+   "quote": "Check-in saati 14:00, check-out saati ise 11:00’dir."
+  },
+  "check_out": {
+   "text": "by 11:00",
+   "quote": "Check-in saati 14:00, check-out saati ise 11:00’dir."
+  },
+  "access": {
+   "text": "On Aydınlı Hill above Göreme village",
+   "quote": "Göreme köyünün üzerindeki tarihi Aydınlı Tepesi'nde yer alan Sultan Cave Suites"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site (Turkish) describes its 35 rooms as cave accommodation built over old cave houses with original cave walls.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5395462009",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Luxury hotel whose rooms are restored cave rooms in Cappadocia stone",
+  "category_quote": "Our restored cave rooms preserve the authentic architectural character of Cappadocia",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Utopia Cave Cappadocia",
+  "property_type": "hotel",
+  "address": "Duayeri Mah. İstiklal-1 Sok. No: 6 50400 Ürgüp/Nevşehir",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Spa",
+    "quote": "Utopia Cave Spa minimum stay of 3 nights, you'll receive a complimentary 30-minute massage for one person."
+   },
+   {
+    "text": "Restaurant (Yamas Restaurant)",
+    "quote": "Member Guest earn F&B credit 30.- Euro at Yamas Restaurant, min. of spend value 150.- Euro or 10 % discount from all F&B food and beverage area."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Cave rooms with distinctive original details",
+    "quote": "Experience the spirit of Cappadocia alongside comfort in our cave rooms, each designed with distinctive and original details."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site describes its accommodation as cave rooms in Cappadocia stone, so the stay itself is the niche.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6802840785",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel in Cavusin with private terraces and hot air balloon views",
+  "category_quote": "Experience authentic cave rooms, a homemade Turkish breakfast, and genuine hospitality for a truly unforgettable stay.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Seki Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Rooftop jacuzzi",
+    "quote": "you can use rooftop jacuzzi aganist hot air balloons or sunset"
+   },
+   {
+    "text": "Pet friendly",
+    "quote": "Seki cave is a pet friendly hotel."
+   },
+   {
+    "text": "24-hour reception",
+    "quote": "Our reception is open 24 hours and you will always find someone to help you there."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Hot air balloon views",
+    "quote": "Wake up to breathtaking hot air balloon views in Cappadocia."
+   },
+   {
+    "text": "Quiet stay with many terraces",
+    "quote": "Choosing Seki is the best decision you will make if you are looking for a quiet and tranquil experience in Cappadocia"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "14pm",
+   "quote": "Our checkin is at 14pm and check out is at 12pm."
+  },
+  "check_out": {
+   "text": "12pm",
+   "quote": "Our checkin is at 14pm and check out is at 12pm."
+  },
+  "access": {
+   "text": "About 3 km from Goreme town",
+   "quote": "Cavusin is the new hip town of Cappadocia! 3 km away from the town of Goreme"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "quiet, view-focused stays"
+  ],
+  "reason": "Site describes the hotel as cave rooms with terraces and balloon views, so the whole property is a cave hotel.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7983040279",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Seven historic cave rooms in Göreme-area Cappadocia with terraces and jacuzzi suites",
+  "category_quote": "Tarihi mağara odalarımız, misafirlerine hem ruhsal dinginlik hem de benzersiz bir deneyim sunar.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Romantic Cave Hotel",
+  "property_type": "hotel",
+  "address": "Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp/Nevşehir",
+  "room_count": {
+   "value": 7,
+   "quote": "Yedi odamızın her biri bu büyünün bir parçasıdır ve mistik enerjilerle donatılmıştır."
+  },
+  "amenities": [
+   {
+    "text": "Free Wi-Fi, breakfast and 24-hour reception",
+    "quote": "ücretsiz Wi-Fi imkanı, lezzetli kahvaltımız ve 24 saat hizmet veren resepsiyonumuz ile günün her saati sessiz ve huzurlu"
+   },
+   {
+    "text": "Jacuzzi suites",
+    "quote": "Eşsiz manzaralara sahip teraslarımız, jakuzili suitlerimiz ve otantik tasarımımızla"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic cave rooms with a calm atmosphere",
+    "quote": "Tarihi mağara odalarımız, misafirlerine hem ruhsal dinginlik hem de benzersiz bir deneyim sunar."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site describes its seven rooms as historic cave rooms, so the whole property is a cave hotel.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8420901081",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Guesthouse with rooms carved from natural rock in Göreme, Cappadocia",
+  "category_quote": "Charming Cave Hotel is totaly unique caved from the natural rocks and stones of Cappadocia",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Charming Cave Cappadocia Hotel",
+  "property_type": "guesthouse",
+  "address": "Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme/Nevşehir Merkez/Nevşehir",
+  "room_count": {
+   "value": 15,
+   "quote": "There are fifteen-stlyed rooms that offer comfortable and relaxed accomadation."
+  },
+  "amenities": [
+   {
+    "text": "Free street parking",
+    "quote": "There are free parking spaces on the street."
+   },
+   {
+    "text": "Breakfast",
+    "quote": "Breakfast 7:30 - 10:00 AM."
+   },
+   {
+    "text": "Free high-speed internet",
+    "quote": "Our hotel offers free use of its high-speed internet infrastructure."
+   },
+   {
+    "text": "Airport transfers",
+    "quote": "Transfer services are available from Nevşehir and Kayseri airports."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms cut into rock",
+    "quote": "finding yourself in rooms graved into rocks"
+   },
+   {
+    "text": "Hot air balloon views from the terrace",
+    "quote": "Amazing hot air balloon view from the hotel terrace."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Airport transfers from Nevşehir and Kayseri airports",
+   "quote": "Transfer services are available from Nevşehir and Kayseri airports."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site says the whole hotel is caved from natural rock in Göreme, so the cave-hotel niche fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8641687607",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Boutique cave hotel with cave-style rooms in Ürgüp, Cappadocia",
+  "category_quote": "Our boutique cave hotel offers a unique escape, combining elegance, authenticity, and modern amenities.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Taru Cave Suites",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant and bar",
+    "quote": "Indulge in local and international delicacies."
+   },
+   {
+    "text": "Complimentary breakfast",
+    "quote": "A rich breakfast with fresh and local flavors served every morning."
+   },
+   {
+    "text": "Free parking",
+    "quote": "Safe and spacious parking for all guests."
+   },
+   {
+    "text": "24/7 reception and security",
+    "quote": "Professional staff available around the clock."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Elegantly designed cave rooms",
+    "quote": "Enjoy the warmth of our elegantly designed cave rooms"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The home page calls the property a boutique cave hotel with cave rooms, so the niche covers the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/506830120",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 9,
+  "niche_feature": "Hotel with nine rooms inside a 15th-century castle, plus a modern extension",
+  "category_quote": "Nine rooms are located within our 15th-century castle",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Dornoch Castle Hotel",
+  "property_type": "hotel",
+  "address": "Castle Street, Dornoch, Sutherland IV25 3SD",
+  "room_count": {
+   "value": 21,
+   "quote": "Our hotel features 21 rooms"
+  },
+  "amenities": [
+   {
+    "text": "Restaurant, whisky bar, guest lounge and walled garden",
+    "quote": "an award-winning whisky bar, a restaurant, a guest lounge and a walled garden"
+   },
+   {
+    "text": "Pet-friendly rooms (selected)",
+    "quote": "Selected rooms are pet-friendly, so even your four-legged companions can enjoy the adventure."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle rooms with views of the garden and Dornoch Cathedral",
+    "quote": "Located in our historic 15th-century Castle, these unique rooms feature a variety of views, including our colourful garden and Dornoch Cathedral."
+   },
+   {
+    "text": "Large whisky selection",
+    "quote": "With a wide selection of rare and unique whiskies, there is certainly a dram for everyone."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Directly opposite Dornoch Cathedral in the town centre",
+   "quote": "situated directly opposite the inspiring 12th century Dornoch Cathedral"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site says nine of its 21 rooms are inside the 15th-century castle; the rest are in a modern extension.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5420205007",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Historic Scottish castle hotel near Edinburgh with castle-themed rooms",
+  "category_quote": "For an authentic castle experience, look no further than our Castle Feature Room with Vaulted Well.",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Dalhousie Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 35,
+   "quote": "Stay in one of 35 beautifully refurbished en-suite bedrooms"
+  },
+  "amenities": [
+   {
+    "text": "Restaurant (Castle Dungeon Restaurant)",
+    "quote": "A dining experience like no other. Savour every moment in our award-winning Castle Dungeon Restaurant"
+   },
+   {
+    "text": "Function rooms and private dining",
+    "quote": "With private dining and a wide selection of function rooms, we have the space for you."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle history dating back over 800 years",
+    "quote": "Set within eleven acres of private parkland just outside Edinburgh, Dalhousie Castle has stood for over 800 years."
+   },
+   {
+    "text": "Hosted royalty and poets since the 13th century",
+    "quote": "Since the 13th century, Dalhousie Castle has been host to royalty, celebrated poets and wonderful guests."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Just outside Edinburgh, in Bonnyrigg",
+   "quote": "Set within eleven acres of private parkland just outside Edinburgh"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle hotel with historic castle rooms, but the site also offers modern Lodge rooms described as an alternative, so scope is some_units.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8314596612",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 4,
+  "niche_feature": "Historic castle building with four guestrooms alongside a converted-mill hotel and self-catering residences",
+  "category_quote": "Inside the Grade A listed building, a full restoration programme has reformed the magnificent castle back to its former glory.",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Killeavy Castle Estate",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Elemis Spa",
+    "quote": "During your stay at our luxury hotel, take advantage of one of our expert spa treatments in our award-winning Elemis Spa."
+   },
+   {
+    "text": "Bistro Bar and Gullion Restaurants",
+    "quote": "With a Bistro Bar and Gullion Restaurants there is something to suit every taste."
+   },
+   {
+    "text": "Outdoor hot tub",
+    "quote": "simply relax in our outdoor hot tub"
+   },
+   {
+    "text": "Dog-friendly residences",
+    "quote": "All our residences are dog friendly."
+   },
+   {
+    "text": "On-site bike hire",
+    "quote": "a mountain bike or e-bike that can be hired onsite"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle itself available for exclusive hire",
+    "quote": "Killeavy Castle itself is available for exclusive hire."
+   },
+   {
+    "text": "Four castle guestrooms",
+    "quote": "Fully self-contained with four double guestrooms, lounge and extensive relaxation spaces, each luxury guestroom emulates the original period style."
+   },
+   {
+    "text": "45 hotel guestrooms overlooking the estate",
+    "quote": "each of the 45 guestrooms are sensitively decorated in a soothing contemporary style"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "10 minutes from Newry City; one hour from Belfast and Dublin airports",
+   "quote": "Located only 10 minutes from Newry City and one hour from Belfast International Airport and Dublin Airport"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "spa breaks",
+   "romantic getaways"
+  ],
+  "reason": "Estate where the historic castle has four guestrooms, while the main hotel is a converted mill and the residences are self-catering, so scope is some_units.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/11068596",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel in a Grade II listed reconstruction of Taunton's 12th-century Norman fortress",
+  "category_quote": "in a Grade II listed 18th-century reconstruction of the former 12th-century Norman fortress, Taunton Castle",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "The Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 44,
+   "quote": "Our 44 bedrooms each offer personality and comfort away from home."
+  },
+  "amenities": [
+   {
+    "text": "Car parking",
+    "quote": "Car parking is available at the hotel for residents & guests alike."
+   },
+   {
+    "text": "Electric vehicle chargers",
+    "quote": "We have Four Electric 22kw chargers that require a type 2 cable"
+   },
+   {
+    "text": "Afternoon tea in The Drawing Room",
+    "quote": "Afternoon tea served in the art deco elegance of The Drawing Room are legendary"
+   },
+   {
+    "text": "Brazz restaurant and evening bar",
+    "quote": "The heart of The Castle lies in its award-winning kitchen."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Wisteria-covered Grade 2 listed landmark in central Taunton",
+    "quote": "this wisteria-cloaked Grade 2 listed landmark in the centre of Taunton"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Two miles from the M5 with parking",
+   "quote": "Just 2 miles from the M5, The Castle offers parking and rooms"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The hotel occupies a listed reconstruction of Taunton's Norman castle, so it fits castle-hotels for the whole property.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/256497415",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 1,
+  "niche_feature": "One self-catering apartment inside the historic castle; the other units are cottages and eco-bothies",
+  "category_quote": "The former servants quarters in the ground floor of the castle were converted into apartments in the mid-80s",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Torrisdale Castle Estate",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Hot tub and sauna in the castle apartment",
+    "quote": "The Servants Quarters apartment has a hot tub and a sauna"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Short walk to Torrisdale Bay for wildlife watching",
+    "quote": "We are a short walk away from stunning Torrisdale Bay which is perfect for water sports, wild swimming and wildlife watching."
+   },
+   {
+    "text": "Working distillery and gin school on the estate",
+    "quote": "Torrisdale Castle Estate is the home of Beinn an Tuirc Distillers Ltd , where we make award winning spirits such as Kintyre Gin and Tarbert Legbiter."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Self-catering estate whose castle apartment is one of five units, so only some units fit castle-hotels.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/364367300",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "14th-century castle with suites offered for rent since 2024, in Inverkeilor near Arbroath",
+  "category_quote": "Ethie Castle is a 1,402 m² 14th-century castle located in Inverkeilor",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ethie Castle",
+  "property_type": "other",
+  "address": "Inverkeilor, by Arbroath, Angus DD11 5SP",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Available for rent since Summer 2024",
+    "quote": "Ethie Castle has been available for rent since Summer 2024"
+   },
+   {
+    "text": "Chapel and secret staircase linked to Cardinal Beaton",
+    "quote": "Its association with Cardinal Beaton is still evident as the castle includes a small chapel and the Cardinal’s Sitting Room, with its secret staircase to the Great Hall above."
+   },
+   {
+    "text": "Hikes in the Highlands or along the coast",
+    "quote": "Extensive hikes in the Highlands or along the coast"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A castle with suites offered for rent, but the owner's own narrative suggests it is also a private home, so the lodging status is uncertain.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/531553123",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Gothic Revival castle mansion in Somerset offering bed and breakfast",
+  "category_quote": "Bed and breakfast at this gothic style castle",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Banwell Castle",
+  "property_type": "B&B",
+  "address": "Banwell, Somerset BS29 6NX",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free wireless internet",
+    "quote": "Free wireless internet connection available."
+   },
+   {
+    "text": "Gatehouse Restaurant on site",
+    "quote": "Dining in The Gatehouse Restaurant"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Chickens and peacocks in the grounds",
+    "quote": "Chickens and peacocks run free in the grounds with rare sheep, wild deer, badger, pheasants and bats also resident."
+   },
+   {
+    "text": "25 acres of gardens and grounds",
+    "quote": "It is set in 25 acres of gardens and grounds together with Banwell Garden Centre."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official B&B page describes a gothic castle where guests stay, but the site looks dated (2009 footer, Flash notice), so current operation is unconfirmed.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/622132944",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Five-star spa hotel with traditional castle rooms plus contemporary lodges spread over four grounds locations",
+  "category_quote": "Book a stay in one of our traditional castle rooms, stay in one of our contemporary lodges",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Fonab Castle",
+  "property_type": "hotel",
+  "address": "On the banks of Loch Faskally, near Pitlochry, Perthshire",
+  "room_count": {
+   "value": 42,
+   "quote": "All 42 bedrooms at Fonab Castle Hotel are luxuriously appointed."
+  },
+  "amenities": [
+   {
+    "text": "Woodland spa",
+    "quote": "Escape into tranquility at the Woodland Spa where nature s serenity meets luxurious rejuvenation at Fonab Castle."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "1892 Grill with loch views",
+    "quote": "Discover 1892 Grill, where Scottish produce, coal-fired flavour and panoramic loch views come together."
+   },
+   {
+    "text": "Pod dining with loch views",
+    "quote": "An exclusive dining retreat with views of the Loch and personal service."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Short taxi ride from Pitlochry Station; regular trains from Edinburgh, Glasgow and Inverness",
+   "quote": "Pitlochry Station is a convenient option with regular services from Edinburgh, Glasgow, and Inverness"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "spa breaks",
+   "Highland touring"
+  ],
+  "reason": "The Fonab page says guests can stay in traditional castle rooms or contemporary lodges, so only some units fit castle-hotels.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11416685769",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 10,
+  "niche_feature": "Hotel in Ortahisar with about 10 cave rooms alongside two standard rooms",
+  "category_quote": "Standard Double Cave Room - 402",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Splendid Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ten of the twelve listed rooms are named as cave rooms, while two are standard rooms, so only some units fit.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11682018921",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 5,
+  "niche_feature": "Uçhisar hotel with five cave rooms and three stone rooms",
+  "category_quote": "Peristyle Cave Cappadocia has a total of 8 rooms, including five caves and three stone rooms.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Peristyle Cave Cappadocia",
+  "property_type": "hotel",
+  "address": "Asagi Gedik Sokak. No:37, 50240 Uchisar Nevşehir Turkey",
+  "room_count": {
+   "value": 8,
+   "quote": "Peristyle Cave Cappadocia has a total of 8 rooms, including five caves and three stone rooms."
+  },
+  "amenities": [
+   {
+    "text": "Breakfast on terrace or in room",
+    "quote": "your mixed and organic breakfast, which will be prepared freshly for you"
+   },
+   {
+    "text": "Local wines on terrace",
+    "quote": "you can taste unique Cappadocian wines on our terrace or in our lounge area"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Morning terrace with hot air balloons close by",
+    "quote": "where you can touch the balloons when you go out to the terrace in the morning"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Museums and ruins reachable on foot, or by daily tour or horse/ATV",
+   "quote": "You can reach museums and ruins on foot, by participating in daily tours, and by activity vehicles such as horse-atv."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site states 8 rooms, five of them caves, so only some units fit cave-hotels.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12953900574",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Traditional stone mansion in Ürgüp with stone and rock rooms",
+  "category_quote": "Konforlu ve otantik dekorasyona sahip taş/kaya odalar",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Georgios Cave Cappadocia",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant",
+    "quote": "Ayrıca restaurantımız 20-25 kişilik kapasiteli olup özel günlerinizi"
+   },
+   {
+    "text": "In-room safes",
+    "quote": "Odalarımız hepsinin içinde siz değerli misafirlerimiz için özel şifreli kasalar mevcuttur."
+   },
+   {
+    "text": "Terrace with sunrise and balloon views",
+    "quote": "Balonlar eşliğinde gün doğumunu izleyebileceğiniz teras manzarası"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Hot air balloon booking support",
+    "quote": "Sıcak hava balonu deneyimi için özel rezervasyon desteği"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes stone and rock rooms in a traditional mansion under a cave name, so it fits cave-hotels, though the rock wording is less explicit.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13592001101",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 4,
+  "niche_feature": "Göreme hotel with four carved cave rooms and five stone rooms",
+  "category_quote": "offers an authentic sanctuary with 4 carefully restored cave rooms and 5 stone rooms",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Vintage Cave House",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Open and closed terraces",
+    "quote": "With our open and closed terraces where you can watch the hot air balloons dance in the sky"
+   },
+   {
+    "text": "Garden",
+    "quote": "our peaceful garden, and our breakfast that smells of tradition every morning"
+   },
+   {
+    "text": "Breakfast",
+    "quote": "our breakfast that smells of tradition every morning"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Five-generation family house turned boutique hotel",
+    "quote": "The story of Vintage Cave House begins in an old Goreme house that has been our family s home for five generations"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 30 minutes from Nevsehir airport",
+   "quote": "Nevsehir is a little closer only 30 minutes to our hotel."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes four carved cave rooms alongside five stone rooms, so only some units fit cave-hotels.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1993527276",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 8,
+  "niche_feature": "Rock-carved suites mixed with stone rooms in a small Göreme hotel",
+  "category_quote": "Otelimiz; 8 kaya oyma ve 5 standart taş oda olmak zere toplam 13 odaya sahiptir.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ottoman Cave Suites",
+  "property_type": "hotel",
+  "address": "Avcilar Mahallesi Okul Sokak No: 6 50180 Göreme, Cappadocia, Turkey",
+  "room_count": {
+   "value": 13,
+   "quote": "Otelimiz; 8 kaya oyma ve 5 standart taş oda olmak zere toplam 13 odaya sahiptir."
+  },
+  "amenities": [
+   {
+    "text": "Breakfast on terrace with fairy chimney views",
+    "quote": "otelimizin terasında peri bacaları manzarası eşliğinde yapabilirsiniz"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panoramic views over valleys, mountains and Erciyes volcano",
+    "quote": "arkaplanda vadileri, dağları ve Erciyes volkanını evreleyen panaromik manzaranın tadını ıkarın"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Easy access to Göreme centre and Cappadocia sights",
+   "quote": "Göreme’nin merkezine ve Kapadokya’daki önemli pek çok turistik yere ulaşımı çok kolay olan bir bölgede yer alan"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site describes a small rock hotel where 8 of 13 rooms are carved into rock, so some units fit cave-hotels.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/316644700",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel in Göreme with some rooms carved into caves, including 8th-century rooms",
+  "category_quote": "Some of the rooms of the hotel are very unique as they were carved into the caves.",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kelebek Special Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Outdoor swimming pool and Turkish bath",
+    "quote": "Offering a traditional Turkish bath and an outdoor swimming pool"
+   },
+   {
+    "text": "Pet friendly",
+    "quote": "Kelebek Hotel is a pet friendly hotel"
+   },
+   {
+    "text": "Free street parking",
+    "quote": "We have free street parking available in our hotel."
+   },
+   {
+    "text": "Concierge service for activities and balloon rides",
+    "quote": "Kelebek offers a concierge service where the hotel guest can book all the activities including balloon rides through the reception."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Balloon views from most rooms and terraces",
+    "quote": "Goreme National Park is located in the heart of the national park where our guests can watch the hot air balloons from most of the rooms and terraces"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "14pm",
+   "quote": "Our checkin is at 14pm and check out is at 12pm."
+  },
+  "check_out": {
+   "text": "12pm",
+   "quote": "Our checkin is at 14pm and check out is at 12pm."
+  },
+  "access": {
+   "text": "Regular shuttle from Kayseri and Nevsehir airports",
+   "quote": "We offer regular shuttle service from both airports Kayseri and Nevsehir"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site says some rooms are carved into caves, so the niche applies to some units; the room count differs between pages (37 and 35), so it is left null.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/368296526",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Boutique hotel with authentic cave rooms in Göreme; room list does not say every room is a cave",
+  "category_quote": "Beautiful boutique hotel with authentic cave rooms.",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Adelya Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Breakfast on the terrace and balloon views at dawn (guest reviews)",
+    "quote": "a delicious breakfast on the terrace, and magical balloon views at dawn"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Check-in from 14:30 (anytime)",
+   "quote": "Check-in from 14:30 - anytime"
+  },
+  "check_out": null,
+  "access": {
+   "text": "Located in the heart of Cappadocia, Göreme",
+   "quote": "Located in the heart of Cappadocia, Adelya Cave Hotel offers an unforgettable stay with stunning rock formations and a rich historical atmosphere."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site and reviews mention cave rooms, but the nine named rooms are not all described as caves, so scope is some_units.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4870524621",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 3,
+  "niche_feature": "Guest house in Göreme with underground cave rooms alongside standard, family and suite rooms",
+  "category_quote": "Authentic cave rooms carved into real rock will help you feel the whole spirit of Cappadocia.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Göreme Valley Cave House",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Wi-Fi in all rooms",
+    "quote": "All the rooms contain wi-fi."
+   },
+   {
+    "text": "Airport shuttle service (book in advance)",
+    "quote": "For the most comfortable travel, book a shuttle service."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Expansive windows with rock formation and balloon views in suites",
+    "quote": "expansive windows with rock formation and hot air balloons views"
+   },
+   {
+    "text": "Windows open onto unique rock formations",
+    "quote": "Expansive windows open to views of unique rock formations."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Driver meets guests at the airport exit and takes them to the hotel entrance",
+   "quote": "The driver will be waiting for you at the airport exit and will bring you directly to the hotel entrance."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Official site lists 3 underground cave rooms among its standard, family and suite rooms, so only some units are caves.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6264295571",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Name says cave; site describes stone rooms and suites in Cappadocian architecture",
+  "category_quote": "Birbirinden zevkli döşenmiş ve Kapadokya mimarisinde 9 taş oda ve suitlerin konforuna hayran kalacaksınız.",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Lucky Cave Cappadocia",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "Birbirinden zevkli döşenmiş ve Kapadokya mimarisinde 9 taş oda ve suitlerin konforuna hayran kalacaksınız."
+  },
+  "amenities": [
+   {
+    "text": "Jacuzzi and hammam in suites",
+    "quote": "Suit odalarda Jakuzi ve Hamam"
+   },
+   {
+    "text": "Fresh organic breakfast",
+    "quote": "sabah saat 8'den 12'ye kadar size özel taze olarak hazırlanacak olan serpme ve organik kahvaltınızı"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panoramic breakfast area with 360-degree valley views",
+    "quote": "360 derece manzaralı panoramik kahvaltı alanında"
+   },
+   {
+    "text": "Views of Uçhisar Castle and Love Valley",
+    "quote": "Uçhisar Kalesi ve Aşk vadisi manzaralı"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "honeymoons"
+  ],
+  "reason": "Name says Cave and the site mentions stone rooms, but no text states the rooms are carved into rock, so the niche is unclear.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/8467644",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Holiday lets in a Grade II* listed former workhouse in St Dogmaels",
+  "category_quote": "Albro Castle is a former workhouse in the north of the village of St Dogmaels",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": "former workhouse converted to holiday lets",
+  "official_name": "Albro Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Holiday let sleeping 12",
+    "quote": "Plas-y-Berllan - sleeps 12 from £185pn"
+   },
+   {
+    "text": "Smaller holiday let sleeping 2 plus 2 children",
+    "quote": "Pen Lon Las - sleeps 2 + 2 children from £65pn"
+   },
+   {
+    "text": "Building restored by the owners, per a guest review",
+    "quote": "Pete and Tracy have transformed the building through painstaking and sympathetic restoration work"
+   },
+   {
+    "text": "At the start of the Pembrokeshire Coast Path",
+    "quote": "We are literally at the beginning/end of the Pembrokeshire Coast Path."
+   },
+   {
+    "text": "Sandy beach about 20 minutes on foot",
+    "quote": "just a 20 minute walk will take you to Poppit sands, a long stretch of sandy beach"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Rural village near Cardigan; nearest train stations include Carmarthen and Haverfordwest",
+   "quote": "The nearest train stations located at Aberwstwyth, Carmarthen, Haverfordwest, Clunderwen and Fishguard Harbour."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The castle name is misleading, but the site offers holiday lets in a former workhouse, which is a distinct niche outside the listed categories.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10235694809",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests cave rooms; no site text to confirm",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Whisper cave house",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests cave rooms, and there is no website or site text to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11275762482",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests cave lodging; no site text to confirm",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cappadocia Ennar Cave",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a cave, and there is no website or site text to confirm the rooms are in a cave.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13319083591",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave mansion; not verified",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Eka Cave Mansion",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a cave, and the website fetch failed, so no site text is available.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1435208904",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests cave lodging; not verified",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cave Life",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a cave, and the website fetch failed, so no site text is available.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1867576929",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests cave house; not verified",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Monte Cappa Cave House",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a cave, and there is no website or site text, so the niche cannot be verified.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2145554387",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named hotel; no site text describes the rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Gedik Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and an OSM hotel tag suggest a cave hotel; there is no website or page text to confirm the rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2582557256",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named suites and resort; website could not be fetched",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "AkCave Suites & Resort",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and OSM hotel tag only; the website fetch failed, so the cave rooms are unverified.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2923441089",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named hotel; website field holds an email address and no page could be fetched",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "View Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and OSM hotel tag suggest a cave hotel; no official page text was available.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2959126880",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named hostel; no site text available",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kamelya Cave Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and wikidata hostel description only; no website exists in the evidence to confirm cave rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2962837634",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named hotel; no site text available",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Maccan Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and wikidata hotel description only; no website exists in the evidence to confirm cave rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/316644693",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named guest house; no site text available",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Panoramic Cave",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and OSM guest_house tag only; no website or page text to confirm cave rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/316697720",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named guest house; no site text available",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Aydınlı Cave",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and OSM guest_house tag only; no website or page text to confirm cave rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3541478940",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named guest house in Avanos; no site text available",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Saklı Cave House",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and OSM guest_house tag only; no website or page text to confirm cave rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3579299855",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named suites in Göreme; no site text available",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Vezır Cave Suıtes",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and wikidata hotel description only; no website exists in the evidence to confirm cave rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/368291592",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave-named guest house in Göreme; no site text available",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Local Cave House",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name and OSM guest_house tag only; no website or page text to confirm cave rooms.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/368291615",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Village Cave",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests caves; no website or page text exists, and the Wikidata line just says hotel in Göreme.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/368291659",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Traveller's Cave",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests caves; no website or page text exists, and the Wikidata line just says hotel in Göreme.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/368291883",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Dervish Cave",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests caves; no website or page text exists, and the Wikidata line just says hotel in Göreme.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/370134843",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Village Cave",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests caves; no website or page text exists, and the Wikidata line just says hotel in Çavuşin.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4402558995",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Artemis Cave Suites",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests caves; no website or page text exists, and the Wikidata line just says hotel in Göreme.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4484099905",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cave Life Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website fetch failed and no page text exists; only the name suggests a cave hotel.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/474441601",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Stone House Cave",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests caves; no website or page text exists, and the Wikidata line just says hotel in Göreme.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5395462005",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Dedeli Konak Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests caves; no website or page text exists, and the Wikidata line just says hotel in Turkey.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5935508685",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave boutique hotel; no site text available",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Kayadibi Cave Butik Otel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website fetch failed, so the cave niche rests on the OSM name alone and is unverified.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6980228526",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text available",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cronos Cappadocia Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website fetch failed, so the cave niche rests on the name alone.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7006449207",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests cave suites; no site or description text available",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Jacobs Cave Suİtes",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "No website and no page text; the Wikidata line only says hotel in Çavuşin, so the cave niche rests on the name alone.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7006449258",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text available",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "My Story Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website fetch failed, so the cave niche rests on the name alone.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/795932345",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave guesthouse; no site text available",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Divan Cave House",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "No website; the cave niche rests on the name alone.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9091216822",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text to confirm",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cappadocia Inn Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests cave rooms; there is no website or page text, so it needs manual checking.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9422782731",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hostel in Göreme; no site text to confirm",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Homestay Cave Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the hostel name suggests a cave niche and there is no page text, so the cave category is unconfirmed.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9796051989",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests cave suites in Ortahisar; no site text to confirm",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Elika Cave Suites Cappadocia, Curio Collection by Hilton",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests cave suites; the official website fetch returned HTTP 403, so no page text was checked.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9796097940",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel in Ortahisar; no site text to confirm",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Fosil Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests cave rooms; there is no website or page text, so it needs manual checking.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400016",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name says Cave Hotel, but no site or description confirms rooms in caves",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Ürgüp Inn Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only a Wikidata entry (a 2-star hotel in Ürgüp) and the name exist with no site text, so the cave niche is unverified.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400020",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name says Cave Hotel, but no site or description confirms rooms in caves",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Melekler Evi Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only a Wikidata entry (a hotel in Turkey) and the name exist with no site text, so the cave niche is unverified.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400059",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Safran Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400142",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Caravanserai Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400143",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Guven Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400151",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Aydinli Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400156",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Terra Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400157",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hidden Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400158",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Erenbey Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400199",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Mithra Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400271",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hezen Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400277",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Takaev Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111400357",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Perimasali Cave Hotel - Cappadocia",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856297",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "The Village Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856305",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Dedeli Konak Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata gives only a generic hotel in Turkey, with no site text, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856313",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Cappadocia Abras Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856484",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Alia Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856490",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Cappadocia Inn Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856491",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Cave hotel per name only; carved or cave rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Blue Moon Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name says Cave Hotel and Wikidata lists it as a hotel, but no site text or other evidence confirms cave rooms, so it is name_only at low confidence.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856493",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Nessa Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856603",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "View Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856609",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified; the word Castle in the name does not support castle-hotels, and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856611",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Mia Cappadocia Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856719",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Panoramic Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856723",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Harman Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856724",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Maccan Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856725",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Emit Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856726",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Gedik Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856728",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Tekkaya Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856731",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Turquaz Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Göreme are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856854",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ortahisar Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Ortahisar are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856855",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Mahzen Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Ortahisar are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856856",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Luna Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Ortahisar are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856858",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Fosil Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Ortahisar are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856862",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Anatelein Boutique Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Üçhisar are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856864",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no page or description evidence of cave rooms",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "La Casa Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and a Wikidata line describing a hotel in Üçhisar are available, with no website or page text, so the cave feature is unverified and there is no category quote.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111856869",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hermes Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111857022",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Caldera Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111857030",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Helios Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111857032",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Seraphim Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111857185",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Tafoni Houses Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111997846",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Urgup Evi Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111997852",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Royal Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111997853",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Sandik Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111998061",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Olivia Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111998326",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Aza Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111998448",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Acer Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111998530",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Saddle Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111998657",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Atillas Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q111998662",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no site text describes cave rooms",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Dilek Tepesi Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name says cave; Wikidata calls it a hotel but no site or page text is available to confirm the niche.",
+  "verdict": "no_evidence",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/248633871",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Restored 17th-century tower house named Dalcross Castle; no stay details in the evidence",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Dalcross Castle",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name, OSM tags (guest_house, castle) and a Wikipedia summary of a tower house exist, and the website text is just the title, so a castle stay is unverified.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/550888946",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Scottish castle wedding venue with 26 bedrooms in the castle, offered mainly to wedding parties",
+  "category_quote": "Our Classic Rooms are located throughout the castle and our modern extension",
+  "confidence": 0.55,
+  "red_flags": [
+   "event_venue_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Auchen Castle",
+  "property_type": "other",
+  "address": "Beattock, near Moffat, Dumfriesshire DG10 9SH",
+  "room_count": {
+   "value": 26,
+   "quote": "Our collection of 26 individually styled en-suite boutique bedrooms includes four elegant bridal suites"
+  },
+  "amenities": [
+   {
+    "text": "Luxury amenities included for wedding accommodation",
+    "quote": "All wedding accommodation at Auchen Castle includes luxurious amenities such as:"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Roll-top baths with views of the gardens and private lake",
+    "quote": "uninterrupted views across our Italianate gardens and private lake"
+   },
+   {
+    "text": "Four-poster luxury suites",
+    "quote": "Each suite features a grand four-poster bed, elegant lounge areas and enchanting views across the castle gardens and private lake"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Hidden in the Moffat hills",
+   "quote": "Hidden away in the Moffat hills, in the heart of Rabbie Burns country"
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "wedding parties",
+   "elopements"
+  ],
+  "reason": "A castle wedding venue with 26 rooms, but the site says it is not a hotel and the rooms are for wedding guests, so lodging status is uncertain.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/316644690",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Boutique hotel with all rooms carved from volcanic tufa above Göreme",
+  "category_quote": "All eleven rooms are carved from volcanic stone",
+  "confidence": 0.85,
+  "red_flags": [
+   "listing_site"
+  ],
+  "other_niche_type": null,
+  "official_name": "Asteria Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 11,
+   "quote": "eleven rooms hewn from volcanic tufa in the hillside above Göreme"
+  },
+  "amenities": [
+   {
+    "text": "Breakfast included",
+    "quote": "Breakfast is included and consistently praised"
+   },
+   {
+    "text": "Coffee bar, lounge and business center",
+    "quote": "Beyond the rooms and terraces, the hotel has a coffee bar, lounge, and business center"
+   },
+   {
+    "text": "Airport transfers and tours arranged at the hotel",
+    "quote": "Airport transfers, day tours, ATV excursions, horseback rides through the valleys, jeep safaris"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Balloon launches visible from the terraces at dawn",
+    "quote": "The balloon launches happen at dawn, and from Asteria s terraces the spectacle is visible without leaving the property."
+   },
+   {
+    "text": "Upper rooms with balconies over the Göreme valley",
+    "quote": "Upper rooms have private balconies or verandas with direct views over the Göreme valley"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Steep access road and several flights of steps",
+   "quote": "Getting there requires navigating a steep access road and, depending on your room, a climb up several flights of steps."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Third-party listing text (sharinghotels.com) describes all eleven rooms as cave rooms, so the whole property fits cave-hotels; the official site was not fetched.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4223703695",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Blue Valley Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The listed website returns unrelated content that does not describe a hotel, so only the name and OSM hotel tag support the guess.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6644635194",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel; no hotel website found",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "listing_site",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Garden Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Linked website is a HugeDomains page offering gardencave.com for sale, so the cave niche rests on the name alone.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1192587338",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "cave-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a cave hotel near Nevşehir; the website shows only its name",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Cappanar Cave Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests cave rooms; the website text is just the hotel name, so the niche is unconfirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10059337852",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Walk Bed & Breakfast",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": {
+   "value": 8,
+   "quote": "offers 8 bedrooms of character in a brilliant location"
+  },
+  "amenities": [
+   {
+    "text": "Free WiFi",
+    "quote": "Sleeps up to: 3 En suite Free Wifi"
+   },
+   {
+    "text": "Tea and coffee making facilities",
+    "quote": "Tea and coffee making facilities"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Built into the historic Stirling city walls",
+    "quote": "The guest house, built into the historic Stirling city walls, is a short walk from rail and bus stations"
+   },
+   {
+    "text": "Door at the start of the Back Walk",
+    "quote": "The door to the B&B is at the start of the Back Walk, Scotland s oldest maintained public walkway"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "A short walk from rail and bus stations",
+   "quote": "The guest house, built into the historic Stirling city walls, is a short walk from rail and bus stations"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The guest house is built into the city walls near Stirling Castle, not inside a castle, so no niche category fits.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10716672399",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Retreat",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Opposite Alnwick Castle, a short stroll from the town centre",
+    "quote": "directly opposite Alnwick Castle, and just a short stroll from the town centre"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle Retreat is a self-catering apartment opposite Alnwick Castle, not inside a castle, so no niche category fits.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12738772201",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Kilchrist Castle Cottages",
+  "property_type": "other",
+  "address": null,
+  "room_count": {
+   "value": 4,
+   "quote": "We offer a choice of four cosy cottages, each with their own unique charm:"
+  },
+  "amenities": [
+   {
+    "text": "Fully fitted kitchen or kitchenette, toilet and shower rooms",
+    "quote": "fully fitted kitchen or kitchenette, toilet and shower rooms and smart TV’s"
+   },
+   {
+    "text": "Free WiFi",
+    "quote": "We also offer free WiFi"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Golf courses and whisky distilleries nearby",
+    "quote": "With three spectacular golf courses and two world famous whisky distilleries on the doorstep"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Drive from Glasgow via the A82",
+   "quote": "Drive to Glasgow, then over the Erskine bridge and on to the A82."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Kilchrist Castle is a nearby landmark rather than the lodging, and the cottages are ordinary self-catering, so no niche category fits.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1653502970",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle House",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 24,
+   "quote": "The hotel has 24 individually designed, ensuite bedrooms, 8 of which are in a nearby Townhouse, Number 25."
+  },
+  "amenities": [
+   {
+    "text": "On-site restaurant and bar",
+    "quote": "Our Waterside Restaurant & Bar is a relaxed, light and airy space with brasserie-style menus."
+   },
+   {
+    "text": "Full English breakfast included",
+    "quote": "And, of course, full English Breakfast is included."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Two-minute walk from Hereford Cathedral",
+    "quote": "two-minutes' walk from the magnificent Hereford Cathedral"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": {
+   "text": "11am",
+   "quote": "Guest check out time is 11am"
+  },
+  "access": {
+   "text": "Two-minute walk from Hereford Cathedral",
+   "quote": "two-minutes' walk from the magnificent Hereford Cathedral"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle House is a town hotel near the old castle moat, and its castle-named rooms make the castle link theme only.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1789140300",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Caravan and lodge park built around an old baronial-style castle; no castle stays described",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Cary Holiday Park",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Games room with pool tables",
+    "quote": "Games room with pool tables, video games, and comfortable seating areas"
+   },
+   {
+    "text": "Outdoor heated paddling pool",
+    "quote": "Includes children s heated paddling pool."
+   },
+   {
+    "text": "Laird's Inn restaurant and bar",
+    "quote": "Serving delicious meals using, and alcoholic and non-alcoholic beverages."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle View Cafe on site",
+    "quote": "come for a coffee and snack at Castle view Cafe"
+   }
+  ],
+  "season": {
+   "text": "Seasonal lodges and all-season holiday homes",
+   "quote": "We also offer a range of seasonal clad lodges and winterised all season holiday homes."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "On the edge of Creetown, well signposted from Stranraer or Dumfries",
+   "quote": "The village of Creetown is well signposted coming from Stranraer or Dumfries."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families"
+  ],
+  "reason": "Holiday park with caravans and lodges around an old castle; the castle is a backdrop, not a sleeping place, so no niche category fits.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2179300979",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Park Guest House",
+  "property_type": "B&B",
+  "address": "75 Gilmore Place, Edinburgh, Lothian, EH3 9NU",
+  "room_count": {
+   "value": 7,
+   "quote": "At Castle Park we have seven guest rooms."
+  },
+  "amenities": [
+   {
+    "text": "Breakfast included when booking through the website",
+    "quote": "When you book through our website, breakfast is included during your stay"
+   },
+   {
+    "text": "En-suite bathroom in the double room",
+    "quote": "The room has a double bed (135cm wide) and en-suite bathroom."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Victorian townhouse with contemporary styling",
+    "quote": "Castle Park Guest House is a contemporary take on a traditional Edinburgh Victorian townhouse."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Bus 10 or 27 from the city centre to the door",
+   "quote": "you can take a number 10 or 27 bus (going towards Tollcross) right to our door from the city centre"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ordinary Edinburgh bed and breakfast; the castle name has no castle building or castle-based stay on the site, so it does not fit castle-hotels.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2765636016",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "listing_site"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Dunster Castle Hotel",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The linked website now shows only online casino reviews, with no hotel content, so lodging and any castle feature cannot be confirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/331357460",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel Aberystwyth",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "The Castle Hotel offers 9, individually styled rooms finished to the highest standard."
+  },
+  "amenities": [
+   {
+    "text": "Ensuite walk-in showers, LCD TV and free wifi",
+    "quote": "Each room is ensuite with walk in showers, LCD television and free wifi"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Restored hotel with sea-view rooms",
+    "quote": "The Castle Hotel, recently restored, provides a contemporary and stylish experience offering a range of rooms from Premium to De-luxe with Sea Views."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Walking distance to town centre, train and bus station",
+   "quote": "The Castle Hotel is within walking distance of the town centre and the train and bus station."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle is only in the name; the site describes a hotel above a bar near the castle grounds, not a stay inside a castle, so it does not fit castle-hotels.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4456550176",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Edinburgh Castle Apartments & Suites",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Kitchenette",
+    "quote": "Kitchenette with combination microwave, fridge, kettle & toaster"
+   },
+   {
+    "text": "Washer and dryer on request",
+    "quote": "Washer / dryer are avaible on request"
+   },
+   {
+    "text": "Breakfast with a 20% discount",
+    "quote": "Breakfast is available with 20% discount off the menu price"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Serviced apartments in Edinburgh city centre",
+    "quote": "Edinburgh Castle Apartments & Suites offers a collection of luxury serviced apartments in"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 400 meters from Edinburgh Castle and the Royal Mile",
+   "quote": "Our apartments are 400 meters from Edinburgh Castle and the Royal Mile"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Serviced apartments in central Edinburgh; the name refers to the nearby Edinburgh Castle, so it is not a castle stay.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/628025728",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Green Hotel",
+  "property_type": "hotel",
+  "address": "Castle Green Lane, Kendal, LA9 6RG, United Kingdom",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free car parking when booking direct",
+    "quote": "When booking direct, car parking is complimentary!"
+   },
+   {
+    "text": "Complimentary Wi-Fi",
+    "quote": "Complimentary Wi-Fi Stay connected with free internet access"
+   },
+   {
+    "text": "Spa (treatments at extra cost)",
+    "quote": "Green Rooms Spa treatments are available at an additional cost"
+   },
+   {
+    "text": "Gym access",
+    "quote": "All our guests enjoy complimentary use of Pulse, Health & Fitness too"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "14 acres of gardens and woodland",
+    "quote": "Set in 14 acres of natural gardens and woodlands yet near to both the Lake District and Yorkshire Dales."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ordinary 4-star Kendal hotel; castle appears only as a view of Kendal Castle and in the name, so it is not a castle hotel.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/639106651",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Rock Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Homepage returned only page styling with no readable text, and the name alone does not show castle rooms.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6773226383",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Gatwick Castle Bed and Breakfast",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Car park on premises",
+    "quote": "Daily/holiday car park on our premises for 5 per night"
+   },
+   {
+    "text": "Free WiFi",
+    "quote": "Offering FREE unlimited WiFi to all the customers"
+   },
+   {
+    "text": "Late checkout at no extra cost",
+    "quote": "Late check out is available at NO extra cost"
+   },
+   {
+    "text": "Airport pick-up and drop-off (extra charge)",
+    "quote": "Gatwick airport pick up & drop services (at additional charge)"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Short walk to Horley train station",
+    "quote": "Just 5 minutes' walk from Horley train station"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 8 minutes' drive from Gatwick airport",
+   "quote": "Just 8 minutes' drive from Gatwick airport"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "airport stays"
+  ],
+  "reason": "Ordinary bed and breakfast near Gatwick airport; castle appears only in the name and no castle building is described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7120195030",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Castle Guest House",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site is an unfinished placeholder with no real content, and the name alone does not show castle rooms.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9002151781",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle House",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Off-road parking",
+    "quote": "5 * Gold : Castle House with ample off road parking."
+   },
+   {
+    "text": "Garden balcony breakfast",
+    "quote": "The garden balcony offers a special place to take breakfast outside"
+   },
+   {
+    "text": "Ensuite bathrooms with powerful showers",
+    "quote": "to include ensuite bathrooms with powerful showers, under floor heating and floor lighting"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private access to the ancient town walls",
+    "quote": "At the bottom of the garden is access to the ancient town walls"
+   },
+   {
+    "text": "Leicester's Church in the grounds",
+    "quote": "Within our grounds are Leicester's Church, the unfinished Cathedral built by Robert Dudley"
+   },
+   {
+    "text": "Two acres of landscaped gardens",
+    "quote": "There are 2 acres of landscaped gardens, with lawns, shrubs, fish pond, heather beds and croquet lawn."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 10 miles off the A55 at St Asaph",
+   "quote": "Denbigh 10 miles off the A55 at St. Asaph."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Listed B&B beside Denbigh Castle; the castle name is the only link and guests do not sleep in a castle, so castle-hotels does not fit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1125717781",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "62 Castle Street Hotel",
+  "property_type": "hotel",
+  "address": "62 Castle Street, Liverpool L2 7LQ",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "1 Gb internet in all rooms",
+    "quote": "1 Gb Internet in all rooms, with individual servers and routers"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Grade II listed former bank building",
+    "quote": "62 Castle Street is a Grade II listed building located on the west side of Castle Street, Liverpool."
+   },
+   {
+    "text": "Domed former banking hall",
+    "quote": "features a domed banking hall with paired corinthian columns"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The name refers to the street, and the Grade II listed former bank is a standard boutique city hotel, so no niche category fits.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/144044047",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel Windsor",
+  "property_type": "hotel",
+  "address": "Bachelors Acre, Windsor (postcode SL4 1ER)",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Two EV charging points",
+    "quote": "parking is £30 per night and we have two EV charging points"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Two train stations nearby: Windsor & Eton Central and Windsor Riverside",
+   "quote": "Two train stations are nearby: Windsor & Eton Central and Windsor Riverside."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The hotel sits opposite Windsor Castle but is not inside a castle; the name is the only castle link, so castle-hotels does not fit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/151706583",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Some rooms sit astride the medieval city wall in an 1730s historic building",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle House Hotel",
+  "property_type": "hotel",
+  "address": "28 Castle Street, Canterbury, Kent. CT1 2PT",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free on-site parking",
+    "quote": "The hotel is one of the few in Canterbury with free off road parking."
+   },
+   {
+    "text": "Continental breakfast",
+    "quote": "We offer a continental breakfast consisting of a variety of pastries, cheeses, meats and fruits"
+   },
+   {
+    "text": "Lounge bar",
+    "quote": "Relax in our cosy lounge bar after a busy day site seeing around Canterbury City."
+   },
+   {
+    "text": "Pretty walled garden",
+    "quote": "it has a pretty walled garden, making it an ideal city escape"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms astride the medieval city wall",
+    "quote": "Eighteenth Century rooms, astride the Cities medieval wall"
+   },
+   {
+    "text": "Part of the Norman city walls and Roman gate in the building",
+    "quote": "Built in the 1730s yet incorporating part of the Norman city walls, the Roman Worthgate and the only remaining section of the original city moat"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Few minutes' walk from the centre; Canterbury West station close by",
+   "quote": "Just a few minutes walk from the main city, Cathedral and a wealth of bars and restaurants, with Canterbury West Train Station close by"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Not a castle: the name is the only castle link and the hotel sits opposite Canterbury's Norman Castle; rooms astride the city wall are a possible niche that needs a human check.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/164369885",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Court Hotel & Pub",
+  "property_type": "hotel",
+  "address": "Castle Street, Beaumaris, LL58 8DA",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Ensuite bedrooms",
+    "quote": "Discover a warm and inviting atmosphere in our carefully appointed ensuite rooms."
+   },
+   {
+    "text": "Continental breakfast included",
+    "quote": "All bookings include a delicious continental breakfast"
+   },
+   {
+    "text": "Free house pub",
+    "quote": "After a day of exploring, step into our warm and inviting free house pub"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Next to Beaumaris Castle",
+    "quote": "Conveniently located right next to historic Beaumaris Castle"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "No lift; ample public parking to the rear",
+   "quote": "doesn't have a lift or private parking but ample public parking is available to the rear of the hotel"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A hotel and pub next to Beaumaris Castle; the castle is nearby, not a place guests stay in, so castle-hotels does not fit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/204661302",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "private_residence"
+  ],
+  "other_niche_type": null,
+  "official_name": "Balfour Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site says Balfour Castle is a private house and offers no stay, so it is not lodging, despite the OSM hotel tag.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/367043985",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Glengarry Castle Hotel",
+  "property_type": "hotel",
+  "address": "Invergarry, Highlands, PH35 4HW",
+  "room_count": {
+   "value": 26,
+   "quote": "All of the 26 bedrooms are individually furnished, have private bathroom, tea and coffee making facilities."
+  },
+  "amenities": [
+   {
+    "text": "Free WiFi throughout the hotel",
+    "quote": "There is a WiFi network throughout the hotel giving free internet access"
+   },
+   {
+    "text": "Afternoon teas (reservation required)",
+    "quote": "Good old-fashioned Scottish afternoon teas are served daily, a reservation is required."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Loch Oich setting in the Great Glen",
+    "quote": "with a jewel of a setting by Loch Oich, which lies between Loch Ness and Loch Lochy at the heart of the Great Glen in the Highlands of Scotland."
+   },
+   {
+    "text": "Ruin of Invergarry Castle in the grounds",
+    "quote": "The ruin of Invergarry Castle lies within the hotel grounds near our main entrance."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "On the A82, one mile south of the A87",
+   "quote": "Our entrance can be found on the A82, 1 mile South of the A87"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "An ordinary Victorian country house hotel whose name refers to a nearby castle ruin, so it does not fit a castle-hotel niche.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/466073757",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Castle & Ball Hotel",
+  "property_type": "hotel",
+  "address": "High Street, Marlborough, Wiltshire SN8 1LZ",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Dog friendly, except the restaurant",
+    "quote": "This hotel is dog friendly, apart from the restaurant."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "15th-century building with original oak timbers",
+    "quote": "Traditional elements of the hotel create a homely atmosphere, with original oak timbers which pre-date the Spanish Armada."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Last check-in 10pm",
+   "quote": "Last check in is 10pm."
+  },
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A Greene King pub with a few rooms; the castle appears only in the name and no castle building is described, so it does not fit castle-hotels.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/515330477",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Royal Castle",
+  "property_type": "hotel",
+  "address": "11 The Quay, Dartmouth, Devon TQ6 9PS",
+  "room_count": {
+   "value": 24,
+   "quote": "Home to 24 individually decorated en-suite bedrooms"
+  },
+  "amenities": [
+   {
+    "text": "Breakfast included in room rate",
+    "quote": "Breakfast is served every morning from 8am until 10am and is included as part of your room rate."
+   },
+   {
+    "text": "Dogs allowed in some rooms",
+    "quote": "We permit dogs in a select number of our rooms."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "River Dart harbour views",
+    "quote": "picture perfect harbour views and cobbled streets to explore right on your doorstep"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "From 3pm",
+   "quote": "Check-in is from 3pm. We ask guests to check out by 11am on the day of departure."
+  },
+  "check_out": {
+   "text": "By 11am",
+   "quote": "Check-in is from 3pm. We ask guests to check out by 11am on the day of departure."
+  },
+  "access": {
+   "text": "Bedrooms on upper floors, reached by stairs only",
+   "quote": "All our bedrooms are located on the 2nd, 3rd and 4th floor and can only be accessed by stairs, so may not be suitable for guests with reduced mobility."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A harbourside pub with 24 rooms; the castle appears only in the name and no castle building or castle stay is described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/560054083",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 19,
+   "quote": "The 19 bedrooms were fully refurbished to a high standard with a contemporary feel that is appealing to young and old alike."
+  },
+  "amenities": [
+   {
+    "text": "Free WiFi in rooms and lounge",
+    "quote": "Free WI-FI is available in all the rooms and on the ground floor in the Lounge, bar and dining area."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Town-centre location in Devizes",
+    "quote": "Set in the heart of the historic market town of Devizes"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Limited on-site parking",
+   "quote": "Unfortunately there is only limited on-site parking."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "An ordinary town-centre hotel with 19 refurbished rooms; the castle appears only in the name.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/786029856",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Castle Hotel",
+  "property_type": "hotel",
+  "address": "High Street, Conwy, North Wales, LL32 8DB",
+  "room_count": {
+   "value": 29,
+   "quote": "Its 29 stylish rooms offer contemporary amenities amidst period features."
+  },
+  "amenities": [
+   {
+    "text": "Wifi, hairdryer, LED TV and premium teas in rooms",
+    "quote": "All rooms offer high speed wifi, H2K of Harrogate botanicals, hairdryer, LED TV, Roberts radio, premium teas and coffee in room"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Steps from Conwy Castle, inside the medieval walls",
+    "quote": "Situated steps from Conwy Castle and the quay"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Check-in from 3pm",
+   "quote": "Check in Guaranteed from 03.00pm"
+  },
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A 19th-century coaching inn hotel near Conwy Castle that is not itself a castle, so the name is the only castle link.",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]
