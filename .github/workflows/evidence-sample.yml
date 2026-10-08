@@ -6,7 +6,7 @@ name: Evidence packs (sample)
 on:
   push:
     branches: ['claude/**']
-    paths: ['data/pipeline/sample-ids.json', 'pipeline/evidence.mjs']
+    paths: ['data/pipeline/sample-ids.json', 'pipeline/evidence.mjs', '.github/workflows/evidence-sample.yml']
   workflow_dispatch:
 
 permissions:
