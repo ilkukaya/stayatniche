@@ -9663,7 +9663,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -9691,7 +9691,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:06.121Z"
+  "reviewedAt": "2026-10-08T21:10:06.121Z",
+  "slug": "cappadocia-inans-cave-suites-turkey"
  },
  "osm:node/11275762482": {
   "id": "osm:node/11275762482",
@@ -10738,7 +10739,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -10766,7 +10767,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:11:29.335Z"
+  "reviewedAt": "2026-10-08T21:11:29.335Z",
+  "slug": "splendid-cave-hotel-turkey"
  },
  "osm:node/11417119455": {
   "id": "osm:node/11417119455",
@@ -12477,7 +12479,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -12505,7 +12507,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:45.287Z"
+  "reviewedAt": "2026-10-08T21:10:45.287Z",
+  "slug": "peristyle-cave-cappadocia-turkey"
  },
  "osm:node/11688908207": {
   "id": "osm:node/11688908207",
@@ -19277,7 +19280,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -19305,7 +19308,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:34.736Z"
+  "reviewedAt": "2026-10-08T21:10:34.736Z",
+  "slug": "signature-cave-cappadocia-turkey"
  },
  "osm:node/12345814919": {
   "id": "osm:node/12345814919",
@@ -24683,7 +24687,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -24711,7 +24715,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:11:26.731Z"
+  "reviewedAt": "2026-10-08T21:11:26.731Z",
+  "slug": "georgios-cave-cappadocia-turkey"
  },
  "osm:node/12959148841": {
   "id": "osm:node/12959148841",
@@ -32307,7 +32312,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -32332,7 +32337,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:14:20.692Z"
+  "reviewedAt": "2026-10-08T21:14:20.692Z",
+  "slug": "vintage-cave-house-turkey"
  },
  "osm:node/13592851039": {
   "id": "osm:node/13592851039",
@@ -36166,7 +36172,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -36194,7 +36200,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:11:48.738Z"
+  "reviewedAt": "2026-10-08T21:11:48.738Z",
+  "slug": "aldourie-castle-united-kingdom"
  },
  "osm:node/14006913574": {
   "id": "osm:node/14006913574",
@@ -46489,7 +46496,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Göreme, Nevşehir, central Turkey",
@@ -46519,7 +46526,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:42.669Z"
+  "reviewedAt": "2026-10-08T21:10:42.669Z",
+  "slug": "ottoman-cave-suites-turkey"
  },
  "osm:node/2001846641": {
   "id": "osm:node/2001846641",
@@ -61495,7 +61503,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -61523,7 +61531,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:11:19.909Z"
+  "reviewedAt": "2026-10-08T21:11:19.909Z",
+  "slug": "kelebek-special-cave-hotel-turkey"
  },
  "osm:node/316649587": {
   "id": "osm:node/316649587",
@@ -68989,7 +68998,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -69017,7 +69026,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:18.867Z"
+  "reviewedAt": "2026-10-08T21:10:18.867Z",
+  "slug": "melek-cave-hotel-turkey"
  },
  "osm:node/368291608": {
   "id": "osm:node/368291608",
@@ -69249,7 +69259,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -69277,7 +69287,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:11:22.952Z"
+  "reviewedAt": "2026-10-08T21:11:22.952Z",
+  "slug": "adelya-cave-hotel-turkey"
  },
  "osm:node/3694868089": {
   "id": "osm:node/3694868089",
@@ -70050,7 +70061,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -70078,7 +70089,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:37.150Z"
+  "reviewedAt": "2026-10-08T21:10:37.150Z",
+  "slug": "sultan-cave-suites-turkey"
  },
  "osm:node/3764847885": {
   "id": "osm:node/3764847885",
@@ -71146,7 +71158,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -71173,7 +71185,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:11:34.416Z"
+  "reviewedAt": "2026-10-08T21:11:34.416Z",
+  "slug": "urgup-inn-cave-hotel-turkey"
  },
  "osm:node/3887179427": {
   "id": "osm:node/3887179427",
@@ -88890,7 +88903,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -88918,7 +88931,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:40.567Z"
+  "reviewedAt": "2026-10-08T21:10:40.567Z",
+  "slug": "goreme-valley-cave-house-turkey"
  },
  "osm:node/4871261421": {
   "id": "osm:node/4871261421",
@@ -97311,7 +97325,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Ürgüp, Nevşehir, central Turkey",
@@ -97341,7 +97355,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:27.218Z"
+  "reviewedAt": "2026-10-08T21:10:27.218Z",
+  "slug": "utopia-cave-cappadocia-turkey"
  },
  "osm:node/5396339629": {
   "id": "osm:node/5396339629",
@@ -108182,7 +108197,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Göreme, Nevşehir, central Turkey",
@@ -108212,7 +108227,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:11:31.915Z"
+  "reviewedAt": "2026-10-08T21:11:31.915Z",
+  "slug": "lucky-cave-cappadocia-turkey"
  },
  "osm:node/6266698008": {
   "id": "osm:node/6266698008",
@@ -114139,7 +114155,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -114167,7 +114183,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:21.721Z"
+  "reviewedAt": "2026-10-08T21:10:21.721Z",
+  "slug": "seki-cave-hotel-turkey"
  },
  "osm:node/6813606295": {
   "id": "osm:node/6813606295",
@@ -122547,7 +122564,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -122575,7 +122592,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:30.425Z"
+  "reviewedAt": "2026-10-08T21:10:30.425Z",
+  "slug": "romantic-cave-hotel-turkey"
  },
  "osm:node/7986424631": {
   "id": "osm:node/7986424631",
@@ -125180,7 +125198,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -125208,7 +125226,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:15.354Z"
+  "reviewedAt": "2026-10-08T21:10:15.354Z",
+  "slug": "charming-cave-cappadocia-hotel-turkey"
  },
  "osm:node/8421621618": {
   "id": "osm:node/8421621618",
@@ -126431,7 +126450,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Ürgüp, Nevşehir, central Turkey",
@@ -126461,7 +126480,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "cave-hotels",
-  "reviewedAt": "2026-10-08T21:10:24.419Z"
+  "reviewedAt": "2026-10-08T21:10:24.419Z",
+  "slug": "taru-cave-suites-turkey"
  },
  "osm:node/8643328059": {
   "id": "osm:node/8643328059",
