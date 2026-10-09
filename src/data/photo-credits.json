@@ -862,5 +862,23 @@
     "wikidata": "https://www.wikidata.org/wiki/Q11812902",
     "matched": "Serengeti National Park",
     "distanceKm": 442.5
+  },
+  "aldourie-castle-united-kingdom": {
+    "author": "dave conner",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aldourie_Castle_-_on_the_shore_of_Loch_Ness_Inverness_Scotland.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q17571082",
+    "matched": "Aldourie Castle",
+    "distanceKm": 0
+  },
+  "dest:seychelles": {
+    "author": "Unknown",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Seychelles_praslin_anselazio.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q949218",
+    "matched": "Anse Lazio",
+    "distanceKm": 48.8
   }
 }
