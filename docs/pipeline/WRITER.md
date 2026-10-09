@@ -67,6 +67,18 @@ the setting, practical notes (how to get there, season) only if known. **Never i
 quotes, review counts, prices, room counts, dates or amenities. No superlatives you can't support.
 Do not copy sentences from the hotel website; paraphrase facts.
 
+**Write only what is known, and never talk about the process.** The reader must not see how the page
+was made. Never write:
+- what is missing or unconfirmed ("prices were not available to us", "we could not confirm", "is not
+  mentioned", "we have no verified information", "the site does not publish room sizes");
+- pipeline words: "batch", "this guide", "evidence", "the review", "our sources";
+- hedges that point at the source ("that is the hotel's own statement", "the hotel says" more than once
+  per page). State a hotel's claim once as its claim ("listed in the 2026 Michelin Guide, according to
+  the hotel") and move on.
+If a fact is unknown, leave the topic out. Prices live only in `priceRange` ("Rates vary"), never in the
+body. One closing line that tells readers what to ask the hotel is fine when it helps them choose
+(e.g. "ask for room 105, the carved cave room").
+
 ## 3b. Translations (required)
 The site is published in English, German, French, Spanish, Italian and Dutch. After the English pages
 are written, launch `hotel-translator` subagents (they run on Haiku), up to 5 slugs each and at most
