@@ -1,0 +1,4642 @@
+[
+ {
+  "id": "osm:node/10142163598",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "4-star Superior hotel and spa inside a medieval castle near Turin",
+  "category_quote": "Il Castello di Montaldo è un hotel 4 stelle Superior ricavato in un castello medievale",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Montaldo",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 39,
+   "quote": "propone 20 suite e 19 camere spaziose e luminose"
+  },
+  "amenities": [
+   {
+    "text": "Spa with 3,000 m2 of wellness space",
+    "quote": "Dalle camere si scende in accappatoio nella Spa: 3.000 m² di benessere premiati da Saunatur"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Spa and sauna rituals led by sauna masters",
+    "quote": "ogni sauna e ogni rituale è guidato dai nostri Maestri di Sauna"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 20 minutes from Turin; leave the car parked for the stay",
+   "quote": "si arriva in venti minuti dalla città e si lascia la macchina per tutto il soggiorno"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel explicitly housed in a medieval castle, so the castle niche applies to the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10844701213",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Scattered hotel (albergo diffuso) in a medieval castle and village on the Via Francigena",
+  "category_quote": "Viaggiando lungo la Via Francigena, si raggiunge il CASTELLO DI PROCENO, un albergo diffuso in dimora d epoca",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Proceno",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "che permette di raggiungere la piscina ed il Ristorante dell Estate senza uscire in strada"
+   },
+   {
+    "text": "Summer restaurant",
+    "quote": "che permette di raggiungere la piscina ed il Ristorante dell Estate senza uscire in strada"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms in a tower of the old city walls",
+    "quote": "Una scala interna collega i tre piani facenti un tempo parte di una delle torri dell antica cinta muraria"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "between 16:00 and 19:00",
+   "quote": "Check-in : fra le 16 e le 19"
+  },
+  "check_out": {
+   "text": "by 10:00",
+   "quote": "Check-out : entro le 10"
+  },
+  "access": {
+   "text": "On the Via Cassia, in a medieval village",
+   "quote": "in posizione dominante sulla Via Cassia, strada principale di comunicazione"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Albergo diffuso housed in a historic castle and village; rooms sit in castle towers and walls.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12726825679",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "38-room hotel inside the walls of a medieval castle on a hilltop in the Roero",
+  "category_quote": "All'interno delle mura del Castello, sulla sommit del borgo di Santa Vittoria d'Alba",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello di Santa Vittoria",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 38,
+   "quote": "Romantiche e raffinate, le 38 camere offrono un rifugio accogliente"
+  },
+  "amenities": [
+   {
+    "text": "Restaurant inside the castle walls",
+    "quote": "Situato all'interno delle suggestive mura del Castello e a pochi passi dall'Hotel, il Ristorante propone una cucina"
+   },
+   {
+    "text": "Bar open daily",
+    "quote": "presente un bar aperto tutti i giorni dalle 07:30 del mattino all'1:00 di notte"
+   },
+   {
+    "text": "Outdoor pool (summer only)",
+    "quote": "presente una piscina esterna, aperta solamente nel periodo estivo"
+   },
+   {
+    "text": "Meeting rooms and parking",
+    "quote": "Bar, sale meeting, piscina estiva e parcheggio completano l'offerta"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Views over the Langhe and Roero hills",
+    "quote": "con una vista mozzafiato sulle colline delle Langhe e del Roero"
+   },
+   {
+    "text": "Accessible rooms with walk-in showers",
+    "quote": "sono disponibili camere accessibili, senza scalini e con walk-in shower"
+   }
+  ],
+  "season": {
+   "text": "Outdoor pool open in summer",
+   "quote": "presente una piscina esterna, aperta solamente nel periodo estivo"
+  },
+  "check_in": {
+   "text": "from 14:00",
+   "quote": "Il check-in disponibile dalle ore 14:00 alle ore 00:00"
+  },
+  "check_out": {
+   "text": "between 07:00 and 10:00",
+   "quote": "il check-out disponibile tra le ore 07:00 e le ore 10:00"
+  },
+  "access": {
+   "text": "By car, motorbike or taxi, to the hilltop",
+   "quote": "possibile raggiungere l'Hotel in auto/moto o con un servizio taxi"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel located inside the walls of a castle on a hilltop, so the castle niche covers the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1716752252",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "3-star seafront hotel housed in an ancient castle building at Pegli, Genoa",
+  "category_quote": "permette di soggiornare in un antico Castello che ha mantenuto intatta l’atmosfera del luogo",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello Miramare",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free wireless internet in all rooms and common areas",
+    "quote": "Connessione wireless gratuita in tutte le camere e negli spazi comuni"
+   },
+   {
+    "text": "Bar, room service and restaurant partnerships",
+    "quote": "Bar, servizio in camera, sala colazione e convenzione con ristoranti in loco."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Direct access to the public beach",
+    "quote": "Accesso diretto alla spiaggia pubblica con possibilità di usufruire del campo di beach volley a pagamento"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Reachable by sea via the Navebus ferry, under 30 minutes to Porto Antico in Genoa",
+   "quote": "è raggiungibile anche via mare con il servizio Navebus, che collega, in meno di 30 minuti, Pegli con il Porto Antico"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official home page says guests stay in an ancient castle that kept its architectural structure, so the whole property is a castle stay.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/304739062",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 20,
+  "niche_feature": "Hotel in a medieval castle with bedrooms in two 18 m towers and the palas; no TV or minibar in rooms",
+  "category_quote": "Wohnen im Turm oder Palas eines echten Schlosses",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Schloss Hotel Wehrburg",
+  "property_type": "hotel",
+  "address": "Prissian-Tisens, South Tyrol, Italy",
+  "room_count": {
+   "value": 20,
+   "quote": "Unser 3-Sterne Hotel bietet Ihnen insgesamt 20 Gästezimmer, aufgeteilt auf 3 Einzelzimmer und 17 Doppelzimmer."
+  },
+  "amenities": [
+   {
+    "text": "Free Wi-Fi in rooms and courtyard",
+    "quote": "kostenloses WLAN in den Zimmern sowie im Burghof"
+   },
+   {
+    "text": "Infinity pool",
+    "quote": "Wer in seinem Urlaub gerne etwas Sport treibt, ist in unserem Infinity-Pool goldrichtig"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Infinity pool with view over the Adige valley",
+    "quote": "Der einmalige Blick über das gesamte Etschtal ist auch vom Schwimmbad aus"
+   },
+   {
+    "text": "No air conditioning, TV or minibar in rooms, by design",
+    "quote": "Auf unseren Zimmern gibt es keine Klimaanlage, keinen Fernseher und keine Minibar."
+   },
+   {
+    "text": "Medieval castle with original walls and towers",
+    "quote": "Das Gesamtbild der beiden Wohntürme mit der original erhaltenen mittelalterlichen Burganlage"
+   }
+  ],
+  "season": {
+   "text": "Open 2 April to 25 October 2026",
+   "quote": "Öffnungszeiten 2026: 2. April 2026 bis zum 25. Oktober 2026"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Hilltop location at 600 m in Prissian",
+   "quote": "Unser Schlosshotel liegt auf 600 m in Prissian am Tisner Mittelgebirge"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes a medieval castle converted into a hotel, with guest rooms in its towers and palas, so the whole property is a castle stay.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5224822746",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 45,
+  "niche_feature": "Hotel in a restored historic castle (national monument) overlooking the Sangro valley",
+  "category_quote": "Il Castello di Septe offre 45 camere, progettate nel rispetto dell’architettura storica",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Septe",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 45,
+   "quote": "Il Castello di Septe offre 45 camere, progettate nel rispetto dell’architettura storica"
+  },
+  "amenities": [
+   {
+    "text": "Restaurant",
+    "quote": "Una cucina che celebra i sapori dell'Abruzzo con creatività e passione"
+   },
+   {
+    "text": "Swimming pool",
+    "quote": "Il Castello di Septe dispone di una splendida piscina, perfetta per rinfrescarsi"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Restored castle declared a national monument",
+    "quote": "Restaurato con dedizione e dichiarato Monumento Nazionale dal Ministero dei Beni Culturali"
+   },
+   {
+    "text": "Overlooks the Sangro valley",
+    "quote": "Il Castello di Septe sorge su una collina che domina la vallata del Sangro"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The whole hotel is a historic castle with 45 rooms designed within its architecture; the site is live with current offers.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5732890869",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 12,
+  "niche_feature": "Baroque castle hotel with twelve historic rooms, restaurant, spa and formal gardens",
+  "category_quote": "Camere che accedono al cuore del Castello di Guarene",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Guarene",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 12,
+   "quote": "Dodici spazi di grande prestigio, ristrutturati"
+  },
+  "amenities": [
+   {
+    "text": "Spa and wellness centre",
+    "quote": "Il centro benessere del Castello di Guarene è tutto questo"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Tra sale eterne, c’è un menu che guarda al futuro"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Italian formal gardens designed in 1740",
+    "quote": "Progettati dal conte Carlo Giacinto Roero nel 1740"
+   },
+   {
+    "text": "Panoramic view over the UNESCO hills",
+    "quote": "Un panorama che abbraccia il Patrimonio Immateriale dell’Umanità"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The whole hotel is a historic baroque castle with twelve rooms, and the site is live with current booking options.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7135940646",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 3,
+  "niche_feature": "Three rooms in a 1300s guest house built within the medieval castle walls of Cremolino",
+  "category_quote": "Un rifugio esclusivo nelle mura del Castello di Cremolino",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Il Borgo del Castello",
+  "property_type": "guesthouse",
+  "address": "Via Amorina 16, 15010 Cremolino (AL)",
+  "room_count": {
+   "value": 3,
+   "quote": "Tre camere uniche, ognuna con la sua personalità e il suo fiore simbolo"
+  },
+  "amenities": [
+   {
+    "text": "Private bathroom and fast WiFi in every room",
+    "quote": "Tutte dotate di bagno privato, WiFi veloce e arredi shabby chic curati nei minimi dettagli"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panoramic view towards the Alps",
+    "quote": "Dalle nostre finestre lo sguardo corre libero fino alle Alpi, abbracciando le dolci colline del Monferrato"
+   },
+   {
+    "text": "Building dates from the 1300s within the castle walls",
+    "quote": "Incastonato nelle mura medievali del castello, un'architettura che racconta secoli di storia"
+   },
+   {
+    "text": "Camera Giglio with private balcony",
+    "quote": "La più spaziosa, con balcone privato sospeso sopra i tetti del borgo medievale"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A guest house built within the medieval walls of Cremolino castle, with three rooms; the site describes its rooms and booking directly.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/227065721",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 11,
+  "niche_feature": "Victorian gothic castle-style house converted into an 11-room guest hotel",
+  "category_quote": "Our castle accommodates a range of luxury facilities; 11 en- suite guest rooms with stunning views",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ty’r Graig Castle",
+  "property_type": "hotel",
+  "address": "Llanaber Rd, Barmouth, Gywnedd, LL42 1YN",
+  "room_count": {
+   "value": 11,
+   "quote": "with each of our 11 rooms individually decorated"
+  },
+  "amenities": [
+   {
+    "text": "Tea and coffee facilities",
+    "quote": "Each room comes with additional amenities, these include, Tea and Coffee Facilities, Hair Dryer, LCD Colour TV with Freeview, DVD Player."
+   },
+   {
+    "text": "Hair dryer",
+    "quote": "Each room comes with additional amenities, these include, Tea and Coffee Facilities, Hair Dryer, LCD Colour TV with Freeview, DVD Player."
+   },
+   {
+    "text": "LCD colour TV with Freeview",
+    "quote": "Each room comes with additional amenities, these include, Tea and Coffee Facilities, Hair Dryer, LCD Colour TV with Freeview, DVD Player."
+   },
+   {
+    "text": "DVD player",
+    "quote": "Each room comes with additional amenities, these include, Tea and Coffee Facilities, Hair Dryer, LCD Colour TV with Freeview, DVD Player."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Gothic-style house built in 1892 for a gunsmith",
+    "quote": "The building was completed in 1892 as a family home for WW Greener the famous Birmingham gunsmith in the gothic style"
+   },
+   {
+    "text": "Stands about 200ft above Barmouth over Cardigan Bay",
+    "quote": "It stands about 200ft above Barmouth, overlooking Cardigan Bay"
+   }
+  ],
+  "season": {
+   "text": "Suitable any time of year",
+   "quote": "It is the perfect retreat for a well deserved secluded break or enjoyable and romantic escapade any time of year."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "romantic breaks",
+   "secluded breaks"
+  ],
+  "reason": "The site repeatedly calls the building a castle and describes 11 guest rooms in it, a clear castle-hotel case.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/255060449",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 18,
+  "niche_feature": "Medieval castle in Umbria converted into an 18-room historic residence",
+  "category_quote": "Diciotto camere dotate di tutti i comfort, in un antico castello trasformato in Residenza d’Epoca",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Monterone",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 18,
+   "quote": "Diciotto camere dotate di tutti i comfort, in un antico castello trasformato in Residenza d’Epoca"
+  },
+  "amenities": [
+   {
+    "text": "Private bathroom, wi-fi and air conditioning",
+    "quote": "Tutte le camere sono dotate di bagno privato, wi-fi e aria condizionata."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Each room tells a unique story",
+    "quote": "Ogni camera racconta una storia unica e irripetibile"
+   },
+   {
+    "text": "Romantic room with original frescoes and panoramic windows",
+    "quote": "con affreschi originali e finestre panoramiche su tutti i lati della stanza"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 3 km from the historic centre of Perugia",
+   "quote": "Il Castello di Monterone si trova immerso nel verde, a tre chilometri dal centro storico di Perugia."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site is in Italian and states the 18 rooms are inside a medieval castle, a clear castle-hotel case.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/279054417",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 18,
+  "niche_feature": "Historic castle in Sicily converted into 18 rooms and suites, some with sea views",
+  "category_quote": "Il castello coniuga i valori del passato con una riqualificazione contemporanea ed offre diciotto eleganti camere e suites",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello Tafuri Charming Suites",
+  "property_type": "hotel",
+  "address": "Via Tonnara 1, Portopalo di Capo Passero (SR), Sicily, Italy",
+  "room_count": {
+   "value": 18,
+   "quote": "offre diciotto eleganti camere e suites"
+  },
+  "amenities": [
+   {
+    "text": "Panoramic pool with sun terrace",
+    "quote": "Una piscina panoramica con solarium, un esclusivo e panoramico ristorante, lounge bar ed una splendida terrazza attrezzata"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Una piscina panoramica con solarium, un esclusivo e panoramico ristorante, lounge bar ed una splendida terrazza attrezzata"
+   },
+   {
+    "text": "Lounge bar",
+    "quote": "Una piscina panoramica con solarium, un esclusivo e panoramico ristorante, lounge bar ed una splendida terrazza attrezzata"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Suites overlooking a tonnara and the sea",
+    "quote": "si affaccia sulla tonnara di Bruno di Belmonte e sul mare turchese sottostante"
+   },
+   {
+    "text": "Suite balconies between the castle battlements",
+    "quote": "Ha due deliziosi balconcini tra i merli del castello."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site is in Italian and says the castle offers 18 rooms and suites; online booking is said to be temporarily unavailable, which is not a closure.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/838781542",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Six suites and rooms spread over the floors of a historic castle near Otranto in Salento",
+  "category_quote": "Cinque suite esclusive e una camera matrimoniale arredate con cura ed eleganza vi accoglieranno nei diversi piani del Castello.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Casamassella",
+  "property_type": "hotel",
+  "address": "Piazza V. Emanuele II, 1, 73020 Casamassella (LE), Italy",
+  "room_count": {
+   "value": 6,
+   "quote": "Cinque suite esclusive e una camera matrimoniale arredate con cura ed eleganza"
+  },
+  "amenities": [
+   {
+    "text": "Pool area reserved for guests",
+    "quote": "offre una splendida area piscina riservata agli ospiti"
+   },
+   {
+    "text": "Wi-Fi in outdoor areas",
+    "quote": "Tutte le aree esterne offrono connessione wi-fi"
+   },
+   {
+    "text": "Private outdoor space in each room",
+    "quote": "Ogni camera dispone di spazi esterni privati."
+   },
+   {
+    "text": "Breakfast",
+    "quote": "le giornate iniziano con le meravigliose e ricche colazioni"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Near Otranto on the Salento coast",
+    "quote": "Vicino ad Otranto, è il luogo ideale per una esperienza unica di Relax"
+   },
+   {
+    "text": "Suites have no TV or telephone, for peace and quiet",
+    "quote": "le suite non sono dotate di televisore né di telefono"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes suites inside the castle building, so the stay itself is the castle niche, and the site is live with booking prompts.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/94721437",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Nine rooms and suites inside a historic royal castle in Piedmont",
+  "category_quote": "Il Castello di Oviglio ospita oggi una realtà ricettiva di grande carattere, preservando gli ambienti e gli spazi originari.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Oviglio",
+  "property_type": "hotel",
+  "address": "Via XXIV Maggio, 1, 15026 Oviglio (AL), Italy",
+  "room_count": {
+   "value": 9,
+   "quote": "Il Castello dispone di 4 suites, 2 junior suites e 3 doppie comfort"
+  },
+  "amenities": [
+   {
+    "text": "Whirlpool bathtubs in the suites",
+    "quote": "bagni con vasca idromassaggio e doccia separate"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle once owned by a Savoy-era queen and named Castello Reale",
+    "quote": "assunse il nome, tuttora spettantegli, di Castello Reale"
+   },
+   {
+    "text": "Events and weddings for up to 210 people",
+    "quote": "consentono di realizzare eventi fino a 210 persone"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes nine rooms and suites in the castle building, and the site shows current booking options and copyright to 2025.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10671281872",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Organic farm stay in a historic stone hamlet with an ancient tower, named Castello",
+  "category_quote": "Le sette case in pietra, l antica torre e la chiesetta, ancora consacrata,",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello della Pieve",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Swimming pool with panoramic view, for guests only",
+    "quote": "La piscina, che si affaccia su una suggestiva piramide naturale, è riservata agli ospiti dell agriturismo"
+   },
+   {
+    "text": "Restaurant open for dinners and events by booking",
+    "quote": "Il ristorantino del nostro agriturismo propone CENE, APERITIVI, DEGUSTAZIONI ED EVENTI SPECIALI su prenotazione"
+   },
+   {
+    "text": "Home-made breakfast",
+    "quote": "Colazione home-made dolce e salata"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms dedicated to the Sommo Poeta (Dante)",
+    "quote": "al Sommo Poeta sono dedicate le camere ed il ristorantino"
+   },
+   {
+    "text": "Certified organic cultivation",
+    "quote": "dell Agriturismo, con coltivazione Biologica certificata"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "3 km from Mercatello sul Metauro, Marche",
+   "quote": "a tre chilometri da Mercatello sul Metauro, comune riconosciuto tra i borghi più belli d Italia"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Agriturismo named Castello in a fortified stone hamlet with a tower; the castle link is name plus tower, so confidence is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12345814919",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 6,
+  "niche_feature": "Six hotel rooms in the historic castle wing; other rooms are in adjacent annex buildings",
+  "category_quote": "Dalle camere del Castello, alle quali si arriva solo tramite le antiche scale",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Real Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Historic interiors kept as they were",
+    "quote": "Nel rispetto della storicità di questa dimora si è voluto negli anni mantenere, curare e preservare l’autenticità dei luoghi"
+   },
+   {
+    "text": "Views over the Langhe",
+    "quote": "si possono ammirare lo stupendo paesaggio delle Langhe"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel in Verduno with rooms in the historic castle wing; the other rooms are in annexes, so only some units fit.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13905061328",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Organic agriturismo with rooms in a historic castle in Chianti Classico",
+  "category_quote": "Il Castello sarà a vostra disposizione con le sue camere",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello la Leccia",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": {
+   "value": 12,
+   "quote": "Abbiamo creato all’interno della nostra azienda agricola biologica 12 camere di tre tipologie"
+  },
+  "amenities": [
+   {
+    "text": "Spa",
+    "quote": "Il Castello sarà a vostra disposizione con le sue camere, i saloni, il ristorante, la piscina, la SPA e gli altri servizi disponibili"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Il Castello sarà a vostra disposizione con le sue camere, i saloni, il ristorante, la piscina, la SPA e gli altri servizi disponibili"
+   },
+   {
+    "text": "Panoramic swimming pool",
+    "quote": "La piscina panoramica, aperta da maggio a settembre, si affaccia su vigneti ed oliveti"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Organic estate with its own olives and wine",
+    "quote": "Le nostre olive, tutte provenienti dalle olivete biologiche intorno al castello"
+   },
+   {
+    "text": "Charming agriturismo in Chianti Classico",
+    "quote": "Agriturismo di charme nel Chianti Classico"
+   }
+  ],
+  "season": {
+   "text": "Pool open May to September",
+   "quote": "La piscina panoramica, aperta da maggio a settembre, si affaccia su vigneti ed oliveti"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Castellina in Chianti, Siena province",
+   "quote": "Loc. La Leccia 53011 Castellina in Chianti (SI)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Agriturismo whose castle houses rooms, pool and restaurant; the 12 rooms are described as part of the estate, so confidence is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2450364158",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 11,
+  "niche_feature": "11-room hotel in a 17th-century historic palace in the centre of Bassano del Grappa",
+  "category_quote": "The building is a wonderful historical palace of 17th Century!",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Al Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 11,
+   "quote": "Our hotel is equipped with 11 rooms"
+  },
+  "amenities": [
+   {
+    "text": "Air conditioning, soundproofing, free Wi-Fi and safe deposit box in rooms",
+    "quote": "Room features: Air Conditioning, Soundproofing, Free Wi-Fi, Wardrobe/Closet, Heating"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Bar described as a refined meeting point for brandy and wine",
+    "quote": "Its bar is a refined meeting point taste for brandy and wine typical venetian."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Rooms available from 14:00 on arrival day",
+   "quote": "Le camere dell Hotel sono disponibili a partire dalle ore 14.00 del giorno di arrivo"
+  },
+  "check_out": {
+   "text": "Rooms to be vacated by 11:00 on departure day",
+   "quote": "devono essere lasciate le stanze entro le ore 11.00 del giorno di partenza"
+  },
+  "access": {
+   "text": "Located in the historic centre of Bassano del Grappa",
+   "quote": "The Only Hotel in the Historical Center of Bassano del Grappa"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The hotel occupies a 17th-century palace, which fits the palace wording of the castle-hotel category; the name alone was not used, but the confidence is moderate because the palace is a town building.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2872987315",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "4-star superior hotel where some suites are inside the castle and others are in a residence building",
+  "category_quote": "Our castle suites combine historic charm with elegant comfort.",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Schloss Hotel Korb",
+  "property_type": "hotel",
+  "address": "Hocheppanerweg 5, 39057 Missian/Eppan (BZ), South Tyrol, Italy",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Outdoor and indoor pools open daily",
+    "quote": "The outdoor and indoor pool are open daily from 8:00 am to 8:00 pm"
+   },
+   {
+    "text": "Free gym for guests",
+    "quote": "Also, the Gym is for free"
+   },
+   {
+    "text": "Free tennis court for hotel guests",
+    "quote": "Yes, our tennis court is available to hotel guests for free."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Fairy-tale nights in the castle and the residence",
+    "quote": "Fairy-tale nights in the castle and the residence."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Check-in from 2:30 to 7:30 pm",
+   "quote": "Check-in is from 2:30 to 7:30 pm."
+  },
+  "check_out": {
+   "text": "Check-out by 11:00 am",
+   "quote": "We ask that you check out of your room by 11:00 am"
+  },
+  "access": {
+   "text": "Arrival by train: get to Bolzano station, then to the hotel",
+   "quote": "Get to the Bolzano train station"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site says rooms are in the castle or in the residence, and the castle suites are castle rooms, so only some units are niche.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6325051257",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Some of the 27 rooms are in an ancient manor building of the Castello complex; others are in a modern wellness wing",
+  "category_quote": "Lo Charme Hotel dispone di 27 camere, (Junior Suite o Doppie Superior), sia nell’antico maniero sia nella moderna ala",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Locanda al Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 27,
+   "quote": "Lo Charme Hotel dispone di 27 camere"
+  },
+  "amenities": [
+   {
+    "text": "Indoor pool, Kneipp circuit, sauna and hot tub spa",
+    "quote": "Il Centro benessere, oltre alla piscina con cromoterapia, offre un percorso Kneipp, area fitness, vasca idromassaggio"
+   },
+   {
+    "text": "Restaurant with panoramic view",
+    "quote": "Il raffinato ristorante con un panorama mozzafiato"
+   },
+   {
+    "text": "Meeting room for up to 100 people",
+    "quote": "Misura 180 metri quadrati e ha una capienza fino a 100 persone"
+   },
+   {
+    "text": "Accessible for guests with limited mobility",
+    "quote": "L'hotel, i servizi del ristorante e il wellness Resort sono accessibili agli ospiti non autosufficienti"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Quiet location a few minutes from Cividale centre",
+    "quote": "Tranquillo e rilassante a pochi minuti dal centro di Cividale del Friuli"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "A few minutes from Cividale del Friuli centre",
+   "quote": "Tranquillo e rilassante a pochi minuti dal centro di Cividale del Friuli"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Rooms are in the ancient manor of the castle complex and in a modern wellness wing, so only some units fit the castle niche; the site is live.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6504119641",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Apartments in a restored 17th-century hunting lodge called the Ciastel in Fai della Paganella",
+  "category_quote": "Living in a lovingly restored castle",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello Fai",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Fully equipped kitchen",
+    "quote": "Kitchen equipped with crockery and appliances"
+   },
+   {
+    "text": "Private garden",
+    "quote": "Private garden a plus as well as home automation in the house"
+   },
+   {
+    "text": "Extra cot and high chair for small children",
+    "quote": "For Residenza delle Contesse and Castello Fai we have an extra cot for children up to 3 years and a high chair"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "17th-century hunting lodge called the Ciastel",
+    "quote": "affectionately call the 17th century hunting lodge"
+   },
+   {
+    "text": "Historic property with modern comfort",
+    "quote": "Enjoy the flair of a historic property without renouncing modern comfort"
+   }
+  ],
+  "season": null,
+  "check_in": "from 15:00",
+  "check_out": "until 11:00",
+  "access": {
+   "text": "Reached by the Adige Valley motorway, exit Mezzocorona",
+   "quote": "The best way to get there is via the Adige Valley motorway, exit Mezzocorona, direction Mezzolombardo"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The stay is an apartment inside a restored castle-style hunting lodge; the site also lists Residenza delle Contesse and Torre del Baron, whose location in the castle is not stated.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8526235311",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Medieval fortified village (borgo) with a restored tower; suites and apartments are inside its ancient walls",
+  "category_quote": "Racchiuse tra le antiche mura, le abitazioni conservano l’impronta della vita contadina",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Gargonza",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Bar and restaurant",
+    "quote": "Abbiamo un Bar all’interno della Bottega di Gargonza ed un ristorante ubicato fuori le mura del borgo"
+   },
+   {
+    "text": "Gluten-free menu options",
+    "quote": "Il ristorante del Castello di Gargonza è attrezzato per menu senza glutine"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Wooded estate of 500 hectares (FAQ says 600)",
+    "quote": "È circondato da una proprietà boschiva di 500 ettari"
+   },
+   {
+    "text": "Marked walking trails tracked by GPS",
+    "quote": "Gargonza offre una rete di sentieri segnalati e tracciati su GPS"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 11 km from the Monte San Savino exit of the A1 motorway",
+   "quote": "Il Castello di Gargonza è a 11 km dall’uscita di Monte San Savino della A1 Milano -Napoli"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The whole fortified borgo is the castle, with rooms and apartments inside the medieval walls; the site is live. The estate size differs between the homepage (500 ha) and FAQ (600 ha).",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8797692654",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Guesthouse in a castle built in 1266 in the village of Panicaglia, Umbria",
+  "category_quote": "In het middeleeuwse dorpje Panicaglia ligt een uniek kasteel uit 1266",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Borgo Castello Panicaglia",
+  "property_type": "guesthouse",
+  "address": "Località Panicaglia, Nocera Umbra 06025, Italy",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Swimming pool and playground",
+    "quote": "Naast een zwembad en een speeltuin, worden er tijdens de zomervakantie diverse activiteiten"
+   },
+   {
+    "text": "Restaurant serving breakfast, lunch and dinner",
+    "quote": "We serveren ontbijt, lunch en diner"
+   },
+   {
+    "text": "Free Wi-Fi",
+    "quote": "Uitstekende wifi verbinding, overal in de borgo"
+   },
+   {
+    "text": "Cooking classes and wine tastings",
+    "quote": "deel te nemen aan kooklessen en wijnproeverijen"
+   },
+   {
+    "text": "Bike rental",
+    "quote": "Geniet al fietsend van de geuren, de rust en de stadjes"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "800 m altitude with views over the Umbrian mountains",
+    "quote": "Op 800 meter hoogte, met uitzicht over de Umbrische bergen, kun je hier heerlijk verblijven"
+   }
+  ],
+  "season": {
+   "text": "Pool open April to October",
+   "quote": "Het zwembad is geopend vanaf april t/m oktober"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 25 km from Assisi",
+   "quote": "op 25km afstand van de wereldberoemde stad Assisi"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "The site describes a castle from 1266 with guest rooms that have thick walls and beamed ceilings; the rooms are presented as part of the castle property.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/146749",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel inside a 14th-century castle",
+  "category_quote": "It is currently a hotel and sits on the banks of the Lumley Park Burn",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Lumley Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Grade I listed 14th-century castle",
+    "quote": "Lumley Castle is a 14th-century quadrangular castle at Chester-le-Street in the North of England"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia states the 14th-century castle is currently a hotel; the operator site returned 403, so there is no page evidence.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/18468216",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Hostel named after a Grade I listed Norman castle; sleeping inside is not confirmed in the evidence",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "YHA St Briavels Castle",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Huge Edwardian gatehouse",
+    "quote": "The castle is noted for its huge Edwardian gatehouse that guards the entrance"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "OSM tags it a hostel and Wikipedia describes the castle, but the site fetch failed and no evidence says guests sleep inside the castle.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1412584974",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [
+   "glamping"
+  ],
+  "niche_scope": "some_units",
+  "niche_unit_count": 1,
+  "niche_feature": "Barbican Gate stay in a 19th-century gatehouse above the castle wall; the Ocean View Pods are glamping pods on the castle estate",
+  "category_quote": "Step back in time with a stay in this stunning 19th-century gatehouse, perched above Glenarm’s castle wall.",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Glenarm Castle & Garden",
+  "property_type": "glamping",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Private fire pit",
+    "quote": "Every pod also comes with a private fire pit"
+   },
+   {
+    "text": "Wi-Fi and charging points",
+    "quote": "Standard amenities include Wi-Fi and charging points for phones and laptops"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Sea views across Glenarm Bay",
+    "quote": "every pod offers breathtaking views across Glenarm Bay"
+   },
+   {
+    "text": "Wood-fired hot tub in two pods",
+    "quote": "Two of our Ocean View Pods have an eco-friendly Wood Fired Hot Tub"
+   },
+   {
+    "text": "Private hillside spa",
+    "quote": "Elevate your stay with a visit to the Ocean View Retreat our private hillside spa overlooking the glen and coastline."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "from 3pm to 9pm",
+   "quote": "Check-in is from 3pm to 9pm, and c heck-out is by 10am."
+  },
+  "check_out": {
+   "text": "by 10am",
+   "quote": "Check-in is from 3pm to 9pm, and c heck-out is by 10am."
+  },
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The pods are glamping units, but the Barbican Gate gatehouse on the same estate is a castle building stay, so the castle category fits some units only.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1551601570",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Historic 1806 castle used as an exclusive stay, mainly for students of a language school",
+  "category_quote": "Enjoy a 2-night stay at our exclusive Burlington Bath Castle when you book a 4-week course.",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Burlington Bath Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Set in over four acres of private woodland",
+    "quote": "Set in over four acres of private woodland, the 1806-built castle offers a tranquil environment"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 10 minutes from the city of Bath",
+   "quote": "Students stay at Burlington Castle, our beautiful countryside residence just 10 minutes from the city of Bath"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The castle is a real stay, but it is offered as a perk of a language school course, so the business is a school with castle accommodation; confidence is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/232119717",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Historic 16th-century castle with OSM guest house tag; no rooms described in evidence",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Saddell Castle",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "OSM tags say guest house and castle, but the website returned 403 and no page text describes guest rooms, so the niche is unclear.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/254613618",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Historic castle with OSM guest house tag; no rooms described in evidence",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Erchless Castle",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "OSM tags say guest house and castle, but the website fetch failed and no page text is available, so the stay is unconfirmed.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/282679643",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "17th-century tower house castle with OSM guest house tag; no page text",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Barcaldine Castle",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "OSM tags say guest house and castle, but the website returned empty pages, so no rooms or stay are confirmed.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/60647947",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Historic castle operated as a conference centre with lodging",
+  "category_quote": "The castle and magnificent Scottish garden are now operated as a private conference centre with lodging.",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Myres Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia says the castle is run with lodging, but there is no website or page text, so it is unclear whether guests sleep inside the castle.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/72499436",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Hotel with sixteenth-century castle rooms plus garden cottage rooms",
+  "category_quote": "Star Castle Hotel boasts both traditional sixteenth century castle accommodation",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Star Castle Hotel",
+  "property_type": "hotel",
+  "address": "Garrison Hill, Hugh Town, St Mary's, Isles of Scilly",
+  "room_count": {
+   "value": 38,
+   "quote": "With 38 bedrooms, Star Castle Hotel boasts both traditional sixteenth century castle accommodation"
+  },
+  "amenities": [
+   {
+    "text": "Indoor heated swimming pool",
+    "quote": "an indoor heated swimming pool, complimentary golf and tennis and courtesy transport from the airport"
+   },
+   {
+    "text": "Complimentary golf and tennis",
+    "quote": "an indoor heated swimming pool, complimentary golf and tennis and courtesy transport from the airport"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Sea-view castle rooms with beamed ceilings",
+    "quote": "Larger rooms, full of character with beamed ceilings, two-poster beds and flawless sea views"
+   },
+   {
+    "text": "Guard rooms on the castle ramparts",
+    "quote": "Three Guard rooms individually located on the Ramparts surrounding the castle."
+   },
+   {
+    "text": "Fortress built in 1593",
+    "quote": "Star Castle was built in 1593 during the reign of Queen Elizabeth, for the defence of the Isles of Scilly."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Courtesy transport from the airport",
+   "quote": "complimentary golf and tennis and courtesy transport from the airport"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site says the 38-room hotel has castle rooms in a 1593 fortress alongside garden cottage rooms, so only some units are castle rooms; bookings are open.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/73689706",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Restored fortified 16th-century manor house let as a holiday rental",
+  "category_quote": "The building reopened as a holiday let in 2012 after extensive and novel renovations",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Astley Castle",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia says a moated fortified manor house reopened as a holiday let; no page text confirms the current operating status or the stay itself.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/772977989",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Historic castle overlooking the sea that is run as a hotel",
+  "category_quote": "The castle overlooks the sea at the head of Ballygally Bay. It is now run as a hotel",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ballygally Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Reputed to be one of the most haunted places in Ulster",
+    "quote": "is reputed to be one of the most haunted places in Ulster"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia says the castle is now run as a hotel; the home page text is empty, so current status and room details are unconfirmed.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q7619164",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Scottish baronial castle-style house in Argyll that has operated as a hotel since 1950",
+  "category_quote": "It was built on the site of an earlier building, known as Barmore, and has been in use as a hotel since 1950.",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Stonefield Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Scottish baronial house near Tarbert",
+    "quote": "Stonefield Castle is a Scottish baronial manor house near the village of Stonefield, north of Tarbert"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The Wikipedia summary says this castle-named Scottish baronial house has been used as a hotel since 1950, but no current website or status was available.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4337810904",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Farm holiday (agriturismo) built around a restored old watermill, with apartments; the apartments are not confirmed to be inside the mill",
+  "category_quote": "We put all our passion to rebirth the old watermilll also to see how to combine it",
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": "restored watermill",
+  "official_name": "Agriturismo Mulino del Castello",
+  "property_type": "other",
+  "address": "Garlenda, Savona province, Liguria, Italy",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Farm setting in green hills near Garlenda",
+    "quote": "We are immersed in the green landscape of the country around Garlenda"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "A few kilometres from the sea",
+   "quote": "It is at few kilometers from the sea"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Agriturismo with apartments; the site describes restoring an old watermill, but it does not say guests sleep inside it. The only dated offer on the page is from 2024, so current operation is unconfirmed.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/11373824",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Scattered village hotel (albergo diffuso) across two houses; 'Castello' is only the village name",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": "albergo diffuso (scattered village hotel)",
+  "official_name": "Castello di Fagnano Albergo Diffuso & Spa",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 7,
+   "quote": "7 camere matrimoniali dotate di bagno interno, per complessivi 14 posti letto"
+  },
+  "amenities": [
+   {
+    "text": "Outdoor pool for guests",
+    "quote": "una piscina esterna con area solarium ad uso esclusivo degli ospiti"
+   },
+   {
+    "text": "Small spa for guests",
+    "quote": "All interno di Casa Carluccio la struttura dispone di una piccola SPA, ad uso esclusivo degli ospiti"
+   },
+   {
+    "text": "Wine cellar with guided tastings",
+    "quote": "possibilità di prenotare degustazioni guidate di vini"
+   },
+   {
+    "text": "E-bike rental",
+    "quote": "E possibile noleggiare 2 e-bike in dotazione alla struttura"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Views over the valley below",
+    "quote": "Un rifugio magico, di bellezza e storia, con vista mozzafiato sulla valle sottostante."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site describes a scattered village hotel; the castle appears only in the village name, so no castle building is evidenced.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/417976227",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [],
+  "other_niche_type": "folly tower",
+  "official_name": "Tawstock Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia describes an 18th-century folly tower rather than a castle; the only hotel evidence is an OSM tag and no website is known.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11860225467",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Wine resort named Castello Banfi with boutique Il Borgo hotel; castle rooms not confirmed by evidence",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello Banfi Wine Resort",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurants La Taverna and Sala dei Grappoli",
+    "quote": "degustazioni Brunello, tour delle cantine e ristoranti La Taverna e Sala dei Grappoli"
+   },
+   {
+    "text": "Winery tours and Brunello tastings",
+    "quote": "degustazioni Brunello, tour delle cantine e ristoranti La Taverna e Sala dei Grappoli"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Boutique hotel Il Borgo",
+    "quote": "hotel boutique Il Borgo, degustazioni Brunello"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In Montalcino, Tuscany",
+   "quote": "Prenota al Castello Banfi Wine Resort a Montalcino"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name Castello Banfi suggests a castle; the evidence does not say guests sleep in a castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/23600122",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Grade I listed Tudor castle with hotel tag; no stay details in evidence",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Thornbury Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "OSM tags and Wikipedia describe a Tudor castle tagged as a hotel, but there is no website or page text confirming guest rooms in the castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/286670521",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Amhuinnsuidhe Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and the OSM hotel tag suggest a castle hotel; the home page text is empty and the fetch returned 202.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/298654392",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Stuart",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "OSM tags say hotel and castle and Wikipedia calls it a restored tower house, but no evidence says guests stay inside it; the site text is empty.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/301082186",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Tregenna Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia says the house became a hotel, but the wikidata description calls it a country house and no page text describes castle rooms; no website is known.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/31396161",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Dundas Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the OSM hotel and castle tags and a Wikipedia article about the castle; the website returned 404 and no page text describes stays.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/361065093",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Comlongon Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "OSM hotel and castle tags and a tower house article only; the home page text is empty, so guest rooms inside the castle are not confirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/42003074",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Borthwick Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel name plus OSM hotel and castle tags; the home page text is empty and no quote confirms rooms inside the castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/713681101",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kincraig Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Hotel name and OSM hotel and building tags only; the home page text is empty.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/93706817",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Glenskirlie Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a castle hotel, and the official home page returned an empty body with HTTP 202, so the niche cannot be verified.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/969123221",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "tour_operator"
+  ],
+  "other_niche_type": null,
+  "official_name": "Waverley Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The linked website belongs to a coach-holiday operator and never mentions the hotel, so only the name suggests a castle hotel.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10542596389",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello Assisi",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant",
+    "quote": "Il ristorante offre numerose possibilità di pasto"
+   },
+   {
+    "text": "Air-conditioned rooms",
+    "quote": "Dispone di camere singole e doppie, tutte confortevoli e con aria condizionata"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "About 5 minutes walk from the Basilica of San Francesco",
+    "quote": "distante 5 minuti a piedi dalla Basilica di San Francesco"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ordinary city hotel in Assisi; the name Castello alone gives no castle stay, so no niche is accepted.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10595988195",
+  "is_lodging": false,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "museum",
+   "event_venue_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello di San Giorgio Canavese",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Guided visits of the castle and gardens",
+    "quote": "Offriamo visite guidate che consentono ai visitatori di esplorare gli splendidi interni del castello"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle open for guided visits, cultural events and event hire; no overnight rooms are described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12076809300",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Off-grid camping pitches on coastal farmland; the clifftop name is the only cliff link",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": "off-grid clifftop campsite",
+  "official_name": "Clifftop Camping",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Compost toilet",
+    "quote": "We have a compost toilet."
+   },
+   {
+    "text": "Tap at the entrance to the main field",
+    "quote": "There is a tap at the entrance to the main field."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Fossil hunting and beachcombing",
+    "quote": "A fantastic place for fossil hunting and beachcombing!"
+   },
+   {
+    "text": "Views over the Thames Estuary",
+    "quote": "Stunning views over the Thames Estuary."
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "3 pm",
+   "quote": "Check in times: 3 pm Check out: 11 am"
+  },
+  "check_out": {
+   "text": "11 am",
+   "quote": "Check in times: 3 pm Check out: 11 am"
+  },
+  "access": {
+   "text": "Off-grid camping on the Isle of Sheppey, Kent; limited facilities",
+   "quote": "This is off grid camping so there are limited facilities!"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Tent campsite on clifftop farmland; no sleeping units built on or into a cliff, so cliffside-hotels does not fit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12282665149",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di San Lorenzo",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website returned no page text (HTTP 202) and the OSM tag only says apartment, so the evidence is too thin.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12445863352",
+  "is_lodging": false,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "restaurant_only",
+   "event_venue_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello di Corcolle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Event and ceremony venue in the Roman countryside",
+    "quote": "Il Castello di Corcolle, nel cuore della campagna romana, è la location perfetta per l'organizzazione di cerimonie private esclusive"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Farm restaurant and event venue; the site describes no rooms to stay in, so it is not lodging.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13136122401",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "La Finestra sul Castello B&B",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "View of the medieval castle from the B&B",
+    "quote": "Godetevi la vista mozzafiato sul castello medievale"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ordinary B&B in Mussomeli that advertises a view of the castle; a castle view is not a castle stay.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13360455928",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Corte dal Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free on-site parking",
+    "quote": "Gli ospiti apprezzeranno anche le soluzioni anallergiche, l’ingresso indipendente e la disponibilità del parcheggio gratuito in struttura"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Il ristorante di Corte dal Castello unisce l’autenticità della cucina italiana"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Lake Garda location near Gardaland and the Lazise thermal park",
+    "quote": "in un hotel sul Lago di Garda vicino a Gardaland e alle Terme di Lazise"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Colà di Lazise, on Lake Garda",
+   "quote": "Il ristorante e Hotel Corte dal Castello è una struttura a conduzione familiare situata a Colà di Lazise"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Lake Garda hotel with restaurant; the castle in the name is not linked to any castle building or room.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/14150165231",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 44,
+   "quote": "L Hotel Castello dispone di 44 camere su tre piani con ascensore"
+  },
+  "amenities": [
+   {
+    "text": "Beach service",
+    "quote": "Direttamente sul mare, servizio spiaggia, ideale per famiglie o coppie"
+   },
+   {
+    "text": "Free parking",
+    "quote": "La posizione privilegiata sul mare, il servizio spiaggia, la vicinanza al centro del paese, il parcheggio gratuito"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Boat trips, diving and snorkeling activities",
+    "quote": "Scopri le nostre attività: escursioni via mare o via terra, diving, snorkeling, dolphing watching e tanto altro!"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Directly on the Terza Spiaggia beach, Golfo Aranci, Sardinia",
+   "quote": "L Hotel Castello si trova direttamente sulla Terza Spiaggia di Golfo Aranci"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Ordinary seaside hotel named Castello on the beach in Golfo Aranci; no castle or other niche feature.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/14160053734",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Monte Castello Bed & Breakfast",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free Wi-Fi and air conditioning in all rooms",
+    "quote": "Sono presenti impianto di climatizzazione e di aspirazione, impianto Tv e connessione internet Wi-Fi gratuita in tutte le stanze"
+   },
+   {
+    "text": "Kitchenette",
+    "quote": "La struttura è dotata di un angolo cottura attrezzato"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Set on the Monte Castello hill, the first of the Murge",
+    "quote": "precisamente sul colle Monte Castello, il primo delle Murge nel territorio di Villa Castelli"
+   },
+   {
+    "text": "Early 1900s house recently renovated",
+    "quote": "Un accogliente casa dei primi del 900 ristrutturata di recente"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "from 13:00",
+   "quote": "Il check-in si effettua dalle ore 13.00"
+  },
+  "check_out": {
+   "text": "until 10:00",
+   "quote": "Il check- out si effettua fino alle ore 10.00"
+  },
+  "access": {
+   "text": "In Villa Castelli, Puglia, on the Monte Castello hill",
+   "quote": "Il Bed & Breakfast Monte Castello è situato nel cuore della Puglia, precisamente sul colle Monte Castello"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "B&B named after a hill called Monte Castello; the name is geographic and there is no castle stay.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/14179873932",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello Conti Filo",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website returned no page text (HTTP 202) and the OSM tag only says hotel, so the evidence is too thin.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/14203912610",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "listing_site",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Casa Vacanze Sotto il Castello",
+  "property_type": "other",
+  "address": "Capestrano, Abruzzo, Italy",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Airbnb listing for a whole rented house; the only castle link is the listing name 'Sotto il Castello', and no castle room is described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1744077912",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Residence Castello Oldofredi",
+  "property_type": "hotel",
+  "address": "Monte Isola, Lake Iseo, Lombardy, Italy",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "On Monte Isola, in the Lake Iseo setting",
+   "quote": "Incastonato nella splendida cornice del lago d'Iseo"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site describes a residence, hotel, restaurant and wedding venue, but never says the rooms are in a castle; the name is the only castle evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1774507617",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "for_sale"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello di Alica",
+  "property_type": "other",
+  "address": "Alica, Palaia, Tuscany, Italy",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site is a real estate sales page (title 'Vendita Appartamenti') for the castle complex; it offers no lodging.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2464506603",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Ostello della gioventù Il Castello",
+  "property_type": "hostel",
+  "address": "Via F.lli Bandiera 1, Noto, Sicily, Italy",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free Wi-Fi in common areas",
+    "quote": "wi-fi gratuito negli spazi in comune"
+   },
+   {
+    "text": "Bar and reception with set hours",
+    "quote": "bar e reception aperta dalle 15:30 alle 19:00"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Terrace with a view",
+    "quote": "A disposizione dei clienti è anche presente un terrazzo mozzafiato con vista"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Check-in 15:30 to 19:00",
+   "quote": "Check-in dalle 15:30 alle 19:00"
+  },
+  "check_out": {
+   "text": "Check-out 08:00 to 10:00",
+   "quote": "Check-out dalle 08:00 alle 10:00"
+  },
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Hostel with family rooms and children allowed; the site never describes a castle building, so the name Il Castello is the only castle evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2853703646",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello Lake Front Hotel",
+  "property_type": "hotel",
+  "address": "Via Paina, 21, 37018 Malcesine (VR), Italy",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Whirlpool tub on suite terraces",
+    "quote": "Terrazza e balcone vista lago con whirlpool"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Lakefront sunbathing area on Lake Garda",
+    "quote": "Rilassatevi nella area prendisole ascoltando lo sciabordare delle onde sulla riva del lago di Garda"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site places the 4-star hotel between Lake Garda and the ramparts of a nearby castle; the castle is not a room setting.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3450371148",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Castle-named hotel whose bedrooms are in a converted former farm building beside Thurnstein castle",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Schloss Thurnstein",
+  "property_type": "hotel",
+  "address": "St. Peter Nr. 8, 39019 Dorf Tirol, South Tyrol, Italy",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Heated outdoor pool",
+    "quote": "Das großzügige solarbeheizte Freibad mit Panoramaliegewiese und Umkleidekabine"
+   },
+   {
+    "text": "Balcony, satellite TV and phone in each room",
+    "quote": "Jedes Zimmer verfügt über direkten Telefonanschluss, Sat-TV und großzügigen Balkon."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panoramic view over the Etsch valley",
+    "quote": "Die individuelle und stilvolle Einrichtung sowie die schöne Aussicht über das gesamte Etschtal wird bei unseren Gästen sehr geschätzt"
+   }
+  ],
+  "season": {
+   "text": "Open April to early November",
+   "quote": "Unser familiengeführtes kleines Hotel ist von April bis Anfang November für Sie geöffnet."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site says the rooms are in the former farm building annex (Die Zimmer befinden sich im Anbau), not inside the castle, so the castle-hotel niche is not supported; confidence is low.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3540456632",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "private_residence"
+  ],
+  "other_niche_type": null,
+  "official_name": "Methven Castle",
+  "property_type": "other",
+  "address": "East of Methven, Perth and Kinross, Scotland, UK",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia calls it a privately owned 17th-century house and the website is a parked hosting-company domain; the OSM guest_house tag is not confirmed by any lodging evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3609536727",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Il Castello",
+  "property_type": "hotel",
+  "address": "Strada statale 125, km 78, Villaputzu (Sarrabus), Sardinia, Italy",
+  "room_count": {
+   "value": 16,
+   "quote": "l'hotel 3 stelle, dotato di 16 stanze"
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "La piscina dell'albergo, totalmente immersa nella macchia mediterranea"
+   },
+   {
+    "text": "Air conditioning, direct phone, Wi-Fi in rooms and throughout the hotel",
+    "quote": "aria condizionata, telefono diretto, wi-fi in camera e in tutta la struttura"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Easy reach from Cagliari, Alghero and Olbia airports",
+   "quote": "facilmente raggiungibile sia dagli aeroporti internazionali di Cagliari, Alghero e Olbia"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The 3-star hotel sits near the ruins of Quirra castle and the name is the only castle link; the rooms are not described as inside a castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4227191664",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "B&B Castello Cimbergo",
+  "property_type": "B&B",
+  "address": "Via IV novembre, 19, 25050 Cimbergo (BS), Italy",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Breakfast included, served 7:30 to 9:30",
+    "quote": "Ogni mattina, dalle 7:30 alle 9:30, serviamo una colazione con proposte dolci e salate"
+   },
+   {
+    "text": "In-house restaurant pizzeria",
+    "quote": "Cucina di montagna, piatti tipici e pizze. Aperto sia per gli ospiti sia per clienti esterni"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Bike Hotel Gold with e-bike and bike services",
+    "quote": "Il B&B Castello Cimbergo è una struttura Bike Hotel Gold, attenta all’accoglienza di ciclisti, biker e amanti delle vacanze in bicicletta"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Guesthouse with bike services and children's facilities; no castle building is described, so the name is the only castle evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4229641767",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Martini Rooms Castello",
+  "property_type": "guesthouse",
+  "address": "Via Pietro Martini, 6, 09124 Cagliari, Sardinia, Italy",
+  "room_count": {
+   "value": 3,
+   "quote": "3 camere matrimoniali con bagno privato e una zona living in comune e 4 appartamenti boutique"
+  },
+  "amenities": [
+   {
+    "text": "Airport transfer from Cagliari Elmas",
+    "quote": "Transfer da e per l'aeroporto di Cagliari Elmas"
+   },
+   {
+    "text": "Small breakfast basics in the living area",
+    "quote": "Per la tua piccola colazione sempre disponibile nell'area living"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Views from the bastions of the Castello quarter",
+    "quote": "L'atmosfera che respirerai in tutto il quartiere di Castello e i panorami che potrai ammirare dai suoi imponenti bastioni"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "Check-in from 15:00 to 22:00 with access codes",
+   "quote": "il check-in disponibile dalle 15:00 alle 22:00"
+  },
+  "check_out": {
+   "text": "Check-out until 10:00",
+   "quote": "Il check-out fino alle ore 10:00"
+  },
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Castello is the name of a historic district in Cagliari; the rooms are not described as inside a castle, so the name is the only castle evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4358877195",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle - The Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Shared indoor lounge and large outdoor spaces",
+    "quote": "Area comune interna e grandi spazi esterni"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic 15th-century villa in green grounds",
+    "quote": "Una Villa del quindicesimo secolo immersa nel verde"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 15 minutes walk from Genova Principe station",
+   "quote": "Piedi! (free) 15 minuti di passeggiata dal centro verso la collina"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "students"
+  ],
+  "reason": "Student residence and hostel in a 15th-century villa; the site describes a villa, not a castle, so the 'Castle' name is the only castle evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/472084155",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Bovey Castle",
+  "property_type": "hotel",
+  "address": "North Bovey, Devon, England, UK",
+  "room_count": {
+   "value": 59,
+   "quote": "is now a hotel with 59 individually designed bedrooms in the hotel and 22 three-storey country lodges nearby"
+  },
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Country lodges nearby",
+    "quote": "22 three-storey country lodges nearby"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "On the edge of Dartmoor National Park, near Moretonhampstead",
+   "quote": "on the edge of Dartmoor National Park, near Moretonhampstead, Devon, England"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia describes a large early 20th-century mansion now run as a hotel, not a castle; no website or pages were fetched, so the name is the only castle evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4774379484",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello Montesasso",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Independent apartment with private garden access and panoramic veranda",
+    "quote": "Ti offriamo ospitalità in un ampio appartamento indipendente con accesso al giardino privato e veranda panoramica"
+   },
+   {
+    "text": "Farmhouse apartment for groups of up to 10 people",
+    "quote": "con un appartamento in grado di ospitare fino a 10 persone"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The name suggests a castle, but the site describes an agriturismo farmhouse apartment and wine estate with no castle building, so category is null and the niche is name only.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5145963867",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "listing_site",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel del Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name is castle-related; the pages are generic hotelmix.it listing pages that do not describe this property, so status and lodging are unverified.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5376815726",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Scuderia Castello",
+  "property_type": "B&B",
+  "address": "Gaino, Parco Alto Garda (3 km from Toscolano-Maderno)",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Lake view and ample parking",
+    "quote": "Disponiamo di splendida vista lago e ampio parcheggio"
+   },
+   {
+    "text": "Each room has its own character",
+    "quote": "Ogni camera nasconde un segreto"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Gaino, inside Parco Alto Garda, 3 km from Toscolano-Maderno",
+   "quote": "Siamo a Gaino , all’interno del Parco Alto Garda , a 350 mt di altitudine e a 3 km da Toscolano-Maderno"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The name suggests a castle, but the site is a bed and breakfast with an equestrian and farm setting and no castle building is described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5648137949",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Bivacco al Castello di Sambuca",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Overnight shelter for pilgrims on the Via Francesca della Sambuca",
+    "quote": "Il servizio è garantito ai pellegrini in cammino sulla Via Francesca della Sambuca"
+   },
+   {
+    "text": "Maximum 6 guests, stays up to two nights",
+    "quote": "E’ previsto un numero massimo di 6 ospiti per volta e per non più di due notti consecutive"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Booking required through the Terra Selvaggia association",
+   "quote": "Per pernottare nel bivacco è necessario prenotare e confermare la propria presenza"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "pilgrims",
+   "hikers"
+  ],
+  "reason": "Named after the castle, but the bivouac is in the former rectory (ex canonica) for pilgrims and hikers; no castle building or rooms are described, and the reopening news is from 2024.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6046606003",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Al Castello",
+  "property_type": "hotel",
+  "address": "Piazza Dante 11R, 15066 Gavi",
+  "room_count": {
+   "value": 14,
+   "quote": "L'Hotel al Castello composto da 14 ampie camere recentemente rimodernate"
+  },
+  "amenities": [
+   {
+    "text": "Free services for guests",
+    "quote": "L'Hotel Al Castello offre ai propri ospiti un soggiorno rilassante e spensierato grazie ai numerosi servizi gratuiti"
+   },
+   {
+    "text": "Towels and personal hygiene kit",
+    "quote": "ASCIUGAMANI E KIT IGIENE PERSONALE"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Family rooms for up to four guests",
+    "quote": "Gli ampi spazi delle stanze Family, con quattro posti letto disponibili"
+   },
+   {
+    "text": "Junior Suite with double jacuzzi",
+    "quote": "la Junior Suite con i suoi ampi spazi e la doppia jacuzzi"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Historic village centre of Gavi, a few km from Serravalle Designer Outlet",
+   "quote": "L’hotel si trova nel cuore del borgo di Gavi, a pochi chilometri da Serravalle Designer Outlet"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name only: the hotel is in the village of Gavi and no castle building is described. The homepage says 20 rooms while the rooms page says 14; the rooms page figure is used.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/765282658",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Park Hotel Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Panoramic swimming pool",
+    "quote": "Hotel 3 stelle bike-friendly con piscina panoramica, a 300m dalla spiaggia"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "About 300 m from the beach, bike-friendly",
+    "quote": "Hotel 3 stelle bike-friendly con piscina panoramica, a 300m dalla spiaggia"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [
+   "families",
+   "cyclists"
+  ],
+  "reason": "Name only: the only evidence is a 3-star hotel description in Finale Ligure with no castle building or rooms mentioned.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/768567229",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Albergo Castello",
+  "property_type": "hotel",
+  "address": "Via Castello 16, 25080 Tignale (BS)",
+  "room_count": {
+   "value": 13,
+   "quote": "L'albergo dispone di 13 camere distribuite fra la struttura principale e la depandace"
+  },
+  "amenities": [
+   {
+    "text": "Wellness area with sauna, hot tub and Turkish bath",
+    "quote": "Wellness (sauna finlandese 80 , bagno turco 43 con cromoterapia, vasca idromassaggio 36 con cromoterapia"
+   },
+   {
+    "text": "Wi-Fi throughout the building, including rooms",
+    "quote": "Internet WIFI in tutta la struttura, camere comprese"
+   },
+   {
+    "text": "Private closed car park",
+    "quote": "Parcheggio privato chiuso per auto gallery"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Lake Garda views from most rooms",
+    "quote": "Quasi tutte le camere, con e senza balcone, offrono una vista panoramica del Lago di Garda da Malcesine fino a Sirmione"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name only: a 13-room lakeside hotel on Lake Garda with no castle building described; the name refers to the Via Castello address.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7784724427",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Il Castello di Campello",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Air-conditioned unit with sauna",
+    "quote": "La sistemazione è climatizzata e dotata di sauna"
+   },
+   {
+    "text": "Fully equipped kitchens",
+    "quote": "Tutte le unità includono una cucina completamente attrezzata, dove potrete preparare i vostri pasti"
+   },
+   {
+    "text": "Car rental service",
+    "quote": "La struttura fornisce il servizio di autonoleggio"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "5 minutes from the Fonti del Clitunno park",
+    "quote": "Il Castello di Campello dista 5 minuti dalle Fonti del Clitunno"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "5 minutes from the Fonti del Clitunno park",
+   "quote": "Il Castello di Campello dista 5 minuti dalle Fonti del Clitunno"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name only: the listing describes apartments and a restaurant beside the Fonti del Clitunno park, and no castle building is named.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9532613679",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Milano Castello",
+  "property_type": "hotel",
+  "address": "Via S. Tomaso, 2, 20121 Milan",
+  "room_count": {
+   "value": 30,
+   "quote": "The hotel's 30 rooms have everything you need"
+  },
+  "amenities": [
+   {
+    "text": "Private garden",
+    "quote": "The pride of the hotel is its large private garden"
+   },
+   {
+    "text": "Gym",
+    "quote": "Hotel Milano Castello also has a fully equipped gym available in the lower floor"
+   },
+   {
+    "text": "Breakfast buffet",
+    "quote": "Every morning, enjoy a delicious breakfast buffet in the dining room or open air garden during the warm season"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Design hotel near Duomo and Castello Sforzesco",
+    "quote": "brand new design hotel in Milan centre, close to Duomo and Castello Sforzesco"
+   }
+  ],
+  "season": null,
+  "check_in": "from 2 pm",
+  "check_out": "before 11 am",
+  "access": {
+   "text": "Quiet side street in central Milan, a few minutes' walk from Piazza Duomo",
+   "quote": "The Hotel Milano Castello is located in Via San Tomaso, a very quiet side street"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name only: a city-centre design hotel in Milan; Castello Sforzesco is only mentioned as a nearby landmark.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9893043018",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "closed_hint",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "B&B Castello Spotorno",
+  "property_type": "B&B",
+  "address": "Via La Spezia 10/13, 17028 Spotorno (SV), Italy",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Name only; the only page is a 2024 notice that the B&B would not operate that season during major renovation, so current status is unknown.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/12123390",
+  "is_lodging": false,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "for_sale"
+  ],
+  "other_niche_type": null,
+  "official_name": "Witton Castle Country Park",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Park set in grounds of a 15th-century castle",
+    "quote": "Set within the immaculate and impressive grounds of this 15th century castle"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A holiday-home sales park where the castle houses a bar, cinema and restaurant; guests do not sleep in the castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/1352452",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "The Manor House",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "18-hole championship golf course",
+    "quote": "Take to the greens on our breathtaking 18-hole championship golf course"
+   },
+   {
+    "text": "Michelin-starred restaurant",
+    "quote": "our Michelin-starred restaurant, Bybrook, where our talented team are ready to whip up a smorgasbord"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Italian gardens",
+    "quote": "Wander through our stunning Italian gardens"
+   },
+   {
+    "text": "Honey-coloured stone building",
+    "quote": "its honey-coloured stone walls humming with history"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "An ordinary country house hotel; Castle Combe is only the village name and no castle building is described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/100275575",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Dover Castle Hostel",
+  "property_type": "hostel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a castle; the site says it is under construction and the OSM location is in London with no castle evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/105880811",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "listing_site"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Castle, Castle Eden",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The pages are a group-rental listing for other properties; Wikipedia says the mansion has no trace of a medieval castle left, and the property's own page is absent.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/108200004",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Camelot Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a castle; the homepage returned empty text and no evidence places guests in a castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1103158101",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "for_sale"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Inn Bletchley",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website is a parked domain stating it may be for sale, so there is no property evidence beyond the OSM hotel tag.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/114102278",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Sissinghurst Castle Farmhouse B&B",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "We are a luxury nine-bedroom bed and breakfast"
+  },
+  "amenities": [
+   {
+    "text": "Breakfast, afternoon tea and parking included",
+    "quote": "All room prices include complimentary breakfast, tea in the afternoon and parking!"
+   },
+   {
+    "text": "Lift access to rooms except the Lovehurst Suite",
+    "quote": "There is elevator access to all rooms with the exception of the Lovehurst Suite."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Close to Sissinghurst Castle gardens",
+    "quote": "Truly unique and peaceful, the house is just 50 metres from the world famous gardens of Sissinghurst Castle"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "between 4 and 6 pm each afternoon",
+   "quote": "during our check in time (between 4 and 6 each afternoon)"
+  },
+  "check_out": {
+   "text": "by 10.30 am",
+   "quote": "Check out is by 10.30 am each day."
+  },
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A luxury Victorian farmhouse B&B; the castle is a nearby garden, not the place of stay, so no niche is evidenced.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/117042385",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Lodge Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 10,
+   "quote": "a family run hotel offering 10 Individually decorated ensuite rooms"
+  },
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Near Wilton Castle",
+    "quote": "situated only yards away from the Wilton Castle"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A family-run hotel near Wilton Castle; the castle is nearby and the hotel is not inside it.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1189442114",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Corsewall Castle Farm Lodges - Lodge One",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 5,
+   "quote": "Five bedrooms: 2 x super king-size double (zip/link, can be twin on request)"
+  },
+  "amenities": [
+   {
+    "text": "Lawned garden with furniture and BBQ",
+    "quote": "Lawned garden to rear and side with furniture and BBQ"
+   },
+   {
+    "text": "Sound system, WiFi and games",
+    "quote": "Bose sound system, WiFi, telephone with honesty box, selection of books, games and DVDs"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Sea views towards the lighthouse",
+    "quote": "Outside, there are lawned gardens to the rear and side with stunning views of the Corsewall Lighthouse and the coast."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Part of the access road is an uneven farm track",
+   "quote": "Note: Part of the access road is an uneven farm track."
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "A self-catering farm cottage lodge; the lighthouse is only a view, so no castle or other niche is evidenced.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1302651930",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Coaching Inn",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 10,
+   "quote": "Stay and relax in one of our 10 wonderful hotel rooms"
+  },
+  "amenities": [
+   {
+    "text": "Breakfast included",
+    "quote": "start your day with a delicious breakfast including locally sourced produce"
+   },
+   {
+    "text": "Car park and EV chargers",
+    "quote": "Car Park . EV Chargers . Inside & Outdoor Seating"
+   },
+   {
+    "text": "Dog-friendly rooms",
+    "quote": "We have 2 hotel rooms for which dogs are allowed: 1 King room & 1 Superking room."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Base for the Brecon Beacons",
+    "quote": "Perfect for walkers, cyclists and visitors exploring the Brecon Beacons"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "after 3pm",
+   "quote": "Check in after 3pm, Check out by 11am"
+  },
+  "check_out": {
+   "text": "by 11am",
+   "quote": "Check in after 3pm, Check out by 11am"
+  },
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A pub with 10 hotel rooms in Trecastle; the castle appears only in the inn name, so no castle building is evidenced.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/133094245",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "chain_generic",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Ryde Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A Greene King chain page with no property details; only the name suggests a castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/136660018",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Pencelli Castle Caravan & Camping Park",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Heated toilet block with shower rooms",
+    "quote": "Heated toilet block with shower rooms"
+   },
+   {
+    "text": "Children's play park",
+    "quote": "A pleasant and well kept children's play park is situated outside the main caravan and camping fields."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Brecon Beacons location",
+    "quote": "Pencelli Castle makes an ideal location for walking, cycling, mountain biking, pony trekking"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Next to Taff Cycle Trail and bus route",
+   "quote": "The Taff Cycle Trail passes the entrance, as does the Cardiff to Abergavenny bus"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A touring caravan and camping park; the castle is gone, so the castle name is the only link.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/138252374",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Gate Guest House",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": {
+   "value": 3,
+   "quote": "Castle Gate Guest House has three rooms, two doubles, that sleep up to two and one family room that sleeps up to three."
+  },
+  "amenities": [
+   {
+    "text": "Free parking",
+    "quote": "Free parking is available at the front of the property."
+   },
+   {
+    "text": "Free high speed internet in public areas",
+    "quote": "Free high speed internet access in public areas"
+   },
+   {
+    "text": "Tea and coffee making equipment",
+    "quote": "Tea and coffee making equipment is provided."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Town centre near Alnwick Castle",
+    "quote": "Ideally situated, close to Alnwick Castle"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "A town-centre guest house near Alnwick Castle; the castle is nearby and the guest house is not inside it.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/164103393",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Barnard Castle Campsite - Camping and Caravanning Club Site",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Modern facilities block",
+    "quote": "There is a modern facilities block, children's play area, small shop, and motorhome service point."
+   },
+   {
+    "text": "Children's play area",
+    "quote": "There is a modern facilities block, children's play area, small shop, and motorhome service point."
+   },
+   {
+    "text": "Small shop",
+    "quote": "There is a modern facilities block, children's play area, small shop, and motorhome service point."
+   },
+   {
+    "text": "Motorhome service point",
+    "quote": "There is a modern facilities block, children's play area, small shop, and motorhome service point."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rural site in the North Pennines near Teesdale",
+    "quote": "Camp on the edge of the rolling valleys of Teesdale and the rugged wilderness of the Yorkshire Dales"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A standard campsite near the town of Barnard Castle; the castle is only a nearby landmark, so no castle stay is evidenced.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/167703866",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Arms Hotel",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website text is unrelated online gambling and betting spam, with no rooms, stay or castle evidence, so lodging cannot be confirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/210283038",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Old Castle Weymouth",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the OSM hotel tag and the name suggest lodging; the site text is just the title, so nothing shows a castle stay.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/217774560",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Tynemouth Castle Inn",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Cosy rooms and a vibrant pub near Longsands Beach",
+    "quote": "Nestled near Longsands Beach, The Tynemouth Castle Inn offers cosy rooms, a vibrant pub &amp; stunning views."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "An ordinary inn with rooms and a pub; the castle in the name is not shown to be part of the building.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/244851261",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Britannia Norbreck Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 480,
+   "quote": "The hotel has 480 bedrooms and 22 conference suites"
+  },
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Wikipedia describes a large seafront hotel with 480 bedrooms and no castle features; the name alone is not a niche.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/246737318",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kilmartin Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Evidence is only a Wikipedia summary of a 16th-century castle in Kilmartin Glen and an OSM chalet tag, with no page or site text showing guest stays.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/247718135",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Blair Castle Caravan Park",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Glamping pods, woodland lodges and holiday homes",
+    "quote": "Offering a host of options, from cosy pods, touring, camping, holiday homes and beautiful woodland lodges, there’s something for everyone."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "AA 5-star platinum rated park, one of four Premier Parks in Scotland",
+    "quote": "Blair Castle Caravan Park holds an AA 5-star platinum rating, and we are one of only four Premier Parks in Scotland."
+   },
+   {
+    "text": "Inside the grounds of Blair Castle and Gardens",
+    "quote": "Situated within the grounds of the magnificent Blair Castle & Gardens, it’s a truly unique location"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "A caravan park in the grounds of Blair Castle with pods and lodges; the castle is a setting, not a stay inside it.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/256057049",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Limes Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website shows only an Account Suspended page, so there is no evidence of a castle feature or of current operation.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/269751115",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Corfe Castle Dorset Camping",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Electric hook-up on all pitches",
+    "quote": "Family-friendly, we offer a mix of grass and hardstanding pitches, all of which have electric hookup."
+   },
+   {
+    "text": "Small on-site shop",
+    "quote": "There is a small on-site shop offering a very small range of local provisions."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Setting at the foot of the Purbeck Hills, in an AONB",
+    "quote": "Our Corfe Castle Dorset Camping site lies at the foot of the Purbeck Hills, in an Area of Outstanding Natural Beauty"
+   }
+  ],
+  "season": {
+   "text": "Open 27 March to 27 September 2026",
+   "quote": "Open from 27 March through to 27 September 2026 inclusive."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "A family campsite near Corfe Castle village; the castle is a nearby sight, not a stay in a castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/305254529",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Inn Ramsey",
+  "property_type": "camp",
+  "address": "The Street, Ramsey, Harwich, Essex CO12 5HH",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Pub with real ales, lagers and ciders",
+    "quote": "the fine real ales, lagers and ciders that are on offer"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Campsite about 2 miles from Harwich ferry terminal",
+    "quote": "a peaceful campsite just 2 miles from Harwich International Ferry Terminal"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A pub with a campsite; the castle appears only in the name and nothing on the site describes castle lodging.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/319337535",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "The Bamburgh Castle Inn",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Views towards the Farne Islands",
+    "quote": "with spectacular views towards Farne Islands and beyond"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "An inn in Seahouses where guests can stay; the castle appears only in the name and the description is about harbour views.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/367298800",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.85,
+  "red_flags": [
+   "theme_only",
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "Student Castle Cambridge",
+  "property_type": "apartment",
+  "address": "1 Milton Road, Cambridge CB4 1UY",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "24/7 gym",
+    "quote": "Fully equipped gym, open 24/7"
+   },
+   {
+    "text": "100Mbps WiFi throughout",
+    "quote": "100Mbps internet and WiFi throughout"
+   },
+   {
+    "text": "Complimentary bike hire",
+    "quote": "Explore more with complimentary bike hire."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Close to Cambridge universities and Jesus Green",
+    "quote": "Cycle to Cambridge universities and Jesus Green from en-suite flats and studios"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "A student residence chain; the castle name is a brand, not a stay in a castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/410663953",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "private_residence"
+  ],
+  "other_niche_type": null,
+  "official_name": "Colliston Castle",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only lodging hint is an OSM chalet tag; Wikipedia says the tower house remains occupied and no website or page text describes stays.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/563732617",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "LEGO-themed hotel rooms in a themed resort, not a historic castle",
+  "category_quote": null,
+  "confidence": 0.85,
+  "red_flags": [
+   "theme_only",
+   "chain_generic"
+  ],
+  "other_niche_type": null,
+  "official_name": "LEGOLAND Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Access to LEGOLAND Resort Hotel pool and water play area",
+    "quote": "Access to the facilities in the LEGOLAND Resort Hotel just next door, including a LEGO pirate-themed indoor water play area and swimming pool"
+   },
+   {
+    "text": "Free LEGOLAND gift in room",
+    "quote": "Free LEGOLAND gift in your room"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Themed LEGO rooms",
+    "quote": "Our LEGO® Magic Themed Rooms"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "A chain-resort hotel with LEGO-themed rooms; the castle name is a theme, not a historic castle building.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/96866964",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel",
+  "property_type": "hotel",
+  "address": "Merthyr Tydfil, CF47 8BG, Wales",
+  "room_count": {
+   "value": 45,
+   "quote": "All our 45 Bedrooms are spacious En-Suite affairs"
+  },
+  "amenities": [
+   {
+    "text": "Wireless internet throughout the hotel",
+    "quote": "wireless high speed internet access throughout the hotel"
+   },
+   {
+    "text": "Secure bike storage",
+    "quote": "We provide secure bike storage, ensuring a stress-free stay for cycling enthusiasts."
+   },
+   {
+    "text": "Tea and coffee facilities in each room",
+    "quote": "Each room benefits from a TV and tea and coffee making facilities."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Refurbished 3-star city-centre hotel near the bus and railway stations",
+    "quote": "Ideally located in the centre of the historic industrial town of Merthyr Tydfil next to main bus station"
+   },
+   {
+    "text": "Reopened after a complete refurbishment",
+    "quote": "Opening to public after 4 years with complete refurbishment"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "3:00pm to 11:00pm",
+   "quote": "Check in: 3:00pm - 11:00pm"
+  },
+  "check_out": null,
+  "access": {
+   "text": "Next to main bus station, crown courts and high street; few minutes' walk from railway station",
+   "quote": "next to main bus station, crown courts, high street and few minutes’ walk from railway station"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "This is an ordinary city-centre 3-star hotel whose name is Castle Hotel, with no evidence of a castle building or any other niche feature.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q26388874",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel",
+  "property_type": "hotel",
+  "address": "Castle Street, Castleton, Derbyshire, England",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only evidence is a Wikipedia summary of a listed 18th-century inn with no castle building or castle-stay feature, and the website fetch failed with HTTP 403.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q26538704",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "event_venue_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel",
+  "property_type": "other",
+  "address": "Oldham Street, Northern Quarter, Manchester, England",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The Wikipedia summary describes a listed pub and live music venue with no lodging, castle feature, or website.",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]

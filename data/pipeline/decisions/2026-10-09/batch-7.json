@@ -1,0 +1,300 @@
+[
+ {
+  "id": "osm:way/838781542",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Six suites and rooms spread over the floors of a historic castle near Otranto in Salento",
+  "category_quote": "Cinque suite esclusive e una camera matrimoniale arredate con cura ed eleganza vi accoglieranno nei diversi piani del Castello.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Casamassella",
+  "property_type": "hotel",
+  "address": "Piazza V. Emanuele II, 1, 73020 Casamassella (LE), Italy",
+  "room_count": {
+   "value": 6,
+   "quote": "Cinque suite esclusive e una camera matrimoniale arredate con cura ed eleganza"
+  },
+  "amenities": [
+   {
+    "text": "Pool area reserved for guests",
+    "quote": "offre una splendida area piscina riservata agli ospiti"
+   },
+   {
+    "text": "Wi-Fi in outdoor areas",
+    "quote": "Tutte le aree esterne offrono connessione wi-fi"
+   },
+   {
+    "text": "Private outdoor space in each room",
+    "quote": "Ogni camera dispone di spazi esterni privati."
+   },
+   {
+    "text": "Breakfast",
+    "quote": "le giornate iniziano con le meravigliose e ricche colazioni"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Near Otranto on the Salento coast",
+    "quote": "Vicino ad Otranto, è il luogo ideale per una esperienza unica di Relax"
+   },
+   {
+    "text": "Suites have no TV or telephone, for peace and quiet",
+    "quote": "le suite non sono dotate di televisore né di telefono"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes suites inside the castle building, so the stay itself is the castle niche, and the site is live with booking prompts."
+ },
+ {
+  "id": "osm:way/93706817",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Glenskirlie Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a castle hotel, and the official home page returned an empty body with HTTP 202, so the niche cannot be verified."
+ },
+ {
+  "id": "osm:way/94721437",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Nine rooms and suites inside a historic royal castle in Piedmont",
+  "category_quote": "Il Castello di Oviglio ospita oggi una realtà ricettiva di grande carattere, preservando gli ambienti e gli spazi originari.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Oviglio",
+  "property_type": "hotel",
+  "address": "Via XXIV Maggio, 1, 15026 Oviglio (AL), Italy",
+  "room_count": {
+   "value": 9,
+   "quote": "Il Castello dispone di 4 suites, 2 junior suites e 3 doppie comfort"
+  },
+  "amenities": [
+   {
+    "text": "Whirlpool bathtubs in the suites",
+    "quote": "bagni con vasca idromassaggio e doccia separate"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle once owned by a Savoy-era queen and named Castello Reale",
+    "quote": "assunse il nome, tuttora spettantegli, di Castello Reale"
+   },
+   {
+    "text": "Events and weddings for up to 210 people",
+    "quote": "consentono di realizzare eventi fino a 210 persone"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The official site describes nine rooms and suites in the castle building, and the site shows current booking options and copyright to 2025."
+ },
+ {
+  "id": "osm:way/96866964",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": ["theme_only"],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel",
+  "property_type": "hotel",
+  "address": "Merthyr Tydfil, CF47 8BG, Wales",
+  "room_count": {
+   "value": 45,
+   "quote": "All our 45 Bedrooms are spacious En-Suite affairs"
+  },
+  "amenities": [
+   {
+    "text": "Wireless internet throughout the hotel",
+    "quote": "wireless high speed internet access throughout the hotel"
+   },
+   {
+    "text": "Secure bike storage",
+    "quote": "We provide secure bike storage, ensuring a stress-free stay for cycling enthusiasts."
+   },
+   {
+    "text": "Tea and coffee facilities in each room",
+    "quote": "Each room benefits from a TV and tea and coffee making facilities."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Refurbished 3-star city-centre hotel near the bus and railway stations",
+    "quote": "Ideally located in the centre of the historic industrial town of Merthyr Tydfil next to main bus station"
+   },
+   {
+    "text": "Reopened after a complete refurbishment",
+    "quote": "Opening to public after 4 years with complete refurbishment"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "3:00pm to 11:00pm",
+   "quote": "Check in: 3:00pm - 11:00pm"
+  },
+  "check_out": null,
+  "access": {
+   "text": "Next to main bus station, crown courts and high street; few minutes' walk from railway station",
+   "quote": "next to main bus station, crown courts, high street and few minutes’ walk from railway station"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "This is an ordinary city-centre 3-star hotel whose name is Castle Hotel, with no evidence of a castle building or any other niche feature."
+ },
+ {
+  "id": "osm:way/969123221",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": ["tour_operator"],
+  "other_niche_type": null,
+  "official_name": "Waverley Castle Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The linked website belongs to a coach-holiday operator and never mentions the hotel, so only the name suggests a castle hotel."
+ },
+ {
+  "id": "wd:Q26388874",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel",
+  "property_type": "hotel",
+  "address": "Castle Street, Castleton, Derbyshire, England",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only evidence is a Wikipedia summary of a listed 18th-century inn with no castle building or castle-stay feature, and the website fetch failed with HTTP 403."
+ },
+ {
+  "id": "wd:Q26538704",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": ["event_venue_only"],
+  "other_niche_type": null,
+  "official_name": "Castle Hotel",
+  "property_type": "other",
+  "address": "Oldham Street, Northern Quarter, Manchester, England",
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The Wikipedia summary describes a listed pub and live music venue with no lodging, castle feature, or website."
+ },
+ {
+  "id": "wd:Q7619164",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Scottish baronial castle-style house in Argyll that has operated as a hotel since 1950",
+  "category_quote": "It was built on the site of an earlier building, known as Barmore, and has been in use as a hotel since 1950.",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Stonefield Castle",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Scottish baronial house near Tarbert",
+    "quote": "Stonefield Castle is a Scottish baronial manor house near the village of Stonefield, north of Tarbert"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The Wikipedia summary says this castle-named Scottish baronial house has been used as a hotel since 1950, but no current website or status was available."
+ }
+]

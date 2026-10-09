@@ -1,0 +1,761 @@
+[
+  {
+    "id": "osm:node/10142163598",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "castle-hotels",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "4-star Superior hotel and spa inside a medieval castle near Turin",
+    "category_quote": "Il Castello di Montaldo è un hotel 4 stelle Superior ricavato in un castello medievale",
+    "confidence": 0.9,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Castello di Montaldo",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": {
+      "value": 39,
+      "quote": "propone 20 suite e 19 camere spaziose e luminose"
+    },
+    "amenities": [
+      {
+        "text": "Spa with 3,000 m2 of wellness space",
+        "quote": "Dalle camere si scende in accappatoio nella Spa: 3.000 m² di benessere premiati da Saunatur"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Spa and sauna rituals led by sauna masters",
+        "quote": "ogni sauna e ogni rituale è guidato dai nostri Maestri di Sauna"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "About 20 minutes from Turin; leave the car parked for the stay",
+      "quote": "si arriva in venti minuti dalla città e si lascia la macchina per tutto il soggiorno"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Hotel explicitly housed in a medieval castle, so the castle niche applies to the whole property."
+  },
+  {
+    "id": "osm:node/10542596389",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.4,
+    "red_flags": [
+      "theme_only"
+    ],
+    "other_niche_type": null,
+    "official_name": "Hotel Castello Assisi",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Restaurant",
+        "quote": "Il ristorante offre numerose possibilità di pasto"
+      },
+      {
+        "text": "Air-conditioned rooms",
+        "quote": "Dispone di camere singole e doppie, tutte confortevoli e con aria condizionata"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "About 5 minutes walk from the Basilica of San Francesco",
+        "quote": "distante 5 minuti a piedi dalla Basilica di San Francesco"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Ordinary city hotel in Assisi; the name Castello alone gives no castle stay, so no niche is accepted."
+  },
+  {
+    "id": "osm:node/10595988195",
+    "is_lodging": false,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "unclear",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.4,
+    "red_flags": [
+      "museum",
+      "event_venue_only"
+    ],
+    "other_niche_type": null,
+    "official_name": "Castello di San Giorgio Canavese",
+    "property_type": "other",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [
+      {
+        "text": "Guided visits of the castle and gardens",
+        "quote": "Offriamo visite guidate che consentono ai visitatori di esplorare gli splendidi interni del castello"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Castle open for guided visits, cultural events and event hire; no overnight rooms are described."
+  },
+  {
+    "id": "osm:node/10671281872",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "castle-hotels",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "Organic farm stay in a historic stone hamlet with an ancient tower, named Castello",
+    "category_quote": "Le sette case in pietra, l antica torre e la chiesetta, ancora consacrata,",
+    "confidence": 0.6,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Castello della Pieve",
+    "property_type": "guesthouse",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Swimming pool with panoramic view, for guests only",
+        "quote": "La piscina, che si affaccia su una suggestiva piramide naturale, è riservata agli ospiti dell agriturismo"
+      },
+      {
+        "text": "Restaurant open for dinners and events by booking",
+        "quote": "Il ristorantino del nostro agriturismo propone CENE, APERITIVI, DEGUSTAZIONI ED EVENTI SPECIALI su prenotazione"
+      },
+      {
+        "text": "Home-made breakfast",
+        "quote": "Colazione home-made dolce e salata"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Rooms dedicated to the Sommo Poeta (Dante)",
+        "quote": "al Sommo Poeta sono dedicate le camere ed il ristorantino"
+      },
+      {
+        "text": "Certified organic cultivation",
+        "quote": "dell Agriturismo, con coltivazione Biologica certificata"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "3 km from Mercatello sul Metauro, Marche",
+      "quote": "a tre chilometri da Mercatello sul Metauro, comune riconosciuto tra i borghi più belli d Italia"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Agriturismo named Castello in a fortified stone hamlet with a tower; the castle link is name plus tower, so confidence is moderate."
+  },
+  {
+    "id": "osm:node/10844701213",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "castle-hotels",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "Scattered hotel (albergo diffuso) in a medieval castle and village on the Via Francigena",
+    "category_quote": "Viaggiando lungo la Via Francigena, si raggiunge il CASTELLO DI PROCENO, un albergo diffuso in dimora d epoca",
+    "confidence": 0.8,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Castello di Proceno",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Swimming pool",
+        "quote": "che permette di raggiungere la piscina ed il Ristorante dell Estate senza uscire in strada"
+      },
+      {
+        "text": "Summer restaurant",
+        "quote": "che permette di raggiungere la piscina ed il Ristorante dell Estate senza uscire in strada"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Rooms in a tower of the old city walls",
+        "quote": "Una scala interna collega i tre piani facenti un tempo parte di una delle torri dell antica cinta muraria"
+      }
+    ],
+    "season": null,
+    "check_in": {
+      "text": "between 16:00 and 19:00",
+      "quote": "Check-in : fra le 16 e le 19"
+    },
+    "check_out": {
+      "text": "by 10:00",
+      "quote": "Check-out : entro le 10"
+    },
+    "access": {
+      "text": "On the Via Cassia, in a medieval village",
+      "quote": "in posizione dominante sulla Via Cassia, strada principale di comunicazione"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Albergo diffuso housed in a historic castle and village; rooms sit in castle towers and walls."
+  },
+  {
+    "id": "osm:node/11860225467",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "castle-hotels",
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": "Wine resort named Castello Banfi with boutique Il Borgo hotel; castle rooms not confirmed by evidence",
+    "category_quote": null,
+    "confidence": 0.4,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Castello Banfi Wine Resort",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Restaurants La Taverna and Sala dei Grappoli",
+        "quote": "degustazioni Brunello, tour delle cantine e ristoranti La Taverna e Sala dei Grappoli"
+      },
+      {
+        "text": "Winery tours and Brunello tastings",
+        "quote": "degustazioni Brunello, tour delle cantine e ristoranti La Taverna e Sala dei Grappoli"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Boutique hotel Il Borgo",
+        "quote": "hotel boutique Il Borgo, degustazioni Brunello"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "In Montalcino, Tuscany",
+      "quote": "Prenota al Castello Banfi Wine Resort a Montalcino"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Only the name Castello Banfi suggests a castle; the evidence does not say guests sleep in a castle."
+  },
+  {
+    "id": "osm:node/12076809300",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": "Off-grid camping pitches on coastal farmland; the clifftop name is the only cliff link",
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": [
+      "theme_only"
+    ],
+    "other_niche_type": "off-grid clifftop campsite",
+    "official_name": "Clifftop Camping",
+    "property_type": "camp",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Compost toilet",
+        "quote": "We have a compost toilet."
+      },
+      {
+        "text": "Tap at the entrance to the main field",
+        "quote": "There is a tap at the entrance to the main field."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Fossil hunting and beachcombing",
+        "quote": "A fantastic place for fossil hunting and beachcombing!"
+      },
+      {
+        "text": "Views over the Thames Estuary",
+        "quote": "Stunning views over the Thames Estuary."
+      }
+    ],
+    "season": null,
+    "check_in": {
+      "text": "3 pm",
+      "quote": "Check in times: 3 pm Check out: 11 am"
+    },
+    "check_out": {
+      "text": "11 am",
+      "quote": "Check in times: 3 pm Check out: 11 am"
+    },
+    "access": {
+      "text": "Off-grid camping on the Isle of Sheppey, Kent; limited facilities",
+      "quote": "This is off grid camping so there are limited facilities!"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Tent campsite on clifftop farmland; no sleeping units built on or into a cliff, so cliffside-hotels does not fit."
+  },
+  {
+    "id": "osm:node/12282665149",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "unclear",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.1,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Castello di San Lorenzo",
+    "property_type": "apartment",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Website returned no page text (HTTP 202) and the OSM tag only says apartment, so the evidence is too thin."
+  },
+  {
+    "id": "osm:node/12345814919",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "castle-hotels",
+    "also_fits": [],
+    "niche_scope": "some_units",
+    "niche_unit_count": 6,
+    "niche_feature": "Six hotel rooms in the historic castle wing; other rooms are in adjacent annex buildings",
+    "category_quote": "Dalle camere del Castello, alle quali si arriva solo tramite le antiche scale",
+    "confidence": 0.85,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Real Castello",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [
+      {
+        "text": "Historic interiors kept as they were",
+        "quote": "Nel rispetto della storicità di questa dimora si è voluto negli anni mantenere, curare e preservare l’autenticità dei luoghi"
+      },
+      {
+        "text": "Views over the Langhe",
+        "quote": "si possono ammirare lo stupendo paesaggio delle Langhe"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Hotel in Verduno with rooms in the historic castle wing; the other rooms are in annexes, so only some units fit."
+  },
+  {
+    "id": "osm:node/12445863352",
+    "is_lodging": false,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.4,
+    "red_flags": [
+      "restaurant_only",
+      "event_venue_only"
+    ],
+    "other_niche_type": null,
+    "official_name": "Castello di Corcolle",
+    "property_type": "other",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [
+      {
+        "text": "Event and ceremony venue in the Roman countryside",
+        "quote": "Il Castello di Corcolle, nel cuore della campagna romana, è la location perfetta per l'organizzazione di cerimonie private esclusive"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Farm restaurant and event venue; the site describes no rooms to stay in, so it is not lodging."
+  },
+  {
+    "id": "osm:node/12726825679",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "castle-hotels",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "38-room hotel inside the walls of a medieval castle on a hilltop in the Roero",
+    "category_quote": "All'interno delle mura del Castello, sulla sommit del borgo di Santa Vittoria d'Alba",
+    "confidence": 0.8,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Hotel Castello di Santa Vittoria",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": {
+      "value": 38,
+      "quote": "Romantiche e raffinate, le 38 camere offrono un rifugio accogliente"
+    },
+    "amenities": [
+      {
+        "text": "Restaurant inside the castle walls",
+        "quote": "Situato all'interno delle suggestive mura del Castello e a pochi passi dall'Hotel, il Ristorante propone una cucina"
+      },
+      {
+        "text": "Bar open daily",
+        "quote": "presente un bar aperto tutti i giorni dalle 07:30 del mattino all'1:00 di notte"
+      },
+      {
+        "text": "Outdoor pool (summer only)",
+        "quote": "presente una piscina esterna, aperta solamente nel periodo estivo"
+      },
+      {
+        "text": "Meeting rooms and parking",
+        "quote": "Bar, sale meeting, piscina estiva e parcheggio completano l'offerta"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Views over the Langhe and Roero hills",
+        "quote": "con una vista mozzafiato sulle colline delle Langhe e del Roero"
+      },
+      {
+        "text": "Accessible rooms with walk-in showers",
+        "quote": "sono disponibili camere accessibili, senza scalini e con walk-in shower"
+      }
+    ],
+    "season": {
+      "text": "Outdoor pool open in summer",
+      "quote": "presente una piscina esterna, aperta solamente nel periodo estivo"
+    },
+    "check_in": {
+      "text": "from 14:00",
+      "quote": "Il check-in disponibile dalle ore 14:00 alle ore 00:00"
+    },
+    "check_out": {
+      "text": "between 07:00 and 10:00",
+      "quote": "il check-out disponibile tra le ore 07:00 e le ore 10:00"
+    },
+    "access": {
+      "text": "By car, motorbike or taxi, to the hilltop",
+      "quote": "possibile raggiungere l'Hotel in auto/moto o con un servizio taxi"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Hotel located inside the walls of a castle on a hilltop, so the castle niche covers the whole property."
+  },
+  {
+    "id": "osm:node/13136122401",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": [
+      "theme_only"
+    ],
+    "other_niche_type": null,
+    "official_name": "La Finestra sul Castello B&B",
+    "property_type": "B&B",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [
+      {
+        "text": "View of the medieval castle from the B&B",
+        "quote": "Godetevi la vista mozzafiato sul castello medievale"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Ordinary B&B in Mussomeli that advertises a view of the castle; a castle view is not a castle stay."
+  },
+  {
+    "id": "osm:node/13360455928",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": [
+      "theme_only"
+    ],
+    "other_niche_type": null,
+    "official_name": "Corte dal Castello",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Free on-site parking",
+        "quote": "Gli ospiti apprezzeranno anche le soluzioni anallergiche, l’ingresso indipendente e la disponibilità del parcheggio gratuito in struttura"
+      },
+      {
+        "text": "Restaurant",
+        "quote": "Il ristorante di Corte dal Castello unisce l’autenticità della cucina italiana"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Lake Garda location near Gardaland and the Lazise thermal park",
+        "quote": "in un hotel sul Lago di Garda vicino a Gardaland e alle Terme di Lazise"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "Colà di Lazise, on Lake Garda",
+      "quote": "Il ristorante e Hotel Corte dal Castello è una struttura a conduzione familiare situata a Colà di Lazise"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Lake Garda hotel with restaurant; the castle in the name is not linked to any castle building or room."
+  },
+  {
+    "id": "osm:node/13905061328",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": "castle-hotels",
+    "also_fits": [],
+    "niche_scope": "whole_property",
+    "niche_unit_count": null,
+    "niche_feature": "Organic agriturismo with rooms in a historic castle in Chianti Classico",
+    "category_quote": "Il Castello sarà a vostra disposizione con le sue camere",
+    "confidence": 0.6,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Castello la Leccia",
+    "property_type": "guesthouse",
+    "address": null,
+    "room_count": {
+      "value": 12,
+      "quote": "Abbiamo creato all’interno della nostra azienda agricola biologica 12 camere di tre tipologie"
+    },
+    "amenities": [
+      {
+        "text": "Spa",
+        "quote": "Il Castello sarà a vostra disposizione con le sue camere, i saloni, il ristorante, la piscina, la SPA e gli altri servizi disponibili"
+      },
+      {
+        "text": "Restaurant",
+        "quote": "Il Castello sarà a vostra disposizione con le sue camere, i saloni, il ristorante, la piscina, la SPA e gli altri servizi disponibili"
+      },
+      {
+        "text": "Panoramic swimming pool",
+        "quote": "La piscina panoramica, aperta da maggio a settembre, si affaccia su vigneti ed oliveti"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Organic estate with its own olives and wine",
+        "quote": "Le nostre olive, tutte provenienti dalle olivete biologiche intorno al castello"
+      },
+      {
+        "text": "Charming agriturismo in Chianti Classico",
+        "quote": "Agriturismo di charme nel Chianti Classico"
+      }
+    ],
+    "season": {
+      "text": "Pool open May to September",
+      "quote": "La piscina panoramica, aperta da maggio a settembre, si affaccia su vigneti ed oliveti"
+    },
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "Castellina in Chianti, Siena province",
+      "quote": "Loc. La Leccia 53011 Castellina in Chianti (SI)"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Agriturismo whose castle houses rooms, pool and restaurant; the 12 rooms are described as part of the estate, so confidence is moderate."
+  },
+  {
+    "id": "osm:node/14150165231",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": [
+      "theme_only"
+    ],
+    "other_niche_type": null,
+    "official_name": "Hotel Castello",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": {
+      "value": 44,
+      "quote": "L Hotel Castello dispone di 44 camere su tre piani con ascensore"
+    },
+    "amenities": [
+      {
+        "text": "Beach service",
+        "quote": "Direttamente sul mare, servizio spiaggia, ideale per famiglie o coppie"
+      },
+      {
+        "text": "Free parking",
+        "quote": "La posizione privilegiata sul mare, il servizio spiaggia, la vicinanza al centro del paese, il parcheggio gratuito"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Boat trips, diving and snorkeling activities",
+        "quote": "Scopri le nostre attività: escursioni via mare o via terra, diving, snorkeling, dolphing watching e tanto altro!"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "Directly on the Terza Spiaggia beach, Golfo Aranci, Sardinia",
+      "quote": "L Hotel Castello si trova direttamente sulla Terza Spiaggia di Golfo Aranci"
+    },
+    "audience": "family_friendly",
+    "best_for": [],
+    "reason": "Ordinary seaside hotel named Castello on the beach in Golfo Aranci; no castle or other niche feature."
+  },
+  {
+    "id": "osm:node/14160053734",
+    "is_lodging": true,
+    "operating_status": "open",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "name_only",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.2,
+    "red_flags": [
+      "theme_only"
+    ],
+    "other_niche_type": null,
+    "official_name": "Monte Castello Bed & Breakfast",
+    "property_type": "B&B",
+    "address": null,
+    "room_count": null,
+    "amenities": [
+      {
+        "text": "Free Wi-Fi and air conditioning in all rooms",
+        "quote": "Sono presenti impianto di climatizzazione e di aspirazione, impianto Tv e connessione internet Wi-Fi gratuita in tutte le stanze"
+      },
+      {
+        "text": "Kitchenette",
+        "quote": "La struttura è dotata di un angolo cottura attrezzato"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Set on the Monte Castello hill, the first of the Murge",
+        "quote": "precisamente sul colle Monte Castello, il primo delle Murge nel territorio di Villa Castelli"
+      },
+      {
+        "text": "Early 1900s house recently renovated",
+        "quote": "Un accogliente casa dei primi del 900 ristrutturata di recente"
+      }
+    ],
+    "season": null,
+    "check_in": {
+      "text": "from 13:00",
+      "quote": "Il check-in si effettua dalle ore 13.00"
+    },
+    "check_out": {
+      "text": "until 10:00",
+      "quote": "Il check- out si effettua fino alle ore 10.00"
+    },
+    "access": {
+      "text": "In Villa Castelli, Puglia, on the Monte Castello hill",
+      "quote": "Il Bed & Breakfast Monte Castello è situato nel cuore della Puglia, precisamente sul colle Monte Castello"
+    },
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "B&B named after a hill called Monte Castello; the name is geographic and there is no castle stay."
+  },
+  {
+    "id": "osm:node/14179873932",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "unclear",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.1,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "Castello Conti Filo",
+    "property_type": "hotel",
+    "address": null,
+    "room_count": null,
+    "amenities": [],
+    "highlights": [],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": null,
+    "audience": "unknown",
+    "best_for": [],
+    "reason": "Website returned no page text (HTTP 202) and the OSM tag only says hotel, so the evidence is too thin."
+  }
+]
