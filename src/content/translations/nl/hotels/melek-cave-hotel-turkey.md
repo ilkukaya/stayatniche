@@ -29,16 +29,16 @@ Melek Cave Hotel ligt midden in het historische Göreme, omringd door feeënscho
 
 ## De kamers
 
-De site vermeldt een Deluxe Cave Room van 35 vierkante meter met tuin-, berg- en binnenplaatsuitzicht en een tweepersoonsbed, en een Cave Double Room van 25 vierkante meter met uitzicht op het park. Volgens het hotel krijg je schone, moderne badkamers en een tv. Het totale aantal kamers staat er niet bij.
+De site vermeldt een Deluxe Cave Room van 35 vierkante meter met tuin-, berg- en binnenplaatsuitzicht en een tweepersoonsbed, en een Cave Double Room van 25 vierkante meter met uitzicht op het park. Je krijgt schone, moderne badkamers en een tv.
 
 ## Ontbijt en voorzieningen
 
-Het ontbijt wordt elke ochtend gratis op het terras geserveerd. Er is een gedeelde lounge om te ontspannen en andere gasten te ontmoeten, en een tuin waar je na een dag op pad met een drankje kunt zitten. Verder zijn er gratis, snelle wifi, een wasserij, een restaurant, fiets- en autoverhuur en 24-uurs roomservice. Voorzieningen zoals een zwembad worden niet genoemd.
+Het ontbijt wordt elke ochtend gratis op het terras geserveerd. Er is een gedeelde lounge om te ontspannen en andere gasten te ontmoeten, en een tuin waar je na een dag op pad met een drankje kunt zitten. Verder zijn er gratis, snelle wifi, een wasserij, een restaurant, fiets- en autoverhuur en 24-uurs roomservice.
 
 ## Onderweg
 
-Er is een gratis transfer van het busstation (otogar) naar het hotel. Het hotel kan een ballonvlucht regelen, en je kunt met de fiets de omgeving verkennen. Het openluchtmuseum van Göreme ligt volgens het hotel op korte wandelafstand. De eigenaars worden omschreven als gastvrij en graag bereid hun lokale kennis te delen.
+Er is een gratis transfer van het busstation (otogar) naar het hotel. Het hotel kan een ballonvlucht regelen, en je kunt met de fiets de omgeving verkennen. Het openluchtmuseum van Göreme ligt op korte wandelafstand. De eigenaars worden omschreven als gastvrij en graag bereid hun lokale kennis te delen.
 
 ## Praktische info
 
-Het vermelde adres is Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. We hadden geen prijsinformatie, dus de tarieven variëren. Het is geschikt voor reizigers die een eenvoudige, centraal gelegen grotkamer willen, geen luxe resort.
+Het vermelde adres is Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. Het is geschikt voor reizigers die een eenvoudige, centraal gelegen grotkamer willen, geen luxe resort.

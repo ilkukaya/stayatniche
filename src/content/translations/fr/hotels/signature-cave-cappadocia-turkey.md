@@ -23,18 +23,18 @@ seo:
   metaDescription: "Signature Cave Cappadocia à Nevşehir : suites troglodytes, suite piscine avec accès direct au bassin, climatisation et vues panoramiques en Cappadoce."
 ---
 
-Signature Cave Cappadocia Trademark Collection by Wyndham est un hôtel-boutique dont l’identité repose sur ses suites troglodytes. L’établissement se présente comme un lieu où l’on se sent « immergé » dans la tranquillité de la Cappadoce, dans des suites troglodytes au confort raffiné, où l’histoire rencontre le confort moderne. C’est le seul hébergement troglodyte de cette sélection à s’inscrire sous la bannière d’un groupe hôtelier international.
+Signature Cave Cappadocia Trademark Collection by Wyndham est un hôtel-boutique dont l’identité repose sur ses suites troglodytes. Selon l’hôtel, on se sent « immergé » dans la tranquillité de la Cappadoce, dans des suites troglodytes au confort raffiné, où l’histoire rencontre le confort moderne. L’établissement s’inscrit sous la bannière d’un groupe hôtelier international.
 
 ## Les suites
 
-Les pages de chambres du site donnent le ton. La Signature Pool Suite, avec un lit double, donne directement sur le bassin et dispose d’un espace extérieur privatif pour s’asseoir. Les équipements listés en chambre sont un coffre-fort pour ordinateur portable, un bureau, des tapis de prière, un panier à linge, un coin salon et la climatisation. Toutes les suites ne sont pas décrites dans les documents consultés : la suite piscine ne doit donc pas être considérée comme représentative de l’ensemble. Le nombre de chambres n’est pas publié.
+Les pages de chambres du site donnent le ton. La Signature Pool Suite, avec un lit double, donne directement sur le bassin et dispose d’un espace extérieur privatif pour s’asseoir. Les équipements listés en chambre sont un coffre-fort pour ordinateur portable, un bureau, des tapis de prière, un panier à linge, un coin salon et la climatisation.
 
 ## Le cadre
 
-L’hôtel se décrit comme implanté au milieu des cheminées de fées et des formations rocheuses anciennes de la Cappadoce, avec des suites offrant chacune une vue panoramique sur le paysage. Sa promesse : allier patrimoine culturel et confort raffiné. Le site est disponible en turc et en anglais et propose une rubrique consacrée à la région.
+L’hôtel est implanté au milieu des cheminées de fées et des formations rocheuses anciennes de la Cappadoce, avec des suites offrant chacune une vue panoramique sur le paysage. La promesse : allier patrimoine culturel et confort raffiné. Le site est disponible en turc et en anglais et propose une rubrique consacrée à la région.
 
 ## Informations pratiques
 
-Aucun tarif ne nous a été communiqué : les prix varient donc. Les horaires d’arrivée et de départ, la formule du petit-déjeuner, ainsi que la présence d’un spa ou d’un restaurant ne figurent pas dans les pages consultées ; renseignez-vous auprès de l’hôtel. Comme il fait partie d’un groupe hôtelier, attendez-vous à des modalités de réservation et à des règles plus standardisées que dans les maisons troglodytes familiales voisines.
+Renseignez-vous auprès de l’hôtel sur les horaires d’arrivée et de départ, la formule du petit-déjeuner ainsi que la présence d’un spa ou d’un restaurant. Comme il fait partie d’un groupe hôtelier, attendez-vous à des modalités de réservation et à des règles plus standardisées que dans les maisons troglodytes familiales voisines.
 
-Ce lieu convient aux voyageurs qui veulent un séjour troglodyte avec la familiarité d’un hôtel de marque, et à ceux qui souhaitent une piscine directement reliée à leur chambre. Si vous préférez une petite maison familiale à l’histoire personnelle, d’autres adresses de ce guide vous conviendront peut-être mieux.
+Ce lieu convient aux voyageurs qui veulent un séjour troglodyte avec la familiarité d’un hôtel de marque, et à ceux qui souhaitent une piscine directement reliée à leur chambre. Si vous préférez une petite maison familiale à l’histoire personnelle, les maisons troglodytes familiales voisines vous conviendront peut-être mieux.

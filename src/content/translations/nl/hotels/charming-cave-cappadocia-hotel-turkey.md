@@ -34,6 +34,6 @@ Het ontbijt wordt geserveerd van 7:30 tot 10:00. Het hotel biedt gratis snel int
 
 ## Praktische tips
 
-Het vermelde adres is Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme. Prijzen waren niet beschikbaar, dus de tarieven verschillen. Een zwembad of spa wordt niet genoemd. Inchecken en uitchecken: de tijden stonden niet vermeld op de pagina's die wij hebben bekeken.
+Het vermelde adres is Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme.
 
-Dit is een goede keuze voor reizigers die in Göreme een eenvoudige grotkamer willen, waarschijnlijk tegen een gunstige prijs, en voor gezinnen die de driepersoonssuite kunnen gebruiken. Geef bij het reserveren de categorie grotkamer aan, zoals bij de meeste gemengde hotels, en controleer het bedtype van de driepersoonssuite als je als gezin reist.
+Dit is een goede keuze voor reizigers die in Göreme een eenvoudige grotkamer willen, en voor gezinnen die de driepersoonssuite kunnen gebruiken. Geef bij het reserveren de categorie grotkamer aan, zoals bij de meeste gemengde hotels, en controleer het bedtype van de driepersoonssuite als je als gezin reist.

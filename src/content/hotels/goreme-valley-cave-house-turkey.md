@@ -47,4 +47,4 @@ The site describes Cappadocia as a landscape where balloons float above the fair
 
 ## Practical notes
 
-We have no verified details on breakfast, a pool, check-in times or prices, so rates vary and you should confirm these. If you want a cave room, request one by category, since only three of the rooms are underground. The guesthouse is a sensible pick for families who need space, and for anyone who wants a smaller, home-style place in Göreme rather than a hotel with a long facilities list.
+If you want a cave room, request one by category, since only three of the rooms are underground. The guesthouse is a sensible pick for families who need space, and for anyone who wants a smaller, home-style place in Göreme rather than a hotel with a long facilities list.

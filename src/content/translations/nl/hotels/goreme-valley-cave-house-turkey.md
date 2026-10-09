@@ -36,4 +36,4 @@ De site beschrijft Cappadocië als een landschap waar bij zonsopgang ballonnen b
 
 ## Praktische informatie
 
-Over ontbijt, zwembad, incheektijden en prijzen hebben we geen geverifieerde gegevens; de tarieven variëren dus en het is verstandig dit na te vragen. Wil je een grotkamer, vraag er dan expliciet naar per categorie, want slechts drie kamers liggen ondergronds. Dit gastenhuis is een goede keuze voor gezinnen die ruimte nodig hebben, en voor wie een kleinere, huiselijke plek in Göreme wil in plaats van een hotel met een lange lijst voorzieningen.
+Wil je een grotkamer, vraag er dan expliciet naar per categorie, want slechts drie kamers liggen ondergronds. Dit gastenhuis is een goede keuze voor gezinnen die ruimte nodig hebben, en voor wie een kleinere, huiselijke plek in Göreme wil in plaats van een hotel met een lange lijst voorzieningen.

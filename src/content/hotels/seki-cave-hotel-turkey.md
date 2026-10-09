@@ -42,7 +42,7 @@ The hotel positions itself on tranquillity. It describes Çavuşin as the "new h
 
 ## Service
 
-Reception is open 24 hours, and the hotel is pet friendly. Check-in is at 14:00 and check-out at 12:00. Room counts, sizes and types are not stated in the pages we reviewed.
+Reception is open 24 hours, and the hotel is pet friendly. Check-in is at 14:00 and check-out at 12:00.
 
 ## The group
 
@@ -50,6 +50,6 @@ Seki's booking engine also lists Kelebek Cave Hotel, Sultan Cave Hotel and Aza C
 
 ## Practical notes
 
-Because Çavuşin is a few kilometres from Göreme, plan for a short transfer if you intend to eat out or join tours there; the hotel has a tours and activities section and concierge service on its site. Prices were not available to us, so rates vary.
+Because Çavuşin is a few kilometres from Göreme, plan for a short transfer if you intend to eat out or join tours there; the hotel has a tours and activities section and concierge service on its site.
 
 This is a good fit for travellers who value calm and a private terrace over being in the middle of town. It is less suited to anyone who wants to step out into a busy square.

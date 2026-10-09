@@ -29,16 +29,16 @@ Melek Cave Hotel se trouve au cœur du Göreme historique, entouré de cheminée
 
 ## Les chambres
 
-Le site présente une Deluxe Cave Room de 35 m², avec vue sur le jardin, la montagne et la cour intérieure, et un lit double, ainsi qu’une Cave Double Room de 25 m² avec vue sur le parc. L’établissement assure que les salles de bain sont propres et modernes, et qu’une télévision est fournie. Le nombre total de chambres n’est pas indiqué.
+Le site présente une Deluxe Cave Room de 35 m², avec vue sur le jardin, la montagne et la cour intérieure, et un lit double, ainsi qu’une Cave Double Room de 25 m² avec vue sur le parc. Les salles de bain sont propres et modernes, et une télévision est fournie.
 
 ## Petit-déjeuner et équipements
 
-Le petit-déjeuner est servi gratuitement chaque matin sur la terrasse. Un salon commun permet de se détendre et de rencontrer d’autres voyageurs, et un jardin invite à prendre un verre après une journée d’excursion. Parmi les autres services figurent un Wi-Fi gratuit et rapide, une laverie, un restaurant, la location de vélos et de voitures, ainsi qu’un service en chambre 24 h sur 24. Des équipements comme une piscine ne sont pas mentionnés.
+Le petit-déjeuner est servi gratuitement chaque matin sur la terrasse. Un salon commun permet de se détendre et de rencontrer d’autres voyageurs, et un jardin invite à prendre un verre après une journée d’excursion. Parmi les autres services figurent un Wi-Fi gratuit et rapide, une laverie, un restaurant, la location de vélos et de voitures, ainsi qu’un service en chambre 24 h sur 24.
 
 ## Se déplacer
 
-Une navette gratuite relie la gare routière (otogar) à l’hôtel. L’établissement peut organiser une excursion en montgolfière, et des vélos permettent d’explorer les environs. Le musée en plein air de Göreme se trouve à quelques pas, selon l’hôtel. Les propriétaires sont décrits comme accueillants et heureux de partager leur connaissance de la région.
+Une navette gratuite relie la gare routière (otogar) à l’hôtel. L’établissement peut organiser une excursion en montgolfière, et des vélos permettent d’explorer les environs. Le musée en plein air de Göreme se trouve à quelques pas. Les propriétaires sont décrits comme accueillants et heureux de partager leur connaissance de la région.
 
 ## Informations pratiques
 
-L’adresse indiquée est Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. Nous n’avons pas eu accès aux prix, les tarifs varient donc. Cet hôtel convient à ceux qui cherchent une chambre troglodyte simple et centrale plutôt qu’un complexe de luxe.
+L’adresse indiquée est Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. Cet hôtel convient à ceux qui cherchent une chambre troglodyte simple et centrale plutôt qu’un complexe de luxe.

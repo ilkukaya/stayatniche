@@ -27,7 +27,7 @@ Aldourie Castle non è un hotel in senso classico. È un castello baronale sulle
 
 ## La casa
 
-Il sito descrive il castello come radicato nella tradizione classica di una casa di campagna scozzese, con un'influenza del design danese contemporaneo. Le camere sono definite eleganti, capaci di unire comfort e carattere, e un team si prende cura degli ospiti. Il castello è dotato di personale al completo e prevede pulizie quotidiane. Non abbiamo dettagli stanza per stanza, quindi non descriviamo le singole camere.
+Il sito descrive il castello come radicato nella tradizione classica di una casa di campagna scozzese, con un'influenza del design danese contemporaneo. Le camere sono definite eleganti, capaci di unire comfort e carattere, e un team si prende cura degli ospiti. Il castello è dotato di personale al completo e prevede pulizie quotidiane.
 
 ## Cucina
 
@@ -39,4 +39,4 @@ Gli ospiti possono usare la yurta sauna tra gli alberi sul Loch Ness, e nei Stea
 
 ## Note pratiche
 
-I prezzi non erano pubblicati nelle pagine che abbiamo esaminato. Le tariffe in esclusiva dipendono da date e dimensione del gruppo, quindi variano e conviene chiedere. Il castello si trova nelle Highlands, vicino a Inverness. È un'ottima scelta per celebrazioni e vacanze di gruppo, ma non è predisposto per soggiorni da soli.
+Il castello si trova nelle Highlands, vicino a Inverness. È un'ottima scelta per celebrazioni e vacanze di gruppo, ma non è predisposto per soggiorni da soli.

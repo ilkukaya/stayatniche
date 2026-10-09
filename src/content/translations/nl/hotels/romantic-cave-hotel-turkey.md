@@ -26,14 +26,14 @@ Het Romantic Cave Hotel is een hotel met zeven kamers in Ürgüp, waarvan elke k
 
 ## De kamers
 
-Op de website staan onder meer Oublite en Osiana, elk 30 vierkante meter, en Katbatuka en Helen, elk 40 vierkante meter. Daarnaast is er een Master Room. Alle kamers worden aangeboden met uitzicht op Cappadocië. Het hotel zet in op jacuzzi-suites en terrassen. Thee, koffie, wifi en een speciaal ontbijt worden genoemd als voorziening op de kamer of als inbegrepen, voor de kamers die wij hebben gezien.
+Op de website staan onder meer Oublite en Osiana, elk 30 vierkante meter, en Katbatuka en Helen, elk 40 vierkante meter. Daarnaast is er een Master Room. Alle kamers worden aangeboden met uitzicht op Cappadocië. Het hotel zet in op jacuzzi-suites en terrassen. Thee, koffie, wifi en een speciaal ontbijt worden genoemd als voorziening op de kamer of als inbegrepen.
 
 ## Service
 
-Het hotel biedt gratis wifi, ontbijt en een 24-uurs receptie, zodat gasten op elk moment van de dag rust vinden. Het hotel zegt vijftig jaar ervaring te hebben in wat het de bijzonderste verblijfservaring van Cappadocië noemt. Dat is een bewering van het hotel zelf, die we niet hebben gecontroleerd. De site heeft ook pagina's over activiteiten en nieuws.
+Het hotel biedt gratis wifi, ontbijt en een 24-uurs receptie, zodat gasten op elk moment van de dag rust vinden. Het hotel zegt vijftig jaar ervaring te hebben in wat het de bijzonderste verblijfservaring van Cappadocië noemt. De site heeft ook pagina's over activiteiten en nieuws.
 
 ## Praktische tips
 
-Het vermelde adres is Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Prijzen waren niet beschikbaar, dus de tarieven verschillen. Een zwembad wordt niet genoemd. Met slechts zeven kamers is het slim om tijdig te boeken in het ballonseizoen.
+Het vermelde adres is Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Met slechts zeven kamers is het slim om tijdig te boeken in het ballonseizoen.
 
 Dit is een eenvoudige keuze voor een stel dat een kleine grotaccommodatie met jacuzzi in Ürgüp zoekt. Minder geschikt voor grote groepen of voor wie restaurants en spa ter plekke verwacht.

@@ -34,4 +34,4 @@ La gastronomía es uno de los ejes. El hotel define su propuesta como una experi
 
 ## Notas prácticas
 
-La dirección indicada es Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. Los números de habitación, las superficies y los precios no aparecen en las páginas que revisamos, así que las tarifas varían. Es el alojamiento de esta selección que elegirías si buscas un entorno de cueva con enfoque de diseño y un nivel más alto, y con spa en el propio hotel.
+La dirección indicada es Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. Es el alojamiento que elegirías si buscas un entorno de cueva con enfoque de diseño y un nivel más alto, y con spa en el propio hotel.

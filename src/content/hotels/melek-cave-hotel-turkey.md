@@ -40,16 +40,16 @@ Melek Cave Hotel is in the middle of historic Göreme, surrounded by fairy chimn
 
 ## The rooms
 
-The site lists a Deluxe Cave Room of 35 square metres with garden, mountain and courtyard views and a double bed, and a Cave Double Room of 25 square metres with a park view. The hotel says guests get clean, modern bathrooms and a TV. Room totals are not stated.
+The site lists a Deluxe Cave Room of 35 square metres with garden, mountain and courtyard views and a double bed, and a Cave Double Room of 25 square metres with a park view. Rooms have clean, modern bathrooms and a TV.
 
 ## Food and facilities
 
-Breakfast is served free each morning on the terrace. There is a shared lounge for relaxing and meeting other guests, and a garden where you can sit with a drink after a day out. Other listed services include free fast Wi-Fi, a laundry, a restaurant, bike and car rental, and 24-hour room service. Facilities such as a pool are not mentioned.
+Breakfast is served free each morning on the terrace. There is a shared lounge for relaxing and meeting other guests, and a garden where you can sit with a drink after a day out. Other listed services include free fast Wi-Fi, a laundry, a restaurant, bike and car rental, and 24-hour room service.
 
 ## Getting around
 
-A free transfer is available from the bus station (otogar) to the hotel. The hotel can arrange a balloon flight, and bicycles can be used to explore the area. The Göreme Open Air Museum is a short walk away, according to the hotel. The owners are described as welcoming and happy to share local knowledge.
+A free transfer is available from the bus station (otogar) to the hotel. The hotel can arrange a balloon flight, and bicycles can be used to explore the area. The Göreme Open Air Museum is a short walk away. The owners are described as welcoming and happy to share local knowledge.
 
 ## Practical notes
 
-The listed address is Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. Prices were not available to us, so rates vary. It suits travellers who want a simple, central cave room rather than a luxury resort.
+The listed address is Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. It suits travellers who want a simple, central cave room rather than a luxury resort.

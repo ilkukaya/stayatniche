@@ -24,16 +24,16 @@ Lo Splendid Cave Hotel di Ortahisar è una struttura mista, e conviene chiarirlo
 
 ## Le camere
 
-Le camere in grotta si dividono in più categorie. Il sito riporta una Superior Suit Cave Room (306), una Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 e 204) e Standard Double Cave Rooms (402, 302, 301 e 205). Ogni scheda menziona TV, telefono e minibar. Nei testi che abbiamo esaminato il sito non indica metrature, tipi di letto né foto degli interni scavati, quindi chiedi alla struttura com’è ciascuna camera prima di sceglierla.
+Le camere in grotta si dividono in più categorie. Il sito riporta una Superior Suit Cave Room (306), una Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 e 204) e Standard Double Cave Rooms (402, 302, 301 e 205). Ogni scheda menziona TV, telefono e minibar. Chiedi alla struttura com’è ciascuna camera prima di sceglierla.
 
 In fase di prenotazione, indica la camera in grotta per nome o numero. Se vuoi l’esperienza completa in grotta, evita le due camere standard.
 
 ## La zona
 
-L’hotel si trova a Ortahisar, un villaggio nel cuore della Cappadocia. Oltre al nome del villaggio non abbiamo dettagli verificati sui dintorni, quindi non descriviamo panorami né distanze a piedi che l’hotel non dichiara.
+L’hotel si trova a Ortahisar, un villaggio nel cuore della Cappadocia.
 
 ## Informazioni pratiche
 
-Il sito ha una pagina dedicata ai trasferimenti e una per le prenotazioni, e consente di visualizzare i prezzi in lire turche, dollari statunitensi o euro. Non siamo riusciti a confermare i prezzi, quindi le tariffe risultano variabili. Colazione, piscina o servizi spa non sono indicati nel materiale che abbiamo esaminato: verifica cosa è incluso prima di prenotare.
+Il sito ha una pagina dedicata ai trasferimenti e una per le prenotazioni, e consente di visualizzare i prezzi in lire turche, dollari statunitensi o euro. Verifica con la struttura cosa è incluso prima di prenotare.
 
-È una scelta sensata se cerchi un soggiorno in grotta non troppo costoso in un villaggio più tranquillo del principale centro turistico, e se non ti dispiace che alcune camere siano convenzionali. Meno adatta a chi vuole una struttura interamente scavata o ha bisogno di informazioni dettagliate sui servizi prima di partire.
+È una scelta sensata se cerchi un soggiorno in grotta non troppo costoso in un villaggio più tranquillo del principale centro turistico, e se non ti dispiace che alcune camere siano convenzionali. Meno adatta a chi vuole una struttura interamente scavata.

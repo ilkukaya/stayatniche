@@ -23,7 +23,7 @@ seo:
   metaDescription: "Georgios Cave Cappadocia à Ürgüp : manoir grec historique en pierre, neuf chambres dont plusieurs avec jacuzzi et terrasse sur les montgolfières."
 ---
 
-Georgios Cave Cappadocia occupe un manoir grec (rum) enregistré à Ürgüp, et son parti pris associe architecture traditionnelle en pierre et confort moderne. Le « cave » du nom est une appellation régionale plutôt qu’une promesse : toutes les chambres ne sont pas creusées dans la colline. La liste des prestations de l’hôtel évoque des « stone/rock rooms », sans préciser la part de pierre taillée et celle de pierre construite.
+Georgios Cave Cappadocia occupe un manoir grec (rum) enregistré à Ürgüp, et son parti pris associe architecture traditionnelle en pierre et confort moderne. Le « cave » du nom est une appellation régionale plutôt qu’une promesse : toutes les chambres ne sont pas creusées dans la colline. L’hôtel parle de « stone/rock rooms ».
 
 ## Les chambres
 
@@ -35,4 +35,4 @@ Un petit-déjeuner copieux aux saveurs locales est proposé. L’hôtel indique 
 
 ## Informations pratiques
 
-L’hôtel organise des visites guidées des vallées et aide à réserver des vols en montgolfière. Aucun tarif n’est publié dans les documents consultés : les prix varient donc.
+L’hôtel organise des visites guidées des vallées et aide à réserver des vols en montgolfière.

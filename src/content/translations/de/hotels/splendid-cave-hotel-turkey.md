@@ -24,16 +24,16 @@ Das Splendid Cave Hotel in Ortahisar ist ein gemischtes Haus, und das sollten Si
 
 ## Die Zimmer
 
-Die Höhlenzimmer gibt es in mehreren Kategorien. Die Website nennt ein Superior Suit Cave Room (306), ein Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 und 204) und Standard Double Cave Rooms (402, 302, 301 und 205). Zu jedem Zimmer werden TV, Telefon und Minibar angegeben. Die Website veröffentlicht im Text, den wir geprüft haben, weder Zimmergrößen noch Bettarten oder Fotos der ausgehöhlten Innenräume. Fragen Sie das Hotel daher, wie ein Zimmer aussieht, bevor Sie eines wählen.
+Die Höhlenzimmer gibt es in mehreren Kategorien. Die Website nennt ein Superior Suit Cave Room (306), ein Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 und 204) und Standard Double Cave Rooms (402, 302, 301 und 205). Zu jedem Zimmer werden TV, Telefon und Minibar angegeben. Fragen Sie das Hotel, wie ein Zimmer aussieht, bevor Sie eines wählen.
 
 Bei der Buchung nennen Sie das gewünschte Zimmer mit Namen oder Nummer. Wenn Sie das volle Höhlenerlebnis möchten, meiden Sie die beiden Standardzimmer.
 
 ## Die Lage
 
-Das Hotel liegt in Ortahisar, einem Dorf im Zentrum Kappadokiens. Über den Dorfnamen hinaus haben wir keine geprüften Angaben zur Umgebung, daher beschreiben wir weder Ausblicke noch Gehstrecken, die das Hotel nicht selbst nennt.
+Das Hotel liegt in Ortahisar, einem Dorf im Zentrum Kappadokiens.
 
 ## Praktische Hinweise
 
-Die Website hat eine Seite mit Transfers und eine Reservierungsseite; Preise lassen sich in türkischen Lira, US-Dollar oder Euro anzeigen. Wir konnten die Preise nicht bestätigen, daher sind die Tarife als schwankend angegeben. Frühstück, Pool oder Spa werden im geprüften Material nicht erwähnt; klären Sie vor der Buchung, was inbegriffen ist.
+Die Website hat eine Seite mit Transfers und eine Reservierungsseite; Preise lassen sich in türkischen Lira, US-Dollar oder Euro anzeigen. Klären Sie vor der Buchung mit dem Hotel, was inbegriffen ist.
 
-Dies ist eine vernünftige Wahl, wenn Sie einen bescheidenen Höhlenaufenthalt in einem ruhigeren Dorf als dem touristischen Zentrum suchen und nichts dagegen haben, dass einige Zimmer konventionell sind. Weniger geeignet ist es für Reisende, die ein vollständig ausgehöhltes Haus wünschen oder vorab detaillierte Angaben zur Ausstattung brauchen.
+Dies ist eine vernünftige Wahl, wenn Sie einen bescheidenen Höhlenaufenthalt in einem ruhigeren Dorf als dem touristischen Zentrum suchen und nichts dagegen haben, dass einige Zimmer konventionell sind. Weniger geeignet ist es für Reisende, die ein vollständig ausgehöhltes Haus wünschen.

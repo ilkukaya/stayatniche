@@ -26,14 +26,14 @@ Le Romantic Cave Hotel est un hôtel de sept chambres situé à Ürgüp, où cha
 
 ## Les chambres
 
-Parmi les chambres présentées sur le site figurent Oublite et Osiana, de 30 m² chacune, Katbatuka et Helen, de 40 m² chacune, ainsi qu'une Master Room. Toutes sont proposées avec vue sur la Cappadoce. L'hôtel met en avant ses suites avec jacuzzi et ses terrasses. Thé, café, Wi-Fi et un petit-déjeuner spécial figurent parmi les équipements ou prestations incluses pour les chambres que nous avons consultées.
+Parmi les chambres présentées sur le site figurent Oublite et Osiana, de 30 m² chacune, Katbatuka et Helen, de 40 m² chacune, ainsi qu'une Master Room. Toutes sont proposées avec vue sur la Cappadoce. L'hôtel met en avant ses suites avec jacuzzi et ses terrasses. Thé, café, Wi-Fi et un petit-déjeuner spécial figurent parmi les équipements ou prestations incluses.
 
 ## Service
 
-L'hôtel propose le Wi-Fi gratuit, le petit-déjeuner et une réception ouverte 24 h/24, pour que chacun puisse profiter du calme à toute heure. Il affirme avoir cinquante ans d'expérience dans ce qu'il présente comme l'expérience d'hébergement la plus singulière de Cappadoce. Il s'agit d'une affirmation de l'hôtel que nous n'avons pas vérifiée. Le site propose également des rubriques consacrées aux activités et à l'actualité.
+L'hôtel propose le Wi-Fi gratuit, le petit-déjeuner et une réception ouverte 24 h/24, pour que chacun puisse profiter du calme à toute heure. Il affirme avoir cinquante ans d'expérience dans ce qu'il présente comme l'expérience d'hébergement la plus singulière de Cappadoce. Le site propose également des rubriques consacrées aux activités et à l'actualité.
 
 ## Conseils pratiques
 
-L'adresse indiquée est Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Les tarifs n'étant pas disponibles, ils varient. Aucune piscine n'est mentionnée. Avec seulement sept chambres, mieux vaut réserver tôt pendant la saison des montgolfières.
+L'adresse indiquée est Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Avec seulement sept chambres, mieux vaut réserver tôt pendant la saison des montgolfières.
 
 Ce séjour est une option simple pour un couple qui cherche une petite adresse troglodyte à Ürgüp avec jacuzzi. Il convient moins aux grands groupes ou à ceux qui attendent des restaurants et un spa sur place.

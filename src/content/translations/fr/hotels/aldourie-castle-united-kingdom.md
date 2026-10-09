@@ -27,7 +27,7 @@ Aldourie Castle n'est pas un hôtel au sens habituel. C'est un château baronnia
 
 ## La maison
 
-Le site décrit un château ancré dans l'héritage classique d'une demeure de campagne écossaise, avec une influence du design danois contemporain. Les chambres sont présentées comme élégantes, alliant confort et caractère, et une équipe veille sur les hôtes. Le château est entièrement doté de personnel et propose un ménage quotidien. Nous ne disposons d'aucun détail pièce par pièce : nous ne décrivons donc pas les chambres individuellement.
+Le site décrit un château ancré dans l'héritage classique d'une demeure de campagne écossaise, avec une influence du design danois contemporain. Les chambres sont présentées comme élégantes, alliant confort et caractère, et une équipe veille sur les hôtes. Le château est entièrement doté de personnel et propose un ménage quotidien.
 
 ## Restauration
 
@@ -39,4 +39,4 @@ Les hôtes peuvent profiter du sauna en yourte parmi les arbres, au bord du Loch
 
 ## Conseils pratiques
 
-Les tarifs ne figurent pas sur les pages que nous avons consultées ; ils dépendent des dates et de la taille du groupe, ils varient donc et il convient de se renseigner. Le château se trouve dans les Highlands, près d'Inverness. C'est un excellent choix pour les fêtes et les vacances en groupe ; il n'est pas prévu pour les nuitées en solo.
+Le château se trouve dans les Highlands, près d'Inverness. C'est un excellent choix pour les fêtes et les vacances en groupe ; il n'est pas prévu pour les nuitées en solo.

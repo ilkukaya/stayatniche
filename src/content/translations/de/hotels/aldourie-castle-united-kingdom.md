@@ -27,7 +27,7 @@ Aldourie Castle ist kein Hotel im üblichen Sinne. Es handelt sich um ein Baroni
 
 ## Das Haus
 
-Die Website beschreibt das Schloss als im klassischen Erbe eines schottischen Landhauses verwurzelt, mit einem zeitgenössischen dänischen Designeinfluss. Die Zimmer werden als elegant beschrieben, verbinden Komfort mit Charakter, und ein Team kümmert sich um die Gäste. Das Schloss ist vollständig besetzt und umfasst tägliches Housekeeping. Zu einzelnen Zimmern liegen uns keine Details vor, daher beschreiben wir die Schlafzimmer nicht einzeln.
+Die Website beschreibt das Schloss als im klassischen Erbe eines schottischen Landhauses verwurzelt, mit einem zeitgenössischen dänischen Designeinfluss. Die Zimmer werden als elegant beschrieben, verbinden Komfort mit Charakter, und ein Team kümmert sich um die Gäste. Das Schloss ist vollständig besetzt und umfasst tägliches Housekeeping.
 
 ## Essen
 
@@ -39,4 +39,4 @@ Gäste können die Saunajurte zwischen den Bäumen am Loch Ness nutzen, und in d
 
 ## Praktische Hinweise
 
-Preise wurden auf den von uns gesichteten Seiten nicht veröffentlicht. Tarife für die exklusive Miete hängen von Terminen und Gruppengröße ab, daher variieren sie, und Sie sollten anfragen. Das Schloss liegt in den Highlands nahe Inverness. Es ist eine starke Wahl für Feiern und Gruppenurlaube, aber nicht für Einzelübernachtungen ausgelegt.
+Das Schloss liegt in den Highlands nahe Inverness. Es ist eine starke Wahl für Feiern und Gruppenurlaube, aber nicht für Einzelübernachtungen ausgelegt.

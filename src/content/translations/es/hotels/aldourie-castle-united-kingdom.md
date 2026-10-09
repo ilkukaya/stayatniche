@@ -27,7 +27,7 @@ Aldourie Castle no es un hotel en el sentido habitual. Es un castillo señorial 
 
 ## La casa
 
-La web describe el castillo como una casa de campo escocesa de tradición clásica, con influencia del diseño danés contemporáneo. Las habitaciones se presentan como elegantes, combinan confort y carácter, y un equipo atiende a los huéspedes. El castillo cuenta con personal completo e incluye limpieza diaria. No tenemos detalles habitación por habitación, así que no describimos cada dormitorio por separado.
+La web describe el castillo como una casa de campo escocesa de tradición clásica, con influencia del diseño danés contemporáneo. Las habitaciones se presentan como elegantes, combinan confort y carácter, y un equipo atiende a los huéspedes. El castillo cuenta con personal completo e incluye limpieza diaria.
 
 ## Gastronomía
 
@@ -39,4 +39,4 @@ Los huéspedes pueden disfrutar de la sauna yurta entre los árboles junto al Lo
 
 ## Notas prácticas
 
-No se publicaban precios en las páginas que revisamos. Las tarifas en exclusiva dependen de las fechas y del tamaño del grupo, así que varían y conviene consultar. El castillo está en las Tierras Altas, cerca de Inverness. Es una gran opción para celebraciones y vacaciones en grupo, pero no está pensado para estancias individuales.
+El castillo está en las Tierras Altas, cerca de Inverness. Es una gran opción para celebraciones y vacaciones en grupo, pero no está pensado para estancias individuales.

@@ -31,7 +31,7 @@ Das Hotel setzt auf Ruhe. Çavuşin gilt laut Hotel als der „neue Szeneort“ 
 
 ## Service
 
-Die Rezeption ist rund um die Uhr besetzt, und das Hotel ist haustierfreundlich. Check-in ist um 14:00 Uhr, Check-out um 12:00 Uhr. Zimmerzahl, Größen und Typen werden auf den von uns gesichteten Seiten nicht angegeben.
+Die Rezeption ist rund um die Uhr besetzt, und das Hotel ist haustierfreundlich. Check-in ist um 14:00 Uhr, Check-out um 12:00 Uhr.
 
 ## Die Gruppe
 
@@ -39,6 +39,6 @@ Die Buchungsplattform von Seki bietet auch das Kelebek Cave Hotel, das Sultan Ca
 
 ## Praktische Hinweise
 
-Da Çavuşin nur wenige Kilometer von Göreme entfernt liegt, sollten Sie für Restaurantbesuche oder Touren dort eine kurze Fahrt einplanen. Das Hotel bietet auf seiner Website einen Bereich für Touren und Aktivitäten sowie einen Concierge-Service. Preise lagen uns nicht vor, die Tarife variieren daher.
+Da Çavuşin nur wenige Kilometer von Göreme entfernt liegt, sollten Sie für Restaurantbesuche oder Touren dort eine kurze Fahrt einplanen. Das Hotel bietet auf seiner Website einen Bereich für Touren und Aktivitäten sowie einen Concierge-Service.
 
 Dieses Haus passt zu Reisenden, denen Ruhe und eine private Terrasse wichtiger sind als eine Lage mitten im Ort. Weniger geeignet ist es für alle, die direkt auf einen belebten Platz treten möchten.

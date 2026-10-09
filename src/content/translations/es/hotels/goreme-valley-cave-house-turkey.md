@@ -36,4 +36,4 @@ La web describe Capadocia como un paisaje donde los globos flotan sobre las chim
 
 ## Notas prácticas
 
-No tenemos datos verificados sobre el desayuno, la piscina, los horarios de check-in ni los precios, así que las tarifas varían y conviene confirmarlo. Si quieres una habitación cueva, pídela por categoría, ya que solo tres habitaciones son subterráneas. La casa de huéspedes es una buena opción para familias que necesitan espacio y para quien prefiere un alojamiento más pequeño y acogedor en Göreme, en lugar de un hotel con una larga lista de servicios.
+Si quieres una habitación cueva, pídela por categoría, ya que solo tres habitaciones son subterráneas. La casa de huéspedes es una buena opción para familias que necesitan espacio y para quien prefiere un alojamiento más pequeño y acogedor en Göreme, en lugar de un hotel con una larga lista de servicios.

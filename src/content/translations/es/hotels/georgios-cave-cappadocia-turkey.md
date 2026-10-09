@@ -23,7 +23,7 @@ seo:
   metaDescription: "Georgios Cave Cappadocia en Ürgüp: mansión griega histórica de piedra con nueve habitaciones, muchas con jacuzzi, y terraza para ver los globos."
 ---
 
-Georgios Cave Cappadocia ocupa una mansión griega (rum) registrada en Ürgüp, y su propuesta combina la arquitectura tradicional de piedra con la comodidad moderna. La «cave» del nombre es una etiqueta regional y no una promesa de que cada habitación esté excavada en la ladera: el propio hotel habla de «stone/rock rooms», pero no detalla qué mezcla de piedra tallada y piedra construida tiene.
+Georgios Cave Cappadocia ocupa una mansión griega (rum) registrada en Ürgüp, y su propuesta combina la arquitectura tradicional de piedra con la comodidad moderna. La «cave» del nombre es una etiqueta regional y no una promesa de que cada habitación esté excavada en la ladera: el hotel habla de «stone/rock rooms».
 
 ## Las habitaciones
 
@@ -35,4 +35,4 @@ Se ofrece un desayuno abundante con sabores locales. El hotel dice que su restau
 
 ## Notas prácticas
 
-El hotel organiza visitas guiadas por los valles y ayuda a reservar vuelos en globo aerostático. En el material que revisamos no se publican precios, así que las tarifas varían.
+El hotel organiza visitas guiadas por los valles y ayuda a reservar vuelos en globo aerostático.

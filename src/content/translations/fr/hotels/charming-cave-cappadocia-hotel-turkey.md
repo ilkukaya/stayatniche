@@ -34,6 +34,6 @@ Le petit-déjeuner est servi de 7 h 30 à 10 h. L'établissement propose un Inte
 
 ## Conseils pratiques
 
-L'adresse indiquée est Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme. Les tarifs n'étant pas disponibles, ils varient. Piscine et spa ne sont pas mentionnés. Les horaires d'arrivée et de départ ne figurent pas sur les pages que nous avons consultées.
+L'adresse indiquée est Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme.
 
-Ce séjour convient à ceux qui souhaitent une chambre troglodyte simple à Göreme, à un prix vraisemblablement modéré, et aux familles qui peuvent profiter de la suite triple. Comme dans la plupart des établissements mixtes, précisez la catégorie de chambre troglodyte lors de la réservation, et vérifiez la configuration des lits de la suite triple si vous voyagez en famille.
+Ce séjour convient à ceux qui souhaitent une chambre troglodyte simple à Göreme, et aux familles qui peuvent profiter de la suite triple. Comme dans la plupart des établissements mixtes, précisez la catégorie de chambre troglodyte lors de la réservation, et vérifiez la configuration des lits de la suite triple si vous voyagez en famille.

@@ -34,20 +34,20 @@ publishedDate: 2026-10-09
 status: published
 ---
 
-Sultan Cave Suites stands on Aydınlı Hill, a historic spot above Göreme village. The hotel says it was built over cave houses that local people used for centuries, and that the original cave walls were carefully preserved. With 35 rooms, it is among the larger cave hotels in this batch.
+Sultan Cave Suites stands on Aydınlı Hill, a historic spot above Göreme village. It was built over cave houses that local people used for centuries, and the original cave walls were carefully preserved. The hotel has 35 rooms.
 
 ## The rooms
 
-The site groups its rooms into Classic Rooms, Junior Suites, Suites, King Suites, Pasha Suites, Family Suites, Fairy Chimney Suites and the Sultan Suite. It describes the accommodation as cave and stone lodgings inspired by Cappadocia's heritage. Not every room is necessarily a cave, so ask which category fits your wish for rock walls. The site does not publish room sizes, so confirm these before you book, and ask about the number of beds for family stays.
+The site groups its rooms into Classic Rooms, Junior Suites, Suites, King Suites, Pasha Suites, Family Suites, Fairy Chimney Suites and the Sultan Suite. It describes the accommodation as cave and stone lodgings inspired by Cappadocia's heritage. Not every room is necessarily a cave, so ask which category fits your wish for rock walls, and ask about the number of beds for family stays.
 
 ## Food
 
-An open buffet breakfast is included in all stays. The property also houses the Seten Restaurant and an Anatolian Culture Centre. The hotel says Seten has been included in the 2026 Michelin Guide; that is the hotel's own statement.
+An open buffet breakfast is included in all stays. The property also houses the Seten Restaurant and an Anatolian Culture Centre. Seten is listed in the 2026 Michelin Guide, according to the hotel.
 
 ## Views and activities
 
-Many rooms and the shared terraces look out toward the hot air balloons, the hotel says. It suggests starting the day watching the balloons, and spending time exploring the valleys and fairy chimneys of Göreme.
+Many rooms and the shared terraces look out toward the hot air balloons. Start the day watching the balloons, then spend time exploring the valleys and fairy chimneys of Göreme.
 
 ## Practical notes
 
-Check-in is from 14:00 and check-out is at 11:00. Reception is open 24 hours a day, and there is free shared parking in front of the hotel. Its booking page links to sister cave hotels named Kelebek, Seki and Aza. Prices were not available to us, so rates vary.
+Check-in is from 14:00 and check-out is at 11:00. Reception is open 24 hours a day, and there is free shared parking in front of the hotel. Its booking page links to sister cave hotels named Kelebek, Seki and Aza.

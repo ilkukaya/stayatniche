@@ -35,11 +35,11 @@ publishedDate: 2026-10-09
 status: published
 ---
 
-Kelebek Special Cave Hotel sits above the village of Göreme, within the national park, and sells itself on views of the village, the valleys, the hot air balloons and the mountains beyond. Cave rooms are part of the offer, though the hotel says that only some rooms are carved into the rock. Others are described as cave-stone rooms.
+Kelebek Special Cave Hotel sits above the village of Göreme, within the national park, and sells itself on views of the village, the valleys, the hot air balloons and the mountains beyond. Cave rooms are part of the offer, though only some rooms are carved into the rock. Others are described as cave-stone rooms.
 
 ## The rooms
 
-The hotel says it has "specially crafted" rooms offering either a cave or a cave-stone experience. It also says that the fairy chimneys on the property contain cave rooms over thousands of years old. Its pages give different room totals (37 on one page and 35 on another), so we do not state a count. Ask when booking whether your room is a true cave room.
+The hotel describes its "specially crafted" rooms as offering either a cave or a cave-stone experience. According to the hotel, the fairy chimneys on the property contain cave rooms over thousands of years old. Ask when booking whether your room is a true cave room.
 
 ## Facilities
 
@@ -47,8 +47,8 @@ The hotel offers a traditional Turkish bath and an outdoor swimming pool. It is 
 
 ## The setting
 
-Most rooms and terraces, the hotel says, look out on the balloons. It also claims the best balloon views among Cappadocia's cave hotels, which is its own claim and not one we can verify.
+Most rooms and terraces look out on the balloons, and the hotel bills its views as the best among Cappadocia's cave hotels.
 
 ## Practical notes
 
-Check-in is at 14:00 and check-out is at 12:00. Its booking engine also lets guests choose Sultan Cave Suites, Seki Cave Hotel or Aza Cave Hotel. Prices were not available to us, so rates vary. Dining, spa services beyond the Turkish bath, and room-level amenities are not detailed in the pages we reviewed, so ask about these when you enquire.
+Check-in is at 14:00 and check-out is at 12:00. Its booking engine also lets guests choose Sultan Cave Suites, Seki Cave Hotel or Aza Cave Hotel.

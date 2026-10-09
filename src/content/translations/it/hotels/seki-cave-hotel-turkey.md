@@ -31,7 +31,7 @@ La struttura punta sulla tranquillità. Descrive Çavuşin come la «nuova local
 
 ## Servizi
 
-La reception è aperta 24 ore su 24 e la struttura accetta animali domestici. Il check-in è alle 14:00 e il check-out alle 12:00. Il numero delle camere, le metrature e le tipologie non sono indicati nelle pagine che abbiamo consultato.
+La reception è aperta 24 ore su 24 e la struttura accetta animali domestici. Il check-in è alle 14:00 e il check-out alle 12:00.
 
 ## Il gruppo
 
@@ -39,6 +39,6 @@ Il sistema di prenotazione di Seki propone anche il Kelebek Cave Hotel, il Sulta
 
 ## Note pratiche
 
-Dato che Çavuşin dista pochi chilometri da Göreme, metti in conto un breve spostamento se vuoi mangiare fuori o partecipare a escursioni in zona. Il sito ha una sezione dedicata a tour e attività, oltre a un servizio di concierge. Non abbiamo informazioni sui prezzi, quindi le tariffe variano.
+Dato che Çavuşin dista pochi chilometri da Göreme, metti in conto un breve spostamento se vuoi mangiare fuori o partecipare a escursioni in zona. Il sito ha una sezione dedicata a tour e attività, oltre a un servizio di concierge.
 
 Questa struttura fa al caso di chi apprezza la quiete e una terrazza privata più che lo stare in pieno centro. È meno adatta a chi vuole uscire direttamente su una piazza animata.

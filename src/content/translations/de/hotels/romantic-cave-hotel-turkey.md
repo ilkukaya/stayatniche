@@ -26,14 +26,14 @@ Das Romantic Cave Hotel ist ein Hotel mit sieben Zimmern in Ürgüp, in dem jede
 
 ## Die Zimmer
 
-Auf der Website werden unter anderem Oublite und Osiana mit je 30 Quadratmetern sowie Katbatuka und Helen mit je 40 Quadratmetern gelistet; hinzu kommt ein Master Room. Alle Zimmer werden mit Blick auf Kappadokien angeboten. Das Hotel setzt auf Jacuzzi-Suiten und Terrassen. Tee, Kaffee, WLAN und ein besonderes Frühstück werden für die Zimmer, die wir gesehen haben, als Zimmerausstattung oder im Preis enthaltene Leistungen aufgeführt.
+Auf der Website werden unter anderem Oublite und Osiana mit je 30 Quadratmetern sowie Katbatuka und Helen mit je 40 Quadratmetern gelistet; hinzu kommt ein Master Room. Alle Zimmer werden mit Blick auf Kappadokien angeboten. Das Hotel setzt auf Jacuzzi-Suiten und Terrassen. Tee, Kaffee, WLAN und ein besonderes Frühstück werden als Zimmerausstattung oder im Preis enthaltene Leistungen aufgeführt.
 
 ## Service
 
-Das Hotel bietet kostenloses WLAN, Frühstück und eine 24-Stunden-Rezeption, damit Gäste zu jeder Tageszeit Ruhe finden. Es erklärt, seit fünfzig Jahren das anzubieten, was es das besonderste Unterkunftserlebnis Kappadokiens nennt. Dabei handelt es sich um eine Eigenaussage des Hotels, die wir nicht überprüft haben. Die Website hat außerdem Bereiche für Aktivitäten und Neuigkeiten.
+Das Hotel bietet kostenloses WLAN, Frühstück und eine 24-Stunden-Rezeption, damit Gäste zu jeder Tageszeit Ruhe finden. Es erklärt, seit fünfzig Jahren das anzubieten, was es das besonderste Unterkunftserlebnis Kappadokiens nennt. Die Website hat außerdem Bereiche für Aktivitäten und Neuigkeiten.
 
 ## Praktische Hinweise
 
-Die angegebene Adresse lautet Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Preise lagen uns nicht vor, die Tarife variieren daher. Ein Pool wird nicht erwähnt. Bei nur sieben Zimmern sollten Sie während der Ballonsaison früh buchen.
+Die angegebene Adresse lautet Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Bei nur sieben Zimmern sollten Sie während der Ballonsaison früh buchen.
 
 Dieses Hotel ist eine unkomplizierte Wahl, wenn Sie in Ürgüp eine kleine Höhlenunterkunft für Paare mit Jacuzzi suchen. Weniger geeignet ist es für größere Gruppen oder für alle, die Restaurants und einen Spa-Bereich direkt vor Ort erwarten.

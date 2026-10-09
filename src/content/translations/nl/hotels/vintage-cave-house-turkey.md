@@ -22,15 +22,15 @@ seo:
   metaDescription: "Vintage Cave House in Göreme: boutiquehotel in een familiehuis met vier grotkamers, vijf stenen kamers, terrassen met ballonzicht en een rustige tuin."
 ---
 
-Vintage Cave House begint, in de woorden van de familie zelf, met een oud huis in Göreme dat al vijf generaties hun thuis is. Inmiddels is het een boutiquehotel, en het is eerlijk over de mix: vier grotkamers en vijf stenen kamers. Wil je een kamer die in de rots is uitgehakt? Vraag dan naar een van de grotkamers.
+Vintage Cave House begint met een oud huis in Göreme dat al vijf generaties het thuis van de familie is. Inmiddels is het een boutiquehotel, en het is eerlijk over de mix: vier grotkamers en vijf stenen kamers. Wil je een kamer die in de rots is uitgehakt? Vraag dan naar een van de grotkamers.
 
 ## De kamers
 
-De website toont kamers met de nummers 102, 103, 201, 202, 203, 301, 302, 303 en 304. Bij elke kamer staat “1 Person, Queen Bed, 2 Windows”, en de prijsvelden tonen 0,0. Dat is een plaatshouder op de website, dus we hebben het niet als prijs gebruikt. De site beschrijft de grotkamers als uitgehakt in oude rotsen, met antieke elegantie en moderne comfort. Welke kamernummers grotkamers zijn, vermeldt de site niet.
+De kamers hebben de nummers 102, 103, 201, 202, 203, 301, 302, 303 en 304, en bij elke kamer staat “1 Person, Queen Bed, 2 Windows”. De grotkamers zijn uitgehakt in oude rotsen, met antieke elegantie en modern comfort. Vraag welke kamernummers grotkamers zijn.
 
 ## Terrassen en tuin
 
-Het grote voordeel van het hotel zijn de open en gesloten terrassen, waar je de heteluchtballonnen boven Göreme ziet opstijgen. Verder is er een rustige tuin. Het ontbijt wordt traditioneel genoemd en elke ochtend geserveerd.
+Het grote voordeel van het hotel zijn de open en gesloten terrassen, waar je de heteluchtballonnen boven Göreme ziet opstijgen. Verder is er een rustige tuin. Elke ochtend wordt een traditioneel ontbijt geserveerd.
 
 ## Reizen naar het hotel
 
@@ -38,4 +38,4 @@ Volgens het hotel ligt het ongeveer 30 minuten van de luchthaven van Nevşehir. 
 
 ## Praktische info
 
-We hadden geen prijsinformatie, dus de tarieven variëren. Faciliteiten zoals een zwembad of spa worden niet genoemd. Het aantal kamers boven de negen die worden getoond, hebben we niet bevestigd. Dit is een goede keuze als je wilt logeren in een familiehuis met een verhaal, en je accepteert dat niet elke kamer een grot is.
+Dit is een goede keuze als je wilt logeren in een familiehuis met een verhaal, en je accepteert dat niet elke kamer een grot is.

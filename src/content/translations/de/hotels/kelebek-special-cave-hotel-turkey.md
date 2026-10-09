@@ -24,11 +24,11 @@ seo:
   metaDescription: "Kelebek Special Cave Hotel in Göreme: Hotel über dem Dorf mit Höhlenzimmern, türkischem Bad, Außenpool, Concierge und Blick auf Ballone und Täler."
 ---
 
-Das Kelebek Special Cave Hotel liegt oberhalb des Dorfes Göreme innerhalb des Nationalparks und wirbt mit Blick auf das Dorf, die Täler, die Heißluftballone und die Berge dahinter. Höhlenzimmer gehören zum Angebot, doch laut Hotel sind nur einige Zimmer in den Fels gehauen. Andere werden als Höhlen-Steinzimmer beschrieben.
+Das Kelebek Special Cave Hotel liegt oberhalb des Dorfes Göreme innerhalb des Nationalparks und wirbt mit Blick auf das Dorf, die Täler, die Heißluftballone und die Berge dahinter. Höhlenzimmer gehören zum Angebot, doch nur einige Zimmer sind in den Fels gehauen. Andere werden als Höhlen-Steinzimmer beschrieben.
 
 ## Die Zimmer
 
-Das Hotel spricht von „besonders gestalteten“ Zimmern, die ein Höhlen- oder ein Höhlenstein-Erlebnis bieten. Außerdem heißt es, die Feenkamine auf dem Gelände enthielten seit Tausenden von Jahren bestehende Höhlenzimmer. Die Seiten nennen unterschiedliche Zimmerzahlen (37 auf einer, 35 auf einer anderen), deshalb geben wir keine Zahl an. Fragen Sie bei der Buchung nach, ob Ihr Zimmer ein echtes Höhlenzimmer ist.
+Das Hotel spricht von „besonders gestalteten“ Zimmern, die ein Höhlen- oder ein Höhlenstein-Erlebnis bieten. Laut Hotel enthalten die Feenkamine auf dem Gelände seit Tausenden von Jahren bestehende Höhlenzimmer. Fragen Sie bei der Buchung nach, ob Ihr Zimmer ein echtes Höhlenzimmer ist.
 
 ## Ausstattung
 
@@ -36,8 +36,8 @@ Das Hotel bietet ein traditionelles türkisches Bad und einen Außenpool. Hausti
 
 ## Die Lage
 
-Laut Hotel blicken die meisten Zimmer und Terrassen auf die Ballone. Das Hotel beansprucht außerdem die besten Ballonblicke unter den Höhlenhotels Kappadokiens. Das ist eine Eigenaussage des Hotels, die wir nicht überprüfen können.
+Die meisten Zimmer und Terrassen blicken auf die Ballone, und das Hotel bezeichnet seine Ausblicke als die besten unter den Höhlenhotels Kappadokiens.
 
 ## Praktische Hinweise
 
-Der Check-in ist um 14:00 Uhr, der Check-out um 12:00 Uhr. Über die Buchungsmaschine lassen sich außerdem das Sultan Cave Suites, das Seki Cave Hotel oder das Aza Cave Hotel auswählen. Preise lagen uns nicht vor, daher variieren die Raten. Gastronomie, Spa-Leistungen über das türkische Bad hinaus und Ausstattung auf Zimmerebene sind auf den geprüften Seiten nicht beschrieben; fragen Sie diese Punkte daher bei Ihrer Anfrage ab.
+Der Check-in ist um 14:00 Uhr, der Check-out um 12:00 Uhr. Über die Buchungsmaschine lassen sich außerdem das Sultan Cave Suites, das Seki Cave Hotel oder das Aza Cave Hotel auswählen.

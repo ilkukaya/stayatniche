@@ -35,16 +35,16 @@ Splendid Cave Hotel in Ortahisar is a mixed property, and it is worth being clea
 
 ## The rooms
 
-The cave rooms come in several grades. The site lists a Superior Suit Cave Room (306), a Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 and 204) and Standard Double Cave Rooms (402, 302, 301 and 205). Each room listing mentions a TV, a telephone and a minibar. The website does not publish room sizes, bed types or photographs of the carved interiors in the text we reviewed, so ask the hotel what each room is like before you pick one.
+The cave rooms come in several grades. The site lists a Superior Suit Cave Room (306), a Suit Cave Room (201), Deluxe Double Cave Rooms (303, 207, 208 and 204) and Standard Double Cave Rooms (402, 302, 301 and 205). Each room listing mentions a TV, a telephone and a minibar. Ask the hotel what each room is like before you pick one.
 
 When you book, specify a cave room by name or number. If you want the full cave experience, avoid the two standard rooms.
 
 ## The setting
 
-The hotel is in Ortahisar, a village in central Cappadocia. We have no further verified detail about the surroundings beyond the village name, so we do not describe views or walking distances that the hotel does not state.
+The hotel is in Ortahisar, a village in central Cappadocia.
 
 ## Practical notes
 
-The website shows a transfers page and a reservation page, and lets you view prices in Turkish lira, US dollars or euros. We could not confirm prices, so rates are listed as varying. Breakfast, pool or spa facilities are not stated in the material we reviewed, so confirm what is included before you book.
+The website shows a transfers page and a reservation page, and lets you view prices in Turkish lira, US dollars or euros. Ask the hotel what is included before you book.
 
-This is a sensible option if you want a modest cave stay in a quieter village than the main tourist hub and do not mind that a couple of rooms are conventional. It is less suited to travellers who want a fully carved property, or who need detailed facilities information in advance.
+This is a sensible option if you want a modest cave stay in a quieter village than the main tourist hub and do not mind that a couple of rooms are conventional. It is less suited to travellers who want a fully carved property.

@@ -31,7 +31,7 @@ Het hotel zet in op rust. Çavuşin noemt het de “nieuwe hippe plek” van Cap
 
 ## Service
 
-De receptie is 24 uur per dag open en het hotel is huisdiervriendelijk. Inchecken kan om 14:00 en uitchecken om 12:00. Het aantal kamers, de afmetingen en de types staan niet vermeld op de pagina's die wij hebben bekeken.
+De receptie is 24 uur per dag open en het hotel is huisdiervriendelijk. Inchecken kan om 14:00 en uitchecken om 12:00.
 
 ## De groep
 
@@ -39,6 +39,6 @@ Bij Seki kun je via dezelfde boekingssite ook kiezen voor het Kelebek Cave Hotel
 
 ## Praktische tips
 
-Omdat Çavuşin een paar kilometer van Göreme ligt, moet je rekening houden met een korte rit als je buiten wilt eten of tours in de buurt wilt doen. De site heeft een gedeelte met tours en activiteiten en een conciergedienst. Prijzen waren voor ons niet beschikbaar, dus de tarieven verschillen.
+Omdat Çavuşin een paar kilometer van Göreme ligt, moet je rekening houden met een korte rit als je buiten wilt eten of tours in de buurt wilt doen. De site heeft een gedeelte met tours en activiteiten en een conciergedienst.
 
 Dit is een goede keuze voor reizigers die rust en een privéterras belangrijker vinden dan midden in het dorp zitten. Minder geschikt als je meteen op een druk plein wilt staan.
