@@ -595,7 +595,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "apartment in Benalua de Guadix",
@@ -622,7 +622,9 @@
    "reason": "Complex of 18 cave houses in Benalua de Guadix that operates as lodging with a restaurant and pool; the cave-dwelling stay is the niche.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:13:12.778Z"
  },
  "osm:node/10054651922": {
   "id": "osm:node/10054651922",
@@ -4437,7 +4439,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "region": "West Pomeranian Voivodeship",
@@ -4462,7 +4464,9 @@
    "reason": "Houseboat rental on a campsite by Lake Jamno and the Baltic coast, matching floating-hotels with the houseboat as the whole stay.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "floating-hotels",
+  "reviewedAt": "2026-10-08T21:13:52.243Z"
  },
  "osm:node/10713342181": {
   "id": "osm:node/10713342181",
@@ -9149,7 +9153,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-07",
   "lastSeen": "2026-10-07",
   "region": "Saxony",
@@ -9164,9 +9168,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-07",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "haiku": {
    "verdict": "accepted",
    "category": "train-hotels",
@@ -9176,7 +9178,9 @@
    "reason": "Two converted railway carriages (Ferienwaggons) at Zittauer Schmalspurbahn stations are rented as holiday apartments; seasonal, with the Jonsdorf carriage stationed from Easter to July.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "train-hotels",
+  "reviewedAt": "2026-10-08T21:13:25.665Z"
  },
  "osm:node/11217898334": {
   "id": "osm:node/11217898334",
@@ -9659,7 +9663,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -9685,7 +9689,9 @@
    "reason": "The official site describes its 10 rooms as cave rooms with a heated cave pool, so the whole property fits cave-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:06.121Z"
  },
  "osm:node/11275762482": {
   "id": "osm:node/11275762482",
@@ -10732,7 +10738,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -10758,7 +10764,9 @@
    "reason": "Ten of the twelve listed rooms are named as cave rooms, while two are standard rooms, so only some units fit.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:11:29.335Z"
  },
  "osm:node/11417119455": {
   "id": "osm:node/11417119455",
@@ -12469,7 +12477,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -12484,9 +12492,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-01",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-08",
   "haiku": {
    "verdict": "needs_review",
@@ -12497,7 +12503,9 @@
    "reason": "The official site states 8 rooms, five of them caves, so only some units fit cave-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:45.287Z"
  },
  "osm:node/11688908207": {
   "id": "osm:node/11688908207",
@@ -16851,7 +16859,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "region": "North-West District",
@@ -16876,7 +16884,9 @@
    "reason": "A Kalahari reserve lodge with game drives and San cultural walks; the desert setting supports desert-camps, with safari-lodges as a second fit.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-10-08T21:14:08.357Z"
  },
  "osm:node/12118525397": {
   "id": "osm:node/12118525397",
@@ -16894,7 +16904,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -16909,9 +16919,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "haiku": {
    "verdict": "accepted",
    "category": "treehouse-hotels",
@@ -16921,7 +16929,9 @@
    "reason": "Village of cabins suspended among trees in the Fagaras mountains with online booking; the whole property is the treehouse stay.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-10-08T21:13:59.245Z"
  },
  "osm:node/12119725363": {
   "id": "osm:node/12119725363",
@@ -17121,7 +17131,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "region": "Uusimaa",
@@ -17146,7 +17156,9 @@
    "reason": "Glass igloo units are an accepted ice-hotel case; the site describes a single floating glass igloo suite for two that relocates seasonally.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "ice-hotels",
+  "reviewedAt": "2026-10-08T21:12:41.750Z"
  },
  "osm:node/12144433744": {
   "id": "osm:node/12144433744",
@@ -17935,7 +17947,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": "Madre de Dios",
@@ -17960,7 +17972,9 @@
    "reason": "Eco-lodge on the Palotoa river in Manu with 10 treehouse-style bungalows raised above the jungle floor; the treehouse fit rests on the lodge's own wording, so confidence is moderate.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-10-08T21:14:01.626Z"
  },
  "osm:node/12222169280": {
   "id": "osm:node/12222169280",
@@ -19263,7 +19277,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -19289,7 +19303,9 @@
    "reason": "The official site describes its suites as cave suites in Cappadocia, so the whole property fits cave-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:34.736Z"
  },
  "osm:node/12345814919": {
   "id": "osm:node/12345814919",
@@ -24667,7 +24683,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -24693,7 +24709,9 @@
    "reason": "The site describes stone and rock rooms in a traditional mansion under a cave name, so it fits cave-hotels, though the rock wording is less explicit.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:11:26.731Z"
  },
  "osm:node/12959148841": {
   "id": "osm:node/12959148841",
@@ -32289,7 +32307,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -32301,9 +32319,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-01",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-08",
   "haiku": {
    "verdict": "needs_review",
@@ -32314,7 +32330,9 @@
    "reason": "The official site describes four carved cave rooms alongside five stone rooms, so only some units fit cave-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:14:20.692Z"
  },
  "osm:node/13592851039": {
   "id": "osm:node/13592851039",
@@ -36148,7 +36166,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -36174,7 +36192,9 @@
    "reason": "The official site describes an exclusive-use baronial castle with 12 bedrooms on Loch Ness, so guests stay inside a historic castle.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:11:48.738Z"
  },
  "osm:node/14006913574": {
   "id": "osm:node/14006913574",
@@ -46469,7 +46489,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Göreme, Nevşehir, central Turkey",
@@ -46497,7 +46517,9 @@
    "reason": "Official site describes a small rock hotel where 8 of 13 rooms are carved into rock, so some units fit cave-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:42.669Z"
  },
  "osm:node/2001846641": {
   "id": "osm:node/2001846641",
@@ -49837,7 +49859,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "region": "Lapland",
@@ -49862,7 +49884,9 @@
    "reason": "Glass igloos are an accepted ice-hotel case; they are 10 of several accommodation types on the property, so some_units.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "ice-hotels",
+  "reviewedAt": "2026-10-08T21:12:44.013Z"
  },
  "osm:node/2328921248": {
   "id": "osm:node/2328921248",
@@ -52603,7 +52627,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "region": "Hardap",
@@ -52628,7 +52652,9 @@
    "reason": "A self-catering camp of 28 bungalows on the edge of the Namib Desert near Sossusvlei; a desert camp, though the units are chalets rather than tents.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "desert-camps",
+  "reviewedAt": "2026-10-08T21:13:39.727Z"
  },
  "osm:node/2518857599": {
   "id": "osm:node/2518857599",
@@ -56952,7 +56978,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-05",
   "region": null,
@@ -56977,7 +57003,9 @@
    "reason": "Snowhotel rooms of ice and snow are the niche and are open 365 days; the resort also rents wooden Gamme cabins, so the scope is some units.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "ice-hotels",
+  "reviewedAt": "2026-10-08T21:12:46.063Z"
  },
  "osm:node/2891540804": {
   "id": "osm:node/2891540804",
@@ -59285,7 +59313,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Frisia",
@@ -59297,9 +59325,7 @@
    "snippet": null
   },
   "checkedAt": "2026-09-29",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "haiku": {
    "verdict": "accepted",
    "category": "lighthouse-hotels",
@@ -59309,7 +59335,9 @@
    "reason": "The lighthouse itself is the overnight unit (a bed on the top floor with 360-degree views), a direct fit for lighthouse-hotels.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-10-08T21:13:37.546Z"
  },
  "osm:node/3063488056": {
   "id": "osm:node/3063488056",
@@ -60819,7 +60847,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Otjozondjupa",
@@ -60844,7 +60872,9 @@
    "reason": "Luxury Bush Camp is a safari camp inside Okonjima Nature Reserve with guided game drives and leopard tracking.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "safari-lodges",
+  "reviewedAt": "2026-10-08T21:13:04.211Z"
  },
  "osm:node/3150301792": {
   "id": "osm:node/3150301792",
@@ -61465,7 +61495,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -61491,7 +61521,9 @@
    "reason": "Official site says some rooms are carved into caves, so the niche applies to some units; the room count differs between pages (37 and 35), so it is left null.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:11:19.909Z"
  },
  "osm:node/316649587": {
   "id": "osm:node/316649587",
@@ -61600,7 +61632,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "region": "Utrecht",
@@ -61625,7 +61657,9 @@
    "reason": "A B&B room on a houseboat on the Vecht in Utrecht, matching floating-hotels with the houseboat as the whole stay.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "floating-hotels",
+  "reviewedAt": "2026-10-08T21:13:42.310Z"
  },
  "osm:node/3192451427": {
   "id": "osm:node/3192451427",
@@ -65843,7 +65877,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "England",
@@ -65869,7 +65903,9 @@
    "reason": "Official site describes a genuine medieval-style castle hotel with bedrooms inside the castle walls, so the whole property fits castle-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:11:37.532Z"
  },
  "osm:node/3407057492": {
   "id": "osm:node/3407057492",
@@ -68953,7 +68989,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -68979,7 +69015,9 @@
    "reason": "Official site says every room is carved from rock in central Göreme, a clear cave-hotel fit.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:18.867Z"
  },
  "osm:node/368291608": {
   "id": "osm:node/368291608",
@@ -69211,7 +69249,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -69237,7 +69275,9 @@
    "reason": "Site and reviews mention cave rooms, but the nine named rooms are not all described as caves, so scope is some_units.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:11:22.952Z"
  },
  "osm:node/3694868089": {
   "id": "osm:node/3694868089",
@@ -69727,7 +69767,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Bagamati Province",
@@ -69752,7 +69792,9 @@
    "reason": "Eco-certified thatched-hut lodge near Chitwan National Park offering private safaris, so it is a safari lodge more than a rainforest lodge; all 35 units are huts.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "safari-lodges",
+  "reviewedAt": "2026-10-08T21:13:49.792Z"
  },
  "osm:node/3743081176": {
   "id": "osm:node/3743081176",
@@ -70008,7 +70050,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -70034,7 +70076,9 @@
    "reason": "Official site (Turkish) describes its 35 rooms as cave accommodation built over old cave houses with original cave walls.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:37.150Z"
  },
  "osm:node/3764847885": {
   "id": "osm:node/3764847885",
@@ -71102,7 +71146,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -71127,7 +71171,9 @@
    "reason": "Converted family house in Urgup centre; the only cave signal is one room named as a cave room, with no description of rooms carved into rock, so confidence is moderate.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:11:34.416Z"
  },
  "osm:node/3887179427": {
   "id": "osm:node/3887179427",
@@ -75807,7 +75853,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Newfoundland and Labrador",
@@ -75832,7 +75878,9 @@
    "reason": "A ten-room inn in a restored 1922 light-keeper's home at the base of a still-operating lighthouse on Quirpon Island; clearly fits lighthouse-hotels.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-10-08T21:13:33.111Z"
  },
  "osm:node/4193625855": {
   "id": "osm:node/4193625855",
@@ -79945,7 +79993,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Sucumbíos",
@@ -79970,7 +80018,9 @@
    "reason": "Rainforest ecolodge with huts in primary forest in the Cuyabeno Reserve; it also sells its own guided tours, but the stays are real lodging so is_lodging is true.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "jungle-lodges",
+  "reviewedAt": "2026-10-08T21:13:18.015Z"
  },
  "osm:node/4387929989": {
   "id": "osm:node/4387929989",
@@ -82059,7 +82109,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Riau Islands",
@@ -82084,7 +82134,9 @@
    "reason": "Resort of 15 overwater villas, which fits overwater-bungalows; the adults-only ridge villas are land-based and do not change the category.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "overwater-bungalows",
+  "reviewedAt": "2026-10-08T21:14:11.342Z"
  },
  "osm:node/4489873689": {
   "id": "osm:node/4489873689",
@@ -85417,7 +85469,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Scotland",
@@ -85442,7 +85494,9 @@
    "reason": "A working-lighthouse hotel where six rooms are in the original keepers' quarters, with other rooms in modern buildings nearby, so the scope is some_units.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "lighthouse-hotels",
+  "reviewedAt": "2026-10-08T21:13:30.766Z"
  },
  "osm:node/4695024889": {
   "id": "osm:node/4695024889",
@@ -85776,7 +85830,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "country house, now hotel, in Highland, Scotland, UK",
@@ -85804,7 +85858,9 @@
    "reason": "Official site and Wikipedia describe a 19th-century castle hotel with rooms in the castle building and grounds.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:00.335Z"
  },
  "osm:node/4707381791": {
   "id": "osm:node/4707381791",
@@ -88834,7 +88890,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -88860,7 +88916,9 @@
    "reason": "Official site lists 3 underground cave rooms among its standard, family and suite rooms, so only some units are caves.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:40.567Z"
  },
  "osm:node/4871261421": {
   "id": "osm:node/4871261421",
@@ -91747,7 +91805,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -91773,7 +91831,9 @@
    "reason": "Official site says nine of its 21 rooms are inside the 15th-century castle; the rest are in a modern extension.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:19.266Z"
  },
  "osm:node/5070964386": {
   "id": "osm:node/5070964386",
@@ -95438,7 +95498,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Stainmore, Westmorland and Furness, Cumbria, England, UK",
@@ -95466,7 +95526,9 @@
    "reason": "Official site describes a 19th-century castle stay in Cumbria, with castle rooms and a restaurant on site.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:11:51.501Z"
  },
  "osm:node/5316588155": {
   "id": "osm:node/5316588155",
@@ -97249,7 +97311,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Ürgüp, Nevşehir, central Turkey",
@@ -97277,7 +97339,9 @@
    "reason": "Official site describes its accommodation as cave rooms in Cappadocia stone, so the stay itself is the niche.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:27.218Z"
  },
  "osm:node/5396339629": {
   "id": "osm:node/5396339629",
@@ -97774,7 +97838,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -97800,7 +97864,9 @@
    "reason": "Castle hotel with historic castle rooms, but the site also offers modern Lodge rooms described as an alternative, so scope is some_units.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:25.347Z"
  },
  "osm:node/5420299326": {
   "id": "osm:node/5420299326",
@@ -100702,7 +100768,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Taita–Taveta",
@@ -100727,7 +100793,9 @@
    "reason": "Tented safari camp inside Tsavo West National Park with game drives and official pages for rooms, prices and booking, matching safari-lodges.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "safari-lodges",
+  "reviewedAt": "2026-10-08T21:13:06.949Z"
  },
  "osm:node/5654956021": {
   "id": "osm:node/5654956021",
@@ -108114,7 +108182,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Göreme, Nevşehir, central Turkey",
@@ -108131,9 +108199,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-01",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-08",
   "haiku": {
    "verdict": "needs_review",
@@ -108144,7 +108210,9 @@
    "reason": "Name says Cave and the site mentions stone rooms, but no text states the rooms are carved into rock, so the niche is unclear.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:11:31.915Z"
  },
  "osm:node/6266698008": {
   "id": "osm:node/6266698008",
@@ -114071,7 +114139,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -114097,7 +114165,9 @@
    "reason": "Site describes the hotel as cave rooms with terraces and balloon views, so the whole property is a cave hotel.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:21.721Z"
  },
  "osm:node/6813606295": {
   "id": "osm:node/6813606295",
@@ -115707,7 +115777,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -115733,7 +115803,9 @@
    "reason": "A 16th-century castle building operating as a 4-star hotel with 82 bedrooms, so the stay is inside a castle.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:09.215Z"
  },
  "osm:node/7014108085": {
   "id": "osm:node/7014108085",
@@ -122475,7 +122547,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -122501,7 +122573,9 @@
    "reason": "Site describes its seven rooms as historic cave rooms, so the whole property is a cave hotel.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:30.425Z"
  },
  "osm:node/7986424631": {
   "id": "osm:node/7986424631",
@@ -124446,7 +124520,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Northern Ireland",
@@ -124472,7 +124546,9 @@
    "reason": "Estate where the historic castle has four guestrooms, while the main hotel is a converted mill and the residences are self-catering, so scope is some_units.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:30.172Z"
  },
  "osm:node/8315402616": {
   "id": "osm:node/8315402616",
@@ -125104,7 +125180,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -125130,7 +125206,9 @@
    "reason": "The site says the whole hotel is caved from natural rock in Göreme, so the cave-hotel niche fits the whole property.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:15.354Z"
  },
  "osm:node/8421621618": {
   "id": "osm:node/8421621618",
@@ -126353,7 +126431,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-01",
   "lastSeen": "2026-10-08",
   "description": "hotel in Ürgüp, Nevşehir, central Turkey",
@@ -126370,9 +126448,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-01",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-08",
   "haiku": {
    "verdict": "accepted",
@@ -126383,7 +126459,9 @@
    "reason": "The home page calls the property a boutique cave hotel with cave rooms, so the niche covers the whole property.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "cave-hotels",
+  "reviewedAt": "2026-10-08T21:10:24.419Z"
  },
  "osm:node/8643328059": {
   "id": "osm:node/8643328059",
@@ -129824,7 +129902,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Cusco",
@@ -129849,7 +129927,9 @@
    "reason": "An off-grid lodge in the rainforest near Machu Picchu with panoramic views; the rain forest statement fits jungle-lodges.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "jungle-lodges",
+  "reviewedAt": "2026-10-08T21:13:15.764Z"
  },
  "osm:node/9142767672": {
   "id": "osm:node/9142767672",
@@ -137975,7 +138055,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "hotel with two restaurants located in the centre of Taunton, Somerset, England, UK",
@@ -138002,7 +138082,9 @@
    "reason": "The hotel occupies a listed reconstruction of Taunton's Norman castle, so it fits castle-hotels for the whole property.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:32.214Z"
  },
  "osm:relation/1116454": {
   "id": "osm:relation/1116454",
@@ -138632,7 +138714,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Highland, Scotland, UK",
@@ -138660,7 +138742,9 @@
    "reason": "The site describes a 12th-century castle that is now a hotel with 22 en suite bedrooms, so the whole property fits castle-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:11:46.267Z"
  },
  "osm:relation/13599015": {
   "id": "osm:relation/13599015",
@@ -141612,7 +141696,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed English country house in Walworth, Darlington, County Durham , England, UK",
@@ -141640,7 +141724,9 @@
    "reason": "The hotel is a 12th-century castle with castle rooms inside the main building; the annex is a minor add-on, so the whole property fits.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:04.649Z"
  },
  "osm:way/1000028853": {
   "id": "osm:way/1000028853",
@@ -152901,7 +152987,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed castle in Langley, Northumberland, England, UK",
@@ -152928,7 +153014,9 @@
    "reason": "Operating 14th-century castle hotel with nine rooms inside the main castle, so castle-hotels with some_units; the other rooms are in converted buildings in the grounds.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:15.349Z"
  },
  "osm:way/1239529065": {
   "id": "osm:way/1239529065",
@@ -158292,7 +158380,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -158317,7 +158405,9 @@
    "reason": "Tree-top and raised treehouse-style rooms in an eco resort in Bang Kachao; the category quote describes a bamboo balcony atop the treetops.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "treehouse-hotels",
+  "reviewedAt": "2026-10-08T21:13:35.343Z"
  },
  "osm:way/135453935": {
   "id": "osm:way/135453935",
@@ -159570,7 +159660,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "description": "hotel in Playa del Carmen, Mexico",
@@ -159597,7 +159687,9 @@
    "reason": "Every room is an overwater bungalow on the Caribbean; the other Lomas Hospitality properties on the same site are land-based and were not counted.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "overwater-bungalows",
+  "reviewedAt": "2026-10-08T21:14:13.826Z"
  },
  "osm:way/1389338967": {
   "id": "osm:way/1389338967",
@@ -161907,7 +161999,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "South Cotabato",
@@ -161932,7 +162024,9 @@
    "reason": "Dome glamping fits bubble-hotels only if the domes are clear; stargazing suggests this but the evidence never says transparent, so scope is unclear.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "bubble-hotels",
+  "reviewedAt": "2026-10-08T21:13:45.812Z"
  },
  "osm:way/1464871395": {
   "id": "osm:way/1464871395",
@@ -172800,7 +172894,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "category": "floating-hotels",
@@ -172824,7 +172918,9 @@
    "reason": "A historic 1904 customs houseboat offered as a holiday let; the floating-home and moored-ship evidence supports floating-hotels.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "floating-hotels",
+  "reviewedAt": "2026-10-08T21:14:03.594Z"
  },
  "osm:way/203306150": {
   "id": "osm:way/203306150",
@@ -180680,7 +180776,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -180708,7 +180804,9 @@
    "reason": "Self-catering estate whose castle apartment is one of five units, so only some units fit castle-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:34.344Z"
  },
  "osm:way/256677482": {
   "id": "osm:way/256677482",
@@ -181528,7 +181626,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": null,
@@ -181542,9 +181640,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "category not confirmed"
-  ],
+  "reasons": [],
   "haiku": {
    "verdict": "needs_review",
    "category": "castle-hotels",
@@ -181554,7 +181650,9 @@
    "reason": "Wikipedia describes a palace building and OSM tags it as a hotel, but the website fetch failed and no page text confirms guest rooms inside the palace.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:13:20.443Z"
  },
  "osm:way/263844615": {
   "id": "osm:way/263844615",
@@ -189490,7 +189588,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed hotel in Stutton with Hazlewood, Selby, North Yorkshire, England, UK",
@@ -189518,7 +189616,9 @@
    "reason": "The official site calls it a historic castle hotel with 32 rooms, most of them outside the main castle, so the whole property fits castle-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:11:54.118Z"
  },
  "osm:way/329732769": {
   "id": "osm:way/329732769",
@@ -190832,7 +190932,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "mansion in Midlothian, Scotland, UK",
@@ -190860,7 +190960,9 @@
    "reason": "The official site presents the hotel as a castle where guests stay in its bedrooms, so the whole property fits castle-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:02.187Z"
  },
  "osm:way/343190497": {
   "id": "osm:way/343190497",
@@ -192750,7 +192852,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Angus, Scotland, UK",
@@ -192778,7 +192880,9 @@
    "reason": "A castle with suites offered for rent, but the owner's own narrative suggests it is also a private home, so the lodging status is uncertain.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:36.516Z"
  },
  "osm:way/364735363": {
   "id": "osm:way/364735363",
@@ -205880,7 +205984,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Banwell, Somerset, England, UK",
@@ -205908,7 +206012,9 @@
    "reason": "The official B&B page describes a gothic castle where guests stay, but the site looks dated (2009 footer, Flash notice), so current operation is unconfirmed.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:22.015Z"
  },
  "osm:way/531788325": {
   "id": "osm:way/531788325",
@@ -206951,7 +207057,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "house in Scargill, County Durham, England, UK",
@@ -206979,7 +207085,9 @@
    "reason": "A single restored 1550 castle offered as a romantic retreat for two, so the whole property is the castle niche.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:11:43.649Z"
  },
  "osm:way/544417619": {
   "id": "osm:way/544417619",
@@ -210815,7 +210923,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "architectural structure in Perth and Kinross, Scotland, UK",
@@ -210843,7 +210951,9 @@
    "reason": "The Fonab page says guests can stay in traditional castle rooms or contemporary lodges, so only some units fit castle-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:27.982Z"
  },
  "osm:way/623032799": {
   "id": "osm:way/623032799",
@@ -214453,7 +214563,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-03",
   "region": "Saxony",
@@ -214468,9 +214578,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-04",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "haiku": {
    "verdict": "accepted",
    "category": "floating-hotels",
@@ -214480,7 +214588,9 @@
    "reason": "A floating holiday house rented per night is a sleeping unit on a floating structure, which fits floating-hotels.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "floating-hotels",
+  "reviewedAt": "2026-10-08T21:13:56.261Z"
  },
  "osm:way/707994967": {
   "id": "osm:way/707994967",
@@ -215216,7 +215326,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade II listed castellated, three star country house hotel in Otterburn, Northumberland, England, UK",
@@ -215243,7 +215353,9 @@
    "reason": "A Grade II listed castle building operating as a boutique hotel with 17 en-suite bedrooms, so the whole property fits castle-hotels.",
    "file": "data/pipeline/decisions/2026-10-08/checked.json",
    "decidedAt": "2026-10-08"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-08T21:12:11.166Z"
  },
  "osm:way/723996182": {
   "id": "osm:way/723996182",
@@ -224983,7 +225095,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-06",
   "region": "Malé Atoll",
@@ -224998,9 +225110,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-06",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "haiku": {
    "verdict": "needs_review",
    "category": "overwater-bungalows",
@@ -225010,7 +225120,9 @@
    "reason": "Island resort where only the 17 water bungalows over the lagoon are clearly overwater; the other 70 units are beach or superior bungalows not described as over the water, so this is a some_units case.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "overwater-bungalows",
+  "reviewedAt": "2026-10-08T21:13:09.363Z"
  },
  "osm:way/96173078": {
   "id": "osm:way/96173078",
@@ -238292,7 +238404,7 @@
   "city": "County Waterford",
   "description": "hotel in Waterford, Ireland",
   "source": "wikidata",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "hasWikiImage": true,
@@ -238318,7 +238430,9 @@
    "reason": "A privately owned 5-star hotel on the cliffs above Ardmore Bay with rooms along the cliff edge, a clear fit for cliffside-hotels.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "cliffside-hotels",
+  "reviewedAt": "2026-10-08T21:14:05.811Z"
  },
  "wd:Q7548259": {
   "id": "wd:Q7548259",
@@ -238530,7 +238644,7 @@
   "city": "Pattaya City",
   "description": "hotel",
   "source": "wikidata",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-04",
   "hasWikiImage": true,
@@ -238556,6 +238670,8 @@
    "reason": "Only the Royal Cliff Beach Terrace is stated to be nestled into the cliffside (89 suites); the evidence ties the cliffside niche to that one of the group's four hotels.",
    "file": "data/pipeline/decisions/sample/checked.json",
    "decidedAt": "sample"
-  }
+  },
+  "finalCategory": "cliffside-hotels",
+  "reviewedAt": "2026-10-08T21:13:54.210Z"
  }
 }
