@@ -23,7 +23,7 @@ seo:
   metaDescription: "Georgios Cave Cappadocia in Ürgüp: ein historisches griechisches Herrenhaus mit neun Stein- und Felszimmern, vielen Jacuzzis und Dachterrasse für Ballons."
 ---
 
-Georgios Cave Cappadocia befindet sich in einem eingetragenen griechischen (Rum-)Herrenhaus in Ürgüp. Das Versprechen: traditionelle Steinarchitektur, verbunden mit modernem Komfort. Das „Cave“ im Namen ist eine regionale Bezeichnung und kein Versprechen, dass jedes Zimmer in den Hang gehauen ist. Die eigene Liste des Hotels spricht von „stone/rock rooms“, also Stein- und Felszimmern; wie viel davon ausgehöhlt und wie viel gebaut ist, wird jedoch nicht erläutert.
+Georgios Cave Cappadocia befindet sich in einem eingetragenen griechischen (Rum-)Herrenhaus in Ürgüp. Das Versprechen: traditionelle Steinarchitektur, verbunden mit modernem Komfort. Das „Cave“ im Namen ist eine regionale Bezeichnung und kein Versprechen, dass jedes Zimmer in den Hang gehauen ist. Das Hotel spricht von „stone/rock rooms“, also Stein- und Felszimmern.
 
 ## Die Zimmer
 
@@ -35,4 +35,4 @@ Angeboten wird ein reichhaltiges Frühstück mit regionalen Aromen. Das Hotel sa
 
 ## Praktische Hinweise
 
-Das Hotel organisiert geführte Touren durch die Täler und hilft bei der Reservierung von Heißluftballonfahrten. Im geprüften Material sind keine Preise veröffentlicht; die Tarife variieren daher.
+Das Hotel organisiert geführte Touren durch die Täler und hilft bei der Reservierung von Heißluftballonfahrten.

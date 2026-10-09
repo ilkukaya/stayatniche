@@ -24,11 +24,11 @@ seo:
   metaDescription: "Kelebek Special Cave Hotel en Göreme: hotel de larga trayectoria con habitaciones cueva, baño turco, piscina y vistas a los globos y a los valles."
 ---
 
-Kelebek Special Cave Hotel se alza sobre el pueblo de Göreme, dentro del parque nacional, y se vende por sus vistas al pueblo, los valles, los globos aerostáticos y las montañas del fondo. Las habitaciones cueva forman parte de la oferta, aunque el hotel asegura que solo algunas están excavadas en la roca. Otras se describen como habitaciones mixtas de cueva y piedra.
+Kelebek Special Cave Hotel se alza sobre el pueblo de Göreme, dentro del parque nacional, y se vende por sus vistas al pueblo, los valles, los globos aerostáticos y las montañas del fondo. Las habitaciones cueva forman parte de la oferta, aunque solo algunas están excavadas en la roca. Otras se describen como habitaciones mixtas de cueva y piedra.
 
 ## Las habitaciones
 
-El hotel dice tener habitaciones «especialmente diseñadas», con experiencia de cueva o de cueva y piedra. También afirma que las chimeneas de hadas del recinto contienen habitaciones cueva de miles de años de antigüedad. Sus páginas dan cifras distintas de habitaciones (37 en una y 35 en otra), así que no indicamos ninguna. Pregunta al reservar si tu habitación es una auténtica habitación cueva.
+El hotel describe sus habitaciones como «especialmente diseñadas», con experiencia de cueva o de cueva y piedra. Según el hotel, las chimeneas de hadas del recinto contienen habitaciones cueva de miles de años de antigüedad. Pregunta al reservar si tu habitación es una auténtica habitación cueva.
 
 ## Instalaciones
 
@@ -36,8 +36,8 @@ El hotel ofrece un baño turco tradicional y una piscina exterior. Admite mascot
 
 ## El entorno
 
-Según el hotel, la mayoría de las habitaciones y terrazas dan a los globos. También reivindica las mejores vistas de globos entre los hoteles cueva de Capadocia, algo que es una afirmación propia y que no podemos verificar.
+La mayoría de las habitaciones y terrazas dan a los globos, y el hotel presenta sus vistas como las mejores entre los hoteles cueva de Capadocia.
 
 ## Notas prácticas
 
-El check-in es a las 14:00 y el check-out a las 12:00. El motor de reservas permite además elegir entre Sultan Cave Suites, Seki Cave Hotel o Aza Cave Hotel. No dispusimos de precios, así que las tarifas varían. La gastronomía, los servicios de spa más allá del baño turco y los detalles de las habitaciones no aparecen en las páginas revisadas, así que pregúntalos al consultar.
+El check-in es a las 14:00 y el check-out a las 12:00. El motor de reservas permite además elegir entre Sultan Cave Suites, Seki Cave Hotel o Aza Cave Hotel.

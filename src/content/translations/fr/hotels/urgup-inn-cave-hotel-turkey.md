@@ -25,7 +25,7 @@ seo:
   metaDescription: "Urgup Inn Cave Hotel à Ürgüp : hôtel familial dans une maison transformée, dix chambres avec salle de bains, petit-déjeuner inclus, au cœur d’Ürgüp."
 ---
 
-Urgup Inn Cave Hotel est l’établissement le moins troglodytique de cette sélection, et sa page doit être lue en ce sens. L’hôtel se présente comme un hébergement confortable et familial, installé dans une ancienne maison familiale au cœur d’Ürgüp. Sur ses dix chambres, une seule, la chambre 105 (une Jacuzzi Deluxe Cave Room), est présentée comme troglodytique sur son site. Les autres sont décrites comme des chambres aux décors traditionnels, avec salle de bains privative.
+Urgup Inn Cave Hotel n’a qu’un caractère troglodytique léger, et sa page doit être lue en ce sens. C’est un hôtel confortable et familial, installé dans une ancienne maison familiale au cœur d’Ürgüp. Sur ses dix chambres, une seule, la chambre 105 (une Jacuzzi Deluxe Cave Room), est présentée comme troglodytique. Les autres sont des chambres aux décors traditionnels, avec salle de bains privative.
 
 ## Les chambres
 
@@ -33,10 +33,10 @@ Parmi les chambres citées figurent une Comfort Suite avec terrasse (110), une T
 
 ## L’emplacement
 
-L’hôtel met en avant sa position privilégiée au centre-ville d’Ürgüp, près des ruines de Kayakapı, de la vieille ville d’Ürgüp et de la colline des vœux de Temenni. Il se trouve dans une rue privée et calme, que ses propriétaires présentent comme idéale pour qui souhaite être au centre sans subir l’agitation.
+Selon l’hôtel, il bénéficie d’une position privilégiée au centre-ville d’Ürgüp, près des ruines de Kayakapı, de la vieille ville d’Ürgüp et de la colline des vœux de Temenni. Il se trouve dans une rue privée et calme, idéale pour qui souhaite être au centre sans subir l’agitation.
 
 ## Informations pratiques
 
-Le petit-déjeuner peut être pris à toute heure. Une navette aéroport est disponible sur demande, de même qu’un taxi. Les cartes de crédit sont acceptées et il est possible de changer de l’argent. Les tarifs ne nous ont pas été communiqués : ils varient.
+Le petit-déjeuner peut être pris à toute heure. Une navette aéroport est disponible sur demande, de même qu’un taxi. Les cartes de crédit sont acceptées et il est possible de changer de l’argent.
 
-Si vous voulez passer une nuit dans une chambre taillée dans la roche, demandez expressément la chambre 105. Si vous cherchez avant tout une base conviviale et centrale à Ürgüp, avec une chambre troglodytique à la clé, l’adresse est pertinente. Si un hôtel entièrement creusé dans la roche est le cœur de votre voyage, choisissez l’un des autres séjours de ce guide.
+Si vous voulez passer une nuit dans une chambre taillée dans la roche, demandez expressément la chambre 105. Si vous cherchez avant tout une base conviviale et centrale à Ürgüp, avec une chambre troglodytique à la clé, l’adresse est pertinente. Si un hôtel entièrement creusé dans la roche est le cœur de votre voyage, cherchez ailleurs.

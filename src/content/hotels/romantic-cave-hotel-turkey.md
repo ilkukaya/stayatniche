@@ -37,14 +37,14 @@ Romantic Cave Hotel is a seven-room hotel in Ürgüp in which every room is desc
 
 ## The rooms
 
-The rooms listed on the website include Oublite and Osiana at 30 square metres each, and Katbatuka and Helen at 40 square metres each; there is also a Master Room. All are marketed with views of Cappadocia. The hotel emphasises jacuzzi suites and terraces. Tea, coffee, Wi-Fi and a special breakfast are listed as in-room or included items for the rooms we saw.
+The rooms listed on the website include Oublite and Osiana at 30 square metres each, and Katbatuka and Helen at 40 square metres each; there is also a Master Room. All are marketed with views of Cappadocia. The hotel emphasises jacuzzi suites and terraces. Tea, coffee, Wi-Fi and a special breakfast are listed as in-room or included items.
 
 ## Service
 
-The hotel offers free Wi-Fi, breakfast and a 24-hour reception so that guests can stay in quiet and peace at any time of day. It states that it has fifty years of experience offering what it calls Cappadocia's most special accommodation experience. That is the hotel's own claim and we have not checked it. The site also has sections for activities and news.
+The hotel offers free Wi-Fi, breakfast and a 24-hour reception so that guests can stay in quiet and peace at any time of day. It states that it has fifty years of experience offering what it calls Cappadocia's most special accommodation experience. The site also has sections for activities and news.
 
 ## Practical notes
 
-The listed address is Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Prices were not available to us, so rates vary. A pool is not mentioned. With only seven rooms, book early for the balloon season.
+The listed address is Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. With only seven rooms, book early for the balloon season.
 
 If you want a small, couple-oriented cave stay in Ürgüp with a jacuzzi, this is a straightforward choice. It is less suited to large groups or to anyone seeking restaurants and spa facilities on site.

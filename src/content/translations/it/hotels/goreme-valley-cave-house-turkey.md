@@ -36,4 +36,4 @@ Il sito descrive la Cappadocia come un paesaggio in cui le mongolfiere si alzano
 
 ## Note pratiche
 
-Non abbiamo informazioni verificate su colazione, piscina, orari di check-in o prezzi: le tariffe variano, quindi è bene confermarli. Se desideri una camera in grotta, richiedila per categoria, perché solo tre camere sono sotterranee. Questa guesthouse è una buona scelta per le famiglie che hanno bisogno di spazio, e per chi preferisce una struttura più piccola e accogliente a Göreme piuttosto che un hotel con una lunga lista di servizi.
+Se desideri una camera in grotta, richiedila per categoria, perché solo tre camere sono sotterranee. Questa guesthouse è una buona scelta per le famiglie che hanno bisogno di spazio, e per chi preferisce una struttura più piccola e accogliente a Göreme piuttosto che un hotel con una lunga lista di servizi.

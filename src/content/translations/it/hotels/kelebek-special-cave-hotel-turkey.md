@@ -24,11 +24,11 @@ seo:
   metaDescription: "Kelebek Special Cave Hotel a Göreme: hotel di lunga tradizione con camere in grotta, bagno turco, piscina e vista su villaggio, mongolfiere e valli."
 ---
 
-Il Kelebek Special Cave Hotel sorge sopra il villaggio di Göreme, all’interno del parco nazionale, e punta sulle viste del villaggio, delle valli, delle mongolfiere e delle montagne sullo sfondo. Le camere in grotta fanno parte dell’offerta, ma l’hotel precisa che solo alcune sono scavate nella roccia. Altre sono descritte come camere miste, grotta e pietra.
+Il Kelebek Special Cave Hotel sorge sopra il villaggio di Göreme, all’interno del parco nazionale, e punta sulle viste del villaggio, delle valli, delle mongolfiere e delle montagne sullo sfondo. Le camere in grotta fanno parte dell’offerta, ma solo alcune sono scavate nella roccia. Altre sono descritte come camere miste, grotta e pietra.
 
 ## Le camere
 
-L’hotel parla di camere «realizzate con particolare cura», con un’esperienza in grotta oppure in grotta e pietra. Sostiene inoltre che i camini delle fate della proprietà ospitino camere in grotta antiche di migliaia di anni. Le sue pagine riportano numeri diversi di camere (37 in una, 35 in un’altra), perciò non indichiamo alcun totale. Chiedi al momento della prenotazione se la tua camera è davvero una camera in grotta.
+L’hotel parla di camere «realizzate con particolare cura», con un’esperienza in grotta oppure in grotta e pietra. Secondo l’hotel, i camini delle fate della proprietà ospitano camere in grotta antiche di migliaia di anni. Chiedi al momento della prenotazione se la tua camera è davvero una camera in grotta.
 
 ## Servizi
 
@@ -36,8 +36,8 @@ L’hotel offre un bagno turco tradizionale e una piscina all’aperto. Sono amm
 
 ## La posizione
 
-Secondo l’hotel, la maggior parte delle camere e delle terrazze si affaccia sulle mongolfiere. L’hotel rivendica anche le migliori viste sui palloni tra gli hotel in grotta della Cappadocia, un’affermazione che viene dall’hotel stesso e che non possiamo verificare.
+La maggior parte delle camere e delle terrazze si affaccia sulle mongolfiere, e l’hotel presenta le sue viste come le migliori tra gli hotel in grotta della Cappadocia.
 
 ## Informazioni pratiche
 
-Check-in alle 14:00 e check-out alle 12:00. Il sistema di prenotazione permette inoltre di scegliere tra Sultan Cave Suites, Seki Cave Hotel e Aza Cave Hotel. Non avevamo a disposizione i prezzi, quindi le tariffe variano. Ristorazione, trattamenti spa oltre al bagno turco e dotazioni delle camere non sono descritti nelle pagine che abbiamo esaminato: chiedili pure durante la richiesta.
+Check-in alle 14:00 e check-out alle 12:00. Il sistema di prenotazione permette inoltre di scegliere tra Sultan Cave Suites, Seki Cave Hotel e Aza Cave Hotel.

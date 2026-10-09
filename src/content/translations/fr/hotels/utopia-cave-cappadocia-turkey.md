@@ -34,4 +34,4 @@ La gastronomie est au cœur du projet. L’hôtel décrit une expérience culina
 
 ## Informations pratiques
 
-L’adresse indiquée est Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. Les numéros de chambre, les surfaces et les tarifs ne figurent pas dans les pages que nous avons consultées : les tarifs varient. C’est l’adresse à retenir dans cette sélection si vous recherchez un cadre troglodytique à l’esprit design, de gamme supérieure, avec un spa sur place.
+L’adresse indiquée est Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. C’est l’adresse à retenir si vous recherchez un cadre troglodytique à l’esprit design, de gamme supérieure, avec un spa sur place.

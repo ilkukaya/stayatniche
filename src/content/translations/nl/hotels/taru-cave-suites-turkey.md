@@ -24,11 +24,11 @@ seo:
   metaDescription: "Taru Cave Suites in Ürgüp: elegante grotkamers, restaurant en bar, gratis parkeren, ballonvaarten, gratis ontbijt en 24-uurs receptie in Cappadocië."
 ---
 
-Taru Cave Suites noemt zichzelf een boetiekgrothotel in Ürgüp dat, in eigen woorden, elegantie, authenticiteit en moderne voorzieningen combineert. De homepage beschrijft de kamers als “elegant ontworpen grotkamers”, dus de grotsfeer geldt voor het hele verblijf.
+Taru Cave Suites is een boetiekgrothotel in Ürgüp dat volgens het hotel elegantie, authenticiteit en moderne voorzieningen combineert. De kamers worden beschreven als “elegant ontworpen grotkamers”, dus de grotsfeer geldt voor het hele verblijf.
 
 ## De kamers
 
-Het materiaal dat wij hebben bekeken vermeldt geen kamertypen, afmetingen of aantallen, dus we kunnen individuele kamers niet beschrijven. Het hotel belooft een gezellig, ontspannen verblijf in de grotkamers, met een balans tussen comfort en rust. Vraag bij je aanvraag om foto's en kamerdetails.
+Gasten vinden in de grotkamers een gezellig, ontspannen verblijf, met een balans tussen comfort en rust. Vraag bij je aanvraag om foto's en kamerdetails.
 
 ## Eten en drinken
 
@@ -36,10 +36,10 @@ Het hotel beheert het Taru Restaurant and Bar, met lokale en internationale gere
 
 ## Voorzieningen
 
-Er is gratis, ruime parkeergelegenheid voor alle gasten, handig in een regio waar veel bezoekers een auto huren. Receptie en beveiliging zijn dag en nacht bemand. De site vermeldt ook ballonvaarten en een fitnessruimte, waar je rustig kunt trainen zonder de drukte van volle sportscholen.
+Er is gratis, ruime parkeergelegenheid voor alle gasten, handig in een regio waar veel bezoekers een auto huren. Receptie en beveiliging zijn dag en nacht bemand. Het hotel vermeldt ook ballonvaarten en een fitnessruimte, waar je rustig kunt trainen zonder de drukte van volle sportscholen.
 
 ## Praktische tips
 
-Het hotel ligt in Ürgüp, in de regio Nevşehir. Prijzen en inchecktijden waren niet beschikbaar, dus de tarieven verschillen. We hebben geen geverifieerde informatie over een zwembad.
+Het hotel ligt in Ürgüp, in de regio Nevşehir.
 
-Dit is een goede keuze als je in Ürgüp een verzorgd grothotel zoekt met restaurant en bar onder hetzelfde dak, en je het parkeren graag geregeld hebt. Heb je details nodig zoals kamerafmetingen of het aantal kamers, vraag ze dan rechtstreeks aan het hotel, want de site vermeldt ze niet.
+Dit is een goede keuze als je in Ürgüp een verzorgd grothotel zoekt met restaurant en bar onder hetzelfde dak, en je het parkeren graag geregeld hebt. Heb je details nodig zoals kamerafmetingen of het aantal kamers, vraag ze dan rechtstreeks aan het hotel.

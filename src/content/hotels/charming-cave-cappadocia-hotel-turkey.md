@@ -45,6 +45,6 @@ Breakfast is served from 7:30 to 10:00. The hotel offers free high-speed interne
 
 ## Practical notes
 
-The listed address is Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme. Prices were not available to us, so rates vary. A pool or spa is not mentioned. Check-in and check-out times are not stated in the pages we reviewed.
+The listed address is Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme.
 
-This is a good fit for travellers who want a straightforward cave room in Göreme at a likely modest price, and for families who can use the triple suite. As with most mixed hotels, specify the cave room category when you reserve, and confirm bed types for the triple suite if you are travelling as a family.
+This is a good fit for travellers who want a straightforward cave room in Göreme, and for families who can use the triple suite. As with most mixed hotels, specify the cave room category when you reserve, and confirm bed types for the triple suite if you are travelling as a family.

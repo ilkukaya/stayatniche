@@ -36,4 +36,4 @@ Le site décrit la Cappadoce comme un paysage où les montgolfières s’élève
 
 ## Informations pratiques
 
-Nous ne disposons pas d’informations vérifiées sur le petit-déjeuner, la piscine, les horaires d’arrivée ou les tarifs : ils varient, il convient donc de les confirmer. Si vous souhaitez une chambre troglodytique, demandez-la par catégorie, car seules trois chambres sont souterraines. Cette maison d’hôtes est un bon choix pour les familles qui ont besoin d’espace, et pour qui préfère un lieu plus intime à Göreme plutôt qu’un hôtel à la longue liste de services.
+Si vous souhaitez une chambre troglodytique, demandez-la par catégorie, car seules trois chambres sont souterraines. Cette maison d’hôtes est un bon choix pour les familles qui ont besoin d’espace, et pour qui préfère un lieu plus intime à Göreme plutôt qu’un hôtel à la longue liste de services.

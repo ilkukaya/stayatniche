@@ -34,6 +34,6 @@ La colazione è servita dalle 7:30 alle 10:00. L'hotel offre Internet ad alta ve
 
 ## Note pratiche
 
-L'indirizzo indicato è Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme. Non disponendo dei prezzi, le tariffe variano. Piscina e spa non sono menzionate. Gli orari di check-in e check-out non sono indicati nelle pagine che abbiamo consultato.
+L'indirizzo indicato è Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme.
 
-Questa struttura fa al caso di chi cerca una semplice camera in grotta a Göreme, a una tariffa probabilmente contenuta, e delle famiglie che possono approfittare della suite tripla. Come in molte strutture miste, specifica la categoria della camera in grotta in fase di prenotazione e conferma la disposizione dei letti della suite tripla se viaggi in famiglia.
+Questa struttura fa al caso di chi cerca una semplice camera in grotta a Göreme, e delle famiglie che possono approfittare della suite tripla. Come in molte strutture miste, specifica la categoria della camera in grotta in fase di prenotazione e conferma la disposizione dei letti della suite tripla se viaggi in famiglia.

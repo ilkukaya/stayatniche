@@ -37,7 +37,7 @@ Utopia Cave Cappadocia is a luxury hotel in Ürgüp that describes its accommoda
 
 ## Positioning
 
-The hotel says it is one of the select members of the LMHW Collection, a group of luxury hotels, and frames luxury as something expressed through simplicity and sensibility rather than loud statements. Its website describes a "simple and comfortable accommodation experience within the natural texture of Cappadocia", with rock-cut dwellings and valleys as the backdrop. The page is built around Our Story, Accommodation, Gastronomy, Experiences and Sustainability sections.
+According to the hotel, it is one of the select members of the LMHW Collection, a group of luxury hotels, and it frames luxury as something expressed through simplicity and sensibility rather than loud statements. Its website describes a "simple and comfortable accommodation experience within the natural texture of Cappadocia", with rock-cut dwellings and valleys as the backdrop. The page is built around Our Story, Accommodation, Gastronomy, Experiences and Sustainability sections.
 
 ## Food, spa and offers
 
@@ -45,4 +45,4 @@ Food is a focus. The hotel calls its approach a simple and refined culinary expe
 
 ## Practical notes
 
-The listed address is Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. Room numbers, sizes and prices are not given in the pages we reviewed, so rates vary. This is the stay in this batch to choose if you want a cave setting with a design-led, higher-end feel and an on-site spa.
+The listed address is Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. This is the stay to choose if you want a cave setting with a design-led, higher-end feel and an on-site spa.

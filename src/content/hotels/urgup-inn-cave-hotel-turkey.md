@@ -36,7 +36,7 @@ publishedDate: 2026-10-09
 status: published
 ---
 
-Urgup Inn Cave Hotel is the least cave-centred hotel in this batch, and its page should be read that way. The hotel describes itself as a comfortable family-run hotel in a converted family house in central Ürgüp. Of its ten rooms, only one, room 105 (a Jacuzzi Deluxe Cave Room), is named as a cave room on its website. The rest are described as traditionally furnished en-suite rooms.
+Urgup Inn Cave Hotel is only lightly cave-themed, and its page should be read that way. It is a comfortable family-run hotel in a converted family house in central Ürgüp. Of its ten rooms, only one, room 105 (a Jacuzzi Deluxe Cave Room), is listed as a cave room. The rest are traditionally furnished en-suite rooms.
 
 ## The rooms
 
@@ -44,10 +44,10 @@ The listed rooms include a Comfort Suite with terrace (110), a Triple Family Roo
 
 ## The location
 
-The hotel says it has a prime position in the city centre of Ürgüp, near the ruins of Kayakapı, the old part of Ürgüp, and the Temenni wish hill. It sits in a private, quiet street, which the owners present as ideal for people who want to be in the centre but away from the chaos.
+According to the hotel, it has a prime position in the city centre of Ürgüp, near the ruins of Kayakapı, the old part of Ürgüp, and the Temenni wish hill. It sits in a private, quiet street, ideal for people who want to be in the centre but away from the chaos.
 
 ## Practical notes
 
-Breakfast can be had at any time. An airport shuttle is available on request, and so is a taxi. Credit cards are accepted and money can be exchanged. Prices were not available to us, so rates vary.
+Breakfast can be had at any time. An airport shuttle is available on request, and so is a taxi. Credit cards are accepted and money can be exchanged.
 
-If you want a night in a carved room, ask for room 105 specifically. If you mainly want a friendly, central base in Ürgüp and would enjoy one cave room, this is reasonable. If a fully carved hotel is the point of your trip, choose one of the other stays in this guide.
+If you want a night in a carved room, ask for room 105 specifically. If you mainly want a friendly, central base in Ürgüp and would enjoy one cave room, this is reasonable. If a fully carved hotel is the point of your trip, look elsewhere.

@@ -1,7 +1,7 @@
 ---
 source: lucky-cave-cappadocia-turkey
 destination: "Göreme, Nevşehir"
-description: "Hotel de nueve habitaciones en Göreme, descrito como habitaciones y suites de piedra con arquitectura capadocia, con terraza panorámica para el desayuno; el hotel no dice que sus habitaciones estén talladas en la roca."
+description: "Hotel de nueve habitaciones en Göreme, descrito como habitaciones y suites de piedra con arquitectura capadocia, con terraza panorámica para el desayuno."
 highlights:
   - "Nueve habitaciones y suites de piedra con arquitectura capadocia"
   - "Suites con jacuzzi y hamam"
@@ -21,11 +21,11 @@ seo:
   metaDescription: "Lucky Cave Cappadocia en Göreme: nueve habitaciones y suites de piedra con jacuzzi y hamam, zona de desayuno panorámica y desayuno orgánico fresco."
 ---
 
-Lucky Cave Cappadocia está en Göreme, y su nombre promete una cueva. La web es menos directa. Describe nueve «taş oda ve suit», es decir, habitaciones y suites de piedra con arquitectura capadocia, y no dice en el texto que hemos revisado que las habitaciones estén excavadas en la roca. Considéralo un hotel boutique de piedra en tierra de cuevas y pregunta al hotel si alguna habitación está excavada en la roca.
+Lucky Cave Cappadocia está en Göreme, y su nombre promete una cueva. El hotel describe nueve «taş oda ve suit», es decir, habitaciones y suites de piedra con arquitectura capadocia. Considéralo un hotel boutique de piedra en tierra de cuevas y pregunta si alguna habitación está excavada en la roca.
 
 ## Las habitaciones
 
-El hotel cuenta con nueve habitaciones y suites, todas decoradas con gusto. Las suites tienen jacuzzi y hamam. El material que revisamos no indica el tamaño de las habitaciones ni el tipo de camas.
+El hotel cuenta con nueve habitaciones y suites, todas decoradas con gusto. Las suites tienen jacuzzi y hamam.
 
 ## Desayuno y vistas
 
@@ -33,6 +33,6 @@ El principal atractivo es una franja horaria de desayuno muy amplia: un desayuno
 
 ## Notas prácticas
 
-La web indica un número de teléfono para grupos de tres o más personas en una misma habitación y ofrece reserva online. Lo presenta como buena opción para una luna de miel. No tenemos datos verificados sobre horarios de check-in, piscina ni precios, así que las tarifas varían.
+La web indica un número de teléfono para grupos de tres o más personas en una misma habitación y ofrece reserva online. Lo presenta como buena opción para una luna de miel.
 
-Es una opción agradable si lo que más te importa son las vistas y el desayuno, y no necesitas dormir sí o sí en una cueva excavada. Si una habitación verificada excavada en la roca es imprescindible, elige otro alojamiento de esta guía.
+Es una opción agradable si lo que más te importa son las vistas y el desayuno, y no necesitas dormir sí o sí en una cueva excavada. Si una habitación excavada en la roca es imprescindible, consúltalo con el hotel antes de reservar.

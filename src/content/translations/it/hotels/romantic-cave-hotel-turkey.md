@@ -26,14 +26,14 @@ Il Romantic Cave Hotel è un hotel di sette camere a Ürgüp, in cui ogni stanza
 
 ## Le camere
 
-Tra le camere presentate sul sito ci sono Oublite e Osiana, di 30 metri quadrati ciascuna, Katbatuka e Helen, di 40 metri quadrati ciascuna, oltre a una Master Room. Tutte sono proposte con vista sulla Cappadocia. L'hotel punta su suite con jacuzzi e terrazze. Tè, caffè, Wi-Fi e una colazione speciale risultano tra i servizi in camera o inclusi per le camere che abbiamo visto.
+Tra le camere presentate sul sito ci sono Oublite e Osiana, di 30 metri quadrati ciascuna, Katbatuka e Helen, di 40 metri quadrati ciascuna, oltre a una Master Room. Tutte sono proposte con vista sulla Cappadocia. L'hotel punta su suite con jacuzzi e terrazze. Tè, caffè, Wi-Fi e una colazione speciale risultano tra i servizi in camera o inclusi.
 
 ## Servizi
 
-L'hotel offre Wi-Fi gratuito, colazione e una reception aperta 24 ore su 24, così che gli ospiti possano trovare quiete in ogni momento della giornata. Dichiara di avere cinquant'anni di esperienza nell'offrire quella che definisce l'esperienza di alloggio più speciale della Cappadocia. Si tratta di un'affermazione dell'hotel che non abbiamo verificato. Il sito ha anche sezioni dedicate alle attività e alle novità.
+L'hotel offre Wi-Fi gratuito, colazione e una reception aperta 24 ore su 24, così che gli ospiti possano trovare quiete in ogni momento della giornata. Dichiara di avere cinquant'anni di esperienza nell'offrire quella che definisce l'esperienza di alloggio più speciale della Cappadocia. Il sito ha anche sezioni dedicate alle attività e alle novità.
 
 ## Note pratiche
 
-L'indirizzo indicato è Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Non disponendo dei prezzi, le tariffe variano. Non si menziona una piscina. Con sole sette camere, conviene prenotare con anticipo durante la stagione dei palloni.
+L'indirizzo indicato è Duayeri, Cingilli Bayır Sk. No:10, 50400 Ürgüp, Nevşehir. Con sole sette camere, conviene prenotare con anticipo durante la stagione dei palloni.
 
 Questa è una scelta semplice per una coppia che cerca un piccolo soggiorno in grotta a Ürgüp con jacuzzi. È meno adatta a gruppi numerosi o a chi desidera ristoranti e spa in loco.

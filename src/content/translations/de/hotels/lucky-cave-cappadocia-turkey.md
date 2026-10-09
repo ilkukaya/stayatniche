@@ -1,7 +1,7 @@
 ---
 source: lucky-cave-cappadocia-turkey
 destination: "Göreme, Nevşehir"
-description: "Ein Hotel mit neun Zimmern in Göreme, beschrieben als Steinzimmer und Suiten im kappadokischen Baustil, mit panoramischer Frühstücksterrasse. Das Haus sagt nicht, dass seine Zimmer aus dem Fels gehauen sind."
+description: "Ein Hotel mit neun Zimmern in Göreme, beschrieben als Steinzimmer und Suiten im kappadokischen Baustil, mit panoramischer Frühstücksterrasse."
 highlights:
   - "Neun Steinzimmer und Suiten im kappadokischen Baustil"
   - "Suiten mit Jacuzzi und Hamam"
@@ -21,11 +21,11 @@ seo:
   metaDescription: "Lucky Cave Cappadocia in Göreme: neun Steinzimmer und Suiten mit Jacuzzi und Hamam, Frühstücksterrasse mit 360-Grad-Talblick und Bio-Frühstück."
 ---
 
-Lucky Cave Cappadocia liegt in Göreme, und sein Name verspricht eine Höhle. Die Website selbst ist weniger direkt. Sie beschreibt neun „taş oda ve suit“, also Steinzimmer und Suiten im kappadokischen Baustil, und sagt im gelesenen Text nicht ausdrücklich, dass die Zimmer aus dem Fels gehauen sind. Man sollte das Haus daher als Steinboutiquehotel im Höhlenland betrachten und direkt nachfragen, ob ein Zimmer in den Fels gehauen ist.
+Lucky Cave Cappadocia liegt in Göreme, und sein Name verspricht eine Höhle. Das Hotel beschreibt neun „taş oda ve suit“, also Steinzimmer und Suiten im kappadokischen Baustil. Man kann es als Steinboutiquehotel im Höhlenland betrachten und nachfragen, ob ein Zimmer in den Fels gehauen ist.
 
 ## Die Zimmer
 
-Das Hotel zählt neun Zimmer und Suiten, alle geschmackvoll eingerichtet. Die Suiten verfügen über einen Jacuzzi und ein Hamam. Zimmergrößen und Bettentypen werden im gesichteten Material nicht genannt.
+Das Hotel zählt neun Zimmer und Suiten, alle geschmackvoll eingerichtet. Die Suiten verfügen über einen Jacuzzi und ein Hamam.
 
 ## Frühstück und Aussicht
 
@@ -33,6 +33,6 @@ Die größte Attraktion ist ein langes Frühstücksfenster: frisch zubereitetes 
 
 ## Praktische Hinweise
 
-Die Seite nennt eine Telefonnummer für Gruppen von drei oder mehr Personen in einem Zimmer und bietet eine Online-Reservierung an. Das Hotel wird als gute Adresse für Flitterwochen genannt. Zu Check-in-Zeiten, Pool oder Preisen liegen uns keine verifizierten Angaben vor; die Tarife variieren daher.
+Die Seite nennt eine Telefonnummer für Gruppen von drei oder mehr Personen in einem Zimmer und bietet eine Online-Reservierung an. Das Hotel wird als gute Adresse für Flitterwochen genannt.
 
-Eine angenehme Option, wenn Aussicht und Frühstück am wichtigsten sind und man nicht unbedingt in einer ausgehöhlten Höhle schlafen möchte. Ist ein verifiziertes, in den Fels gehauenes Zimmer unverzichtbar, sollte man eine andere Unterkunft in diesem Ratgeber wählen.
+Eine angenehme Option, wenn Aussicht und Frühstück am wichtigsten sind und man nicht unbedingt in einer ausgehöhlten Höhle schlafen möchte. Ist ein in den Fels gehauenes Zimmer unverzichtbar, sollte man vor der Buchung beim Hotel nachfragen.

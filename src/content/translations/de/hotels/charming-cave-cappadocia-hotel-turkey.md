@@ -34,6 +34,6 @@ Das Frühstück wird von 7:30 bis 10:00 Uhr serviert. Das Hotel bietet kostenlos
 
 ## Praktische Hinweise
 
-Die angegebene Adresse lautet Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme. Preise lagen uns nicht vor, die Tarife variieren daher. Ein Pool oder Spa wird nicht erwähnt. Check-in- und Check-out-Zeiten sind auf den von uns gesichteten Seiten nicht angegeben.
+Die angegebene Adresse lautet Aydınlı Orta Mahalle, Kevenci Sk. No:16-1, 50180 Göreme.
 
-Diese Unterkunft passt zu Reisenden, die in Göreme ein unkompliziertes Höhlenzimmer zu voraussichtlich günstigem Preis suchen, und zu Familien, die die Dreibett-Suite nutzen möchten. Wie in den meisten gemischten Häusern sollten Sie bei der Reservierung die Kategorie Höhlenzimmer angeben und bei der Dreibett-Suite die Bettenart bestätigen, wenn Sie als Familie reisen.
+Diese Unterkunft passt zu Reisenden, die in Göreme ein unkompliziertes Höhlenzimmer suchen, und zu Familien, die die Dreibett-Suite nutzen möchten. Wie in den meisten gemischten Häusern sollten Sie bei der Reservierung die Kategorie Höhlenzimmer angeben und bei der Dreibett-Suite die Bettenart bestätigen, wenn Sie als Familie reisen.

@@ -25,7 +25,7 @@ seo:
   metaDescription: "Urgup Inn Cave Hotel in Ürgüp: familiengeführt, zehn Zimmer mit eigenem Bad im umgebauten Wohnhaus, Frühstück inklusive und zentrale Lage in der Stadt."
 ---
 
-Urgup Inn Cave Hotel ist das am wenigsten höhlenlastige Hotel dieser Auswahl, und die Seite sollte entsprechend gelesen werden. Das Haus beschreibt sich als komfortables, familiengeführtes Hotel in einem umgebauten Wohnhaus im Zentrum von Ürgüp. Von den zehn Zimmern ist laut Website nur eines, Zimmer 105 (ein Jacuzzi Deluxe Cave Room), als Höhlenzimmer ausgewiesen. Die übrigen gelten als traditionell eingerichtete Zimmer mit eigenem Bad.
+Urgup Inn Cave Hotel hat nur einen leichten Höhlencharakter, und die Seite sollte entsprechend gelesen werden. Es ist ein komfortables, familiengeführtes Hotel in einem umgebauten Wohnhaus im Zentrum von Ürgüp. Von den zehn Zimmern ist nur eines, Zimmer 105 (ein Jacuzzi Deluxe Cave Room), als Höhlenzimmer ausgewiesen. Die übrigen sind traditionell eingerichtete Zimmer mit eigenem Bad.
 
 ## Die Zimmer
 
@@ -33,10 +33,10 @@ Zu den aufgeführten Zimmern gehören eine Comfort Suite mit Terrasse (110), ein
 
 ## Die Lage
 
-Das Hotel betont seine zentrale Lage in Ürgüp, nahe den Ruinen von Kayakapı, dem alten Stadtteil von Ürgüp und dem Wunschhügel Temenni. Es liegt in einer ruhigen Privatstraße, die die Betreiber als ideal für alle präsentieren, die mitten im Ort wohnen, aber dem Trubel entgehen wollen.
+Das Hotel liegt laut eigener Aussage zentral in Ürgüp, nahe den Ruinen von Kayakapı, dem alten Stadtteil von Ürgüp und dem Wunschhügel Temenni. Es steht in einer ruhigen Privatstraße, ideal für alle, die mitten im Ort wohnen, aber dem Trubel entgehen wollen.
 
 ## Praktische Hinweise
 
-Frühstück gibt es zu jeder Zeit. Ein Flughafentransfer ist auf Anfrage erhältlich, ebenso ein Taxi. Kreditkarten werden akzeptiert, Geld kann gewechselt werden. Preise lagen uns nicht vor, die Tarife variieren daher.
+Frühstück gibt es zu jeder Zeit. Ein Flughafentransfer ist auf Anfrage erhältlich, ebenso ein Taxi. Kreditkarten werden akzeptiert, Geld kann gewechselt werden.
 
-Wer eine Nacht in einem Felsenzimmer verbringen möchte, sollte ausdrücklich Zimmer 105 anfragen. Wer vor allem eine freundliche, zentrale Basis in Ürgüp sucht und sich über ein einzelnes Höhlenzimmer freuen würde, ist hier gut aufgehoben. Steht ein vollständig in den Fels gehauenes Hotel im Mittelpunkt der Reise, sollte man eine der anderen Unterkünfte in diesem Ratgeber wählen.
+Wer eine Nacht in einem Felsenzimmer verbringen möchte, sollte ausdrücklich Zimmer 105 anfragen. Wer vor allem eine freundliche, zentrale Basis in Ürgüp sucht und sich über ein einzelnes Höhlenzimmer freuen würde, ist hier gut aufgehoben. Steht ein vollständig in den Fels gehauenes Hotel im Mittelpunkt der Reise, sollte man anderswo suchen.

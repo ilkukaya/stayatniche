@@ -31,7 +31,7 @@ L'hôtel mise avant tout sur la tranquillité. Il décrit Çavuşin comme le « 
 
 ## Service
 
-La réception est ouverte 24 h/24 et l'hôtel accepte les animaux de compagnie. L'arrivée se fait à 14 h et le départ à 12 h. Le nombre de chambres, leurs dimensions et leurs types ne sont pas précisés dans les pages que nous avons consultées.
+La réception est ouverte 24 h/24 et l'hôtel accepte les animaux de compagnie. L'arrivée se fait à 14 h et le départ à 12 h.
 
 ## Le groupe
 
@@ -39,6 +39,6 @@ Le système de réservation de Seki propose également le Kelebek Cave Hotel, le
 
 ## Conseils pratiques
 
-Comme Çavuşin se trouve à quelques kilomètres de Göreme, prévoyez un court trajet si vous comptez dîner ou participer à des excursions sur place. Le site de l'hôtel propose une rubrique consacrée aux visites et activités, ainsi qu'un service de conciergerie. Nous n'avons pas pu obtenir les tarifs : ils varient.
+Comme Çavuşin se trouve à quelques kilomètres de Göreme, prévoyez un court trajet si vous comptez dîner ou participer à des excursions sur place. Le site de l'hôtel propose une rubrique consacrée aux visites et activités, ainsi qu'un service de conciergerie.
 
 Ce séjour convient aux voyageurs qui privilégient le calme et une terrasse privée plutôt que le centre animé. Il l'est moins pour qui souhaite sortir directement sur une place très fréquentée.

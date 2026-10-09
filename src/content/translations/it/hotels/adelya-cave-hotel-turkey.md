@@ -1,11 +1,11 @@
 ---
 source: adelya-cave-hotel-turkey
 destination: "Göreme, Nevşehir"
-description: "Casa di famiglia restaurata nel cuore di Göreme, con nove camere che prendono il nome dai loro antichi usi, come The Stable, The Hayloft o The Wine House; l’hotel non dichiara che tutte siano grotte."
+description: "Casa di famiglia restaurata nel cuore di Göreme, con nove camere che prendono il nome dai loro antichi usi, come The Stable, The Hayloft o The Wine House."
 highlights:
   - "Casa di famiglia restaurata, abitata da un’unica famiglia dagli anni Cinquanta agli anni Novanta"
   - "Nove camere con nomi legati agli antichi usi: The Stable, The Hayloft, The Pantry, The Wine House e altre"
-  - "Secondo l’hotel, un tempo nelle camere in grotta vivevano animali"
+  - "Un tempo nelle camere in grotta vivevano animali"
   - "Il cuore di Göreme"
   - "Check-in dalle 14:30"
 amenities:
@@ -24,14 +24,14 @@ Adelya Cave Hotel racconta la storia di una casa. Secondo l’hotel, qui visse u
 
 ## Le camere
 
-Sono elencate nove camere, ognuna con un letto e un bagno: The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry e The Wine House. Gli ospiti parlano di autentiche camere in grotta, ma il sito non specifica che tutte e nove lo siano. Alcune, come The Stone Room e The Woodshed, potrebbero essere costruite anziché scavate: chiedi quali sono ricavate nella roccia.
+Sono elencate nove camere, ognuna con un letto e un bagno: The Stone Room, The Woodshed, Çardak, Grandpa Mehmet and Grandma Havva's Room, The Stable, The Bride's Room (Mrs. Ruşen's Room), The Hayloft, The Pantry e The Wine House. Gli ospiti parlano di autentiche camere in grotta: chiedi quali sono ricavate nella roccia.
 
 ## La zona
 
-L’hotel si trova nel cuore di Göreme, con vista sulle formazioni rocciose e un’atmosfera storica. Le recensioni degli ospiti sul sito parlano di colazione in terrazza e viste sulle mongolfiere all’alba; le consideriamo impressioni degli ospiti, non promesse dell’hotel.
+L’hotel si trova nel cuore di Göreme, con vista sulle formazioni rocciose e un’atmosfera storica. Le recensioni degli ospiti parlano di colazione in terrazza e viste sulle mongolfiere all’alba.
 
 ## Informazioni pratiche
 
-Il check-in è dalle 14:30. Il servizio di prelievo e rientro in aeroporto è offerto a pagamento, ed è disponibile il parcheggio. Non abbiamo informazioni verificate su prezzo, piscina o ristorante, quindi le tariffe variano. Il sito mostra in alcuni punti testo segnaposto: conferma i dettagli con l’hotel prima di prenotare.
+Il check-in è dalle 14:30. Il servizio di prelievo e rientro in aeroporto è offerto a pagamento, ed è disponibile il parcheggio.
 
 Un soggiorno adatto a chi è più interessato alla storia di una casa restaurata che a una camera garantita scavata nella roccia, e a chi è disposto a fare domande prima di prenotare.

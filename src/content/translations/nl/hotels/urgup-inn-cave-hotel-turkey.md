@@ -25,7 +25,7 @@ seo:
   metaDescription: "Urgup Inn Cave Hotel in Ürgüp: familiehotel in een verbouwd huis, tien kamers met eigen badkamer, ontbijt inbegrepen en centrale ligging in de stad."
 ---
 
-Urgup Inn Cave Hotel is het minst op grotten gerichte hotel in deze selectie, en de pagina moet ook zo gelezen worden. Het hotel beschrijft zichzelf als een comfortabel familiehotel in een verbouwd familiehuis in het centrum van Ürgüp. Van de tien kamers wordt volgens de website alleen kamer 105 (een Jacuzzi Deluxe Cave Room) als grotkamer genoemd. De rest worden omschreven als traditioneel ingerichte kamers met eigen badkamer.
+Urgup Inn Cave Hotel heeft maar een lichte grotsfeer, en de pagina moet ook zo gelezen worden. Het is een comfortabel familiehotel in een verbouwd familiehuis in het centrum van Ürgüp. Van de tien kamers wordt alleen kamer 105 (een Jacuzzi Deluxe Cave Room) als grotkamer genoemd. De rest zijn traditioneel ingerichte kamers met eigen badkamer.
 
 ## De kamers
 
@@ -33,10 +33,10 @@ De genoemde kamers zijn onder meer een Comfort Suite met terras (110), een Tripl
 
 ## De ligging
 
-Het hotel wijst op zijn gunstige ligging in het centrum van Ürgüp, bij de ruïnes van Kayakapı, het oude deel van Ürgüp en de wensheuvel Temenni. Het ligt aan een rustige privéstraat, die de eigenaars presenteren als ideaal voor wie midden in het centrum wil zitten maar weg van de drukte.
+Volgens het hotel ligt het gunstig in het centrum van Ürgüp, bij de ruïnes van Kayakapı, het oude deel van Ürgüp en de wensheuvel Temenni. Het ligt aan een rustige privéstraat, ideaal voor wie midden in het centrum wil zitten maar weg van de drukte.
 
 ## Praktische informatie
 
-Ontbijt kan op elk moment worden genomen. Een luchthavenshuttle is op aanvraag beschikbaar, net als een taxi. Creditcards worden geaccepteerd en er kan geld worden gewisseld. Prijzen waren voor ons niet beschikbaar, dus de tarieven variëren.
+Ontbijt kan op elk moment worden genomen. Een luchthavenshuttle is op aanvraag beschikbaar, net als een taxi. Creditcards worden geaccepteerd en er kan geld worden gewisseld.
 
-Wil je één nacht in een uitgehouwen kamer slapen, vraag dan specifiek naar kamer 105. Zoek je vooral een vriendelijke, centrale uitvalsbasis in Ürgüp en vind je één grotkamer leuk, dan is dit een prima keuze. Gaat het bij je reis vooral om een volledig uit de rots gehouwen hotel, kies dan een van de andere verblijven in deze gids.
+Wil je één nacht in een uitgehouwen kamer slapen, vraag dan specifiek naar kamer 105. Zoek je vooral een vriendelijke, centrale uitvalsbasis in Ürgüp en vind je één grotkamer leuk, dan is dit een prima keuze. Gaat het bij je reis vooral om een volledig uit de rots gehouwen hotel, zoek dan elders.

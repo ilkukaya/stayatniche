@@ -23,7 +23,7 @@ seo:
   metaDescription: "Georgios Cave Cappadocia in Ürgüp: een historisch Grieks herenhuis met negen kamers, veel met jacuzzi, en een dakterras voor de ballonnen bij zonsopgang."
 ---
 
-Georgios Cave Cappadocia zit in een geregistreerd Grieks (Rum) herenhuis in Ürgüp, en het concept combineert traditionele stenen architectuur met modern comfort. De ‘cave’ in de naam is een regionale aanduiding en geen belofte dat elke kamer in de heuvel is uitgehouwen. De eigen lijst van het hotel spreekt van ‘stone/rock rooms’, maar de precieze verhouding tussen uitgehouwen en gebouwde steen wordt niet toegelicht.
+Georgios Cave Cappadocia zit in een geregistreerd Grieks (Rum) herenhuis in Ürgüp, en het concept combineert traditionele stenen architectuur met modern comfort. De ‘cave’ in de naam is een regionale aanduiding en geen belofte dat elke kamer in de heuvel is uitgehouwen. Het hotel spreekt van ‘stone/rock rooms’.
 
 ## De kamers
 
@@ -35,4 +35,4 @@ Er wordt een rijk ontbijt met lokale smaken geserveerd. Het hotel meldt dat het 
 
 ## Praktische informatie
 
-Het hotel regelt begeleide wandelingen door de valleien en helpt bij het reserveren van ballonvaarten. In het materiaal dat we hebben bekeken staan geen prijzen vermeld; de tarieven variëren dus.
+Het hotel regelt begeleide wandelingen door de valleien en helpt bij het reserveren van ballonvaarten.

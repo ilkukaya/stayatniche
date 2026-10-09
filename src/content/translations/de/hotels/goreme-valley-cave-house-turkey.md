@@ -36,4 +36,4 @@ Die Website beschreibt Kappadokien als Landschaft, in der bei Sonnenaufgang Ball
 
 ## Praktische Hinweise
 
-Zu Frühstück, Pool, Check-in-Zeiten und Preisen liegen uns keine verifizierten Angaben vor; die Tarife variieren daher, und diese Punkte sollte man bestätigen lassen. Wer ein Höhlenzimmer möchte, sollte es ausdrücklich nach Kategorie anfragen, denn nur drei der Zimmer liegen unterirdisch. Das Gästehaus eignet sich für Familien, die Platz brauchen, und für alle, die eine kleinere, wohnliche Unterkunft in Göreme bevorzugen statt eines Hotels mit langer Ausstattungsliste.
+Wer ein Höhlenzimmer möchte, sollte es ausdrücklich nach Kategorie anfragen, denn nur drei der Zimmer liegen unterirdisch. Das Gästehaus eignet sich für Familien, die Platz brauchen, und für alle, die eine kleinere, wohnliche Unterkunft in Göreme bevorzugen statt eines Hotels mit langer Ausstattungsliste.

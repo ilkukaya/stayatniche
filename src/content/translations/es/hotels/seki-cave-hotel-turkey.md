@@ -31,7 +31,7 @@ El hotel apuesta por la tranquilidad. Describe Çavuşin como el «nuevo pueblo 
 
 ## Servicio
 
-La recepción funciona las 24 horas y el hotel admite mascotas. El check-in es a las 14:00 y el check-out a las 12:00. El número de habitaciones, sus tamaños y sus tipos no aparecen en las páginas que revisamos.
+La recepción funciona las 24 horas y el hotel admite mascotas. El check-in es a las 14:00 y el check-out a las 12:00.
 
 ## El grupo
 
@@ -39,6 +39,6 @@ El motor de reservas de Seki también incluye como opciones el Kelebek Cave Hote
 
 ## Notas prácticas
 
-Como Çavuşin está a pocos kilómetros de Göreme, conviene contar con un trayecto corto si quieres comer fuera o sumarte a excursiones allí. El hotel tiene en su web una sección de tours y actividades y un servicio de conserjería. No disponíamos de precios, así que las tarifas varían.
+Como Çavuşin está a pocos kilómetros de Göreme, conviene contar con un trayecto corto si quieres comer fuera o sumarte a excursiones allí. El hotel tiene en su web una sección de tours y actividades y un servicio de conserjería.
 
 Esta opción encaja con viajeros que valoran la calma y una terraza privada más que estar en pleno centro. Es menos adecuada si quieres salir directamente a una plaza bulliciosa.

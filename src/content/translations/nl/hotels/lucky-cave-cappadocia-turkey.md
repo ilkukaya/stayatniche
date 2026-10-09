@@ -1,7 +1,7 @@
 ---
 source: lucky-cave-cappadocia-turkey
 destination: "Göreme, Nevşehir"
-description: "Een hotel met negen kamers in Göreme, omschreven als stenen kamers en suites in Cappadociaanse architectuur, met een panoramisch ontbijtterras; het hotel zegt niet dat de kamers uit de rots zijn gehouwen."
+description: "Een hotel met negen kamers in Göreme, omschreven als stenen kamers en suites in Cappadociaanse architectuur, met een panoramisch ontbijtterras."
 highlights:
   - "Negen stenen kamers en suites in Cappadociaanse architectuur"
   - "Suites met jacuzzi en hammam"
@@ -21,11 +21,11 @@ seo:
   metaDescription: "Lucky Cave Cappadocia in Göreme: negen stenen kamers en suites met jacuzzi en hammam, panoramisch ontbijtterras met vallei-uitzicht en biologisch ontbijt."
 ---
 
-Lucky Cave Cappadocia ligt in Göreme, en de naam belooft een grot. De website is minder direct. Het beschrijft negen “taş oda ve suit”, oftewel stenen kamers en suites in Cappadociaanse architectuur, en zegt in de tekst die we hebben bekeken niet dat de kamers uit de rots zijn gehouwen. Zie het als een boetiekhotel van steen in grottenland, en vraag het hotel of een kamer uit de rots is gehouwen.
+Lucky Cave Cappadocia ligt in Göreme, en de naam belooft een grot. Het hotel beschrijft negen “taş oda ve suit”, oftewel stenen kamers en suites in Cappadociaanse architectuur. Zie het als een boetiekhotel van steen in grottenland, en vraag of een kamer uit de rots is gehouwen.
 
 ## De kamers
 
-Het hotel telt negen kamers en suites, allemaal smaakvol ingericht. De suites hebben een jacuzzi en een hammam. Kamerafmetingen en bedtypen worden niet vermeld in het materiaal dat we hebben bekeken.
+Het hotel telt negen kamers en suites, allemaal smaakvol ingericht. De suites hebben een jacuzzi en een hammam.
 
 ## Ontbijt en uitzicht
 
@@ -33,6 +33,6 @@ De grootste troef is het ruime ontbijttijdvenster. Vers bereid, biologisch ontbi
 
 ## Praktische informatie
 
-De site vermeldt een telefoonnummer voor groepen van drie of meer personen in één kamer en biedt online reserveren aan. Het hotel wordt genoemd als goede keuze voor huwelijksreizen. We hebben geen geverifieerde gegevens over incheektijden, een zwembad of prijzen, dus de tarieven variëren.
+De site vermeldt een telefoonnummer voor groepen van drie of meer personen in één kamer en biedt online reserveren aan. Het hotel wordt genoemd als goede keuze voor huwelijksreizen.
 
-Een prettige optie als uitzicht en ontbijt het belangrijkst zijn en je niet per se in een uitgehouwen grot wilt slapen. Als een geverifieerde kamer uit de rots essentieel is, kies dan een ander verblijf in deze gids.
+Een prettige optie als uitzicht en ontbijt het belangrijkst zijn en je niet per se in een uitgehouwen grot wilt slapen. Als een kamer uit de rots essentieel is, vraag dan vóór het boeken bij het hotel na.

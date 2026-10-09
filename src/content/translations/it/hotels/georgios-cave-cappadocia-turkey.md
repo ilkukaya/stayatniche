@@ -23,7 +23,7 @@ seo:
   metaDescription: "Georgios Cave Cappadocia a Ürgüp: dimora greca storica in pietra con nove camere, molte con jacuzzi, e terrazza per vedere le mongolfiere all’alba."
 ---
 
-Georgios Cave Cappadocia occupa una dimora greca (rum) registrata a Ürgüp, e il suo punto di forza è l’unione tra architettura tradizionale in pietra e comfort moderno. Il «cave» del nome è un’etichetta regionale, non una promessa che ogni camera sia scavata nel pendio: la lista dei servizi dell’hotel parla di «stone/rock rooms», ma non specifica quanta parte sia scavata nella roccia e quanta costruita in pietra.
+Georgios Cave Cappadocia occupa una dimora greca (rum) registrata a Ürgüp, e il suo punto di forza è l’unione tra architettura tradizionale in pietra e comfort moderno. Il «cave» del nome è un’etichetta regionale, non una promessa che ogni camera sia scavata nel pendio: l’hotel parla di «stone/rock rooms».
 
 ## Le camere
 
@@ -35,4 +35,4 @@ Viene offerta una colazione ricca con sapori locali. L’hotel precisa che il ri
 
 ## Informazioni pratiche
 
-L’hotel organizza visite guidate alle valli e offre assistenza nella prenotazione di voli in mongolfiera. Nel materiale che abbiamo esaminato non sono pubblicati prezzi, quindi le tariffe variano.
+L’hotel organizza visite guidate alle valli e offre assistenza nella prenotazione di voli in mongolfiera.

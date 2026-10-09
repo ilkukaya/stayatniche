@@ -24,11 +24,11 @@ seo:
   metaDescription: "Taru Cave Suites in Ürgüp: Boutique-Höhlenzimmer mit Restaurant und Bar, kostenlosem Parkplatz und Frühstück, Ballonfahrten und 24-Stunden-Rezeption."
 ---
 
-Taru Cave Suites bezeichnet sich als Boutique-Höhlenhotel in Ürgüp, das nach eigenen Worten Eleganz, Authentizität und moderne Ausstattung verbindet. Auf der Startseite heißt es, die Zimmer seien „elegant gestaltete Höhlenzimmer“. Das Höhlenambiente gilt also für den gesamten Aufenthalt.
+Taru Cave Suites ist ein Boutique-Höhlenhotel in Ürgüp, das laut Hotel Eleganz, Authentizität und moderne Ausstattung verbindet. Die Zimmer werden als „elegant gestaltete Höhlenzimmer“ beschrieben. Das Höhlenambiente gilt also für den gesamten Aufenthalt.
 
 ## Die Zimmer
 
-Die von uns gesichteten Unterlagen nennen keine Zimmertypen, Größen oder Anzahlen, daher können wir einzelne Zimmer nicht beschreiben. Das Hotel verspricht einen gemütlichen, entspannten Aufenthalt in den Höhlenzimmern, mit einer Balance aus Komfort und Ruhe. Fragen Sie bei der Anfrage nach Fotos und Zimmerdetails.
+Gäste finden in den Höhlenzimmern einen gemütlichen, entspannten Aufenthalt, mit einer Balance aus Komfort und Ruhe. Fragen Sie bei der Anfrage nach Fotos und Zimmerdetails.
 
 ## Essen und Trinken
 
@@ -36,10 +36,10 @@ Das Hotel betreibt das Taru Restaurant and Bar mit lokalen und internationalen G
 
 ## Services
 
-Kostenlose, großzügige Parkplätze stehen allen Gästen zur Verfügung, was in einer Region nützlich ist, in der viele Besucher ein Auto mieten. Rezeption und Sicherheitsdienst sind rund um die Uhr besetzt. Die Website erwähnt außerdem Ballonfahrten sowie einen Fitnessbereich, in dem man in Ruhe trainieren kann, ohne sich in überfüllten Studios zu drängen.
+Kostenlose, großzügige Parkplätze stehen allen Gästen zur Verfügung, was in einer Region nützlich ist, in der viele Besucher ein Auto mieten. Rezeption und Sicherheitsdienst sind rund um die Uhr besetzt. Das Hotel listet außerdem Ballonfahrten sowie einen Fitnessbereich, in dem man in Ruhe trainieren kann, ohne sich in überfüllten Studios zu drängen.
 
 ## Praktische Hinweise
 
-Das Hotel liegt in Ürgüp in der Region Nevşehir. Preise und Check-in-Zeiten lagen uns nicht vor, die Tarife variieren daher. Zu einem Pool haben wir keine gesicherten Informationen.
+Das Hotel liegt in Ürgüp in der Region Nevşehir.
 
-Dieses Haus passt zu Reisenden, die in Ürgüp ein gepflegtes Höhlenhotel mit Restaurant und Bar unter einem Dach suchen und sich um Parkmöglichkeiten keine Sorgen machen möchten. Wenn Sie Angaben wie Zimmergrößen oder Zimmerzahl brauchen, fragen Sie direkt beim Hotel nach, denn die Website nennt sie nicht.
+Dieses Haus passt zu Reisenden, die in Ürgüp ein gepflegtes Höhlenhotel mit Restaurant und Bar unter einem Dach suchen und sich um Parkmöglichkeiten keine Sorgen machen möchten. Wenn Sie Angaben wie Zimmergrößen oder Zimmerzahl brauchen, fragen Sie direkt beim Hotel nach.

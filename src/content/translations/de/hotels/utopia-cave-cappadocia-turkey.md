@@ -34,4 +34,4 @@ Das Essen steht im Mittelpunkt. Das Hotel bezeichnet seinen Ansatz als einfache 
 
 ## Praktische Hinweise
 
-Die angegebene Adresse lautet Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. Zimmernummern, Größen und Preise werden auf den von uns geprüften Seiten nicht genannt; die Tarife variieren daher. Wer ein Höhlenambiente mit designorientiertem, gehobenem Charakter und einem hauseigenen Spa möchte, ist mit diesem Haus in dieser Auswahl gut beraten.
+Die angegebene Adresse lautet Duayeri Mah., İstiklal-1 Sok. No: 6, 50400 Ürgüp, Nevşehir. Wer ein Höhlenambiente mit designorientiertem, gehobenem Charakter und einem hauseigenen Spa möchte, ist mit diesem Haus gut beraten.

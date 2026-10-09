@@ -24,11 +24,11 @@ seo:
   metaDescription: "Taru Cave Suites à Ürgüp : chambres troglodytes élégantes, restaurant et bar, parking gratuit, petit-déjeuner offert et réception 24 h/24 en Cappadoce."
 ---
 
-Taru Cave Suites se présente comme un hôtel troglodyte de charme à Ürgüp, qui allie, selon ses propres termes, élégance, authenticité et équipements modernes. La page d'accueil parle de « chambres troglodytes au design élégant » : l'esprit troglodyte concerne donc tout le séjour.
+Taru Cave Suites est un hôtel troglodyte de charme à Ürgüp, qui allie, selon l'hôtel, élégance, authenticité et équipements modernes. Ses chambres sont décrites comme des « chambres troglodytes au design élégant » : l'esprit troglodyte concerne donc tout le séjour.
 
 ## Les chambres
 
-Les documents que nous avons consultés ne détaillent ni les types de chambres, ni leurs superficies, ni leur nombre. Nous ne pouvons donc pas décrire chaque chambre individuellement. L'hôtel promet un séjour douillet et reposant dans ses chambres troglodytes, alliant confort et tranquillité. Demandez des photos et des détails sur les chambres lorsque vous vous renseignez.
+Les clients y trouvent un séjour douillet et reposant dans les chambres troglodytes, alliant confort et tranquillité. Demandez des photos et des détails sur les chambres lorsque vous vous renseignez.
 
 ## Restauration
 
@@ -36,10 +36,10 @@ L'hôtel exploite le Taru Restaurant and Bar, qui propose des plats locaux et in
 
 ## Services
 
-Un parking gratuit et spacieux est à la disposition de tous les clients, un atout dans une région où nombre de visiteurs louent une voiture. La réception et la sécurité fonctionnent en permanence. Le site évoque aussi les excursions en montgolfière et un espace de remise en forme, où l'on peut s'entraîner au calme, loin des salles bondées.
+Un parking gratuit et spacieux est à la disposition de tous les clients, un atout dans une région où nombre de visiteurs louent une voiture. La réception et la sécurité fonctionnent en permanence. L'hôtel mentionne aussi des excursions en montgolfière et un espace de remise en forme, où l'on peut s'entraîner au calme, loin des salles bondées.
 
 ## Conseils pratiques
 
-L'hôtel se trouve à Ürgüp, dans la région de Nevşehir. Nous ne disposions ni des tarifs ni des horaires d'arrivée ; les prix varient donc. Nous n'avons pas d'information vérifiée au sujet d'une piscine.
+L'hôtel se trouve à Ürgüp, dans la région de Nevşehir.
 
-Cette adresse convient aux voyageurs qui recherchent un hôtel troglodyte soigné à Ürgüp, avec restaurant et bar sur place, et qui souhaitent avoir le stationnement réglé. Si vous avez besoin de détails tels que la superficie des chambres ou leur nombre, demandez-les directement à l'hôtel, car le site ne les indique pas.
+Cette adresse convient aux voyageurs qui recherchent un hôtel troglodyte soigné à Ürgüp, avec restaurant et bar sur place, et qui souhaitent avoir le stationnement réglé. Si vous avez besoin de détails tels que la superficie des chambres ou leur nombre, demandez-les directement à l'hôtel.

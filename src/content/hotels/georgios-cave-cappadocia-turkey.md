@@ -34,7 +34,7 @@ publishedDate: 2026-10-09
 status: published
 ---
 
-Georgios Cave Cappadocia occupies a registered Greek (Rum) mansion in Ürgüp, and its pitch is traditional stone architecture combined with modern comfort. The "cave" in the name is a regional label rather than a promise that every room is cut into the hillside: the hotel's own list of what it offers describes "stone/rock rooms", so the exact mix of carved and built stone is not spelled out.
+Georgios Cave Cappadocia occupies a registered Greek (Rum) mansion in Ürgüp, and its pitch is traditional stone architecture combined with modern comfort. The "cave" in the name is a regional label rather than a promise that every room is cut into the hillside: the hotel describes its rooms as "stone/rock rooms".
 
 ## The rooms
 
@@ -46,4 +46,4 @@ A rich breakfast with local flavours is offered. The hotel says its restaurant h
 
 ## Practical notes
 
-The hotel arranges guided tours of the valleys and offers help reserving hot air balloon flights. No prices are published in the material we reviewed, so rates vary.
+The hotel arranges guided tours of the valleys and offers help reserving hot air balloon flights.

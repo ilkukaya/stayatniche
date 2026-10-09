@@ -1,7 +1,7 @@
 ---
 source: lucky-cave-cappadocia-turkey
 destination: "Göreme, Nevşehir"
-description: "Hotel di nove camere a Göreme, descritto come camere e suite in pietra nell’architettura cappadoce, con terrazza panoramica per la colazione; l’hotel non dichiara che le camere siano scavate nella roccia."
+description: "Hotel di nove camere a Göreme, descritto come camere e suite in pietra nell’architettura cappadoce, con terrazza panoramica per la colazione."
 highlights:
   - "Nove camere e suite in pietra nell’architettura cappadoce"
   - "Suite con jacuzzi e hammam"
@@ -21,11 +21,11 @@ seo:
   metaDescription: "Lucky Cave Cappadocia a Göreme: nove camere e suite in pietra con jacuzzi, hammam, colazione biologica fresca e vista panoramica sulla valle."
 ---
 
-Lucky Cave Cappadocia si trova a Göreme, e il nome promette una grotta. Il sito è meno diretto. Descrive nove «taş oda ve suit», cioè camere e suite in pietra nell’architettura cappadoce, senza dire nel testo che abbiamo esaminato che le camere siano scavate nella roccia. Consideralo un boutique hotel in pietra nel paese delle grotte, e chiedi alla struttura se qualche camera è scavata nella roccia.
+Lucky Cave Cappadocia si trova a Göreme, e il nome promette una grotta. L’hotel descrive nove «taş oda ve suit», cioè camere e suite in pietra nell’architettura cappadoce. Consideralo un boutique hotel in pietra nel paese delle grotte, e chiedi se qualche camera è scavata nella roccia.
 
 ## Le camere
 
-L’hotel conta nove camere e suite, tutte arredate con gusto. Le suite dispongono di jacuzzi e hammam. Dimensioni e tipologie di letto non sono indicate nel materiale che abbiamo esaminato.
+L’hotel conta nove camere e suite, tutte arredate con gusto. Le suite dispongono di jacuzzi e hammam.
 
 ## Colazione e vista
 
@@ -33,6 +33,6 @@ La principale attrattiva è una lunga fascia oraria per la colazione: una colazi
 
 ## Note pratiche
 
-Il sito indica un numero di telefono per gruppi di tre o più persone in una stessa camera e offre la prenotazione online. L’hotel è presentato come una buona scelta per la luna di miele. Non abbiamo informazioni verificate su orari di check-in, piscina o prezzi, quindi le tariffe variano.
+Il sito indica un numero di telefono per gruppi di tre o più persone in una stessa camera e offre la prenotazione online. L’hotel è presentato come una buona scelta per la luna di miele.
 
-È una scelta piacevole se contano soprattutto la vista e la colazione, e non si è determinati a dormire in una grotta scavata. Se una camera verificata scavata nella roccia è indispensabile, scegli un’altra struttura di questa guida.
+È una scelta piacevole se contano soprattutto la vista e la colazione, e non si è determinati a dormire in una grotta scavata. Se una camera scavata nella roccia è indispensabile, verifica con l’hotel prima di prenotare.

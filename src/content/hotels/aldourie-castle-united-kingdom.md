@@ -38,7 +38,7 @@ Aldourie Castle is not a hotel in the usual sense. It is a baronial castle on th
 
 ## The house
 
-The site describes the castle as rooted in the classical heritage of a Scottish country house, with a contemporary Danish design influence. The rooms are described as elegant, weaving together comfort and character, with a team looking after guests. The castle is fully staffed and includes daily housekeeping. We have no room-by-room detail, so we do not describe individual bedrooms.
+The site describes the castle as rooted in the classical heritage of a Scottish country house, with a contemporary Danish design influence. The rooms are described as elegant, weaving together comfort and character, with a team looking after guests. The castle is fully staffed and includes daily housekeeping.
 
 ## Food
 
@@ -50,4 +50,4 @@ Guests can use the Sauna Yurt among the trees by Loch Ness, and the Steadings ho
 
 ## Practical notes
 
-Prices were not published in the pages we reviewed, and exclusive-use rates depend on dates and group size, so rates vary and you should enquire. The castle is in the Highlands near Inverness. It is a strong choice for celebrations and group holidays; it is not set up for solo overnight stays.
+The castle is in the Highlands near Inverness. It is a strong choice for celebrations and group holidays; it is not set up for solo overnight stays.

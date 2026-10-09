@@ -33,20 +33,20 @@ publishedDate: 2026-10-09
 status: published
 ---
 
-Cappadocia Inans Cave Suites is a small hotel in Nevşehir where the accommodation is built around cave rooms. The hotel states that it has ten rooms, each carefully decorated, and its website lists them by number: rooms 101 to 104, 201 to 203, 302, 401 and 402. The hotel presents the whole property as cave accommodation rather than a hotel with one or two themed rooms.
+Cappadocia Inans Cave Suites is a small hotel in Nevşehir where the accommodation is built around cave rooms. The hotel has ten rooms, each carefully decorated, and its website lists them by number: rooms 101 to 104, 201 to 203, 302, 401 and 402. The hotel presents the whole property as cave accommodation rather than a hotel with one or two themed rooms.
 
 ## The rooms
 
-The rooms are marketed as cave suites and the site stresses historical and cultural decoration, so expect furnishings chosen to suit the carved setting rather than a generic hotel look. Every room has a kettle, and tea and coffee are free. The site does not publish room sizes or bed configurations, so check these with the hotel when you enquire.
+The rooms are marketed as cave suites and the site stresses historical and cultural decoration, so expect furnishings chosen to suit the carved setting rather than a generic hotel look. Every room has a kettle, and tea and coffee are free.
 
 ## The cave pool
 
-The feature the hotel leads with is a heated swimming pool described as a cave pool. That is unusual even in a region full of rock-cut hotels, and it is the main reason to choose Inans over a plain cave room elsewhere. The hotel does not say whether the pool is open all year, so ask before travelling outside summer.
+The feature the hotel leads with is a heated swimming pool described as a cave pool. That is unusual even in a region full of rock-cut hotels, and it is the main reason to choose Inans over a plain cave room elsewhere. If you travel outside summer, ask whether the pool is open.
 
 ## Food and extras
 
-An open buffet breakfast of local delicacies is served. The hotel also offers private or shared transfers from Nevşehir Airport; you arrange these by email or WhatsApp. It can point guests toward hot air balloon tours and daily excursions, which it groups into the classic Red, Green and Blue tours, as well as ATV, jeep and horse-riding trips and a Turkish night. The site notes panoramic views, though it does not say which rooms have them.
+An open buffet breakfast of local delicacies is served. The hotel also offers private or shared transfers from Nevşehir Airport; you arrange these by email or WhatsApp. It can point guests toward hot air balloon tours and daily excursions, which it groups into the classic Red, Green and Blue tours, as well as ATV, jeep and horse-riding trips and a Turkish night. The site notes panoramic views.
 
 ## Practical notes
 
-The hotel lists balloon flights as running about 220 days a year, which is the hotel's own figure, so build some flexibility into a balloon plan. Rates vary by date; compare the direct price with the booking link below. If you want a quiet, compact cave hotel with a pool, this is a straightforward choice. If you want a large resort with many facilities, look elsewhere.
+According to the hotel, balloon flights run about 220 days a year, so build some flexibility into a balloon plan. If you want a quiet, compact cave hotel with a pool, this is a straightforward choice. If you want a large resort with many facilities, look elsewhere.

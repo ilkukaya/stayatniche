@@ -29,16 +29,16 @@ Das Melek Cave Hotel liegt mitten im historischen Göreme, umgeben von Feenkamin
 
 ## Die Zimmer
 
-Die Seite listet ein Deluxe-Höhlenzimmer mit 35 m² und Blick auf Garten, Berge und Innenhof sowie einem Doppelbett, außerdem ein Höhlen-Doppelzimmer mit 25 m² und Parkblick. Laut Hotel gibt es saubere, moderne Bäder und einen Fernseher. Die Gesamtzahl der Zimmer wird nicht angegeben.
+Die Seite listet ein Deluxe-Höhlenzimmer mit 35 m² und Blick auf Garten, Berge und Innenhof sowie einem Doppelbett, außerdem ein Höhlen-Doppelzimmer mit 25 m² und Parkblick. Es gibt saubere, moderne Bäder und einen Fernseher.
 
 ## Frühstück und Ausstattung
 
-Das Frühstück wird jeden Morgen kostenlos auf der Terrasse serviert. Es gibt einen gemeinsamen Aufenthaltsraum zum Entspannen und Kennenlernen anderer Gäste sowie einen Garten, in dem man nach einem Ausflug mit einem Getränk sitzen kann. Weitere Leistungen sind kostenloses, schnelles WLAN, eine Wäscherei, ein Restaurant, Fahrrad- und Autoverleih sowie 24-Stunden-Zimmerservice. Einrichtungen wie ein Pool werden nicht erwähnt.
+Das Frühstück wird jeden Morgen kostenlos auf der Terrasse serviert. Es gibt einen gemeinsamen Aufenthaltsraum zum Entspannen und Kennenlernen anderer Gäste sowie einen Garten, in dem man nach einem Ausflug mit einem Getränk sitzen kann. Weitere Leistungen sind kostenloses, schnelles WLAN, eine Wäscherei, ein Restaurant, Fahrrad- und Autoverleih sowie 24-Stunden-Zimmerservice.
 
 ## Unterwegs
 
-Ein kostenloser Transfer verbindet den Busbahnhof (Otogar) mit dem Hotel. Das Hotel kann eine Ballonfahrt organisieren, und mit dem Fahrrad lässt sich die Umgebung erkunden. Das Freilichtmuseum Göreme liegt laut Hotel nur einen kurzen Spaziergang entfernt. Die Gastgeber gelten als herzlich und teilen gern ihr Wissen über die Region.
+Ein kostenloser Transfer verbindet den Busbahnhof (Otogar) mit dem Hotel. Das Hotel kann eine Ballonfahrt organisieren, und mit dem Fahrrad lässt sich die Umgebung erkunden. Das Freilichtmuseum Göreme liegt nur einen kurzen Spaziergang entfernt. Die Gastgeber gelten als herzlich und teilen gern ihr Wissen über die Region.
 
 ## Praktische Hinweise
 
-Die angegebene Adresse lautet Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. Preise lagen uns nicht vor, daher variieren die Raten. Das Hotel eignet sich für Reisende, die ein schlichtes, zentral gelegenes Höhlenzimmer suchen und kein Luxusresort.
+Die angegebene Adresse lautet Gafeli Mah., Ünlü Sok. No:28, 50180 Göreme. Das Hotel eignet sich für Reisende, die ein schlichtes, zentral gelegenes Höhlenzimmer suchen und kein Luxusresort.

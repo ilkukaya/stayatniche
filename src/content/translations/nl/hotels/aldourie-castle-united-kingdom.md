@@ -27,7 +27,7 @@ Aldourie Castle is geen hotel in de gebruikelijke zin. Het is een baronieel kast
 
 ## Het huis
 
-De site beschrijft het kasteel als geworteld in de klassieke traditie van een Schots landhuis, met een hedendaagse Deense designinvloed. De kamers worden elegant genoemd, met comfort en karakter, en een team zorgt voor de gasten. Het kasteel is volledig bemand en heeft dagelijkse huishouding. We hebben geen informatie per kamer, dus we beschrijven de slaapkamers niet afzonderlijk.
+De site beschrijft het kasteel als geworteld in de klassieke traditie van een Schots landhuis, met een hedendaagse Deense designinvloed. De kamers worden elegant genoemd, met comfort en karakter, en een team zorgt voor de gasten. Het kasteel is volledig bemand en heeft dagelijkse huishouding.
 
 ## Eten
 
@@ -39,4 +39,4 @@ Gasten kunnen de saunayurt tussen de bomen aan Loch Ness gebruiken, en in de Ste
 
 ## Praktische tips
 
-Prijzen stonden niet vermeld op de pagina's die wij hebben bekeken. Tarieven voor exclusief gebruik hangen af van data en groepsgrootte, dus ze verschillen, en je moet navraag doen. Het kasteel ligt in de Highlands bij Inverness. Het is een sterke keuze voor feesten en groepsvakanties; het is niet ingericht op overnachtingen van één persoon.
+Het kasteel ligt in de Highlands bij Inverness. Het is een sterke keuze voor feesten en groepsvakanties; het is niet ingericht op overnachtingen van één persoon.
