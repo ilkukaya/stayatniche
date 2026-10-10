@@ -1790,5 +1790,217 @@
     "distanceKm": 2.8,
     "kind": "area",
     "place": "Agafay Desert"
+  },
+  "augill-castle-united-kingdom": {
+    "author": "Bob Harvey",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Augill_Castle,_Brough,_Cumbria_(geograph_1649274).jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q26437913",
+    "matched": "Augill Castle",
+    "distanceKm": 0
+  },
+  "dalhousie-castle-united-kingdom": {
+    "author": "RHaworth",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Dalhousie_Castle_350.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2969112",
+    "matched": "Dalhousie Castle",
+    "distanceKm": 0
+  },
+  "inverlochy-castle-hotel-united-kingdom": {
+    "author": "Johnny Durnan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inverlochy_Castle._-_geograph.org.uk_-_107767.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q6060140",
+    "matched": "Inverlochy Castle Hotel",
+    "distanceKm": 0
+  },
+  "langley-castle-hotel-united-kingdom": {
+    "author": "Ken Brown",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Langley_Castle.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2969643",
+    "matched": "Langley Castle",
+    "distanceKm": 0
+  },
+  "melville-castle-united-kingdom": {
+    "author": "kim traynor",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Melville_Castle.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q144909",
+    "matched": "Melville Castle",
+    "distanceKm": 0
+  },
+  "peckforton-castle-united-kingdom": {
+    "author": "Bs0u10e01",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peckforton_Castle_2014.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q2160653",
+    "matched": "Peckforton Castle",
+    "distanceKm": 0
+  },
+  "scargill-castle-united-kingdom": {
+    "author": "Stanley Howe",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scargill_Castle_-_geograph-2391633.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q17536239",
+    "matched": "Scargill Castle",
+    "distanceKm": 0
+  },
+  "the-castle-hotel-taunton-united-kingdom": {
+    "author": "Rodw",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_Hotel,_Taunton.JPG",
+    "wikidata": "https://www.wikidata.org/wiki/Q5050150",
+    "matched": "Castle Hotel",
+    "distanceKm": 0
+  },
+  "area:awasi-atacama-chile": {
+    "author": "Christer T Johansson",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Pedro_de_Atacama-CTJ-IMG_5507.jpg",
+    "title": "San Pedro de Atacama-CTJ-IMG 5507.jpg",
+    "distanceKm": 0.9,
+    "kind": "area",
+    "place": "San Pedro de Atacama"
+  },
+  "area:barony-castle-hotel-united-kingdom": {
+    "author": "marsupium photography",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barony_Castle_Hotel_(8419789489).jpg",
+    "title": "Barony Castle Hotel (8419789489).jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Eddleston"
+  },
+  "dornoch-castle-hotel-united-kingdom": {
+    "author": "Bill Boaden",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dornoch_Castle_Hotel_-_geograph.org.uk_-_3599744.jpg",
+    "title": "Dornoch Castle Hotel - geograph.org.uk - 3599744.jpg",
+    "distanceKm": 0,
+    "kind": "hotel",
+    "matched": "Dornoch Castle Hotel"
+  },
+  "area:glenarm-castle-ocean-view-pods-united-kingdom": {
+    "author": "Gareth James",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bridge_across_the_Glenarm_River,_Glenarm_-_geograph.org.uk_-_3677011.jpg",
+    "title": "Bridge across the Glenarm River, Glenarm - geograph.org.uk - 3677011.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Glenarm"
+  },
+  "area:hazlewood-castle-and-spa-united-kingdom": {
+    "author": "John Slater",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chantry_Lane,_east_of_Hazlewood_Castle_-_geograph.org.uk_-_3164748.jpg",
+    "title": "Chantry Lane, east of Hazlewood Castle - geograph.org.uk - 3164748.jpg",
+    "distanceKm": 0.8,
+    "kind": "area",
+    "place": "Tadcaster"
+  },
+  "inkaterra-machu-picchu": {
+    "author": "David Berkowitz from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inkaterra_Machu_Picchu_Pueblo_Hotel_and_Nature_Reserve_-_Aguas_Calientes,_Peru_(4876285930).jpg",
+    "title": "Inkaterra Machu Picchu Pueblo Hotel and Nature Reserve - Aguas Calientes, Peru (4876285930).jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Inkaterra Machu Picchu Pueblo Hotel"
+  },
+  "area:kelebek-special-cave-hotel-turkey": {
+    "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20180109_G%C3%B6reme-Avanos_3838_(26047948858).jpg",
+    "title": "20180109 Göreme-Avanos 3838 (26047948858).jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:killeavy-castle-estate-united-kingdom": {
+    "author": "Dieglop",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ring_of_Gullion_AONB_-_20200903113927.jpg",
+    "title": "Ring of Gullion AONB - 20200903113927.jpg",
+    "distanceKm": 1.1,
+    "kind": "area",
+    "place": "Newry"
+  },
+  "area:niku-hide-finland": {
+    "author": "State Chancellery of Latvia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Neform%C4%81l%C4%81_san%C4%81ksme_Somij%C4%81_(7013435019).jpg",
+    "title": "Neformālā sanāksme Somijā (7013435019).jpg",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Saariselkä"
+  },
+  "area:shinta-mani-wild-cambodia": {
+    "author": "Gerard Chartier",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macaca_leonina_394276799.jpg",
+    "title": "Macaca leonina 394276799.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Cardamom Mountains"
+  },
+  "area:torrisdale-castle-estate-united-kingdom": {
+    "author": "Peter Wood",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torrisdale_Bay_(North)_-_geograph.org.uk_-_6106855.jpg",
+    "title": "Torrisdale Bay (North) - geograph.org.uk - 6106855.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Kintyre"
+  },
+  "tulloch-castle-hotel-united-kingdom": {
+    "author": "Craig Wallace",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tulloch_Castle_-_geograph.org.uk_-_7004010.jpg",
+    "title": "Tulloch Castle - geograph.org.uk - 7004010.jpg",
+    "distanceKm": 0,
+    "kind": "hotel",
+    "matched": "Tulloch Castle Hotel"
+  },
+  "area:tyr-graig-castle-united-kingdom": {
+    "author": "IIya Kuzhekin",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barmouth,_UK_-_panoramio_-_IIya_Kuzhekin_(9).jpg",
+    "title": "Barmouth, UK - panoramio - IIya Kuzhekin (9).jpg",
+    "distanceKm": 0.7,
+    "kind": "area",
+    "place": "Barmouth"
+  },
+  "walworth-castle-hotel-united-kingdom": {
+    "author": "Stanley Howe",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Walworth_Castle_Hotel_-_geograph.org.uk_-_2962229.jpg",
+    "title": "Walworth Castle Hotel - geograph.org.uk - 2962229.jpg",
+    "distanceKm": 0.1,
+    "kind": "hotel",
+    "matched": "Walworth Castle Hotel"
   }
 }
