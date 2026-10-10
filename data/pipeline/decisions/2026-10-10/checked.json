@@ -1,0 +1,3965 @@
+[
+ {
+  "id": "osm:way/1274506481",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 45,
+  "niche_feature": "45 suites inside a thousand-year-old fortress with a natural thermal spring in Val d'Orcia",
+  "category_quote": "Castello di Velona is a thousand-year-old fortress bathed in Tuscan light",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Velona",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 45,
+   "quote": "Within, 45 refined suites, three restaurants, an estate cantina"
+  },
+  "amenities": [
+   {
+    "text": "Thermal spa (Olispa)",
+    "quote": "OLISPA is a contemporary wellness sanctuary shaped by Tuscan travertine"
+   },
+   {
+    "text": "Thermal pools and sauna",
+    "quote": "Over 1,500 sqm are dedicated to relaxation, featuring panoramic thermal pools, a sauna, steam baths"
+   },
+   {
+    "text": "Three restaurants",
+    "quote": "There are three restaurants on the property."
+   },
+   {
+    "text": "Five swimming pools",
+    "quote": "There are five swimming pools on the property: two indoor, two outdoor and one private outdoor pool."
+   },
+   {
+    "text": "Paid shuttle service",
+    "quote": "Yes, a paid shuttle service is available."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Natural thermal spring beneath the estate",
+    "quote": "Beneath the estate flows a natural thermal spring that feeds the panoramic pools of the spa"
+   },
+   {
+    "text": "Panoramic terraces inside a castle",
+    "quote": "Panoramic terraces, timeless atmospheres and the authentic elegance of a thousand-year-old castle."
+   },
+   {
+    "text": "Private estate with vineyards and olive groves",
+    "quote": "All around, hectares of private estate: Brunello vineyards, olive groves, woodlands and hills"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Reached by train to Buonconvento, or by car or helicopter",
+   "quote": "It can be reached by train, arriving at Buonconvento station, or by car"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Suites are inside a fortress castle in Val d'Orcia per the site; the castle niche is supported by the description and history page.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/401944815",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Luxury boutique hotel in a restored late 19th-century castle with a medieval tower in Salento",
+  "category_quote": "Inside the castle and her other historical buildings, 20th century design details meet eclectic furnishing",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castle Elvira",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "in each of the nine individually styled and designed guest suites"
+  },
+  "amenities": [
+   {
+    "text": "Restaurant in original olive oil farm",
+    "quote": "The Elvira restaurant and bar is housed in the estate’s original olive oil farm"
+   },
+   {
+    "text": "Three pools",
+    "quote": "Elvira offers three stunning pools, two pools in the Castle gardens and one in the Towers gardens"
+   },
+   {
+    "text": "Wellness treatments in suite",
+    "quote": "A wellness haven like no other"
+   },
+   {
+    "text": "Private cinema and guest salon",
+    "quote": "The castle also offers a large guest salon, a private dining room and a private cinema"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle abandoned for over a century, then restored",
+    "quote": "Constructed in the late 19th century, but abandoned for more than 100 years"
+   },
+   {
+    "text": "Industry awards in 2023",
+    "quote": "In 2023 Elvira was presented with countless industry awards"
+   }
+  ],
+  "season": {
+   "text": "Winter opening from November 1st",
+   "quote": "From November 1st, Castle Elvira opens its doors in a warm and refined atmosphere"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 10 minutes from Lecce",
+   "quote": "Lecce (The Florence of the South) is only 10 minutes from the castle"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "luxury boutique stays",
+   "weddings and events"
+  ],
+  "reason": "Boutique hotel inside a restored castle and tower; the site describes a winter opening from November 1st, so marked seasonal.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/866363384",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "B&B in a 15th-century castle above Palinuro, with rooms inside the castle and two separate dependances",
+  "category_quote": "Il castello ha cinque camere matrimoniali, con possibilità di letti aggiuntivi, e due depandance separate dal corpo centrale",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "il Castello di San Sergio",
+  "property_type": "B&B",
+  "address": "Via San Sergio, 84051, Centola (SA)",
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Air conditioning, free Wi-Fi and Sky TV",
+    "quote": "Non mancano wi-fi, aria condizionata e Sky TV"
+   },
+   {
+    "text": "Minibar, safe and courtesy set in all rooms",
+    "quote": "In tutte le sistemazione troverete un set di cortesia, frigobar e cassaforte."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic castle with origins in the 1400s",
+    "quote": "Una dimora storica di origini quattrocentesche a Centola"
+   },
+   {
+    "text": "Wide sea view over the Palinuro coast",
+    "quote": "con una vista ampia e diretta sul mare di Palinuro"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Above the Palinuro coast in Centola, Campania",
+   "quote": "Via San Sergio, 84051, Centola (SA)"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Bed and breakfast with five double rooms inside the castle building plus two separate dependances, so the castle stay is the core of the property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/953679528",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 46,
+  "niche_feature": "Relais and spa in a medieval castle near Erba, with rooms inside the castle walls and a separate villa",
+  "category_quote": "Le camere custodite tra le mura del castello sono spazi accoglienti",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Relais & Spa Castello di Casiglio",
+  "property_type": "hotel",
+  "address": "via Cantù 21 – 22036 Erba (CO)",
+  "room_count": {
+   "value": 46,
+   "quote": "Le camere, 46 in tutto"
+  },
+  "amenities": [
+   {
+    "text": "Spa",
+    "quote": "Lasciatevi coccolare dalla magia della nostra spa"
+   },
+   {
+    "text": "Outdoor summer pool",
+    "quote": "Circondatevi di natura, armonia e benessere fra le acque rigeneranti della nostra piscina estiva"
+   },
+   {
+    "text": "Restaurant LeCrù",
+    "quote": "i nostri piatti si basano su materie prime pregevoli"
+   },
+   {
+    "text": "Sauna and jacuzzi in Garden Spa suites",
+    "quote": "Le tre Suite Garden Spa si dotano di comfort esclusivi: dalla sauna alla jacuzzi"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle core dating to the 1100s",
+    "quote": "Al 1100 risalgono il primo piano e la torre a pianta quadrata"
+   },
+   {
+    "text": "Tower suite with original castle architecture",
+    "quote": "Nella Suite Torre del castello elementi architettonici originali"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Near Lake Como, in the province of Como",
+   "quote": "Da qui, potrete iniziare un viaggio tra le sponde eleganti del Lago di Como"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Relais and spa hotel whose rooms are inside the medieval castle walls, with a separate villa; the castle is the core of the property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/773578903",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": "ice-hotels",
+  "also_fits": [
+   "bubble-hotels"
+  ],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 20,
+  "niche_feature": "Ice and snow hotel with ice-carved rooms in Rovaniemi, plus heated glass igloos under the northern lights",
+  "category_quote": "Arctic SnowHotel avattiin joulukuussa 2008, ja siitä lähtien uusi lumi- ja jäähotelli on rakennettu uudelleen joka vuosi.",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Arctic SnowHotel & Glass Igloos",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 20,
+   "quote": "Tässä lumoavassa jäähotellissa on 20 hotellihuonetta, joissa voi majoittua noin 70 vierasta."
+  },
+  "amenities": [
+   {
+    "text": "Snow sauna",
+    "quote": "Talvella voit myös heittää löylyt maailman ainoassa lumisaunassa"
+   },
+   {
+    "text": "Ice restaurant and ice bar",
+    "quote": "Jää- ja lumitaide, arktiset aktiviteetit, Jääravintola, Jääbaari ja Jääkappeli tarjoavat runsaasti koettavaa ja nähtävää"
+   },
+   {
+    "text": "Buffet breakfast included in hotel stay",
+    "quote": "Buffetaamiainen kuuluu aina lumihotellin majoituksen hintaan"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Glass igloos under the starry sky and northern lights",
+    "quote": "Lasi-iglussa majoitut revontulten ja tähtitaivaan alla"
+   },
+   {
+    "text": "Staff wake guests personally when the northern lights are strongest",
+    "quote": "Kun revontulet näyttäytyvät kauneimmillaan, henkilökunta herättää sinut henkilökohtaisesti"
+   }
+  ],
+  "season": {
+   "text": "Ice hotel season starts 15 December each year",
+   "quote": "Talvikausi hotellillamme alkaa virallisesti 15. joulukuuta"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Round-trip transfers from Rovaniemi included in accommodation packages",
+   "quote": "Majoituspakettimme sisältävät kaiken tarvittavan täydelliseen lomaan: edestakaisen kuljetuksen Rovaniemeltä"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ice and snow hotel with ice-carved rooms and glass igloos, seasonal from 15 December; the site confirms overnight stays in both.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12292090306",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 12,
+  "niche_feature": "Tented suites on wooden decks in an unfenced Kruger concession, with daily game drives",
+  "category_quote": "Buffalo Rock Tented Camp is perfectly located in a private and secluded part of the Nkambeni Private Concession",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Buffalo Rock Safari Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 12,
+   "quote": "The camp has just 12 privately-situated tented suites"
+  },
+  "amenities": [
+   {
+    "text": "Solar-powered off-grid system",
+    "quote": "Buffalo Rock Tented Camp is purely powered by solar energy"
+   },
+   {
+    "text": "Wi-Fi, power outlets and a fan in each room",
+    "quote": "Each room has wifi, power outlets for cell-phones or tablets, and a fan."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Lions and leopards on the camp rocky outcrop",
+    "quote": "Although the Camp is called Buffalo Rock, Lion and Leopard are regularly spotted sunning themselves on the rocky outcrop close to the camp."
+   },
+   {
+    "text": "Daily game drives and bush walks",
+    "quote": "The camp conducts regular daily game drives within the traversing area of the concession"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Inside Kruger National Park",
+   "quote": "Located inside the renowned Kruger National Park"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Tented safari camp inside Kruger with game drives, so safari-lodges fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13626577201",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Two Big 5 safari lodges inside a private conservation reserve in Zululand",
+  "category_quote": "Bayala Private Safari Lodges are situated within Zuka Private Game Reserve",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Bayala Private Safari Lodges",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 24,
+   "quote": "Each lodge has 24 rooms offering all the essential comforts."
+  },
+  "amenities": [
+   {
+    "text": "Swimming pools at both lodges",
+    "quote": "Guests at both lodges enjoy welcoming lounges, a rustic bar, swimming pools, and relaxed indoor and outdoor dining."
+   },
+   {
+    "text": "En-suite walk-in showers and air conditioning",
+    "quote": "All rooms feature en-suite bathrooms with spacious walk-in showers, air conditioning, quality linens, tea and coffee-making facilities, and hairdryers."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Two neighbouring lodges within walking distance",
+    "quote": "conveniently located within walking distance of one another"
+   },
+   {
+    "text": "Morning and afternoon game drives",
+    "quote": "Our morning game drive sets off before sunrise, giving you the chance to experience the bush as it comes to life."
+   },
+   {
+    "text": "Malaria-free area",
+    "quote": "Bayala Private Safari Lodges is located in a malaria-free area"
+   }
+  ],
+  "season": {
+   "text": "Year-round safari",
+   "quote": "Bayala offers year-round safari value depending on traveller priorities."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About three hours by road from Durban",
+   "quote": "It is approximately a three-hour drive from Durban."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families"
+  ],
+  "reason": "Two lodges inside a private Big 5 game reserve with game drives, so safari-lodges fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1430797816",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Luxury game lodge in Sabi Sand with two daily game drives and a glass-fronted honeymoon suite",
+  "category_quote": "Elephant Plains Game Lodge is situated in the northern part of the world-famous Sabi Sand Game Reserve",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Elephant Plains Game Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Two swimming pools, gym and games room",
+    "quote": "Facilities include two swimming pools, a gym and games room."
+   },
+   {
+    "text": "Boma dinners by log fire",
+    "quote": "Dinner is served around a log fire in the boma"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Glass-fronted honeymoon suite with private splash pool",
+    "quote": "This glass fronted suite has all the regular luxuries and also boasts a private splash pool"
+   },
+   {
+    "text": "Two daily game drives and a bush walk",
+    "quote": "Activities include two daily game drives of three hours each."
+   },
+   {
+    "text": "Owner-run, maximum 24 guests",
+    "quote": "The lodge is owner run and accommodates a maximum of 24 guests."
+   },
+   {
+    "text": "Children aged 8 and older only",
+    "quote": "Please note that the lodge welcomes children aged 8 and older only."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Luxury safari lodge in Sabi Sand with game drives, so safari-lodges fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2210091557",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Luxury tented safari lodge with waterhole-side tents and bush safaris in the Klein Karoo",
+  "category_quote": "The lodge features a range of luxurious tented accommodations, including Waterhole tents with private decks for wildlife viewing and Family tents for group getaways.",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Buffelsdrift Game Lodge",
+  "property_type": "lodge",
+  "address": {
+   "text": "Cango Caves Road, Oudtshoorn, 6620",
+   "quote": "Cango Caves Road, Oudtshoorn, 6620"
+  },
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Private outdoor hot water shower",
+    "quote": "Private outdoor hot water shower"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Waterhole tents with private sundeck at the water's edge",
+    "quote": "as they each feature a private sundeck, right at the edge of our main waterhole"
+   },
+   {
+    "text": "Free-roaming cheetahs on the reserve",
+    "quote": "Observe elephants, witness the power of lions, and marvel at free-roaming cheetahs."
+   },
+   {
+    "text": "Wedding chapel by the waterhole",
+    "quote": "For those seeking a romantic setting, a charming wedding chapel overlooking a natural waterhole awaits."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 5 hours from Cape Town and 1 hour from George Airport",
+   "quote": "Conveniently located just a 5-hour drive from Cape Town and an hour from George Airport"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Tented lodge on a reserve with bush safaris and game drives, so safari-lodges fits; the nearby Cango Caves road is not a cave stay.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2657634333",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Five-star suite lodge in Madikwe with private decks and splash pools, 16 guests maximum",
+  "category_quote": "The daily game drives , with informed and professional game rangers, are an exciting way of getting into the bush",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Tuningi Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 6,
+   "quote": "This Lodge accommodates 16 guests in four spacious Luxury Suites and two Family Suites"
+  },
+  "amenities": [
+   {
+    "text": "Private wrap-around decks with splash pools",
+    "quote": "Private wooden decks with a splash pool offer the perfect place to relax and enjoy the sights and sounds of the bush."
+   },
+   {
+    "text": "Air-conditioning and ceiling fans",
+    "quote": "Air-conditioning and ceiling fans offer cool respite in the summer months."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Sunken hide at the waterhole",
+    "quote": "observe animals up close from our sunken hide"
+   },
+   {
+    "text": "Malaria-free Madikwe Game Reserve",
+    "quote": "The malaria-free Madikwe Game Reserves lies within a transition region between the Kalahari thornveld and the Lowveld bushveld"
+   },
+   {
+    "text": "Children must be six years old and above",
+    "quote": "Children must be six years old and above"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 4.5 hours by car from Johannesburg, or a 50-minute flight with transfer",
+   "quote": "Situated in the Madikwe Game Reserve in South Africa, near the Botswana border, Tuningi Safari Lodge can be reached by car from Johannesburg in 4.5 hours."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families",
+   "couples"
+  ],
+  "reason": "Five-star safari lodge in Madikwe Game Reserve with daily game drives, so safari-lodges fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2657635193",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Safari lodge in Madikwe with private chalets, each with its own plunge pool",
+  "category_quote": "The guests were all out on their afternoon game drives",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Rhulani Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 6,
+   "quote": "Choose between our six Luxury Private Chalets, the Luxury Private Chalet - Premium or the Luxury Family Suite."
+  },
+  "amenities": [
+   {
+    "text": "Private plunge pool per chalet",
+    "quote": "Enjoy the total privacy of your own plunge pool while you relax in the spacious luxury of your private chalet."
+   },
+   {
+    "text": "Heated plunge pool on family suite terrace",
+    "quote": "Delight in uninterrupted views of Madikwe Game Reserve from your private terrace, with its secluded heated plunge pool."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Travelife Gold sustainability certification",
+    "quote": "In April 2025, Rhulani Safari Lodge became only the second hotel in South Africa to achieve Travelife Gold certification"
+   },
+   {
+    "text": "Solar capacity expansion",
+    "quote": "Rhulani Safari Lodge expands solar capacity to power a more sustainable future"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 4.5 to 5 hours by road from Johannesburg",
+   "quote": "Rhulani Safari Lodge is approximately 400 km from Johannesburg and can be reached by road in around 4½ to 5 hours"
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families",
+   "couples"
+  ],
+  "reason": "Private-chalet safari lodge in Madikwe with afternoon game drives, so safari-lodges fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2657732478",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Hillside lodge in Madikwe with ten glass-fronted suites linked by raised walkways",
+  "category_quote": "Accommodating up to 24 guests in 10 expansive, well-spaced and totally private glass-fronted suites",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Madikwe Hills Private Game Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 10,
+   "quote": "Accommodating up to 24 guests in 10 expansive, well-spaced and totally private glass-fronted suites"
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool, spa and gym",
+    "quote": "Our array of convenient facilities includes a swimming pool, a main viewing deck, a curio shop, an onsite spa and a gym."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Suites built between rocks, trees and overhangs",
+    "quote": "each suite was ingeniously fitted between rocks, trees and overhangs"
+   },
+   {
+    "text": "Private two-bedroom villa",
+    "quote": "a two-bedroom private villa (called Little Madikwe)"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Fly 50 minutes from OR Tambo, then road transfer",
+   "quote": "you can take a 50-minute flight from O.R. Tambo International Airport, with a complimentary road transfer"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Luxury safari lodge in Madikwe Game Reserve with twice-daily game drives, so safari-lodges fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2659188054",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 9,
+  "niche_feature": "Boutique safari lodge in Madikwe with suites tucked into granite rock and private game-viewing decks",
+  "category_quote": "Etali is a boutique luxury 5 star lodge offering a Big 5 safari.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Etali Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "To ensure individual guest attention and privacy, Etali offers only eight luxury suites and one family suite."
+  },
+  "amenities": [
+   {
+    "text": "Private game-viewing deck and splash pool",
+    "quote": "Large private game-viewing deck and splash pool"
+   },
+   {
+    "text": "Wellness centre",
+    "quote": "the wellness center at Etali offers a serene oasis"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Suites tucked into granite rock and tamboti trees",
+    "quote": "Our spacious suites are tucked into the granite rock and tamboti trees of the koppies"
+   },
+   {
+    "text": "Wheelchair-accessible suite",
+    "quote": "Wheelchair-accessible (Suite 5, which we offer preferentially to guests with limited mobility)"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 60 minute flight to the eastern airstrip, then a game drive to the lodge",
+   "quote": "Approximate flying time from Johannesburg to the eastern airstrip in Madikwe is 60 minutes."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families"
+  ],
+  "reason": "Boutique Big 5 safari lodge in Madikwe Game Reserve with game drives, so safari-lodges fits the whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3268752035",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Safari lodge in a nature reserve beside Kruger National Park, with open-vehicle game drives",
+  "category_quote": "Guests of Crocodile Kruger Safari are invited to join us on open vehicle game drives accompanied by an expert guide",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Crocodile Kruger Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 6,
+   "quote": "offers six luxury en-suite, air-conditioned double bedrooms with sleeperwood furniture"
+  },
+  "amenities": [
+   {
+    "text": "Wi-Fi",
+    "quote": "Wifi\nFree Parking\nRestaurant\nAirport Shuttle\nFamily Rooms\nOutdoor Pool (All Year)"
+   },
+   {
+    "text": "Free parking",
+    "quote": "Wifi\nFree Parking\nRestaurant\nAirport Shuttle\nFamily Rooms\nOutdoor Pool (All Year)"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Wifi\nFree Parking\nRestaurant\nAirport Shuttle\nFamily Rooms\nOutdoor Pool (All Year)"
+   },
+   {
+    "text": "Airport shuttle",
+    "quote": "Wifi\nFree Parking\nRestaurant\nAirport Shuttle\nFamily Rooms\nOutdoor Pool (All Year)"
+   },
+   {
+    "text": "Outdoor swimming pool, open all year",
+    "quote": "Our lower deck accommodates a dining area where breakfast can be enjoyed while overlooking the swimming pool."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms overlook the river and bushveld",
+    "quote": "In addition each room at Crocodile Kruger Safari Lodge offers a view of the river and bushveld which breathes rest and comfort."
+   },
+   {
+    "text": "Lodge in a nature reserve on the Crocodile River",
+    "quote": "Crocodile Kruger Safari Lodge is located in a nature reserve on the banks of the Crocodile River."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About one hour's drive from Kruger Mpumalanga International Airport",
+   "quote": "The lodge is located only one hour drive from the Kruger Mpumalanga International Airport."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "safari game drives",
+   "river views",
+   "families"
+  ],
+  "reason": "Lodge in a nature reserve offering open-vehicle game drives into Kruger, so it fits safari-lodges as a whole property.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3332262026",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Off-grid eco bush camp in Timbavati private reserve (Greater Kruger) with twice-daily game drives",
+  "category_quote": "Beside our twice-a-day game drive excursions, our camp provides a tranquil environment for you to relax and rewind",
+  "confidence": 0.93,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Umlani Bushcamp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 8,
+   "quote": "We have a total of eight Eco Hut Rondavels, four double huts and four family huts."
+  },
+  "amenities": [
+   {
+    "text": "En-suite bathrooms with open-air bush showers",
+    "quote": "All accommodation options have en-suite facilities including open-air bush showers for the ultimate stargazing experience."
+   },
+   {
+    "text": "Complimentary bottled water",
+    "quote": "There is also complimentary bottled water, although the tap water is perfectly safe to drink."
+   },
+   {
+    "text": "Mosquito netting and insect repellent",
+    "quote": "They also offer comfortable beds, crisp white linen, soft towels, mosquito netting, insect repellent and standard bathroom amenities."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Twice-daily game drives",
+    "quote": "Beside our twice-a-day game drive excursions, our camp provides a tranquil environment for you to relax and rewind"
+   },
+   {
+    "text": "Off the grid, built from natural materials",
+    "quote": "Our beautifully designed eco lodge is off the grid and beaten tourist track"
+   },
+   {
+    "text": "Accessible double hut",
+    "quote": "Hut 6 is our Accessible Double Hut, featuring grab bars and a ramp to the front entrance."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [
+   "safari",
+   "birding",
+   "families"
+  ],
+  "reason": "Bush camp in a private nature reserve with huts, twice-daily game drives and a family hut option.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4464814795",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Off-grid bush camp in Thornybush Game Reserve with colonial-style tents and bush chalets, plus twice-daily game drives",
+  "category_quote": "Experience the untamed beauty of Thornybush Game Reserve with two exhilarating game drives each day",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Tangala Safari Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "6 Glamping Tents & 3 Bush Chalets"
+  },
+  "amenities": [
+   {
+    "text": "En-suite bathrooms",
+    "quote": "an en-suite bathroom complete with a shower and double basin for modern convenience"
+   },
+   {
+    "text": "Solar-powered, off-grid operation",
+    "quote": "Tangala now operates entirely on renewable solar energy"
+   },
+   {
+    "text": "Buffet meals at a shared long table",
+    "quote": "Meals are buffet style and all the guests share a long table."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private patios over an active waterhole and Drakensberg views",
+    "quote": "private covered patios overlooking breathtaking views of the Drakensberg Mountain Range and an active waterhole"
+   },
+   {
+    "text": "Camp established in 1940, renovated in 2016",
+    "quote": "Established in 1940 and renovated in 2016, the camp combines heritage with modern sustainability"
+   },
+   {
+    "text": "Rhino conservation support",
+    "quote": "Beyond sustainability, Tangala plays an active role in rhino conservation."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "safari game drives",
+   "off-grid stays"
+  ],
+  "reason": "Bush camp in Thornybush Game Reserve offering two game drives a day. The home page says 6 tents and 3 chalets, but the accommodation page body says four chalets; the room count uses the headline figure.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5111077883",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Eight suites with private decks and outdoor showers on a 12,000-hectare concession inside Kruger National Park",
+  "category_quote": "Situated on a 12000-hectare concession in the south-western section of the Kruger National Park, Rhino Post Safari Lodge offers an unforgettable African safari experience.",
+  "confidence": 0.95,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Rhino Post Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 8,
+   "quote": "Raised wooden walkways link eight thatched suites each offering their own outdoor shower and private deck."
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "The secluded swimming pool area overlooks a waterhole and offers an opportunity for a refreshing break"
+   },
+   {
+    "text": "In-room massage",
+    "quote": "In-room massage therapies are the perfect bush pamper"
+   },
+   {
+    "text": "Ceiling fans, no air-conditioning",
+    "quote": "No air-conditioning but each room has overhead ceiling fans"
+   },
+   {
+    "text": "Telescope for stargazing",
+    "quote": "Our telescope is available for all guests and offers a magnificent view of the African skies at night"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private deck and outdoor shower in each suite",
+    "quote": "Eight suites each with a Private Deck and outdoor shower overlooking the Mutlumuvi Riverbed"
+   },
+   {
+    "text": "Bar overlooking a waterhole",
+    "quote": "Our unique bar, handmade from a variety of local woods, boasts the best view of the waterhole"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "13h00 – 14h00",
+   "quote": "Check-in/Check-out Times\nDetail\n13h00 – 14h00 & 11h00"
+  },
+  "check_out": {
+   "text": "11h00",
+   "quote": "Check-in/Check-out Times\nDetail\n13h00 – 14h00 & 11h00"
+  },
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [
+   "safari game drives",
+   "walking and stargazing"
+  ],
+  "reason": "Safari lodge on a private Kruger concession with eight private-deck suites and game drives; children are welcome with an age limit for game drives.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5437345744",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Small tented safari camp of four en-suite Meru-style tents in Manyeleti Game Reserve, with no wifi",
+  "category_quote": "Our guided morning game drives and bush walks give you the chance to encounter the Manyeleti's wildlife at close quarters",
+  "confidence": 0.93,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Pungwe Safari Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 4,
+   "quote": "With only four tents sleeping a maximum of eight guests, Pungwe offers privacy and personal attention in an authentic African setting."
+  },
+  "amenities": [
+   {
+    "text": "En-suite bathrooms with showers and baths",
+    "quote": "The en-suite bathrooms feature stand-alone showers, baths, flushing toilets and African inspired hand basins."
+   },
+   {
+    "text": "Wood-fired hot water",
+    "quote": "Hot water is provided by a donkey boiler"
+   },
+   {
+    "text": "Three-course dinner served al fresco",
+    "quote": "Dinner is a three-course affair served al fresco"
+   },
+   {
+    "text": "Private verandah for each tent",
+    "quote": "Each tent has its own private verandah where you can sit and contemplate the wonder of the African wilderness that surrounds the camp."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Unfenced boundaries with Sabi Sand and Kruger",
+    "quote": "Pungwe shares unfenced boundaries with two world-renowned reserves, the Sabi Sand Private Game Reserve to the south and the Kruger National Park to the east"
+   },
+   {
+    "text": "Digital detox, no wifi",
+    "quote": "where guests can recalibrate and indulge in the rare luxury of a digital detox, without wifi"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "birding",
+   "photography",
+   "small private groups"
+  ],
+  "reason": "Small tented safari camp in Manyeleti Game Reserve with guided game drives; the site describes four tents and no wifi or electricity.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8927733761",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 9,
+  "niche_feature": "Nine luxury safari tents with private decks and pools in a Greater Kruger private reserve",
+  "category_quote": "Nine luxury tents, which each have their own private deck, pool and outside shower.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Saseka Tented Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "Nine luxury tents, which each have their own private deck, pool and outside shower."
+  },
+  "amenities": [
+   {
+    "text": "Private deck, pool and outside shower per tent",
+    "quote": "Nine luxury tents, which each have their own private deck, pool and outside shower."
+   },
+   {
+    "text": "Private safari vehicle option",
+    "quote": "as well as a private safari vehicle"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Camp on a bend of the seasonal Monwana River",
+    "quote": "Perched on a bend of the seasonal Monwana River"
+   },
+   {
+    "text": "Pre-dinner drinks in the riverbed",
+    "quote": "Pre-dinner drinks in the riverbed lit up by flickering lanterns"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In the Thornybush and Sabi Sand private reserves, Greater Kruger",
+   "quote": "Set in the heart of the Thornybush and Sabi Sand Private Nature Reserves in the Greater Kruger Park"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Tented safari camp inside private reserves in the Greater Kruger area with nine tented suites; all accommodation is tents.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1100777889",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 50,
+  "niche_feature": "50 luxury safari tents inside Kruger National Park",
+  "category_quote": "A luxurious tented experience, located inside the south-western region of the Kruger National Park, 5-hours drive from Johannesburg.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Mdluli Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 50,
+   "quote": "Mdluli Safari Lodge offers 50 custom-designed, 70sqm tents blending eco-conscious design with safari-style luxury"
+  },
+  "amenities": [
+   {
+    "text": "Signature infinity pool",
+    "quote": "boma dinners, a signature infinity pool and a granite rock viewpoint with 360-degree Park views"
+   },
+   {
+    "text": "Full backup power",
+    "quote": "Full backup power in the event of a power outage"
+   },
+   {
+    "text": "Mini bar fridge",
+    "quote": "Mini bar fridge with complimentary water"
+   },
+   {
+    "text": "Private indoor and outdoor shower",
+    "quote": "Private indoor & outdoor shower"
+   },
+   {
+    "text": "Wheelchair accessible, 4 disability-friendly tents",
+    "quote": "There are 4 disability-friendly tents, and the entire lodge is wheelchair accessible."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Big 5 game drives and boma dinners",
+    "quote": "including guided or self-drive Big 5 game drives, boma dinners"
+   },
+   {
+    "text": "Granite rock viewpoint with 360-degree Park views",
+    "quote": "a granite rock viewpoint with 360-degree Park views"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 5 hours drive from Johannesburg, inside Kruger",
+   "quote": "Drive: 5-hours drive from Johannesburg."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families",
+   "couples",
+   "solo travellers",
+   "small groups"
+  ],
+  "reason": "Luxury tented lodge inside Kruger National Park with game drives; the site describes it as a tented experience with 50 tents.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1161621031",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 9,
+  "niche_feature": "Nine elevated free-standing safari tents in Shamwari Private Game Reserve",
+  "category_quote": "The nine luxury free-standing tents are elevated above the surrounding bush",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Sindile Lodge",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "9 x Premier Tented Suites, Max 2 adults per suite"
+  },
+  "amenities": [
+   {
+    "text": "Private deck with plunge pool",
+    "quote": "Private deck with plunge pool"
+   },
+   {
+    "text": "Bar and lounge with fireplace and big screen TV",
+    "quote": "Bar & lounge with fireplace and big screen TV"
+   },
+   {
+    "text": "Spa treatment rooms and fitness centre",
+    "quote": "Bespoke spa treatment rooms and fitness centre"
+   },
+   {
+    "text": "Wi-Fi",
+    "quote": "All lodges and guest rooms have WIFI"
+   },
+   {
+    "text": "Swarovski binoculars for guest use",
+    "quote": "Swarovski binoculars for guest use"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Views over the reserve from the dining area and bar",
+    "quote": "The dining area and bar are situated to make the most of the views over the reserve"
+   },
+   {
+    "text": "Game drives at sunrise and sunset",
+    "quote": "Game drives take place in the tranquil moods of sunrise and sunset."
+   }
+  ],
+  "season": {
+   "text": "Game viewing is not affected by the season",
+   "quote": "Game viewing is not affected by the weather, seasons or time of year."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Shamwari Air direct flights from Cape Town and OR Tambo",
+   "quote": "Shamwari Air offers direct, on-demand flights from Cape Town International and OR Tambo International airports"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Tented luxury camp with nine elevated tents inside a private game reserve, with game drives offered.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1348649440",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 7,
+  "niche_feature": "Seven self-catering safari tents in an unfenced camp on the Sabie River in Kruger",
+  "category_quote": "Nestled along the banks of the Sabie River, our seven self-catering tents provide a serene and unforgettable safari experience.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Nkuhlu Tented Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 7,
+   "quote": "The camp offers seven self-catering tents overlooking the Sabie River"
+  },
+  "amenities": [
+   {
+    "text": "Kitchenette with fridge and gas hob",
+    "quote": "All tents are equipped with a kitchenette, including a fridge and sags hob"
+   },
+   {
+    "text": "Private patio with gas braai",
+    "quote": "each tent has a private patio with gas braai (BBQ)"
+   },
+   {
+    "text": "Battery-operated lights for power outages",
+    "quote": "To ensure your comfort and convenience, battery-operated lights have been thoughtfully placed in your tent"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Unfenced camp with game drives",
+    "quote": "you are warmly invited to embark on exhilarating game drives"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "25 km east of Skukuza Rest Camp on the H4-1",
+   "quote": "Perfectly positioned just 25 km east of Skukuza Rest Camp on the H4-1"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Self-catering tented camp inside Kruger with an unfenced setting and game drives; children under 12 are not allowed, so audience is not family-friendly.",
+  "verdict": "accepted",
+  "dropped": [
+   "highlights 1/2"
+  ]
+ },
+ {
+  "id": "osm:way/783727825",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 10,
+  "niche_feature": "Ten raised tents on timber decks inside Amakhala Game Reserve, with twice-daily game drives",
+  "category_quote": "Today, Woodbury Tented Camp features 10 tents on raised wooden decks",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Woodbury Tented Camp",
+  "property_type": "camp",
+  "address": "Woodbury Gate, Amakhala Private Game Reserve, Eastern Cape, South Africa",
+  "room_count": {
+   "value": 10,
+   "quote": "Today, Woodbury Tented Camp features 10 tents on raised wooden decks, including two double tents for families."
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "Soak up the sun between drives while lazing on a recliner next to the pool"
+   },
+   {
+    "text": "En-suite bathrooms",
+    "quote": "and en-suite bathrooms with all the amenities you may require"
+   },
+   {
+    "text": "Boma for evening meals and fire",
+    "quote": "The traditional boma is the place to be in the evenings"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Two game drives per day in search of the Big Five",
+    "quote": "Join our friendly and professional field guides on two game drives per day, as they go in search of the Big Five"
+   },
+   {
+    "text": "Waterhole in front of the camp visited by game",
+    "quote": "regularly visited by a wide variety of game, including lion, rhino and elephant"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Access via Woodbury Gate, Amakhala Private Game Reserve, Eastern Cape",
+   "quote": "Navigate to Woodbury Gate, Amakhala Private Game Reserve, Eastern Cape, South Africa"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Ten raised safari tents in a private game reserve with game drives, and the site lists current rates and bookings.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "wd:Q140249718",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [
+   "cliffside-hotels"
+  ],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 5,
+  "niche_feature": "Five-suite luxury safari lodge in Nambiti Big Five reserve, with suites built into a cliff above the Sundays River",
+  "category_quote": "Perched atop a cliff above the Sundays River, Esiweni Luxury Safari Lodge is an intimate five-suite property set in the heart of the Nambiti Private Game Reserve",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Esiweni Luxury Safari Lodge",
+  "property_type": "lodge",
+  "address": "Nambiti Private Game Reserve, Ladysmith 3370, KwaZulu-Natal, South Africa",
+  "room_count": {
+   "value": 5,
+   "quote": "each of the five independent suites has a panoramic terrace"
+  },
+  "amenities": [
+   {
+    "text": "Infinity pool, boma, bar and terrace",
+    "quote": "A range of indoor and outdoor living areas including a boma, bar, patio, a beautiful terrace and an infinity pool"
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Creative cuisine, between modernity, tradition and products from African nature."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Suites built into a cliff above the Sundays River",
+    "quote": "Built into the side of a cliff, the suites overlook the Sundays River"
+   },
+   {
+    "text": "Game drives with rangers to meet the Big Five",
+    "quote": "Dine under the stars, go on safari with an experienced ranger to meet the Big Five"
+   },
+   {
+    "text": "Hot-air balloon flights at sunrise",
+    "quote": "fly over the plains in a hot-air balloon at sunrise"
+   },
+   {
+    "text": "100% off-grid and solar-powered",
+    "quote": "Entirely off-grid and powered 100% by solar energy"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "In Nambiti Private Game Reserve, KwaZulu-Natal",
+   "quote": "Situated in the secluded Nambiti Private Game Reserve"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Five-suite safari lodge in a private big-five reserve with game drives; the suites are also built into a cliff, so cliffside-hotels also fits.",
+  "verdict": "accepted",
+  "dropped": []
+ },
+ {
+  "id": "osm:relation/5477105",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 2,
+  "niche_feature": "Two suites inside a restored castle at a Piedmont winery and relais",
+  "category_quote": "Two Superior Suites are located within the Castle structure",
+  "confidence": 0.8,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Razzano",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Smart TV with satellite channels",
+    "quote": "Smart TV with satellite channels and with the option to connect your own device for video and audio playback"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle restored into a relais with a winery museum",
+    "quote": "with the opening of a charming Relais and the installation of the Museo ArteVino Razzano"
+   },
+   {
+    "text": "Junior suites overlook the Italian gardens",
+    "quote": "There are balconies overlooking the Italian gardens"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "from 2.30 to 8.00 PM",
+   "quote": "Check in from 2.30 to 8.00 PM"
+  },
+  "check_out": {
+   "text": "till 11.00 AM",
+   "quote": "Check out till 11.00 AM"
+  },
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Rooms are inside the castle building per the rooms page; other suites are in the courtyard and garden, so only some units are the niche.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1270064050",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Rooms inside a neo-Gothic 19th-century noble palace called a castle, near Fano",
+  "category_quote": "Negli ambienti raffinati e suggestivi del palazzo nobiliare",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello Montegiove",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Wi-Fi",
+    "quote": "Tutte le camere sono differenti tra loro e presentano indistintamente dalle tipologie i seguenti servizi: Tv LCD, Wifi, Aria Condizionata, Asciugacapelli, Minibar"
+   },
+   {
+    "text": "Air conditioning",
+    "quote": "Tutte le camere sono differenti tra loro e presentano indistintamente dalle tipologie i seguenti servizi: Tv LCD, Wifi, Aria Condizionata, Asciugacapelli, Minibar"
+   },
+   {
+    "text": "Minibar",
+    "quote": "Tutte le camere sono differenti tra loro e presentano indistintamente dalle tipologie i seguenti servizi: Tv LCD, Wifi, Aria Condizionata, Asciugacapelli, Minibar"
+   },
+   {
+    "text": "Free private parking",
+    "quote": "Parcheggio privato disponibile gratuitamente in loco senza prenotazione"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Octagonal crenellated tower",
+    "quote": "è reso inconfondibile dalla suggestiva torre ottagonale"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "On the outskirts of Fano, with sea views",
+   "quote": "Prestigiosa e raffinata Country House alle porte di Fano, sulle pendici del colle omonimo, con vista sul mare"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Rooms in the noble palace of the 1888 neo-Gothic villa called a castle, while other rooms sit in a separate country wing, so only some units are the niche.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1481321286",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Suite built inside a medieval tower of the Verucchio town walls, within a historic hotel",
+  "category_quote": "Suite su 3 livelli con spa privata, ricavata all’interno dell’antica torre medioevale",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Oste del Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Wi-Fi in rooms and common areas",
+    "quote": "Wi-fi in camera e nelle aree comuni"
+   },
+   {
+    "text": "Grotta spa and massages (package)",
+    "quote": "Ingresso in grotta, massaggi e prima colazione con servizio in camera"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Three-level tower suite with private spa",
+    "quote": "Suite su 3 livelli con spa privata, ricavata all’interno dell’antica torre medioevale"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "romantic getaways",
+   "wellness stays",
+   "cycling"
+  ],
+  "reason": "Historic Verucchio hotel with at least one suite inside a medieval tower; the niche applies to that suite, so some_units.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/186095822",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Entire castle building rented as a self-catering group holiday home",
+  "category_quote": "Vivi l’esperienza di un soggiorno in castello con vista lago",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Casa Vacanze Il Castello",
+  "property_type": "villa",
+  "address": null,
+  "room_count": {
+   "value": 6,
+   "quote": "Struttura disposta su tre piani, con 6 camere da letto e 4 bagni, può ospitare fino a 20 persone."
+  },
+  "amenities": [
+   {
+    "text": "Fully equipped kitchen",
+    "quote": "this spacious property features six bedrooms, four bathrooms, a fully equipped kitchen, and a large dining area with a fireplace"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Outdoor wood-fired oven and picnic tables",
+    "quote": "Outdoors, guests can enjoy a wood-fired oven and picnic tables, ideal for shared meals."
+   },
+   {
+    "text": "Lake view, groups up to 20",
+    "quote": "Vivi l’esperienza di un soggiorno in castello con vista lago, ideale per gruppi fino a 20 persone"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "groups",
+   "families"
+  ],
+  "reason": "Whole castle building offered as a self-catering holiday home; the castle is stated but its historic status is not.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/190869053",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 20,
+  "niche_feature": "Rooms and suites inside the historic 19th-century Villa Borghi palace",
+  "category_quote": "La tenuta offre infatti la possibilità di soggiornare all’interno della Villa padronale",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Villa Borghi",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free parking",
+    "quote": "A Hotel Villa Borghi offriamo gratuitamente un comodo parcheggio sotterraneo e un’area di parcheggio esterna dedicata."
+   },
+   {
+    "text": "Two restaurants and an American bar",
+    "quote": "Hotel Villa Borghi dispone di due ristoranti, il Ristorante La Scuderia adatto per pasti sfiziosi di tutti i giorni"
+   },
+   {
+    "text": "Spa",
+    "quote": "Un'immersione rigenerante presso la Spa di Villa Borghi"
+   },
+   {
+    "text": "Pet friendly on request",
+    "quote": "Siamo lieti di annunciare che a Hotel Villa Borghi accogliamo gli animali domestici su richiesta."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Historic villa in a 65,000 sq m park",
+    "quote": "L'Hotel è circondato da un parco di 65.000 mq, ricco di piante secolari"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "weddings",
+   "spa stays"
+  ],
+  "reason": "Four-star hotel whose historic palace holds 20 rooms; the palace rooms are the niche, the modern building is not.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/322830668",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Stay in a 14th-century historic castle with a central tower on the Sicilian coast",
+  "category_quote": "Il Castello di Falconara è una dimora storica del XIV secolo caratterizzata dalla grande torre centrale",
+  "confidence": 0.85,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Falconara",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Mediterranean park with natural-looking pool",
+    "quote": "Un Parco di essenze mediterranee con piscina di sembianze naturali"
+   },
+   {
+    "text": "Sandy beach",
+    "quote": "Una spiaggia di sabbia bianca per godere del sole di Sicilia."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Central tower built for raising hunting falcons",
+    "quote": "caratterizzata dalla grande torre centrale, costruita inizialmente per l'allevamento dei falconi da caccia"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "romantic getaway",
+   "historic stay"
+  ],
+  "reason": "Historic castle stay with B&B and apartment formulas; the castle is the core of the property, with a separate villa in the park.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/80725639",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 28,
+  "niche_feature": "Baroque princely residence from 1689 run as a hotel, with 28 units and suites around the castle grounds",
+  "category_quote": "Risaliamo al lontano 1689 quando il Principe Gravina Cruyllas decise di erigere questa dimora principesca",
+  "confidence": 0.65,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Sicilia Castello San Marco",
+  "property_type": "hotel",
+  "address": "Via San Marco, 40, 95011 Calatabiano (Catania), Sicily, Italy",
+  "room_count": {
+   "value": 28,
+   "quote": "28 ANTICHI CASOLARI, CHE RACCONTANO DI SE E DELLA LORO STORIA"
+  },
+  "amenities": [
+   {
+    "text": "Private heated pool in suites",
+    "quote": "Piscina privata riscaldata con spettacolare vista Etna"
+   },
+   {
+    "text": "Fine-dining restaurant Giardino di Pietra",
+    "quote": "Nel nostro ristorante fine dining, il Giardino di Pietra"
+   },
+   {
+    "text": "Private terrace and beach",
+    "quote": "con la nostra terrazza e spiaggia private a portata di mano"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Pool about 50 m from the sea",
+    "quote": "magnifica piscina, a soli 50 metri dal mare"
+   },
+   {
+    "text": "Suites set in a Mediterranean park around the castle",
+    "quote": "Immersi nel parco mediterraneo che circonda il castello"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "A few minutes from Taormina and Mount Etna, on the Ionian Sea",
+   "quote": "sul mare Jonio, a pochi minuti da Taormina"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Baroque princely residence operating as a hotel, with rooms in the castle complex; the site describes it as a castle hotel with suites and historic buildings beside the castle.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/84850266",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": null,
+  "niche_feature": "Agritourism apartments in historic buildings of a medieval castle estate, with a winery and a heated pool in a greenhouse",
+  "category_quote": "the apartments of understated elegance, housed in historic buildings and the spacious granaries",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Lispida",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Indoor heated pool in historic greenhouse",
+    "quote": "the indoor and heated multi-function pool ensures a water temperature of 34C"
+   },
+   {
+    "text": "Estate thermal lake",
+    "quote": "the Lispida estate has its own thermal lake with hot springs"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Castle with medieval origins, rebuilt in the 19th century",
+    "quote": "The imposing castle, which dates back to the Middle Ages and was rebuilt in the 19th century"
+   }
+  ],
+  "season": {
+   "text": "Pools open all year round",
+   "quote": "2 outdoor tubs + minipool. Open all year round!"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Agritourism apartments in historic castle-estate buildings, but the castle is also a winery and events venue, so only some units are in the castle complex.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/2810975923",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "desert-camps",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Tented bush camp in semi-desert Namaqualand, with a fire boma and flower season",
+  "category_quote": "Namaqualand, one of the world s most enchanting semi-desert areas, is the true world of the great outdoors.",
+  "confidence": 0.75,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Agama Tented Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Private bathroom and deck in each tent",
+    "quote": "The comfortable tented accommodation all have their own private bathrooms and spacious decks"
+   },
+   {
+    "text": "Gas heater in each tent",
+    "quote": "All tents are equipped with a gas heater for heating the tent."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Wildflower carpets in good seasons",
+    "quote": "In good seasons the veld around Agama Tented Camp is carpeted with flowers in breathtaking hues."
+   },
+   {
+    "text": "Up to 14 guests at a time",
+    "quote": "Here up to 14 guests at a time can relax, unwind and totally enjoy the refreshing experience"
+   }
+  ],
+  "season": {
+   "text": "Flowers in good seasons",
+   "quote": "In good seasons the veld around Agama Tented Camp is carpeted with flowers in breathtaking hues."
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "10 km dirt road; a normal sedan can reach the camp",
+   "quote": "There is a 10km dirt road towards the camp. The camp can be reached in a normal sedan car."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Tented bush camp in semi-desert Namaqualand, so desert-camps fits; there are no game drives, so safari-lodges does not fit.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/654442174",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "ice-hotels",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Glass-roofed log rooms branded as igloos for watching the northern lights in Lapland",
+  "category_quote": "The panoramic view of the Lapland sky from the glass-roofed room is like a window into your dreams",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Pyhä Igloos",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Sauna and jacuzzi in courtyard",
+    "quote": "In the courtyard you can use the sauna & jacuzzi, fireplace room and an atmospheric barbecue hut"
+   },
+   {
+    "text": "Kitchenette",
+    "quote": "The well-equipped kitchenette includes a refrigerator, stove, dishes and cutlery, an electric kettle, a coffee maker, microwave and dishwasher."
+   },
+   {
+    "text": "Free parking and EV charging",
+    "quote": "There are free parking spaces in the courtyard, as well as free 11 kWh charging point for charging hybrid and electric cars."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Glass roof opens to the northern sky",
+    "quote": "A high-quality motorized double bed is placed under the glass roof that opens up to views of the northern sky."
+   },
+   {
+    "text": "Green Key certified",
+    "quote": "We are a Green Key certified host"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 90 minutes by car from Rovaniemi airport",
+   "quote": "The drive from Rovaniemi to Pyhätunturi takes about 90 minutes"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "northern lights viewing",
+   "small groups of 2-4"
+  ],
+  "reason": "Glass-roofed rooms the site calls igloos; they are log buildings, not ice or domes, so ice-hotels is a borderline fit at moderate confidence.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/13692076001",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Lodge rooms and chalets in a private game park with game drives on offer",
+  "category_quote": "Safaris to explore the wildlife are available in elevated game drive vehicles, by boat cruise etc.",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ezulwini Game Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Wi-Fi and air conditioning in lodge rooms",
+    "quote": "Wi-Fi, Air conditioning, Bathroom amenities,"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private game park setting among tall trees",
+    "quote": "Nestled amongst towering trees, in a private game park, the comfortable accommodation is a perfect base to explore the area."
+   },
+   {
+    "text": "Hiking base in the Hluhluwe area",
+    "quote": "It has long been a favourite destination for hikers"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "General lodge in a private game park that offers game drive safaris; the safari link is moderate because rooms and chalets are the main offer.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3706858389",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Off-grid lodge with tents and chalets on a 4,500-hectare private Karoo reserve with game drives",
+  "category_quote": "Game drives, hiking trails and mountain bike routes open the reserve to curious travellers and active families.",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "African Game Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Wi-Fi in the main lodge",
+    "quote": "laptops or devices may be charged in the main lodge, where Wi-Fi is available."
+   },
+   {
+    "text": "Swimming pool",
+    "quote": "A tranquil pool area and welcoming shared spaces invite you to slow down, cool off and enjoy sweeping valley and mountain views."
+   },
+   {
+    "text": "Self-catering, boma and braai",
+    "quote": "Self-catering comfort, boma fires and shared meals make space for the kind of evenings people remember."
+   },
+   {
+    "text": "Off-grid solar power in chalets",
+    "quote": "chalets operate on 12-volt solar power"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Luxury tents about 2 km from the main lodge",
+    "quote": "The tents sit about 2km from the main lodge, where wildlife, birdsong and quiet views shape the rhythm of the day."
+   },
+   {
+    "text": "Canvas tents with a private boma-braai",
+    "quote": "Inside, the tent offers a queen-size bed dressed in crisp linen, comfortable tent furniture and solar lighting for reading at night."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 30 km of dirt road from Montagu",
+   "quote": "From Montagu, a 30-kilometre dirt road leads you deeper into the heart of the Karoo, to the gates of African Game Lodge."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families",
+   "game drives",
+   "off-grid stays"
+  ],
+  "reason": "Private reserve lodge in the Little Karoo offering game drives, with tents and chalets; the site says children are welcome.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5012782021",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Lodge on a 25-hectare bush property on the Klaserie River, offering open-vehicle safaris into Kruger",
+  "category_quote": "guided safaris conducted in our open safari vehicles into the Kruger National Park",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Kubu Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "Dive into serenity at the heart of Kubu Safari Lodge, where our inviting pool becomes a refreshing oasis amidst the untamed beauty of nature."
+   },
+   {
+    "text": "Boma dining",
+    "quote": "Nestled under the African sky, our Boma offers a unique dining experience surrounded by the flickering glow of a bonfire."
+   },
+   {
+    "text": "Air conditioning and tea/coffee facilities",
+    "quote": "Modern conveniences such as air conditioning and tea/coffee-making facilities are included to enhance your stay."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Bush property of about 25 hectares",
+    "quote": "Embark on an exhilarating journey at Kubu Safari Lodge, sprawled across twenty-five hectares of pristine natural bush"
+   },
+   {
+    "text": "Klaserie River frontage",
+    "quote": "graced by over a kilometer of captivating Klaserie River frontage"
+   },
+   {
+    "text": "Family suites",
+    "quote": "specially designed to cater for families travelling together"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [
+   "safari game drives",
+   "families"
+  ],
+  "reason": "Lodge with open-vehicle safaris into Kruger and a bush property on the Klaserie River. This is a sister of Kubu Bush Lodge on the same site, which was not separately evaluated.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6746676632",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Basic bushveld camp near Kruger with en-suite bush tents on the Klaserie River, with game drives and bush walks arranged",
+  "category_quote": "Big 3 or big 5 game drives or bush walks arranged.",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Amanzimlotzi Riverside Bush Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "En-suite bush tents and chalets",
+    "quote": "Modern chalets, rustic en-suite bush tents, or camping under huge trees next to the Klaserie river, we have it all."
+   },
+   {
+    "text": "Pool",
+    "quote": "The pool & the two rondavels. To the left (70 meters)"
+   },
+   {
+    "text": "Meals available at extra cost",
+    "quote": "We can supply meals at a modest extra cost"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Tent sleeping close to lions and hyenas",
+    "quote": "the advantage of staying in the tents is that you hear every lion roar and"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "bush camping",
+   "game drives"
+  ],
+  "reason": "Bush camp with en-suite tents near Kruger offering arranged game drives; the price list is dated late 2018, so current operation is unknown.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7027129538",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Tented safari lodge of 45 en-suite tents and 6 chalets in a private game reserve near Kruger",
+  "category_quote": "Unyati is the essence of an authentic safari stay, with free roaming antelope and other game on our private game reserve.",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Unyati Safari Lodge",
+  "property_type": "lodge",
+  "address": "Strydomblok Road, Hectorspruit, South Africa",
+  "room_count": {
+   "value": 51,
+   "quote": "Our 45 en-suite safari tents and 6 thatched chalets can accommodate a total of 108 guests."
+  },
+  "amenities": [
+   {
+    "text": "En-suite safari tents with hot and cold water",
+    "quote": "The Safari Tents all have built-in bathrooms with a shower and wash basin and hot and cold running water."
+   },
+   {
+    "text": "Swimming pool and pool bar",
+    "quote": "The swimming pool and pool bar is a popular place on those hot summer days."
+   },
+   {
+    "text": "Bar and restaurant",
+    "quote": "At Unyati, we combine hospitality and South African cuisine to offer our guests a memorable culinary experience."
+   },
+   {
+    "text": "Boma evenings",
+    "quote": "Two spacious boma's for those dinners under the African stars."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Oasis of jackalberry and marula trees",
+    "quote": "Unyati Safari Lodge lies amongst an oasis of enormous Jackalberry and Marula trees"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "14H00 to 16H00",
+   "quote": "Check-in / Check-out time\nCheck-in: 14H00 16H00\nCheck-out: 10H00"
+  },
+  "check_out": {
+   "text": "10H00",
+   "quote": "Check-in / Check-out time\nCheck-in: 14H00 16H00\nCheck-out: 10H00"
+  },
+  "access": {
+   "text": "About 30 minutes' drive from Kruger National Park",
+   "quote": "Situated a mere 30 minutes' drive from the world-renowned Kruger National Park"
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families",
+   "safari stays near Kruger"
+  ],
+  "reason": "Large tented safari lodge in a private game reserve near Kruger. Game drives are not stated on the site, so the category rests on the reserve and safari-tent units.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7068758110",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Self-catering suites in a private game reserve in the Waterberg, with game viewing and hunting",
+  "category_quote": "Tangara Private Game Reserve offers outstanding accommodation and wildlife experiences in the malaria-free Waterberg region",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Tangara Game Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "En-suite bathrooms",
+    "quote": "Self-catering stays with en-suite bathrooms and views of the Waterberg."
+   },
+   {
+    "text": "Self-catering private suites",
+    "quote": "Each suite at Tangara is designed for privacy, comfort, and a close connection to the bush."
+   },
+   {
+    "text": "Conference centre",
+    "quote": "Purpose-built event facilities in a serene bush setting, ideal for team and family gatherings."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Game viewing through the reserve",
+    "quote": "Encounter giraffe, impala, tsessebe, and abundant birdlife through the reserve."
+   },
+   {
+    "text": "Near Nylsvley Nature Reserve",
+    "quote": "We are situated approximately 10km from the Nylsvley Nature Reserve, regarded as one of the premier bird watching localities in the country."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 1.5 hours from Pretoria",
+   "quote": "Only 1½ hours from Pretoria in the malaria-free area of Limpopo, near Mookgophong."
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "couples",
+   "families",
+   "small groups",
+   "birding"
+  ],
+  "reason": "Self-catering lodge in a private Waterberg game reserve with game viewing. Game drives are not explicitly stated, and hunting and conferences are a large part of the offer. The sister Badseloop Lodge was not evaluated.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8389406104",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Luxury safari lodge in the Limpopo bushveld near the Waterberg Mountains",
+  "category_quote": "5-star malaria-free safari accommodation in the heart of the Limpopo bushveld",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Fumani Game Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Malaria-free safari setting",
+    "quote": "5-star malaria-free safari accommodation in the heart of the Limpopo bushveld"
+   },
+   {
+    "text": "On the foothills of the Waterberg Mountains",
+    "quote": "on the foothills of the majestic Waterberg Mountains"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 2 hours from Johannesburg",
+   "quote": "Just 2 hours from Johannesburg."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Safari lodge in Limpopo per the site description; game drives appear only in structured data, not in quotable page text, so the niche is supported but thinly evidenced.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/9813944886",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "some_units",
+  "niche_unit_count": 5,
+  "niche_feature": "Luxury safari tents and caravans among indigenous trees on the Magalies River, near Johannesburg",
+  "category_quote": "our 5 Luxury Safari Tents and 2 Luxury Caravans are hidden amongst a canopy of indigenous trees",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Harties is Africa Safari Lodge & Function Venue",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 7,
+   "quote": "our 5 Luxury Safari Tents and 2 Luxury Caravans are hidden amongst a canopy of indigenous trees"
+  },
+  "amenities": [
+   {
+    "text": "Queen bed",
+    "quote": "Queen size extra length bed"
+   },
+   {
+    "text": "Exterior mini kitchen (bar fridge, toaster, kettle)",
+    "quote": "Exterior mini kitchen (bar fridge, toaster, kettle)"
+   },
+   {
+    "text": "Bush spa (on request)",
+    "quote": "Bush Spa (Massages & Pamper Treatments)"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Located on the Magalies River",
+    "quote": "Located on the banks of the Magalies River and shadowed by the Magestic Magaliesberg Mountains"
+   },
+   {
+    "text": "Game on the property",
+    "quote": "Game includes Giraffe, Nyala, Impala (Black), Springbok (White), Blesbuck, Bush buck, Wildebeest"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Close to Johannesburg and Pretoria",
+   "quote": "The property offers an experience close to Johannesburg and Pretoria"
+  },
+  "audience": "unknown",
+  "best_for": [
+   "friend and family groups",
+   "weekend getaways"
+  ],
+  "reason": "Safari tents and caravans with game on site near Johannesburg; the property also has a separate self-catering lodge and event facilities, so only some units are the niche.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1162510219",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Self-catering lodge on a private game reserve on a ridge above the Kariega river",
+  "category_quote": "African Safari Lodge is situated on a private game reserve 17km outside of Grahamstown",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "African Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 3,
+   "quote": "is made up of three bedrooms en-suite on the ground floor"
+  },
+  "amenities": [
+   {
+    "text": "Booking of the whole lodge or single rooms",
+    "quote": "The lodge can be booked in its entirety or per person/per room depending on the need."
+   },
+   {
+    "text": "Private kitchenette and braai in Luxury Suite",
+    "quote": "includes your own private compact kitchenette with private patio and braai facilities"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Perched above the Settlers dam",
+    "quote": "The lodge is perched 20 meters above the high water mark on the Settlers dam"
+   },
+   {
+    "text": "Animal and bird sightings from the viewing porches",
+    "quote": "Animal and bird sightings along the river banks are a guaranteed occurrence from the spacious viewing porches"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "17km from Grahamstown, about 1.5 hours from Port Elizabeth",
+   "quote": "Nestled just 17km outside of Grahamstown, and conveniently located a scenic one and a half-hour drive from Port Elizabeth"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Self-catering lodge on a private game reserve; guided game drives are offered as an extra. Game drives are not a core stated feature, so confidence is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1317580157",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Game lodge in the Western Cape with African-style rooms and wild game on the farm",
+  "category_quote": "Njalo-Njalo game lodge in Touws River is ideally located to offer an unforgettable experience for the whole family.",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Njalo-Njalo Safaris",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "En-suite bathroom and air conditioning in all rooms",
+    "quote": "all rooms fully equiped with en suite bath room and aircon"
+   },
+   {
+    "text": "Boma with braai facilities",
+    "quote": "Boma with braai (barbecue) facilities"
+   },
+   {
+    "text": "Fully equipped kitchen for self-catering",
+    "quote": "Central located fully-equipped kitchen for easy self catering"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Views into the animal area and mountains",
+    "quote": "breathtaking view from all of the rooms into the animals area and mountain view"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 180 km from Cape Town International Airport",
+   "quote": "Njalo-Njalo Safari is situated 180 km from Cape Town International Airport."
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Game lodge on a farm with wild game and African-style rooms; the site calls it a game lodge, though game drives are not clearly described.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1318995011",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 9,
+  "niche_feature": "Nine stone, timber and thatch A-frame chalets in a private game reserve in the Karoo",
+  "category_quote": "The nine A-Frame chalets, built from stone, timber and thatch",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ko-Ka Tsara Bush Camp",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 9,
+   "quote": "The nine A-Frame chalets, built from stone, timber and thatch"
+  },
+  "amenities": [
+   {
+    "text": "Bar and boma",
+    "quote": "a Lounge/Conference Centre, Bar and Boma"
+   },
+   {
+    "text": "Conference facilities",
+    "quote": "Ko-Ka Tsara Bush Camp has excellent conference facilities and is the perfect venue for weddings"
+   },
+   {
+    "text": "Licensed bar",
+    "quote": "we have a fully licensed bar stocked with local beers, cooldrinks, spirits and superb local wines"
+   },
+   {
+    "text": "Air conditioning and heating",
+    "quote": "Each chalet has its own private parking area and is comprehensively furnished including air conditioners for summer and heaters for winter."
+   },
+   {
+    "text": "Private braai patio",
+    "quote": "Each chalet has a private under cover patio with braai area"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Jackal calls in the Karoo night",
+    "quote": "The night sounds of jackal calling create the ambiance of Africa"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Karoo bush setting near Beaufort West",
+   "quote": "Surrounded by rocky craggs and the Nuweveld Mountains, Ko-Ka Tsara is the ideal destination for your Karoo stay"
+  },
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Secluded self-catering bush camp on a private game reserve; game drives are not stated, so the safari fit is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1330199958",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": 128,
+  "niche_feature": "Conventional lodge inside Kruger National Park's Skukuza rest camp with game drives",
+  "category_quote": "During your stay, embark on exhilarating game drives and guided safari tours",
+  "confidence": 0.6,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Skukuza Safari Lodge",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": {
+   "value": 128,
+   "quote": "With 128 remarkable rooms, including family rooms and opulent suites"
+  },
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "Take a dip in the sparkling blue pool on a warm bushveld day."
+   },
+   {
+    "text": "Restaurant",
+    "quote": "Delight your taste buds with exquisite cuisine at our restaurant"
+   },
+   {
+    "text": "Golf course",
+    "quote": "a round of golf on our scenic golf course"
+   },
+   {
+    "text": "Spa",
+    "quote": "a relaxing massage at the AM Spa"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Green building initiatives",
+    "quote": "Green building initiatives have been incorporated to ensure the greenest lodge possible"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Inside Kruger National Park, within Skukuza Rest Camp",
+   "quote": "Located within the renowned Skukuza Rest Camp in Kruger National Park"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Mainstream 128-room lodge inside Kruger that offers game drives; it fits the safari-lodge category by definition but is a conventional hotel-style property, so the editor may judge it as too ordinary.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/312264564",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Self-catering chalets and rondavels in the Dinokeng Game Reserve",
+  "category_quote": "A self catering establishment in the acclaimed game reserve of Dinokeng",
+  "confidence": 0.55,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Mooiplasie Bush Camp",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Fully furnished self-catering chalets",
+    "quote": "At MooiPlasie Bush Camp, we offer a variety of comfortable and fully furnished chalets."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Stargazing, birdwatching and campfires",
+    "quote": "a quiet escape perfect for birdwatching , stargazing , and nights by the campfire"
+   },
+   {
+    "text": "Secure bush camp for solo women, couples and families",
+    "quote": "Secure bush camp ideal for solo women, couples, and families"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "Dinokeng Game Reserve, a short drive north of Pretoria",
+   "quote": "just a short drive north of Pretoria"
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "solo women",
+   "couples",
+   "families"
+  ],
+  "reason": "Self-catering chalets inside a game reserve; the site mentions game drives only in passing, so the fit is moderate.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/316505012",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Chalets, cabins and bush tents in the Dinokeng Big 5 game reserve with guided game drives",
+  "category_quote": "Game Drives are conducted in an open game viewer by a qualified and experienced FGASA guide",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Ngiri Safaris",
+  "property_type": "lodge",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Guided game drives in open game viewer",
+    "quote": "Game Drives are conducted in an open game viewer by a qualified and experienced FGASA guide"
+   },
+   {
+    "text": "Archery and game viewing",
+    "quote": "There are a host of activities including game viewing and archery."
+   },
+   {
+    "text": "Self-catering chalets and cabins",
+    "quote": "Enjoy our exquisite self-catering chalets or cabins"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Game viewer seats 10 passengers",
+    "quote": "Our game viewer can accommodate 10 passengers."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 1 hour drive from OR Tambo airport",
+   "quote": "a mere 1-hour drive from OR Tambo International Airport"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Self-catering units in a game reserve with guided game drives; this fits the safari-lodge category.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/699426151",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Tented bush camp and cottages inside Dinokeng Big Five Game Reserve, with guided game drives",
+  "category_quote": "Set out into the Dinokeng Big Five Game Reserve on an open game vehicle or guided bush walk.",
+  "confidence": 0.7,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Thorn Tree Bush Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Hot tub",
+    "quote": "afternoons might just end with a soak in a Tickel Tub hot tub."
+   },
+   {
+    "text": "Braai area and campfires",
+    "quote": "evenings mean crackling fires and braais under the stars"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Guided game drives and bush walks in Dinokeng Big Five Game Reserve",
+    "quote": "Track the Big Five and more with expert guides by your side."
+   },
+   {
+    "text": "Family safari tent for 2 adults and up to 3 children",
+    "quote": "A spacious and relaxed family safari tent, designed specifically for 2 adults and up to 3 children"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Tented bush camp inside a big-five game reserve offering guided game drives; the camp also has cottages and campsites, but the whole site is a bush camp.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12989748336",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Unfenced bush campsites and a private lodge on a 400ha game farm; no game drives",
+  "category_quote": "Fence free campsites give wildlife freedom to roam",
+  "confidence": 0.5,
+  "red_flags": [],
+  "other_niche_type": "unfenced bush campsites on a private game farm",
+  "official_name": "Matamba Bush Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": {
+   "value": 5,
+   "quote": "Can accommodate up to 12 guests in 5 luxury ensuite chalets."
+  },
+  "amenities": [
+   {
+    "text": "Infinity pool at the lodge",
+    "quote": "Folding doors open onto the expansive deck and infinity pool as well as a comfortable seating area"
+   },
+   {
+    "text": "Fully equipped kitchen in the lodge",
+    "quote": "The lodge has a fully equipped kitchen which includes a large Smeg oven with a gas top"
+   },
+   {
+    "text": "Lapa with braai and wood stove",
+    "quote": "The outside lapa has a built-in wood stove, fire place, grid, chairs and tables for your convenience."
+   },
+   {
+    "text": "Gas geysers for hot showers",
+    "quote": "all of our bathrooms have gas geysers so will have hot water for all of your showers"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Private 400ha game farm with plains game and giraffe",
+    "quote": "The private 400ha game farm is home to a remarkable variety of animals, birds and trees."
+   },
+   {
+    "text": "About 60km of sandy walking trails",
+    "quote": "There are about 60km of sandy tracks, ideal for walking with five marked trails"
+   },
+   {
+    "text": "Birding",
+    "quote": "Birding at Matamba is superb, especially during the summer months"
+   }
+  ],
+  "season": {
+   "text": "Open all year; mild winters and temperate summers",
+   "quote": "with mild winters and temperate summers it can be visited all year round"
+  },
+  "check_in": {
+   "text": "From 12:00",
+   "quote": "A reminder that check-in is from 12:00 and the gates close at 19:00."
+  },
+  "check_out": {
+   "text": "11:00 for the lodge",
+   "quote": "We ask everyone to check out at 11:00 so we have enough time to clean the lodge for guests."
+  },
+  "access": {
+   "text": "Off the R33 between Vaalwater and Lephalale",
+   "quote": "Just off the R33 between Vaalwater and Lephalale, Matamba is an ideal weekend getaway"
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Bush campsites and one lodge on a private game farm, but there are no game drives so safari-lodges does not fit and no listed category applies.",
+  "verdict": "needs_review",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1277598997",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests a castle; castle building not confirmed in the evidence",
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello di Spaltenna",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free Wi-Fi in rooms and common areas",
+    "quote": "La connessione Internet Wi-Fi disponibile in camera e negli spazi comuni gratuitamente"
+   },
+   {
+    "text": "Spa with sauna and steam",
+    "quote": "La Pieve Spa, un rifugio dove rilassarsi e farsi abbracciare dal calore della sauna finlandese"
+   },
+   {
+    "text": "Indoor and outdoor pool, sauna, tennis",
+    "quote": "quali la colazione a buffet, l'uso della sauna, bagno turco, campo da tennis, piscina interna e esterna con teli"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Five-star hotel in Gaiole in Chianti",
+    "quote": "Hotel Gaiole in Chianti 5 Stelle - Castello di Spaltenna"
+   },
+   {
+    "text": "Il Pievano restaurant",
+    "quote": "I voli culinari del Ristorante stellato Il Pievano"
+   },
+   {
+    "text": "Rooms with canopy beds and rustic furniture",
+    "quote": "Letti a baldacchino o in ferro battuto, scrittoi e bauli in legno dell'Ottocento"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "from 15:00",
+   "quote": "Il check-in a partire delle ore 15.00, il check-out entro le 12.00."
+  },
+  "check_out": {
+   "text": "by 12:00",
+   "quote": "Il check-in a partire delle ore 15.00, il check-out entro le 12.00."
+  },
+  "access": {
+   "text": "Gaiole in Chianti, Tuscany",
+   "quote": "Il Castello di Spaltenna, a Gaiole in Chianti in Toscana, uno di questi."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a castle; the pages describe a Chianti hotel with a spa and restaurant but never say the rooms are in a castle building.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/133599320",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "castle-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name and OSM tags suggest a hotel in a castle; not confirmed",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello di Clanezzo",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website URL fetched an unrelated cloud IT company (Huge! srl), so there is no property evidence; the castle idea comes only from the name and OSM tags (tourism=hotel, historic=castle).",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11283917841",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "ice-hotels",
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": "Name suggests igloo accommodation; no page text confirms it",
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "listing_site"
+  ],
+  "other_niche_type": null,
+  "official_name": "Pandomes Aurora Igloo Hotel",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only a booking.com listing with empty page text was fetched, so the igloo niche rests on the name alone.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/10586945363",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 26,
+   "quote": "Bright and comfortable, the 26 rooms of the property reflect the unmistakable Venetian style,"
+  },
+  "amenities": [
+   {
+    "text": "Free Wi-Fi in rooms and in the lounge",
+    "quote": "Free Wi-Fi in rooms and in the lounge"
+   },
+   {
+    "text": "Breakfast buffet",
+    "quote": "Breakfast is served in the breakfast room on the ground floor from 8:00 to 10:00"
+   },
+   {
+    "text": "Laundry and ironing service",
+    "quote": "The property also offers a convenient laundry and ironing service"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Panoramic terrace with rooftop views",
+    "quote": "a magnificent panoramic terrace with views over the rooftops of Venice"
+   },
+   {
+    "text": "Reception open 24 hours",
+    "quote": "The reception is open 24 hours a day"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Generic 3-star city hotel in Venice; the name is not a castle and the only palace mention is a style reference, so no niche category applies.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/11530678292",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "listing_site"
+  ],
+  "other_niche_type": null,
+  "official_name": "Residenza al Castello",
+  "property_type": "apartment",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Lake Project agency site describes chalets, homes and apartments in general; nothing about this residence or a castle is stated.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/12548897570",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di San Giuseppe",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Fetched page is an unrelated Indonesian gambling site, not the hotel's own site, so only the OSM hotel tag supports lodging and no niche can be checked.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/1530062579",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Pietersrivier Nature Reserve",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "4x4 trails, hiking and birding in the reserve",
+    "quote": "whether you come for our 4x4 trails, hiking, birding or simply to enjoy the beauty of the reserve itself"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Fetched site is Pietersrivier Nature Reserve and never mentions Rondekop; it shows no unusual stay, so no category applies.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3049533169",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.1,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "B&B Al Castello",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website returns only the default Plesk server page, so nothing confirms a stay or a castle; the name alone is not evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/3667828406",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name suggests a castle; the website is a default Coming Soon page and OSM says hotel, so no castle or lodging evidence.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4422281299",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Airport Bird and Game Lodge",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": {
+   "value": 27,
+   "quote": "27 comfortably appointed rooms ranging from Standard to Superior and Deluxe rooms, will ensure a memorable stay."
+  },
+  "amenities": [
+   {
+    "text": "Complimentary airport shuttle",
+    "quote": "Seamless transfers to and from OR Tambo International Airport."
+   },
+   {
+    "text": "Swimming pool",
+    "quote": "The Standard room range looks out on rolling lawns and a sparkling pool"
+   },
+   {
+    "text": "Solar power",
+    "quote": "Our solar installation ensures uninterrupted power supply"
+   },
+   {
+    "text": "Conference room for up to 30 delegates",
+    "quote": "seating up to 30 delegates, has all the modern-day amenities to ensure a flawless conference experience."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Birding hotspot",
+    "quote": "Listed as one of the birding hotspots with Cornell University Ornithology Lab, our lodge is home to some of the 143 recorded bird species"
+   },
+   {
+    "text": "Tame antelope on the grounds",
+    "quote": "some of the animals are tame enough for you to have beautiful photo opportunities in their natural surroundings"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "10 minutes from OR Tambo International Airport, with a free shuttle",
+   "quote": "Make use of the complimentary airport shuttle, we are situated a mere 10 minutes from OR Tambo International Airport."
+  },
+  "audience": "unknown",
+  "best_for": [
+   "airport stopover",
+   "birders",
+   "conferences"
+  ],
+  "reason": "Suburban hotel near OR Tambo airport with a bush-garden theme; no reserve or game drives are stated, so the safari-lodge category does not fit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/4522312056",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [
+   "chain_generic",
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Gooderson Bushlands Game Lodge",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [
+   {
+    "text": "Bush experience near Hluhluwe",
+    "quote": "Gooderson Bushlands Game Lodge offers an unforgettable African bush experience."
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Chain hotel page; the name says game lodge and the text says bush experience, but no game drives, reserve or unusual unit is stated.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/5612528881",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "B&B Castello di Coazzolo",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the name and the OSM guest_house tag are available; the website home page returned empty text, so nothing confirms a castle or a niche room.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/6174352097",
+  "is_lodging": false,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.7,
+  "red_flags": [
+   "tour_operator"
+  ],
+  "other_niche_type": null,
+  "official_name": "Bundox Safari Co",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The site is a safari company selling packages and multi-camp stays across South Africa and Botswana; no single lodge named Bundox Safari Lodge is described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/7122066514",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.15,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Nuovo Castello Crisilio",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The website returns only an automatic redirect stub. The name and the OSM guest_house tag are the only evidence, so no castle or niche feature is confirmed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:node/8386238247",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.45,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Thaba Monaté Game Lodge",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Kiosk at the pool area",
+    "quote": "Kiosk near swimming pools available for take-aways and drinks."
+   },
+   {
+    "text": "Mountain bike trails",
+    "quote": "Explore a variety of thrilling mountain bike trails"
+   },
+   {
+    "text": "Boma and braai areas",
+    "quote": "Braais and tables for larger groups"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Confirmed wildlife sightings in a 400 ha reserve",
+    "quote": "Confirmed animal sightings: Kudu, Impala, Blesbuck, Blue Wildebees, Red Hartebees, Waterbuck, Eland"
+   }
+  ],
+  "season": null,
+  "check_in": {
+   "text": "14:00 to 18:00 (strict)",
+   "quote": "CHECK-IN: FROM 14H00 to 18h00 STRICTLY"
+  },
+  "check_out": {
+   "text": "10:00",
+   "quote": "CHECK-OUT: 10H00 (Later checkouts will be billed for a full day)"
+  },
+  "access": {
+   "text": "Dirt and stone roads, high-clearance or 4x4 vehicles only",
+   "quote": "Our roads are dirt & stone and very rocky, accessible with high or 4x4 vehicles only"
+  },
+  "audience": "family_friendly",
+  "best_for": [
+   "families",
+   "self-catering stays"
+  ],
+  "reason": "Family bushveld resort with self-catering chalets and camping in a 400 ha reserve. No game drives or unusual sleeping unit is stated; the 4x4 routes are not described as game drives, so category is null.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1191358980",
+  "is_lodging": true,
+  "operating_status": "seasonal",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Camping Castello dei Fieschi",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Pool and whirlpool",
+    "quote": "Il campeggio offre ai suoi clienti, una favolosa piscina e vasca idromassaggio"
+   }
+  ],
+  "highlights": [],
+  "season": {
+   "text": "Open 1 May to 30 September",
+   "quote": "dal 1 Maggio  al 30 Settembre"
+  },
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "family_friendly",
+  "best_for": [],
+  "reason": "Ordinary campsite; the castle appears only in its name. Pitches are for tents and small campers, with no castle or other niche stay described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/1369877711",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.5,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello di Santa Cristina",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Pool and garden shared by two cottages",
+    "quote": "che condividono una piscina privata e un ampio giardino"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Estate of 100 hectares",
+    "quote": "immerso in cento ettari di natura incontaminata"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Castle name only: the rooms and apartments are in the converted farm village, not inside the castle, and the cottages are separate villas, so there is no castle niche.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/150402651",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant",
+    "quote": "Nel nostro ristorante potrete assaporare piatti genuini e di tradizione Emiliano-Romagnola"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Suite 200 linked to Ayrton Senna memorabilia",
+    "quote": "All’Hotel Castello castello troverai un angolo dedicato ad Ayrton Senna dove potrai ammirare alcuni cimeli"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Ordinary hotel with a Senna-themed suite; the name is not a castle and no castle rooms are described, so no castle-hotel fit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/193873377",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "Venetian villa surrounded by turreted walls imitating a medieval fortress",
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Castello di Roncade",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Only the OSM guest_house tag and a Wikipedia extract exist; the fortress-style walls are a look, not evidence of castle rooms, and the website fetch failed.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/236285019",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "B&B Castello Michelina",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website is a placeholder with only the name; no evidence of castle rooms or any niche feature.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/254099871",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.4,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Hotel Castello Torino",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Free Wi-Fi",
+    "quote": "Wi-fi gratuito in tutti gli ambienti"
+   },
+   {
+    "text": "Buffet breakfast, private parking and garden",
+    "quote": "connessione Wi-Fi gratuita, ricca e gustosa colazione a buffet, parcheggio privato e giardino"
+   },
+   {
+    "text": "Garden with relax area",
+    "quote": "Ampio giardino con zona relax"
+   }
+  ],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Standard 3-star city hotel near the Turin stadium; the castle name carries no castle rooms or niche feature.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/317106183",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "La Cascina del Castello",
+  "property_type": "guesthouse",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Restaurant with km 0 ingredients",
+    "quote": "La nostra cucina è basata sull’utilizzo di ingredienti di stagione a km 0"
+   },
+   {
+    "text": "Private outdoor space in one room type",
+    "quote": "Dispone di un'ingresso indipendente ed uno spazio esterno privato"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Rooms furnished with pieces from different eras",
+    "quote": "La singolarità di ciascuna camera deriva dalla presenza di arredi risalenti ad epoche diverse"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "families",
+   "countryside stays"
+  ],
+  "reason": "Ordinary agriturismo with a restaurant; rooms are in a farm hayloft and there is no castle room or unusual lodging type.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/359291526",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [
+   "theme_only"
+  ],
+  "other_niche_type": null,
+  "official_name": "Doringkloof 4x4 & Bush Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Self-catering chalets with kitchenette",
+    "quote": "Each chalet also comes with a kitchenette equipped with all the necessities for a self-catering stay."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Four 4x4 routes",
+    "quote": "We also have 4 4 routes with varying difficulty levels and all with awesome views"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "couples on a budget",
+   "4x4 enthusiasts"
+  ],
+  "reason": "Campsite with simple chalets and 4x4 routes; no game drives or reserve lodge, so the bush-camp name is not a safari-lodge fit.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/36174576",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [
+   "castle-hotels"
+  ],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": "B&B in a restored 1700s former stable of the castle of Susans",
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "All'Antica Scuderia del Castello",
+  "property_type": "B&B",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Private bathroom, air conditioning and free Wi-Fi",
+    "quote": "All rooms are spacious and equipped with private bathroom, air conditioning and free Wi-Fi."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Former castle stable, restored",
+    "quote": "once the stable of the castle of Susans, the agriturismo has been carefully restored"
+   },
+   {
+    "text": "Olive grove learning farm",
+    "quote": "Through hands-on experiences, it encourages everyone to live a healthy"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [
+   "quiet nature stays",
+   "olive oil workshops"
+  ],
+  "reason": "B&B in outbuildings (former stables) of a castle estate, not inside the castle; castle-hotels is kept as also_fits for review.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/36676286",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Albergo Trattoria Al Castello",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Website shows only a maintenance notice; the castle name is the sole signal and no castle rooms are described.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/460382313",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [
+   "castle-hotels"
+  ],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Agriturismo Castello di Spedaletto",
+  "property_type": "hotel",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "No website or page text; the only castle evidence is a Wikipedia extract about a fortified complex, not about staying inside it.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/700011846",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.35,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello della Mugazzena",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Swimming pool",
+    "quote": "Potrete concedervi un bagno rilassante nella splendida piscina immersa nel verde"
+   }
+  ],
+  "highlights": [
+   {
+    "text": "Restored medieval hamlet with apartments and rooms",
+    "quote": "Un borgo medioevale completamente restaurato"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Agriturismo with apartments and rooms in a restored medieval hamlet and farm buildings; the castle name is not backed by evidence of rooms inside a castle.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/714735491",
+  "is_lodging": false,
+  "operating_status": "unknown",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "unclear",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.2,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Castello di Fulignano",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [],
+  "highlights": [],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": null,
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "The only evidence is a placeholder page marked under construction with spam link text, so there is no evidence of a lodging or castle stay.",
+  "verdict": "rejected",
+  "dropped": []
+ },
+ {
+  "id": "osm:way/722709539",
+  "is_lodging": true,
+  "operating_status": "open",
+  "category": null,
+  "also_fits": [],
+  "niche_scope": "name_only",
+  "niche_unit_count": null,
+  "niche_feature": null,
+  "category_quote": null,
+  "confidence": 0.3,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Agriturismo Castello di Grotti",
+  "property_type": "other",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+   {
+    "text": "Central heating and fireplace in villa living room",
+    "quote": "La villa oltre al camino nel soggiorno ha il riscaldamento centralizzato."
+   },
+   {
+    "text": "Laundry room on request",
+    "quote": "A richiesta è disponibile un locale lavanderia."
+   }
+  ],
+  "highlights": [
+   {
+    "text": "18th-century villa with 5 bedrooms for 10 guests, in the castle park",
+    "quote": "Villa Ballati è una bellissima villa di due piani del XVIII secolo che può accogliere 10 ospiti in 5 camere."
+   },
+   {
+    "text": "Views over the Tuscan countryside from Siena to Chianti",
+    "quote": "da cui si possono ammirare splendide vedute della campagna toscana che vanno da Siena al Chianti"
+   }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+   "text": "About 12 km from Siena and 80 km from Florence",
+   "quote": "Siena è a 12 km., Firenze a 80 Km., Grosseto a 63 Km."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Agriturismo villas and apartments in the park of a castle; the stays are in villas and farm buildings near the castle, not inside a castle, so no castle niche is supported.",
+  "verdict": "rejected",
+  "dropped": []
+ }
+]
