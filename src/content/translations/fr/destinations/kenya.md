@@ -46,24 +46,24 @@ Ce qui rend réellement durables les meilleurs opérateurs de safari kényans, c
 
 ## Comment s'y rendre
 
-**Vols :** l'aéroport international Jomo Kenyatta de Nairobi (NBO) est la principale plateforme d'Afrique de l'Est, avec des liaisons directes depuis Londres, Amsterdam, Paris, Dubaï, Doha, Bombay et les grandes villes africaines. L'aéroport Wilson (WIL) — un petit aéroport intérieur à 6 km de la ville — assure les liaisons en petit avion vers les camps de safari. De nombreux lodges reculés (Chyulu Hills, plateau de Laikipia) ne sont accessibles qu'en vol charter. Recherchez les vols internationaux sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kenya/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/kenya).
+**Vols :** l'aéroport international Jomo Kenyatta de Nairobi (NBO) est la principale plateforme d'Afrique de l'Est, avec des liaisons directes depuis Londres, Amsterdam, Paris, Dubaï, Doha, Bombay et les grandes villes africaines. L'aéroport Wilson (WIL) — un petit aéroport intérieur à 6 km de la ville — assure les liaisons en petit avion vers les camps de safari. De nombreux lodges reculés (Chyulu Hills, plateau de Laikipia) ne sont accessibles qu'en vol charter. Réservez tôt vos vols internationaux pour obtenir les meilleurs tarifs.
 
-**Transfert depuis l'aéroport :** le terminal international de Nairobi est à 20 minutes de la ville quand la circulation est fluide. Réservez un transfert privé auprès de [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) ou de [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) — évitez les rabatteurs de taxis dans le hall des arrivées.
+**Transfert depuis l'aéroport :** le terminal international de Nairobi est à 20 minutes de la ville quand la circulation est fluide. Réservez un transfert privé auprès de [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) — évitez les rabatteurs de taxis dans le hall des arrivées.
 
 ## Se déplacer
 
 **Petit avion :** le moyen classique de rejoindre les camps de safari reculés. Safarilink, Air Kenya et Fly540 relient l'aéroport Wilson au Masai Mara, à Amboseli, à Samburu et au Laikipia. Les pistes d'atterrissage de brousse installées près des lodges garantissent un transfert de porte à porte. La plupart des lodges organisent directement les correspondances en charter.
 
-**Voiture sans chauffeur :** possible à Nairobi et sur les grands axes, mais déconseillée dans les zones de safari sans connaissance du terrain. La plupart des visiteurs s'en remettent aux safaris et transferts organisés par les lodges. Pour explorer la ville, comparez les tarifs sur [QEEQ](https://www.qeeq.com/search?q=Nairobi%2C+Kenya) ou [Localrent](https://localrent.com/en/?location=Nairobi).
+**Voiture sans chauffeur :** possible à Nairobi et sur les grands axes, mais déconseillée dans les zones de safari sans connaissance du terrain. La plupart des visiteurs s'en remettent aux safaris et transferts organisés par les lodges. Pour explorer la ville, comparez les tarifs sur [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20car%20rental).
 
 ## Excursions et expériences
 
-Réservez vos safaris dans le Masai Mara, vos demi-journées au parc national de Nairobi, vos visites du Giraffe Centre et vos sorties sur les traces de la grande migration sur [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari) et [Viator](https://www.viator.com/Kenya/d729-ttd). Les safaris en montgolfière au-dessus du Mara — l'une des plus belles expériences d'Afrique — se réservent directement auprès des opérateurs. Les rencontres culturelles avec les Massaïs et les visites de communautés se réservent sur [WeGoTrip](https://wegotrip.com/destinations/kenya/).
+Réservez vos safaris dans le Masai Mara, vos demi-journées au parc national de Nairobi, vos visites du Giraffe Centre et vos sorties sur les traces de la grande migration sur [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). Les safaris en montgolfière au-dessus du Mara — l'une des plus belles expériences d'Afrique — se réservent directement auprès des opérateurs. Les rencontres culturelles avec les Massaïs et les visites de communautés se réservent sur [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20Maasai%20cultural%20experience).
 
 ## L'essentiel pour voyager
 
-**eSIM :** procurez-vous une eSIM Kenya chez [Airalo](https://www.airalo.com). Safaricom offre la meilleure couverture en zone rurale, y compris dans la plupart des parcs nationaux ; le signal est absent dans les lodges reculés (qui utilisent le satellite ou la radio).
+**eSIM :** procurez-vous une eSIM Kenya chez [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM). Safaricom offre la meilleure couverture en zone rurale, y compris dans la plupart des parcs nationaux ; le signal est absent dans les lodges reculés (qui utilisent le satellite ou la radio).
 
-**Assurance voyage :** une assurance rapatriement est indispensable pour séjourner dans des camps isolés — une évacuation en avion depuis le Laikipia ou les Chyulu Hills vers Nairobi coûte de 3 000 à 6 000 $. [SafetyWing](https://safetywing.com) inclut l'évacuation d'urgence dans sa formule standard.
+**Assurance voyage :** une assurance rapatriement est indispensable pour séjourner dans des camps isolés — une évacuation en avion depuis le Laikipia ou les Chyulu Hills vers Nairobi coûte de 3 000 à 6 000 $.
 
-**VPN :** [NordVPN](https://nordvpn.com) ou [ExpressVPN](https://expressvpn.com) pour les temps morts au lodge. Certaines connexions satellite de lodges sont restreintes ; un VPN rétablit un accès complet à Internet.
+**VPN :** Certaines connexions satellite de lodges sont restreintes ; un VPN rétablit un accès complet à Internet.

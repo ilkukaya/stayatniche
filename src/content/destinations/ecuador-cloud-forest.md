@@ -43,24 +43,22 @@ The cloud forest on the western Andean slopes — the Chocó Andino biome — is
 
 ## Getting There
 
-**Flights:** Quito's Mariscal Sucre International Airport (UIO) receives direct flights from Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima, and other South American capitals. Guayaquil (GYE) on the Pacific coast is the secondary gateway. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/ecuador).
+**Flights:** Quito's Mariscal Sucre International Airport (UIO) receives direct flights from Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima, and other South American capitals. Guayaquil (GYE) on the Pacific coast is the secondary gateway.
 
-**Airport Transfer:** Quito is 45 minutes from the airport by road. Book a private transfer through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Quito) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Quito) — significantly more reliable than taxi ranks at arrival.
+**Airport Transfer:** Quito is 45 minutes from the airport by road. Book a private transfer through [Klook](https://www.klook.com/en-US/search-results/?query=Quito%20airport%20transfer) — significantly more reliable than taxi ranks at arrival.
 
 ## Getting Around
 
-**Car Rental:** The Panamericana highway system is well maintained and self-driving is practical. Compare rates on [Localrent](https://localrent.com/en/?location=Ecuador), [QEEQ](https://www.qeeq.com/search?q=Quito,+Ecuador), or [EconomyBookings](https://www.economybookings.com/?location=Quito). A 4WD is needed for highland and cloud forest roads.
+**Car Rental:** The Panamericana highway system is well maintained and self-driving is practical. Compare rates on [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). A 4WD is needed for highland and cloud forest roads.
 
 **Buses:** Ecuador's inter-city bus network is excellent and inexpensive. Quito's main terminal (Quitumbe) connects to all major destinations. Private transfers to cloud forest lodges (like Mashpi) are typically managed by the lodge itself.
 
 ## Tours & Experiences
 
-Book Galápagos island-hopping excursions, Quilotoa crater hikes, and Quito city tours on [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador) and [Viator](https://www.viator.com/Ecuador/d728-ttd). Cloud forest birding tours and chocolate farm visits near Mindo are bookable through [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
+Book Galápagos island-hopping excursions, Quilotoa crater hikes, and Quito city tours on [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). Cloud forest birding tours and chocolate farm visits near Mindo are bookable there too.
 
 ## Travel Essentials
 
-**eSIM:** Get an Ecuador eSIM from [Airalo](https://www.airalo.com) before departure. Claro has the best rural coverage including in the western Andean cloud forest. Signal is absent in the Galápagos interior but available in Puerto Ayora.
+**eSIM:** Get an Ecuador eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM) before departure. Claro has the best rural coverage including in the western Andean cloud forest. Signal is absent in the Galápagos interior but available in Puerto Ayora.
 
-**Travel Insurance:** [SafetyWing](https://safetywing.com) covers Ecuador's adventure activities (hiking, diving, wildlife excursions) at no additional premium. Medical evacuation cover is important for remote cloud forest and Amazon travel.
-
-**VPN:** [NordVPN](https://nordvpn.com) is useful for accessing home streaming content and for secure browsing on hotel networks.
+**Travel Insurance:** Make sure your policy covers Ecuador's adventure activities (hiking, diving, wildlife excursions). Medical evacuation cover is important for remote cloud forest and Amazon travel.

@@ -25,7 +25,7 @@ El aeropuerto internacional Jomo Kenyatta de Nairobi es la puerta de entrada mej
 - **Desde Dubái/Doha:** Emirates y Qatar Airways a diario
 - **Desde otros países de África:** Ethiopian Airlines vía Adís Abeba (el mayor nodo intraafricano); RwandAir vía Kigali; South African Airways vía Johannesburgo
 
-Busca y compara todas las rutas a Nairobi en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime) y [Aviasales](https://www.aviasales.com/search/to/nairobi). Ethiopian Airlines ofrece sistemáticamente los mejores precios para quienes vuelan a África desde Asia y América; Kenya Airways es la opción preferida por calidad desde Europa.
+Ethiopian Airlines ofrece sistemáticamente los mejores precios para quienes vuelan a África desde Asia y América; Kenya Airways es la opción preferida por calidad desde Europa.
 
 ### Kigali (KGL): Ruanda y África Central
 
@@ -72,7 +72,7 @@ La mayoría de los itinerarios de safari internacionales incluyen una noche en N
 - **Zona del Giraffe Centre (Langata):** los barrios residenciales de Karen y Langata están cerca del Giraffe Centre, del David Sheldrick Wildlife Trust (orfanato de elefantes: reserva tu plaza de la mañana en línea antes de llegar) y del Museo Karen Blixen. Las casas de huéspedes con encanto y los lodges con jardín de estos barrios son más tranquilos y tienen más ambiente que el centro.
 - **Junto al Parque Nacional de Nairobi:** el límite del parque recorre el borde sur de la ciudad; algunos alojamientos dentro del propio parque ofrecen la experiencia surrealista de ver a los leones cazar con el perfil de Nairobi en el horizonte.
 
-**Traslado desde el aeropuerto de Nairobi:** el aeropuerto está a 20 km de la ciudad: 30 minutos fuera de la hora punta y más de una hora con el tráfico de Nairobi a las 17:00. Reserva un traslado privado con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi): el precio cerrado y la recepción profesional valen mucho más que la experiencia de la parada de taxis del aeropuerto.
+**Traslado desde el aeropuerto de Nairobi:** el aeropuerto está a 20 km de la ciudad: 30 minutos fuera de la hora punta y más de una hora con el tráfico de Nairobi a las 17:00. Reserva un traslado privado en [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer): el precio cerrado y la recepción profesional valen mucho más que la experiencia de la parada de taxis del aeropuerto.
 
 ---
 
@@ -88,7 +88,7 @@ El circuito de gorilas de Ruanda es sencillo desde el punto de vista logístico 
 
 La mayoría de los lodges de los Volcanes gestionan toda la secuencia, incluida la recogida en el aeropuerto de Kigali y la logística de los permisos. [Bisate Lodge](/hotels/bisate-lodge-rwanda) es la opción con el diseño más vanguardista; todos los alojamientos de esta categoría son todo incluido y se ocupan por completo de la logística de las excursiones con gorilas.
 
-**eSIM para Ruanda:** la eSIM de [Airalo](https://www.airalo.com) para Ruanda; MTN Rwanda tiene cobertura en Kigali y a lo largo de la carretera principal hacia el parque. En el interior del parque y en la mayoría de los lodges se usa el wifi por satélite del propio alojamiento.
+**eSIM para Ruanda:** la eSIM de [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM) para Ruanda; MTN Rwanda tiene cobertura en Kigali y a lo largo de la carretera principal hacia el parque. En el interior del parque y en la mayoría de los lodges se usa el wifi por satélite del propio alojamiento.
 
 ---
 
@@ -104,7 +104,7 @@ El ecosistema del Masái Mara —que abarca la reserva nacional y las reservas p
 
 [Rekero Camp](/hotels/rekero-camp-masai-mara) y [Campi ya Kanzi](/hotels/campi-ya-kanzi-kenya) ofrecen dos experiencias muy distintas en los ecosistemas del Mara y Amboseli: Rekero está junto al río Mara, justo en los puntos de cruce de la gran migración; Campi ya Kanzi se encuentra en la reserva masái de las colinas de Chyulu, con vistas al Kilimanjaro y más posibilidades de safari a pie.
 
-**Traslado de Nairobi al aeropuerto Wilson:** de 15 a 30 minutos según el tráfico. [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) ofrece traslados a precio cerrado por Nairobi, incluido el aeropuerto Wilson.
+**Traslado de Nairobi al aeropuerto Wilson:** de 15 a 30 minutos según el tráfico. [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) ofrece traslados a precio cerrado por Nairobi, incluido el aeropuerto Wilson.
 
 ---
 
@@ -144,11 +144,11 @@ Las restricciones de equipaje de las avionetas (bolsa blanda de 15 kg, nada de m
 
 La cobertura móvil en África Oriental varía mucho:
 
-- **Kenia:** Safaricom tiene la mejor cobertura, incluidos la mayoría de los límites de los parques nacionales y las carreteras principales. Una eSIM de [Airalo](https://www.airalo.com) para Kenia con Safaricom es la elección acertada. Los lodges de zonas muy remotas (colinas de Chyulu, lago Turkana) usan conexión por satélite.
+- **Kenia:** Safaricom tiene la mejor cobertura, incluidos la mayoría de los límites de los parques nacionales y las carreteras principales. Una eSIM de [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM) para Kenia con Safaricom es la elección acertada. Los lodges de zonas muy remotas (colinas de Chyulu, lago Turkana) usan conexión por satélite.
 - **Tanzania:** Vodacom Tanzania y Airtel Tanzania cubren las carreteras principales y Arusha. En el interior del Serengueti, solo internet por satélite del lodge.
 - **Ruanda:** MTN Rwanda cubre de forma excelente Kigali y la carretera principal al Parque Nacional de los Volcanes. En el interior del parque, el wifi del lodge.
 
-Una eSIM regional de África Oriental de [Airalo](https://www.airalo.com) cubre Kenia, Tanzania y Ruanda con un solo plan, algo muy práctico para circuitos por varios países.
+Una eSIM regional de África Oriental de [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM) cubre Kenia, Tanzania y Ruanda con un solo plan, algo muy práctico para circuitos por varios países.
 
 ---
 
@@ -163,7 +163,7 @@ El centro médico avanzado más cercano a la mayoría de los campamentos de safa
 - Gastos médicos: mínimo 50 000 US$ para Tanzania/Kenia
 - Cancelación del viaje: relevante si has reservado noches no reembolsables en lodges en temporada alta
 
-[SafetyWing](https://safetywing.com) cubre todo lo anterior en su plan estándar Nomad Insurance, incluye actividades de aventura (salidas en vehículos abiertos, excursiones para ver gorilas) sin prima adicional y cuesta una fracción de lo que costaría una sola evacuación médica. La suscripción anual a AMREF Flying Doctors (con base en Kenia y Tanzania) es una capa adicional útil para viajes largos por África Oriental.
+Elige una póliza que cubra todo lo anterior, incluya actividades de aventura (salidas en vehículos abiertos, excursiones para ver gorilas) sin prima adicional y cueste una fracción de lo que costaría una sola evacuación médica. La suscripción anual a AMREF Flying Doctors (con base en Kenia y Tanzania) es una capa adicional útil para viajes largos por África Oriental.
 
 ---
 
@@ -172,10 +172,10 @@ El centro médico avanzado más cercano a la mayoría de los campamentos de safa
 Para un safari en África Oriental con alojamiento en lodges del nivel descrito en esta guía, el orden de las reservas importa:
 
 1. **Primero, el alojamiento:** los mejores campamentos de Bisate, Rekero y Campi ya Kanzi se llenan con 6 a 9 meses de antelación en plena temporada de la migración (julio–octubre). Reserva en cuanto tengas las fechas confirmadas.
-2. **Vuelos internacionales:** busca en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime) con 3 o 4 meses de antelación; las tarifas son relativamente estables en comparación con las rutas europeas.
+2. **Vuelos internacionales:** busca vuelos con 3 o 4 meses de antelación; las tarifas son relativamente estables en comparación con las rutas europeas.
 3. **Vuelos en avioneta:** una vez confirmadas las fechas del lodge, este te indicará la pista y el operador idóneos. Reserva directamente con Safarilink o Coastal Aviation.
 4. **Hotel en Nairobi:** 1 o 2 noches antes del safari. Karen y Langata son mejores que las zonas hoteleras del aeropuerto.
-5. **eSIM:** el plan regional de África Oriental de [Airalo](https://www.airalo.com), antes de salir.
-6. **Seguro de viaje:** [SafetyWing](https://safetywing.com) como base; comprueba los límites de evacuación.
+5. **eSIM:** el plan regional de África Oriental de [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM), antes de salir.
+6. **Seguro de viaje:** una cobertura completa como base; comprueba los límites de evacuación.
 
 Sobre el papel, la logística parece complicada; en manos de buenos operadores, se convierte en el propio viaje, parte de ese cambio de perspectiva que, al final, es lo que África Oriental te regala.

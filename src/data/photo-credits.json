@@ -1421,16 +1421,6 @@
     "kind": "area",
     "place": "Kachemak Bay"
   },
-  "area:sassi-hotel-matera-italy": {
-    "author": "Giorgio Galeotti",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Matera_-_Italy_-_August_17,_2010_03.jpg",
-    "title": "Matera - Italy - August 17, 2010 03.jpg",
-    "distanceKm": 0.1,
-    "kind": "area",
-    "place": "Matera"
-  },
   "area:seki-cave-hotel-turkey": {
     "author": "Bernard Gagnon",
     "license": "CC BY-SA 3.0",

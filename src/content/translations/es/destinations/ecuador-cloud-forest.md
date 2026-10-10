@@ -36,24 +36,22 @@ El bosque nuboso de la vertiente occidental de los Andes —el bioma del Chocó 
 
 ## Cómo llegar
 
-**Vuelos:** el Aeropuerto Internacional Mariscal Sucre de Quito (UIO) recibe vuelos directos desde Miami, Nueva York, Atlanta, Madrid, Ámsterdam, Bogotá, Lima y otras capitales sudamericanas. Guayaquil (GYE), en la costa del Pacífico, es la segunda puerta de entrada. Busca y compara vuelos en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime) y [Aviasales](https://www.aviasales.com/search/to/ecuador).
+**Vuelos:** el Aeropuerto Internacional Mariscal Sucre de Quito (UIO) recibe vuelos directos desde Miami, Nueva York, Atlanta, Madrid, Ámsterdam, Bogotá, Lima y otras capitales sudamericanas. Guayaquil (GYE), en la costa del Pacífico, es la segunda puerta de entrada.
 
-**Traslado desde el aeropuerto:** Quito está a 45 minutos del aeropuerto por carretera. Reserva un traslado privado con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Quito) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Quito): es mucho más fiable que las paradas de taxi a la llegada.
+**Traslado desde el aeropuerto:** Quito está a 45 minutos del aeropuerto por carretera. Reserva un traslado privado con [Klook](https://www.klook.com/en-US/search-results/?query=Quito%20airport%20transfer): es mucho más fiable que las paradas de taxi a la llegada.
 
 ## Cómo moverse
 
-**Alquiler de coche:** la red de la Panamericana está bien mantenida y conducir por tu cuenta es práctico. Compara precios en [Localrent](https://localrent.com/en/?location=Ecuador), [QEEQ](https://www.qeeq.com/search?q=Quito,+Ecuador) o [EconomyBookings](https://www.economybookings.com/?location=Quito). Para las carreteras de la sierra y del bosque nuboso necesitas un 4x4.
+**Alquiler de coche:** la red de la Panamericana está bien mantenida y conducir por tu cuenta es práctico. Compara precios en [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Para las carreteras de la sierra y del bosque nuboso necesitas un 4x4.
 
 **Autobuses:** la red de autobuses interurbanos de Ecuador es excelente y barata. La terminal principal de Quito (Quitumbe) conecta con todos los destinos importantes. Los traslados privados a los lodges del bosque nuboso (como Mashpi) suele gestionarlos el propio lodge.
 
 ## Excursiones y experiencias
 
-Reserva excursiones entre islas en Galápagos, caminatas al cráter del Quilotoa y visitas por Quito en [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador) y [Viator](https://www.viator.com/Ecuador/d728-ttd). Las salidas de observación de aves en el bosque nuboso y las visitas a fincas de cacao cerca de Mindo se pueden reservar en [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
+Reserva excursiones entre islas en Galápagos, caminatas al cráter del Quilotoa y visitas por Quito en [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). Las salidas de observación de aves en el bosque nuboso y las visitas a fincas de cacao cerca de Mindo se pueden reservar allí también.
 
 ## Imprescindibles del viaje
 
-**eSIM:** consigue una eSIM para Ecuador en [Airalo](https://www.airalo.com) antes de salir. Claro tiene la mejor cobertura rural, también en el bosque nuboso de la vertiente occidental andina. En el interior de las Galápagos no hay señal, pero sí en Puerto Ayora.
+**eSIM:** consigue una eSIM para Ecuador en [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM) antes de salir. Claro tiene la mejor cobertura rural, también en el bosque nuboso de la vertiente occidental andina. En el interior de las Galápagos no hay señal, pero sí en Puerto Ayora.
 
-**Seguro de viaje:** [SafetyWing](https://safetywing.com) cubre las actividades de aventura en Ecuador (senderismo, buceo, excursiones de fauna) sin prima adicional. La cobertura de evacuación médica es importante para viajar a zonas remotas del bosque nuboso y la Amazonía.
-
-**VPN:** [NordVPN](https://nordvpn.com) te sirve para acceder a tus contenidos de streaming habituales y navegar de forma segura en las redes de los hoteles.
+**Seguro de viaje:** Comprueba que tu póliza cubra las actividades de aventura en Ecuador (senderismo, buceo, excursiones de fauna). La cobertura de evacuación médica es importante para viajar a zonas remotas del bosque nuboso y la Amazonía.

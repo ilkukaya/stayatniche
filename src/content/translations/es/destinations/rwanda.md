@@ -47,24 +47,22 @@ El aeropuerto internacional de Kigali recibe ya vuelos directos desde Bruselas, 
 
 ## Cómo llegar
 
-**Vuelos:** el aeropuerto internacional de Kigali (KGL) recibe vuelos directos desde Bruselas (RwandAir y Brussels Airlines), Londres-Gatwick, Nairobi, Adís Abeba, Dubái y Johannesburgo. Qatar Airways y Kenya Airways ofrecen conexiones desde Asia, América y el resto de África a través de sus hubs. Busca y compara vuelos en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Rwanda/anytime/anytime) y [Aviasales](https://www.aviasales.com/search/to/rwanda).
+**Vuelos:** el aeropuerto internacional de Kigali (KGL) recibe vuelos directos desde Bruselas (RwandAir y Brussels Airlines), Londres-Gatwick, Nairobi, Adís Abeba, Dubái y Johannesburgo. Qatar Airways y Kenya Airways ofrecen conexiones desde Asia, América y el resto de África a través de sus hubs. Compara tarifas y reserva los vuelos con antelación.
 
-**Traslado desde el aeropuerto:** el aeropuerto de Kigali está a 12 km del centro. Reserva traslados privados con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kigali) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kigali). La mayoría de los lodges cercanos al Parque Nacional de los Volcanes organizan la recogida directa en el aeropuerto para acortar el trayecto por tierra.
+**Traslado desde el aeropuerto:** el aeropuerto de Kigali está a 12 km del centro. Reserva traslados privados con [Klook](https://www.klook.com/en-US/search-results/?query=Kigali%20airport%20transfer). La mayoría de los lodges cercanos al Parque Nacional de los Volcanes organizan la recogida directa en el aeropuerto para acortar el trayecto por tierra.
 
 ## Cómo moverse
 
-**Vehículo con conductor:** la opción habitual para viajar por Ruanda. Las carreteras son excelentes para lo que es habitual en la región: de Kigali al Parque Nacional de los Volcanes hay 2,5 horas; al bosque de Nyungwe, 4 horas; a Akagera, 2,5 horas. Compara tarifas de alquiler sin conductor en [QEEQ](https://www.qeeq.com/search?q=Rwanda), aunque se recomienda ir con conductor en las zonas de los parques, donde el conocimiento local marca la diferencia.
+**Vehículo con conductor:** la opción habitual para viajar por Ruanda. Las carreteras son excelentes para lo que es habitual en la región: de Kigali al Parque Nacional de los Volcanes hay 2,5 horas; al bosque de Nyungwe, 4 horas; a Akagera, 2,5 horas. Compara tarifas de alquiler sin conductor en [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20car%20rental), aunque se recomienda ir con conductor en las zonas de los parques, donde el conocimiento local marca la diferencia.
 
 **Mototaxis (motos):** el transporte urbano omnipresente en Kigali: seguro, rápido y barato. El casco homologado es obligatorio y te lo proporcionan.
 
 ## Excursiones y experiencias
 
-Reserva los permisos para ver gorilas (gestionados por el Rwanda Development Board, 1.500 US$ por persona), el trekking de monos dorados, la habituación de chimpancés en Nyungwe y las visitas al memorial del genocidio de Kigali a través de [Viator](https://www.viator.com/Rwanda/d5453-ttd). Los vuelos en globo sobre las mil colinas de Ruanda son un complemento extraordinario. Las experiencias culturales y las visitas a mercados comunitarios se reservan en [WeGoTrip](https://wegotrip.com/destinations/rwanda/).
+Reserva los permisos para ver gorilas (gestionados por el Rwanda Development Board, 1.500 US$ por persona), el trekking de monos dorados, la habituación de chimpancés en Nyungwe y las visitas al memorial del genocidio de Kigali a través de [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Los vuelos en globo sobre las mil colinas de Ruanda son un complemento extraordinario. Las experiencias culturales y las visitas a mercados comunitarios se reservan en [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20cultural%20experience).
 
 ## Imprescindibles del viaje
 
-**eSIM:** consigue una eSIM de Ruanda en [Airalo](https://www.airalo.com). MTN Rwanda tiene la mejor cobertura, incluidas las zonas de los parques de los Volcanes y Nyungwe. Los lodges suelen tener wifi por satélite.
+**eSIM:** consigue una eSIM de Ruanda en [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM). MTN Rwanda tiene la mejor cobertura, incluidas las zonas de los parques de los Volcanes y Nyungwe. Los lodges suelen tener wifi por satélite.
 
-**Seguro de viaje:** en los lodges remotos, el riesgo relevante es una evacuación médica a Nairobi o Johannesburgo. [SafetyWing](https://safetywing.com) incluye la evacuación y cubre el trekking de gorilas como actividad de aventura.
-
-**VPN:** [NordVPN](https://nordvpn.com) o [ExpressVPN](https://expressvpn.com) para acceder a plataformas de streaming en las veladas del lodge.
+**Seguro de viaje:** en los lodges remotos, el riesgo relevante es una evacuación médica a Nairobi o Johannesburgo. Comprueba que tu póliza incluya la evacuación y cubra el trekking de gorilas como actividad de aventura.

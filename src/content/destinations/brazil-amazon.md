@@ -43,24 +43,22 @@ The river itself — up to 48 kilometres wide in the wet season flood stage — 
 
 ## Getting There
 
-**Flights:** São Paulo's Guarulhos (GRU) and Campinas (VCP) airports are the main international gateways. Rio de Janeiro's Galeão (GIG) receives major international routes. For the Amazon specifically, fly via Manaus (MAO) or Belém (BEL); Manaus has connections from Miami, Lisbon, and all major Brazilian cities. Alta Floresta (ATF, for Cristalino Lodge) is reached via Cuiabá (CGB) from São Paulo. Search flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Brazil/anytime/anytime) or [Aviasales](https://www.aviasales.com/search/to/brazil).
+**Flights:** São Paulo's Guarulhos (GRU) and Campinas (VCP) airports are the main international gateways. Rio de Janeiro's Galeão (GIG) receives major international routes. For the Amazon specifically, fly via Manaus (MAO) or Belém (BEL); Manaus has connections from Miami, Lisbon, and all major Brazilian cities. Alta Floresta (ATF, for Cristalino Lodge) is reached via Cuiabá (CGB) from São Paulo.
 
-**Airport Transfer:** Book private transfers from Brazilian airports through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Manaus) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Manaus). For remote lodge transfers, the lodge typically manages logistics directly.
+**Airport Transfer:** Book private transfers from Brazilian airports through [Klook](https://www.klook.com/en-US/search-results/?query=Manaus%20airport%20transfer). For remote lodge transfers, the lodge typically manages logistics directly.
 
 ## Getting Around
 
-**Internal Flights:** Essential for covering Brazil's distances. LATAM, Gol, and Azul connect all major cities. Book directly or compare on Brazilian flight aggregators. For car rental in the south and cities, compare on [Localrent](https://localrent.com/en/?location=Brazil), [QEEQ](https://www.qeeq.com/search?q=Brazil), or [AutoEurope](https://www.autoeurope.com/?location=Brazil).
+**Internal Flights:** Essential for covering Brazil's distances. LATAM, Gol, and Azul connect all major cities. Book directly or compare on Brazilian flight aggregators. For car rental in the south and cities, compare on [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20car%20rental).
 
 **River Boats:** Slow ferry services on the Amazon are authentic and economical (Manaus to Santarém, 36 hours; Manaus to Belém, 4–5 days). Faster speedboats and chartered river planes serve remote lodges.
 
 ## Tours & Experiences
 
-Book Amazon wildlife tours, Pantanal jaguar safaris, and Rio city experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Brazil) and [Viator](https://www.viator.com/Brazil/d350-ttd). Specialist Amazon lodge packages and river expedition cruises are best arranged through regional eco-tour operators or [WeGoTrip](https://wegotrip.com/destinations/brazil/).
+Book Amazon wildlife tours, Pantanal jaguar safaris, and Rio city experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Brazil). Specialist Amazon lodge packages and river expedition cruises are best arranged through regional eco-tour operators.
 
 ## Travel Essentials
 
-**eSIM:** Brazil has good 4G coverage in cities and along main highways; signal is absent in deep Amazon. Get a local eSIM from [Airalo](https://www.airalo.com) — Claro and Vivo have the best rural coverage. Most Amazon lodges have satellite or VSAT internet.
+**eSIM:** Brazil has good 4G coverage in cities and along main highways; signal is absent in deep Amazon. Get a local eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20eSIM) — Claro and Vivo have the best rural coverage. Most Amazon lodges have satellite or VSAT internet.
 
-**Travel Insurance:** Essential given Brazil's healthcare system variation and the physical demands of Amazon travel. Medical evacuation coverage is important for remote lodge stays. [SafetyWing](https://safetywing.com) covers adventure activities at no extra cost.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) are useful for accessing home streaming services and for added security on public hotel WiFi.
+**Travel Insurance:** Essential given Brazil's healthcare system variation and the physical demands of Amazon travel. Medical evacuation coverage is important for remote lodge stays.

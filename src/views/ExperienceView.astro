@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HotelCard from '../components/HotelCard.astro';
 import { withTracking } from '../lib/affiliate';
+import { isPartner } from '../lib/tp-programs.mjs';
 import { i18n, type Locale } from '../i18n';
 import { localized, entryAlternates, type Localized } from '../i18n/content';
 
@@ -10,6 +11,11 @@ const { experience } = Astro.props;
 const L = i18n(Astro.props.locale);
 const { t } = L;
 const E = t.experience;
+// Book directly only on our own pages or an approved partner (Klook / Expedia); other operators
+// (Viator, GetYourGuide, …) earn nothing, so those experiences book through the Klook search below.
+const bookUrl = experience.data.booking?.url ?? '';
+const bookHost = (() => { try { return new URL(bookUrl).hostname; } catch { return ''; } })();
+const ownBooking = !!bookHost && (isPartner(bookHost) || /(^|\.)stayatniche\.com$/.test(bookHost));
 const { Content } = await experience.render();
 const where = `${experience.data.destination}, ${L.country(experience.en.country)}`;
 
@@ -83,7 +89,7 @@ const metaDesc = seo.metaDescription || experience.data.description;
                 <span class="font-display text-gold-600 font-bold text-lg">{experience.data.booking.price}</span>
               </div>
             )}
-            {experience.data.booking?.provider && (
+            {experience.data.booking?.provider && ownBooking && (
               <div class="flex justify-between items-center pb-4 border-b border-warm-100">
                 <span class="font-body text-warm-600 text-sm">{E.provider}</span>
                 <span class="font-display text-warm-900 font-bold text-sm capitalize">{experience.data.booking.provider}</span>
@@ -95,7 +101,7 @@ const metaDesc = seo.metaDescription || experience.data.description;
             </div>
           </div>
 
-          {experience.data.booking?.url && (
+          {ownBooking && (
             <a
               href={withTracking(experience.data.booking.url, { campaign: 'experience', content: experience.slug })}
               target="_blank"

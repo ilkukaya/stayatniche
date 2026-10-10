@@ -37,24 +37,22 @@ Il deserto del Negev, che copre il 60% del territorio nazionale, è il volto di 
 
 ## Come arrivare
 
-**Voli:** l’aeroporto internazionale Ben Gurion (TLV), vicino a Tel Aviv, è la porta d’ingresso principale di Israele, con voli diretti da tutte le capitali europee, dal Nord America e dai grandi hub asiatici. L’aeroporto Ramon di Eilat (ETM) gestisce i collegamenti regionali e i charter. Cerca e confronta i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Israel/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/israel).
+**Voli:** l’aeroporto internazionale Ben Gurion (TLV), vicino a Tel Aviv, è la porta d’ingresso principale di Israele, con voli diretti da tutte le capitali europee, dal Nord America e dai grandi hub asiatici.
 
-**Transfer dall’aeroporto:** il Ben Gurion dista 20 km da Tel Aviv e 50 km da Gerusalemme. I treni per il centro di Tel Aviv partono ogni 30 minuti. Per un transfer privato, particolarmente comodo in caso di arrivo tardivo o se vai a Gerusalemme, prenota con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tel+Aviv) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tel+Aviv).
+**Transfer dall’aeroporto:** il Ben Gurion dista 20 km da Tel Aviv e 50 km da Gerusalemme. I treni per il centro di Tel Aviv partono ogni 30 minuti. Per un transfer privato, particolarmente comodo in caso di arrivo tardivo o se vai a Gerusalemme, prenota con [Klook](https://www.klook.com/en-US/search-results/?query=Tel%20Aviv%20airport%20transfer).
 
 ## Come muoversi
 
-**Noleggio auto:** indispensabile per il Negev e la Galilea. Le strade israeliane sono ottime e ben segnalate in ebraico e in inglese. Confronta le tariffe su [Localrent](https://localrent.com/en/?location=Israel), [QEEQ](https://www.qeeq.com/search?q=Israel) o [AutoEurope](https://www.autoeurope.com/?location=Israel). Attenzione: evita le compagnie locali più economiche, la qualità varia molto.
+**Noleggio auto:** indispensabile per il Negev e la Galilea. Le strade israeliane sono ottime e ben segnalate in ebraico e in inglese. Confronta le tariffe su [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20car%20rental). Attenzione: evita le compagnie locali più economiche, la qualità varia molto.
 
 **Treni e autobus:** la rete ferroviaria collega Tel Aviv, Gerusalemme, Haifa, Be’er Sheva e Nahariya. Le compagnie di autobus Egged e Dan coprono le tratte non servite dal treno. A Gerusalemme la metropolitana leggera è comoda per muoversi in città. Attenzione: durante lo Shabbat non ci sono trasporti pubblici.
 
 ## Tour ed esperienze
 
-Prenota visite guidate alla città vecchia di Gerusalemme, gite in giornata al mar Morto, escursioni guidate nel Makhtesh Ramon e l’alba a Masada su [Klook](https://www.klook.com/en-US/search-results/?query=Israel) e [Viator](https://www.viator.com/Israel/d724-ttd). I tour in jeep nel deserto del Negev e le esperienze nei campi beduini sono ben coperti dagli operatori della zona. I tour delle regioni vinicole del Golan e della Galilea si prenotano su [WeGoTrip](https://wegotrip.com/destinations/israel/).
+Prenota visite guidate alla città vecchia di Gerusalemme, gite in giornata al mar Morto, escursioni guidate nel Makhtesh Ramon e l’alba a Masada su [Klook](https://www.klook.com/en-US/search-results/?query=Israel). I tour in jeep nel deserto del Negev e le esperienze nei campi beduini sono ben coperti dagli operatori della zona. I tour delle regioni vinicole del Golan e della Galilea si prenotano allo stesso modo.
 
 ## Informazioni pratiche
 
-**eSIM:** Israele ha un’ottima copertura 4G/5G, anche lungo le grandi strade del Negev, ma nel deserto più remoto il segnale cade. Procurati una eSIM per Israele su [Airalo](https://www.airalo.com): Cellcom e Partner hanno la migliore copertura nelle zone rurali.
+**eSIM:** Israele ha un’ottima copertura 4G/5G, anche lungo le grandi strade del Negev, ma nel deserto più remoto il segnale cade. Procurati una eSIM per Israele su [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20eSIM): Cellcom e Partner hanno la migliore copertura nelle zone rurali.
 
-**Assicurazione di viaggio:** le normali assicurazioni di viaggio coprono Israele, ma alcune polizze escludono le aree vicine a zone di conflitto. Controlla con attenzione la tua. [SafetyWing](https://safetywing.com) copre le attività d’avventura, compresi il trekking nel deserto e le immersioni.
-
-**VPN:** [NordVPN](https://nordvpn.com) o [ExpressVPN](https://expressvpn.com) sono utili per accedere ai contenuti di casa e proteggere la privacy sulle reti degli hotel.
+**Assicurazione di viaggio:** le normali assicurazioni di viaggio coprono Israele, ma alcune polizze escludono le aree vicine a zone di conflitto. Controlla con attenzione la tua.

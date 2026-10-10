@@ -90,13 +90,13 @@ Pour la ligne de Fort William : la ville elle-même est modeste, mais c'est la
 
 Certains itinéraires en train de nuit européen imposent encore un vol à une extrémité : on arrive en avion dans une grande plateforme, puis on poursuit en train. C'est souvent la meilleure approche : un seul long vol au lieu de deux ou trois courts, le rail assurant les liaisons sur le continent.
 
-Pour le vol transatlantique ou en provenance d'Asie-Pacifique, cherchez sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Europe/anytime/anytime) ou [Aviasales](https://www.aviasales.com/search/to/europe). Les meilleures combinaisons train-avion :
+Planifiez d'abord le vol transatlantique ou en provenance d'Asie-Pacifique, puis construisez les trajets en train autour. Les meilleures combinaisons train-avion :
 
 - **Arriver à Londres, puis filer en train vers le sud et l'est :** prenez l'Eurostar jusqu'à Paris, puis le Nightjet pour Vienne ou Barcelone. Un seul vol, trois pays en train.
 - **Arriver à Amsterdam :** les correspondances entre le réseau néerlandais et les ICE allemands se font sans accroc. Depuis Amsterdam, vous pouvez monter dans l'European Sleeper pour Prague sans changer d'aéroport.
 - **Arriver à Zurich :** la position de plaque tournante ferroviaire de la Suisse en fait la porte d'entrée idéale vers l'Italie et le sud de la France en train de nuit.
 
-**Transferts depuis ces aéroports :** réservez via [Welcome Pickups](https://www.welcomepickups.com/) un chauffeur privé depuis les grands aéroports européens, particulièrement utile quand vous arrivez d'un long-courrier et enchaînez avec un train de nuit le soir même.
+**Transferts depuis ces aéroports :** réservez via [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20airport%20transfer) un chauffeur privé depuis les grands aéroports européens, particulièrement utile quand vous arrivez d'un long-courrier et enchaînez avec un train de nuit le soir même.
 
 ---
 
@@ -106,7 +106,7 @@ L'itinéraire en train de nuit est, dans la plupart des cas, un modèle de voyag
 
 L'exception : si votre itinéraire comprend des destinations rurales hors du réseau ferroviaire principal. Les Highlands écossaises, le Val de Loire, la Toscane, les fjords norvégiens se découvrent tous bien mieux en voiture. Dans ce cas, la solution pratique consiste à rejoindre en avion ou en train la ville-étape la plus proche, puis à y prendre une voiture de location.
 
-Pour louer une voiture en Europe, comparez les offres sur [AutoEurope](https://www.autoeurope.com/?location=Europe), [QEEQ](https://www.qeeq.com/search?q=Europe) et [Localrent](https://localrent.com/en/) pour les agences locales. Pour voyager en véhicule électrique, de plus en plus pratique en Scandinavie et en Allemagne, ces plateformes proposent désormais des filtres de recherche dédiés.
+Pour louer une voiture en Europe, comparez les offres sur [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20car%20rental). Pour voyager en véhicule électrique, de plus en plus pratique en Scandinavie et en Allemagne, pensez à chercher les véhicules électriques.
 
 ---
 
@@ -114,9 +114,9 @@ Pour louer une voiture en Europe, comparez les offres sur [AutoEurope](https://w
 
 Le train de nuit est efficace parce que le trajet se fait la nuit. Les journées sont entièrement consacrées à la destination. Les villes à associer à une arrivée en train de nuit regorgent d'expériences locales :
 
-- **Vienne :** réservez dégustations de vin, places d'opéra (la place debout au Staatsoper coûte 4 € et vaut chaque centime) et billets coupe-file pour le Kunsthistorisches Museum sur [Viator](https://www.viator.com/Vienna/d479-ttd) ou [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
+- **Vienne :** réservez dégustations de vin, places d'opéra (la place debout au Staatsoper coûte 4 € et vaut chaque centime) et billets coupe-file pour le Kunsthistorisches Museum sur [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
 - **Paris :** croisières sur la Seine, accès coupe-file à la tour Eiffel, visites guidées du Père-Lachaise et cours de cuisine, le tout réservable sur [Klook](https://www.klook.com/en-US/search-results/?query=Paris).
-- **Highlands écossaises (depuis Inverness ou Fort William) :** excursions en bateau sur le Loch Ness, randonnées guidées à Glencoe et visites de distilleries de whisky sur [Viator](https://www.viator.com/Inverness/d5458-ttd).
+- **Highlands écossaises (depuis Inverness ou Fort William) :** excursions en bateau sur le Loch Ness, randonnées guidées à Glencoe et visites de distilleries de whisky sur [Klook](https://www.klook.com/en-US/search-results/?query=Inverness).
 
 ---
 
@@ -124,9 +124,9 @@ Le train de nuit est efficace parce que le trajet se fait la nuit. Les journées
 
 L'itinérance mobile en Europe est encadrée par la réglementation européenne pour les citoyens de l'UE, mais les voyageurs venus d'ailleurs paient des frais d'itinérance sur les différents réseaux nationaux. Une eSIM règle la question :
 
-L'eSIM régionale Europe d'[Airalo](https://www.airalo.com) couvre plus de 30 pays européens avec un seul forfait, généralement 10 Go pour 20 à 25 $. Elle bascule automatiquement d'un réseau national à l'autre à mesure que votre train de nuit franchit les frontières, sans aucun réglage. Installez-la avant le départ ; activez-la à l'arrivée.
+Une eSIM régionale Europe de [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20eSIM) couvre plus de 30 pays européens avec un seul forfait, généralement 10 Go pour 20 à 25 $. Elle bascule automatiquement d'un réseau national à l'autre à mesure que votre train de nuit franchit les frontières, sans aucun réglage. Installez-la avant le départ ; activez-la à l'arrivée.
 
-Pour le seul Royaume-Uni (Caledonian Sleeper), une eSIM britannique distincte d'Airalo (généralement 12 à 15 £ pour 10 Go) est plus avantageuse que le forfait européen pour un voyage dans un seul pays.
+Pour le seul Royaume-Uni (Caledonian Sleeper), une eSIM britannique distincte (généralement 12 à 15 £ pour 10 Go) est plus avantageuse que le forfait européen pour un voyage dans un seul pays.
 
 ---
 

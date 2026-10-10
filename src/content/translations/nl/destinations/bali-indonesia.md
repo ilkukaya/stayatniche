@@ -47,22 +47,20 @@ Ngurah Rai International Airport in Denpasar heeft rechtstreekse vluchten uit Si
 
 ## Hoe kom je er
 
-**Vluchten:** Ngurah Rai International Airport (DPS) in Denpasar heeft rechtstreekse vluchten uit Singapore, Kuala Lumpur, Sydney, Melbourne, Tokio en Seoul, en uit Europese steden via Emirates (Dubai) en Qatar Airways. Prijsvechters als AirAsia, Scoot en Jetstar bieden scherpe verbindingen binnen Azië en de Pacific. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Bali/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/bali).
+**Vluchten:** Ngurah Rai International Airport (DPS) in Denpasar heeft rechtstreekse vluchten uit Singapore, Kuala Lumpur, Sydney, Melbourne, Tokio en Seoul, en uit Europese steden via Emirates (Dubai) en Qatar Airways.
 
-**Luchthaventransfer:** het vliegveld van Denpasar ligt bij normaal verkeer 30 minuten van Seminyak en 90 minuten van Ubud. Boek een privétransfer via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Bali) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Bali). Bluebird-taxi's zijn het betrouwbare alternatief met taxameter.
+**Luchthaventransfer:** het vliegveld van Denpasar ligt bij normaal verkeer 30 minuten van Seminyak en 90 minuten van Ubud. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20airport%20transfer). Bluebird-taxi's zijn het betrouwbare alternatief met taxameter.
 
 ## Vervoer ter plaatse
 
-**Scooter en motor:** dé lokale standaard om op eigen houtje over Bali te reizen. Huur vanaf $ 5 per dag; officieel heb je een internationaal rijbewijs nodig, maar de meeste verhuurders nemen het niet zo nauw. Veiligere alternatieven zijn privéchauffeurs die je per dag inhuurt ($ 40–60). Vergelijk autohuurprijzen op [Localrent](https://localrent.com/en/?location=Bali), [QEEQ](https://www.qeeq.com/search?q=Bali%2C+Indonesia) of [EconomyBookings](https://www.economybookings.com/?location=Bali). Voor motorhuur specifiek kun je vergelijken op [BikeBooking](https://www.bikebooking.com/en/search?location=Bali%2C+Indonesia).
+**Scooter en motor:** dé lokale standaard om op eigen houtje over Bali te reizen. Huur vanaf $ 5 per dag; officieel heb je een internationaal rijbewijs nodig, maar de meeste verhuurders nemen het niet zo nauw. Veiligere alternatieven zijn privéchauffeurs die je per dag inhuurt ($ 40–60). Vergelijk autohuurprijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20car%20rental).
 
 ## Tours en belevenissen
 
-Boek zonsopgangtochten naar de Batur, wandelingen door de rijstterrassen van Tegallalang, Balinese kookworkshops en heilige tempelceremonies via [Klook](https://www.klook.com/en-US/search-results/?query=Bali) en [Viator](https://www.viator.com/Bali/d774-ttd). Het apenbos van Ubud, het heilige bad van Tirta Empul en wildwaterraften op de Ayung krijgen steevast goede recensies. Voor zorgvuldig gekozen culturele belevenissen en audiotours op eigen gelegenheid kun je terecht bij [WeGoTrip](https://wegotrip.com/destinations/bali/).
+Boek zonsopgangtochten naar de Batur, wandelingen door de rijstterrassen van Tegallalang, Balinese kookworkshops en heilige tempelceremonies via [Klook](https://www.klook.com/en-US/search-results/?query=Bali). Het apenbos van Ubud, het heilige bad van Tirta Empul en wildwaterraften op de Ayung krijgen steevast goede recensies.
 
 ## Praktisch
 
-**eSIM:** regel vóór vertrek een eSIM voor Bali/Indonesië bij [Airalo](https://www.airalo.com). Telkomsel heeft het beste bereik op het platteland in het binnenland en de hooglanden.
+**eSIM:** regel vóór vertrek een eSIM voor Bali/Indonesië bij [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20eSIM). Telkomsel heeft het beste bereik op het platteland in het binnenland en de hooglanden.
 
-**Reisverzekering:** zorg dat watersport, vulkaanwandelingen en scooterrijden gedekt zijn (controleer scooterdekking apart, veel standaardpolissen sluiten die uit). [SafetyWing](https://safetywing.com) dekt avontuurlijke activiteiten en biedt een degelijke zorgdekking in Azië en de Pacific.
-
-**VPN:** onmisbaar in Indonesië, want sommige platforms zijn er regionaal geblokkeerd. [NordVPN](https://nordvpn.com) of [ExpressVPN](https://expressvpn.com) herstelt de toegang en beveiligt je verbinding op de hotelwifi van Bali.
+**Reisverzekering:** zorg dat watersport, vulkaanwandelingen en scooterrijden gedekt zijn (controleer scooterdekking apart, veel standaardpolissen sluiten die uit). Zorg dat die ook avontuurlijke activiteiten en zorg in Azië en de Pacific dekt.

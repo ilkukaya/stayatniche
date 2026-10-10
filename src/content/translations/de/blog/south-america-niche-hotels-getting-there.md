@@ -19,13 +19,13 @@ Geografisch ist Chile für Reisende aus Europa und Nordamerika das am leichteste
 
 **Die Flugabfolge in die Atacama:**
 
-1. **Internationaler Flug nach Santiago (SCL):** LATAM ab Madrid (12 Std.) ist die direkteste Option aus Europa. Für Reisende aus Nordamerika fliegen American Airlines und LATAM ab Miami (9 Std. 30 Min.). Suchen Sie bei [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chile/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/chile).
+1. **Internationaler Flug nach Santiago (SCL):** LATAM ab Madrid (12 Std.) ist die direkteste Option aus Europa. Für Reisende aus Nordamerika fliegen American Airlines und LATAM ab Miami (9 Std. 30 Min.). Buchen Sie frühzeitig für die besten Preise.
 
 2. **Santiago nach Calama (CJC):** LATAM und Sky Airline fliegen mehrmals täglich (2 Std.). Calama ist der Flughafen für San Pedro de Atacama.
 
-3. **Calama nach San Pedro:** 100 km Richtung Südosten auf asphaltierter Straße – 1,5 Stunden. Die meisten Lodges ([Awasi Atacama](/hotels/awasi-atacama-chile), [Tierra Atacama](/hotels)) bieten Flughafentransfers an. Private Transfers lassen sich über [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Calama) buchen.
+3. **Calama nach San Pedro:** 100 km Richtung Südosten auf asphaltierter Straße – 1,5 Stunden. Die meisten Lodges ([Awasi Atacama](/hotels/awasi-atacama-chile), [Tierra Atacama](/hotels)) bieten Flughafentransfers an. Private Transfers lassen sich über [Klook](https://www.klook.com/en-US/search-results/?query=Calama%20airport%20transfer) buchen.
 
-**eSIM für Chile:** Die [Airalo](https://www.airalo.com)-eSIM für Chile – Entel bietet die beste Abdeckung in der Atacama, auch im Ort San Pedro de Atacama. In der umliegenden Wüste und bei Ausflügen in große Höhen (El Tatio, 4.320 m) ist der Empfang sehr begrenzt; die Lodges nutzen Satelliten-WLAN.
+**eSIM für Chile:** Eine eSIM für Chile erhalten Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20eSIM) – Entel bietet die beste Abdeckung in der Atacama, auch im Ort San Pedro de Atacama. In der umliegenden Wüste und bei Ausflügen in große Höhen (El Tatio, 4.320 m) ist der Empfang sehr begrenzt; die Lodges nutzen Satelliten-WLAN.
 
 **Höhe:** San Pedro liegt auf 2.400 m, die Geysire von El Tatio auf 4.320 m. Verbringen Sie einen Tag auf der Höhe von San Pedro, bevor Sie höher hinaufsteigen. Coca-Tee gibt es überall.
 
@@ -37,7 +37,7 @@ Für Reisende, die die Atacama mit Patagonien verbinden (die klassische Route zu
 
 - **Alternativ Atacama → Santiago → Puerto Natales (PMC):** Näher am Torres del Paine, aber mit weniger Verbindungen. LATAM fliegt saisonal.
 
-Transfer von Punta Arenas zum Torres del Paine: 4 Stunden auf der Straße. [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Punta+Arenas) bietet zuverlässige private Transfers zum Festpreis.
+Transfer von Punta Arenas zum Torres del Paine: 4 Stunden auf der Straße. [Klook](https://www.klook.com/en-US/search-results/?query=Punta%20Arenas%20airport%20transfer) bietet zuverlässige private Transfers zum Festpreis.
 
 ---
 
@@ -46,7 +46,7 @@ Transfer von Punta Arenas zum Torres del Paine: 4 Stunden auf der Straße. [Kiwi
 Seine gute Erreichbarkeit macht Ecuador zu einem der lohnendsten Ziele Südamerikas für eine kürzere Reise. Quito (UIO) liegt mit American Airlines 2,5 Stunden von Miami entfernt, mit Iberia 7 Stunden von Madrid und mit KLM 7 Stunden von Amsterdam. Von hier aus ist auch die [Mashpi Lodge](/hotels/mashpi-lodge-ecuador) – die gläserne Nebelwaldlodge im Chocó Andino – nur 2 Stunden entfernt.
 
 **Die Flugabfolge:**
-1. Internationaler Flug nach Quito (UIO): Suchen Sie bei [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime).
+1. Internationaler Flug nach Quito (UIO).
 2. Übernachtung in Quito (zur Höhenanpassung – die Stadt liegt auf 2.850 m)
 3. Transfer auf der Straße zur Mashpi Lodge: 2 Stunden nordwestlich von Quito, hinab durch den Nebelwald auf 1.200 m
 
@@ -54,11 +54,11 @@ Die Mashpi Lodge organisiert ihre Transfers ab Quito selbst. Die Straße windet 
 
 **Verlängerung auf die Galápagosinseln:** Ab Quito starten LATAM und Avianca 2–3 Mal täglich zu den Galápagosinseln, nach Baltra (GPS, nahe Santa Cruz) oder San Cristóbal (SCY); der Flug dauert rund 3 Stunden. Meist bereist man die Galápagosinseln auf einer Kreuzfahrt mit Übernachtung an Bord (4–8 Tage), die verschiedene Inseln ansteuert, oder landgestützt von Santa Cruz aus mit Tagesausflügen. Die Eintrittsgebühr für den Nationalpark von 200 $ wird bei der Ankunft bezahlt.
 
-**eSIM für Ecuador:** Die [Airalo](https://www.airalo.com)-eSIM für Ecuador – Claro Ecuador bietet die beste Abdeckung im Nebelwald, auch in Mindo und rund um das Mashpi-Reservat. An der Lodge gibt es Empfang; im Inneren des Reservats sind Sie offline (und genau darum geht es).
+**eSIM für Ecuador:** Eine eSIM für Ecuador erhalten Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM) – Claro Ecuador bietet die beste Abdeckung im Nebelwald, auch in Mindo und rund um das Mashpi-Reservat. An der Lodge gibt es Empfang; im Inneren des Reservats sind Sie offline (und genau darum geht es).
 
 ### Mietwagen in Ecuador
 
-Für individuelle Reisen in den Nebelwald, das Andenhochland und an die Küste ist ein Mietwagen auf Ecuadors Hauptstraßennetz eine praktische Option. Vergleichen Sie die Preise bei [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) oder [EconomyBookings](https://www.economybookings.com/?location=Quito). Für die Zufahrtsstraßen im Nebelwald ist ein Allradwagen nützlich; beachten Sie, dass die Höhe Quitos eine entsprechend abgestimmte Motorleistung der Mietwagen erfordert – bei den meisten ist das kein Problem.
+Für individuelle Reisen in den Nebelwald, das Andenhochland und an die Küste ist ein Mietwagen auf Ecuadors Hauptstraßennetz eine praktische Option. Vergleichen Sie die Preise bei [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Für die Zufahrtsstraßen im Nebelwald ist ein Allradwagen nützlich; beachten Sie, dass die Höhe Quitos eine entsprechend abgestimmte Motorleistung der Mietwagen erfordert – bei den meisten ist das kein Problem.
 
 ---
 
@@ -71,7 +71,7 @@ Brasilien verlangt mehr Planung als Chile oder Ecuador: Die Entfernungen sind wi
 - **Rio de Janeiro (GIG):** Weniger Langstreckenverbindungen als São Paulo; vor allem Verbindungen nach Europa und in die USA
 - **Manaus (MAO):** Das Drehkreuz des Amazonas, mit LATAM-Verbindungen ab São Paulo und Miami (direkt); der Ausgangspunkt für Reisen in den zentralen Amazonas
 
-Flüge nach Brasilien finden Sie bei [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Brazil/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/brazil).
+Buchen Sie Flüge nach Brasilien rechtzeitig im Voraus.
 
 **Zur Cristalino Lodge (Alta Floresta, am Südrand des Amazonas):**
 
@@ -86,7 +86,7 @@ Gesamtreisezeit ab São Paulo: 6–8 Stunden inklusive Umstiegen. Aus Europa ode
 
 **Alternative:** Manche Reisende unterbrechen die Anreise mit 2–3 Nächten im Pantanal (dem größten tropischen Feuchtgebiet der Welt, erreichbar ab Cuiabá), bevor sie nach Alta Floresta weiterfliegen. So wird der Transit zu einem zweiten Safariziel – das Pantanal bietet in der Trockenzeit (August–Oktober) spektakuläre Jaguarsichtungen.
 
-**eSIM für Brasilien:** Die [Airalo](https://www.airalo.com)-eSIM für Brasilien – Claro oder Vivo haben die beste Abdeckung im Landesinneren. Im Ort Alta Floresta funktioniert der Empfang; im Reservat nutzt die Lodge Satelliteninternet.
+**eSIM für Brasilien:** Eine eSIM für Brasilien erhalten Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20eSIM) – Claro oder Vivo haben die beste Abdeckung im Landesinneren. Im Ort Alta Floresta funktioniert der Empfang; im Reservat nutzt die Lodge Satelliteninternet.
 
 ---
 
@@ -97,7 +97,7 @@ Für eine Südamerika-Rundreise zu mehreren außergewöhnlichen Unterkünften:
 **Beispiel Chile + Ecuador + Brasilien (Rundreise über 3 Wochen):**
 - Flug nach Santiago (SCL) → Atacama (über Calama) → Santiago → Quito (UIO) → Mashpi Lodge → Quito → São Paulo (GRU) → Alta Floresta → São Paulo → Heimreise
 
-Stellen Sie diese Route bei [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/South+America/anytime/anytime) mit der Gabelflug-Suche zusammen – sie findet Kombinationen mit weniger Rückwärtsverbindungen, als wenn Sie jede Etappe einzeln suchen.
+Stellen Sie diese Route mit der Gabelflug-Suche zusammen – sie findet Kombinationen mit weniger Rückwärtsverbindungen, als wenn Sie jede Etappe einzeln suchen.
 
 **Gabelflüge in Südamerika:** Wer über ein Drehkreuz einreist (Buenos Aires, Santiago) und über ein anderes ausreist (Lima, Bogotá), zahlt oft weniger als für Hin- und Rückflug und kann eine geografisch sinnvolle Route fahren.
 
@@ -107,7 +107,7 @@ Stellen Sie diese Route bei [Kiwi.com](https://www.kiwi.com/en/search/results/an
 
 Die Faustregel für Flughafentransfers in Südamerika: Meiden Sie nicht lizenzierte Taxis (die es an jedem Flughafen des Kontinents gibt) und nutzen Sie entweder den Transferservice der Lodge, einen vorab gebuchten Privattransfer oder eine Fahrdienst-App (Uber funktioniert in Santiago, São Paulo, Quito und Lima; lokale Alternativen variieren je nach Stadt).
 
-Buchen Sie für die großen Drehkreuzstädte vorab über [Welcome Pickups](https://www.welcomepickups.com/) – Festpreise und ein professioneller Abholservice sind den geringen Aufpreis bei der Ankunft am ersten Abend wert.
+Buchen Sie für die großen Drehkreuzstädte vorab über [Klook](https://www.klook.com/en-US/search-results/?query=South%20America%20airport%20transfer) – Festpreise und ein professioneller Abholservice sind den geringen Aufpreis bei der Ankunft am ersten Abend wert.
 
 ---
 
@@ -115,15 +115,15 @@ Buchen Sie für die großen Drehkreuzstädte vorab über [Welcome Pickups](https
 
 Selbst zu fahren ist in Chile (hervorragende Straßen, wenig Verkehr auf den Routen der Atacama) sowie in Teilen Brasiliens und Ecuadors praktikabel. Weniger empfehlenswert ist es in Peru, Bolivien und Kolumbien, wo Straßenzustand und Stadtverkehr anspruchsvoller sind.
 
-Für Chile: Vergleichen Sie bei [Localrent](https://localrent.com/en/?location=Chile), [QEEQ](https://www.qeeq.com/search?q=Santiago%2C+Chile) und [AutoEurope](https://www.autoeurope.com/?location=Chile). Für den Torres del Paine und Ausflüge ins Hochland der Atacama ist ein Allradwagen nötig; für die Hauptrouten der Atacama genügt ein normales Auto.
+Für Chile: Vergleichen Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20car%20rental). Für den Torres del Paine und Ausflüge ins Hochland der Atacama ist ein Allradwagen nötig; für die Hauptrouten der Atacama genügt ein normales Auto.
 
-Für Ecuador: [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) und [EconomyBookings](https://www.economybookings.com/?location=Quito). Kleinere lokale Vermieter in Quito bieten oft deutlich günstigere Preise als die internationalen Marken.
+Für Ecuador: Vergleichen Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Kleinere lokale Vermieter in Quito bieten oft deutlich günstigere Preise als die internationalen Marken.
 
 ---
 
 ## Touren und Erlebnisse
 
-Buchen Sie lokale Ausflüge in der Atacama (Geysire von El Tatio, Valle de la Luna, Touren zu den Salzseen), Tierbeobachtungen im Amazonas und Stadtführungen in Quito über [Klook](https://www.klook.com/en-US/search-results/?query=South+America) und [Viator](https://www.viator.com/South-America/d346-ttd). Zugtickets nach Machu Picchu (falls Sie Peru einbinden) buchen Sie über Peru Rail oder Inca Rail – für die Hochsaison sind sie Monate im Voraus ausverkauft.
+Buchen Sie lokale Ausflüge in der Atacama (Geysire von El Tatio, Valle de la Luna, Touren zu den Salzseen), Tierbeobachtungen im Amazonas und Stadtführungen in Quito über [Klook](https://www.klook.com/en-US/search-results/?query=South+America). Zugtickets nach Machu Picchu (falls Sie Peru einbinden) buchen Sie über Peru Rail oder Inca Rail – für die Hochsaison sind sie Monate im Voraus ausverkauft.
 
 ---
 
@@ -131,7 +131,7 @@ Buchen Sie lokale Ausflüge in der Atacama (Geysire von El Tatio, Valle de la Lu
 
 Die medizinische Versorgung in Südamerika ist sehr unterschiedlich: Große Städte haben hervorragende Privatkliniken, in abgelegenen Gebieten des Amazonas und des Hochlands ist dagegen eine Evakuierung nötig. Für abgelegene Lodges – um die es in diesem Ratgeber geht – brauchen Sie einen Versicherungsschutz, der den Rettungstransport abdeckt.
 
-[SafetyWing](https://safetywing.com) deckt Südamerika umfassend ab, schließt Abenteueraktivitäten (Trekking im Nebelwald, Wildtierwanderungen im Amazonas, Vulkanwanderungen in der Atacama) ohne Aufpreis ein und bietet Schutz für Notfall-Evakuierungen. Das höhenbedingte Gesundheitsrisiko (Atacama, Quito, Andenpässe) ist in den Standardtarifen enthalten.
+Achten Sie darauf, dass Ihre Police Abenteueraktivitäten (Trekking im Nebelwald, Wildtierwanderungen im Amazonas, Vulkanwanderungen in der Atacama) abdeckt und Notfall-Evakuierungen einschließt. Prüfen Sie außerdem, ob das höhenbedingte Gesundheitsrisiko (Atacama, Quito, Andenpässe) mitversichert ist.
 
 Für einige Regionen ist eine Gelbfieberimpfung vorgeschrieben – prüfen Sie die konkreten Vorgaben für Ihre Route, insbesondere für Reisen in den Amazonas in Brasilien, Peru und Ecuador.
 

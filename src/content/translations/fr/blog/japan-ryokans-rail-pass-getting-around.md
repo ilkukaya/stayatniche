@@ -19,11 +19,11 @@ Ce guide trace les itinéraires ferroviaires vers les hébergements insolites le
 
 **Vols :** les aéroports de Haneda (HND) et Narita (NRT), à Tokyo, sont les principales portes d'entrée internationales. Osaka Kansai (KIX) convient mieux pour un itinéraire qui commence par Kyoto : le Haruka Express rejoint directement la gare de Kyoto en 75 minutes. L'aéroport New Chitose de Sapporo (CTS) est la porte d'entrée de Hokkaido, avec des vols directs saisonniers depuis Tokyo, Taipei, Séoul et Hong Kong.
 
-Recherchez et comparez les vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/japan). La saison des cerisiers en fleurs (fin mars–mi-avril) et les couleurs d'automne (octobre–novembre) sont les périodes les plus demandées : les vols sur ces créneaux se remplissent 4 à 6 mois à l'avance et se paient au prix fort.
+La saison des cerisiers en fleurs (fin mars–mi-avril) et les couleurs d'automne (octobre–novembre) sont les périodes les plus demandées : les vols sur ces créneaux se remplissent 4 à 6 mois à l'avance et se paient au prix fort.
 
 **Transfert de l'aéroport vers la ville :** depuis Haneda, le Tokyo Monorail ou la ligne Keikyu rejoignent la ville en 14 à 20 minutes. Depuis Narita, le N'EX (Narita Express) dessert Shinjuku et Shibuya en 60 à 80 minutes. Depuis Kansai, le Haruka Express est la liaison classique vers Kyoto et Osaka.
 
-Pour un transfert privé, pratique à l'arrivée avec de lourds bagages avant d'avoir retiré votre JR Pass, [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) et [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo) couvrent tous deux Tokyo et Osaka.
+Pour un transfert privé, pratique à l'arrivée avec de lourds bagages avant d'avoir retiré votre JR Pass, [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer) couvre Tokyo et Osaka.
 
 ---
 
@@ -52,7 +52,7 @@ Hakone est la destination ryokan la plus accessible depuis Tokyo, à 90 minutes 
 
 **Itinéraire en train :** Shinjuku → Hakone-Yumoto (Odakyu Romancecar, 85 minutes en direct). Depuis Hakone-Yumoto, le Hakone Tozan Railway grimpe en zigzag jusqu'à Gora (30 minutes) ; de Gora, un téléphérique franchit la vallée volcanique d'Owakudani.
 
-**Où dormir :** [Gōra Kadan](https://www.booking.com/hotel/jp/gora-kadan.html), au sommet du funiculaire de Gora, est le ryokan le plus prestigieux de Hakone. Des adresses de milieu de gamme le long de la vallée de Hakone-Yumoto proposent de vraies chambres en tatami et des onsen privatifs à des prix abordables.
+**Où dormir :** Gōra Kadan, au sommet du funiculaire de Gora, est le ryokan le plus prestigieux de Hakone. Des adresses de milieu de gamme le long de la vallée de Hakone-Yumoto proposent de vraies chambres en tatami et des onsen privatifs à des prix abordables. Cherchez un hébergement à Hakone sur [Expedia](https://www.expedia.com/Hotel-Search?destination=Hakone%2C%20Japan).
 
 Réservez vos excursions à Hakone et vos expériences avec vue sur le Fuji sur [Klook](https://www.klook.com/en-US/search-results/?query=Hakone+Mount+Fuji) : l'entrée de l'Open Air Museum et la croisière sur le lac sont disponibles en formules combinées.
 
@@ -77,7 +77,7 @@ Kyoto mériterait à elle seule un guide complet, mais voici l'essentiel côté 
 - **Arashiyama :** à 20 minutes par le Sagano Scenic Railway ou la ligne Hankyu. Des ryokans plus petits et plus abordables, dans une vallée fluviale boisée.
 - **Le quartier de Nishiki/Kawaramachi :** des ryokans petit budget et milieu de gamme à quelques pas du marché Nishiki.
 
-Réservez vos expériences à Kyoto (cérémonie du thé, théâtre nô, dégustation de saké) sur [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto) et [Viator](https://www.viator.com/Kyoto/d342-ttd). Le sanctuaire Fushimi Inari, gratuit, vaut le lever matinal (5–6 h) avant l'arrivée des groupes.
+Réservez vos expériences à Kyoto (cérémonie du thé, théâtre nô, dégustation de saké) sur [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto). Le sanctuaire Fushimi Inari, gratuit, vaut le lever matinal (5–6 h) avant l'arrivée des groupes.
 
 ---
 
@@ -91,7 +91,7 @@ Réservez vos expériences à Kyoto (cérémonie du thé, théâtre nô, dégust
 
 **Niseko en été :** l'affluence et les prix baissent nettement ; le paysage de sommets volcaniques, de champs de fleurs et de prairies d'altitude est d'une vraie beauté. L'onsen privatif et le kaiseki de Zaborin fonctionnent toute l'année.
 
-Trouvez un transfert de l'aéroport New Chitose à Niseko sur [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Sapporo) ou réservez directement auprès de Zaborin.
+Trouvez un transfert de l'aéroport New Chitose à Niseko sur [Klook](https://www.klook.com/en-US/search-results/?query=New%20Chitose%20airport%20transfer) ou réservez directement auprès de Zaborin.
 
 ---
 
@@ -109,7 +109,7 @@ Trouvez un transfert de l'aéroport New Chitose à Niseko sur [KiwiTaxi](https:/
 
 ## eSIM et connexion au Japon
 
-Les réseaux 4G et 5G japonais sont excellents dans tout le pays, y compris dans les villes thermales rurales. Une eSIM Japon d'[Airalo](https://www.airalo.com), généralement 1 500–2 500 ¥ pour un forfait de 10 Go sur 30 jours, est la solution la plus pratique pour les visiteurs. Elle s'active immédiatement, évite de louer un boîtier Wi-Fi de poche et fonctionne sur tous les grands réseaux japonais.
+Les réseaux 4G et 5G japonais sont excellents dans tout le pays, y compris dans les villes thermales rurales. Une eSIM Japon de [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM), généralement 1 500–2 500 ¥ pour un forfait de 10 Go sur 30 jours, est la solution la plus pratique pour les visiteurs. Elle s'active immédiatement, évite de louer un boîtier Wi-Fi de poche et fonctionne sur tous les grands réseaux japonais.
 
 **À propos du Wi-Fi de poche :** la location d'un boîtier Wi-Fi à l'aéroport est la solution traditionnelle des étrangers au Japon, mais l'eSIM la surpasse désormais presque en tout : plus pratique, aucun appareil à rendre, et de plus en plus économique. Seule exception : si vous voyagez en groupe et préférez partager une seule enveloppe de données plutôt que d'avoir chacun votre eSIM.
 
@@ -119,7 +119,7 @@ Les réseaux 4G et 5G japonais sont excellents dans tout le pays, y compris dans
 
 Le Japon est un pays sûr, doté d'un système de santé exceptionnel, mais coûteux pour les visiteurs étrangers non assurés. Une hospitalisation à Tokyo peut coûter 500–2 000 $ par jour ; une urgence nécessitant des soins prolongés peut atteindre 10 000–20 000 $.
 
-[SafetyWing](https://safetywing.com) couvre les frais médicaux au Japon et inclut les activités d'aventure (ski à Niseko, randonnée dans les Alpes japonaises) sans surprime. Pour les séjours en ryokan en particulier : la plupart des établissements haut de gamme exigent une réservation 6 mois à l'avance avec acompte non remboursable ; mieux vaut vérifier que votre assurance voyage couvre l'annulation.
+Choisissez une assurance qui couvre les frais médicaux au Japon et les activités d'aventure prévues (ski à Niseko, randonnée dans les Alpes japonaises). Pour les séjours en ryokan en particulier : la plupart des établissements haut de gamme exigent une réservation 6 mois à l'avance avec acompte non remboursable ; mieux vaut vérifier que votre assurance voyage couvre l'annulation.
 
 ---
 
@@ -127,10 +127,10 @@ Le Japon est un pays sûr, doté d'un système de santé exceptionnel, mais coû
 
 Chaque étape du circuit des ryokans offre des expériences locales à réserver :
 
-- **Tokyo :** visites matinales du marché de Tsukiji, brasseries de saké, entraînements matinaux de sumo : [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo) et [Viator](https://www.viator.com/Tokyo/d334-ttd)
+- **Tokyo :** visites matinales du marché de Tsukiji, brasseries de saké, entraînements matinaux de sumo : [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo)
 - **Kyoto :** cérémonie du thé, balades du soir dans le quartier des geishas, visites guidées de la bambouseraie d'Arashiyama : [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto)
 - **Naoshima :** réservation des créneaux d'entrée au Chichu Art Museum, directement sur [benesse-artsite.jp](https://benesse-artsite.jp)
 - **Hakone :** Open Air Museum, points de vue sur le Fuji et circuit des sources chaudes : [Klook](https://www.klook.com/en-US/search-results/?query=Hakone)
-- **Niseko :** forfait de ski, héliski, sorties en poudreuse : directement auprès de la station ou sur [Viator](https://www.viator.com/Niseko/d51291-ttd)
+- **Niseko :** forfait de ski, héliski, sorties en poudreuse : directement auprès de la station ou sur [Klook](https://www.klook.com/en-US/search-results/?query=Niseko)
 
 Le Japan Rail Pass relie tout cela de façon simple et logique. Achetez-le avant le départ, retirez-le à l'aéroport et laissez le réseau du Shinkansen faire le reste.

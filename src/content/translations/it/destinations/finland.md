@@ -43,24 +43,22 @@ Helsinki merita più di una notte di transito. Il Design District, la chiesa di 
 
 ## Come arrivare
 
-**Voli:** Helsinki-Vantaa (HEL) è il principale hub della Finlandia, con collegamenti diretti in tutta Europa e rotte intercontinentali verso l’Asia con Finnair. Rovaniemi (RVN) riceve voli charter stagionali diretti dal Regno Unito e dalla Germania (novembre–marzo), che per i viaggi invernali in Lapponia evitano lo scalo a Helsinki. Ivalo (IVL), l’aeroporto più vicino alle capanne per l’aurora di Saariselkä, è a meno di 90 minuti da Helsinki. Cerca i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Finland/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/finland).
+**Voli:** Helsinki-Vantaa (HEL) è il principale hub della Finlandia, con collegamenti diretti in tutta Europa e rotte intercontinentali verso l’Asia con Finnair. Rovaniemi (RVN) riceve voli charter stagionali diretti dal Regno Unito e dalla Germania (novembre–marzo), che per i viaggi invernali in Lapponia evitano lo scalo a Helsinki. Ivalo (IVL), l’aeroporto più vicino alle capanne per l’aurora di Saariselkä, è a meno di 90 minuti da Helsinki.
 
-**Transfer dall’aeroporto:** la Ring Rail Line di Helsinki collega l’aeroporto di Vantaa al centro città in 30 minuti. A Rovaniemi e Ivalo la maggior parte dei lodge della Lapponia offre transfer diretti. Prenota transfer privati in città con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Helsinki) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Helsinki).
+**Transfer dall’aeroporto:** la Ring Rail Line di Helsinki collega l’aeroporto di Vantaa al centro città in 30 minuti. A Rovaniemi e Ivalo la maggior parte dei lodge della Lapponia offre transfer diretti. Prenota transfer privati in città con [Klook](https://www.klook.com/en-US/search-results/?query=Helsinki%20airport%20transfer).
 
 ## Come muoversi
 
-**Noleggio auto:** indispensabile nella regione dei laghi e in Lapponia. Da novembre a marzo gli pneumatici invernali sono obbligatori. Confronta le tariffe su [Localrent](https://localrent.com/en/?location=Finland), [QEEQ](https://www.qeeq.com/search?q=Finland) e [AutoEurope](https://www.autoeurope.com/?location=Finland).
+**Noleggio auto:** indispensabile nella regione dei laghi e in Lapponia. Da novembre a marzo gli pneumatici invernali sono obbligatori. Confronta le tariffe su [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20car%20rental).
 
 **Treno:** le ferrovie finlandesi VR collegano Helsinki a Rovaniemi di notte con il treno cuccette Santa Claus Express (12 ore, un’esperienza in sé). Prenota su [VR](https://www.vr.fi/en).
 
 ## Tour ed esperienze
 
-Prenota safari per l’aurora boreale, gite in slitta con gli husky, visite alle fattorie di renne ed esperienze di sauna finlandese su [Klook](https://www.klook.com/en-US/search-results/?query=Finland) e [Viator](https://www.viator.com/Finland/d52-ttd). Tour architettonici di Helsinki, kayak nell’arcipelago e saune a fumo tradizionali sono disponibili su [WeGoTrip](https://wegotrip.com/destinations/finland/).
+Prenota safari per l’aurora boreale, gite in slitta con gli husky, visite alle fattorie di renne ed esperienze di sauna finlandese su [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Tour architettonici di Helsinki, kayak nell’arcipelago e saune a fumo tradizionali sono disponibili anche lì.
 
 ## Informazioni pratiche
 
-**eSIM:** prima di partire procurati una eSIM per la Finlandia su [Airalo](https://www.airalo.com). Elisa e DNA hanno la migliore copertura rurale. La maggior parte dei lodge della Lapponia offre Wi-Fi satellitare.
+**eSIM:** prima di partire procurati una eSIM per la Finlandia su [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20eSIM). Elisa e DNA hanno la migliore copertura rurale. La maggior parte dei lodge della Lapponia offre Wi-Fi satellitare.
 
-**Assicurazione di viaggio:** se vai in motoslitta, assicurati la copertura per gli sport invernali. [SafetyWing](https://safetywing.com) copre in modo completo le attività al freddo.
-
-**VPN:** [NordVPN](https://nordvpn.com) o [ExpressVPN](https://expressvpn.com) per lo streaming nelle serate nei lodge della Lapponia.
+**Assicurazione di viaggio:** se vai in motoslitta, assicurati la copertura per gli sport invernali.

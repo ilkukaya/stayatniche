@@ -19,13 +19,13 @@ Chili is geografisch het best bereikbare Zuid-Amerikaanse land voor reizigers ui
 
 **De vluchtvolgorde naar de Atacama:**
 
-1. **Internationale vlucht naar Santiago (SCL):** LATAM vanuit Madrid (12 uur) is de meest directe Europese optie. Uit Noord-Amerika vlieg je met American Airlines en LATAM vanuit Miami (9 uur en 30 minuten). Zoek via [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chile/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/chile).
+1. **Internationale vlucht naar Santiago (SCL):** LATAM vanuit Madrid (12 uur) is de meest directe Europese optie. Uit Noord-Amerika vlieg je met American Airlines en LATAM vanuit Miami (9 uur en 30 minuten). Boek op tijd voor de beste prijzen.
 
 2. **Santiago naar Calama (CJC):** LATAM en Sky Airline vliegen meerdere keren per dag (2 uur). Calama is het vliegveld voor San Pedro de Atacama.
 
-3. **Calama naar San Pedro:** 100 km naar het zuidoosten over een verharde weg, 1,5 uur rijden. De meeste lodges ([Awasi Atacama](/hotels/awasi-atacama-chile), [Tierra Atacama](/hotels)) verzorgen een transfer vanaf het vliegveld. Privétransfers boek je via [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Calama).
+3. **Calama naar San Pedro:** 100 km naar het zuidoosten over een verharde weg, 1,5 uur rijden. De meeste lodges ([Awasi Atacama](/hotels/awasi-atacama-chile), [Tierra Atacama](/hotels)) verzorgen een transfer vanaf het vliegveld. Privétransfers boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Calama%20airport%20transfer).
 
-**eSIM voor Chili:** De Chileense eSIM van [Airalo](https://www.airalo.com). Entel heeft het beste bereik in de Atacama, ook in het stadje San Pedro de Atacama. In de woestijn eromheen en tijdens excursies op grote hoogte (El Tatio, 4.320 m) is er nauwelijks bereik; de lodges gebruiken wifi via de satelliet.
+**eSIM voor Chili:** Een eSIM voor Chili boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20eSIM). Entel heeft het beste bereik in de Atacama, ook in het stadje San Pedro de Atacama. In de woestijn eromheen en tijdens excursies op grote hoogte (El Tatio, 4.320 m) is er nauwelijks bereik; de lodges gebruiken wifi via de satelliet.
 
 **Hoogte:** San Pedro ligt op 2.400 m, de geisers van El Tatio op 4.320 m. Neem een dag om aan de hoogte van San Pedro te wennen voordat je hoger gaat. Cocathee is overal te krijgen.
 
@@ -37,7 +37,7 @@ Voor reizigers die de Atacama combineren met Patagonië (de klassieke route lang
 
 - **Of: Atacama → Santiago → Puerto Natales (PMC):** Dichter bij Torres del Paine, maar minder verbindingen. LATAM vliegt er in het seizoen.
 
-Transfer van Punta Arenas naar Torres del Paine: 4 uur over de weg. [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Punta+Arenas) biedt betrouwbare privétransfers tegen een vaste prijs.
+Transfer van Punta Arenas naar Torres del Paine: 4 uur over de weg. [Klook](https://www.klook.com/en-US/search-results/?query=Punta%20Arenas%20airport%20transfer) biedt betrouwbare privétransfers tegen een vaste prijs.
 
 ---
 
@@ -46,7 +46,7 @@ Transfer van Punta Arenas naar Torres del Paine: 4 uur over de weg. [KiwiTaxi](h
 Door de goede bereikbaarheid is Ecuador een van de dankbaarste bestemmingen van Zuid-Amerika voor een korte reis. Quito (UIO) ligt op 2,5 uur vliegen van Miami met American Airlines, 7 uur van Madrid met Iberia en 7 uur van Amsterdam met KLM. Vanuit Quito ben je bovendien in maar 2 uur bij [Mashpi Lodge](/hotels/mashpi-lodge-ecuador), de glazen nevelwoudlodge in de Chocó Andino.
 
 **De vluchtvolgorde:**
-1. Internationale vlucht naar Quito (UIO): zoek via [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime).
+1. Internationale vlucht naar Quito (UIO).
 2. Een nacht in Quito (om te acclimatiseren: de stad ligt op 2.850 m)
 3. Transfer over de weg naar Mashpi Lodge: 2 uur ten noordwesten van Quito, afdalend door het nevelwoud naar 1.200 m
 
@@ -54,11 +54,11 @@ Mashpi Lodge regelt zelf de transfers vanuit Quito. De weg slingert omlaag door 
 
 **Verlenging naar de Galápagos:** Vanuit Quito vertrekken 2 tot 3 keer per dag vluchten van LATAM en Avianca naar Baltra (GPS, bij Santa Cruz) of San Cristóbal (SCY), in ongeveer 3 uur. Een reis naar de Galápagos is meestal een cruise (4–8 dagen) langs de verschillende eilanden, of een reis vanaf land met Santa Cruz als basis en dagexcursies. De toegang tot het nationale park van $ 200 betaal je bij aankomst.
 
-**eSIM voor Ecuador:** De Ecuadoraanse eSIM van [Airalo](https://www.airalo.com). Claro Ecuador heeft het beste bereik in het nevelwoud, ook in Mindo en rond het Mashpi-reservaat. Bij de lodge heb je bereik; in het binnenste van het reservaat ben je offline (en dat is precies de bedoeling).
+**eSIM voor Ecuador:** Een eSIM voor Ecuador boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM). Claro Ecuador heeft het beste bereik in het nevelwoud, ook in Mindo en rond het Mashpi-reservaat. Bij de lodge heb je bereik; in het binnenste van het reservaat ben je offline (en dat is precies de bedoeling).
 
 ### Auto huren in Ecuador
 
-Voor wie zelfstandig naar het nevelwoud, het Andeshoogland en de kust wil: op het hoofdwegennet van Ecuador is zelf rijden goed te doen. Vergelijk tarieven via [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) of [EconomyBookings](https://www.economybookings.com/?location=Quito). Een 4x4 is handig op de toegangswegen naar het nevelwoud. Let op: door de hoogte van Quito moet de motor van een huurauto daarop zijn afgesteld, maar bij de meeste is dat in orde.
+Voor wie zelfstandig naar het nevelwoud, het Andeshoogland en de kust wil: op het hoofdwegennet van Ecuador is zelf rijden goed te doen. Vergelijk tarieven via [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Een 4x4 is handig op de toegangswegen naar het nevelwoud. Let op: door de hoogte van Quito moet de motor van een huurauto daarop zijn afgesteld, maar bij de meeste is dat in orde.
 
 ---
 
@@ -71,7 +71,7 @@ Brazilië vraagt meer planning dan Chili of Ecuador. De afstanden zijn echt groo
 - **Rio de Janeiro (GIG):** Minder langeafstandsverbindingen dan São Paulo; vooral verbindingen met Europa en de VS
 - **Manaus (MAO):** De Amazonehub, met verbindingen van LATAM vanuit São Paulo en (direct) vanuit Miami; het vertrekpunt voor reizen door de centrale Amazone
 
-Zoek vluchten naar Brazilië via [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Brazil/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/brazil).
+Boek vluchten naar Brazilië ruim van tevoren.
 
 **Naar Cristalino Lodge (Alta Floresta, zuidrand van de Amazone):**
 
@@ -86,7 +86,7 @@ Totale reistijd vanuit São Paulo: 6 tot 8 uur inclusief overstappen. Vanuit Eur
 
 **Alternatieve aanpak:** Sommige reizigers onderbreken de reis met 2 tot 3 nachten in de Pantanal (het grootste tropische moerasgebied ter wereld, bereikbaar vanuit Cuiabá) voordat ze doorvliegen naar Alta Floresta. Zo wordt de doorreis een tweede safaribestemming: in het droge seizoen (augustus–oktober) zie je in de Pantanal spectaculair veel jaguars.
 
-**eSIM voor Brazilië:** De Braziliaanse eSIM van [Airalo](https://www.airalo.com). Claro of Vivo hebben het beste bereik in het binnenland. In het stadje Alta Floresta werkt het signaal prima; in het reservaat gebruikt de lodge internet via de satelliet.
+**eSIM voor Brazilië:** Een eSIM voor Brazilië boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20eSIM). Claro of Vivo hebben het beste bereik in het binnenland. In het stadje Alta Floresta werkt het signaal prima; in het reservaat gebruikt de lodge internet via de satelliet.
 
 ---
 
@@ -97,7 +97,7 @@ Voor een rondreis door Zuid-Amerika langs meerdere bijzondere adressen:
 **Voorbeeld Chili + Ecuador + Brazilië (rondreis van 3 weken):**
 - Vlieg naar Santiago (SCL) → Atacama (via Calama) → Santiago → Quito (UIO) → Mashpi Lodge → Quito → São Paulo (GRU) → Alta Floresta → São Paulo → naar huis
 
-Stel deze route samen op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/South+America/anytime/anytime) met de zoekfunctie voor meerdere steden: die vindt combinaties met minder heen-en-weervluchten dan wanneer je elk traject apart zoekt.
+Stel deze route samen met de zoekfunctie voor meerdere steden: die vindt combinaties met minder heen-en-weervluchten dan wanneer je elk traject apart zoekt.
 
 **Enkele reizen door Zuid-Amerika:** Via de ene toegangspoort binnenkomen (Buenos Aires, Santiago) en via een andere vertrekken (Lima, Bogotá) levert vaak goedkopere tickets op dan een retour, en je kunt zo een logische geografische route volgen.
 
@@ -107,7 +107,7 @@ Stel deze route samen op [Kiwi.com](https://www.kiwi.com/en/search/results/anywh
 
 De standaardaanpak voor transfers op Zuid-Amerikaanse vliegvelden: vermijd taxi's zonder vergunning (die je op elk Zuid-Amerikaans vliegveld tegenkomt) en gebruik de transferservice van je lodge, een vooraf geboekte privétransfer of een taxi-app (Uber werkt in Santiago, São Paulo, Quito en Lima; lokale alternatieven verschillen per stad).
 
-Boek vooraf via [Welcome Pickups](https://www.welcomepickups.com/) in de belangrijkste toegangssteden: een vaste prijs en een professionele ontvangst bij aankomst zijn de kleine meerprijs waard op je eerste avond.
+Boek vooraf via [Klook](https://www.klook.com/en-US/search-results/?query=South%20America%20airport%20transfer) in de belangrijkste toegangssteden: een vaste prijs en een professionele ontvangst bij aankomst zijn de kleine meerprijs waard op je eerste avond.
 
 ---
 
@@ -115,15 +115,15 @@ Boek vooraf via [Welcome Pickups](https://www.welcomepickups.com/) in de belangr
 
 Zelf rijden is goed te doen in Chili (uitstekende wegen, weinig verkeer op de routes door de Atacama) en in delen van Brazilië en Ecuador. Minder praktisch in Peru, Bolivia en Colombia, waar de staat van de wegen en het stadsverkeer lastiger zijn.
 
-Voor Chili: vergelijk via [Localrent](https://localrent.com/en/?location=Chile), [QEEQ](https://www.qeeq.com/search?q=Santiago%2C+Chile) en [AutoEurope](https://www.autoeurope.com/?location=Chile). Een 4x4 is nodig voor Torres del Paine en excursies in het hoogland van de Atacama; voor de hoofdroutes in de Atacama volstaat een gewone auto.
+Voor Chili: vergelijk via [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20car%20rental). Een 4x4 is nodig voor Torres del Paine en excursies in het hoogland van de Atacama; voor de hoofdroutes in de Atacama volstaat een gewone auto.
 
-Voor Ecuador: [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) en [EconomyBookings](https://www.economybookings.com/?location=Quito). Kleinere verhuurbedrijven in Quito zijn vaak flink goedkoper dan de internationale merken.
+Voor Ecuador: vergelijk via [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Kleinere verhuurbedrijven in Quito zijn vaak flink goedkoper dan de internationale merken.
 
 ---
 
 ## Tours en ervaringen
 
-Boek lokale excursies in de Atacama (de geisers van El Tatio, Valle de la Luna, tochten over de zoutvlakte), natuuractiviteiten in de Amazone en stadstours door Quito via [Klook](https://www.klook.com/en-US/search-results/?query=South+America) en [Viator](https://www.viator.com/South-America/d346-ttd). Treinkaartjes naar Machu Picchu (als je Peru erbij neemt) boek je via Peru Rail of Inca Rail; die zijn voor het hoogseizoen maanden van tevoren uitverkocht.
+Boek lokale excursies in de Atacama (de geisers van El Tatio, Valle de la Luna, tochten over de zoutvlakte), natuuractiviteiten in de Amazone en stadstours door Quito via [Klook](https://www.klook.com/en-US/search-results/?query=South+America). Treinkaartjes naar Machu Picchu (als je Peru erbij neemt) boek je via Peru Rail of Inca Rail; die zijn voor het hoogseizoen maanden van tevoren uitverkocht.
 
 ---
 
@@ -131,7 +131,7 @@ Boek lokale excursies in de Atacama (de geisers van El Tatio, Valle de la Luna, 
 
 De medische voorzieningen in Zuid-Amerika verschillen sterk: grote steden hebben uitstekende privéziekenhuizen, maar vanuit afgelegen delen van de Amazone en het hoogland moet je geëvacueerd worden. Het model van de afgelegen lodge, waar deze gids over gaat, vraagt dus om een dekking voor evacuatie.
 
-[SafetyWing](https://safetywing.com) dekt heel Zuid-Amerika, inclusief avontuurlijke activiteiten (trektochten door het nevelwoud, natuurwandelingen in de Amazone, vulkaanwandelingen in de Atacama) zonder extra premie, en biedt dekking voor evacuatie in noodgevallen. Het specifieke gezondheidsrisico van de hoogte (Atacama, Quito, Andespassen) valt onder de standaardpolissen.
+Zorg dat je polis avontuurlijke activiteiten (trektochten door het nevelwoud, natuurwandelingen in de Amazone, vulkaanwandelingen in de Atacama) dekt en evacuatie in noodgevallen omvat. Controleer ook of het specifieke gezondheidsrisico van de hoogte (Atacama, Quito, Andespassen) gedekt is.
 
 Voor sommige regio's is een vaccinatie tegen gele koorts verplicht. Check de specifieke eisen voor jouw route, vooral bij reizen naar de Amazone in Brazilië, Peru en Ecuador.
 

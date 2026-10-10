@@ -37,24 +37,22 @@ Le désert du Néguev — qui couvre 60 % du territoire — est la facette d'Isr
 
 ## Comment s'y rendre
 
-**Vols :** l'aéroport international Ben Gourion (TLV), près de Tel-Aviv, est la principale porte d'entrée d'Israël, avec des vols directs depuis toutes les capitales européennes, l'Amérique du Nord et les grandes plateformes asiatiques. L'aéroport Ramon d'Eilat (ETM) accueille les liaisons régionales et les charters. Recherchez et comparez les vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Israel/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/israel).
+**Vols :** l'aéroport international Ben Gourion (TLV), près de Tel-Aviv, est la principale porte d'entrée d'Israël, avec des vols directs depuis toutes les capitales européennes, l'Amérique du Nord et les grandes plateformes asiatiques.
 
-**Transfert depuis l'aéroport :** Ben Gourion se trouve à 20 km de Tel-Aviv et à 50 km de Jérusalem. Des trains rejoignent le centre de Tel-Aviv toutes les 30 minutes. Pour un transfert privé — particulièrement pratique en cas d'arrivée tardive ou pour rejoindre Jérusalem —, réservez auprès de [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tel+Aviv) ou de [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tel+Aviv).
+**Transfert depuis l'aéroport :** Ben Gourion se trouve à 20 km de Tel-Aviv et à 50 km de Jérusalem. Des trains rejoignent le centre de Tel-Aviv toutes les 30 minutes. Pour un transfert privé — particulièrement pratique en cas d'arrivée tardive ou pour rejoindre Jérusalem —, réservez auprès de [Klook](https://www.klook.com/en-US/search-results/?query=Tel%20Aviv%20airport%20transfer).
 
 ## Se déplacer
 
-**Location de voiture :** indispensable pour le Néguev et la Galilée. Les routes israéliennes sont excellentes et bien signalisées en hébreu et en anglais. Comparez les tarifs sur [Localrent](https://localrent.com/en/?location=Israel), [QEEQ](https://www.qeeq.com/search?q=Israel) ou [AutoEurope](https://www.autoeurope.com/?location=Israel). À noter : évitez les loueurs locaux les moins chers, la qualité varie considérablement.
+**Location de voiture :** indispensable pour le Néguev et la Galilée. Les routes israéliennes sont excellentes et bien signalisées en hébreu et en anglais. Comparez les tarifs sur [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20car%20rental). À noter : évitez les loueurs locaux les moins chers, la qualité varie considérablement.
 
 **Train et bus :** le réseau ferroviaire relie Tel-Aviv, Jérusalem, Haïfa, Beer-Sheva et Nahariya. Les compagnies de bus Egged et Dan desservent les trajets non couverts par le train. Le tramway de Jérusalem est pratique en ville. À noter : aucun transport public pendant le shabbat.
 
 ## Excursions et expériences
 
-Réservez vos visites de la vieille ville de Jérusalem, vos excursions à la journée à la mer Morte, vos randonnées guidées dans le Makhtesh Ramon et vos montées à Massada au lever du soleil sur [Klook](https://www.klook.com/en-US/search-results/?query=Israel) et [Viator](https://www.viator.com/Israel/d724-ttd). Les circuits en jeep dans le désert du Néguev et les séjours en campement bédouin sont bien couverts par les opérateurs régionaux. Les circuits œnologiques dans le Golan et en Galilée se réservent sur [WeGoTrip](https://wegotrip.com/destinations/israel/).
+Réservez vos visites de la vieille ville de Jérusalem, vos excursions à la journée à la mer Morte, vos randonnées guidées dans le Makhtesh Ramon et vos montées à Massada au lever du soleil sur [Klook](https://www.klook.com/en-US/search-results/?query=Israel). Les circuits en jeep dans le désert du Néguev et les séjours en campement bédouin sont bien couverts par les opérateurs régionaux. Les circuits œnologiques dans le Golan et en Galilée se réservent de la même façon.
 
 ## L'essentiel pour voyager
 
-**eSIM :** Israël bénéficie d'une excellente couverture 4G/5G, y compris le long des grands axes du Néguev, mais le signal disparaît dans le désert reculé. Procurez-vous une eSIM Israël chez [Airalo](https://www.airalo.com) — Cellcom et Partner offrent la meilleure couverture en zone rurale.
+**eSIM :** Israël bénéficie d'une excellente couverture 4G/5G, y compris le long des grands axes du Néguev, mais le signal disparaît dans le désert reculé. Procurez-vous une eSIM Israël chez [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20eSIM) — Cellcom et Partner offrent la meilleure couverture en zone rurale.
 
-**Assurance voyage :** une assurance voyage classique couvre Israël ; certains contrats excluent les zones proches des conflits. Vérifiez précisément votre police. [SafetyWing](https://safetywing.com) couvre les activités d'aventure, dont la randonnée dans le désert et la plongée.
-
-**VPN :** [NordVPN](https://nordvpn.com) ou [ExpressVPN](https://expressvpn.com) sont utiles pour accéder à vos contenus habituels et protéger votre vie privée sur les réseaux des hôtels.
+**Assurance voyage :** une assurance voyage classique couvre Israël ; certains contrats excluent les zones proches des conflits. Vérifiez précisément votre police.

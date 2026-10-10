@@ -47,22 +47,20 @@ L’aeroporto internazionale Ngurah Rai di Denpasar riceve voli diretti da Singa
 
 ## Come arrivare
 
-**Voli:** l’aeroporto internazionale Ngurah Rai (DPS) di Denpasar riceve voli diretti da Singapore, Kuala Lumpur, Sydney, Melbourne, Tokyo, Seul e dalle città europee con Emirates (via Dubai) e Qatar Airways. Le compagnie low cost, AirAsia, Scoot e Jetstar, offrono collegamenti competitivi nell’area Asia-Pacifico. Cerca e confronta i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Bali/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/bali).
+**Voli:** l’aeroporto internazionale Ngurah Rai (DPS) di Denpasar riceve voli diretti da Singapore, Kuala Lumpur, Sydney, Melbourne, Tokyo, Seul e dalle città europee con Emirates (via Dubai) e Qatar Airways.
 
-**Transfer dall’aeroporto:** l’aeroporto di Denpasar dista 30 minuti da Seminyak e 90 da Ubud con traffico normale. Prenota un transfer privato con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Bali) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Bali). I taxi Bluebird sono l’alternativa affidabile con tassametro.
+**Transfer dall’aeroporto:** l’aeroporto di Denpasar dista 30 minuti da Seminyak e 90 da Ubud con traffico normale. Prenota un transfer privato con [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20airport%20transfer). I taxi Bluebird sono l’alternativa affidabile con tassametro.
 
 ## Come muoversi
 
-**Scooter e moto:** sono la norma locale per spostarsi in autonomia a Bali. Il noleggio parte da 5 $ al giorno; in teoria serve la patente internazionale, ma la maggior parte dei noleggi è piuttosto informale. Un’alternativa più sicura è l’autista privato a giornata (40–60 $). Confronta le tariffe di noleggio auto su [Localrent](https://localrent.com/en/?location=Bali), [QEEQ](https://www.qeeq.com/search?q=Bali%2C+Indonesia) o [EconomyBookings](https://www.economybookings.com/?location=Bali). Per il noleggio moto, confronta le offerte su [BikeBooking](https://www.bikebooking.com/en/search?location=Bali%2C+Indonesia).
+**Scooter e moto:** sono la norma locale per spostarsi in autonomia a Bali. Il noleggio parte da 5 $ al giorno; in teoria serve la patente internazionale, ma la maggior parte dei noleggi è piuttosto informale. Un’alternativa più sicura è l’autista privato a giornata (40–60 $). Confronta le tariffe di noleggio auto su [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20car%20rental).
 
 ## Tour ed esperienze
 
-Prenota le escursioni all’alba sul monte Batur, le passeggiate tra le risaie di Tegallalang, i corsi di cucina balinese e le cerimonie nei templi sacri su [Klook](https://www.klook.com/en-US/search-results/?query=Bali) e [Viator](https://www.viator.com/Bali/d774-ttd). La Monkey Forest di Ubud, il bagno sacro di Tirta Empul e il rafting sul fiume Ayung ricevono costantemente ottime recensioni. Per esperienze culturali selezionate e audioguide da seguire in autonomia, usa [WeGoTrip](https://wegotrip.com/destinations/bali/).
+Prenota le escursioni all’alba sul monte Batur, le passeggiate tra le risaie di Tegallalang, i corsi di cucina balinese e le cerimonie nei templi sacri su [Klook](https://www.klook.com/en-US/search-results/?query=Bali). La Monkey Forest di Ubud, il bagno sacro di Tirta Empul e il rafting sul fiume Ayung ricevono costantemente ottime recensioni.
 
 ## Informazioni pratiche
 
-**eSIM:** prima di partire procurati una eSIM per Bali e l’Indonesia su [Airalo](https://www.airalo.com). Telkomsel ha la migliore copertura nelle zone rurali dell’interno e sugli altipiani.
+**eSIM:** prima di partire procurati una eSIM per Bali e l’Indonesia su [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20eSIM). Telkomsel ha la migliore copertura nelle zone rurali dell’interno e sugli altipiani.
 
-**Assicurazione di viaggio:** deve coprire sport acquatici, escursioni sui vulcani e guida dello scooter (verifica in particolare quest’ultima voce: molte polizze standard la escludono). [SafetyWing](https://safetywing.com) copre le attività d’avventura e garantisce una solida copertura sanitaria nell’area Asia-Pacifico.
-
-**VPN:** indispensabile in Indonesia, dove alcune piattaforme sono soggette a restrizioni geografiche. [NordVPN](https://nordvpn.com) o [ExpressVPN](https://expressvpn.com) ripristinano l’accesso e proteggono la connessione sulle reti Wi-Fi degli hotel di Bali.
+**Assicurazione di viaggio:** deve coprire sport acquatici, escursioni sui vulcani e guida dello scooter (verifica in particolare quest’ultima voce: molte polizze standard la escludono). Assicurati che copra anche le attività d’avventura e l’assistenza sanitaria nell’area Asia-Pacifico.

@@ -36,24 +36,22 @@ In het nevelwoud op de westelijke Andeshellingen, het bioom van de Chocó Andino
 
 ## Hoe kom je er
 
-**Vluchten:** Mariscal Sucre International Airport (UIO) in Quito heeft rechtstreekse vluchten uit Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima en andere Zuid-Amerikaanse hoofdsteden. Guayaquil (GYE) aan de Pacifische kust is de tweede toegangspoort. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/ecuador).
+**Vluchten:** Mariscal Sucre International Airport (UIO) in Quito heeft rechtstreekse vluchten uit Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima en andere Zuid-Amerikaanse hoofdsteden. Guayaquil (GYE) aan de Pacifische kust is de tweede toegangspoort.
 
-**Luchthaventransfer:** Quito ligt 45 minuten rijden van het vliegveld. Boek een privétransfer via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Quito) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Quito), een stuk betrouwbaarder dan de taxistandplaatsen bij aankomst.
+**Luchthaventransfer:** Quito ligt 45 minuten rijden van het vliegveld. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Quito%20airport%20transfer), een stuk betrouwbaarder dan de taxistandplaatsen bij aankomst.
 
 ## Vervoer ter plaatse
 
-**Autohuur:** het wegennet van de Panamericana is goed onderhouden en zelf rijden is goed te doen. Vergelijk prijzen op [Localrent](https://localrent.com/en/?location=Ecuador), [QEEQ](https://www.qeeq.com/search?q=Quito,+Ecuador) of [EconomyBookings](https://www.economybookings.com/?location=Quito). Voor wegen in het hoogland en het nevelwoud heb je een 4x4 nodig.
+**Autohuur:** het wegennet van de Panamericana is goed onderhouden en zelf rijden is goed te doen. Vergelijk prijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Voor wegen in het hoogland en het nevelwoud heb je een 4x4 nodig.
 
 **Bussen:** het interstedelijke busnetwerk van Ecuador is uitstekend en goedkoop. Het hoofdstation van Quito (Quitumbe) heeft verbindingen met alle grote bestemmingen. Privétransfers naar nevelwoudlodges (zoals Mashpi) worden meestal door de lodge zelf geregeld.
 
 ## Tours en belevenissen
 
-Boek eilandhoppen op de Galápagos, wandelingen rond de krater van Quilotoa en stadstours in Quito via [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador) en [Viator](https://www.viator.com/Ecuador/d728-ttd). Vogeltours in het nevelwoud en bezoeken aan cacaoboerderijen bij Mindo boek je via [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
+Boek eilandhoppen op de Galápagos, wandelingen rond de krater van Quilotoa en stadstours in Quito via [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). Vogeltours in het nevelwoud en bezoeken aan cacaoboerderijen bij Mindo boek je daar ook.
 
 ## Praktisch
 
-**eSIM:** regel vóór vertrek een eSIM voor Ecuador bij [Airalo](https://www.airalo.com). Claro heeft het beste bereik op het platteland, ook in het nevelwoud op de westelijke Andeshellingen. In het binnenland van de Galápagos is er geen signaal, in Puerto Ayora wel.
+**eSIM:** regel vóór vertrek een eSIM voor Ecuador bij [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM). Claro heeft het beste bereik op het platteland, ook in het nevelwoud op de westelijke Andeshellingen. In het binnenland van de Galápagos is er geen signaal, in Puerto Ayora wel.
 
-**Reisverzekering:** [SafetyWing](https://safetywing.com) dekt de avontuurlijke activiteiten van Ecuador (wandelen, duiken, natuurexcursies) zonder extra premie. Dekking voor medische evacuatie is belangrijk bij reizen naar afgelegen nevelwoud en de Amazone.
-
-**VPN:** [NordVPN](https://nordvpn.com) is handig om je eigen streamingcontent te bekijken en om veilig te surfen op hotelnetwerken.
+**Reisverzekering:** Check of je polis de avontuurlijke activiteiten van Ecuador (wandelen, duiken, natuurexcursies) dekt. Dekking voor medische evacuatie is belangrijk bij reizen naar afgelegen nevelwoud en de Amazone.
