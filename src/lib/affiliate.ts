@@ -28,7 +28,9 @@ export interface AffiliateOptions {
 // hostname and wraps the URL in a tracked tp.media redirect. A link that is
 // NOT wrapped earns no commission — so never build partner hrefs by hand.
 import { TP_MARKER, partnerLink, isPartner } from './tp-programs.mjs';
+import expediaHotels from '../data/expedia-hotels.json';
 export { TP_MARKER };
+const EXPEDIA_HOTELS = expediaHotels as Record<string, string>;
 
 /** Booking.com Partner ID (aid). Fill in once approved; empty = plain link. */
 export const BOOKING_AID = '';
@@ -85,16 +87,26 @@ export function withTracking(url: string, opts: AffiliateOptions = {}): string {
  */
 export const AFFILIATE_REL = 'noopener noreferrer nofollow sponsored';
 
+/** The stay's own Expedia hotel page (src/data/expedia-hotels.json), if one was found. */
+export function expediaHotelPage(slug?: string): string | null {
+  return (slug && EXPEDIA_HOTELS[slug]) || null;
+}
+
+/** Tracked Expedia link for a stay: its own hotel page when known, else a search for its name. */
+export function expediaHotelUrl(slug: string, name: string, destination: string, opts: AffiliateOptions = {}): string {
+  const q = encodeURIComponent(`${name}, ${destination.split(',')[0]}`);
+  return withTracking(expediaHotelPage(slug) ?? `https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, opts);
+}
+
 /**
  * Best earning link for a hotel's "Check rates" button.
- * Booking.com pays nothing until BOOKING_AID is set, so those hotels go to a tracked
- * Expedia search for the property instead; official/other sites keep their own URL.
+ * Expedia is the approved hotel partner: its own page for the stay when known, otherwise a search
+ * for it. Booking.com pays nothing until BOOKING_AID is set, so those hotels go to Expedia too;
+ * stays sold only by their operator (trains, small properties) keep their own URL.
  */
-export function hotelDealUrl(bookingUrl: string, name: string, destination: string, opts: AffiliateOptions = {}): string {
-  if (!BOOKING_AID && /(^|\/\/|\.)booking\.com/.test(bookingUrl ?? '')) {
-    const q = encodeURIComponent(`${name}, ${destination.split(',')[0]}`);
-    return withTracking(`https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, opts);
-  }
+export function hotelDealUrl(bookingUrl: string, name: string, destination: string, opts: AffiliateOptions = {}, slug = opts.content): string {
+  if (expediaHotelPage(slug)) return expediaHotelUrl(slug!, name, destination, opts);
+  if (!BOOKING_AID && /(^|\/\/|\.)booking\.com/.test(bookingUrl ?? '')) return expediaHotelUrl(slug ?? '', name, destination, opts);
   return withTracking(bookingUrl, opts);
 }
 

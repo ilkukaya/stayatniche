@@ -10,8 +10,9 @@ const P = L.t.photoCredits;
 const hotels = await getCollection('hotels');
 const dests = await getCollection('destinations');
 const rows = await Promise.all(Object.entries(credits as Record<string, any>).map(async ([key, c]) => {
-  const isDest = key.startsWith('dest:'); const slug = key.replace(/^dest:/, '');
-  const name = isDest ? `${dests.find(d => d.slug === slug)?.data.name ?? slug} (${c.matched ?? 'destination'})` : hotels.find(h => h.slug === slug)?.data.name ?? slug;
+  const isDest = key.startsWith('dest:'); const isArea = key.startsWith('area:'); const slug = key.replace(/^(dest|area):/, '');
+  const hotelName = hotels.find(h => h.slug === slug)?.data.name ?? slug;
+  const name = isDest ? `${dests.find(d => d.slug === slug)?.data.name ?? slug} (${c.matched ?? 'destination'})` : isArea ? `${hotelName} (${L.t.card.around(c.place ?? '')})` : hotelName;
   const col = isDest ? 'destinations' : 'hotels';
   const here = (await localesOf(col, slug)).includes(L.locale);
   return { c, name, href: here ? L.path(col, slug) : `/${col}/${slug}/` };

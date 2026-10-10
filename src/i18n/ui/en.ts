@@ -78,6 +78,7 @@ const en = {
   },
   card: {
     editorsPick: "Editor's pick",
+    around: (place: string) => `Around ${place}`,
     save: (name: string) => `Save ${name}`,
     scoreTitle: 'Editor score out of 10',
     from: 'From',
@@ -133,6 +134,7 @@ const en = {
     noPhoto: 'Photos of this property are on its booking pages.',
     photo: 'Photo',
     viaCommons: 'via Wikimedia Commons',
+    areaPhoto: 'Photo of the surrounding area',
     facts: { price: 'Typical price', ratesVary: 'Rates vary: check live prices', level: 'Price level', bestTime: 'Best time to go', checkInOut: 'Check-in / out', bestFor: 'Best for', score: 'Editor score' },
     why: 'Why it’s on the list',
     included: 'What’s included',

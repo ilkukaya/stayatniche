@@ -880,5 +880,925 @@
     "wikidata": "https://www.wikidata.org/wiki/Q949218",
     "matched": "Anse Lazio",
     "distanceKm": 48.8
+  },
+  "area:adelya-cave-hotel-turkey": {
+    "author": "rheins",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Town_of_G%C3%B6reme_-_2014.10_-_panoramio.jpg",
+    "title": "Town of Göreme - 2014.10 - panoramio.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:aigle-des-neiges-france": {
+    "author": "Melviniob",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vue_de_la_terasse.jpg",
+    "title": "Vue de la terasse.jpg",
+    "distanceKm": 1.1,
+    "kind": "area",
+    "place": "Les Deux Alpes"
+  },
+  "area:al-maha-dubai": {
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mountain_gazelle_(gazella_gazella).jpg",
+    "title": "Mountain gazelle (gazella gazella).jpg",
+    "distanceKm": 3.4,
+    "kind": "area",
+    "place": "Dubai Desert Conservation Reserve"
+  },
+  "area:alila-jabal-akhdar-oman": {
+    "author": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dodonaea_viscosa_kz09.jpg",
+    "title": "Dodonaea viscosa kz09.jpg",
+    "distanceKm": 1.1,
+    "kind": "area",
+    "place": "Al Dakhiliyah Governorate"
+  },
+  "area:alila-villas-uluwatu-bali": {
+    "author": "rheins",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cliff_Facing_Indian_Ocean_-_2015.02_-_panoramio.jpg",
+    "title": "Cliff Facing Indian Ocean - 2015.02 - panoramio.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Uluwatu"
+  },
+  "area:aman-i-khas-india": {
+    "author": "Subhayan Bhattacharyya",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_after_a_tired_day.jpg",
+    "title": "Sunset after a tired day.jpg",
+    "distanceKm": 2.9,
+    "kind": "area",
+    "place": "Ranthambore"
+  },
+  "area:andbeyond-benguerra-island-mozambique": {
+    "author": "Cornelius Kibelka from Berlin, Germany",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bazaruto_-_I_(23918326530).jpg",
+    "title": "Bazaruto - I (23918326530).jpg",
+    "distanceKm": 4.6,
+    "kind": "area",
+    "place": "Benguerra Island"
+  },
+  "area:andbeyond-ngorongoro-crater-lodge": {
+    "author": "Nevit Dilmen (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ostrich_Struthio_camelus_Tanzania_3789_Nevit.jpg",
+    "title": "Ostrich Struthio camelus Tanzania 3789 Nevit.jpg",
+    "distanceKm": 1.2,
+    "kind": "area",
+    "place": "Ngorongoro Conservation Area"
+  },
+  "area:andbeyond-phinda-south-africa": {
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:African_buffalo_(Syncerus_caffer)_male_with_Oxpecker.jpg",
+    "title": "African buffalo (Syncerus caffer) male with Oxpecker.jpg",
+    "distanceKm": 3.3,
+    "kind": "area",
+    "place": "KwaZulu-Natal"
+  },
+  "area:arctic-bath-sweden": {
+    "author": "steffen l",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Mirrorcube,_Treehotel_in_Harads,_Sweden_1_-_Jan_3,_2019.jpg",
+    "title": "The Mirrorcube, Treehotel in Harads, Sweden 1 - Jan 3, 2019.jpg",
+    "distanceKm": 2.4,
+    "kind": "area",
+    "place": "Harads"
+  },
+  "area:attrap-reves-france": {
+    "author": "Pierre-Selim Huard",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barre_du_Saint-Esprit_-_2021-05-31_-_1297.jpg",
+    "title": "Barre du Saint-Esprit - 2021-05-31 - 1297.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Allauch"
+  },
+  "area:bambu-indah-bali": {
+    "author": "Michelle Maria",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Mansion_Ubud_Indonesia_-_panoramio.jpg",
+    "title": "The Mansion Ubud Indonesia - panoramio.jpg",
+    "distanceKm": 1.6,
+    "kind": "area",
+    "place": "Ubud"
+  },
+  "benesse-house-naoshima-japan": {
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:150505_Benesse_House_Museum_Naoshima_Kagawa_pref_Japan01b3s5.jpg",
+    "title": "150505 Benesse House Museum Naoshima Kagawa pref Japan01b3s5.jpg",
+    "distanceKm": 0,
+    "kind": "hotel",
+    "matched": "Benesse House Naoshima"
+  },
+  "area:bisate-lodge-rwanda": {
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golden_monkey_(Cercopithecus_kandti)_eating.jpg",
+    "title": "Golden monkey (Cercopithecus kandti) eating.jpg",
+    "distanceKm": 2.8,
+    "kind": "area",
+    "place": "Volcanoes National Park"
+  },
+  "area:bora-bora-nui-resort": {
+    "author": "Michelle Maria",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bora-Bora_French_Polynesia_-_panoramio.jpg",
+    "title": "Bora-Bora French Polynesia - panoramio.jpg",
+    "distanceKm": 1.7,
+    "kind": "area",
+    "place": "Bora Bora"
+  },
+  "area:bubbletent-australia": {
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Petroica_goodenovii_2_-_Wianamatta_Reserve.jpg",
+    "title": "Petroica goodenovii 2 - Wianamatta Reserve.jpg",
+    "distanceKm": 4.8,
+    "kind": "area",
+    "place": "Hunter Valley"
+  },
+  "area:cape-leeuwin-lighthouse-australia": {
+    "author": "Photograph by Greg O'Beirne",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:CapeLeeuwinLighthouse_gobeirne.jpg",
+    "title": "CapeLeeuwinLighthouse gobeirne.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Augusta"
+  },
+  "area:cappadocia-cave-suites-turkey": {
+    "author": "Moyan Brenn from Italy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cappadocia_(7912377726).jpg",
+    "title": "Cappadocia (7912377726).jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:cavo-tagoo-mykonos-greece": {
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Mykonos_03.jpg",
+    "title": "View of Mykonos 03.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Mykonos Town"
+  },
+  "area:charming-cave-cappadocia-hotel-turkey": {
+    "author": "Moyan Brenn from Italy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cappadocia_(8082255642).jpg",
+    "title": "Cappadocia (8082255642).jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:chole-mjini-tanzania": {
+    "author": "Nina R from Africa",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mafia_Island_(51554991378).jpg",
+    "title": "Mafia Island (51554991378).jpg",
+    "distanceKm": 1.6,
+    "kind": "area",
+    "place": "Chole Island"
+  },
+  "area:conrad-maldives-muraka": {
+    "author": "Neville Wootton from Liskeard, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:020_-_Chasing_Manta%27s_(8536442920).jpg",
+    "title": "020 - Chasing Manta's (8536442920).jpg",
+    "distanceKm": 4.9,
+    "kind": "area",
+    "place": "Rangali Island"
+  },
+  "area:cuevas-al-jatib-spain": {
+    "author": "jbdodane",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atajate_20121229-DSC_4259.jpg",
+    "title": "Atajate 20121229-DSC 4259.jpg",
+    "distanceKm": 0.4,
+    "kind": "area",
+    "place": "Benalauría"
+  },
+  "area:desert-cave-hotel-australia": {
+    "author": "Pavel Špindler",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Podzemn%C3%AD_kostel_v_Coober_Pedy_-_panoramio.jpg",
+    "title": "Podzemní kostel v Coober Pedy - panoramio.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Coober Pedy"
+  },
+  "area:four-seasons-maldives-landaa": {
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thatched-roof_villa_in_the_Maldive_Islands.jpg",
+    "title": "Thatched-roof villa in the Maldive Islands.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Baa Atoll"
+  },
+  "area:gamirasu-cave-turkey": {
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mustafapa%C5%9Fa,_Nev%C5%9Fehir_04.jpg",
+    "title": "Mustafapaşa, Nevşehir 04.jpg",
+    "distanceKm": 4.7,
+    "kind": "area",
+    "place": "Ayvali"
+  },
+  "area:georgios-cave-cappadocia-turkey": {
+    "author": "ykeiko",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_fairy_chimneys,Esentepe_%E5%A6%96%E7%B2%BE%E5%B2%A9_-_panoramio.jpg",
+    "title": "The fairy chimneys,Esentepe 妖精岩 - panoramio.jpg",
+    "distanceKm": 1.4,
+    "kind": "area",
+    "place": "Ürgüp"
+  },
+  "area:gili-lankanfushi-maldives": {
+    "author": "Frans-Banja Mulder",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandos_Island_1_-_panoramio.jpg",
+    "title": "Bandos Island 1 - panoramio.jpg",
+    "distanceKm": 2.7,
+    "kind": "area",
+    "place": "North Malé Atoll"
+  },
+  "area:goreme-valley-cave-house-turkey": {
+    "author": "Kyle Lamothe",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Float_Over_G%C3%B6reme_(55651132).jpeg",
+    "title": "Great Float Over Göreme (55651132).jpeg",
+    "distanceKm": 0.3,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:halong-bay-indochina-sails": {
+    "author": "lienyuan lee",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_%E4%B8%8B%E9%BE%8D%E7%81%A3_-_panoramio.jpg",
+    "title": "Ha Long Bay 下龍灣 - panoramio.jpg",
+    "distanceKm": 0,
+    "kind": "area",
+    "place": "Ha Long Bay"
+  },
+  "area:hapuku-lodge-new-zealand": {
+    "author": "_somaholiday",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaikoura_Beach_-_1231_2013_002_(14000840379).jpg",
+    "title": "Kaikoura Beach - 1231 2013 002 (14000840379).jpg",
+    "distanceKm": 3.2,
+    "kind": "area",
+    "place": "Kaikōura"
+  },
+  "area:houseboat-alleppey-kerala": {
+    "author": "User:Sivavkm",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alappuzha_loves_Wikimedia_IMG_7856.JPG",
+    "title": "Alappuzha loves Wikimedia IMG 7856.JPG",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Alleppey"
+  },
+  "area:icehotel-sweden": {
+    "author": "Markus Bernet",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Icehotel_entrance.jpg",
+    "title": "Icehotel entrance.jpg",
+    "distanceKm": 0.7,
+    "kind": "area",
+    "place": "Jukkasjärvi"
+  },
+  "area:inkaterra-canopy-treehouse-peru": {
+    "author": "Kevin Matteson from Yellow Springs, Ohio, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Siproeta_stelenes_-_Amazon_2014_-_(14357602070).jpg",
+    "title": "Siproeta stelenes - Amazon 2014 - (14357602070).jpg",
+    "distanceKm": 1.8,
+    "kind": "area",
+    "place": "Puerto Maldonado"
+  },
+  "area:intercontinental-thalasso-bora-bora": {
+    "author": "Chris McClave from Connecticut, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hammock_-_Polynesia.jpg",
+    "title": "Hammock - Polynesia.jpg",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Bora Bora"
+  },
+  "area:keemala-bird-nest-phuket": {
+    "author": "Tuderna",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kamala_beach_(%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%B2)_-_panoramio.jpg",
+    "title": "Kamala beach (หาดกมลา) - panoramio.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Kamala"
+  },
+  "area:kokopelli-cave-usa": {
+    "author": "Patrick Alexander from Las Cruces, NM",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Chokecherry_Canyon_-_Flickr_-_aspidoscelis.jpg",
+    "title": "Chokecherry Canyon - Flickr - aspidoscelis.jpg",
+    "distanceKm": 4.5,
+    "kind": "area",
+    "place": "Farmington"
+  },
+  "area:la-bulle-enchantee-france": {
+    "author": "Havang(nl)",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Piencourt_(Eure)_manoir.JPG",
+    "title": "Piencourt (Eure) manoir.JPG",
+    "distanceKm": 3.7,
+    "kind": "area",
+    "place": "Normandy"
+  },
+  "area:lapa-rios-costa-rica": {
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Painted_ghost_crab_(Ocypode_gaudichaudii)_Osa.jpg",
+    "title": "Painted ghost crab (Ocypode gaudichaudii) Osa.jpg",
+    "distanceKm": 0,
+    "kind": "area",
+    "place": "Osa Peninsula"
+  },
+  "area:lindesnes-lighthouse-norway": {
+    "author": "Maesel",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Archipelago.jpg",
+    "title": "Archipelago.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Lindesnes"
+  },
+  "area:longitude-131-australia": {
+    "author": "Annette Teng",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Springtime_in_the_Desert_-_panoramio.jpg",
+    "title": "Springtime in the Desert - panoramio.jpg",
+    "distanceKm": 1.9,
+    "kind": "area",
+    "place": "Uluru"
+  },
+  "area:lucky-cave-cappadocia-turkey": {
+    "author": "James Farnham Long",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cappadocia_Landscape_At_Sunset_(135658433).jpeg",
+    "title": "Cappadocia Landscape At Sunset (135658433).jpeg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:melek-cave-hotel-turkey": {
+    "author": "Netha Hussain",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cappadocia_from_hot_air_balloon_38.jpg",
+    "title": "Aerial view of Cappadocia from hot air balloon 38.jpg",
+    "distanceKm": 0.3,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:ms-fram-norway": {
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_Centre_in_Svalbard_(UNIS)_2003.jpg",
+    "title": "University Centre in Svalbard (UNIS) 2003.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Svalbard & Norwegian Arctic"
+  },
+  "area:museum-hotel-cappadocia": {
+    "author": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_U%C3%A7hisar_in_Cappadocia.jpg",
+    "title": "Castle Uçhisar in Cappadocia.jpg",
+    "distanceKm": 0.3,
+    "kind": "area",
+    "place": "Uçhisar"
+  },
+  "nihi-sumba-indonesia": {
+    "author": "C980040",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nihi_Sumba.jpg",
+    "title": "Nihi Sumba.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Nihi Sumba"
+  },
+  "area:nothofagus-hotel-chile": {
+    "author": "gavin_62",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Volcan_Mosho_Shoshuenco_desde_Monta%C3%B1a_M%C3%A1gica_-_panoramio.jpg",
+    "title": "Volcan Mosho Shoshuenco desde Montaña Mágica - panoramio.jpg",
+    "distanceKm": 1.6,
+    "kind": "area",
+    "place": "Huilo-Huilo Biological Reserve"
+  },
+  "area:nubble-lighthouse-maine": {
+    "author": "pshutterbug from Long Island, New York, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_tower_with_a_beautiful_view_(3644857079).jpg",
+    "title": "The tower with a beautiful view (3644857079).jpg",
+    "distanceKm": 1.7,
+    "kind": "area",
+    "place": "York"
+  },
+  "area:off-paris-seine-france": {
+    "author": "Tangopaso",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "source": "https://commons.wikimedia.org/wiki/File:Seine_river_from_the_viaduc_d%27Austerlitz.jpg",
+    "title": "Seine river from the viaduc d'Austerlitz.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Paris"
+  },
+  "area:ottoman-cave-suites-turkey": {
+    "author": "Lars Juhl Jensen",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Balloons_Over_Cappadocia_(54374006).jpeg",
+    "title": "Balloons Over Cappadocia (54374006).jpeg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:peristyle-cave-cappadocia-turkey": {
+    "author": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Uchisar.JPG",
+    "title": "View of Uchisar.JPG",
+    "distanceKm": 0.3,
+    "kind": "area",
+    "place": "Uçhisar"
+  },
+  "area:point-reyes-lighthouse-california": {
+    "author": "Tobias Kleinlercher / Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coast_of_Point_Reyes_(TK18).JPG",
+    "title": "Coast of Point Reyes (TK18).JPG",
+    "distanceKm": 1.2,
+    "kind": "area",
+    "place": "Point Reyes Station"
+  },
+  "area:rekero-camp-masai-mara": {
+    "author": "guyvail",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entim_camp_-_panoramio.jpg",
+    "title": "Entim camp - panoramio.jpg",
+    "distanceKm": 4.1,
+    "kind": "area",
+    "place": "Masai Mara National Reserve"
+  },
+  "area:sadie-cove-alaska": {
+    "author": "Paxson Woelber",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Packrafting_in_Little_Tutka_Bay,_Alaska_(28475410982).jpg",
+    "title": "Packrafting in Little Tutka Bay, Alaska (28475410982).jpg",
+    "distanceKm": 7.2,
+    "kind": "area",
+    "place": "Kachemak Bay"
+  },
+  "area:sassi-hotel-matera-italy": {
+    "author": "Giorgio Galeotti",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matera_-_Italy_-_August_17,_2010_03.jpg",
+    "title": "Matera - Italy - August 17, 2010 03.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Matera"
+  },
+  "area:seki-cave-hotel-turkey": {
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zelve,_Cappadocia_05.jpg",
+    "title": "Zelve, Cappadocia 05.jpg",
+    "distanceKm": 1.1,
+    "kind": "area",
+    "place": "Çavuşin"
+  },
+  "area:sextantio-cave-italy": {
+    "author": "Mattis",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matera_005.jpg",
+    "title": "Matera 005.jpg",
+    "distanceKm": 0.3,
+    "kind": "area",
+    "place": "Matera"
+  },
+  "area:signature-cave-cappadocia-turkey": {
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mustafapa%C5%9Fa,_Nev%C5%9Fehir_01.jpg",
+    "title": "Mustafapaşa, Nevşehir 01.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Nevşehir"
+  },
+  "singita-lebombo-south-africa": {
+    "author": "Jessica138",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Singita-Lebombo-Lodge-18.jpg",
+    "title": "Singita-Lebombo-Lodge-18.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Singita Lebombo Lodge"
+  },
+  "area:skylodge-peru": {
+    "author": "Ordzonhyd Rudyard Tarco Palomino",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%81rea_de_conservaci%C3%B3n_privada_Abra_M%C3%A1laga_Thastayoc-Royal_Cinclodes_10.jpg",
+    "title": "Área de conservación privada Abra Málaga Thastayoc-Royal Cinclodes 10.jpg",
+    "distanceKm": 3.1,
+    "kind": "area",
+    "place": "Sacred Valley"
+  },
+  "area:snowhotel-kirkenes-norway": {
+    "author": "Harvey Barrison from Massapequa, NY, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kirkenes_2013_06_10_2103_(10412632676).jpg",
+    "title": "Kirkenes 2013 06 10 2103 (10412632676).jpg",
+    "distanceKm": 1.4,
+    "kind": "area",
+    "place": "Kirkenes"
+  },
+  "soneva-kiri-thailand": {
+    "author": "josef knecht",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ko_Kut,_Soneva_Kiri,_Hill_Villa_-_panoramio.jpg",
+    "title": "Ko Kut, Soneva Kiri, Hill Villa - panoramio.jpg",
+    "distanceKm": 0.2,
+    "kind": "hotel",
+    "matched": "Soneva Kiri"
+  },
+  "area:song-saa-cambodia": {
+    "author": "Jorge Cortell",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cropped_(231655583).jpeg",
+    "title": "Cropped (231655583).jpeg",
+    "distanceKm": 2.9,
+    "kind": "area",
+    "place": "Koh Ouen & Koh Bong Islands"
+  },
+  "area:sorrisniva-igloo-hotel-norway": {
+    "author": "DXR",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lake_near_Rv93,_Finnmark_20150612_1.jpg",
+    "title": "Lake near Rv93, Finnmark 20150612 1.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Alta"
+  },
+  "area:splendid-cave-hotel-turkey": {
+    "author": "Brocken Inaglory",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%B6reme_Valley_in_Cappadocia_edit1.jpg",
+    "title": "Göreme Valley in Cappadocia edit1.jpg",
+    "distanceKm": 2.7,
+    "kind": "area",
+    "place": "Ortahisar"
+  },
+  "area:sultan-cave-suites-turkey": {
+    "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20180108_G%C3%B6remeKaya_2883_(25000203597).jpg",
+    "title": "20180108 GöremeKaya 2883 (25000203597).jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:taru-cave-suites-turkey": {
+    "author": "Tevfik Teker",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fairy_Chimneys_-_panoramio.jpg",
+    "title": "Fairy Chimneys - panoramio.jpg",
+    "distanceKm": 1.2,
+    "kind": "area",
+    "place": "Ürgüp"
+  },
+  "area:the-bubble-hotel-belgium": {
+    "author": "Funkyxian",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Herenteugellaan_13,_Pulderbos.JPG",
+    "title": "Herenteugellaan 13, Pulderbos.JPG",
+    "distanceKm": 1.2,
+    "kind": "area",
+    "place": "Pulderbos"
+  },
+  "area:urgup-inn-cave-hotel-turkey": {
+    "author": "Mykola Swarnyk",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chamin%C3%A9s_de_fada.jpg",
+    "title": "Chaminés de fada.jpg",
+    "distanceKm": 1.8,
+    "kind": "area",
+    "place": "Ürgüp"
+  },
+  "utter-inn-sweden": {
+    "author": "Dependability",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Utter_Inn_V%C3%A4ster%C3%A5s.jpg",
+    "title": "Utter Inn Västerås.jpg",
+    "distanceKm": 0.7,
+    "kind": "hotel",
+    "matched": "Utter Inn"
+  },
+  "area:vintage-cave-house-turkey": {
+    "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20180108_G%C3%B6remeKaya_2888_(25000194507).jpg",
+    "title": "20180108 GöremeKaya 2888 (25000194507).jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:wadi-rum-bubble-camp-jordan": {
+    "author": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_BW_7.JPG",
+    "title": "Wadi Rum BW 7.JPG",
+    "distanceKm": 0.6,
+    "kind": "area",
+    "place": "Wadi Rum"
+  },
+  "area:whitepod-switzerland": {
+    "author": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mary_Magdalene_church_in_Troistorrents_02.jpg",
+    "title": "Mary Magdalene church in Troistorrents 02.jpg",
+    "distanceKm": 3.1,
+    "kind": "area",
+    "place": "Les Cerniers"
+  },
+  "area:zaborin-hokkaido-japan": {
+    "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20181105_Niseko_4415_(48428827997).jpg",
+    "title": "20181105 Niseko 4415 (48428827997).jpg",
+    "distanceKm": 0.8,
+    "kind": "area",
+    "place": "Hanazono"
+  },
+  "area:anantara-maldives-underwater": {
+    "author": "7777777kz",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baa_Atoll,_Maldives_-_panoramio_(23).jpg",
+    "title": "Baa Atoll, Maldives - panoramio (23).jpg",
+    "distanceKm": 4.7,
+    "kind": "area",
+    "place": "Baa Atoll"
+  },
+  "area:cappadocia-inans-cave-suites-turkey": {
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nev%C5%9Fehir_Kaya%C5%9Fehir_5054b.jpg",
+    "title": "Nevşehir Kayaşehir 5054b.jpg",
+    "distanceKm": 2.4,
+    "kind": "area",
+    "place": "Nevşehir"
+  },
+  "cristalino-lodge-brazil": {
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cristalino_Lodge,_Alta_Floresta,_Mato_Grosso,_Brazil.jpg",
+    "title": "Cristalino Lodge, Alta Floresta, Mato Grosso, Brazil.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Cristalino Lodge"
+  },
+  "area:fastnet-lighthouse-ireland": {
+    "author": "Colin Park",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fastnet_Rock_Lighthouse_-_geograph.org.uk_-_6008802.jpg",
+    "title": "Fastnet Rock Lighthouse - geograph.org.uk - 6008802.jpg",
+    "distanceKm": 2.4,
+    "kind": "area",
+    "place": "Schull"
+  },
+  "area:free-spirit-spheres-canada": {
+    "author": "Doug Wortley",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MABR_Spider_Lake_Arrowsmith_Aerial_Photography.jpg",
+    "title": "MABR Spider Lake Arrowsmith Aerial Photography.jpg",
+    "distanceKm": 3.8,
+    "kind": "area",
+    "place": "Vancouver Island"
+  },
+  "area:jao-camp-botswana": {
+    "author": "Scott Crabtree",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Kobus_leche_leche_207414151.jpg",
+    "title": "Kobus leche leche 207414151.jpg",
+    "distanceKm": 5,
+    "kind": "area",
+    "place": "Jao Concession"
+  },
+  "area:jules-undersea-lodge-florida": {
+    "author": "Serge Melki from Indianapolis, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Take_me_back_(6134166454).jpg",
+    "title": "Take me back (6134166454).jpg",
+    "distanceKm": 0.9,
+    "kind": "area",
+    "place": "Key Largo"
+  },
+  "area:juvet-landscape-hotel-norway": {
+    "author": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gudbrandsjuvet_03.jpg",
+    "title": "Gudbrandsjuvet 03.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Alnes"
+  },
+  "area:la-cabane-perchee-france": {
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Beynac_Chapelle_Dordogne_10.jpg",
+    "title": "Château de Beynac Chapelle Dordogne 10.jpg",
+    "distanceKm": 1.2,
+    "kind": "area",
+    "place": "Dordogne Valley"
+  },
+  "area:londolozi-varty-camp-south-africa": {
+    "author": "Mike's Birds from Riverside, CA, US",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vervet_Monkeys_(6623591499).jpg",
+    "title": "Vervet Monkeys (6623591499).jpg",
+    "distanceKm": 2.3,
+    "kind": "area",
+    "place": "Sabi Sand Game Reserve"
+  },
+  "area:manshausen-island-resort-norway": {
+    "author": "Dirk Kohlmann",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%B8t%C3%B8y_i_Nordland,_Nordnorge,_112.jpg",
+    "title": "Grøtøy i Nordland, Nordnorge, 112.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Steigen Archipelago"
+  },
+  "area:mashpi-lodge-ecuador": {
+    "author": "Don Henise",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mashpi_2015-06-07_(2)_(38580488230).jpg",
+    "title": "Mashpi 2015-06-07 (2) (38580488230).jpg",
+    "distanceKm": 4,
+    "kind": "area",
+    "place": "Mashpi"
+  },
+  "area:romantic-cave-hotel-turkey": {
+    "author": "brewbooks from near Seattle, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Erciyes_-_Flickr_-_brewbooks.jpg",
+    "title": "Mount Erciyes - Flickr - brewbooks.jpg",
+    "distanceKm": 3.4,
+    "kind": "area",
+    "place": "Ürgüp"
+  },
+  "area:tierra-patagonia-chile": {
+    "author": "Draceane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parque_nacional_Torres_del_Paine,_2019_0621.jpg",
+    "title": "Parque nacional Torres del Paine, 2019 0621.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Torres del Paine"
+  },
+  "area:utopia-cave-cappadocia-turkey": {
+    "author": "Korkut Tas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asmali_Konak_-_panoramio.jpg",
+    "title": "Asmali Konak - panoramio.jpg",
+    "distanceKm": 0.6,
+    "kind": "area",
+    "place": "Ürgüp"
+  },
+  "area:aerie-resort-washington": {
+    "author": "Mr.B",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nice_Day-May_07-LK_Chelan_-_panoramio.jpg",
+    "title": "Nice Day-May 07-LK Chelan - panoramio.jpg",
+    "distanceKm": 1.1,
+    "kind": "area",
+    "place": "Chelan County"
+  },
+  "area:portland-bill-lighthouse-england": {
+    "author": "Broichmore",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_Bill_Lighthouse_and_Trinity_House_Obelisk_2019_IMG_9307.jpg",
+    "title": "Portland Bill Lighthouse and Trinity House Obelisk 2019 IMG 9307.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Portland"
+  },
+  "area:scarabeo-camp-morocco": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Agafay_Desert,_Morocco,_20250125_1751_7274.jpg",
+    "title": "Agafay Desert, Morocco, 20250125 1751 7274.jpg",
+    "distanceKm": 2.8,
+    "kind": "area",
+    "place": "Agafay Desert"
   }
 }

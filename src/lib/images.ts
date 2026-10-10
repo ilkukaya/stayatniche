@@ -89,6 +89,15 @@ export function ownPhoto(url: string | undefined, slug?: string): string | null 
   return null;
 }
 
+/**
+ * A free-licensed photo taken near the stay (public/images/area/<slug>--area.webp, from
+ * scripts/fetch-area-photos.mjs). Shown only when the stay has no photo of its own, and always
+ * labelled as the surrounding area.
+ */
+export function areaPhoto(slug?: string): string | null {
+  return (slug && INDEX.get(`${slug}--area`)) || null;
+}
+
 /** Muted tone per category for photo-less cards: [background, ink]. */
 export const CATEGORY_TONE: Record<string, [string, string]> = {
   'treehouse-hotels': ['#DCE5D6', '#23402C'],

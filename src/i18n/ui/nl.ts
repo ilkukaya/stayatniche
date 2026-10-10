@@ -98,6 +98,7 @@ const nl: typeof en = {
   },
   card: {
     editorsPick: 'Keuze van de redactie',
+    around: (place: string) => `Rond ${place}`,
     save: (name: string) => `${name} bewaren`,
     scoreTitle: 'Redactiescore op 10',
     from: 'Vanaf',
@@ -153,6 +154,7 @@ const nl: typeof en = {
     noPhoto: 'Foto’s van deze accommodatie vind je op de boekingspagina’s.',
     photo: 'Foto',
     viaCommons: 'via Wikimedia Commons',
+    areaPhoto: 'Foto van de omgeving',
     facts: { price: 'Gangbare prijs', ratesVary: 'Prijzen wisselen: check de actuele tarieven', level: 'Prijsklasse', bestTime: 'Beste reistijd', checkInOut: 'In- / uitchecken', bestFor: 'Ideaal voor', score: 'Redactiescore' },
     why: 'Waarom het op de lijst staat',
     included: 'Wat is inbegrepen',
