@@ -66289,7 +66289,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "England",
@@ -66317,7 +66317,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:11:37.532Z"
+  "reviewedAt": "2026-10-08T21:11:37.532Z",
+  "slug": "peckforton-castle-united-kingdom"
  },
  "osm:node/3407057492": {
   "id": "osm:node/3407057492",
@@ -86343,7 +86344,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "country house, now hotel, in Highland, Scotland, UK",
@@ -86373,7 +86374,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:00.335Z"
+  "reviewedAt": "2026-10-08T21:12:00.335Z",
+  "slug": "inverlochy-castle-hotel-united-kingdom"
  },
  "osm:node/4707381791": {
   "id": "osm:node/4707381791",
@@ -92342,7 +92344,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -92370,7 +92372,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:19.266Z"
+  "reviewedAt": "2026-10-08T21:12:19.266Z",
+  "slug": "dornoch-castle-hotel-united-kingdom"
  },
  "osm:node/5070964386": {
   "id": "osm:node/5070964386",
@@ -96060,7 +96063,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Stainmore, Westmorland and Furness, Cumbria, England, UK",
@@ -96090,7 +96093,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:11:51.501Z"
+  "reviewedAt": "2026-10-08T21:11:51.501Z",
+  "slug": "augill-castle-united-kingdom"
  },
  "osm:node/5316588155": {
   "id": "osm:node/5316588155",
@@ -98419,7 +98423,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -98447,7 +98451,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:25.347Z"
+  "reviewedAt": "2026-10-08T21:12:25.347Z",
+  "slug": "dalhousie-castle-united-kingdom"
  },
  "osm:node/5420299326": {
   "id": "osm:node/5420299326",
@@ -116442,7 +116447,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Scotland",
@@ -116470,7 +116475,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:09.215Z"
+  "reviewedAt": "2026-10-08T21:12:09.215Z",
+  "slug": "barony-castle-hotel-united-kingdom"
  },
  "osm:node/7014108085": {
   "id": "osm:node/7014108085",
@@ -125246,7 +125252,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Northern Ireland",
@@ -125274,7 +125280,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:30.172Z"
+  "reviewedAt": "2026-10-08T21:12:30.172Z",
+  "slug": "killeavy-castle-estate-united-kingdom"
  },
  "osm:node/8315402616": {
   "id": "osm:node/8315402616",
@@ -138838,7 +138845,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "hotel with two restaurants located in the centre of Taunton, Somerset, England, UK",
@@ -138867,7 +138874,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:32.214Z"
+  "reviewedAt": "2026-10-08T21:12:32.214Z",
+  "slug": "the-castle-hotel-taunton-united-kingdom"
  },
  "osm:relation/1116454": {
   "id": "osm:relation/1116454",
@@ -139531,7 +139539,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Highland, Scotland, UK",
@@ -139561,7 +139569,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:11:46.267Z"
+  "reviewedAt": "2026-10-08T21:11:46.267Z",
+  "slug": "tulloch-castle-hotel-united-kingdom"
  },
  "osm:relation/13599015": {
   "id": "osm:relation/13599015",
@@ -139819,7 +139828,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed quadrangular castle in County Durham, England, UK",
@@ -139849,7 +139858,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:30:07.537Z"
+  "reviewedAt": "2026-10-10T07:30:07.537Z",
+  "reviewNote": "Only a Wikipedia line says it is a hotel; the operator site could not be read, so there is no evidence of rooms or the stay itself."
  },
  "osm:relation/14769948": {
   "id": "osm:relation/14769948",
@@ -140236,7 +140246,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -140266,7 +140276,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:28.800Z"
+  "reviewedAt": "2026-10-10T07:33:28.800Z",
+  "reviewNote": "Listed as a YHA hostel; no evidence that guests sleep inside the castle."
  },
  "osm:relation/18794909": {
   "id": "osm:relation/18794909",
@@ -142534,7 +142545,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed English country house in Walworth, Darlington, County Durham , England, UK",
@@ -142564,7 +142575,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:04.649Z"
+  "reviewedAt": "2026-10-08T21:12:04.649Z",
+  "slug": "walworth-castle-hotel-united-kingdom"
  },
  "osm:way/1000028853": {
   "id": "osm:way/1000028853",
@@ -153911,7 +153923,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed castle in Langley, Northumberland, England, UK",
@@ -153940,7 +153952,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:15.349Z"
+  "reviewedAt": "2026-10-08T21:12:15.349Z",
+  "slug": "langley-castle-hotel-united-kingdom"
  },
  "osm:way/1239529065": {
   "id": "osm:way/1239529065",
@@ -161209,7 +161222,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Northern Ireland",
@@ -161237,7 +161250,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:23.168Z"
+  "reviewedAt": "2026-10-10T07:33:23.168Z",
+  "slug": "glenarm-castle-ocean-view-pods-united-kingdom"
  },
  "osm:way/1413182458": {
   "id": "osm:way/1413182458",
@@ -167801,7 +167815,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "England",
@@ -167829,7 +167843,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:17.352Z"
+  "reviewedAt": "2026-10-10T07:33:17.352Z",
+  "reviewNote": "A language school residence offered with courses, not bookable as a stay by travellers."
  },
  "osm:way/155166582": {
   "id": "osm:way/155166582",
@@ -176986,7 +177001,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "hotel in Barmouth, United Kingdom",
@@ -177012,7 +177027,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:30:01.225Z"
+  "reviewedAt": "2026-10-10T07:30:01.225Z",
+  "slug": "tyr-graig-castle-united-kingdom"
  },
  "osm:way/227365477": {
   "id": "osm:way/227365477",
@@ -178105,7 +178121,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -178135,7 +178151,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:30.783Z"
+  "reviewedAt": "2026-10-10T07:33:30.783Z",
+  "reviewNote": "No evidence of rooms or bookable stay (website unreadable; only OSM tag and Wikipedia)."
  },
  "osm:way/232134839": {
   "id": "osm:way/232134839",
@@ -181437,7 +181454,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Highland, Scotland, UK",
@@ -181464,7 +181481,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:34.684Z"
+  "reviewedAt": "2026-10-10T07:33:34.684Z",
+  "reviewNote": "No evidence of rooms or bookable stay (website unreadable; only OSM tag and Wikipedia)."
  },
  "osm:way/254707509": {
   "id": "osm:way/254707509",
@@ -181934,7 +181952,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -181964,7 +181982,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:34.344Z"
+  "reviewedAt": "2026-10-08T21:12:34.344Z",
+  "slug": "torrisdale-castle-estate-united-kingdom"
  },
  "osm:way/256677482": {
   "id": "osm:way/256677482",
@@ -185497,7 +185516,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Barcaldine, Scotland",
@@ -185527,7 +185546,8 @@
    "decidedAt": "2026-10-09"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-10T07:33:32.850Z"
+  "reviewedAt": "2026-10-10T07:33:32.850Z",
+  "reviewNote": "No evidence of rooms or bookable stay (website returned an empty page)."
  },
  "osm:way/282764419": {
   "id": "osm:way/282764419",
@@ -191753,7 +191773,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed hotel in Stutton with Hazlewood, Selby, North Yorkshire, England, UK",
@@ -191783,7 +191803,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:11:54.118Z"
+  "reviewedAt": "2026-10-08T21:11:54.118Z",
+  "slug": "hazlewood-castle-and-spa-united-kingdom"
  },
  "osm:way/329732769": {
   "id": "osm:way/329732769",
@@ -193216,7 +193237,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "mansion in Midlothian, Scotland, UK",
@@ -193246,7 +193267,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:12:02.187Z"
+  "reviewedAt": "2026-10-08T21:12:02.187Z",
+  "slug": "melville-castle-united-kingdom"
  },
  "osm:way/343190497": {
   "id": "osm:way/343190497",
@@ -211927,7 +211949,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "house in Scargill, County Durham, England, UK",
@@ -211957,7 +211979,8 @@
    "decidedAt": "2026-10-08"
   },
   "finalCategory": "castle-hotels",
-  "reviewedAt": "2026-10-08T21:11:43.649Z"
+  "reviewedAt": "2026-10-08T21:11:43.649Z",
+  "slug": "scargill-castle-united-kingdom"
  },
  "osm:way/544417619": {
   "id": "osm:way/544417619",
