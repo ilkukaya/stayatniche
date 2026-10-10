@@ -1620,5 +1620,255 @@
     "distanceKm": 0.8,
     "kind": "area",
     "place": "Hanazono"
+  },
+  "area:aerie-resort-washington": {
+    "author": "Jon Roanhaus",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lake_Chelan_Hydroelectric_Powerplant_NRHP_88002739_Chelan_County,_WA.jpg",
+    "title": "Lake Chelan Hydroelectric Powerplant NRHP 88002739 Chelan County, WA.jpg",
+    "distanceKm": 1.7,
+    "kind": "area",
+    "place": "Chelan County"
+  },
+  "area:anantara-maldives-underwater": {
+    "author": "7777777kz",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baa_Atoll,_Maldives_-_panoramio_(23).jpg",
+    "title": "Baa Atoll, Maldives - panoramio (23).jpg",
+    "distanceKm": 4.7,
+    "kind": "area",
+    "place": "Baa Atoll"
+  },
+  "area:awasi-atacama-chile": {
+    "author": "Christer T Johansson",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Pedro_de_Atacama-CTJ-IMG_5508.jpg",
+    "title": "San Pedro de Atacama-CTJ-IMG 5508.jpg",
+    "distanceKm": 0.9,
+    "kind": "area",
+    "place": "San Pedro de Atacama"
+  },
+  "area:cappadocia-inans-cave-suites-turkey": {
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nev%C5%9Fehir_Kaya%C5%9Fehir_5054b.jpg",
+    "title": "Nevşehir Kayaşehir 5054b.jpg",
+    "distanceKm": 2.4,
+    "kind": "area",
+    "place": "Nevşehir"
+  },
+  "cristalino-lodge-brazil": {
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cristalino_Lodge,_Alta_Floresta,_Mato_Grosso,_Brazil.jpg",
+    "title": "Cristalino Lodge, Alta Floresta, Mato Grosso, Brazil.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Cristalino Lodge"
+  },
+  "area:fastnet-lighthouse-ireland": {
+    "author": "Colin Park",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fastnet_Rock_Lighthouse_-_geograph.org.uk_-_6008802.jpg",
+    "title": "Fastnet Rock Lighthouse - geograph.org.uk - 6008802.jpg",
+    "distanceKm": 2.4,
+    "kind": "area",
+    "place": "Schull"
+  },
+  "area:floating-seahorse-dubai": {
+    "author": "sohrab alizadeh",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Persian_gulf_beach_-_panoramio.jpg",
+    "title": "Persian gulf beach - panoramio.jpg",
+    "distanceKm": 3.7,
+    "kind": "area",
+    "place": "The World Islands"
+  },
+  "area:free-spirit-spheres-canada": {
+    "author": "Doug Wortley",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MABR_Spider_Lake_Arrowsmith_Aerial_Photography.jpg",
+    "title": "MABR Spider Lake Arrowsmith Aerial Photography.jpg",
+    "distanceKm": 3.8,
+    "kind": "area",
+    "place": "Vancouver Island"
+  },
+  "inkaterra-machu-picchu": {
+    "author": "David Berkowitz from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inkaterra_Machu_Picchu_Pueblo_Hotel_and_Nature_Reserve_-_Aguas_Calientes,_Peru_(4875678231).jpg",
+    "title": "Inkaterra Machu Picchu Pueblo Hotel and Nature Reserve - Aguas Calientes, Peru (4875678231).jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Inkaterra Machu Picchu Pueblo Hotel"
+  },
+  "area:jao-camp-botswana": {
+    "author": "Scott Crabtree",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Kobus_leche_leche_207414151.jpg",
+    "title": "Kobus leche leche 207414151.jpg",
+    "distanceKm": 5,
+    "kind": "area",
+    "place": "Jao Concession"
+  },
+  "area:jules-undersea-lodge-florida": {
+    "author": "Serge Melki from Indianapolis, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Take_me_back_(6134166454).jpg",
+    "title": "Take me back (6134166454).jpg",
+    "distanceKm": 0.9,
+    "kind": "area",
+    "place": "Key Largo"
+  },
+  "area:juvet-landscape-hotel-norway": {
+    "author": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gudbrandsjuvet_03.jpg",
+    "title": "Gudbrandsjuvet 03.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Alnes"
+  },
+  "area:kelebek-special-cave-hotel-turkey": {
+    "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20180109_G%C3%B6remeUchisar_3059_(39022624555).jpg",
+    "title": "20180109 GöremeUchisar 3059 (39022624555).jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:la-cabane-perchee-france": {
+    "author": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Beynac_Chapelle_Dordogne_10.jpg",
+    "title": "Château de Beynac Chapelle Dordogne 10.jpg",
+    "distanceKm": 1.2,
+    "kind": "area",
+    "place": "Dordogne Valley"
+  },
+  "area:londolozi-varty-camp-south-africa": {
+    "author": "Mike's Birds from Riverside, CA, US",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vervet_Monkeys_(6623591499).jpg",
+    "title": "Vervet Monkeys (6623591499).jpg",
+    "distanceKm": 2.3,
+    "kind": "area",
+    "place": "Sabi Sand Game Reserve"
+  },
+  "area:manshausen-island-resort-norway": {
+    "author": "Dirk Kohlmann",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%B8t%C3%B8y_i_Nordland,_Nordnorge,_112.jpg",
+    "title": "Grøtøy i Nordland, Nordnorge, 112.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Steigen Archipelago"
+  },
+  "area:mashpi-lodge-ecuador": {
+    "author": "Don Henise",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mashpi_2015-06-07_(2)_(38580488230).jpg",
+    "title": "Mashpi 2015-06-07 (2) (38580488230).jpg",
+    "distanceKm": 4,
+    "kind": "area",
+    "place": "Mashpi"
+  },
+  "area:misool-eco-resort-indonesia": {
+    "author": "Naturalis Biodiversity Center",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Palaiargia_micropsitta_Lieftinck,_1957_2432737215.jpg",
+    "title": "Palaiargia micropsitta Lieftinck, 1957 2432737215.jpg",
+    "distanceKm": 9.3,
+    "kind": "area",
+    "place": "Raja Ampat"
+  },
+  "area:niku-hide-finland": {
+    "author": "State Chancellery of Latvia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:V.Dombrovskis_Somij%C4%81_piedal%C4%81s_Eiropas_l%C4%ABderu_neform%C4%81laj%C4%81_san%C4%81ksm%C4%93_(8585110391).jpg",
+    "title": "V.Dombrovskis Somijā piedalās Eiropas līderu neformālajā sanāksmē (8585110391).jpg",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Saariselkä"
+  },
+  "area:portland-bill-lighthouse-england": {
+    "author": "Ben Brooksbank",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_Bill_geograph-4102425-by-Ben-Brooksbank.jpg",
+    "title": "Portland Bill geograph-4102425-by-Ben-Brooksbank.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Portland"
+  },
+  "area:romantic-cave-hotel-turkey": {
+    "author": "brewbooks from near Seattle, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Erciyes_-_Flickr_-_brewbooks.jpg",
+    "title": "Mount Erciyes - Flickr - brewbooks.jpg",
+    "distanceKm": 3.4,
+    "kind": "area",
+    "place": "Ürgüp"
+  },
+  "area:scarabeo-camp-morocco": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Agafay_Desert,_Morocco,_20250125_1802_7285.jpg",
+    "title": "Agafay Desert, Morocco, 20250125 1802 7285.jpg",
+    "distanceKm": 2.7,
+    "kind": "area",
+    "place": "Agafay Desert"
+  },
+  "area:shinta-mani-wild-cambodia": {
+    "author": "Gerard Chartier",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macaca_leonina_394276795.jpg",
+    "title": "Macaca leonina 394276795.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Cardamom Mountains"
+  },
+  "area:tierra-patagonia-chile": {
+    "author": "Draceane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parque_nacional_Torres_del_Paine,_2019_0621.jpg",
+    "title": "Parque nacional Torres del Paine, 2019 0621.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Torres del Paine"
+  },
+  "area:utopia-cave-cappadocia-turkey": {
+    "author": "Korkut Tas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asmali_Konak_-_panoramio.jpg",
+    "title": "Asmali Konak - panoramio.jpg",
+    "distanceKm": 0.6,
+    "kind": "area",
+    "place": "Ürgüp"
   }
 }
