@@ -47,24 +47,22 @@ Der internationale Flughafen Kigali wird inzwischen direkt aus Brüssel, London,
 
 ## Anreise
 
-**Flüge:** Der internationale Flughafen Kigali (KGL) wird direkt aus Brüssel (RwandAir und Brussels Airlines), London-Gatwick, Nairobi, Addis Abeba, Dubai und Johannesburg angeflogen. Qatar Airways und Kenya Airways bieten über ihre Drehkreuze Verbindungen aus Asien, Amerika und dem übrigen Afrika. Flüge suchen und vergleichen Sie bei [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Rwanda/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/rwanda).
+**Flüge:** Der internationale Flughafen Kigali (KGL) wird direkt aus Brüssel (RwandAir und Brussels Airlines), London-Gatwick, Nairobi, Addis Abeba, Dubai und Johannesburg angeflogen. Qatar Airways und Kenya Airways bieten über ihre Drehkreuze Verbindungen aus Asien, Amerika und dem übrigen Afrika. Vergleichen Sie die Preise und buchen Sie Flüge frühzeitig.
 
-**Flughafentransfer:** Der Flughafen von Kigali liegt 12 km vom Stadtzentrum entfernt. Private Transfers buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kigali) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kigali). Die meisten Lodges nahe dem Volcanoes National Park holen Sie direkt am Flughafen ab, um die Fahrzeit über Land zu verkürzen.
+**Flughafentransfer:** Der Flughafen von Kigali liegt 12 km vom Stadtzentrum entfernt. Private Transfers buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Kigali%20airport%20transfer). Die meisten Lodges nahe dem Volcanoes National Park holen Sie direkt am Flughafen ab, um die Fahrzeit über Land zu verkürzen.
 
 ## Unterwegs vor Ort
 
-**Mietwagen mit Fahrer:** So reist man in Ruanda üblicherweise. Die Straßen sind für regionale Verhältnisse hervorragend; von Kigali zum Volcanoes National Park sind es 2,5 Stunden, zum Nyungwe-Wald 4 Stunden, nach Akagera 2,5 Stunden. Preise für Mietwagen ohne Fahrer vergleichen Sie bei [QEEQ](https://www.qeeq.com/search?q=Rwanda) – für die Parkregionen, in denen Ortskenntnis zählt, empfiehlt sich jedoch ein Fahrer.
+**Mietwagen mit Fahrer:** So reist man in Ruanda üblicherweise. Die Straßen sind für regionale Verhältnisse hervorragend; von Kigali zum Volcanoes National Park sind es 2,5 Stunden, zum Nyungwe-Wald 4 Stunden, nach Akagera 2,5 Stunden. Preise für Mietwagen ohne Fahrer vergleichen Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20car%20rental) – für die Parkregionen, in denen Ortskenntnis zählt, empfiehlt sich jedoch ein Fahrer.
 
 **Motorradtaxis (Motos):** Das allgegenwärtige Stadtverkehrsmittel in Kigali – sicher, schnell und günstig. Genormte Helme sind Pflicht und werden gestellt.
 
 ## Touren und Erlebnisse
 
-Gorilla-Trekking-Genehmigungen (vergeben vom Rwanda Development Board, 1.500 $ pro Person), Goldmeerkatzen-Tracking, Schimpansen-Habituierung im Nyungwe und Führungen zu den Genozid-Gedenkstätten in Kigali buchen Sie über [Viator](https://www.viator.com/Rwanda/d5453-ttd). Ballonfahrten über Ruandas tausend Hügel sind eine außergewöhnliche Ergänzung. Kulturerlebnisse und Besuche lokaler Märkte lassen sich über [WeGoTrip](https://wegotrip.com/destinations/rwanda/) buchen.
+Gorilla-Trekking-Genehmigungen (vergeben vom Rwanda Development Board, 1.500 $ pro Person), Goldmeerkatzen-Tracking, Schimpansen-Habituierung im Nyungwe und Führungen zu den Genozid-Gedenkstätten in Kigali buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Ballonfahrten über Ruandas tausend Hügel sind eine außergewöhnliche Ergänzung. Kulturerlebnisse und Besuche lokaler Märkte lassen sich über [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20cultural%20experience) buchen.
 
 ## Reise-Essentials
 
-**eSIM:** Besorgen Sie sich eine Ruanda-eSIM bei [Airalo](https://www.airalo.com). MTN Rwanda bietet die beste Abdeckung, auch rund um die Parks Volcanoes und Nyungwe. Viele Lodges haben WLAN per Satellit.
+**eSIM:** Besorgen Sie sich eine Ruanda-eSIM bei [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM). MTN Rwanda bietet die beste Abdeckung, auch rund um die Parks Volcanoes und Nyungwe. Viele Lodges haben WLAN per Satellit.
 
-**Reiseversicherung:** Bei abgelegenen Lodges ist der medizinische Rücktransport nach Nairobi oder Johannesburg das entscheidende Risiko. [SafetyWing](https://safetywing.com) schließt Evakuierungen ein und deckt Gorilla-Trekking als Abenteueraktivität ab.
-
-**VPN:** [NordVPN](https://nordvpn.com) oder [ExpressVPN](https://expressvpn.com), um an den Abenden in der Lodge Streamingdienste zu nutzen.
+**Reiseversicherung:** Bei abgelegenen Lodges ist der medizinische Rücktransport nach Nairobi oder Johannesburg das entscheidende Risiko. Achten Sie darauf, dass Ihre Police Evakuierungen einschließt und Gorilla-Trekking als Abenteueraktivität abdeckt.

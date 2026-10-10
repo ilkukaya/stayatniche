@@ -37,24 +37,22 @@ Die Negev-Wüste – sie bedeckt 60 % der Landesfläche – ist jener Teil Israe
 
 ## Anreise
 
-**Flüge:** Der internationale Flughafen Ben Gurion (TLV) bei Tel Aviv ist Israels wichtigstes Tor zur Welt, mit Direktflügen aus allen europäischen Hauptstädten, aus Nordamerika und von den großen asiatischen Drehkreuzen. Der Flughafen Ramon (ETM) bei Eilat bedient Regionalverbindungen und Charterflüge. Flüge suchen und vergleichen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Israel/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/israel).
+**Flüge:** Der internationale Flughafen Ben Gurion (TLV) bei Tel Aviv ist Israels wichtigstes Tor zur Welt, mit Direktflügen aus allen europäischen Hauptstädten, aus Nordamerika und von den großen asiatischen Drehkreuzen.
 
-**Flughafentransfer:** Ben Gurion liegt 20 km von Tel Aviv und 50 km von Jerusalem entfernt. Züge fahren alle 30 Minuten ins Stadtzentrum von Tel Aviv. Private Transfers – besonders praktisch bei später Ankunft oder für die Fahrt nach Jerusalem – buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tel+Aviv) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tel+Aviv).
+**Flughafentransfer:** Ben Gurion liegt 20 km von Tel Aviv und 50 km von Jerusalem entfernt. Züge fahren alle 30 Minuten ins Stadtzentrum von Tel Aviv. Private Transfers – besonders praktisch bei später Ankunft oder für die Fahrt nach Jerusalem – buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Tel%20Aviv%20airport%20transfer).
 
 ## Unterwegs vor Ort
 
-**Mietwagen:** Für den Negev und Galiläa unverzichtbar. Israels Straßen sind hervorragend und auf Hebräisch und Englisch gut ausgeschildert. Mietpreise vergleichen Sie bei [Localrent](https://localrent.com/en/?location=Israel), [QEEQ](https://www.qeeq.com/search?q=Israel) oder [AutoEurope](https://www.autoeurope.com/?location=Israel). Hinweis: Meiden Sie die billigsten lokalen Anbieter; die Qualität schwankt erheblich.
+**Mietwagen:** Für den Negev und Galiläa unverzichtbar. Israels Straßen sind hervorragend und auf Hebräisch und Englisch gut ausgeschildert. Mietpreise vergleichen Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20car%20rental). Hinweis: Meiden Sie die billigsten lokalen Anbieter; die Qualität schwankt erheblich.
 
 **Bahn und Bus:** Das Schienennetz verbindet Tel Aviv, Jerusalem, Haifa, Be'er Scheva und Naharija. Die Busgesellschaften Egged und Dan bedienen Strecken ohne Bahnanschluss. In Jerusalem ist die Stadtbahn praktisch. Hinweis: Am Schabbat fahren keine öffentlichen Verkehrsmittel.
 
 ## Touren und Erlebnisse
 
-Führungen durch die Altstadt von Jerusalem, Tagesausflüge ans Tote Meer, geführte Wanderungen im Machtesch Ramon und Sonnenaufgänge auf Masada buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Israel) und [Viator](https://www.viator.com/Israel/d724-ttd). Jeeptouren durch den Negev und Aufenthalte in Beduinencamps bieten zahlreiche regionale Veranstalter an. Weintouren auf dem Golan und in Galiläa lassen sich über [WeGoTrip](https://wegotrip.com/destinations/israel/) buchen.
+Führungen durch die Altstadt von Jerusalem, Tagesausflüge ans Tote Meer, geführte Wanderungen im Machtesch Ramon und Sonnenaufgänge auf Masada buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Israel). Jeeptouren durch den Negev und Aufenthalte in Beduinencamps bieten zahlreiche regionale Veranstalter an. Weintouren auf dem Golan und in Galiläa lassen sich ebenso buchen.
 
 ## Reise-Essentials
 
-**eSIM:** Israel hat ein hervorragendes 4G/5G-Netz, auch entlang der Fernstraßen durch den Negev; in abgelegener Wüste bricht das Signal jedoch ab. Besorgen Sie sich eine Israel-eSIM bei [Airalo](https://www.airalo.com) – Cellcom und Partner haben die beste Abdeckung auf dem Land.
+**eSIM:** Israel hat ein hervorragendes 4G/5G-Netz, auch entlang der Fernstraßen durch den Negev; in abgelegener Wüste bricht das Signal jedoch ab. Besorgen Sie sich eine Israel-eSIM bei [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20eSIM) – Cellcom und Partner haben die beste Abdeckung auf dem Land.
 
-**Reiseversicherung:** Herkömmliche Reiseversicherungen decken Israel ab; manche Policen schließen konfliktnahe Gebiete aus. Prüfen Sie Ihre Police genau. [SafetyWing](https://safetywing.com) versichert auch Abenteueraktivitäten wie Wüstenwanderungen und Tauchen.
-
-**VPN:** [NordVPN](https://nordvpn.com) oder [ExpressVPN](https://expressvpn.com) sind nützlich, um auf Inhalte aus der Heimat zuzugreifen und Ihre Privatsphäre in Hotelnetzen zu schützen.
+**Reiseversicherung:** Herkömmliche Reiseversicherungen decken Israel ab; manche Policen schließen konfliktnahe Gebiete aus. Prüfen Sie Ihre Police genau.

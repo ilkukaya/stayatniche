@@ -90,13 +90,13 @@ Zur Verbindung nach Fort William: Der Ort selbst ist bescheiden, aber er ist das
 
 Manche Nachtzugrouten durch Europa erfordern an einem Ende noch immer einen Flug – Sie fliegen zu einem großen Drehkreuz und reisen dann mit der Bahn weiter. Das ist oft der beste Ansatz: ein Langstreckenflug statt zwei oder drei Kurzstreckenflügen, während die Bahn die Verbindungen innerhalb des Kontinents übernimmt.
 
-Für den Transatlantik- oder Asien-Pazifik-Flug suchen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Europe/anytime/anytime) oder [Aviasales](https://www.aviasales.com/search/to/europe). Die besten Kombinationen aus Bahn und Flug:
+Planen Sie zuerst den Transatlantik- oder Asien-Pazifik-Flug und bauen Sie die Bahnabschnitte darum herum. Die besten Kombinationen aus Bahn und Flug:
 
 - **Flug nach London, dann per Bahn nach Süden und Osten:** Mit dem Eurostar nach Paris, dann im Nightjet nach Wien oder Barcelona. Ein Flug, drei Länder per Zug.
 - **Flug nach Amsterdam:** Die niederländischen Bahnverbindungen gehen nahtlos in das deutsche ICE-Netz über. Ab Amsterdam steigen Sie in den European Sleeper nach Prag, ohne den Flughafen wechseln zu müssen.
 - **Flug nach Zürich:** Als Bahndrehkreuz ist die Schweiz der Ausgangspunkt für Nachtzüge nach Italien und Südfrankreich.
 
-**Flughafentransfers an diesen Drehkreuzen:** Private Transfers mit Fahrer ab den großen europäischen Flughäfen buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/) – besonders praktisch, wenn Sie von einem Langstreckenflug kommen und noch am selben Abend in einen Nachtzug steigen.
+**Flughafentransfers an diesen Drehkreuzen:** Private Transfers mit Fahrer ab den großen europäischen Flughäfen buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20airport%20transfer) – besonders praktisch, wenn Sie von einem Langstreckenflug kommen und noch am selben Abend in einen Nachtzug steigen.
 
 ---
 
@@ -106,7 +106,7 @@ Die Nachtzugreise ist in den meisten Fällen ausdrücklich ein Reisemodell ohne 
 
 Die Ausnahme: wenn Ihre Route ländliche Ziele abseits des Hauptnetzes umfasst. Die schottischen Highlands, das Loiretal, die Toskana, die norwegischen Fjorde – sie alle lassen sich mit dem Auto deutlich besser erkunden. In diesen Fällen fliegen oder fahren Sie per Zug in die nächstgelegene Knotenstadt und übernehmen dort einen Mietwagen.
 
-Mietwagen in Europa vergleichen Sie auf [AutoEurope](https://www.autoeurope.com/?location=Europe), [QEEQ](https://www.qeeq.com/search?q=Europe) und [Localrent](https://localrent.com/en/) für Angebote lokaler Vermieter. Für Reisen mit dem Elektroauto – in Skandinavien und Deutschland zunehmend praktikabel – bieten diese Plattformen inzwischen eigene Suchfilter für E-Fahrzeuge.
+Mietwagen in Europa vergleichen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20car%20rental). Für Reisen mit dem Elektroauto – in Skandinavien und Deutschland zunehmend praktikabel – achten Sie bei der Suche auf Elektrofahrzeuge.
 
 ---
 
@@ -114,9 +114,9 @@ Mietwagen in Europa vergleichen Sie auf [AutoEurope](https://www.autoeurope.com/
 
 Das Nachtzugmodell ist so effizient, weil die Fahrt in der Nacht stattfindet. Die Tage gehören ganz dem Reiseziel. Die Städte, die sich für eine Ankunft mit dem Nachtzug anbieten, haben hervorragende Erlebnisse vor Ort:
 
-- **Wien:** Weintouren, Opernkarten (ein Stehplatz in der Staatsoper kostet 4 € und ist jeden Cent wert) und Tickets ohne Anstehen für das Kunsthistorische Museum buchen Sie auf [Viator](https://www.viator.com/Vienna/d479-ttd) oder [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
+- **Wien:** Weintouren, Opernkarten (ein Stehplatz in der Staatsoper kostet 4 € und ist jeden Cent wert) und Tickets ohne Anstehen für das Kunsthistorische Museum buchen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
 - **Paris:** Seine-Rundfahrten, Eiffelturm ohne Anstehen, Führungen über den Friedhof Père Lachaise und Kochkurse – alles buchbar auf [Klook](https://www.klook.com/en-US/search-results/?query=Paris).
-- **Schottische Highlands (ab Inverness oder Fort William):** Bootstouren auf dem Loch Ness, geführte Wanderungen in Glencoe und Besuche von Whiskybrennereien auf [Viator](https://www.viator.com/Inverness/d5458-ttd).
+- **Schottische Highlands (ab Inverness oder Fort William):** Bootstouren auf dem Loch Ness, geführte Wanderungen in Glencoe und Besuche von Whiskybrennereien auf [Klook](https://www.klook.com/en-US/search-results/?query=Inverness).
 
 ---
 
@@ -124,9 +124,9 @@ Das Nachtzugmodell ist so effizient, weil die Fahrt in der Nacht stattfindet. Di
 
 Für EU-Bürger regelt die EU das Roaming, doch Reisende von außerhalb der EU zahlen in den verschiedenen nationalen Netzen Roaminggebühren. Eine eSIM löst das Problem:
 
-Die Europa-eSIM von [Airalo](https://www.airalo.com) deckt mit einem einzigen Tarif mehr als 30 europäische Länder ab – meist 10 GB für 20–25 $. Sie wechselt automatisch zwischen den nationalen Netzen, während Ihr Nachtzug die Grenzen überquert, und hält Sie ohne jede Einstellung verbunden. Installieren Sie sie vor der Abreise und aktivieren Sie sie bei der Landung.
+Eine Europa-eSIM von [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20eSIM) deckt mit einem einzigen Tarif mehr als 30 europäische Länder ab – meist 10 GB für 20–25 $. Sie wechselt automatisch zwischen den nationalen Netzen, während Ihr Nachtzug die Grenzen überquert, und hält Sie ohne jede Einstellung verbunden. Installieren Sie sie vor der Abreise und aktivieren Sie sie bei der Landung.
 
-Nur für Großbritannien (Caledonian Sleeper): Eine eigene UK-eSIM von Airalo (meist 12–15 £ für 10 GB) ist für eine Reise in nur ein Land günstiger als der Europatarif.
+Nur für Großbritannien (Caledonian Sleeper): Eine eigene UK-eSIM (meist 12–15 £ für 10 GB) ist für eine Reise in nur ein Land günstiger als der Europatarif.
 
 ---
 

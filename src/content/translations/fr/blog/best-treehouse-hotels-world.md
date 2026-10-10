@@ -16,7 +16,7 @@ Le légendaire Treehotel suédois est la référence absolue. Sept chambres sign
 
 **Idéal pour :** les amoureux d'architecture, les chasseurs d'aurores, les passionnés de design
 **Prix :** à partir de 300 $ la nuit
-**[Voir les tarifs →](https://www.booking.com/hotel/se/treehotel.html)**
+**[Voir les tarifs →](https://www.expedia.com/Hotel-Search?destination=Harads%2C%20Sweden)**
 
 
 Nichées au cœur de la forêt de nuages de Monteverde, ces suites-cabanes de luxe vous plongent au milieu de l'extraordinaire biodiversité du Costa Rica. Réveillez-vous au son des singes hurleurs et observez colibris et quetzals resplendissants depuis votre terrasse privée.

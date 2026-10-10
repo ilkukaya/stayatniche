@@ -43,13 +43,13 @@ Ce qui définit le plus la Norvège, c’est la lumière, ou plutôt ses extrêm
 
 ## Comment s’y rendre
 
-**Vols :** Oslo-Gardermoen (OSL) est la principale plateforme du pays, avec des liaisons dans toute l’Europe et des long-courriers directs depuis New York, Chicago et les grandes villes d’Asie. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) et Bodø (BOO) sont toutes desservies en direct depuis l’Europe : atterrir dans ces aéroports régionaux pour un itinéraire dans les fjords évite complètement le trajet Oslo-fjords. Recherchez et comparez les vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Norway/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/norway).
+**Vols :** Oslo-Gardermoen (OSL) est la principale plateforme du pays, avec des liaisons dans toute l’Europe et des long-courriers directs depuis New York, Chicago et les grandes villes d’Asie. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) et Bodø (BOO) sont toutes desservies en direct depuis l’Europe : atterrir dans ces aéroports régionaux pour un itinéraire dans les fjords évite complètement le trajet Oslo-fjords.
 
-**Transfert depuis l’aéroport :** le train Flytoget relie Gardermoen à la gare centrale d’Oslo en 19 minutes. Pour un transfert privé jusqu’à votre hôtel ou vers les fjords, réservez via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Oslo) ou [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Oslo).
+**Transfert depuis l’aéroport :** le train Flytoget relie Gardermoen à la gare centrale d’Oslo en 19 minutes. Pour un transfert privé jusqu’à votre hôtel ou vers les fjords, réservez via [Klook](https://www.klook.com/en-US/search-results/?query=Oslo%20airport%20transfer).
 
 ## Se déplacer
 
-**Location de voiture :** les Routes touristiques nationales (18 itinéraires désignés) et la région des fjords se découvrent idéalement en voiture. Les routes sont excellentes ; en hiver, les pneus hiver sont obligatoires (d’octobre à avril). Comparez les tarifs sur [Localrent](https://localrent.com/en/?location=Norway), [QEEQ](https://www.qeeq.com/search?q=Norway) et [AutoEurope](https://www.autoeurope.com/?location=Norway). La location de voitures électriques est simple : la Norvège affiche le plus fort taux d’adoption au monde et des bornes sur la plupart des itinéraires.
+**Location de voiture :** les Routes touristiques nationales (18 itinéraires désignés) et la région des fjords se découvrent idéalement en voiture. Les routes sont excellentes ; en hiver, les pneus hiver sont obligatoires (d’octobre à avril). Comparez les tarifs sur [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20car%20rental). La location de voitures électriques est simple : la Norvège affiche le plus fort taux d’adoption au monde et des bornes sur la plupart des itinéraires.
 
 **Ferries :** indispensables dans les fjords, où de nombreuses traversées n’ont aucune alternative routière. L’Hurtigruten, l’express côtier de Bergen à Kirkenes, met 6 jours et compte parmi les plus grands voyages maritimes du monde. Les bacs pour voitures se réservent auprès de Fjord1 et Norled ; en été, réservez à l’avance.
 
@@ -57,12 +57,10 @@ Ce qui définit le plus la Norvège, c’est la lumière, ou plutôt ses extrêm
 
 ## Excursions et activités
 
-Réservez vos sorties en kayak sur le Geirangerfjord, vos safaris aurores boréales depuis Tromsø, vos balades en chiens de traîneau dans le Finnmark et vos excursions dans le fjord de Flåm sur [Klook](https://www.klook.com/en-US/search-results/?query=Norway) et [Viator](https://www.viator.com/Norway/d78-ttd). Pour une expédition polaire au Svalbard (saison de mars à octobre), mieux vaut passer par des voyagistes spécialistes de l’Arctique. Kayak de mer et randonnées glaciaires dans le secteur du Jostedalsbreen se réservent auprès des prestataires régionaux sur [WeGoTrip](https://wegotrip.com/destinations/norway/).
+Réservez vos sorties en kayak sur le Geirangerfjord, vos safaris aurores boréales depuis Tromsø, vos balades en chiens de traîneau dans le Finnmark et vos excursions dans le fjord de Flåm sur [Klook](https://www.klook.com/en-US/search-results/?query=Norway). Pour une expédition polaire au Svalbard (saison de mars à octobre), mieux vaut passer par des voyagistes spécialistes de l’Arctique. Kayak de mer et randonnées glaciaires dans le secteur du Jostedalsbreen se réservent auprès des prestataires régionaux.
 
 ## Infos pratiques
 
-**eSIM :** la couverture 4G est excellente sur tous les grands axes et en ville ; le signal faiblit au Svalbard et dans les fjords les plus reculés. Procurez-vous une eSIM norvégienne chez [Airalo](https://www.airalo.com) avant le départ : Telenor offre la meilleure couverture en zone rurale et au Svalbard.
+**eSIM :** la couverture 4G est excellente sur tous les grands axes et en ville ; le signal faiblit au Svalbard et dans les fjords les plus reculés. Procurez-vous une eSIM norvégienne chez [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20eSIM) avant le départ : Telenor offre la meilleure couverture en zone rurale et au Svalbard.
 
-**Assurance voyage :** indispensable pour les activités de plein air. Vérifiez que votre contrat couvre la randonnée en montagne (les opérations de secours à la Trolltunga et au Preikestolen coûtent cher). [SafetyWing](https://safetywing.com) couvre les sports d’aventure et l’évacuation d’urgence.
-
-**VPN :** [NordVPN](https://nordvpn.com), dont le siège est, ironie du sort, à Oslo, est un excellent choix pour voyager en Norvège. [ExpressVPN](https://expressvpn.com) est l’alternative fiable.
+**Assurance voyage :** indispensable pour les activités de plein air. Vérifiez que votre contrat couvre la randonnée en montagne (les opérations de secours à la Trolltunga et au Preikestolen coûtent cher). Vérifiez qu’elle couvre aussi les sports d’aventure et l’évacuation d’urgence.

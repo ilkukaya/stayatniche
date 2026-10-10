@@ -47,22 +47,20 @@ Der internationale Flughafen Ngurah Rai in Denpasar wird direkt aus Singapur, Ku
 
 ## Anreise
 
-**Flüge:** Der internationale Flughafen Ngurah Rai (DPS) in Denpasar wird direkt aus Singapur, Kuala Lumpur, Sydney, Melbourne, Tokio und Seoul angeflogen, aus europäischen Städten mit Emirates (über Dubai) und Qatar Airways. Billigfluggesellschaften wie AirAsia, Scoot und Jetstar bieten günstige Verbindungen im asiatisch-pazifischen Raum. Flüge suchen und vergleichen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Bali/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/bali).
+**Flüge:** Der internationale Flughafen Ngurah Rai (DPS) in Denpasar wird direkt aus Singapur, Kuala Lumpur, Sydney, Melbourne, Tokio und Seoul angeflogen, aus europäischen Städten mit Emirates (über Dubai) und Qatar Airways.
 
-**Flughafentransfer:** Vom Flughafen Denpasar sind es bei normalem Verkehr 30 Minuten nach Seminyak und 90 Minuten nach Ubud. Private Transfers buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Bali) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Bali). Bluebird-Taxis sind die zuverlässige Alternative mit Taxameter.
+**Flughafentransfer:** Vom Flughafen Denpasar sind es bei normalem Verkehr 30 Minuten nach Seminyak und 90 Minuten nach Ubud. Private Transfers buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20airport%20transfer). Bluebird-Taxis sind die zuverlässige Alternative mit Taxameter.
 
 ## Unterwegs vor Ort
 
-**Roller und Motorrad:** Das übliche Fortbewegungsmittel für Individualreisende auf Bali. Mieten ab 5 $ pro Tag; offiziell ist ein internationaler Führerschein nötig, doch die meisten Vermietungen nehmen es locker. Sicherer sind private Fahrer, die man tageweise bucht (40–60 $). Mietwagenpreise vergleichen Sie auf [Localrent](https://localrent.com/en/?location=Bali), [QEEQ](https://www.qeeq.com/search?q=Bali%2C+Indonesia) oder [EconomyBookings](https://www.economybookings.com/?location=Bali). Speziell für Motorräder lohnt sich ein Vergleich auf [BikeBooking](https://www.bikebooking.com/en/search?location=Bali%2C+Indonesia).
+**Roller und Motorrad:** Das übliche Fortbewegungsmittel für Individualreisende auf Bali. Mieten ab 5 $ pro Tag; offiziell ist ein internationaler Führerschein nötig, doch die meisten Vermietungen nehmen es locker. Sicherer sind private Fahrer, die man tageweise bucht (40–60 $). Mietwagenpreise vergleichen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20car%20rental).
 
 ## Touren und Erlebnisse
 
-Sonnenaufgangswanderungen auf den Mount Batur, Spaziergänge durch die Reisterrassen von Tegallalang, balinesische Kochkurse und heilige Tempelzeremonien buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Bali) und [Viator](https://www.viator.com/Bali/d774-ttd). Der Affenwald von Ubud, das rituelle Bad in Tirta Empul und Wildwasserrafting auf dem Ayung werden durchweg gut bewertet. Kuratierte Kulturerlebnisse und Audiotouren zum Selbstgehen finden Sie bei [WeGoTrip](https://wegotrip.com/destinations/bali/).
+Sonnenaufgangswanderungen auf den Mount Batur, Spaziergänge durch die Reisterrassen von Tegallalang, balinesische Kochkurse und heilige Tempelzeremonien buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Bali). Der Affenwald von Ubud, das rituelle Bad in Tirta Empul und Wildwasserrafting auf dem Ayung werden durchweg gut bewertet.
 
 ## Reisepraktisches
 
-**eSIM:** Besorgen Sie sich vor der Abreise eine eSIM für Bali/Indonesien bei [Airalo](https://www.airalo.com). Telkomsel hat im Inselinneren und im Hochland die beste Netzabdeckung.
+**eSIM:** Besorgen Sie sich vor der Abreise eine eSIM für Bali/Indonesien bei [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20eSIM). Telkomsel hat im Inselinneren und im Hochland die beste Netzabdeckung.
 
-**Reiseversicherung:** Sie sollte Wassersport, Vulkanwanderungen und Rollerfahren abdecken (prüfen Sie den Rollerschutz gezielt – viele Standardpolicen schließen ihn aus). [SafetyWing](https://safetywing.com) deckt Abenteueraktivitäten ab und bietet eine solide Gesundheitsversorgung im asiatisch-pazifischen Raum.
-
-**VPN:** In Indonesien unverzichtbar, da einige Plattformen regional gesperrt sind. [NordVPN](https://nordvpn.com) oder [ExpressVPN](https://expressvpn.com) stellen den Zugang wieder her und sorgen in den Hotel-WLANs auf Bali für Sicherheit.
+**Reiseversicherung:** Sie sollte Wassersport, Vulkanwanderungen und Rollerfahren abdecken (prüfen Sie den Rollerschutz gezielt – viele Standardpolicen schließen ihn aus). Achten Sie darauf, dass sie auch Abenteueraktivitäten und die Gesundheitsversorgung im asiatisch-pazifischen Raum abdeckt.

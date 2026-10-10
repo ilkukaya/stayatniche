@@ -47,24 +47,22 @@ L’aéroport international de Kigali accueille désormais des vols directs depu
 
 ## Comment s’y rendre
 
-**Vols :** l’aéroport international de Kigali (KGL) est desservi en direct depuis Bruxelles (RwandAir et Brussels Airlines), Londres-Gatwick, Nairobi, Addis-Abeba, Dubaï et Johannesburg. Qatar Airways et Kenya Airways assurent des correspondances depuis l’Asie, les Amériques et le reste de l’Afrique via leurs plateformes. Recherchez et comparez les vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Rwanda/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/rwanda).
+**Vols :** l’aéroport international de Kigali (KGL) est desservi en direct depuis Bruxelles (RwandAir et Brussels Airlines), Londres-Gatwick, Nairobi, Addis-Abeba, Dubaï et Johannesburg. Qatar Airways et Kenya Airways assurent des correspondances depuis l’Asie, les Amériques et le reste de l’Afrique via leurs plateformes. Comparez les tarifs et réservez tôt vos vols.
 
-**Transfert depuis l’aéroport :** l’aéroport de Kigali se trouve à 12 km du centre-ville. Réservez un transfert privé via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kigali) ou [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kigali). La plupart des lodges proches du parc national des Volcans organisent un transfert direct depuis l’aéroport pour réduire le temps de route.
+**Transfert depuis l’aéroport :** l’aéroport de Kigali se trouve à 12 km du centre-ville. Réservez un transfert privé via [Klook](https://www.klook.com/en-US/search-results/?query=Kigali%20airport%20transfer). La plupart des lodges proches du parc national des Volcans organisent un transfert direct depuis l’aéroport pour réduire le temps de route.
 
 ## Se déplacer
 
-**Voiture avec chauffeur :** la formule classique pour voyager au Rwanda. Les routes sont excellentes pour la région : comptez 2 h 30 de Kigali au parc national des Volcans, 4 heures jusqu’à la forêt de Nyungwe et 2 h 30 jusqu’à l’Akagera. Comparez les tarifs de location sans chauffeur sur [QEEQ](https://www.qeeq.com/search?q=Rwanda), mais un chauffeur est recommandé dans les parcs, où la connaissance du terrain compte.
+**Voiture avec chauffeur :** la formule classique pour voyager au Rwanda. Les routes sont excellentes pour la région : comptez 2 h 30 de Kigali au parc national des Volcans, 4 heures jusqu’à la forêt de Nyungwe et 2 h 30 jusqu’à l’Akagera. Comparez les tarifs de location sans chauffeur sur [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20car%20rental), mais un chauffeur est recommandé dans les parcs, où la connaissance du terrain compte.
 
 **Motos-taxis :** le transport urbain omniprésent à Kigali, sûr, rapide et bon marché. Le casque homologué est obligatoire et fourni.
 
 ## Excursions et activités
 
-Réservez vos permis gorilles (gérés par le Rwanda Development Board, 1 500 $ par personne), le pistage des singes dorés, l’habituation des chimpanzés à Nyungwe et les visites du mémorial du génocide de Kigali via [Viator](https://www.viator.com/Rwanda/d5453-ttd). Un vol en montgolfière au-dessus des mille collines du Rwanda est un complément extraordinaire. Expériences culturelles et visites de marchés communautaires se réservent sur [WeGoTrip](https://wegotrip.com/destinations/rwanda/).
+Réservez vos permis gorilles (gérés par le Rwanda Development Board, 1 500 $ par personne), le pistage des singes dorés, l’habituation des chimpanzés à Nyungwe et les visites du mémorial du génocide de Kigali via [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Un vol en montgolfière au-dessus des mille collines du Rwanda est un complément extraordinaire. Expériences culturelles et visites de marchés communautaires se réservent sur [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20cultural%20experience).
 
 ## Infos pratiques
 
-**eSIM :** procurez-vous une eSIM rwandaise chez [Airalo](https://www.airalo.com). MTN Rwanda offre la meilleure couverture, y compris dans les secteurs des Volcans et de Nyungwe. Les lodges disposent souvent d’un Wi-Fi par satellite.
+**eSIM :** procurez-vous une eSIM rwandaise chez [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM). MTN Rwanda offre la meilleure couverture, y compris dans les secteurs des Volcans et de Nyungwe. Les lodges disposent souvent d’un Wi-Fi par satellite.
 
-**Assurance voyage :** dans les lodges isolés, le risque à couvrir est l’évacuation sanitaire vers Nairobi ou Johannesburg. [SafetyWing](https://safetywing.com) inclut l’évacuation et couvre le trek des gorilles en tant qu’activité d’aventure.
-
-**VPN :** [NordVPN](https://nordvpn.com) ou [ExpressVPN](https://expressvpn.com) pour accéder à vos services de streaming pendant les soirées au lodge.
+**Assurance voyage :** dans les lodges isolés, le risque à couvrir est l’évacuation sanitaire vers Nairobi ou Johannesburg. Vérifiez que votre contrat inclut l’évacuation et couvre le trek des gorilles en tant qu’activité d’aventure.

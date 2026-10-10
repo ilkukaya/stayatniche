@@ -43,24 +43,22 @@ La costa sur, olvidada durante mucho tiempo por los viajeros centrados solo en l
 
 ## Cómo llegar
 
-**Vuelos:** Phnom Penh (PNH) y Siem Riep (REP) son los dos principales aeropuertos internacionales de Camboya. Bangkok (BKK), Kuala Lumpur (KUL), Singapur (SIN) y Ciudad Ho Chi Minh (SGN) tienen varias conexiones diarias. Son habituales los vuelos directos desde Incheon, Cantón y Taipéi. Busca y compara vuelos en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Cambodia/anytime/anytime) y [Aviasales](https://www.aviasales.com/search/to/cambodia).
+**Vuelos:** Phnom Penh (PNH) y Siem Riep (REP) son los dos principales aeropuertos internacionales de Camboya. Bangkok (BKK), Kuala Lumpur (KUL), Singapur (SIN) y Ciudad Ho Chi Minh (SGN) tienen varias conexiones diarias. Son habituales los vuelos directos desde Incheon, Cantón y Taipéi.
 
-**Traslado desde el aeropuerto:** el aeropuerto de Siem Riep está a 3 km de la ciudad, a 10 minutos en coche. El de Phnom Penh está a 10 km de la zona ribereña. Reserva traslados privados con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Siem+Reap) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). Los tuk-tuks abundan y son una alternativa con mucho encanto para distancias cortas en la ciudad.
+**Traslado desde el aeropuerto:** el aeropuerto de Siem Riep está a 3 km de la ciudad, a 10 minutos en coche. El de Phnom Penh está a 10 km de la zona ribereña. Reserva traslados privados con [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20airport%20transfer). Los tuk-tuks abundan y son una alternativa con mucho encanto para distancias cortas en la ciudad.
 
 ## Cómo moverse
 
 **Tuk-tuk y conductor contratado:** la forma habitual de visitar Angkor Wat y moverse por Siem Riep. La mayoría de los hoteles consiguen conductores de tuk-tuk fiables y que hablan inglés por una tarifa diaria. También puedes contratar coche con conductor para el trayecto por tierra Phnom Penh-Siem Riep (6 horas), mucho más cómodo que el autobús.
 
-**Lanchas rápidas:** unen Phnom Penh y Siem Riep a través del lago Tonlé Sap (barco exprés, 5-6 horas: bonito, pero con muchos saltos). También llegan a las islas de la costa sur desde Sihanoukville. Para alquilar coche en las ciudades, compara en [QEEQ](https://www.qeeq.com/search?q=Phnom+Penh%2C+Cambodia) o [Localrent](https://localrent.com/en/?location=Phnom+Penh).
+**Lanchas rápidas:** unen Phnom Penh y Siem Riep a través del lago Tonlé Sap (barco exprés, 5-6 horas: bonito, pero con muchos saltos). También llegan a las islas de la costa sur desde Sihanoukville. Para alquilar coche en las ciudades, compara en [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20car%20rental).
 
 ## Excursiones y experiencias
 
-Reserva visitas al amanecer en Angkor Wat, excursiones a las aldeas flotantes del Tonlé Sap y recorridos históricos por Phnom Penh en [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor) y [Viator](https://www.viator.com/Cambodia/d733-ttd). El trekking por los montes Cardamomo y las estancias en ecolodges se organizan mejor con operadores especializados en conservación. Las clases de cocina camboyana, los talleres de tejido de seda y las rutas fotográficas por los templos están en [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
+Reserva visitas al amanecer en Angkor Wat, excursiones a las aldeas flotantes del Tonlé Sap y recorridos históricos por Phnom Penh en [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). El trekking por los montes Cardamomo y las estancias en ecolodges se organizan mejor con operadores especializados en conservación. Las clases de cocina camboyana, los talleres de tejido de seda y las rutas fotográficas por los templos también están en Klook.
 
 ## Imprescindibles del viaje
 
-**eSIM:** consigue una eSIM para Camboya en [Airalo](https://www.airalo.com). Smart y Cellcard tienen la mejor cobertura; en los montes Cardamomo la señal es irregular y en los ecolodges remotos no hay. La mayoría de los lodges en la selva usan wifi por satélite.
+**eSIM:** consigue una eSIM para Camboya en [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20eSIM). Smart y Cellcard tienen la mejor cobertura; en los montes Cardamomo la señal es irregular y en los ecolodges remotos no hay. La mayoría de los lodges en la selva usan wifi por satélite.
 
-**Seguro de viaje:** imprescindible: la sanidad pública camboyana es limitada y una evacuación médica a Bangkok o Singapur cuesta entre 5000 y 15 000 US$. [SafetyWing](https://safetywing.com) incluye evacuación y cubre el trekking por la selva.
-
-**VPN:** [NordVPN](https://nordvpn.com) o [ExpressVPN](https://expressvpn.com) son imprescindibles en Camboya: algunos servicios de streaming están bloqueados geográficamente y una VPN te protege en las redes de los hoteles.
+**Seguro de viaje:** imprescindible: la sanidad pública camboyana es limitada y una evacuación médica a Bangkok o Singapur cuesta entre 5000 y 15 000 US$. Comprueba que tu póliza incluya la evacuación y cubra el trekking por la selva.

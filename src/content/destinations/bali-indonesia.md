@@ -53,22 +53,20 @@ Ngurah Rai International Airport in Denpasar receives direct flights from Singap
 
 ## Getting There
 
-**Flights:** Ngurah Rai International Airport (DPS) in Denpasar receives direct flights from Singapore, Kuala Lumpur, Sydney, Melbourne, Tokyo, Seoul, and European cities via Emirates (Dubai) and Qatar Airways. Budget carriers — AirAsia, Scoot, Jetstar — offer competitive Asia-Pacific connections. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Bali/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/bali).
+**Flights:** Ngurah Rai International Airport (DPS) in Denpasar receives direct flights from Singapore, Kuala Lumpur, Sydney, Melbourne, Tokyo, Seoul, and European cities via Emirates (Dubai) and Qatar Airways.
 
-**Airport Transfer:** Denpasar airport is 30 minutes from Seminyak, 90 minutes from Ubud in normal traffic. Book private transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Bali) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Bali). Bluebird taxi is the reliable metered alternative.
+**Airport Transfer:** Denpasar airport is 30 minutes from Seminyak, 90 minutes from Ubud in normal traffic. Book private transfers through [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20airport%20transfer). Bluebird taxi is the reliable metered alternative.
 
 ## Getting Around
 
-**Scooter and Motorbike:** The local standard for independent travel within Bali. Rentals from $5/day; international driving licence required technically, but most rentals are casual. Safer alternatives include private drivers hired by the day ($40–60). Compare car rental rates on [Localrent](https://localrent.com/en/?location=Bali), [QEEQ](https://www.qeeq.com/search?q=Bali%2C+Indonesia), or [EconomyBookings](https://www.economybookings.com/?location=Bali). For motorbike rental specifically, compare on [BikeBooking](https://www.bikebooking.com/en/search?location=Bali%2C+Indonesia).
+**Scooter and Motorbike:** The local standard for independent travel within Bali. Rentals from $5/day; international driving licence required technically, but most rentals are casual. Safer alternatives include private drivers hired by the day ($40–60). Compare car rental rates on [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20car%20rental).
 
 ## Tours & Experiences
 
-Book Mount Batur sunrise hikes, Tegallalang rice terrace walks, Balinese cooking classes, and sacred temple ceremonies through [Klook](https://www.klook.com/en-US/search-results/?query=Bali) and [Viator](https://www.viator.com/Bali/d774-ttd). Ubud Monkey Forest, Tirta Empul sacred bathing, and white water rafting on the Ayung River are consistently well-reviewed. For curated cultural experiences and self-guided audio tours, use [WeGoTrip](https://wegotrip.com/destinations/bali/).
+Book Mount Batur sunrise hikes, Tegallalang rice terrace walks, Balinese cooking classes, and sacred temple ceremonies through [Klook](https://www.klook.com/en-US/search-results/?query=Bali). Ubud Monkey Forest, Tirta Empul sacred bathing, and white water rafting on the Ayung River are consistently well-reviewed.
 
 ## Travel Essentials
 
-**eSIM:** Get a Bali/Indonesia eSIM from [Airalo](https://www.airalo.com) before departure. Telkomsel has the best rural coverage in the island's interior and highland areas.
+**eSIM:** Get a Bali/Indonesia eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20eSIM) before departure. Telkomsel has the best rural coverage in the island's interior and highland areas.
 
-**Travel Insurance:** Covers water sports, volcano hiking, and scooter riding (check scooter coverage specifically — many standard policies exclude it). [SafetyWing](https://safetywing.com) covers adventure activities and provides solid Asia Pacific healthcare coverage.
-
-**VPN:** Essential in Indonesia — some platforms are geo-restricted. [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) restore access and provide security on Bali's hotel WiFi networks.
+**Travel Insurance:** Covers water sports, volcano hiking, and scooter riding (check scooter coverage specifically — many standard policies exclude it). Make sure it also covers adventure activities and healthcare across Asia Pacific.

@@ -36,24 +36,22 @@ C'est dans la forêt de nuages des versants occidentaux des Andes, le biome du C
 
 ## Comment s'y rendre
 
-**Vols :** l'aéroport international Mariscal Sucre de Quito (UIO) accueille des vols directs depuis Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima et d'autres capitales sud-américaines. Guayaquil (GYE), sur la côte Pacifique, est la porte d'entrée secondaire. Recherchez et comparez les vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/ecuador).
+**Vols :** l'aéroport international Mariscal Sucre de Quito (UIO) accueille des vols directs depuis Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima et d'autres capitales sud-américaines. Guayaquil (GYE), sur la côte Pacifique, est la porte d'entrée secondaire.
 
-**Transfert depuis l'aéroport :** Quito est à 45 minutes de route de l'aéroport. Réservez un transfert privé via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Quito) ou [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Quito), bien plus fiable que les stations de taxis à l'arrivée.
+**Transfert depuis l'aéroport :** Quito est à 45 minutes de route de l'aéroport. Réservez un transfert privé via [Klook](https://www.klook.com/en-US/search-results/?query=Quito%20airport%20transfer), bien plus fiable que les stations de taxis à l'arrivée.
 
 ## Se déplacer
 
-**Location de voiture :** le réseau de la Panaméricaine est bien entretenu et conduire soi-même est tout à fait envisageable. Comparez les tarifs sur [Localrent](https://localrent.com/en/?location=Ecuador), [QEEQ](https://www.qeeq.com/search?q=Quito,+Ecuador) ou [EconomyBookings](https://www.economybookings.com/?location=Quito). Un 4x4 est nécessaire sur les routes des hauts plateaux et de la forêt de nuages.
+**Location de voiture :** le réseau de la Panaméricaine est bien entretenu et conduire soi-même est tout à fait envisageable. Comparez les tarifs sur [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Un 4x4 est nécessaire sur les routes des hauts plateaux et de la forêt de nuages.
 
 **Bus :** le réseau de bus interurbains équatorien est excellent et bon marché. Le terminal principal de Quito (Quitumbe) dessert toutes les grandes destinations. Les transferts privés vers les lodges de la forêt de nuages (comme Mashpi) sont généralement organisés par le lodge lui-même.
 
 ## Excursions et expériences
 
-Réservez vos excursions d'île en île aux Galápagos, vos randonnées autour du cratère du Quilotoa et vos visites de Quito sur [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador) et [Viator](https://www.viator.com/Ecuador/d728-ttd). Les sorties ornithologiques en forêt de nuages et les visites de plantations de cacao près de Mindo se réservent sur [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
+Réservez vos excursions d'île en île aux Galápagos, vos randonnées autour du cratère du Quilotoa et vos visites de Quito sur [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). Les sorties ornithologiques en forêt de nuages et les visites de plantations de cacao près de Mindo se réservent également là-bas.
 
 ## L'essentiel pour voyager
 
-**eSIM :** procurez-vous une eSIM Équateur chez [Airalo](https://www.airalo.com) avant le départ. Claro offre la meilleure couverture en zone rurale, y compris dans la forêt de nuages des Andes occidentales. Le signal est inexistant à l'intérieur des îles Galápagos, mais disponible à Puerto Ayora.
+**eSIM :** procurez-vous une eSIM Équateur chez [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM) avant le départ. Claro offre la meilleure couverture en zone rurale, y compris dans la forêt de nuages des Andes occidentales. Le signal est inexistant à l'intérieur des îles Galápagos, mais disponible à Puerto Ayora.
 
-**Assurance voyage :** [SafetyWing](https://safetywing.com) couvre les activités d'aventure en Équateur (randonnée, plongée, excursions naturalistes) sans surprime. Une couverture du rapatriement sanitaire est importante pour les séjours en forêt de nuages isolée et en Amazonie.
-
-**VPN :** [NordVPN](https://nordvpn.com) est utile pour accéder à vos contenus de streaming habituels et naviguer en toute sécurité sur les réseaux des hôtels.
+**Assurance voyage :** Vérifiez que votre contrat couvre les activités d'aventure en Équateur (randonnée, plongée, excursions naturalistes). Une couverture du rapatriement sanitaire est importante pour les séjours en forêt de nuages isolée et en Amazonie.

@@ -43,13 +43,13 @@ Das prägendste Merkmal Norwegens ist das Licht, oder vielmehr seine Extreme. Di
 
 ## Anreise
 
-**Flüge:** Oslo-Gardermoen (OSL) ist Norwegens wichtigstes Drehkreuz, mit Verbindungen in ganz Europa und Direktflügen auf der Langstrecke ab New York, Chicago und großen asiatischen Städten. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) und Bodø (BOO) werden direkt aus Europa angeflogen – wer für eine Fjordreise einen dieser Regionalflughäfen wählt, spart sich den Weg von Oslo zu den Fjorden ganz. Flüge suchen und vergleichen Sie bei [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Norway/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/norway).
+**Flüge:** Oslo-Gardermoen (OSL) ist Norwegens wichtigstes Drehkreuz, mit Verbindungen in ganz Europa und Direktflügen auf der Langstrecke ab New York, Chicago und großen asiatischen Städten. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) und Bodø (BOO) werden direkt aus Europa angeflogen – wer für eine Fjordreise einen dieser Regionalflughäfen wählt, spart sich den Weg von Oslo zu den Fjorden ganz.
 
-**Flughafentransfer:** Der Flughafenexpress Flytoget verbindet Gardermoen in 19 Minuten mit dem Osloer Hauptbahnhof. Private Transfers zu bestimmten Hotels oder weiter in die Fjorde buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Oslo) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Oslo).
+**Flughafentransfer:** Der Flughafenexpress Flytoget verbindet Gardermoen in 19 Minuten mit dem Osloer Hauptbahnhof. Private Transfers zu bestimmten Hotels oder weiter in die Fjorde buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Oslo%20airport%20transfer).
 
 ## Unterwegs vor Ort
 
-**Mietwagen:** Die Nationalen Touristenstraßen (18 ausgewiesene Strecken) und das Fjordland erkunden Sie am besten mit dem Auto. Die Straßen sind hervorragend; im Winter sind Winterreifen vorgeschrieben (gesetzlich von Oktober bis April). Preise vergleichen Sie bei [Localrent](https://localrent.com/en/?location=Norway), [QEEQ](https://www.qeeq.com/search?q=Norway) und [AutoEurope](https://www.autoeurope.com/?location=Norway). Elektroautos lassen sich problemlos mieten – Norwegen hat den weltweit höchsten E-Auto-Anteil und Ladestationen an den meisten Strecken.
+**Mietwagen:** Die Nationalen Touristenstraßen (18 ausgewiesene Strecken) und das Fjordland erkunden Sie am besten mit dem Auto. Die Straßen sind hervorragend; im Winter sind Winterreifen vorgeschrieben (gesetzlich von Oktober bis April). Preise vergleichen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20car%20rental). Elektroautos lassen sich problemlos mieten – Norwegen hat den weltweit höchsten E-Auto-Anteil und Ladestationen an den meisten Strecken.
 
 **Fähren:** Unverzichtbar für Fjordreisen; viele Fjordquerungen haben keine Straßenalternative. Die Hurtigruten-Küstenfähre von Bergen nach Kirkenes braucht 6 Tage und ist eine der großen Seereisen der Welt. Autofähren buchen Sie über Fjord1 und Norled; für Überfahrten im Sommer sollten Sie reservieren.
 
@@ -57,12 +57,10 @@ Das prägendste Merkmal Norwegens ist das Licht, oder vielmehr seine Extreme. Di
 
 ## Touren und Erlebnisse
 
-Kajaktouren auf dem Geirangerfjord, Polarlichtsafaris ab Tromsø, Hundeschlittenfahrten in der Finnmark und Fjordausflüge ab Flåm buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Norway) und [Viator](https://www.viator.com/Norway/d78-ttd). Polarexpeditionen nach Spitzbergen (Saison März–Oktober) organisieren Sie am besten über spezialisierte Arktisveranstalter. Seekajaktouren und Gletscherwanderungen rund um den Jostedalsbreen lassen sich über regionale Anbieter auf [WeGoTrip](https://wegotrip.com/destinations/norway/) buchen.
+Kajaktouren auf dem Geirangerfjord, Polarlichtsafaris ab Tromsø, Hundeschlittenfahrten in der Finnmark und Fjordausflüge ab Flåm buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Norway). Polarexpeditionen nach Spitzbergen (Saison März–Oktober) organisieren Sie am besten über spezialisierte Arktisveranstalter. Seekajaktouren und Gletscherwanderungen rund um den Jostedalsbreen lassen sich über regionale Anbieter buchen.
 
 ## Reise-Essentials
 
-**eSIM:** Norwegen hat auf allen Hauptstraßen und in den Städten hervorragenden 4G-Empfang; auf Spitzbergen und in sehr abgelegenen Fjordgebieten reißt das Signal ab. Besorgen Sie sich vor der Abreise eine Norwegen-eSIM bei [Airalo](https://www.airalo.com) – Telenor bietet die beste Abdeckung auf dem Land und auf Spitzbergen.
+**eSIM:** Norwegen hat auf allen Hauptstraßen und in den Städten hervorragenden 4G-Empfang; auf Spitzbergen und in sehr abgelegenen Fjordgebieten reißt das Signal ab. Besorgen Sie sich vor der Abreise eine Norwegen-eSIM bei [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20eSIM) – Telenor bietet die beste Abdeckung auf dem Land und auf Spitzbergen.
 
-**Reiseversicherung:** Für Outdoor-Aktivitäten in Norwegen unverzichtbar. Prüfen Sie, ob Ihre Police Bergwanderungen abdeckt (Rettungseinsätze an Trolltunga und Preikestolen sind teuer). [SafetyWing](https://safetywing.com) deckt Abenteuersportarten ab und übernimmt Notfallevakuierungen.
-
-**VPN:** [NordVPN](https://nordvpn.com) – ironischerweise mit Sitz in Oslo – ist eine gute Wahl für Norwegenreisen. [ExpressVPN](https://expressvpn.com) ist die verlässliche Alternative.
+**Reiseversicherung:** Für Outdoor-Aktivitäten in Norwegen unverzichtbar. Prüfen Sie, ob Ihre Police Bergwanderungen abdeckt (Rettungseinsätze an Trolltunga und Preikestolen sind teuer). Achten Sie darauf, dass sie auch Abenteuersportarten und Notfallevakuierungen abdeckt.

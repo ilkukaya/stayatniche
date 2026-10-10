@@ -49,24 +49,22 @@ The south coast, long overlooked by travelers focused entirely on the temples, i
 
 ## Getting There
 
-**Flights:** Phnom Penh (PNH) and Siem Reap (REP) are Cambodia's two main international airports. Bangkok (BKK), Kuala Lumpur (KUL), Singapore (SIN), and Ho Chi Minh City (SGN) all have multiple daily connections. Direct flights from Incheon, Guangzhou, and Taipei are common. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Cambodia/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/cambodia).
+**Flights:** Phnom Penh (PNH) and Siem Reap (REP) are Cambodia's two main international airports. Bangkok (BKK), Kuala Lumpur (KUL), Singapore (SIN), and Ho Chi Minh City (SGN) all have multiple daily connections. Direct flights from Incheon, Guangzhou, and Taipei are common.
 
-**Airport Transfer:** Siem Reap airport sits 3km from town — a 10-minute ride. Phnom Penh's airport is 10km from the Riverside. Book private transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Siem+Reap) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). Tuk-tuks are widely available and an atmospheric alternative for short city distances.
+**Airport Transfer:** Siem Reap airport sits 3km from town — a 10-minute ride. Phnom Penh's airport is 10km from the Riverside. Book private transfers through [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20airport%20transfer). Tuk-tuks are widely available and an atmospheric alternative for short city distances.
 
 ## Getting Around
 
 **Tuk-Tuk and Hired Driver:** The standard way to visit Angkor Wat and move within Siem Reap. Most hotels arrange reliable English-speaking tuk-tuk drivers for day rates. Car hire with driver is available for Phnom Penh–Siem Reap overland (6 hours) and is considerably more comfortable than the bus.
 
-**Speedboats:** Connect Phnom Penh to Siem Reap via the Tonle Sap Lake (express boat, 5–6 hours — scenic but bumpy). Also serve the south coast islands from Sihanoukville. For car rental in cities, compare on [QEEQ](https://www.qeeq.com/search?q=Phnom+Penh%2C+Cambodia) or [Localrent](https://localrent.com/en/?location=Phnom+Penh).
+**Speedboats:** Connect Phnom Penh to Siem Reap via the Tonle Sap Lake (express boat, 5–6 hours — scenic but bumpy). Also serve the south coast islands from Sihanoukville. For car rental in cities, compare on [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20car%20rental).
 
 ## Tours & Experiences
 
-Book Angkor Wat sunrise tours, Tonle Sap floating village excursions, and Phnom Penh history tours through [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor) and [Viator](https://www.viator.com/Cambodia/d733-ttd). Cardamom Mountains trekking and eco-lodge experiences are best arranged through specialist conservation operators. Cambodian cooking classes, silk weaving workshops, and temple photography tours are on [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
+Book Angkor Wat sunrise tours, Tonle Sap floating village excursions, and Phnom Penh history tours through [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Cardamom Mountains trekking and eco-lodge experiences are best arranged through specialist conservation operators. Cambodian cooking classes, silk weaving workshops, and temple photography tours can be found on Klook too.
 
 ## Travel Essentials
 
-**eSIM:** Get a Cambodia eSIM from [Airalo](https://www.airalo.com). Smart and Cellcard have the best coverage; signal is variable in the Cardamom Mountains and absent at remote eco-lodges. Most jungle lodges use satellite WiFi.
+**eSIM:** Get a Cambodia eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20eSIM). Smart and Cellcard have the best coverage; signal is variable in the Cardamom Mountains and absent at remote eco-lodges. Most jungle lodges use satellite WiFi.
 
-**Travel Insurance:** Essential — Cambodia's public healthcare is limited, and medical evacuation to Bangkok or Singapore costs $5,000–15,000. [SafetyWing](https://safetywing.com) includes evacuation and covers jungle trekking.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) are essential in Cambodia — some streaming services are geo-blocked, and a VPN provides security on hotel networks.
+**Travel Insurance:** Essential — Cambodia's public healthcare is limited, and medical evacuation to Bangkok or Singapore costs $5,000–15,000. Make sure your policy includes evacuation and covers jungle trekking.

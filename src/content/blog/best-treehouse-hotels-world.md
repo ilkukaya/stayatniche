@@ -30,7 +30,7 @@ Sweden's legendary Treehotel is the gold standard. Seven architect-designed room
 
 **Best for:** Architecture lovers, aurora hunters, design enthusiasts
 **Price from:** $300/night
-**[Check Rates →](https://www.booking.com/hotel/se/treehotel.html)**
+**[Check Rates →](https://www.expedia.com/Hotel-Search?destination=Harads%2C%20Sweden)**
 
 
 Set deep in the Monteverde Cloud Forest, these luxury treehouse suites put you in the middle of Costa Rica's extraordinary biodiversity. Wake to howler monkeys, hummingbirds, and resplendent quetzals directly from your private deck.

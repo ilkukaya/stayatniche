@@ -38,22 +38,20 @@ Diese Mobilität verändert, was möglich ist. Kyoto, Nara, Osaka, Kobe und Hiro
 
 ## Anreise
 
-**Flüge:** Die Tokioter Flughäfen Narita (NRT) und Haneda (HND) sind die wichtigsten internationalen Tore; Haneda bedient inzwischen mehr internationale Strecken und liegt näher am Zentrum. Der Kansai International Airport (KIX) in Osaka ist der bessere Einstieg für Kyoto, Hiroshima und Westjapan. Fukuoka (FUK) und Sapporo (CTS) bedienen die jeweiligen Regionen. Flüge nach Japan suchen und vergleichen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) oder [Aviasales](https://www.aviasales.com/search/to/japan).
+**Flüge:** Die Tokioter Flughäfen Narita (NRT) und Haneda (HND) sind die wichtigsten internationalen Tore; Haneda bedient inzwischen mehr internationale Strecken und liegt näher am Zentrum. Der Kansai International Airport (KIX) in Osaka ist der bessere Einstieg für Kyoto, Hiroshima und Westjapan. Fukuoka (FUK) und Sapporo (CTS) bedienen die jeweiligen Regionen.
 
-**Flughafentransfer:** Der Narita Express (N'EX) fährt direkt nach Shinjuku, Shibuya und Yokohama, in etwa 60–90 Minuten. Die Einschienenbahn ab Haneda erreicht Hamamatsuchō in 14 Minuten. Private Transfers – praktisch bei später Ankunft oder mit schwerem Gepäck – buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo).
+**Flughafentransfer:** Der Narita Express (N'EX) fährt direkt nach Shinjuku, Shibuya und Yokohama, in etwa 60–90 Minuten. Die Einschienenbahn ab Haneda erreicht Hamamatsuchō in 14 Minuten. Private Transfers – praktisch bei später Ankunft oder mit schwerem Gepäck – buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer).
 
 ## Unterwegs vor Ort
 
-**Bahn:** Für Reisen durch mehrere Städte ist der Japan Rail Pass die übliche Wahl; er gilt im Shinkansen und in den meisten JR-Zügen. Kaufen Sie ihn vor der Ankunft über ein Reisebüro oder online. In den Städten sind die U-Bahn-Netze lückenlos; IC-Karten (Suica oder Pasmo) funktionieren in allen Verkehrsmitteln. Ein Mietwagen lohnt sich vor allem auf Hokkaido und in ländlichen Gegenden ohne Bahnanschluss; Preise vergleichen Sie bei [QEEQ](https://www.qeeq.com/search?q=Japan) oder [EconomyBookings](https://www.economybookings.com/?location=Japan).
+**Bahn:** Für Reisen durch mehrere Städte ist der Japan Rail Pass die übliche Wahl; er gilt im Shinkansen und in den meisten JR-Zügen. Kaufen Sie ihn vor der Ankunft über ein Reisebüro oder online. In den Städten sind die U-Bahn-Netze lückenlos; IC-Karten (Suica oder Pasmo) funktionieren in allen Verkehrsmitteln. Ein Mietwagen lohnt sich vor allem auf Hokkaido und in ländlichen Gegenden ohne Bahnanschluss; Preise vergleichen Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20car%20rental).
 
 ## Touren und Erlebnisse
 
-Geführte Tagesausflüge, kulturelle Erlebnisse und Ausflüge zum Fuji buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Japan) und [Viator](https://www.viator.com/Japan/d331-ttd). Besonders gut vertreten sind Teezeremonien in Ryokan und Führungen durch Sake-Brauereien. Traditionelle Kochkurse, Besuche beim morgendlichen Sumo-Training und Karten für das Nō-Theater gibt es über [WeGoTrip](https://wegotrip.com/destinations/japan/).
+Geführte Tagesausflüge, kulturelle Erlebnisse und Ausflüge zum Fuji buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Besonders gut vertreten sind Teezeremonien in Ryokan und Führungen durch Sake-Brauereien. Traditionelle Kochkurse, Besuche beim morgendlichen Sumo-Training und Karten für das Nō-Theater gibt es ebenfalls.
 
 ## Reise-Essentials
 
-**eSIM:** Japans Mobilfunknetz ist hervorragend. Kaufen Sie vor der Abreise eine Japan-eSIM bei [Airalo](https://www.airalo.com) (günstige Datentarife ab 1.500 ¥) oder [Holafly](https://www.holafly.com) (unbegrenztes Datenvolumen). Mobile WLAN-Router können Sie an den Flughäfen mieten, eine eSIM ist jedoch einfacher.
+**eSIM:** Japans Mobilfunknetz ist hervorragend. Kaufen Sie vor der Abreise eine Japan-eSIM bei [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM) (günstige Datentarife). Mobile WLAN-Router können Sie an den Flughäfen mieten, eine eSIM ist jedoch einfacher.
 
-**Reiseversicherung:** Angesichts der hohen Behandlungskosten in Japan unverzichtbar. [SafetyWing](https://safetywing.com) bietet flexible kurzfristige Deckung; spezialisierte Reisepolicen vergleichen Sie auf den gängigen Vergleichsportalen.
-
-**VPN:** Praktisch für Streamingdienste aus der Heimat. [NordVPN](https://nordvpn.com) und [ExpressVPN](https://expressvpn.com) haben beide zuverlässige Server in Japan.
+**Reiseversicherung:** Angesichts der hohen Behandlungskosten in Japan unverzichtbar. Schließen Sie eine kurzfristige Police ab, die Behandlungskosten und Reiserücktritt abdeckt; spezialisierte Reisepolicen vergleichen Sie auf den gängigen Vergleichsportalen.

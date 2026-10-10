@@ -43,24 +43,22 @@ De Europese Zuidelijke Sterrenwacht bouwde haar Very Large Telescope in de Ataca
 
 ## Hoe kom je er
 
-**Vluchten:** het vliegveld van Calama (CJC) ligt het dichtst bij San Pedro de Atacama, op 100 km afstand. LATAM en Sky Airline vliegen meerdere keren per dag rechtstreeks vanuit Santiago (ongeveer 2 uur). Santiago (SCL) heeft langeafstandsvluchten uit Europa (Madrid, Parijs, Frankfurt, Londen), Noord-Amerika (Miami, New York, Los Angeles) en de rest van Zuid-Amerika. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chile/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/chile).
+**Vluchten:** het vliegveld van Calama (CJC) ligt het dichtst bij San Pedro de Atacama, op 100 km afstand. LATAM en Sky Airline vliegen meerdere keren per dag rechtstreeks vanuit Santiago (ongeveer 2 uur). Santiago (SCL) heeft langeafstandsvluchten uit Europa (Madrid, Parijs, Frankfurt, Londen), Noord-Amerika (Miami, New York, Los Angeles) en de rest van Zuid-Amerika.
 
-**Luchthaventransfer:** San Pedro ligt 100 km ten zuidoosten van Calama, anderhalf uur rijden over een verharde weg over de hoogvlakte van de Atacama. De meeste lodges regelen een luchthaventransfer; anders rijden er pendelbussen en privétaxi's vanuit Calama. Boek een privétransfer via [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Calama) of regel het rechtstreeks met je lodge.
+**Luchthaventransfer:** San Pedro ligt 100 km ten zuidoosten van Calama, anderhalf uur rijden over een verharde weg over de hoogvlakte van de Atacama. De meeste lodges regelen een luchthaventransfer; anders rijden er pendelbussen en privétaxi's vanuit Calama. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Calama%20airport%20transfer) of regel het rechtstreeks met je lodge.
 
 ## Vervoer ter plaatse
 
-**Autohuur:** San Pedro is een klein dorp dat je in 20 minuten doorloopt, maar voor de excursies in de woestijn eromheen is een auto handig. Voor de hoge Atacama (El Tatio, Laguna Miscanti) is een 4x4 onmisbaar. Vergelijk prijzen op [Localrent](https://localrent.com/en/?location=San+Pedro+de+Atacama), [QEEQ](https://www.qeeq.com/search?q=Calama%2C+Chile) of [AutoEurope](https://www.autoeurope.com/?location=Chile). De meeste reizigers boeken hun excursies echter via hun lodge of lokale organisaties: begeleide tours met 4x4's bereiken plekken en terrein waar je met een eigen auto vaak niet veilig komt.
+**Autohuur:** San Pedro is een klein dorp dat je in 20 minuten doorloopt, maar voor de excursies in de woestijn eromheen is een auto handig. Voor de hoge Atacama (El Tatio, Laguna Miscanti) is een 4x4 onmisbaar. Vergelijk prijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Calama%20car%20rental). De meeste reizigers boeken hun excursies echter via hun lodge of lokale organisaties: begeleide tours met 4x4's bereiken plekken en terrein waar je met een eigen auto vaak niet veilig komt.
 
 **Tours:** de standaardmanier om de omgeving te verkennen. Vroege excursies naar El Tatio, bezoeken aan flamingolagunes, zonsondergangtours in de Valle de la Luna en sterrenkijken doe je het best met een gids. Lokale organisaties in San Pedro bieden goede waar voor je geld; luxelodges hebben privégidsen inbegrepen.
 
 ## Tours en belevenissen
 
-Boek zonsopgangtours naar de geisers van El Tatio, excursies naar de Valle de la Luna, bezoeken aan flamingolagunes en professionele sterrentours via [Klook](https://www.klook.com/en-US/search-results/?query=Atacama+Desert+Chile) en [Viator](https://www.viator.com/Atacama-Desert/d23255-ttd). Ook sandboarden, meerdaagse trektochten naar vulkaantoppen en bezoeken aan het ALMA-observatorium (rondleidingen alleen op reservering) zijn mogelijk. Boek via [WeGoTrip](https://wegotrip.com/destinations/chile/) audiotours op eigen gelegenheid langs de historische plekken van de Atacama.
+Boek zonsopgangtours naar de geisers van El Tatio, excursies naar de Valle de la Luna, bezoeken aan flamingolagunes en professionele sterrentours via [Klook](https://www.klook.com/en-US/search-results/?query=Atacama+Desert+Chile). Ook sandboarden, meerdaagse trektochten naar vulkaantoppen en bezoeken aan het ALMA-observatorium (rondleidingen alleen op reservering) zijn mogelijk.
 
 ## Praktisch
 
-**eSIM:** in San Pedro de Atacama werkt het mobiele netwerk, maar buiten het dorpscentrum is het bereik beperkt. Regel een eSIM voor Chili bij [Airalo](https://www.airalo.com); Entel heeft het beste bereik op het platteland. De meeste lodges hebben wifi via satelliet of ADSL.
+**eSIM:** in San Pedro de Atacama werkt het mobiele netwerk, maar buiten het dorpscentrum is het bereik beperkt. Regel een eSIM voor Chili bij [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20eSIM); Entel heeft het beste bereik op het platteland. De meeste lodges hebben wifi via satelliet of ADSL.
 
-**Reisverzekering:** hoogteziekte (San Pedro ligt op 2.400 m, El Tatio op 4.300 m) kan een evacuatie nodig maken. Een medische dekking inclusief hoogtegerelateerde klachten en helikopterevacuatie naar Calama is belangrijk. [SafetyWing](https://safetywing.com) dekt trektochten op grote hoogte en avontuurlijke activiteiten.
-
-**VPN:** [NordVPN](https://nordvpn.com) of [ExpressVPN](https://expressvpn.com) voor woestijnavonden en om je eigen streamingdiensten te gebruiken.
+**Reisverzekering:** hoogteziekte (San Pedro ligt op 2.400 m, El Tatio op 4.300 m) kan een evacuatie nodig maken. Een medische dekking inclusief hoogtegerelateerde klachten en helikopterevacuatie naar Calama is belangrijk. Controleer of je polis trektochten op grote hoogte en avontuurlijke activiteiten dekt.

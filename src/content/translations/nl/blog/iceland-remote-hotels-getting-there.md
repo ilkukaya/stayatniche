@@ -1,7 +1,7 @@
 ---
 source: iceland-remote-hotels-getting-there
 title: "Afgelegen hotels in IJsland: er komen zonder georganiseerde tour"
-excerpt: "De meest buitengewone overnachtingsplekken van IJsland, geodetische koepels bij gletsjerlagunes, omgebouwde vuurtorens op Atlantische schiereilanden en noorderlichtbubbels diep in de Westfjorden, vragen om meer planning dan een klik op Booking.com. Zo kom je bij de afgelegen adressen zonder groepsreis."
+excerpt: "De meest buitengewone overnachtingsplekken van IJsland, geodetische koepels bij gletsjerlagunes, omgebouwde vuurtorens op Atlantische schiereilanden en noorderlichtbubbels diep in de Westfjorden, vragen om meer planning dan een snelle hotelzoektocht. Zo kom je bij de afgelegen adressen zonder groepsreis."
 seo:
   metaTitle: "Afgelegen hotels in IJsland: zelf erheen | StayAtNiche"
   metaDescription: "Zo bereik je zelfstandig de meest afgelegen hotels van IJsland: vluchten zoeken, een auto huren, rijden in de winter en bijzondere adressen buiten de ringweg."
@@ -21,7 +21,7 @@ Het vertrekpunt is Keflavík International Airport (KEF), 50 kilometer ten zuidw
 
 De truc bij vluchten naar IJsland: **het tussenseizoen is het geheim**. In mei en begin juni heb je bijna evenveel licht als in juli, met veel minder mensen en duidelijk lagere prijzen. Oktober combineert herfstkleuren (ja, IJsland heeft een kort en prachtig herfstseizoen in de Westfjorden en rond het Mývatnmeer) met de eerste serieuze noorderlichtactiviteit. In beide periodes vlieg je regelmatig voor 50 tot 60% van de piekprijzen in juli.
 
-Zoek vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Iceland/anytime/anytime): met hun flexibele datumzoekfunctie zie je prijskalenders waarmee je het tussenseizoen makkelijk plant. [Aviasales](https://www.aviasales.com/search/to/iceland) bundelt dezelfde routes, soms met andere prijzen.
+Zoek vluchten met flexibele data: met prijskalenders plan je het tussenseizoen makkelijk.
 
 **Een weinig gebruikte tactiek:** vliegen naar het binnenlandse vliegveld van Reykjavik (RVK) vanuit Kopenhagen, Londen of Edinburgh met IJslandse chartervluchten kan flink wat geld schelen als je reis door IJsland buiten de directe omgeving van Keflavík begint.
 
@@ -31,7 +31,7 @@ Zoek vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Icel
 
 Keflavík ligt 50 km van Reykjavik. De Flybus verbindt de luchthaven met busstation Mjódd in de oostelijke buitenwijken (45 minuten, met aansluiting naar hotels in de stad), maar haal je meteen een huurauto op, en dat zouden de meeste reizigers die zelf door IJsland rijden moeten doen, dan zitten de verhuurbalies op de luchthaven. Betaal niet voor een Flybus die je niet nodig hebt.
 
-Kom je laat aan en haal je je auto pas de volgende ochtend op, boek dan een privétransfer in plaats van een te dure taxi op de luchthaven. [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Reykjavik) en [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Reykjavik) zijn allebei betrouwbaar actief op Keflavík, met vaste prijzen die gunstiger zijn dan wat de taxistandplaats je biedt.
+Kom je laat aan en haal je je auto pas de volgende ochtend op, boek dan een privétransfer in plaats van een te dure taxi op de luchthaven. [Klook](https://www.klook.com/en-US/search-results/?query=Reykjavik%20airport%20transfer) is betrouwbaar actief op Keflavík, met vaste prijzen die gunstiger zijn dan wat de taxistandplaats je biedt.
 
 Een echt handige optie: transfers die op weg naar Reykjavik stoppen bij de Blue Lagoon. Heb je een tijdslot bij de Blue Lagoon geboekt (reserveer maanden van tevoren online, want het raakt vol), dan is dit omweggetje van 20 minuten vanaf de luchthaven de efficiëntste manier om aan te komen, met op zondagavond een bad in de Blue Lagoon voordat je aan je route begint.
 
@@ -45,9 +45,8 @@ Bijna alles wat interessant is in IJsland vraagt om een voertuig. Maar niet zoma
 
 De huurautomarkt in IJsland is concurrerend, maar de kwaliteit loopt aan de budgetkant flink uiteen. De beste aanpak:
 
-1. **Vergelijk op [Localrent](https://localrent.com/en/?location=Iceland)**: dit platform is gespecialiseerd in lokale IJslandse verhuurders, vaak 20 tot 30% goedkoper dan internationale merken voor een vergelijkbare 4x4.
-2. **Kijk op [QEEQ](https://www.qeeq.com/search?q=Iceland)** om meerdere aanbieders te vergelijken.
-3. **Boek via [AutoEurope](https://www.autoeurope.com/?location=Iceland)** als je de zekerheid van een bekend internationaal merk verkiest.
+1. **Vergelijk aanbieders op [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20car%20rental)**: lokale IJslandse verhuurders zijn vaak 20 tot 30% goedkoper dan internationale merken voor een vergelijkbare 4x4.
+2. **Kies een bekend internationaal merk** als je de zekerheid van een vertrouwde naam verkiest.
 
 **Boek voor de zomer ruim van tevoren.** Het aanbod aan 4x4-huurauto's in IJsland is in juli–augustus echt beperkt; aankomen zonder reservering en verwachten dat je een geschikte auto vindt, is optimistisch.
 
@@ -94,7 +93,7 @@ De reputatie van rijden in de IJslandse winter is deels overdreven en deels volk
 
 Het mobiele netwerk van IJsland dekt de ringweg en het grootste deel van het zuiden en westen. In het binnenland van de Westfjorden en delen van het hoogland is er geen bereik.
 
-Een IJsland-eSIM van [Airalo](https://www.airalo.com), meestal een databundel van 10 GB voor zo'n $ 15–18, maakt verbinding met de netwerken van Síminn en Nova zonder fysieke simkaart. Koop hem voor vertrek en activeer hem bij aankomst; binnen een paar minuten werkt hij. Zo heb je geen mifi-apparaatje nodig en geen roamingbundel die per dag meer kost dan de eSIM.
+Een IJsland-eSIM op [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20eSIM), meestal een databundel van 10 GB voor zo'n $ 15–18, maakt verbinding met de netwerken van Síminn en Nova zonder fysieke simkaart. Koop hem voor vertrek en activeer hem bij aankomst; binnen een paar minuten werkt hij. Zo heb je geen mifi-apparaatje nodig en geen roamingbundel die per dag meer kost dan de eSIM.
 
 Afgelegen lodges zonder bereik hebben meestal wifi (vaak via satelliet). Download offline kaarten voor je hele route door IJsland voordat je Reykjavik verlaat.
 
@@ -105,7 +104,7 @@ Afgelegen lodges zonder bereik hebben meestal wifi (vaak via satelliet). Downloa
 Rijden op F-wegen, gletsjerwandelingen en de afgelegen ligging van veel accommodaties in IJsland vragen om een goede reisverzekering. Twee dingen om te checken:
 
 1. **Dekking voor offroad rijden:** sommige standaardpolissen en sommige afkoopregelingen van huurauto's sluiten schade op F-wegen uit. Neem voor volledige gemoedsrust de Sand and Ash Protection (SAAP) of de Super Collision Damage Waiver (SCDW) bij je verhuurder, of controleer of de huurautodekking van je creditcard specifiek IJslandse omstandigheden dekt.
-2. **Dekking voor zoek- en reddingsacties:** de IJslandse reddingsdienst ICE-SAR (Iceann Search and Rescue) is gratis, maar medische evacuatie vanaf afgelegen plekken kost geld. [SafetyWing](https://safetywing.com) dekt avontuurlijke activiteiten, waaronder gletsjerwandelingen, zonder extra premie.
+2. **Dekking voor zoek- en reddingsacties:** de IJslandse reddingsdienst ICE-SAR (Iceann Search and Rescue) is gratis, maar medische evacuatie vanaf afgelegen plekken kost geld. Controleer of je polis avontuurlijke activiteiten dekt, waaronder gletsjerwandelingen.
 
 ---
 
@@ -113,11 +112,11 @@ Rijden op F-wegen, gletsjerwandelingen en de afgelegen ligging van veel accommod
 
 Een verstandige volgorde voor een autorondreis door IJsland langs de afgelegen accommodaties:
 
-1. **Vluchten:** boek 3 tot 4 maanden vooruit voor het tussenseizoen; meer dan 6 maanden voor juli. Zoek op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Iceland/anytime/anytime).
-2. **Huurauto:** boek tegelijk met je vluchten. [Localrent](https://localrent.com/en/?location=Iceland) voor voordelige 4x4's; internationale merken via [QEEQ](https://www.qeeq.com/search?q=Iceland) voor extra zekerheid qua verzekering.
-3. **eSIM:** koop een IJsland-eSIM van [Airalo](https://www.airalo.com) en installeer hem op je telefoon.
+1. **Vluchten:** boek 3 tot 4 maanden vooruit voor het tussenseizoen; meer dan 6 maanden voor juli.
+2. **Huurauto:** boek tegelijk met je vluchten. Vergelijk voordelige 4x4's en internationale merken (voor extra zekerheid qua verzekering) op [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20car%20rental).
+3. **eSIM:** koop een IJsland-eSIM op [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20eSIM) en installeer hem op je telefoon.
 4. **Afgelegen lodges:** boek rechtstreeks. De meeste kleine IJslandse accommodaties staan niet op boekingssites en raken vol via directe reserveringen per e-mail.
 5. **Blue Lagoon:** reserveer vooraf online; het raakt echt vol.
-6. **Reisverzekering:** [SafetyWing](https://safetywing.com) als basis; check de dekking van je voertuig op F-wegen apart.
+6. **Reisverzekering:** een basisverzekering; check de dekking van je voertuig op F-wegen apart.
 
 De formule voor reizen door IJsland die de meeste mensen pas bij hun tweede bezoek ontdekken: minder nachten in Reykjavik, meer nachten op plekken die niet Reykjavik zijn. De hoofdstad is twee nachten waard. De zuidkust, het schiereiland Snæfellsnes en het noorden zijn de rest van de tijd waard die je hebt.

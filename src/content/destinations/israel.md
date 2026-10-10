@@ -44,24 +44,22 @@ The Negev Desert — which covers 60% of the country's land area — is the aspe
 
 ## Getting There
 
-**Flights:** Ben Gurion International Airport (TLV) near Tel Aviv is Israel's main gateway, with direct flights from all European capitals, North America, and major Asian hubs. Eilat's Ramon Airport (ETM) handles regional connections and charters. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Israel/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/israel).
+**Flights:** Ben Gurion International Airport (TLV) near Tel Aviv is Israel's main gateway, with direct flights from all European capitals, North America, and major Asian hubs.
 
-**Airport Transfer:** Ben Gurion is 20 km from Tel Aviv and 50 km from Jerusalem. Trains run to Tel Aviv city centre every 30 minutes. For private transfers — particularly practical for late arrivals or Jerusalem travel — book through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tel+Aviv) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tel+Aviv).
+**Airport Transfer:** Ben Gurion is 20 km from Tel Aviv and 50 km from Jerusalem. Trains run to Tel Aviv city centre every 30 minutes. For private transfers — particularly practical for late arrivals or Jerusalem travel — book through [Klook](https://www.klook.com/en-US/search-results/?query=Tel%20Aviv%20airport%20transfer).
 
 ## Getting Around
 
-**Car Rental:** Essential for the Negev and Galilee. Israeli roads are excellent and well-signposted in Hebrew and English. Compare rental rates on [Localrent](https://localrent.com/en/?location=Israel), [QEEQ](https://www.qeeq.com/search?q=Israel), or [AutoEurope](https://www.autoeurope.com/?location=Israel). Note: avoid the cheapest local companies; quality varies significantly.
+**Car Rental:** Essential for the Negev and Galilee. Israeli roads are excellent and well-signposted in Hebrew and English. Compare rental rates on [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20car%20rental). Note: avoid the cheapest local companies; quality varies significantly.
 
 **Rail and Bus:** The train network connects Tel Aviv, Jerusalem, Haifa, Be'er Sheva, and Nahariya. Egged and Dan bus companies cover routes not served by rail. Jerusalem's light rail is useful within the city. Note: no public transport during Shabbat.
 
 ## Tours & Experiences
 
-Book Jerusalem Old City tours, Dead Sea day trips, Makhtesh Ramon guided hikes, and Masada sunrise experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Israel) and [Viator](https://www.viator.com/Israel/d724-ttd). Negev desert jeep tours and Bedouin camp experiences are well-covered by regional operators. Wine region tours in the Golan and Galilee are bookable through [WeGoTrip](https://wegotrip.com/destinations/israel/).
+Book Jerusalem Old City tours, Dead Sea day trips, Makhtesh Ramon guided hikes, and Masada sunrise experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Israel). Negev desert jeep tours and Bedouin camp experiences are well-covered by regional operators. Wine region tours in the Golan and Galilee are bookable the same way.
 
 ## Travel Essentials
 
-**eSIM:** Israel has excellent 4G/5G coverage including in the Negev highway corridors, though signal drops in remote desert. Get an Israel eSIM from [Airalo](https://www.airalo.com) — Cellcom and Partner have the best rural coverage.
+**eSIM:** Israel has excellent 4G/5G coverage including in the Negev highway corridors, though signal drops in remote desert. Get an Israel eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20eSIM) — Cellcom and Partner have the best rural coverage.
 
-**Travel Insurance:** Standard travel insurance covers Israel; some policies exclude conflict-adjacent areas. Check your policy specifically. [SafetyWing](https://safetywing.com) covers adventure activities including desert hiking and diving.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) are useful for accessing content from home and maintaining privacy on hotel networks.
+**Travel Insurance:** Standard travel insurance covers Israel; some policies exclude conflict-adjacent areas. Check your policy specifically.

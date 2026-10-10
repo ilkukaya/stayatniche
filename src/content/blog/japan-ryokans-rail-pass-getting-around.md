@@ -38,11 +38,11 @@ This guide maps the rail routes to Japan's most interesting niche accommodation.
 
 **Flights:** Tokyo's Haneda (HND) and Narita (NRT) airports are the main international entry points. Osaka Kansai (KIX) is the better arrival for a Kyoto-first itinerary — the Haruka Express connects directly to Kyoto Station in 75 minutes. Sapporo's New Chitose Airport (CTS) is the Hokkaido gateway, with direct seasonal flights from Tokyo, Taipei, Seoul, and Hong Kong.
 
-Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/japan). Cherry blossom season (late March–mid-April) and autumn foliage (October–November) are the most popular periods — flights into these windows book up 4–6 months ahead and command premium prices.
+Cherry blossom season (late March–mid-April) and autumn foliage (October–November) are the most popular periods — flights into these windows book up 4–6 months ahead and command premium prices.
 
 **Airport Transfer to the City:** From Haneda, the Tokyo Monorail or Keikyu Line reaches the city in 14–20 minutes. From Narita, the N'EX (Narita Express) reaches Shinjuku and Shibuya in 60–80 minutes. From Kansai, the Haruka Express is the standard connection to Kyoto and Osaka.
 
-For private transfers — useful on arrival with heavy luggage before you've collected your JR Pass — [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) and [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo) both have Tokyo and Osaka coverage.
+For private transfers — useful on arrival with heavy luggage before you've collected your JR Pass — [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer) has Tokyo and Osaka coverage.
 
 ---
 
@@ -71,7 +71,7 @@ Hakone is the most accessible ryokan destination from Tokyo, 90 minutes by the O
 
 **Rail route:** Shinjuku → Hakone-Yumoto (Odakyu Romancecar, 85 minutes direct). From Hakone-Yumoto, the Hakone Tozan Railway switchbacks up to Gora (30 minutes); from Gora, a ropeway crosses the volcanic Owakudani valley.
 
-**Accommodation:** [Gōra Kadan](https://www.booking.com/hotel/jp/gora-kadan.html) at the top of the Gora cable car is the most prestigious Hakone ryokan. Mid-range options along Hakone-Yumoto's river valley offer genuine tatami rooms and private onsen at accessible prices.
+**Accommodation:** Gōra Kadan at the top of the Gora cable car is the most prestigious Hakone ryokan. Mid-range options along Hakone-Yumoto's river valley offer genuine tatami rooms and private onsen at accessible prices. Search Hakone stays on [Expedia](https://www.expedia.com/Hotel-Search?destination=Hakone%2C%20Japan).
 
 Book Hakone tours and Fuji-viewing experiences on [Klook](https://www.klook.com/en-US/search-results/?query=Hakone+Mount+Fuji) — the Open Air Museum entry and Hakone cruise tickets are available as combos.
 
@@ -96,7 +96,7 @@ Kyoto deserves its own extended guide, but the practical rail information: the c
 - **Arashiyama:** 20 minutes by Sagano Scenic Railway or Hankyu Line. Smaller, more accessible ryokan in a forested river valley setting.
 - **Nishiki/Kawaramachi area:** Budget and mid-range ryokan within walking distance of the Nishiki Market.
 
-Book Kyoto experiences — tea ceremony, Noh theatre, sake tasting — on [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto) and [Viator](https://www.viator.com/Kyoto/d342-ttd). The free Fushimi Inari Shrine is worth the early morning (5–6am) before tour groups arrive.
+Book Kyoto experiences — tea ceremony, Noh theatre, sake tasting — on [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto). The free Fushimi Inari Shrine is worth the early morning (5–6am) before tour groups arrive.
 
 ---
 
@@ -110,7 +110,7 @@ Book Kyoto experiences — tea ceremony, Noh theatre, sake tasting — on [Klook
 
 **Niseko in summer:** The crowds and prices drop significantly; the landscape of volcanic peaks, flower farms, and highland meadows is genuinely beautiful. Zaborin's private onsen and kaiseki operate year-round.
 
-Search New Chitose Airport to Niseko transfers through [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Sapporo) or book directly through Zaborin.
+Search New Chitose Airport to Niseko transfers through [Klook](https://www.klook.com/en-US/search-results/?query=New%20Chitose%20airport%20transfer) or book directly through Zaborin.
 
 ---
 
@@ -128,7 +128,7 @@ Search New Chitose Airport to Niseko transfers through [KiwiTaxi](https://kiwita
 
 ## eSIM and Connectivity in Japan
 
-Japan's 4G and 5G networks are excellent throughout the country including rural onsen towns. A Japan eSIM from [Airalo](https://www.airalo.com) — typically ¥1,500–2,500 for a 10GB 30-day plan — is the most practical connectivity solution for visitors. It activates immediately, avoids the need for a pocket WiFi device, and works on all major Japanese carrier networks.
+Japan's 4G and 5G networks are excellent throughout the country including rural onsen towns. A Japan eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM) — typically ¥1,500–2,500 for a 10GB 30-day plan — is the most practical connectivity solution for visitors. It activates immediately, avoids the need for a pocket WiFi device, and works on all major Japanese carrier networks.
 
 **Note on pocket WiFi:** Pocket WiFi rental at the airport is the traditional foreigner solution in Japan, but eSIM is now better in almost every respect — more convenient, no hardware to return, and increasingly cheaper. The only exception: if you're travelling in a group and want one shared data pool rather than individual eSIMs.
 
@@ -138,7 +138,7 @@ Japan's 4G and 5G networks are excellent throughout the country including rural 
 
 Japan is a safe country with exceptional healthcare — but that healthcare is expensive for uninsured foreign visitors. Hospital admission in Tokyo can cost $500–2,000 per day; an emergency requiring extended care could reach $10,000–20,000.
 
-[SafetyWing](https://safetywing.com) covers Japan's medical costs and includes adventure activities (skiing in Niseko, hiking in the Japanese Alps) at no additional premium. For ryokan stays specifically: most high-end properties require 6–month advance booking with non-refundable deposits; a travel insurance policy that covers trip cancellation is worth checking.
+Choose a policy that covers Japan's medical costs and the adventure activities you plan (skiing in Niseko, hiking in the Japanese Alps). For ryokan stays specifically: most high-end properties require 6–month advance booking with non-refundable deposits; a travel insurance policy that covers trip cancellation is worth checking.
 
 ---
 
@@ -146,10 +146,10 @@ Japan is a safe country with exceptional healthcare — but that healthcare is e
 
 Each stop on the Japan ryokan circuit has bookable local experiences:
 
-- **Tokyo:** Tsukiji morning market tours, sake brewery visits, sumo morning practice tours — [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo) and [Viator](https://www.viator.com/Tokyo/d334-ttd)
+- **Tokyo:** Tsukiji morning market tours, sake brewery visits, sumo morning practice tours — [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo)
 - **Kyoto:** Tea ceremony, geisha district evening walking tours, Arashiyama bamboo grove guided walks — [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto)
 - **Naoshima:** Chichu Art Museum timed entry reservations — book directly at [benesse-artsite.jp](https://benesse-artsite.jp)
 - **Hakone:** Open Air Museum, Fuji Views, and hot spring circuit — [Klook](https://www.klook.com/en-US/search-results/?query=Hakone)
-- **Niseko:** Ski pass, heli-skiing, powder snow tours — through the resort directly or [Viator](https://www.viator.com/Niseko/d51291-ttd)
+- **Niseko:** Ski pass, heli-skiing, powder snow tours — through the resort directly or [Klook](https://www.klook.com/en-US/search-results/?query=Niseko)
 
 The Japan Rail Pass makes all of this connected and logical. Purchase it before departure, collect it at the airport, and let the Shinkansen network do the rest.

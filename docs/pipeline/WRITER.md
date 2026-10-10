@@ -114,7 +114,9 @@ run out of time, and you must say so in the final message.
    and that `if_version`. It then appears under "Yayında" on the review page.
 
 ## 5. Check and ship
-1. `npm run build && node scripts/check-build.mjs` must pass.
+1. `node scripts/check-duplicates.mjs && npm run build && node scripts/check-build.mjs` must pass. If the
+   duplicate check names a stay you just wrote, it is already on the site: delete your new file and its
+   translations, set that candidate to `duplicate` with `duplicateOf: "<existing slug>"`, and move on.
 2. Commit (message: `pipeline: publish N stays (YYYY-MM-DD)`), push, open a PR to the default branch, and merge it
    once CI is green. If CI fails, fix or drop the offending file; never merge red.
 3. Trigger the `fetch-photos.yml` workflow on the default branch to look for free-licensed photos.

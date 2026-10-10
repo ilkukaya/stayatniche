@@ -43,24 +43,22 @@ La costa meridionale, a lungo trascurata dai viaggiatori concentrati solo sui te
 
 ## Come arrivare
 
-**Voli:** Phnom Penh (PNH) e Siem Reap (REP) sono i due principali aeroporti internazionali della Cambogia. Bangkok (BKK), Kuala Lumpur (KUL), Singapore (SIN) e Ho Chi Minh City (SGN) hanno tutti numerosi collegamenti giornalieri. Sono frequenti anche i voli diretti da Incheon, Guangzhou e Taipei. Cerca e confronta i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Cambodia/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/cambodia).
+**Voli:** Phnom Penh (PNH) e Siem Reap (REP) sono i due principali aeroporti internazionali della Cambogia. Bangkok (BKK), Kuala Lumpur (KUL), Singapore (SIN) e Ho Chi Minh City (SGN) hanno tutti numerosi collegamenti giornalieri. Sono frequenti anche i voli diretti da Incheon, Guangzhou e Taipei.
 
-**Transfer dall’aeroporto:** l’aeroporto di Siem Reap dista 3 km dalla città, circa 10 minuti di tragitto. Quello di Phnom Penh è a 10 km dal Riverside. Prenota transfer privati con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Siem+Reap) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). I tuk-tuk sono ovunque e rappresentano un’alternativa suggestiva per i brevi tragitti in città.
+**Transfer dall’aeroporto:** l’aeroporto di Siem Reap dista 3 km dalla città, circa 10 minuti di tragitto. Quello di Phnom Penh è a 10 km dal Riverside. Prenota transfer privati con [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20airport%20transfer). I tuk-tuk sono ovunque e rappresentano un’alternativa suggestiva per i brevi tragitti in città.
 
 ## Come muoversi
 
 **Tuk-tuk e autista a noleggio:** è il modo più comune per visitare Angkor Wat e muoversi a Siem Reap. La maggior parte degli hotel organizza autisti di tuk-tuk affidabili e anglofoni a tariffa giornaliera. Per il tragitto via terra Phnom Penh–Siem Reap (6 ore) si può noleggiare un’auto con autista, molto più comoda dell’autobus.
 
-**Motoscafi:** collegano Phnom Penh a Siem Reap attraverso il lago Tonle Sap (barca veloce, 5–6 ore, panoramica ma movimentata) e servono le isole della costa meridionale da Sihanoukville. Per il noleggio auto in città confronta le offerte su [QEEQ](https://www.qeeq.com/search?q=Phnom+Penh%2C+Cambodia) o [Localrent](https://localrent.com/en/?location=Phnom+Penh).
+**Motoscafi:** collegano Phnom Penh a Siem Reap attraverso il lago Tonle Sap (barca veloce, 5–6 ore, panoramica ma movimentata) e servono le isole della costa meridionale da Sihanoukville. Per il noleggio auto in città confronta le offerte su [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20car%20rental).
 
 ## Tour ed esperienze
 
-Prenota i tour all’alba ad Angkor Wat, le escursioni ai villaggi galleggianti del Tonle Sap e i tour storici di Phnom Penh su [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor) e [Viator](https://www.viator.com/Cambodia/d733-ttd). I trekking nei monti Cardamomi e i soggiorni negli eco-lodge si organizzano al meglio tramite operatori specializzati in conservazione. Corsi di cucina cambogiana, laboratori di tessitura della seta e tour fotografici dei templi si trovano su [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
+Prenota i tour all’alba ad Angkor Wat, le escursioni ai villaggi galleggianti del Tonle Sap e i tour storici di Phnom Penh su [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). I trekking nei monti Cardamomi e i soggiorni negli eco-lodge si organizzano al meglio tramite operatori specializzati in conservazione. Corsi di cucina cambogiana, laboratori di tessitura della seta e tour fotografici dei templi si trovano anche su Klook.
 
 ## Informazioni pratiche
 
-**eSIM:** procurati una eSIM per la Cambogia su [Airalo](https://www.airalo.com). Smart e Cellcard hanno la copertura migliore; nei monti Cardamomi il segnale è discontinuo e negli eco-lodge più remoti è assente. La maggior parte dei lodge nella giungla usa il Wi-Fi satellitare.
+**eSIM:** procurati una eSIM per la Cambogia su [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20eSIM). Smart e Cellcard hanno la copertura migliore; nei monti Cardamomi il segnale è discontinuo e negli eco-lodge più remoti è assente. La maggior parte dei lodge nella giungla usa il Wi-Fi satellitare.
 
-**Assicurazione di viaggio:** indispensabile, perché la sanità pubblica cambogiana è limitata e un’evacuazione medica verso Bangkok o Singapore costa 5.000–15.000 $. [SafetyWing](https://safetywing.com) include l’evacuazione e copre il trekking nella giungla.
-
-**VPN:** [NordVPN](https://nordvpn.com) o [ExpressVPN](https://expressvpn.com) sono indispensabili in Cambogia: alcuni servizi di streaming sono bloccati per area geografica e una VPN protegge la connessione sulle reti degli hotel.
+**Assicurazione di viaggio:** indispensabile, perché la sanità pubblica cambogiana è limitata e un’evacuazione medica verso Bangkok o Singapore costa 5.000–15.000 $. Verifica che la polizza includa l’evacuazione e copra il trekking nella giungla.

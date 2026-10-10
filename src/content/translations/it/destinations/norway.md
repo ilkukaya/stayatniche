@@ -43,13 +43,13 @@ La qualità che più definisce la Norvegia è la luce, o meglio i suoi estremi. 
 
 ## Come arrivare
 
-**Voli:** Oslo Gardermoen (OSL) è lo scalo principale della Norvegia, con collegamenti in tutta Europa e voli diretti a lungo raggio da New York, Chicago e dalle principali città asiatiche. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) e Bodø (BOO) ricevono tutti voli diretti europei: atterrare in questi aeroporti regionali per un itinerario tra i fiordi evita del tutto il trasferimento da Oslo. Cerca e confronta i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Norway/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/norway).
+**Voli:** Oslo Gardermoen (OSL) è lo scalo principale della Norvegia, con collegamenti in tutta Europa e voli diretti a lungo raggio da New York, Chicago e dalle principali città asiatiche. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) e Bodø (BOO) ricevono tutti voli diretti europei: atterrare in questi aeroporti regionali per un itinerario tra i fiordi evita del tutto il trasferimento da Oslo.
 
-**Transfer dall’aeroporto:** l’Oslo Airport Express (Flytoget) collega Gardermoen alla stazione centrale di Oslo in 19 minuti. Per transfer privati verso hotel specifici o verso i fiordi, prenota con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Oslo) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Oslo).
+**Transfer dall’aeroporto:** l’Oslo Airport Express (Flytoget) collega Gardermoen alla stazione centrale di Oslo in 19 minuti. Per transfer privati verso hotel specifici o verso i fiordi, prenota con [Klook](https://www.klook.com/en-US/search-results/?query=Oslo%20airport%20transfer).
 
 ## Come spostarsi
 
-**Auto a noleggio:** le Strade turistiche nazionali (18 percorsi designati) e la regione dei fiordi si esplorano al meglio in auto. Le strade sono eccellenti; d’inverno servono pneumatici invernali (obbligatori per legge da ottobre ad aprile). Confronta le tariffe su [Localrent](https://localrent.com/en/?location=Norway), [QEEQ](https://www.qeeq.com/search?q=Norway) e [AutoEurope](https://www.autoeurope.com/?location=Norway). Noleggiare un’auto elettrica è facile: la Norvegia ha il tasso di diffusione di veicoli elettrici più alto al mondo e colonnine sulla maggior parte dei percorsi.
+**Auto a noleggio:** le Strade turistiche nazionali (18 percorsi designati) e la regione dei fiordi si esplorano al meglio in auto. Le strade sono eccellenti; d’inverno servono pneumatici invernali (obbligatori per legge da ottobre ad aprile). Confronta le tariffe su [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20car%20rental). Noleggiare un’auto elettrica è facile: la Norvegia ha il tasso di diffusione di veicoli elettrici più alto al mondo e colonnine sulla maggior parte dei percorsi.
 
 **Traghetti:** indispensabili per viaggiare tra i fiordi, perché molti attraversamenti non hanno un’alternativa su strada. Il traghetto costiero Hurtigruten da Bergen a Kirkenes impiega 6 giorni ed è uno dei grandi viaggi via mare del mondo. I traghetti per auto si prenotano tramite Fjord1 e Norled; d’estate conviene riservare in anticipo.
 
@@ -57,12 +57,10 @@ La qualità che più definisce la Norvegia è la luce, o meglio i suoi estremi. 
 
 ## Tour ed esperienze
 
-Prenota i tour in kayak nel Geirangerfjord, i safari dell’aurora boreale da Tromsø, le uscite in slitta trainata da cani nel Finnmark e le escursioni nel fiordo di Flåm su [Klook](https://www.klook.com/en-US/search-results/?query=Norway) e [Viator](https://www.viator.com/Norway/d78-ttd). La stagione delle spedizioni polari alle Svalbard (marzo–ottobre) si organizza al meglio con operatori specializzati nell’Artico. Kayak da mare ed escursioni sul ghiacciaio nella zona dello Jostedalsbreen si prenotano con gli outfitter locali su [WeGoTrip](https://wegotrip.com/destinations/norway/).
+Prenota i tour in kayak nel Geirangerfjord, i safari dell’aurora boreale da Tromsø, le uscite in slitta trainata da cani nel Finnmark e le escursioni nel fiordo di Flåm su [Klook](https://www.klook.com/en-US/search-results/?query=Norway). La stagione delle spedizioni polari alle Svalbard (marzo–ottobre) si organizza al meglio con operatori specializzati nell’Artico. Kayak da mare ed escursioni sul ghiacciaio nella zona dello Jostedalsbreen si prenotano con gli outfitter locali.
 
 ## Informazioni pratiche
 
-**eSIM:** la Norvegia ha un’ottima copertura 4G su tutte le strade principali e in città; il segnale si perde alle Svalbard e nelle zone più remote dei fiordi. Procurati una eSIM per la Norvegia su [Airalo](https://www.airalo.com) prima di partire: Telenor ha la copertura migliore nelle zone rurali e alle Svalbard.
+**eSIM:** la Norvegia ha un’ottima copertura 4G su tutte le strade principali e in città; il segnale si perde alle Svalbard e nelle zone più remote dei fiordi. Procurati una eSIM per la Norvegia su [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20eSIM) prima di partire: Telenor ha la copertura migliore nelle zone rurali e alle Svalbard.
 
-**Assicurazione di viaggio:** indispensabile per le attività all’aperto in Norvegia. Verifica che la polizza copra l’escursionismo in montagna (i soccorsi a Trolltunga e Preikestolen costano cari). [SafetyWing](https://safetywing.com) copre gli sport d’avventura e l’evacuazione d’emergenza.
-
-**VPN:** [NordVPN](https://nordvpn.com), che per ironia della sorte ha sede a Oslo, è un’ottima scelta per viaggiare in Norvegia. [ExpressVPN](https://expressvpn.com) è l’alternativa affidabile.
+**Assicurazione di viaggio:** indispensabile per le attività all’aperto in Norvegia. Verifica che la polizza copra l’escursionismo in montagna (i soccorsi a Trolltunga e Preikestolen costano cari). Assicurati che copra anche gli sport d’avventura e l’evacuazione d’emergenza.

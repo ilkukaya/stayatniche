@@ -90,13 +90,13 @@ Quanto al servizio per Fort William, la cittadina in sé è modesta, ma è la po
 
 Alcuni itinerari in treno notte in Europa richiedono ancora un volo a un capo del viaggio: si vola su un grande hub e poi si prosegue in treno. Spesso è la soluzione migliore: un volo lungo invece di due o tre brevi, con il treno che gestisce i collegamenti all’interno del continente.
 
-Per il volo transatlantico o dall’Asia-Pacifico, cerca su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Europe/anytime/anytime) o [Aviasales](https://www.aviasales.com/search/to/europe). Le migliori combinazioni treno-aereo:
+Pianifica prima il volo transatlantico o dall’Asia-Pacifico e costruisci attorno a esso le tratte in treno. Le migliori combinazioni treno-aereo:
 
 - **Vola su Londra, poi in treno verso sud ed est:** prendi l’Eurostar per Parigi, poi il Nightjet per Vienna o Barcellona. Un volo, tre Paesi in treno.
 - **Vola su Amsterdam:** i collegamenti ferroviari olandesi con la rete ICE tedesca sono perfetti. Da Amsterdam puoi salire sull’European Sleeper per Praga senza cambiare aeroporto.
 - **Vola su Zurigo:** la posizione della Svizzera come snodo ferroviario ne fa la porta d’ingresso in treno notte per l’Italia e il sud della Francia.
 
-**Transfer dagli aeroporti hub:** prenota con [Welcome Pickups](https://www.welcomepickups.com/) un autista privato dai principali aeroporti europei, particolarmente utile quando arrivi da un volo intercontinentale e la sera stessa prendi un treno notte.
+**Transfer dagli aeroporti hub:** prenota su [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20airport%20transfer) un autista privato dai principali aeroporti europei, particolarmente utile quando arrivi da un volo intercontinentale e la sera stessa prendi un treno notte.
 
 ---
 
@@ -106,7 +106,7 @@ Nella maggior parte dei casi l’itinerario in treno notte è per definizione un
 
 L’eccezione: se il tuo percorso include mete rurali fuori dalla rete ferroviaria principale. Le Highlands scozzesi, la Valle della Loira, la Toscana, i fiordi norvegesi si esplorano tutti molto meglio in auto. In questi casi la soluzione pratica è arrivare in aereo o in treno nella città hub più vicina e poi ritirare un’auto a noleggio.
 
-Per il noleggio auto in Europa confronta [AutoEurope](https://www.autoeurope.com/?location=Europe), [QEEQ](https://www.qeeq.com/search?q=Europe) e [Localrent](https://localrent.com/en/) per le agenzie locali. Per chi viaggia in auto elettrica, sempre più pratico in Scandinavia e Germania, queste piattaforme ora includono filtri di ricerca dedicati.
+Per il noleggio auto in Europa confronta le offerte su [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20car%20rental). Per chi viaggia in auto elettrica, sempre più pratico in Scandinavia e Germania, cerca le opzioni di veicoli elettrici in fase di prenotazione.
 
 ---
 
@@ -114,9 +114,9 @@ Per il noleggio auto in Europa confronta [AutoEurope](https://www.autoeurope.com
 
 Il modello del treno notte è efficiente perché il trasferimento avviene di notte. Le giornate restano interamente libere per la destinazione. Le città da abbinare agli arrivi in treno notte offrono ottime esperienze locali:
 
-- **Vienna:** prenota tour enologici, biglietti per l’opera (i posti in piedi della Staatsoper costano 4 € e valgono ogni centesimo) e l’ingresso salta-coda al Kunsthistorisches Museum su [Viator](https://www.viator.com/Vienna/d479-ttd) o [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
+- **Vienna:** prenota tour enologici, biglietti per l’opera (i posti in piedi della Staatsoper costano 4 € e valgono ogni centesimo) e l’ingresso salta-coda al Kunsthistorisches Museum su [Klook](https://www.klook.com/en-US/search-results/?query=Vienna).
 - **Parigi:** crociere sulla Senna, ingresso salta-coda alla Torre Eiffel, passeggiate guidate al Père-Lachaise e corsi di cucina, tutto prenotabile su [Klook](https://www.klook.com/en-US/search-results/?query=Paris).
-- **Highlands scozzesi (da Inverness o Fort William):** gite in barca sul Loch Ness, escursioni guidate a Glencoe e visite alle distillerie di whisky su [Viator](https://www.viator.com/Inverness/d5458-ttd).
+- **Highlands scozzesi (da Inverness o Fort William):** gite in barca sul Loch Ness, escursioni guidate a Glencoe e visite alle distillerie di whisky su [Klook](https://www.klook.com/en-US/search-results/?query=Inverness).
 
 ---
 
@@ -124,9 +124,9 @@ Il modello del treno notte è efficiente perché il trasferimento avviene di not
 
 Il roaming in Europa è regolato dalle norme UE per i cittadini dell’Unione, ma chi arriva da fuori paga il roaming sulle diverse reti nazionali. Una eSIM risolve il problema:
 
-La eSIM regionale Europa di [Airalo](https://www.airalo.com) copre oltre 30 Paesi europei con un unico piano, in genere 10 GB per 20–25 $. Passa automaticamente da una rete nazionale all’altra mentre il treno notte attraversa i confini, mantenendoti connesso senza alcuna configurazione. Installala prima di partire, attivala all’arrivo.
+Una eSIM regionale Europa di [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20eSIM) copre oltre 30 Paesi europei con un unico piano, in genere 10 GB per 20–25 $. Passa automaticamente da una rete nazionale all’altra mentre il treno notte attraversa i confini, mantenendoti connesso senza alcuna configurazione. Installala prima di partire, attivala all’arrivo.
 
-Per il solo Regno Unito (Caledonian Sleeper), una eSIM britannica di Airalo (di solito 12–15 £ per 10 GB) conviene più del piano europeo per un viaggio in un unico Paese.
+Per il solo Regno Unito (Caledonian Sleeper), una eSIM britannica (di solito 12–15 £ per 10 GB) conviene più del piano europeo per un viaggio in un unico Paese.
 
 ---
 

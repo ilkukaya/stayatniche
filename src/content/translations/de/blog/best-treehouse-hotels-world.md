@@ -16,7 +16,7 @@ Das legendäre Treehotel in Schweden ist der Maßstab schlechthin. Sieben von Ar
 
 **Ideal für:** Architekturliebhaber, Polarlichtjäger, Designbegeisterte
 **Preise ab:** 300 $ pro Nacht
-**[Preise prüfen →](https://www.booking.com/hotel/se/treehotel.html)**
+**[Preise prüfen →](https://www.expedia.com/Hotel-Search?destination=Harads%2C%20Sweden)**
 
 
 Tief im Nebelwald von Monteverde gelegen, versetzen Sie diese luxuriösen Baumhaussuiten mitten in die außergewöhnliche Artenvielfalt Costa Ricas. Sie erwachen mit Brüllaffen, Kolibris und Quetzals – direkt vor Ihrer privaten Terrasse.

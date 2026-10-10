@@ -45,22 +45,20 @@ Die anhaltende Schwäche des Yen gegenüber Dollar und Euro seit 2022 hat Japan 
 
 ## Anreise
 
-**Flüge:** Tokios Flughäfen Narita (NRT) und Haneda (HND) sind die wichtigsten internationalen Einreisepunkte; der Kansai-Flughafen (KIX) in Osaka ist das nähere Tor nach Kyoto (75 Minuten mit dem Haruka Express). Direktflüge nach Osaka aus London, Paris, Amsterdam und Helsinki machen die Ankunft in Kansai für eine Reise, die in Kyoto beginnt, praktisch. Flüge suchen und vergleichen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kyoto/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/osaka).
+**Flüge:** Tokios Flughäfen Narita (NRT) und Haneda (HND) sind die wichtigsten internationalen Einreisepunkte; der Kansai-Flughafen (KIX) in Osaka ist das nähere Tor nach Kyoto (75 Minuten mit dem Haruka Express). Direktflüge nach Osaka aus London, Paris, Amsterdam und Helsinki machen die Ankunft in Kansai für eine Reise, die in Kyoto beginnt, praktisch.
 
-**Flughafentransfer nach Kyoto:** Vom Kansai-Flughafen erreicht der Haruka Limited Express den Bahnhof Kyoto in 75 Minuten. Von Tokio aus ist der Shinkansen Nozomi in 2 Std. 15 Min. in Kyoto. Private Transfers (praktisch mit schwerem Gepäck oder bei später Ankunft in Narita) buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kyoto) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kyoto).
+**Flughafentransfer nach Kyoto:** Vom Kansai-Flughafen erreicht der Haruka Limited Express den Bahnhof Kyoto in 75 Minuten. Von Tokio aus ist der Shinkansen Nozomi in 2 Std. 15 Min. in Kyoto. Private Transfers (praktisch mit schwerem Gepäck oder bei später Ankunft in Narita) buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto%20airport%20transfer).
 
 ## Unterwegs vor Ort
 
-**Bahn:** Der Japan Rail Pass gilt für den Shinkansen zwischen den Städten und für die JR-Regionallinien; kaufen Sie ihn vor der Abreise außerhalb Japans. Kyotos Stadtbusse und U-Bahn verbinden die wichtigsten Tempelviertel. Mit einer IC-Karte (ICOCA in Westjapan, Suica landesweit) bezahlen Sie U-Bahn, Bus und Einkäufe im Convenience Store. Ein Mietwagen ist innerhalb Kyotos überflüssig – Verkehr und Parkplatzsuche machen ihn zum Hindernis. Für Ausflüge in die Region vergleichen Sie Preise bei [QEEQ](https://www.qeeq.com/search?q=Kyoto%2C+Japan) oder [EconomyBookings](https://www.economybookings.com/?location=Kyoto).
+**Bahn:** Der Japan Rail Pass gilt für den Shinkansen zwischen den Städten und für die JR-Regionallinien; kaufen Sie ihn vor der Abreise außerhalb Japans. Kyotos Stadtbusse und U-Bahn verbinden die wichtigsten Tempelviertel. Mit einer IC-Karte (ICOCA in Westjapan, Suica landesweit) bezahlen Sie U-Bahn, Bus und Einkäufe im Convenience Store. Ein Mietwagen ist innerhalb Kyotos überflüssig – Verkehr und Parkplatzsuche machen ihn zum Hindernis. Für Ausflüge in die Region vergleichen Sie Preise bei [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto%20car%20rental).
 
 ## Touren und Erlebnisse
 
-Frühmorgendliche Wanderungen in Fushimi Inari, Rundgänge durch das Geisha-Viertel Gion, Besuche in Sake-Brauereien und Ausflüge in den Bambushain von Arashiyama buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto) und [Viator](https://www.viator.com/Kyoto/d342-ttd). Teezeremonien, kulinarische Touren über den Nishiki-Markt und Kodo-Trommelvorführungen werden durchweg gut bewertet. Traditionelles Nō-Theater und Abendessen mit Maiko (Geisha-Schülerinnen) buchen Sie über [WeGoTrip](https://wegotrip.com/destinations/kyoto/).
+Frühmorgendliche Wanderungen in Fushimi Inari, Rundgänge durch das Geisha-Viertel Gion, Besuche in Sake-Brauereien und Ausflüge in den Bambushain von Arashiyama buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto). Teezeremonien, kulinarische Touren über den Nishiki-Markt und Kodo-Trommelvorführungen werden durchweg gut bewertet. Traditionelles Nō-Theater und Abendessen mit Maiko (Geisha-Schülerinnen) lassen sich dort ebenfalls buchen.
 
 ## Reise-Essentials
 
-**eSIM:** Besorgen Sie sich vor der Abreise eine Japan-eSIM bei [Airalo](https://www.airalo.com). IIJ und Docomo bieten ein hervorragendes 4G-Netz in ganz Japan, auch auf dem Land. Mobile WLAN-Router zum Mieten an den Flughäfen sind die Alternative, eine eSIM ist jedoch einfacher.
+**eSIM:** Besorgen Sie sich vor der Abreise eine Japan-eSIM bei [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM). IIJ und Docomo bieten ein hervorragendes 4G-Netz in ganz Japan, auch auf dem Land. Mobile WLAN-Router zum Mieten an den Flughäfen sind die Alternative, eine eSIM ist jedoch einfacher.
 
-**Reiseversicherung:** Herkömmliche Reiseversicherungen decken Japan gut ab. Entscheidend sind Reiserücktritt (Buchungen zur Kirschblüte und zum Herbstlaub sind teuer, wenn sie verfallen) und Krankenversicherung (die Behandlungskosten in Japan sind für Nichtversicherte hoch). [SafetyWing](https://safetywing.com) deckt Japan umfassend ab.
-
-**VPN:** [NordVPN](https://nordvpn.com) oder [ExpressVPN](https://expressvpn.com), um an Ryokan-Abenden auf Streamingdienste aus der Heimat zuzugreifen.
+**Reiseversicherung:** Herkömmliche Reiseversicherungen decken Japan gut ab. Entscheidend sind Reiserücktritt (Buchungen zur Kirschblüte und zum Herbstlaub sind teuer, wenn sie verfallen) und Krankenversicherung (die Behandlungskosten in Japan sind für Nichtversicherte hoch).

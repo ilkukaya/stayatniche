@@ -16,7 +16,7 @@ Het legendarische Treehotel in Zweden is de gouden standaard. Zeven door archite
 
 **Ideaal voor:** architectuurliefhebbers, noorderlichtjagers, designfans
 **Prijs vanaf:** $ 300 per nacht
-**[Bekijk tarieven →](https://www.booking.com/hotel/se/treehotel.html)**
+**[Bekijk tarieven →](https://www.expedia.com/Hotel-Search?destination=Harads%2C%20Sweden)**
 
 
 Deze luxe boomhutsuites liggen diep in het nevelwoud van Monteverde en zetten je midden in de buitengewone biodiversiteit van Costa Rica. Word wakker met brulapen, kolibries en quetzals, recht vanaf je eigen terras.

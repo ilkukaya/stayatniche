@@ -50,24 +50,22 @@ Helsinki deserves more than a transit night. The Design District, the Temppeliau
 
 ## Getting There
 
-**Flights:** Helsinki Vantaa (HEL) is Finland's main hub, with direct connections throughout Europe and long-haul routes to Asia via Finnair. Rovaniemi (RVN) receives direct seasonal charter flights from the UK and Germany (November–March), eliminating the Helsinki connection for winter Lapland trips. Ivalo (IVL) — closest airport to Saariselkä aurora cabins — is under 90 minutes from Helsinki. Search flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Finland/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/finland).
+**Flights:** Helsinki Vantaa (HEL) is Finland's main hub, with direct connections throughout Europe and long-haul routes to Asia via Finnair. Rovaniemi (RVN) receives direct seasonal charter flights from the UK and Germany (November–March), eliminating the Helsinki connection for winter Lapland trips. Ivalo (IVL) — closest airport to Saariselkä aurora cabins — is under 90 minutes from Helsinki.
 
-**Airport Transfer:** Helsinki's Ring Rail Line connects Vantaa Airport to the city centre in 30 minutes. For Rovaniemi or Ivalo, most Lapland lodges provide direct transfers. Book private city transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Helsinki) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Helsinki).
+**Airport Transfer:** Helsinki's Ring Rail Line connects Vantaa Airport to the city centre in 30 minutes. For Rovaniemi or Ivalo, most Lapland lodges provide direct transfers. Book private city transfers through [Klook](https://www.klook.com/en-US/search-results/?query=Helsinki%20airport%20transfer).
 
 ## Getting Around
 
-**Car Rental:** Essential for the Lakeland and Lapland. Winter tyres are mandatory November–March. Compare rates on [Localrent](https://localrent.com/en/?location=Finland), [QEEQ](https://www.qeeq.com/search?q=Finland), and [AutoEurope](https://www.autoeurope.com/?location=Finland).
+**Car Rental:** Essential for the Lakeland and Lapland. Winter tyres are mandatory November–March. Compare rates on [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20car%20rental).
 
 **Rail:** VR Finnish Railways connects Helsinki to Rovaniemi overnight on the Santa Claus Express sleeper train (12 hours — itself an experience). Book through [VR](https://www.vr.fi/en).
 
 ## Tours & Experiences
 
-Book northern lights safaris, husky sled tours, reindeer farm visits, and Finnish sauna experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Finland) and [Viator](https://www.viator.com/Finland/d52-ttd). Helsinki architecture tours, archipelago kayaking, and traditional smoke sauna experiences are available through [WeGoTrip](https://wegotrip.com/destinations/finland/).
+Book northern lights safaris, husky sled tours, reindeer farm visits, and Finnish sauna experiences through [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Helsinki architecture tours, archipelago kayaking, and traditional smoke sauna experiences are available there too.
 
 ## Travel Essentials
 
-**eSIM:** Get a Finland eSIM from [Airalo](https://www.airalo.com) before departure. Elisa and DNA have the best rural coverage. Most Lapland lodges have WiFi via satellite.
+**eSIM:** Get a Finland eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20eSIM) before departure. Elisa and DNA have the best rural coverage. Most Lapland lodges have WiFi via satellite.
 
-**Travel Insurance:** Cover winter sports if snowmobiling. [SafetyWing](https://safetywing.com) covers cold-weather activities comprehensively.
-
-**VPN:** [NordVPN](https://nordvpn.com) or [ExpressVPN](https://expressvpn.com) for streaming from Lapland lodge evenings.
+**Travel Insurance:** Cover winter sports if snowmobiling.

@@ -36,24 +36,22 @@ El propio río —que en las crecidas de la estación húmeda alcanza hasta 48 k
 
 ## Cómo llegar
 
-**Vuelos:** los aeropuertos de Guarulhos (GRU) y Campinas (VCP), en São Paulo, son las principales puertas de entrada internacionales. El Galeão (GIG) de Río de Janeiro recibe grandes rutas internacionales. Para el Amazonas en concreto, vuela vía Manaos (MAO) o Belém (BEL); Manaos tiene conexiones desde Miami, Lisboa y todas las grandes ciudades brasileñas. A Alta Floresta (ATF, para el Cristalino Lodge) se llega vía Cuiabá (CGB) desde São Paulo. Busca vuelos en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Brazil/anytime/anytime) o [Aviasales](https://www.aviasales.com/search/to/brazil).
+**Vuelos:** los aeropuertos de Guarulhos (GRU) y Campinas (VCP), en São Paulo, son las principales puertas de entrada internacionales. El Galeão (GIG) de Río de Janeiro recibe grandes rutas internacionales. Para el Amazonas en concreto, vuela vía Manaos (MAO) o Belém (BEL); Manaos tiene conexiones desde Miami, Lisboa y todas las grandes ciudades brasileñas. A Alta Floresta (ATF, para el Cristalino Lodge) se llega vía Cuiabá (CGB) desde São Paulo.
 
-**Traslado desde el aeropuerto:** reserva traslados privados desde los aeropuertos brasileños con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Manaus) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Manaus). Para los lodges remotos, normalmente es el propio lodge quien organiza la logística.
+**Traslado desde el aeropuerto:** reserva traslados privados desde los aeropuertos brasileños con [Klook](https://www.klook.com/en-US/search-results/?query=Manaus%20airport%20transfer). Para los lodges remotos, normalmente es el propio lodge quien organiza la logística.
 
 ## Cómo moverse
 
-**Vuelos internos:** imprescindibles para cubrir las distancias brasileñas. LATAM, Gol y Azul conectan todas las grandes ciudades. Reserva directamente o compara en buscadores de vuelos brasileños. Para alquilar coche en el sur y en las ciudades, compara en [Localrent](https://localrent.com/en/?location=Brazil), [QEEQ](https://www.qeeq.com/search?q=Brazil) o [AutoEurope](https://www.autoeurope.com/?location=Brazil).
+**Vuelos internos:** imprescindibles para cubrir las distancias brasileñas. LATAM, Gol y Azul conectan todas las grandes ciudades. Reserva directamente o compara en buscadores de vuelos brasileños. Para alquilar coche en el sur y en las ciudades, compara en [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20car%20rental).
 
 **Barcos fluviales:** los ferris lentos del Amazonas son auténticos y económicos (de Manaos a Santarém, 36 horas; de Manaos a Belém, 4-5 días). Las lanchas rápidas y las avionetas fluviales chárter dan servicio a los lodges remotos.
 
 ## Excursiones y experiencias
 
-Reserva excursiones de fauna por el Amazonas, safaris de jaguares en el Pantanal y experiencias urbanas en Río en [Klook](https://www.klook.com/en-US/search-results/?query=Brazil) y [Viator](https://www.viator.com/Brazil/d350-ttd). Los paquetes especializados en lodges amazónicos y los cruceros de expedición fluvial se organizan mejor con operadores regionales de ecoturismo o con [WeGoTrip](https://wegotrip.com/destinations/brazil/).
+Reserva excursiones de fauna por el Amazonas, safaris de jaguares en el Pantanal y experiencias urbanas en Río en [Klook](https://www.klook.com/en-US/search-results/?query=Brazil). Los paquetes especializados en lodges amazónicos y los cruceros de expedición fluvial se organizan mejor con operadores regionales de ecoturismo.
 
 ## Imprescindibles del viaje
 
-**eSIM:** Brasil tiene buena cobertura 4G en las ciudades y a lo largo de las principales carreteras; en lo más profundo del Amazonas no hay señal. Consigue una eSIM local en [Airalo](https://www.airalo.com): Claro y Vivo tienen la mejor cobertura rural. La mayoría de los lodges amazónicos tienen internet por satélite o VSAT.
+**eSIM:** Brasil tiene buena cobertura 4G en las ciudades y a lo largo de las principales carreteras; en lo más profundo del Amazonas no hay señal. Consigue una eSIM local en [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20eSIM): Claro y Vivo tienen la mejor cobertura rural. La mayoría de los lodges amazónicos tienen internet por satélite o VSAT.
 
-**Seguro de viaje:** imprescindible por las diferencias del sistema sanitario brasileño y las exigencias físicas de viajar por el Amazonas. La cobertura de evacuación médica es importante si te alojas en lodges remotos. [SafetyWing](https://safetywing.com) cubre actividades de aventura sin coste adicional.
-
-**VPN:** [NordVPN](https://nordvpn.com) o [ExpressVPN](https://expressvpn.com) te sirven para acceder a tus plataformas de streaming habituales y para mayor seguridad en las redes wifi públicas de los hoteles.
+**Seguro de viaje:** imprescindible por las diferencias del sistema sanitario brasileño y las exigencias físicas de viajar por el Amazonas. La cobertura de evacuación médica es importante si te alojas en lodges remotos.
