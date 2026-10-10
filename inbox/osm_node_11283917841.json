@@ -1,0 +1,37 @@
+{
+ "id": "osm:node/11283917841",
+ "name": "Pandomes Aurora Igloo Hotel",
+ "queueStatus": "weak",
+ "queueCategory": "ice-hotels",
+ "categories": [
+  "ice-hotels",
+  "bubble-hotels"
+ ],
+ "lat": 66.7223692,
+ "lng": 26.2849407,
+ "country": "Finland",
+ "city": "Rovaniemi",
+ "region": "Lapland",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.booking.com/hotel/fi/pandomes-aurora-igloo.en-gb.html",
+ "fetchedAt": "2026-10-10T07:39:47.154Z",
+ "pages": [
+  {
+   "url": "https://www.booking.com/hotel/fi/pandomes-aurora-igloo.en-gb.html",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.booking.com/hotel/fi/pandomes-aurora-igloo.en-gb.html",
+ "httpStatus": 202,
+ "htmlLang": "en"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "osm:node/1716752252",
+ "name": "Hotel Castello Miramare",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 44.4243368,
+ "lng": 8.8122433,
+ "country": "Italy",
+ "city": "Genoa",
+ "region": "Liguria",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://castellomiramare.it",
+ "fetchedAt": "2026-10-09T07:58:46.130Z",
+ "pages": [
+  {
+   "url": "http://www.castellomiramare.it/",
+   "kind": "home",
+   "title": "Home Page - Castellomiramare",
+   "description": "Hotel Castello Miramare, 3 stelle, si affaccia direttamente sulla spiaggia di Pegli, a pochi chilometri dal centro di Genova",
+   "text": "Home Page - Castellomiramare\nHome\nIl Castello\nL'Hotel oggi\nC'era una volta\nServizi\nGalleria\nContatti\nVai ai contenuti\nHOTEL CASTELLO MIRAMARE\n____________________\nL’ Hotel Castello Miramare, 3 stelle, si affaccia direttamente sulla spiaggia di Pegli, a pochi chilometri dal centro di Genova, e permette di soggiornare in un antico Castello che ha mantenuto intatta l’atmosfera del luogo e parte della sua struttura architettonica.\nConnessione wireless gratuita in tutte le camere e negli spazi comuni.\nOgni camera è dotata di bagno privato con doccia , aria condizionata e riscaldamento, televisore a schermo piatto, frigobar, telefono e bollitore.\nLe nostre camere prevalentemente si affacciano sul mare.\nAccesso diretto alla spiaggia pubblica con possibilità di usufruire del campo di beach volley a pagamento. Stabilimenti balneari nelle vicinanze.\nLa sua posizione strategica, vicino al mare ed al centro città, è raggiungibile anche via mare con il servizio Navebus, che collega, in meno di 30 minuti, Pegli con il Porto Antico, il cuore di Genova (Acquario, Museo del Mare, Centro Congressi Magazzini del Cotone, oltre ovviamente alla Cattedrale di San Lorenzo, il Palazzo Ducale ed il Teatro dell´Opera Carlo Felice).\nReception aperta 24 ore su 24 con servizio concierge, deposito bagagli e cassaforte. Lingue parlate italiano inglese spagnolo.\nParcheggio pubblico nelle vicinanze e posto auto a pagamento disponibile su richiesta.\nAnimali ammessi su richiesta. E' richiesto supplemento giornaliero.\nBar, servizio in camera, sala colazione e convenzione con ristoranti in loco.\nC'ERA UNA VOLTA IL CASTELLO\n.\nL'HOTEL PANORAMICA\nGENOVA \"La Superba\"\n______________________________\nTrascorrere un periodo a Genova offre l'occasione di visitare una città che ha molto da offrire dal punto di vista culturale e del divertimento. L'Hotel Castello Miramare è la soluzione ideale grazie alla sua posizione strategica vicino alla costa e a breve distanza dalle principali attrazioni della città\nTorna ai contenuti"
+  },
+  {
+   "url": "http://www.castellomiramare.it/l-hotel-oggi.html",
+   "kind": "sub",
+   "label": "L&#39;Hotel oggi",
+   "title": "L&#39;Hotel oggi - Castellomiramare",
+   "text": "L'Hotel oggi - Castellomiramare\nHome\nIl Castello\nL'Hotel oggi\nC'era una volta\nServizi\nGalleria\nContatti\nVai ai contenuti\nL'HOTEL OGGI\n______________________________\nL’Hotel Castello Miramnare si affaccia direttamente sulla spiaggia di Pegli, a pochi chilometri dal centro di genova, e permette di soggiornare in un antico castello che ha mantenuto intatta l’atmosfera del luogo e parte della sua struttura architettonica\nL’albergo, grazie alla sua posizione strategica, è l’ideale dimora per lunghi soggiorni di vacanza o per brevi soste in città, raggiungibile comodamente in in treno, in autobus o via mare in barca (servizio navetta navebus). L’aeroporto Cristoforo Colombo dista soli 4,5 km\nNelle vicinanze è possibile visitare La Villa Durazzo Pallavicini , storica dimora nobiliare\nPer gli sportivi nelle immediate vicinanze il Parco Avventura, il percorso E1 per le vostre passeggiate e la piscina pubblica “Delfini” di Pra\nConcerti ed eventi a pochi chilometri presso RDS Stadium con il suo centro commerciale la Fiumara\nStadio Luigi Ferraris distante15 km\nPortofino è a 34 km di distanza, mentre Santa Margherita Ligure si trova a 33 km dalla struttura.\nFiera di Genova a soli 10 km\nOutlet di Brugnato a 85 km e l'Outlet di Seravalle a 50 km\nLa nostra reception è aperta 24 ore su 24 ed è disponibile a suggerirvi tutte le principali mete turistiche e attrattive del nostro territorio\nOgni camera è dotata di bagno privato con doccia, aria condizionata e riscaldamento, televisore a schermo piatto, frigobar, telefono e bollitore. Le nostre camere prevalentemente si affacciano sul mare ed il servizio wifi è disponibile gratuitamente in tutte le stanze e nelle aree comuni dell’hotel\nLa nostra terrazza in estate si trasforma in solarium per piacevoli momenti di relax all’aperto essendo attrezzata di lettini, sedie e tavolo, e grazie al barbecue per godere di una piacevole cena all’aperto\nTorna ai contenuti"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.castellomiramare.it/",
+ "httpStatus": 200,
+ "htmlLang": "it-IT"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "osm:node/6325051257",
+ "name": "Locanda Al Castello",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 46.1020345,
+ "lng": 13.4240069,
+ "country": "Italy",
+ "city": "Cividale del Friuli",
+ "region": "Friuli – Venezia Giulia",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "yes",
+  "stars": "4"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.alcastello.net/",
+ "fetchedAt": "2026-10-09T07:59:09.066Z",
+ "pages": [
+  {
+   "url": "https://www.alcastello.net/",
+   "kind": "home",
+   "title": "alcastello",
+   "description": "",
+   "text": "alcastello\nTaste of great food\n-->\nTaste of great food\n-->\nTaste of great food\n-->\nTaste of great food\n-->\nTaste of great food\n-->\nTaste of great food\n-->\nTaste of great food\n-->\nTaste of great food\n-->\nHotel, ristorante e wellness center in un unica struttura\nLocanda al Castello\nPer le tue rilassanti vacanze a dua passi dal centro di Cividale del Friuli\nIl ristorante\nIl raffinato ristorante con un panorama mozzafiato\nWellness resort\nDopo una stressante giornata rilassati nel nostro wellness center\nL'hotel\nTranquillo e rilassante a pochi minuti dal centro di Cividale del Friuli\nConvention\nIl Castello dispone di strutture adatte all'accoglienza di convention, riunioni e meeting aziendali e in ambito professionale, sportivo e culturale.\nLa sala Meeting è situata al piano terra e garantisce tre ingressi indipendenti. Misura 180 metri quadrati e ha una capienza fino a 100 persone.\nApprofondisci\nOrganizza con noi\nil tuo matrimonio\nLa meravigliosa cornice scenografica del Castello, le sue terrazze panoramiche, i merli dell’antica Torre della Meridiana sono uno scenario incantevole per incorniciare la festa del giorno più bello: il ricevimento di matrimonio.\nApprofondisci\nWellness center\nSome interesting information about us and our club\nIl Centro benessere, oltre alla piscina con cromoterapia, offre un percorso Kneipp, area fitness, vasca idromassaggio, bagno termale, una sauna finlandese tradizionale e una biosauna tylarium, oltre alle docce emozionali con cromo e aromaterapia.\nApprofondisci\nL'hotel\nVieni a scoprire le nostre camere\nLo Charme Hotel dispone di 27 camere, (Junior Suite o Doppie Superior), sia nell’antico maniero sia nella moderna ala wellness panoramica direttamente collegata al centro benessere con piscina coperta e SPA.\nApprofondisci\nRichiedi disponibilita'\nVerifica disponibilit� camere\n-->\nInvia\nLE SPECIALITA'\nScopri le nostre spcialità\nVieni a sciorire i nostri menù stagionali.\nCreiamo i nostri menù in base alla stagionalità dei prodotti, personalizzando la tua esperienza.\nApprofondisci\nNEWSLETTER\nIscriviti alla newsletter per rimanere aggiornato sulle ultime novita'\nIscriviti"
+  },
+  {
+   "url": "https://www.alcastello.net/it/camere",
+   "kind": "sub",
+   "label": "CAMERE",
+   "title": "Camere - alcastello",
+   "text": "Camere - alcastello\nCAMERE\nRichiedi disponibilita'\nVerifica disponibilità camere\n-->\nInvia\nLo Charme Hotel dispone di 27 camere, (Junior Suite o Doppie Superior), sia nell'antico maniero sia nella moderna ala wellness panoramica direttamente collegata al centro benessere con piscina coperta e SPA. Le stanze sono fornite di ogni comfort: Servizio di Wifi, minibar, aria condizionata, Tv SAT, cassetta di sicurezza, telefono.\nLa vista panoramica spazia dal centro storico della citt di Cividale fino al verde dei colli orientali, all'antico monastero di Castelmonte fino al maestoso skyline delle Alpi carniche con le celebri vette dei monti Canin e Matajur innevate d'inverno.\nL'hotel, i servizi del ristorante e il wellness Resort sono accessibili agli ospiti non autosufficienti.\nJunior suite a partire da\n160.00\nCamera doppia a partire da\n120.00\nCamera doppia uso singola a partire da\n80.00\nPrezzi a notte compresa prima colazione\nSupplementi: pranzi e cena - menu la carte\nIngresso centro benessere non incluso : 35.00 a persona extra"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.alcastello.net/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

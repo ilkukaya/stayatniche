@@ -1,0 +1,35 @@
+{
+ "id": "osm:way/193873377",
+ "name": "Castello di Roncade",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 45.627564,
+ "lng": 12.3762772,
+ "country": "Italy",
+ "city": "Roncade",
+ "region": "Veneto",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle"
+ },
+ "wikidata": "Q2525168",
+ "wikidataDescription": "villa veneta in Roncade, Italy",
+ "website": "http://www.castellodironcade.it/index.php",
+ "fetchedAt": "2026-10-10T07:37:29.058Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Castello di Roncade",
+  "url": "https://en.wikipedia.org/wiki/Castello_di_Roncade",
+  "extract": "The Villa Giustinian, Ciani Bassetti, known as Castello di Roncade, is a Venetian villa in Roncade, near Treviso. The villa is surrounded by turreted walls in imitation of a medieval fortress, with the villa within."
+ },
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "http://www.castellodironcade.it/index.php",
+ "httpStatus": 0
+}

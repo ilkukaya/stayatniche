@@ -1,0 +1,37 @@
+{
+ "id": "osm:way/133599320",
+ "name": "Castello di Clanezzo",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 45.7615725,
+ "lng": 9.6015454,
+ "country": "Italy",
+ "city": "Ubiale Clanezzo",
+ "region": "Lombardy",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q113083628",
+ "wikidataDescription": null,
+ "website": "http://www.castelloclanezzo.it/",
+ "fetchedAt": "2026-10-10T07:37:23.115Z",
+ "pages": [
+  {
+   "url": "https://www.huge.srl/",
+   "kind": "home",
+   "title": "Huge! srl",
+   "description": "Huge! srl",
+   "text": "Huge! srl\nHuge! srl\nDal 2000 specializzati in infrastrutture e tecnologie Cloud\nPublic Cloud\nSoluzioni affidabili, scalabili, sicure, per le esigenze ICT delle aziende pi moderne.\nPrivate & Hybrid Cloud\nInfrastrutture e servizi informativi aziendali progettati con gli standard del Cloud\nCloud Apps\nIntelligenza artificiale per le aziende, con oltre 25 anni di sviluppo Web e Cloud.\nCyber Security\nFocalizzati nella progettazione e nell'implementazione ad ogni livello della sicurezza di sistemi e processi\nPrevious\nNext\nPublic Cloud\nPrivate Cloud\nCloud Apps\nCyber Security\nLa nostra azienda\nPi di 25 anni di esperienza nel mondo del Cloud, da sempre impegnati nella progettazione ed ingegnerizzazione di soluzioni ICT professionali e sicure.\nUn referente qualificato e completo per affiancarti nello sviluppo dei tuoi sistemi informativi, un MSP capace di gestire al meglio la tua infrastruttura senza pensieri.\nContattaci\nIn evidenza\nHuge! Operation Center\nIl servizio pi importante per i clienti che desiderano un sistema informativo al top per qualit , affidabilit , sicurezza, flessibilit , ritorno degli investimenti: la progettazione e gestione completa da parte di Huge! e del suo Operation Center.\nIntelligenza Artificiale\nDall'assistente telefonico IsabellAI, che risponde ai clienti 24 ore su 24, alla gestione assistita delle richieste scritte e all'integrazione con i gestionali: Huge! porta l'intelligenza artificiale nei processi aziendali e la segue in esercizio, come ogni altro servizio.\nFortinet\nHuge! vanta una grande esperienza e competenza nella soluzioni di sicurezza multilivello dell'ecosistema Fortinet, anche Cloud, tramite le quali possibile strutturare importanti presidi di sicurezza di rete.\nConnessioni dati professionali\nLe soluzioni migliori per la connettivit professionale: linee FTTx su rete pubblica, connessioni in fibra ottica dedicata, LTE, ecc.. Con la disponibilit del know-how Huge! per la progettazione della propria infrastruttura IP, anche IPv6.\nVoIP\nChe siano centralini evoluti o linee telefoniche, Huge! progetta e fornisce soluzioni VoIP capaci di portare la telefonia sulle reti IP e ridurre i costi di gestione.\nMicrosoft 365 ed Azure\nI servizi Cloud di Office365, la suite Microsoft Office, ed i servizi di infrastruttura di Microsoft Azure: Huge! ti guida nell'adozione degli strumenti pi importanti per l'azienda.\nPasswordless\nSoluzioni e tecnologie per l'accesso sicuro senza password ai PC della propria rete ed ai servizi Cloud e Web.\nBackup@Huge\nLa soluzione definitiva alle esigenze di backup: un sistema che replica automaticamente i file di sistemi server e client, in un datacenter remoto, mettendoli al riparo da ogni tipo di evenienza. Eliminando alla radice la necessit di apparati costosi e procedure macchinose.\nConsulenza strategica\nAffianchiamo il Cliente nella gestione dell'evoluzione dei propri sistemi informativi sul lungo periodo, ingegnerizzando la miglior soluzione per ogni specifica realt ."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.huge.srl/",
+ "httpStatus": 200,
+ "htmlLang": "it"
+}

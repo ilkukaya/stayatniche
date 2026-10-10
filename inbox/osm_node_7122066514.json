@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/7122066514",
+ "name": "Nuovo Castello Crisilio",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 36.927938,
+ "lng": 15.1444738,
+ "country": "Italy",
+ "city": "Avola",
+ "region": "Sicily",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "www.crisiliocastello.it",
+ "fetchedAt": "2026-10-10T07:37:40.431Z",
+ "pages": [
+  {
+   "url": "http://www.crisiliocastello.it/",
+   "kind": "home",
+   "title": "Nuovo Castello Crisilio",
+   "description": "",
+   "text": "NUOVO CASTELLO CRISILIO\nNuovo Castello Crisilio\nTra 3 secondi avverr un redirect automatico alla nuova pagina.\nSe non vuoi aspettare clicca qui ."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.crisiliocastello.it/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

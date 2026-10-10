@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/186095822",
+ "name": "Casa Vacanze Il Castello",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 43.8790166,
+ "lng": 11.8355881,
+ "country": "Italy",
+ "city": "Bagno di Romagna",
+ "region": "Emilia-Romagna",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.ladigadiridracoli.it/it/struttura-ricettiva/il-castello/",
+ "fetchedAt": "2026-10-10T07:36:59.935Z",
+ "pages": [
+  {
+   "url": "https://www.ladigadiridracoli.it/it/struttura-ricettiva/il-castello/",
+   "kind": "home",
+   "title": "La diga di Ridracoli e IDRO Ecomuseo - CASA VACANZE IL CASTELLO",
+   "description": "Vivi l’esperienza di un soggiorno in castello con vista lago, ideale per gruppi fino a 20 persone. Sei camere, ampi spazi comuni, camino, cucina attrezzata e area esterna con forno a legna.",
+   "text": "La diga di Ridracoli e IDRO Ecomuseo - CASA VACANZE IL CASTELLO\nACQUISTA LA TUA ESCURSIONE\nIscriviti alla nostra Newsletter\nItaliano\nEnglish\nIdeale per gruppi fino a 20 persone, con ampi spazi per condividere il tempo insieme.\nImponente struttura disposta su tre piani, con sei camere da letto, quattro bagni, cucina attrezzata e ampia sala da pranzo. Un grande camino e un tavolo in legno rendono l’ambiente accogliente e rustico. All’esterno, forno a legna e tavoli da picnic per condividere momenti di convivialità.\nIl CASTELLO è un luogo ideale per turismo di gruppo in autogestione, idonea per gruppi parrocchiali, gruppi sportivi, scout, famiglie, e comitive di amici che possono godere\ndello spazio verde circostante.\nStruttura disposta su tre piani, con 6 camere da letto e 4 bagni, può ospitare fino a 20 persone.\nLeggi di più\nLeggi di meno\nSCARICA LA BROCHURE\nPanoramica\nTARIFFE\nA partire da € 400 a notte\nPosti letto\n20\nServizi\nin comune e privati in alcune camere/alloggi\nCIN\nCIN IT040001B4P4G4BAQR\nDove\nTipologia di struttura:\nCasa vacanze\nServizi struttura\nGuida turistica\nNoleggio bici\nCASA VACANZE IL CASTELLO\nEmail\nChiudi\nCerca\nNascondi video\nGrazie!\nLa tua richiesta è stata inviata con successo\nChiudi\nC'è stato un errore nell'invio della richiesta\nRiprova più tardi, se l'errore persiste manda una mail a: info@coopculture.it.\nChiudi\nGrazie!\nLa tua richiesta è stata inviata con successo, non sei stato aggiunto alla newsletter perchè l'indirizzo da te inserito risulta già registrato.\nChiudi\nC'è stato un errore nell'invio della richiesta\nCapctha not valid\nChiudi"
+  },
+  {
+   "url": "https://www.ladigadiridracoli.it/en/accommodation/IL-CASTELLO-Holiday-Home/",
+   "kind": "sub",
+   "label": "English",
+   "title": "La diga di Ridracoli e IDRO Ecomuseo - IL CASTELLO – Holiday Home",
+   "text": "La diga di Ridracoli e IDRO Ecomuseo - IL CASTELLO – Holiday Home\nBUY YOUR TICKET\nSUBSCRIBE TO OUR NEWSLETTER\nItaliano\nEnglish\nPERFECT FOR GROUPS OF UP TO 20, OFFERING AMPLE SPACE TO UNWIND AND SPEND QUALITY TIME TOGETHER.\nSet over three floors, this spacious property features six bedrooms, four bathrooms, a fully equipped kitchen, and a large dining area with a fireplace, creating a warm and rustic atmosphere.\nOutdoors, guests can enjoy a wood-fired oven and picnic tables, ideal for shared meals.\nIl Castello is suitable for parish groups, sports teams, scouts, families, and groups of friends, and can accommodate up to 20 guests.\nRead More\nRead Less\nDownload our brochure\nQuick overview\nrates\nFrom €400 per night\nBeds\n20\nfacilities\nShared and private in some rooms/accommodations\nCIN (National Identification Code, required for tourist registration)\nCIN IT040001B4P4G4BAQR\nWhere\nAccommodation type:\nHoliday homes\nAdditional Info Guests staying at I Nidi have access to the Ridracoli Dam and IDRO – The Ridracoli Water Ecomuseum, when open.\nTour guide\nBike rental\nIL CASTELLO – Holiday Home\nEmail\n+39 0543 917912\nClose\nSearch\nNascondi video\nThank you!\nYou request has been successfully sent\nClose\nThere has been an error in sending your registration request\nPlease try again later, if error persists send an e-mail to info@coopculture.it\nClose\nThank you!\nYour request has been successfully sent but you have not been added to the newsletter because the address had already been registered\nClose\nThere has been an error in sending your registration request\nCapctha not valid\nClose"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.ladigadiridracoli.it/it/struttura-ricettiva/il-castello/",
+ "httpStatus": 200,
+ "htmlLang": "it"
+}

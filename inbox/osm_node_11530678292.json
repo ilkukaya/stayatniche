@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/11530678292",
+ "name": "Residenza al Castello",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 45.9064243,
+ "lng": 10.7295385,
+ "country": "Italy",
+ "city": "Ledro",
+ "region": "Trentino – Alto Adige/Südtirol",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.lakeproject.it/",
+ "fetchedAt": "2026-10-10T07:37:34.891Z",
+ "pages": [
+  {
+   "url": "https://www.lakeproject.it/en/Home.aspx",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": "here: h5bp.com/d/head-Tips -->\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nDo you have free accommodation to rent?\nBOOK HERE FOR THE BEST PRICE!\nThe best prices only when booking directly from our website!\nLearn more >>\n“Remise en forme”\nGet fit with the active vacation designed just for you!!!\nLearn more >>\nWOMAN TIME\nNEW ACTIVITY 2026 - WOMEN TIME\nLearn more >>\nBook your ideal apartment\nBook now\nOur proposal\nsports holiday\nfamily holiday\nholiday with dogs\nromantic holiday\ncharme apartments\nbest place to run\nLakeProject Daily News, our daily good morning guest newsletter\nEvents and locations in your pocket\nDiscover it now!\nOur Social Wall"
+  },
+  {
+   "url": "https://www.lakeproject.it/en/Principale/Contact_us/About_us/About_us.aspx",
+   "kind": "sub",
+   "label": "About us",
+   "title": "About us Lake Project | Your holidays on Lake Ledro: chalets, homes and holiday apartments",
+   "text": "About us Lake Project | Your holidays on Lake Ledro: chalets, homes and holiday apartments\nhere: h5bp.com/d/head-Tips -->\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nDive in Valle di Ledro's nature, sleep surrounded by the green in one of our chalets or in a house with a view of the lake or in one of our holiday apartments with sauna and swimming pool.\nWe are here to help you find the best accommodation for your needs. We will be by your side while discovering our breath-taking territory through organized excursions with tasting of local products and adventures to experience together.\nContact us without obligation, we will help you organize the holidays you are dreaming about!\nValeria and the whole team of Ledro Vacanze Lake Project Cav\nInfo & Booking dept ( Debora, Elena ) : email@lakeproject.it\nAccount dept ( Lorenza ) : accounting@lakeproject.it\nManagement ( Valeria Celentano ) : admin@lakeproject.it\nTel: +39 0464 590150 Mob: +39 347 7482634 (also sms and whatsapp)\nFOLLOW US :\nFACEBOOK : http://www.facebook.com/lakeprojectledro\nFB FAN PAGE : http://www.facebook.com/LakeProject\nTWITTER : https://twitter.com/#!/LagodiLedro\nGOOGLE + : https://plus.google.com/105226502693282294341/posts"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.lakeproject.it/en/Home.aspx",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

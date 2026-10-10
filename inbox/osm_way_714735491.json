@@ -1,0 +1,37 @@
+{
+ "id": "osm:way/714735491",
+ "name": "Castello di Fulignano",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 43.4711647,
+ "lng": 11.0878554,
+ "country": "Italy",
+ "city": "San Gimignano",
+ "region": "Tuscany",
+ "osm": {
+  "tourism": "apartment",
+  "historic": "manor"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.castellodifulignano.it/",
+ "fetchedAt": "2026-10-10T07:37:38.562Z",
+ "pages": [
+  {
+   "url": "http://www.castellodifulignano.it/",
+   "kind": "home",
+   "title": "underconstruction_Kolst",
+   "description": "",
+   "text": "underconstruction_Kolst\nSito in costruzione - Site under construction\nbolsos michael kors\nnike huarache baratas\nmontblanc boligrafos\nnike outlet\npolos ralph lauren baratos\noakley baratas\nmichael kors bolsos\nnew balance 574\nnew balance baratas\nboligrafos montblanc\nnike air force baratas\npolo ralph lauren baratos\nnike air force 1\nnike huarache\nSaremo online presto!\nWe will be online soon!\nKPNQwest Italia S.p.A. - Via Leopardi n.9 - 20123 Milano - P.IVA 07957860153"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.castellodifulignano.it/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

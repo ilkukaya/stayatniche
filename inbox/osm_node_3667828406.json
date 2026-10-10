@@ -1,0 +1,37 @@
+{
+ "id": "osm:node/3667828406",
+ "name": "Hotel Castello",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 42.3540445,
+ "lng": 13.4012141,
+ "country": "Italy",
+ "city": "L'Aquila",
+ "region": "Abruzzo",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.hotelcastelloaq.com/",
+ "fetchedAt": "2026-10-10T07:37:36.703Z",
+ "pages": [
+  {
+   "url": "http://www.hotelcastelloaq.com/",
+   "kind": "home",
+   "title": "web-l2.intuisco.net &mdash; Coming Soon",
+   "description": "This is a default index page for a new domain.",
+   "text": "web-l2.intuisco.net Coming Soon\nweb-l2.intuisco.net\nPowered by myVesta"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.hotelcastelloaq.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

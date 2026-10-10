@@ -1,0 +1,63 @@
+{
+ "id": "osm:way/72499436",
+ "name": "Star Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 49.9154026,
+ "lng": -6.3210235,
+ "country": "United Kingdom",
+ "city": "Isles of Scilly",
+ "region": "England",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q3968286",
+ "wikidataDescription": "fortress on St Mary's, Isles of Scilly",
+ "website": "http://www.star-castle.co.uk/",
+ "fetchedAt": "2026-10-09T07:57:48.885Z",
+ "pages": [
+  {
+   "url": "https://star-castle.co.uk/",
+   "kind": "home",
+   "title": "The Star Castle Hotel Isles of Scilly | Luxury St Marys Hotel, Cornwall",
+   "description": "Stay at The Star Castle Hotel on St Marys, Isles of Scilly - luxury sea‑view rooms, award‑winning gardens, gourmet breakfast, and easy access to beaches and boat trips. Book direct for best rates.",
+   "text": "The Star Castle Hotel Isles of Scilly | Luxury St Marys Hotel, Cornwall\nSkip to content\nYour Dream\nStay Awaits\nExplore Our Rooms\nAward Winning Restaurants\nFind Out More\nStunning Views\nExplore The Islands\nSince 1593\nFind Out More\nYour Dream\nStay Awaits\nExplore Our Rooms\nAward Winning Restaurants\nFind Out More\nStunning Views\nExplore The Islands\nSince 1593\nFind Out More\nHistoric & Award Winning\n4 Star Boutique Hotel on the Isles of Scilly With Incredible Views & Gardens\nWith 38 bedrooms, Star Castle Hotel boasts both traditional sixteenth century castle accommodation and spacious country cottage garden accommodation within 4 acres of secluded gardens.\nFind Out More\nStay With Us\nSuperior Castle Room\nLarger rooms, full of character with beamed ceilings, two-poster beds and flawless sea views\nCastle Rooms\nCosy and characterful, depicting the original features of the castle.\nGuard Rooms\nLocated on the Ramparts these original buildings have plenty of character\nView All Rooms\nEat & Drink\nAward Winning Restaurants\nFeaturing fresh locally caught seafood, local produce and vegetables from our own kitchen garden.\nFind Out More\nFacilities\nYour Every Need Taken Care Of\nStar Castle s extensive facilities include an indoor heated swimming pool, complimentary golf and tennis and courtesy transport from the airport.\nFind Out More\n\"Small Hotel of the Year 2025/26\"\nCornwall Tourism Awards\nStar Castle Hotel\n2027 Early Birds\nOur 2027 Online bookings are coming soon.\nEmail or call if you d like to book for 2027 now.\nIf you d like to be the first to know when our 2027 bookings & deals become available, sign up here.\nEmail Address*\nFirst Name\nLast Name"
+  },
+  {
+   "url": "https://star-castle.co.uk/rooms/",
+   "kind": "sub",
+   "label": "Stay",
+   "title": "Rooms &amp; Suites at Star Castle Hotel | Luxury Isles of Scilly Accommodation",
+   "text": "Rooms & Suites at Star Castle Hotel | Luxury Isles of Scilly Accommodation\nSkip to content\nStay With Us\nHere at the Star Castle Hotel we have a wonderful selection of 38 rooms; whether you wish to be in the original castle building soaking up the history or if you wish to be surrounded by gardens in country cottage style rooms with the option of private gardens and verandas.\nSuperior Garden Suite with Veranda Sea View\nApartment like, with a cloakroom entrance, bedroom, spacious bathroom and separate lounge.\nView Rooms\nGarden Room with Veranda Sea View\nThese rooms are large bedrooms with comfy chairs.\nView Rooms\nGarden Room with Garden\nThis room type is spacious with its own seating area and can accommodate, an extra bed.\nView Rooms\nSingle Guard Room\nThree Guard rooms individually located on the Ramparts surrounding the castle.\nView Rooms\nSingle Castle Room\nComfortable room with ensuite shower room, perfect for a single traveller.\nView Rooms\nGarden Suite with Veranda & Sea View\nThese rooms are large bedrooms with comfy chairs. Double doors leading onto a veranda.\nView Rooms\nSuperior Castle Room\nThese rooms are full of character with beamed ceilings, two-poster beds and fantastic sea views\nView Rooms\nCastle Room\nCosy, characterful rooms depicting the original features of the castle.\nView Rooms\nGarden Room\nLovely bright cottage style rooms with views over the castle gardens.\nView Rooms\nGarden Suite with Harbour View\nThese are more apartment-like, with a cloakroom entrance, bedroom, and separate lounge.\nView Rooms\nStar Castle Hotel\n2027 Early Birds\nOur 2027 Online bookings are coming soon.\nEmail or call if you d like to book for 2027 now.\nIf you d like to be the first to know when our 2027 bookings & deals become available, sign up here.\nEmail Address*\nFirst Name\nLast Name"
+  },
+  {
+   "url": "https://star-castle.co.uk/history/",
+   "kind": "sub",
+   "label": "History",
+   "title": "History - Star Castle Hotel - Isle of Scilly",
+   "text": "History - Star Castle Hotel - Isle of Scilly\nSkip to content\nHistory\nHistory\nStar Castle was built in 1593 during the reign of Queen Elizabeth, for the defence of the Isles of Scilly.\nIt stands on the fortified Garrison Hill to the west of Hugh Town, St Mary’s, and commands magnificent views of the sea and isles in every direction. The Castle has been the scene of many historic occasions. The Dining room was the original officer’s messroom. It belongs ‘to the age of Drake and the sea-dogs.\nStar Castle Hotel\n2027 Early Birds\nOur 2027 Online bookings are coming soon.\nEmail or call if you d like to book for 2027 now.\nIf you d like to be the first to know when our 2027 bookings & deals become available, sign up here.\nEmail Address*\nFirst Name\nLast Name"
+  },
+  {
+   "url": "https://star-castle.co.uk/room/garden-room/",
+   "kind": "sub",
+   "label": "Garden Room",
+   "title": "Garden Rooms &amp; Suites | Star Castle Hotel Isles of Scilly",
+   "text": "Garden Rooms & Suites | Star Castle Hotel Isles of Scilly\nSkip to content\nGarden Room\nLovely bright cottage style rooms with views over the castle gardens.\nLocated a stones throw from the Conservatory restaurant and indoor pool.\nRoom Description\nFeatures\n• Double or twin rooms available\n• Bath with shower over or walk in shower only\n• Garden view\n• Dog friendly\n• Castle garden location\nGallery\nBook Now\nStar Castle Hotel\n2027 Early Birds\nOur 2027 Online bookings are coming soon.\nEmail or call if you d like to book for 2027 now.\nIf you d like to be the first to know when our 2027 bookings & deals become available, sign up here.\nEmail Address*\nFirst Name\nLast Name"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Star Castle, Isles of Scilly",
+  "url": "https://en.wikipedia.org/wiki/Star_Castle%2C_Isles_of_Scilly",
+  "extract": "Star Castle is a fortress on St Mary's, Isles of Scilly, built in 1593 by Robert Adams, Surveyor of the Royal Works (d.1595) and Francis Godolphin, Captain of the Scilly Isles, during the \"Spanish invasion scare.\""
+ },
+ "notes": [],
+ "finalUrl": "https://star-castle.co.uk/",
+ "httpStatus": 200,
+ "htmlLang": "en-GB"
+}

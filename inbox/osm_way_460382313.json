@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/460382313",
+ "name": "Agriturismo Castello di Spedaletto",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 43.0314175,
+ "lng": 11.6677602,
+ "country": "Italy",
+ "city": "Pienza",
+ "region": "Tuscany",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q17624164",
+ "wikidataDescription": "building in Pienza, Italy",
+ "website": null,
+ "fetchedAt": "2026-10-10T07:37:29.440Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "es",
+  "title": "Castillo de Spedaletto",
+  "url": "https://es.wikipedia.org/wiki/Castillo_de_Spedaletto",
+  "extract": "El castillo de Spedaletto es un complejo arquitectónico fortificado ubicado en el pueblo rural homónimo del área municipal de Pienza en la Ruta Provincial 53."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

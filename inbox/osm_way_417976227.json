@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/417976227",
+ "name": "Tawstock Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.058441,
+ "lng": -4.0637838,
+ "country": "United Kingdom",
+ "city": "North Devon",
+ "region": "England",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q26545384",
+ "wikidataDescription": "tower in Tawstock, North Devon, England, UK",
+ "website": null,
+ "fetchedAt": "2026-10-09T07:57:47.472Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Tawstock Tower",
+  "url": "https://en.wikipedia.org/wiki/Tawstock_Tower",
+  "extract": "Tawstock Tower is a folly building dating from the 18th-century that stands in the village of Tawstock in North Devon."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

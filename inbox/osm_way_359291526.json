@@ -1,0 +1,64 @@
+{
+ "id": "osm:way/359291526",
+ "name": "Doringkloof Bush Camp",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -33.5720491,
+ "lng": 24.0872098,
+ "country": "South Africa",
+ "city": "Baviaans Local Municipality",
+ "region": "Eastern Cape",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.doringkloof4x4.co.za/",
+ "fetchedAt": "2026-10-10T07:38:58.115Z",
+ "pages": [
+  {
+   "url": "https://doringkloof4x4.co.za/",
+   "kind": "home",
+   "title": "Baviaanskloof Bushcamp and 4x4",
+   "description": "Baviaanskloof",
+   "text": "Baviaanskloof Bushcamp and 4x4\nSkip to content\nWelcome to Doringkloof 4x4 & Bush Camp\nDoringkloof 4x4\nMore Information\nDoringkloof Bush Camp\nGrassed, Shady campsites.\nDoringkloof Hiking Trails\nBeautiful trails to explore.\nDoringkloof - Bushcamp 4x4\nHere, in the heart of the Baviaanskloof, Doringkloof offers various accommodation options and recreational activities. Our accommodation options include a shady grassed Bush Camp and 4 self catering Chalets.\nPlease follow the links to read more about what Doringkloof in the Baviaanskloof has to offer.\nWe also have 4 4 routes with varying difficulty levels and all with awesome views of the Baviaanskloof and Kouga Mountains and Valleys.\nPlease note that telephone lines in the area are not reliable and the best way to book is via WhatsApp.\nBaviaanskloof Bushcamp and 4 4 | Resources\n© 2021 All rights reserved Doringkloof 4x4 & Bush Camp\nBaviaanskloof Bushcamp and 4 4\nWebsite Design and Search Engine Optimisation (SEO) by   | Web Hosting by\nWhatsApp us"
+  },
+  {
+   "url": "https://doringkloof4x4.co.za/baviaanskloof-self-catering-accommodation/",
+   "kind": "sub",
+   "label": "Chalets",
+   "title": "Baviaanskloof Self Catering Accommodation - Doringkloof 4x4 &amp; Bush Camp",
+   "text": "Baviaanskloof Self Catering Accommodation - Doringkloof 4x4 & Bush Camp\nSkip to content\nDoringkloof Self Catering Cottages\nDoringkloof - Baviaanskloof Self Catering Accommodation\nTo one side of the camping area, tucked among the trees and with peaceful views across the dam are three neat wooden chalets.\nChalets 1 and 2 has a double bed and can sleep two people, with an en-suite shower, toilet and hand basin.\nEach chalet also comes with a kitchenette equipped with all the necessities for a self-catering stay.\nChalet 3 has a single bed in the living area, a bedroom with a double bed and another room with 3 single beds.\nA total of 6 people can be accommodated in chalet 3.\nThese chalets represent the ideal alternative for a couple seeking an economical place to stay in the Baviaanskloof without the need for camping equipment.\nJust bring your food and yourselves!\nRates Chalet 1, 2 and 3\nPer Night Per Adult R 350.00\nPer Night Per Child\n(Under 12yrs) R 280.00\nChalets 1 and 2\nChalet 3\nCottage 5\nCottage 5 is located next to the main farm house, not at the campsite.\nIt can sleep 6 people.\nFully equipped for self catering.\nRates Cottage 5\nPer Night Per Adult R 400.00\nPer Night Per Child\n(Under 12yrs) R 280.00\nBaviaanskloof Self Catering Accommodation | Resources\n© 2021 All rights reserved Doringkloof 4x4 & Bush Camp\nBaviaanskloof Self Catering Accommodation\nWebsite Design and Search Engine Optimisation (SEO) by   | Web Hosting by\nWhatsApp us"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "Campground",
+   "name": "Doringkloof 4x4 & Bush Camp",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Doringkloof Fam",
+    "addressLocality": "Baviaanskloof Farming Community, Studtis",
+    "addressRegion": "Eastern Cape",
+    "postalCode": "6451",
+    "addressCountry": "South Africa"
+   },
+   "telephone": "+27833977728",
+   "priceRange": "ZAR 300",
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-33.56198648942578",
+    "longitude": "24.08538841819183"
+   },
+   "url": "https://doringkloof4x4.co.za/"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://doringkloof4x4.co.za/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

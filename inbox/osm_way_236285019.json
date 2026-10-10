@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/236285019",
+ "name": "B&B Castello Michelina",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 39.2882287,
+ "lng": 16.9757853,
+ "country": "Italy",
+ "city": "San Nicola dell'Alto",
+ "region": "Calabria",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.castellomichelina.it/",
+ "fetchedAt": "2026-10-10T07:37:00.417Z",
+ "pages": [
+  {
+   "url": "http://www.castellomichelina.it/",
+   "kind": "home",
+   "title": "b&amp;b Castello Michelina",
+   "description": "bed &amp; breakfast Castello Michelina in San Nicola dell&#039;Alto (KR), Calabria,  ITALY",
+   "text": "b&b Castello Michelina\nhttp://nicoag.wixsite.com/ilmiosito"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.castellomichelina.it/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

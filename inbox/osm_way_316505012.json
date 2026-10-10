@@ -1,0 +1,50 @@
+{
+ "id": "osm:way/316505012",
+ "name": "Ngiri Safaris",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -25.371277,
+ "lng": 28.4110521,
+ "country": "South Africa",
+ "city": "City of Tshwane Metropolitan Municipality",
+ "region": "Gauteng",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://ngirisafaris.co.za",
+ "fetchedAt": "2026-10-10T07:38:41.189Z",
+ "pages": [
+  {
+   "url": "https://ngirisafaris.co.za/",
+   "kind": "home",
+   "title": "Home - Ngiri Safaris",
+   "description": "",
+   "text": "Home - Ngiri Safaris\nName *\nEmail *\nDesired dates *\nRoom type *\nAdults\nChildren\nEnquire\nWelcome to Ngiri Safaris, where the bush meets the beach!\nNestled in the heart of the Dinokeng Big 5 game reserve, a stones-throw from Johannesburg and Pretoria lies a haven of natural tranquillity.\nEnjoy our exquisite self-catering chalets or cabins, or take a walk on the wild side in one of our Bush Tents, whether for leisure, business or pleasure we have something for everyone!\nOur Guests Love\nnGIRI CHALET\nR650/person/night\nNYATI CHALET\nR650/person/night\nPUNDA CHALET\nR650/person/night\nNYUMBU CABIN\nR600/person/night\nNDOGO CABIN\nR600/person/night\nBOOK A UNIT\nThere s loads of fun to be had!\nGame Viewing\nGame Drives are conducted in an open game viewer by a qualified and experienced FGASA guide. Numerous species of game can be seen from the comfort of our game viewer in the Dinokeng Game Reserve. Our game viewer can accommodate 10 passengers. The best time for game viewing is either early morning or late afternoon. Since it’s cooler at these times, the animals are more active!\nWhat an amazing bush experience! Friendly staffing, warm water, great friends and atmosphere. See you definitely soon Ngiri!\nAndri Putter\nMy home away from home! It s not just a weekend away, it s so much more, amazing place to stay, very well looked after every time we are there! Brilliant people Thank you Ngiri Safaris!! You guys have become like family. Love every minute I m there.\nNicki Richards\nThis was my 3rd visit to your establishment, and I was certainly not disappointed, the facilities are always clean and the staff are super friendly. everything was absolutely perfect.\nDarren Naidu\nSuch an awesome place. A perfect getaway for Joburgers. Loved the peace and the charm of the cabin. Amazing photo opportunities.\nTyron Tewson\nGET IN TOUCH\nName\nEmail Address\nMessage\n10 + 8 =\nEnquire now"
+  },
+  {
+   "url": "https://ngirisafaris.co.za/about-us/",
+   "kind": "sub",
+   "label": "About Us",
+   "title": "About Us - Ngiri Safaris",
+   "text": "About Us - Ngiri Safaris\nGet to\nknow us\nNgiri Safaris & Scuba is owned and run by Andrew & Sue who are both keen conservationists and adventurers. They have combined their love of the ocean, the bush and nature into one amazing destination.\nNgiri Safaris offers self-catering accommodation in luxurious chalets, wooden cabins, and rustic tents. There are a host of activities including game viewing and archery.\nNgiri Safaris & Scuba is situated in the Dinokeng Big 5 Game Reserve, a mere 1-hour drive from OR Tambo International Airport, and an easy 45 min drive north of Pretoria."
+  },
+  {
+   "url": "https://ngirisafaris.co.za/accommodation/",
+   "kind": "sub",
+   "label": "Accommodation",
+   "title": "Accommodation - Ngiri Safaris",
+   "text": "Accommodation - Ngiri Safaris\nCHALETS\nR650/person/night\nWOODEN CABINS\nR600/person/night\nEntrance\nFront\nPrivate Braai\nOpen Plan Bedroom\nPatio\nKing-size Bed\nKitchen\nEn-Suite Bathroom\nOpen Plan Bedroom\nWooden Cabin\nKitchenette\nBalcony\nBedroom\nInterior\nPrivate Braai"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://ngirisafaris.co.za/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "osm:relation/146749",
+ "name": "Lumley Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 54.8535545,
+ "lng": -1.553183,
+ "country": "United Kingdom",
+ "city": "Chester-le-Street",
+ "region": "England",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q6703353",
+ "wikidataDescription": "Grade I listed quadrangular castle in County Durham, England, UK",
+ "website": "https://www.lumleycastle.com/",
+ "fetchedAt": "2026-10-09T07:57:25.225Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Lumley Castle",
+  "url": "https://en.wikipedia.org/wiki/Lumley_Castle",
+  "extract": "Lumley Castle is a 14th-century quadrangular castle at Chester-le-Street in the North of England, near the city Durham, and a property of the Earl of Scarbrough. It is a Grade I listed building. It is currently a hotel and sits on the banks of the Lumley Park Burn, tributary of the River Wear. The sundial located at Lumley Castle is Grade II listed."
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "finalUrl": "https://www.lumleycastle.com/",
+ "httpStatus": 403
+}

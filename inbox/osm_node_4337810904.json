@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/4337810904",
+ "name": "Agriturismo Mulino del Castello",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 44.0331653,
+ "lng": 8.1035079,
+ "country": "Italy",
+ "city": "Garlenda",
+ "region": "Liguria",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.agriturismomulinodelcastello.it",
+ "fetchedAt": "2026-10-09T07:59:01.371Z",
+ "pages": [
+  {
+   "url": "http://www.agriturismomulinodelcastello.it/en/",
+   "kind": "home",
+   "title": "Home",
+   "description": "Agriturismo Il Mulino del Castello - Garlenda",
+   "text": "Home\nThis sites uses the cookies with the aim to increase the navigation of the website and to increase the quality of the presentatio. The website uses third party cookies of Google, Facebook and Youtube. The data are collected by our company in full anonimity and in any case they will be analysed in aggregated form only. Click the green button to close.\nHome\nAccomodation in Garlenda\nApartament July 5th\nApartment August 6th\nApartment November 24th\nApartament September 11th\nAccomodation in Nasino\nApartment August 14th\nApartment February 14th\nNews & Offert\nBooking\nGeneral Rules\nPrices\nServices in Garlenda\nServices in Nasino\nWhere\nThings to do\nThe farm\nPhotogallery\nDetails\nHits: 50485\nTHE POETRY OF RECOVERY\nThe Mulino del Castello is the holyday farm of my family. More precisely it is the small farm that Daddy worked for a life producing extravirgin olive oil, fruit and vegetables for all the insatiable family members which have a preference for the products of the earth.\nWe are immersed in the green landscape of the country around Garlenda. The small town is the last piece of the lowland behind Albenga, in Savona province, sorrounded by a ring of hills. It is at few kilometers from the sea , well protected from the caos of the cost but at only 5 minutes by car from the mondanity of Alassio e 10 minutes from the elegance of Albenga .\nWe wish, now, tell you what the Mulino del Castello represents for us, and, more importantly, what we would like the guests perceipt during their sojourn also in the case it was just for few days.\nWe wish you feel welcome with warm and serenity that any traveller hope to find during the travel, independently from the reason leisure or work. Even before the opening of the holiday farm, when the house was lived by the grandpa Pinin and grandma Laura, any traveller or guest was hosted in such way....We put all our passion to rebirth the old watermilll also to see how to combine it with many other ancient, old or simply old-fashioned objects, creating a new form of poetry of the things ......\nThe time has impregnated this structure, which exist certainly at least from 15th century. We have simply restored the old glory, the original value and importance of the structure. ( \"The daughter of the miller\" Simona Braggio)\nSPECIAL OFFER UNTIL EASTER 2024 : look in the \"news and offers\" section\nApartments in Garlenda\nSee our apartments\nApartments in Nasino\nSee our apartments\nOfferts"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.agriturismomulinodelcastello.it/en/",
+ "httpStatus": 200,
+ "htmlLang": "en-gb"
+}

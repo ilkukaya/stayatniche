@@ -1,0 +1,38 @@
+{
+ "id": "osm:way/1369877711",
+ "name": "Castello di Santa Cristina",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 42.6741634,
+ "lng": 11.8293947,
+ "country": "Italy",
+ "city": "Onano",
+ "region": "Lazio",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle",
+  "stars": "2"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://santacristina.it/",
+ "fetchedAt": "2026-10-10T07:36:56.388Z",
+ "pages": [
+  {
+   "url": "https://santacristina.it/",
+   "kind": "home",
+   "title": "Castello di Santa Cristina | Agriturismo tra Lazio, Toscana e Umbria",
+   "description": "Affascinante tenuta storica al confine tra Lazio e Toscana immersa nella natura. Vivi esperienze uniche tra relax, sport e sapori autentici. Scopri di più!",
+   "text": "Castello di Santa Cristina | Agriturismo tra Lazio, Toscana e Umbria\nVai al contenuto\nCastello di Santa Cristina\nIl Castello di Santa Cristina, dimora storica del XVII secolo, sorge al confine tra Lazio, Toscana e Umbria, immerso in cento ettari di natura incontaminata. Un luogo unico dove il fascino della storia incontra la bellezza del paesaggio.\nChe tu sia alla ricerca di avventura, relax o connessione con la natura, il Castello di Santa Cristina è l agriturismo perfetto per vivere esperienze autentiche e indimenticabili\nLa Tenuta\nScopri di più\nPiscina & Giardino\nscopri di più\nEquitazione\nScopri di più\nCiclismo & MTB\nScopri di più\nTennis\nscopri di più\nCorsi di Cucina\nscopri di più\nDegustazione Vini\nscopri di più\nMatrimoni\nScopri di più\nAlloggi\nCamere, Appartamenti & Cottages nel cuore della tenuta\nA pochi metri dal Castello si trova l’antico borgo, che nel passato rappresentava il centro di tutte le attività produttive dell’azienda. La fattoria è stata trasformata in una struttura accogliente e confortevole, dove sono stati ricavati comodi appartamenti e camere arredati con mobili antichi, per lo più provenienti dal Castello.\nOltre agli appartamenti e le camere, la tenuta offre anche tre cottage indipendenti. Capodimonte e Marta fanno parte di una villa divisa in due unità separate, che condividono una piscina privata e un ampio giardino. Monte Amiata, invece, è una villa indipendente immersa nella natura della tenuta, ideale per chi cerca riservatezza e tranquillità"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://santacristina.it/",
+ "httpStatus": 200,
+ "htmlLang": "it-IT"
+}

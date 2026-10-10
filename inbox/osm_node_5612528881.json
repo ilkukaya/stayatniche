@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/5612528881",
+ "name": "B&B Castello di Coazzolo",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 44.729128,
+ "lng": 8.1450634,
+ "country": "Italy",
+ "city": "Coazzolo",
+ "region": "Piedmont",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.coazzolo.com/",
+ "fetchedAt": "2026-10-10T07:37:38.024Z",
+ "pages": [
+  {
+   "url": "https://www.coazzolo.com/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.coazzolo.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

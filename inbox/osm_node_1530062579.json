@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/1530062579",
+ "name": "Rondekop Bush Camp Site",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -33.7986206,
+ "lng": 23.127142,
+ "country": "South Africa",
+ "city": "George",
+ "region": "Western Cape",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.burchell4x4.co.za",
+ "fetchedAt": "2026-10-10T07:38:53.777Z",
+ "pages": [
+  {
+   "url": "https://www.pnaturereserve.co.za/",
+   "kind": "home",
+   "title": "Pietersrivier Nature Reserve | Hiking | Trail Running | 4x4 | Birding | Camping and Chalets Accommodation | Modern Wagon | Ox Wagon Route | W.J. Burchell | De Vlugt Avontuur | Prince Alfred's Pass",
+   "description": "Pietersrivier Nature Reserve offers an abundance of activities for the nature lover. A wide selection of options awaits you, whether you come for our 4x4 trails, hiking, birding or simply to enjoy the beauty of the reserve itself.",
+   "text": "Pietersrivier Nature Reserve | Hiking | Trail Running | 4x4 | Birding | Camping and Chalets Accommodation | Modern Wagon | Ox Wagon Route | W.J. Burchell | De Vlugt Avontuur | Prince Alfred's Pass\nShort Hikes (Map)\nLong Hikes (Map)\nHiking (Video)\nVideo\nPhoto Map\n-->\n-->\nThis is the home page...\n-->\nPietersrivier Nature Reserve\n-->\n-->\nCopyright 2026 :: Pietersrivier Nature Reserve Site by:\nW eb W or X"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.pnaturereserve.co.za/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

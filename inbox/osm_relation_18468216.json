@@ -1,0 +1,34 @@
+{
+ "id": "osm:relation/18468216",
+ "name": "St Briavels Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.7382129,
+ "lng": -2.6407346,
+ "country": "United Kingdom",
+ "city": "Forest of Dean",
+ "region": "England",
+ "osm": {
+  "tourism": "hostel"
+ },
+ "wikidata": "Q7592704",
+ "wikidataDescription": "Grade I listed castle in Forest of Dean, United Kingdom",
+ "website": "https://www.yha.org.uk/hostel/yha-st-briavels-castle",
+ "fetchedAt": "2026-10-09T07:57:25.932Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "St Briavels Castle",
+  "url": "https://en.wikipedia.org/wiki/St_Briavels_Castle",
+  "extract": "St Briavels Castle is a moated Norman castle at St Briavels in the English county of Gloucestershire. The castle is noted for its huge Edwardian gatehouse that guards the entrance."
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "finalUrl": "https://www.yha.org.uk/hostel/yha-st-briavels-castle",
+ "httpStatus": 403
+}

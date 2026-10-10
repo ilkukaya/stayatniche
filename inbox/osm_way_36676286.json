@@ -1,0 +1,37 @@
+{
+ "id": "osm:way/36676286",
+ "name": "Albergo Trattoria Al Castello",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 46.2397057,
+ "lng": 13.1511985,
+ "country": "Italy",
+ "city": "Artegna",
+ "region": "Friuli – Venezia Giulia",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "2"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.albergotrattoriaalcastello.com",
+ "fetchedAt": "2026-10-10T07:37:38.216Z",
+ "pages": [
+  {
+   "url": "http://www.albergotrattoriaalcastello.com/",
+   "kind": "home",
+   "title": "Maintenance",
+   "description": "",
+   "text": "Maintenance\nIl servizio è in manutenzione\nStiamo lavorando per te. Ci scusiamo per il disagio, la nostra assistenza è a tua disposizione per maggiori informazioni\nService maintenance in progress\nWe are working for you and apologize for any inconvenience. Please do not hesitate to contact our support team for any further information\nEl servicio está en mantenimiento\nEstamos trabajando para ti. Lamentamos los inconvenientes, nuestra asistencia está a tu disposición para ofrecerte más información"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.albergotrattoriaalcastello.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

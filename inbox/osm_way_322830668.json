@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/322830668",
+ "name": "Castello di Falconara",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 37.1089174,
+ "lng": 14.0523639,
+ "country": "Italy",
+ "city": "Butera",
+ "region": "Sicily",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.castellodifalconara.it/",
+ "fetchedAt": "2026-10-10T07:37:03.111Z",
+ "pages": [
+  {
+   "url": "https://www.castellodifalconara.it/",
+   "kind": "home",
+   "title": "Castello di Falconara - Dimora Storica - Appartamenti",
+   "description": "Il Castello di Falconara è l",
+   "text": "Castello di Falconara - Dimora Storica - Appartamenti\nBenvenuti al\nCastello di Falconara\nOspitalità\nOspitalità al Castello\nVivi l'emozione di soggiornare e dormire in una vera dimora storica del XIV secolo.\nLeggi tutto...\nDependances\nVivere la propria vacanza nel Parco del Castello di Falconara\nLeggi tutto...\nDimora Storica\nUna vacanza da favola, in un vero castello\nLeggi tutto...\nBenvenuti al Castello di Falconara\nIl Castello di Falconara è una delle dimore storiche di Sicilia con più fascino. Unica dimora storica affacciata sulla costa del sud vicino Butera, immerso in un rigoglioso Parco di essenze mediterranee, dotato di una piscina naturale unica nel suo genere, è il luogo ideale per una vacanza indimenticabile\nIl Castello di Falconara è una dimora storica del XIV secolo caratterizzata dalla grande torre centrale, costruita inizialmente per l'allevamento dei falconi da caccia. Falconara Vi aspetta per offrirVi un soggiorno indimenticabile in una dimora storica interamente immersa in un parco mediterraneo con accesso esclusivo al mare di Sicilia e dotata di una piscina dall'aspetto naturale.\nFalconara è la scelta ideale per una fuga romantica o per chi desidera soggiornare in una dimora storica d'eccellenza. Gli ospiti potranno godere della formula B&B, di più piani nella formula Dimora Storica o della Villa che sorge nel Parco e offre riservatezza e una prospettiva diversa per godere del Castello.\nIl Castello di Falconara è il punto di partenza per scoprire la Sicilia orientale, Piazza Armerina e la Villa Romana del Casale, Ragusa, Ibla, la Valle dei Templi di Agrigento, Noto, o per i viaggiatori gourmet per scoprire i ristoranti stellati che si trovano tra Licata e Siracusa.\nLeggi tutto: Benvenuti al Castello di Falconara\nIl Parco e la Piscina\nUn Parco di essenze mediterranee con piscina di sembianze naturali\nLeggi tutto...\nMare\nUna spiaggia di sabbia bianca per godere del sole di Sicilia.\nLeggi tutto..."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.castellodifalconara.it/",
+ "httpStatus": 200,
+ "htmlLang": "it-it"
+}

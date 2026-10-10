@@ -1,0 +1,70 @@
+{
+ "id": "osm:node/8389406104",
+ "name": "Fumani Game Lodge",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -24.6152473,
+ "lng": 28.612641,
+ "country": "South Africa",
+ "city": "Mookgopong Local Municipality",
+ "region": "Limpopo",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://fumanigamelodge.com",
+ "fetchedAt": "2026-10-10T07:38:23.916Z",
+ "pages": [
+  {
+   "url": "https://fumanigamelodge.com/",
+   "kind": "home",
+   "title": "Fumani Game Lodge | 5-Star Luxury Safari Accommodation in Waterberg, Limpopo",
+   "description": "Experience unsurpassed luxury and complete privacy at Fumani Game Lodge. 5-star malaria-free safari accommodation in the heart of the Limpopo bushveld, on the foothills of the majestic Waterberg Mountains. Just 2 hours from Johannesburg.",
+   "text": "Fumani Game Lodge | 5-Star Luxury Safari Accommodation in Waterberg, Limpopo"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LodgingBusiness",
+   "name": "Fumani Game Lodge",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Waterberg",
+    "addressLocality": "Limpopo",
+    "addressRegion": "Limpopo Province",
+    "postalCode": "",
+    "addressCountry": "ZA"
+   },
+   "telephone": "+27141610928",
+   "priceRange": "R2000 - R9000",
+   "starRating": {
+    "@type": "Rating",
+    "ratingValue": "5"
+   },
+   "amenityFeature": [
+    "Swimming Pool",
+    "Restaurant",
+    "Conference Facilities",
+    "Game Drives",
+    "WiFi",
+    "Air Conditioning",
+    "Braai Area"
+   ],
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -24,
+    "longitude": 28
+   },
+   "url": "https://www.fumanigamelodge.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://fumanigamelodge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}
