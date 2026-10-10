@@ -1770,5 +1770,85 @@
     "distanceKm": 0.6,
     "kind": "area",
     "place": "Ürgüp"
+  },
+  "area:aerie-resort-washington": {
+    "author": "Mr.B",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nice_Day-May_07-LK_Chelan_-_panoramio.jpg",
+    "title": "Nice Day-May 07-LK Chelan - panoramio.jpg",
+    "distanceKm": 1.1,
+    "kind": "area",
+    "place": "Chelan County"
+  },
+  "area:awasi-atacama-chile": {
+    "author": "Paulo JC Nogueira",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_Arqueol%C3%B3gico_R._P._Gustavo_Le_Paige_-_Atacama_-_Chile_-_panoramio_(1).jpg",
+    "title": "Museu Arqueológico R. P. Gustavo Le Paige - Atacama - Chile - panoramio (1).jpg",
+    "distanceKm": 0.9,
+    "kind": "area",
+    "place": "San Pedro de Atacama"
+  },
+  "inkaterra-machu-picchu": {
+    "author": "David Berkowitz from New York, NY, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inkaterra_Machu_Picchu_Pueblo_Hotel_and_Nature_Reserve_-_Aguas_Calientes,_Peru_(4876288734).jpg",
+    "title": "Inkaterra Machu Picchu Pueblo Hotel and Nature Reserve - Aguas Calientes, Peru (4876288734).jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Inkaterra Machu Picchu Pueblo Hotel"
+  },
+  "area:kelebek-special-cave-hotel-turkey": {
+    "author": "Ray Swi-hymn from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20180109_G%C3%B6remeUchisar_3060_(39022624075).jpg",
+    "title": "20180109 GöremeUchisar 3060 (39022624075).jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Göreme"
+  },
+  "area:niku-hide-finland": {
+    "author": "State Chancellery of Latvia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:V.Dombrovskis_Somij%C4%81_piedal%C4%81s_Eiropas_l%C4%ABderu_neform%C4%81laj%C4%81_san%C4%81ksm%C4%93_(8586214796).jpg",
+    "title": "V.Dombrovskis Somijā piedalās Eiropas līderu neformālajā sanāksmē (8586214796).jpg",
+    "distanceKm": 0.5,
+    "kind": "area",
+    "place": "Saariselkä"
+  },
+  "area:portland-bill-lighthouse-england": {
+    "author": "Broichmore",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portland_Bill_Lighthouse_and_Trinity_House_Obelisk_2019_IMG_9307.jpg",
+    "title": "Portland Bill Lighthouse and Trinity House Obelisk 2019 IMG 9307.jpg",
+    "distanceKm": 0.1,
+    "kind": "area",
+    "place": "Portland"
+  },
+  "area:scarabeo-camp-morocco": {
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Agafay_Desert,_Morocco,_20250125_1751_7274.jpg",
+    "title": "Agafay Desert, Morocco, 20250125 1751 7274.jpg",
+    "distanceKm": 2.8,
+    "kind": "area",
+    "place": "Agafay Desert"
+  },
+  "area:shinta-mani-wild-cambodia": {
+    "author": "Gerard Chartier",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macaca_leonina_394276804.jpg",
+    "title": "Macaca leonina 394276804.jpg",
+    "distanceKm": null,
+    "kind": "area",
+    "place": "Cardamom Mountains"
   }
 }
