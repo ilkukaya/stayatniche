@@ -115,6 +115,7 @@ const it: typeof en = {
   },
   card: {
     editorsPick: 'Scelta della redazione',
+    around: (place: string) => `Dintorni di ${place}`,
     save: (name: string) => `Salva ${name}`,
     scoreTitle: 'Voto della redazione su 10',
     from: 'Da',
@@ -170,6 +171,7 @@ const it: typeof en = {
     noPhoto: 'Le foto di questa struttura sono sulle sue pagine di prenotazione.',
     photo: 'Foto',
     viaCommons: 'da Wikimedia Commons',
+    areaPhoto: 'Foto dei dintorni',
     facts: { price: 'Prezzo tipico', ratesVary: 'Le tariffe variano: verifica i prezzi aggiornati', level: 'Fascia di prezzo', bestTime: 'Periodo migliore', checkInOut: 'Check-in / check-out', bestFor: 'Ideale per', score: 'Voto della redazione' },
     why: 'Perché l’abbiamo scelto',
     included: 'Cosa è incluso',

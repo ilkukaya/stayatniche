@@ -133,6 +133,7 @@ const fr: typeof en = {
   },
   card: {
     editorsPick: 'Coup de cœur',
+    around: (place: string) => `Autour de ${place}`,
     save: (name: string) => `Ajouter ${name} aux favoris`,
     scoreTitle: 'Note de la rédaction sur 10',
     from: 'À partir de',
@@ -189,6 +190,7 @@ const fr: typeof en = {
     noPhoto: 'Les photos de cet établissement sont visibles sur ses pages de réservation.',
     photo: 'Photo',
     viaCommons: 'via Wikimedia Commons',
+    areaPhoto: 'Photo des environs',
     facts: { price: 'Prix indicatif', ratesVary: 'Tarifs variables : vérifiez les prix en temps réel', level: 'Gamme de prix', bestTime: 'Meilleure période', checkInOut: 'Arrivée / départ', bestFor: 'Idéal pour', score: 'Note de la rédaction' },
     why: 'Pourquoi nous l’avons retenu',
     included: 'Ce qui est inclus',

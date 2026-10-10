@@ -79,6 +79,14 @@ If a fact is unknown, leave the topic out. Prices live only in `priceRange` ("Ra
 body. One closing line that tells readers what to ask the hotel is fine when it helps them choose
 (e.g. "ask for room 105, the carved cave room").
 
+## 3a. Expedia hotel page (affiliate link)
+Expedia and Klook are the only approved partners. The "Check rates" buttons go to the stay's own
+Expedia page when `src/data/expedia-hotels.json` has it, otherwise to an Expedia search.
+For each new stay: WebSearch with `allowed_domains: ["expedia.com"]`, query `"<name> <town> <country>"`.
+Accept only a URL of the form `https://www.expedia.com/<City>-Hotels-<Name>.h<digits>.Hotel-Information`
+(drop any query string) that clearly names this property in this town; never build one yourself. Add
+`"<slug>": "<url>"` to `src/data/expedia-hotels.json` (keep keys sorted). No clear match: add nothing.
+
 ## 3b. Translations (required)
 The site is published in English, German, French, Spanish, Italian and Dutch. After the English pages
 are written, launch `hotel-translator` subagents (they run on Haiku), up to 5 slugs each and at most

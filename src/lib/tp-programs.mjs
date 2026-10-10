@@ -15,15 +15,10 @@ export const VERIFIED = {
   'expedia.com': { p: '8645', campaign: '594' },
 };
 
-// Partners approved in the Travelpayouts account (My Programs). Plain links to these are
-// converted by Drive; links to hosts outside this list are treated as ordinary external links.
-export const APPROVED = [
-  'expedia.com', 'klook.com', 'aviasales.com', 'tiqets.com', 'kiwi.com', 'welcomepickups.com',
-  'intui.travel', 'localrent.com', 'gettransfer.com', 'kiwitaxi.com', 'getrentacar.com',
-  'radicalstorage.com', 'compensair.com', 'yesim.app', 'ekta.travel', 'bikesbooking.com',
-  'bikebooking.com', 'qeeq.com', 'airalo.com', 'drimsim.com', 'airhelp.com',
-  'economybookings.com', 'wegotrip.com', 'autoeurope.com', 'autoeurope.eu', 'saily.com',
-];
+// Partners approved in the Travelpayouts account (My Programs, checked 2026-10-10: Expedia and
+// Klook only). Plain links to these are converted by Drive; links to hosts outside this list are
+// treated as ordinary external links and earn nothing, so the site does not promote them.
+export const APPROVED = ['expedia.com', 'klook.com'];
 
 export const hostKey = (host) => host.replace(/^www\./, '').toLowerCase();
 export const isPartner = (host) => APPROVED.some(d => hostKey(host) === d || hostKey(host).endsWith('.' + d));

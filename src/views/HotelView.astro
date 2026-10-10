@@ -6,10 +6,10 @@ import TripEssentials from '../components/TripEssentials.astro';
 import PartnerLogo from '../components/PartnerLogo.astro';
 import Faq from '../components/Faq.astro';
 import AdSlot from '../components/AdSlot.astro';
-import { ownPhoto } from '../lib/images';
+import { ownPhoto, areaPhoto } from '../lib/images';
 import photoCredits from '../data/photo-credits.json';
 import { SITE, startPrice } from '../lib/site';
-import { withTracking, AFFILIATE_REL, mapsUrl } from '../lib/affiliate';
+import { withTracking, AFFILIATE_REL, mapsUrl, expediaHotelUrl, expediaHotelPage } from '../lib/affiliate';
 import { i18n, type Locale } from '../i18n';
 import { localized, entryAlternates, type Localized } from '../i18n/content';
 
@@ -34,19 +34,20 @@ const metaDesc = d.seo?.metaDescription || d.description;
 
 // Only this hotel's own photos are ever shown (never a generic category picture).
 const photo = ownPhoto(d.coverImage, hotel.slug);
-const credit = (photoCredits as Record<string, any>)[hotel.slug];
+const area = photo ? null : areaPhoto(hotel.slug);
+const credit = (photoCredits as Record<string, any>)[photo ? hotel.slug : `area:${hotel.slug}`];
 const gallery = d.gallery.map((g: string) => ownPhoto(g)).filter(Boolean) as string[];
-const hotelImageOg = photo ? `${SITE}${photo}` : `${SITE}/og-default.png`;
+const hotelImageOg = photo || area ? `${SITE}${photo ?? area}` : `${SITE}/og-default.png`;
 const pageUrl = SITE + L.path('hotels', hotel.slug);
 
-const bookUrlTracked = withTracking(d.bookingUrl, { campaign: 'hotel-detail', content: hotel.slug });
-const isBooking = /booking\.com/.test(d.bookingUrl);
-const q = encodeURIComponent(`${d.name}, ${d.destination.split(',')[0]}`);
-// Expedia first: it is the tracked (commission-earning) hotel partner.
+// Expedia first: it is the approved (commission-earning) hotel partner. Its page for this stay when
+// known, else a search. Booking.com earns nothing, so it is not offered; the official site is.
+const isOtaUrl = /(booking|expedia)\.com/.test(d.bookingUrl);
+const officialUrl = d.officialWebsite || (!isOtaUrl ? d.bookingUrl : null);
+const sellsOnExpedia = !!expediaHotelPage(hotel.slug) || d.category !== 'train-hotels' || !officialUrl;
 const offers = [
-  { name: 'Expedia', logo: 'expedia', note: T.offers.expedia, url: withTracking(`https://www.expedia.com/Hotel-Search?destination=${q}&adults=2`, { campaign: 'hotel-offer', content: hotel.slug }) },
-  ...(isBooking ? [{ name: 'Booking.com', logo: 'booking', note: T.offers.booking, url: withTracking(d.bookingUrl, { campaign: 'hotel-offer', content: hotel.slug }) }] : []),
-  ...(!isBooking ? [{ name: T.offers.officialName, logo: '', note: T.offers.official, url: bookUrlTracked }] : []),
+  ...(sellsOnExpedia ? [{ name: 'Expedia', logo: 'expedia', note: T.offers.expedia, url: expediaHotelUrl(hotel.slug, d.name, d.destination, { campaign: 'hotel-offer', content: hotel.slug }) }] : []),
+  ...(officialUrl ? [{ name: T.offers.officialName, logo: '', note: T.offers.official, url: withTracking(officialUrl, { campaign: 'hotel-detail', content: hotel.slug }) }] : []),
 ];
 const from = startPrice(d.priceRange);
 const mapSrc = d.coordinates ? (() => { const { lat, lng } = d.coordinates!; const k = 0.35, f = (x: number) => x.toFixed(4); return `https://www.openstreetmap.org/export/embed.html?bbox=${f(lng - k)}%2C${f(lat - k * 0.6)}%2C${f(lng + k)}%2C${f(lat + k * 0.6)}&layer=mapnik&marker=${lat}%2C${lng}`; })() : null;
@@ -126,7 +127,7 @@ const faqItems = T.faq({
 
     <!-- Visual -->
     <div class:list={['mt-6 grid gap-2 overflow-hidden rounded-2xl', gallery.length ? 'md:grid-cols-[2fr_1fr]' : '']}>
-      <div class:list={['group overflow-hidden bg-warm-100', photo ? 'aspect-[16/10] md:aspect-[16/8]' : 'aspect-[16/10] md:aspect-[16/6]']}>
+      <div class:list={['group overflow-hidden bg-warm-100', photo || area ? 'aspect-[16/10] md:aspect-[16/8]' : 'aspect-[16/10] md:aspect-[16/6]']}>
         <StayVisual slug={hotel.slug} name={d.name} category={d.category} destination={d.destination} country={country} coverImage={d.coverImage} eager size="hero" />
       </div>
       {gallery.length > 0 && (
@@ -135,9 +136,9 @@ const faqItems = T.faq({
         </div>
       )}
     </div>
-    {!photo && <p class="mt-2 font-body text-xs text-warm-400">{T.noPhoto}</p>}
-    {photo && credit && (
-      <p class="mt-2 font-body text-xs text-warm-400">{T.photo}: <a href={credit.source} target="_blank" rel="noopener noreferrer" class="underline">{credit.author}</a>, {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{credit.license}</a> : credit.license}, {T.viaCommons}</p>
+    {!photo && !area && <p class="mt-2 font-body text-xs text-warm-400">{T.noPhoto}</p>}
+    {(photo || area) && credit && (
+      <p class="mt-2 font-body text-xs text-warm-400">{area ? T.areaPhoto : T.photo}: <a href={credit.source} target="_blank" rel="noopener noreferrer" class="underline">{credit.author}</a>, {credit.licenseUrl ? <a href={credit.licenseUrl} target="_blank" rel="noopener noreferrer license" class="underline">{credit.license}</a> : credit.license}, {T.viaCommons}</p>
     )}
 
     <div class="mt-10 grid grid-cols-1 gap-12 lg:grid-cols-[1fr_380px] lg:gap-16">

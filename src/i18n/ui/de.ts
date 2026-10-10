@@ -150,6 +150,7 @@ const de: typeof en = {
   },
   card: {
     editorsPick: 'Tipp der Redaktion',
+    around: (place: string) => `Rund um ${place}`,
     save: (name: string) => `${name} merken`,
     scoreTitle: 'Redaktionswertung von 10',
     from: 'Ab',
@@ -205,6 +206,7 @@ const de: typeof en = {
     noPhoto: 'Fotos dieser Unterkunft finden Sie auf den Buchungsseiten.',
     photo: 'Foto',
     viaCommons: 'über Wikimedia Commons',
+    areaPhoto: 'Foto der Umgebung',
     facts: { price: 'Typischer Preis', ratesVary: 'Preise schwanken: aktuelle Preise prüfen', level: 'Preisklasse', bestTime: 'Beste Reisezeit', checkInOut: 'Check-in / Check-out', bestFor: 'Ideal für', score: 'Redaktionswertung' },
     why: 'Warum sie auf unserer Liste steht',
     included: 'Inklusive',

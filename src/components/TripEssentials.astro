@@ -6,32 +6,23 @@ import { getLocale, i18n } from '../i18n';
 interface Props { destination: string; country: string; subId: string; compact?: boolean }
 const { destination, country, subId } = Astro.props;
 const place = destination.split(',')[0].trim();
-const c = encodeURIComponent(country);
-// Airalo country pages follow /<country>-esim; fall back to the homepage for odd names.
-const esimSlug = country.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z]+/g, '-').replace(/^-|-$/g, '');
-const airaloUrl = ['usa', 'uk', 'england', 'scotland'].includes(esimSlug) ? 'https://www.airalo.com/' : `https://www.airalo.com/${esimSlug}-esim`;
 const t = (p: string, u: string) => tpLink(p, u, `essentials_${subId}`);
 const L = i18n(getLocale(Astro.url));
 const E = L.t.essentials;
 const where = L.country(country);
-// Only partner sites with confirmed language home pages are localized.
-const loc = L.locale === 'en' ? 'en' : L.locale;
-const mk = (k: keyof typeof E.items, logo: string, brand: string, href: string) => ({ ...E.items[k], desc: E.items[k].desc(where), brand, logo, href });
+// Klook is the approved partner for everything around the stay (Travelpayouts); its search
+// pages work for any place name, so each item is a Klook search for this place or country.
+const klook = (q: string) => t('', `https://www.klook.com/en-US/search-results/?query=${encodeURIComponent(q)}`);
+const mk = (k: keyof typeof E.items, href: string) => ({ ...E.items[k], desc: E.items[k].desc(where), brand: 'Klook', logo: 'klook', href });
 const groups = [
-  { title: E.groups.there, items: [
-    mk('flights', 'kiwi', 'Kiwi.com', t('', `https://www.kiwi.com/${loc}/`)),
-    mk('transfer', 'welcomepickups', 'Welcome Pickups', t('', 'https://www.welcomepickups.com/')),
-    mk('car', 'localrent', 'Localrent', t('', 'https://localrent.com/en/')),
-  ]},
   { title: E.groups.during, items: [
-    mk('tours', 'klook', 'Klook', t('', `https://www.klook.com/en-US/search-results/?query=${c}`)),
-    mk('tickets', 'tiqets', 'Tiqets', t('', `https://www.tiqets.com/${loc}/`)),
-    mk('luggage', 'radicalstorage', 'Radical Storage', t('', 'https://radicalstorage.com/')),
+    mk('tours', klook(`${place}, ${country}`)),
+    mk('tickets', klook(`${place} attractions`)),
+    mk('transfer', klook(`${place} airport transfer`)),
   ]},
   { title: E.groups.before, items: [
-    mk('esim', 'airalo', 'Airalo', t('', airaloUrl)),
-    mk('insurance', 'ekta', 'EKTA', t('', 'https://ekta.travel/')),
-    mk('delay', 'airhelp', 'AirHelp', t('', 'https://www.airhelp.com/')),
+    mk('esim', klook(`${country} eSIM`)),
+    mk('car', klook(`${country} car rental`)),
   ]},
 ];
 ---
