@@ -19,11 +19,11 @@ In deze gids zetten we de treinroutes naar de interessantste bijzondere accommod
 
 **Vluchten:** De luchthavens Haneda (HND) en Narita (NRT) in Tokio zijn de belangrijkste internationale toegangspoorten. Wil je in Kyoto beginnen, dan is Osaka Kansai (KIX) de betere keuze: de Haruka Express brengt je in 75 minuten rechtstreeks naar Kyoto Station. New Chitose Airport (CTS) bij Sapporo is de poort naar Hokkaido, met seizoensgebonden directe vluchten vanuit Tokio, Taipei, Seoul en Hongkong.
 
-De kersenbloesem (eind maart tot half april) en de herfstkleuren (oktober–november) zijn de populairste periodes. Vluchten in die weken zijn 4 tot 6 maanden vooraf volgeboekt en flink duurder.
+Zoek en vergelijk vluchten via [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/japan). De kersenbloesem (eind maart tot half april) en de herfstkleuren (oktober–november) zijn de populairste periodes. Vluchten in die weken zijn 4 tot 6 maanden vooraf volgeboekt en flink duurder.
 
 **Van de luchthaven naar de stad:** Vanaf Haneda ben je met de Tokyo Monorail of de Keikyu-lijn in 14 tot 20 minuten in de stad. Vanaf Narita brengt de N'EX (Narita Express) je in 60 tot 80 minuten naar Shinjuku en Shibuya. Vanaf Kansai is de Haruka Express de standaardverbinding naar Kyoto en Osaka.
 
-Voor privétransfers (handig als je met zware bagage aankomt en je JR Pass nog niet hebt opgehaald) kun je terecht bij [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer), dat in Tokio en Osaka actief is.
+Voor privétransfers (handig als je met zware bagage aankomt en je JR Pass nog niet hebt opgehaald) kun je terecht bij [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) en [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo); beide rijden in Tokio en Osaka.
 
 ---
 
@@ -52,7 +52,7 @@ Hakone is vanuit Tokio de makkelijkst bereikbare ryokanbestemming: 90 minuten me
 
 **Treinroute:** Shinjuku → Hakone-Yumoto (Odakyu Romancecar, 85 minuten direct). Vanaf Hakone-Yumoto zigzagt de Hakone Tozan-spoorlijn omhoog naar Gora (30 minuten); vanaf Gora zweeft een kabelbaan over de vulkanische vallei Owakudani.
 
-**Overnachten:** Gōra Kadan bovenaan de kabeltram van Gora is de meest prestigieuze ryokan van Hakone. In het riviertal van Hakone-Yumoto vind je middenklasseadressen met echte tatamikamers en een privé-onsen voor een betaalbare prijs. Zoek accommodaties in Hakone op [Expedia](https://www.expedia.com/Hotel-Search?destination=Hakone%2C%20Japan).
+**Overnachten:** Gōra Kadan ([Expedia](https://www.expedia.com/Hotel-Search?destination=Hakone)) bovenaan de kabeltram van Gora is de meest prestigieuze ryokan van Hakone. In het riviertal van Hakone-Yumoto vind je middenklasseadressen met echte tatamikamers en een privé-onsen voor een betaalbare prijs.
 
 Boek tours in Hakone en uitstapjes met Fuji-uitzicht via [Klook](https://www.klook.com/en-US/search-results/?query=Hakone+Mount+Fuji); toegang tot het Open Air Museum en tickets voor de boottocht in Hakone zijn als combi te koop.
 
@@ -91,7 +91,7 @@ Boek ervaringen in Kyoto, zoals een theeceremonie, Nō-theater of sakeproeverij,
 
 **Niseko in de zomer:** Drukte en prijzen dalen flink, en het landschap van vulkanische toppen, bloemenvelden en hooglandweiden is echt prachtig. De privé-onsen en kaiseki van Zaborin zijn het hele jaar open.
 
-Zoek transfers van New Chitose Airport naar Niseko via [Klook](https://www.klook.com/en-US/search-results/?query=New%20Chitose%20airport%20transfer) of boek rechtstreeks bij Zaborin.
+Zoek transfers van New Chitose Airport naar Niseko via [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Sapporo) of boek rechtstreeks bij Zaborin.
 
 ---
 
@@ -109,7 +109,7 @@ Zoek transfers van New Chitose Airport naar Niseko via [Klook](https://www.klook
 
 ## eSIM en bereik in Japan
 
-De 4G- en 5G-netwerken in Japan zijn uitstekend, ook in afgelegen onsenstadjes. Een Japanse eSIM van [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM), meestal ¥ 1.500–2.500 voor 10 GB en 30 dagen, is voor bezoekers de praktischste manier om online te blijven. Hij werkt meteen, je hebt geen pocket-wifi nodig en hij werkt op alle grote Japanse netwerken.
+De 4G- en 5G-netwerken in Japan zijn uitstekend, ook in afgelegen onsenstadjes. Een Japanse eSIM van [Airalo](https://www.airalo.com), meestal ¥ 1.500–2.500 voor 10 GB en 30 dagen, is voor bezoekers de praktischste manier om online te blijven. Hij werkt meteen, je hebt geen pocket-wifi nodig en hij werkt op alle grote Japanse netwerken.
 
 **Over pocket-wifi:** Een pocket-wifi huren op de luchthaven was lang dé oplossing voor buitenlanders in Japan, maar een eSIM is nu in bijna alle opzichten beter: handiger, geen apparaat om terug te brengen en steeds vaker goedkoper. De enige uitzondering: je reist in een groep en wilt liever één gedeelde databundel dan ieder een eigen eSIM.
 
@@ -119,7 +119,7 @@ De 4G- en 5G-netwerken in Japan zijn uitstekend, ook in afgelegen onsenstadjes. 
 
 Japan is een veilig land met uitstekende zorg, maar die zorg is duur voor onverzekerde buitenlandse bezoekers. Een ziekenhuisopname in Tokio kan $ 500–2.000 per dag kosten; bij een noodgeval met langdurige zorg kan de rekening oplopen tot $ 10.000–20.000.
 
-Kies een verzekering die medische kosten in Japan dekt, inclusief de avontuurlijke activiteiten die je plant (skiën in Niseko, wandelen in de Japanse Alpen). Specifiek voor ryokan: veel topadressen vragen je 6 maanden vooruit te boeken met een niet-restitueerbare aanbetaling. Check dus of je reisverzekering annulering dekt.
+Check of je reisverzekering (bijvoorbeeld [EKTA](https://ektatraveling.com/)) medische kosten in Japan en avontuurlijke activiteiten (skiën in Niseko, wandelen in de Japanse Alpen) dekt. Specifiek voor ryokan: veel topadressen vragen je 6 maanden vooruit te boeken met een niet-restitueerbare aanbetaling. Check dus of je reisverzekering annulering dekt.
 
 ---
 

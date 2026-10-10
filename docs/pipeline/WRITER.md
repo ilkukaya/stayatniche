@@ -80,7 +80,8 @@ body. One closing line that tells readers what to ask the hotel is fine when it 
 (e.g. "ask for room 105, the carved cave room").
 
 ## 3a. Expedia hotel page (affiliate link)
-Expedia and Klook are the only approved partners. The "Check rates" buttons go to the stay's own
+Expedia is the approved hotel partner (the full list of approved programs is `APPROVED` in
+`src/lib/tp-programs.mjs`; link only to those). The "Check rates" buttons go to the stay's own
 Expedia page when `src/data/expedia-hotels.json` has it, otherwise to an Expedia search.
 For each new stay: WebSearch with `allowed_domains: ["expedia.com"]`, query `"<name> <town> <country>"`.
 Accept only a URL of the form `https://www.expedia.com/<City>-Hotels-<Name>.h<digits>.Hotel-Information`

@@ -43,22 +43,22 @@ Die Südküste, lange von Reisenden übersehen, die sich ganz auf die Tempel kon
 
 ## Anreise
 
-**Flüge:** Phnom Penh (PNH) und Siem Reap (REP) sind die beiden wichtigsten internationalen Flughäfen Kambodschas. Von Bangkok (BKK), Kuala Lumpur (KUL), Singapur (SIN) und Ho-Chi-Minh-Stadt (SGN) gibt es täglich mehrere Verbindungen. Direktflüge aus Incheon, Guangzhou und Taipeh sind üblich.
+**Flüge:** Phnom Penh (PNH) und Siem Reap (REP) sind die beiden wichtigsten internationalen Flughäfen Kambodschas. Von Bangkok (BKK), Kuala Lumpur (KUL), Singapur (SIN) und Ho-Chi-Minh-Stadt (SGN) gibt es täglich mehrere Verbindungen. Direktflüge aus Incheon, Guangzhou und Taipeh sind üblich. Flüge suchen und vergleichen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Cambodia/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/cambodia).
 
-**Flughafentransfer:** Der Flughafen von Siem Reap liegt 3 km vom Ort entfernt – eine Fahrt von 10 Minuten. Der Flughafen von Phnom Penh ist 10 km von der Uferpromenade entfernt. Private Transfers buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20airport%20transfer). Tuk-Tuks gibt es überall – eine stimmungsvolle Alternative für kurze Strecken in der Stadt.
+**Flughafentransfer:** Der Flughafen von Siem Reap liegt 3 km vom Ort entfernt – eine Fahrt von 10 Minuten. Der Flughafen von Phnom Penh ist 10 km von der Uferpromenade entfernt. Private Transfers buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Siem+Reap) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). Tuk-Tuks gibt es überall – eine stimmungsvolle Alternative für kurze Strecken in der Stadt.
 
 ## Unterwegs vor Ort
 
 **Tuk-Tuk und Fahrer:** Der übliche Weg, Angkor Wat zu besuchen und sich in Siem Reap zu bewegen. Die meisten Hotels vermitteln zuverlässige, Englisch sprechende Tuk-Tuk-Fahrer zum Tagessatz. Für die Überlandstrecke Phnom Penh–Siem Reap (6 Stunden) können Sie ein Auto mit Fahrer mieten – deutlich bequemer als der Bus.
 
-**Schnellboote:** Sie verbinden Phnom Penh über den Tonle-Sap-See mit Siem Reap (Expressboot, 5–6 Stunden – landschaftlich schön, aber holprig) und fahren von Sihanoukville zu den Inseln der Südküste. Mietwagen in den Städten vergleichen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20car%20rental).
+**Schnellboote:** Sie verbinden Phnom Penh über den Tonle-Sap-See mit Siem Reap (Expressboot, 5–6 Stunden – landschaftlich schön, aber holprig) und fahren von Sihanoukville zu den Inseln der Südküste. Mietwagen in den Städten vergleichen Sie auf [QEEQ](https://www.qeeq.com/search?q=Phnom+Penh%2C+Cambodia) oder [Localrent](https://localrent.com/en/?location=Phnom+Penh).
 
 ## Touren und Erlebnisse
 
-Sonnenaufgangstouren in Angkor Wat, Ausflüge zu den schwimmenden Dörfern des Tonle Sap und Geschichtstouren in Phnom Penh buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Trekking im Kardamomgebirge und Aufenthalte in Ökolodges organisieren Sie am besten über spezialisierte Naturschutzanbieter. Kambodschanische Kochkurse, Workshops im Seidenweben und Fototouren zu den Tempeln finden Sie ebenfalls bei Klook.
+Sonnenaufgangstouren in Angkor Wat, Ausflüge zu den schwimmenden Dörfern des Tonle Sap und Geschichtstouren in Phnom Penh buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Trekking im Kardamomgebirge und Aufenthalte in Ökolodges organisieren Sie am besten über spezialisierte Naturschutzanbieter. Kambodschanische Kochkurse, Workshops im Seidenweben und Fototouren zu den Tempeln finden Sie bei [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
 
 ## Reisepraktisches
 
-**eSIM:** Eine eSIM für Kambodscha erhalten Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20eSIM). Smart und Cellcard haben die beste Abdeckung; im Kardamomgebirge ist der Empfang wechselhaft, in abgelegenen Ökolodges fehlt er ganz. Die meisten Dschungel-Lodges nutzen WLAN via Satellit.
+**eSIM:** Eine eSIM für Kambodscha erhalten Sie bei [Airalo](https://www.airalo.com). Smart und Cellcard haben die beste Abdeckung; im Kardamomgebirge ist der Empfang wechselhaft, in abgelegenen Ökolodges fehlt er ganz. Die meisten Dschungel-Lodges nutzen WLAN via Satellit.
 
-**Reiseversicherung:** Unverzichtbar – das öffentliche Gesundheitswesen Kambodschas ist begrenzt, und eine medizinische Evakuierung nach Bangkok oder Singapur kostet 5.000–15.000 $. Achten Sie darauf, dass Ihre Police Evakuierungen einschließt und Dschungeltrekking abdeckt.
+**Reiseversicherung:** Unverzichtbar – das öffentliche Gesundheitswesen Kambodschas ist begrenzt, und eine medizinische Evakuierung nach Bangkok oder Singapur kostet 5.000–15.000 $. Policen vergleichen Sie auf [EKTA](https://ektatraveling.com/); prüfen Sie, ob die gewählte Police medizinische Evakuierung und Dschungeltrekking abdeckt.

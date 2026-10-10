@@ -25,7 +25,7 @@ Jomo Kenyatta International Airport in Nairobi is de best verbonden toegangspoor
 - **Vanaf Dubai/Doha:** dagelijks met Emirates en Qatar Airways
 - **Binnen Afrika:** Ethiopian Airlines via Addis Abeba (de grootste hub binnen Afrika); RwandAir via Kigali; South African Airways via Johannesburg
 
-Ethiopian Airlines heeft steevast de scherpste prijzen voor wie vanuit Azië of Amerika naar Afrika vliegt; Kenya Airways is vanuit Europa de favoriet als het om kwaliteit gaat.
+Zoek en vergelijk alle routes naar Nairobi op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/nairobi). Ethiopian Airlines heeft steevast de scherpste prijzen voor wie vanuit Azië of Amerika naar Afrika vliegt; Kenya Airways is vanuit Europa de favoriet als het om kwaliteit gaat.
 
 ### Kigali (KGL): Rwanda en Centraal-Afrika
 
@@ -72,7 +72,7 @@ Bij de meeste internationale safarireizen overnacht je in Nairobi voordat je de 
 - **Rond het Giraffe Centre (Langata):** de voorsteden Karen en Langata liggen vlak bij het Giraffe Centre, de David Sheldrick Wildlife Trust (opvang voor olifantenwezen; reserveer je ochtendplek online voor aankomst) en het Karen Blixen Museum. Boetiekpensions en tuinlodges in deze wijken zijn rustiger en sfeervoller dan het centrum.
 - **Naast Nairobi National Park:** de parkgrens loopt langs de zuidrand van de stad; bij sommige lodges in het park zelf beleef je het surrealistische moment dat je leeuwen een prooi ziet slaan met de skyline van Nairobi aan de horizon.
 
-**Transfer van en naar de luchthaven van Nairobi:** de luchthaven ligt 20 km van de stad: 30 minuten buiten de spits, meer dan een uur in het verkeer van Nairobi om 17.00 uur. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer). Een vaste prijs en een professionele ontvangst zijn veel meer waard dan de ervaring bij de taxistandplaats van de luchthaven.
+**Transfer van en naar de luchthaven van Nairobi:** de luchthaven ligt 20 km van de stad: 30 minuten buiten de spits, meer dan een uur in het verkeer van Nairobi om 17.00 uur. Boek een privétransfer via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi). Een vaste prijs en een professionele ontvangst zijn veel meer waard dan de ervaring bij de taxistandplaats van de luchthaven.
 
 ---
 
@@ -88,7 +88,7 @@ Het gorillacircuit van Rwanda is logistiek eenvoudig vergeleken met de safari's 
 
 De meeste lodges bij Volcanoes regelen de hele reeks, inclusief ophalen op de luchthaven van Kigali en de vergunningen. [Bisate Lodge](/hotels/bisate-lodge-rwanda) is qua design de meest vooruitstrevende optie; alle accommodaties in deze categorie zijn all-inclusive en regelen de gorillatrekking van a tot z.
 
-**eSIM voor Rwanda:** de Rwanda-eSIM van [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM). MTN Rwanda heeft bereik in Kigali en langs de hoofdweg naar het park. In het park zelf en bij de meeste lodges gebruik je de satellietwifi van de lodge.
+**eSIM voor Rwanda:** de Rwanda-eSIM van [Airalo](https://www.airalo.com). MTN Rwanda heeft bereik in Kigali en langs de hoofdweg naar het park. In het park zelf en bij de meeste lodges gebruik je de satellietwifi van de lodge.
 
 ---
 
@@ -104,7 +104,7 @@ Het ecosysteem van de Masai Mara, met het nationale reservaat en de omliggende p
 
 [Rekero Camp](/hotels/rekero-camp-masai-mara) en [Campi ya Kanzi](/hotels/campi-ya-kanzi-kenya) bieden twee heel verschillende ervaringen in het ecosysteem van de Mara en Amboseli. Rekero ligt aan de Mara-rivier, precies bij de oversteekplaatsen van de grote migratie; Campi ya Kanzi ligt in de Maasai-conservancy in de Chyulu Hills, met uitzicht op de Kilimanjaro en meer mogelijkheden voor wandelsafari's.
 
-**Transfer van Nairobi naar Wilson Airport:** 15 tot 30 minuten, afhankelijk van het verkeer. [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) biedt transfers tegen een vaste prijs binnen Nairobi, ook naar Wilson Airport.
+**Transfer van Nairobi naar Wilson Airport:** 15 tot 30 minuten, afhankelijk van het verkeer. [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) biedt transfers tegen een vaste prijs binnen Nairobi, ook naar Wilson Airport.
 
 ---
 
@@ -144,11 +144,11 @@ De bagageregels voor bushvluchten (15 kg in een zachte tas, geen harde koffers) 
 
 Het mobiele bereik in Oost-Afrika wisselt sterk:
 
-- **Kenia:** Safaricom heeft het beste bereik, ook aan de randen van de meeste nationale parken en langs de hoofdwegen. Een Kenia-eSIM van [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM) op het netwerk van Safaricom is de juiste keuze. Lodges in heel afgelegen gebieden (Chyulu Hills, Lake Turkana) gebruiken satelliet.
+- **Kenia:** Safaricom heeft het beste bereik, ook aan de randen van de meeste nationale parken en langs de hoofdwegen. Een Kenia-eSIM van [Airalo](https://www.airalo.com) op het netwerk van Safaricom is de juiste keuze. Lodges in heel afgelegen gebieden (Chyulu Hills, Lake Turkana) gebruiken satelliet.
 - **Tanzania:** Vodacom Tanzania en Airtel Tanzania dekken de hoofdwegen en Arusha. Binnen de Serengeti: alleen satellietinternet van de lodge.
 - **Rwanda:** MTN Rwanda heeft uitstekend bereik in Kigali en langs de hoofdweg naar Volcanoes National Park. In het park zelf: wifi van de lodge.
 
-Een regionale Oost-Afrika-eSIM van [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM) dekt Kenia, Tanzania en Rwanda in één bundel: handig voor rondreizen door meerdere landen.
+Een regionale Oost-Afrika-eSIM van [Airalo](https://www.airalo.com) dekt Kenia, Tanzania en Rwanda in één bundel: handig voor rondreizen door meerdere landen.
 
 ---
 
@@ -163,7 +163,7 @@ De dichtstbijzijnde geavanceerde medische voorziening voor de meeste Keniaanse s
 - Medische kosten: minimaal $ 50.000 voor Tanzania/Kenia
 - Annulering: relevant als je niet-restitueerbare lodgenachten in het hoogseizoen hebt geboekt
 
-Kies een polis die dit allemaal dekt, inclusief avontuurlijke activiteiten (gamedrives in open voertuigen, gorillatrekking) zonder extra premie, en een fractie kost van één enkele medevac. Het jaarlidmaatschap van AMREF Flying Doctors (gevestigd in Kenia/Tanzania) is een nuttige extra laag bij langere reizen door Oost-Afrika.
+Een polis van [EKTA](https://ektatraveling.com/) is een optie; controleer of de polis medische evacuatie en avontuurlijke activiteiten (gamedrives in open voertuigen, gorillatrekking) dekt, want één enkele medevac kost veel meer dan de verzekering zelf. Het jaarlidmaatschap van AMREF Flying Doctors (gevestigd in Kenia/Tanzania) is een nuttige extra laag bij langere reizen door Oost-Afrika.
 
 ---
 
@@ -172,10 +172,10 @@ Kies een polis die dit allemaal dekt, inclusief avontuurlijke activiteiten (game
 Voor een safarireis in Oost-Afrika met lodges van het niveau uit deze gids is de volgorde van boeken belangrijk:
 
 1. **Eerst de lodges:** de beste kampen, zoals Bisate, Rekero en Campi ya Kanzi, zitten voor het hoogseizoen van de migratie (juli–oktober) 6 tot 9 maanden van tevoren vol. Boek zodra je data vastliggen.
-2. **Internationale vluchten:** zoek 3 tot 4 maanden vooraf naar vluchten; de tarieven zijn relatief stabiel vergeleken met Europese routes.
+2. **Internationale vluchten:** zoek 3 tot 4 maanden vooraf op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime); de tarieven zijn relatief stabiel vergeleken met Europese routes.
 3. **Bushvluchten:** zodra de lodgedata vastliggen, adviseert de lodge je over de beste landingsstrip en maatschappij. Boek rechtstreeks bij Safarilink of Coastal Aviation.
 4. **Hotel in Nairobi:** 1 à 2 nachten voor de safari. Karen en Langata zijn een betere keuze dan de wijken rond de luchthaven.
-5. **eSIM:** de regionale Oost-Afrika-bundel van [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM) voor vertrek.
-6. **Reisverzekering:** een uitgebreide dekking als basis; controleer de limieten voor evacuatie.
+5. **eSIM:** de regionale Oost-Afrika-bundel van [Airalo](https://www.airalo.com) voor vertrek.
+6. **Reisverzekering:** [EKTA](https://ektatraveling.com/) als basis; controleer de limieten voor evacuatie.
 
 Op papier ziet de logistiek er ingewikkeld uit; met goede organisatoren wordt ze de reis zelf, onderdeel van die verruiming van je blik die Oost-Afrika je uiteindelijk geeft.

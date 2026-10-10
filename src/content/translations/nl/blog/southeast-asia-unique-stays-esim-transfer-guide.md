@@ -27,7 +27,7 @@ De grote hubs van Zuidoost-Azië verbinden de regio met de wereld en met elkaar.
 
 **Sorong (SOQ) / Manokwari (MKW):** De toegangspoorten tot Raja Ampat. De meeste vluchten gaan via Makassar (UPG) of Manado (MDC) vanuit Jakarta (CGK) of Bali (DPS).
 
-Vergelijk al deze routes vóór je boekt; de zoekfunctie voor meerdere steden is vooral handig als je een reis door Thailand, Cambodja en Indonesië samenstelt met verschillende aankomst- en vertrekpunten.
+Zoek en vergelijk al deze routes op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Southeast+Asia/anytime/anytime); de zoekfunctie voor meerdere steden is vooral handig als je een reis door Thailand, Cambodja en Indonesië samenstelt met verschillende aankomst- en vertrekpunten. [Aviasales](https://www.aviasales.com) laat vaak prijsvechters zien die andere vergelijkingssites missen.
 
 ---
 
@@ -41,13 +41,13 @@ Soneva Kiri heeft een eigen transferdienst per watervliegtuig vanuit Bangkok: ee
 
 De budgetroute: vlieg van Don Mueang naar Trat Airport (TDX) met AirAsia of Bangkok Airways (45 minuten), neem een taxi of songthaew naar de pier van Ban Hua Hin en daarna de speedboot van het resort naar het eiland. Totale reistijd vanuit Bangkok: ongeveer 4 uur.
 
-**Transfer van Bangkok naar Don Mueang:** Boek via [Klook](https://www.klook.com/en-US/search-results/?query=Bangkok%20Don%20Mueang%20airport%20transfer): vaste prijs, professionele chauffeur en ontvangst in de aankomsthal. Veel prettiger dan de taxirij.
+**Transfer van Bangkok naar Don Mueang:** Boek via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Bangkok): vaste prijs, professionele chauffeur en ontvangst in de aankomsthal. Veel prettiger dan de taxirij.
 
 ### Keemala, Phuket
 
 Phuket International Airport (HKT) ontvangt directe internationale vluchten vanuit de meeste Aziatische hubs en steeds meer Europese chartervluchten. Keemala ligt in de Kamala Hills boven de westkust van Phuket, 30 minuten van het vliegveld met een privétransfer.
 
-[Klook](https://www.klook.com/en-US/search-results/?query=Phuket%20airport%20transfer) biedt transfers tegen een vaste prijs vanaf Phuket Airport naar alle resortgebieden op het eiland, met professionele ontvangst. Dat is een stuk beter dan onderhandelen met taxironselaars in de aankomsthal.
+[KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phuket) biedt transfers tegen een vaste prijs vanaf Phuket Airport naar alle resortgebieden op het eiland, met professionele ontvangst. Dat is een stuk beter dan onderhandelen met taxironselaars in de aankomsthal.
 
 ---
 
@@ -67,7 +67,7 @@ Het resort regelt alle logistiek vanaf Phnom Penh; de meeste gasten boeken een c
 
 **Privéauto vanuit Phnom Penh:** De comfortabelste optie. Het resort kan een betrouwbare chauffeur regelen, of je boekt zelf via lokale touroperators.
 
-**Transfer van en naar het vliegveld in Phnom Penh:** Boek via [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20airport%20transfer). Het vliegveld ligt 10 km van de Riverside-wijk; een tuktuk is prima als je op budget reist, maar met bagage en een lange rit voor de boeg is een privétransfer beter.
+**Transfer van en naar het vliegveld in Phnom Penh:** Boek via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Phnom+Penh) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). Het vliegveld ligt 10 km van de Riverside-wijk; een tuktuk is prima als je op budget reist, maar met bagage en een lange rit voor de boeg is een privétransfer beter.
 
 ### Song Saa Private Island, Koh Rong
 
@@ -82,17 +82,17 @@ Song Saa is de verfijnde eilandlodge in de Koh Rong-archipel van Cambodja, 45 mi
 Raja Ampat is afgelegen, bewust en door zijn geografie. West-Papoea is de oostelijkste provincie van Indonesië; om er te komen, heb je een reeks vluchten nodig die de meeste reizigers uit Europa of Noord-Amerika nog nooit hebben gemaakt.
 
 **De standaardvolgorde van vluchten:**
-1. Internationale vlucht naar Jakarta (CGK) of Bali (DPS): zoek vluchten vanaf je vertrekstad
+1. Internationale vlucht naar Jakarta (CGK) of Bali (DPS): zoek op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Indonesia/anytime/anytime) vanaf je vertrekstad
 2. Aansluitende vlucht naar Sorong (SOQ): direct vanuit Makassar, Manado of Jakarta; reken op 3 tot 4 uur overstaptijd in Jakarta of op Bali
 3. Vanuit Sorong: Misool verzorgt een transfer van 4 uur per duikschip naar het resort
 
 Het traject naar Sorong is het cruciale stuk om goed te regelen. Lion Air, Garuda Indonesia en Sriwijaya Air vliegen allemaal op Sorong; controleer de bagagelimieten zorgvuldig, want binnenlandse Indonesische maatschappijen hanteren strikte en soms pittige toeslagen voor overgewicht.
 
-**eSIM voor Indonesië:** Neem vóór vertrek een Indonesische eSIM van [Klook](https://www.klook.com/en-US/search-results/?query=Indonesia%20eSIM), bij voorkeur met Telkomsel-netwerk: Telkomsel heeft het beste bereik in Papoea. In het stadje Sorong is het signaal goed; in Raja Ampat valt het buiten de plaatsen flink weg. Het resort gebruikt internet via de satelliet.
+**eSIM voor Indonesië:** Neem vóór vertrek een Indonesische eSIM van [Airalo](https://www.airalo.com) met een Telkomsel-bundel: Telkomsel heeft het beste bereik in Papoea. In het stadje Sorong is het signaal goed; in Raja Ampat valt het buiten de plaatsen flink weg. Het resort gebruikt internet via de satelliet.
 
 ### Algemene reistip voor Indonesië
 
-Indonesië is een enorm land met meer dan 17.000 eilanden. Het binnenlandse vluchtnet is uitgebreid, maar de kwaliteit wisselt. Lion Air en AirAsia zijn de budgetopties; Garuda Indonesia en Citilink zijn beter en de kleine meerprijs waard op lange binnenlandse trajecten. Boek binnenlandse Indonesische vluchten rechtstreeks bij de maatschappij; beschikbaarheid en annuleringsvoorwaarden verschillen sterk per maatschappij.
+Indonesië is een enorm land met meer dan 17.000 eilanden. Het binnenlandse vluchtnet is uitgebreid, maar de kwaliteit wisselt. Lion Air en AirAsia zijn de budgetopties; Garuda Indonesia en Citilink zijn beter en de kleine meerprijs waard op lange binnenlandse trajecten. Boek binnenlandse Indonesische vluchten rechtstreeks of via [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Indonesia/anytime/anytime); beschikbaarheid en annuleringsvoorwaarden verschillen sterk per maatschappij.
 
 ---
 
@@ -100,7 +100,7 @@ Indonesië is een enorm land met meer dan 17.000 eilanden. Het binnenlandse vluc
 
 Zuidoost-Azië bestaat uit zes aparte markten voor mobiele netwerken. Een Europese of Amerikaanse simkaart die in al die landen roamt, levert buitensporige kosten op. De oplossing is een eSIM, en voor een reis door meerdere landen heb je twee praktische opties:
 
-1. **Een regionale eSIM voor Zuidoost-Azië** van [Klook](https://www.klook.com/en-US/search-results/?query=Southeast%20Asia%20eSIM): regionale ASEAN-bundels dekken Thailand, Cambodja, Indonesië, Maleisië, Vietnam en de Filipijnen met één eSIM. De kwaliteit van het bereik verschilt per land, maar in toeristische gebieden werkt het.
+1. **Een regionale eSIM voor Zuidoost-Azië** van [Airalo](https://www.airalo.com): hun regionale ASEAN-bundels dekken Thailand, Cambodja, Indonesië, Maleisië, Vietnam en de Filipijnen met één eSIM. De kwaliteit van het bereik verschilt per land, maar in toeristische gebieden werkt het.
 
 2. **Een eSIM per land** voor elke bestemming: per stuk duurder, maar met beter bereik, vooral in afgelegen gebieden (Cardamomgebergte, Raja Ampat) waar de lokale provider belangrijker is dan het regionale gemak.
 
@@ -109,7 +109,7 @@ Zuidoost-Azië bestaat uit zes aparte markten voor mobiele netwerken. Een Europe
 - **Cambodja:** Smart en Cellcard hebben goed bereik in Phnom Penh en Siem Reap; op het Cambodjaanse platteland en in het Cardamomgebergte wisselt het signaal.
 - **Indonesië:** Telkomsel is de enige provider met noemenswaardig bereik in Papoea (Raja Ampat). XL en Tri volstaan op Java en Bali.
 
-Alle eSIM's van [Klook](https://www.klook.com/en-US/search-results/?query=Southeast%20Asia%20eSIM) installeer je vóór vertrek en activeer je bij aankomst: geen gezoek naar een simkaartverkoper met een taalbarrière.
+Alle eSIM's van [Airalo](https://www.airalo.com) installeer je vóór vertrek en activeer je bij aankomst: geen gezoek naar een simkaartverkoper met een taalbarrière.
 
 ---
 
@@ -118,8 +118,8 @@ Alle eSIM's van [Klook](https://www.klook.com/en-US/search-results/?query=Southe
 Een huurauto is voor een route langs de bijzondere hotels van Zuidoost-Azië minder relevant dan in Europa of op het Amerikaanse continent. Voor de meeste afgelegen adressen heb je een boot of speciaal voertuig nodig, en dat regelt het resort; in de steden is Grab (de Uber van de regio) praktisch en goedkoop.
 
 Waar zelf rijden wel zinvol is:
-- **Thailand:** Voor Chiang Mai en Noord-Thailand is huren een goed idee. Vergelijk via [Klook](https://www.klook.com/en-US/search-results/?query=Thailand%20car%20rental).
-- **Bali, Indonesië:** De scooter is hier de norm; huren vanaf $ 7 per dag. Wil je grotere stukken van het eiland verkennen, dan is een auto met chauffeur veiliger en niet veel duurder. [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20car%20rental) voor autohuur.
+- **Thailand:** Voor Chiang Mai en Noord-Thailand is huren een goed idee. Vergelijk via [QEEQ](https://www.qeeq.com/search?q=Thailand) of [Localrent](https://localrent.com/en/?location=Thailand).
+- **Bali, Indonesië:** De scooter is hier de norm; huren vanaf $ 7 per dag. Wil je grotere stukken van het eiland verkennen, dan is een auto met chauffeur veiliger en niet veel duurder. [BikeBooking](https://www.bikesbooking.com/en/search?location=Bali%2C+Indonesia) voor motoren; [EconomyBookings](https://www.economybookings.com/?location=Bali) voor auto's.
 - **Cambodja:** Neem voor alles buiten Phnom Penh en Siem Reap liever een chauffeur dan zelf te rijden.
 
 ---
@@ -128,7 +128,7 @@ Waar zelf rijden wel zinvol is:
 
 Elk bijzonder hotel in dit overzicht ligt op een plek waar medische evacuatie, mocht die nodig zijn, duur en ingewikkeld is. Vanuit het Cardamomgebergte, Raja Ampat en Koh Kood kom je alleen met flinke logistiek bij een goed ziekenhuis.
 
-**De minimumeis:** Een reisverzekering die uitdrukkelijk medische evacuatie in noodgevallen dekt, met een dekking van minstens $ 100.000. Controleer of die ook avontuurlijke activiteiten dekt (junglewandelingen, duiken, tokkelbanen); een polis kost een fractie van één enkele medische evacuatievlucht.
+**De minimumeis:** Een reisverzekering die uitdrukkelijk medische evacuatie in noodgevallen dekt, met een dekking van minstens $ 100.000. Check ook of de polis avontuurlijke activiteiten (junglewandelingen, duiken, tokkelbanen) dekt; [EKTA](https://ektatraveling.com/) is een optie om te vergelijken, en zo'n polis kost een fractie van één enkele medische evacuatievlucht.
 
 Controleer of je polis het volgende dekt:
 - Duiken en watersport (relevant voor Misool, Song Saa en alle adressen aan de kust)
@@ -145,4 +145,4 @@ Voor een reis van 2 tot 3 weken langs bijzondere hotels in Zuidoost-Azië die ge
 **Week 2:** Cambodja: 2 nachten Phnom Penh, Shinta Mani Wild (Cardamomgebergte) voor 3 nachten, Siem Reap en Angkor voor 2 tot 3 nachten
 **Week 3 (optioneel):** Verlenging naar Indonesië: Bali als tussenstop, aansluiting naar Sorong, Raja Ampat (Misool) voor minimaal 5 tot 7 nachten (de reis rechtvaardigt een langer verblijf)
 
-Zoek de complete vluchtroute met de zoekfunctie voor meerdere steden. Boek afgelegen lodges 3 tot 6 maanden vooruit; vooral Misool zit met zijn beperkte capaciteit snel vol.
+Zoek de complete vluchtroute op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Southeast+Asia/anytime/anytime) met de zoekfunctie voor meerdere steden. Boek afgelegen lodges 3 tot 6 maanden vooruit; vooral Misool zit met zijn beperkte capaciteit snel vol.

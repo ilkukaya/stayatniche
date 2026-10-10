@@ -43,22 +43,22 @@ La razón por la que el Observatorio Europeo Austral construyó su Very Large Te
 
 ## Cómo llegar
 
-**Vuelos:** el aeropuerto de Calama (CJC) es el más cercano a San Pedro de Atacama, a 100 km. Hay vuelos directos desde Santiago (unas 2 horas) varias veces al día con LATAM y Sky Airline. Santiago (SCL) recibe vuelos de largo recorrido desde Europa (Madrid, París, Fráncfort, Londres), Norteamérica (Miami, Nueva York, Los Ángeles) y toda Sudamérica.
+**Vuelos:** el aeropuerto de Calama (CJC) es el más cercano a San Pedro de Atacama, a 100 km. Hay vuelos directos desde Santiago (unas 2 horas) varias veces al día con LATAM y Sky Airline. Santiago (SCL) recibe vuelos de largo recorrido desde Europa (Madrid, París, Fráncfort, Londres), Norteamérica (Miami, Nueva York, Los Ángeles) y toda Sudamérica. Busca y compara vuelos en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chile/anytime/anytime) y [Aviasales](https://www.aviasales.com/search/to/chile).
 
-**Traslado desde el aeropuerto:** San Pedro está a 100 km al sureste de Calama, a una hora y media por una carretera asfaltada que cruza la meseta de Atacama. La mayoría de los lodges ofrecen traslado desde el aeropuerto; también hay lanzaderas y taxis privados desde Calama. Reserva traslados privados con [Klook](https://www.klook.com/en-US/search-results/?query=Calama%20airport%20transfer) u organízalos directamente con tu lodge.
+**Traslado desde el aeropuerto:** San Pedro está a 100 km al sureste de Calama, a una hora y media por una carretera asfaltada que cruza la meseta de Atacama. La mayoría de los lodges ofrecen traslado desde el aeropuerto; también hay lanzaderas y taxis privados desde Calama. Reserva traslados privados con [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Calama) u organízalos directamente con tu lodge.
 
 ## Cómo moverse
 
-**Alquiler de coche:** San Pedro es un pueblo pequeño que se recorre a pie en 20 minutos, pero para las excursiones por el desierto conviene tener vehículo. Un 4x4 es imprescindible en el Atacama de altura (El Tatio, laguna Miscanti). Compara precios en [Klook](https://www.klook.com/en-US/search-results/?query=Calama%20car%20rental). Aun así, la mayoría de los viajeros reservan las excursiones con su lodge o con operadores locales: las visitas guiadas en 4x4 llegan a lugares y terrenos por los que un coche de alquiler muchas veces no puede circular con seguridad.
+**Alquiler de coche:** San Pedro es un pueblo pequeño que se recorre a pie en 20 minutos, pero para las excursiones por el desierto conviene tener vehículo. Un 4x4 es imprescindible en el Atacama de altura (El Tatio, laguna Miscanti). Compara precios en [Localrent](https://localrent.com/en/?location=San+Pedro+de+Atacama), [QEEQ](https://www.qeeq.com/search?q=Calama%2C+Chile) o [AutoEurope](https://www.autoeurope.eu/). Aun así, la mayoría de los viajeros reservan las excursiones con su lodge o con operadores locales: las visitas guiadas en 4x4 llegan a lugares y terrenos por los que un coche de alquiler muchas veces no puede circular con seguridad.
 
 **Excursiones:** la forma habitual de explorar la zona. Las salidas al amanecer a El Tatio, las visitas a las lagunas de flamencos, los atardeceres en el Valle de la Luna y la observación de estrellas se disfrutan mejor con guía. Los operadores locales de San Pedro tienen buena relación calidad-precio; los lodges de lujo incluyen guías privados.
 
 ## Excursiones y experiencias
 
-Reserva el amanecer en los géiseres del Tatio, excursiones al Valle de la Luna, visitas a las lagunas de flamencos y observación astronómica profesional en [Klook](https://www.klook.com/en-US/search-results/?query=Atacama+Desert+Chile). También hay sandboard, trekkings de varios días a cumbres volcánicas y visitas al observatorio ALMA (con reserva previa).
+Reserva el amanecer en los géiseres del Tatio, excursiones al Valle de la Luna, visitas a las lagunas de flamencos y observación astronómica profesional en [Klook](https://www.klook.com/en-US/search-results/?query=Atacama+Desert+Chile). También hay sandboard, trekkings de varios días a cumbres volcánicas y visitas al observatorio ALMA (con reserva previa). Reserva en [WeGoTrip](https://wegotrip.com/destinations/chile/) audioguías para recorrer por tu cuenta los lugares históricos de Atacama.
 
 ## Imprescindibles del viaje
 
-**eSIM:** en San Pedro de Atacama hay señal, pero fuera del centro del pueblo es limitada. Consigue una eSIM para Chile en [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20eSIM): Entel tiene la mejor cobertura rural. La mayoría de los lodges tienen wifi por satélite o ADSL.
+**eSIM:** en San Pedro de Atacama hay señal, pero fuera del centro del pueblo es limitada. Consigue una eSIM para Chile en [Airalo](https://www.airalo.com): Entel tiene la mejor cobertura rural. La mayoría de los lodges tienen wifi por satélite o ADSL.
 
-**Seguro de viaje:** el mal de altura (San Pedro está a 2400 m y El Tatio a 4300 m) puede requerir una evacuación. Es importante una cobertura médica que incluya las dolencias relacionadas con la altitud y la evacuación en helicóptero a Calama. Comprueba que tu póliza cubra el trekking de altura y las actividades de aventura.
+**Seguro de viaje:** el mal de altura (San Pedro está a 2400 m y El Tatio a 4300 m) puede requerir una evacuación. Es importante una cobertura médica que incluya las dolencias relacionadas con la altitud y la evacuación en helicóptero a Calama. Compara pólizas en [EKTA](https://ektatraveling.com/) y comprueba que la que elijas cubra el trekking de altura y las actividades de aventura.

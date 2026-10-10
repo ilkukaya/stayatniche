@@ -108,13 +108,13 @@ For the Fort William service: the town itself is modest, but it is the gateway t
 
 Some European sleeper itineraries still require a flight at one end — flying into a major hub and then using rail for the remainder of the journey. This is frequently the best approach: one long flight instead of two or three short ones, with rail handling the in-continent connections.
 
-Plan the transatlantic or Asia-Pacific flight segment first, then build the rail legs around it. The best rail-flight combinations:
+For the transatlantic or Asia-Pacific flight segment, search on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Europe/anytime/anytime) or [Aviasales](https://www.aviasales.com/search/to/europe). The best rail-flight combinations:
 
 - **Fly into London, rail south and east:** Take the Eurostar to Paris, then Nightjet to Vienna or Barcelona. One flight, three countries by train.
 - **Fly into Amsterdam:** Dutch rail connections to German ICE network are seamless. From Amsterdam you can board the European Sleeper to Prague without changing airports.
 - **Fly into Zurich:** Switzerland's rail hub position makes it the entry point for Italy and southern France by night train.
 
-**Airport transfers for these hub airports:** Book through [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20airport%20transfer) for private driver transfers from major European airports — particularly useful when you're arriving from a long-haul flight and connecting to an overnight train the same evening.
+**Airport transfers for these hub airports:** Book through [Welcome Pickups](https://www.welcomepickups.com/) for private driver transfers from major European airports — particularly useful when you're arriving from a long-haul flight and connecting to an overnight train the same evening.
 
 ---
 
@@ -124,7 +124,7 @@ The night train itinerary is explicitly a carless travel model in most cases —
 
 The exception: if your route includes rural destinations not on the main rail network. The Scottish Highlands, the Loire Valley, Tuscany, the Norwegian fjords — all are significantly better explored by car. In these cases, flying or training to the nearest hub city, then picking up a rental, is the practical solution.
 
-For European car rental, compare on [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20car%20rental). For EV travel — increasingly practical in Scandinavia and Germany — look for electric vehicle options when you search.
+For European car rental, compare on [AutoEurope](https://www.autoeurope.eu/), [QEEQ](https://www.qeeq.com/search?q=Europe), and [Localrent](https://localrent.com/en/) for local agency options. For EV travel — increasingly practical in Scandinavia and Germany — these platforms now include EV-specific search filters.
 
 ---
 
@@ -142,9 +142,9 @@ The night train model is transit-efficient because the transit is the night. Day
 
 European mobile roaming is governed by EU regulations for EU citizens, but travellers from outside the EU pay roaming charges across different national networks. An eSIM solves this:
 
-A Europe regional eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20eSIM) covers 30+ European countries on a single plan — typically 10GB for $20–25. It switches automatically between national networks as your sleeper train crosses borders, maintaining connectivity without any configuration. Install it before departure; activate when you land.
+[Airalo](https://www.airalo.com)'s Europe regional eSIM covers 30+ European countries on a single plan — typically 10GB for $20–25. It switches automatically between national networks as your sleeper train crosses borders, maintaining connectivity without any configuration. Install it before departure; activate when you land.
 
-For just the UK (Caledonian Sleeper): a separate UK eSIM (typically £12–15 for 10GB) is better value than the European plan for a single-country trip.
+For just the UK (Caledonian Sleeper): a separate UK eSIM from Airalo (typically £12–15 for 10GB) is better value than the European plan for a single-country trip.
 
 ---
 

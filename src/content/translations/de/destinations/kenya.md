@@ -46,24 +46,24 @@ Was Kenias bessere Safaribetriebe wirklich nachhaltig macht, ist die direkte Ver
 
 ## Anreise
 
-**Flüge:** Der Jomo Kenyatta International Airport (NBO) in Nairobi ist das wichtigste Drehkreuz Ostafrikas, mit Direktverbindungen aus London, Amsterdam, Paris, Dubai, Doha, Mumbai und großen afrikanischen Städten. Der Wilson Airport (WIL) – ein kleiner Inlandsflughafen 6 km von der Stadt – bedient Kleinflugzeuge zu den Safaricamps. Viele abgelegene Lodges (Chyulu Hills, Laikipia-Plateau) sind nur per Charterflug erreichbar. Internationale Flüge buchen Sie am besten frühzeitig.
+**Flüge:** Der Jomo Kenyatta International Airport (NBO) in Nairobi ist das wichtigste Drehkreuz Ostafrikas, mit Direktverbindungen aus London, Amsterdam, Paris, Dubai, Doha, Mumbai und großen afrikanischen Städten. Der Wilson Airport (WIL) – ein kleiner Inlandsflughafen 6 km von der Stadt – bedient Kleinflugzeuge zu den Safaricamps. Viele abgelegene Lodges (Chyulu Hills, Laikipia-Plateau) sind nur per Charterflug erreichbar. Internationale Flüge suchen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kenya/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/kenya).
 
-**Flughafentransfer:** Das internationale Terminal in Nairobi liegt bei wenig Verkehr 20 Minuten von der Stadt entfernt. Private Flughafentransfers buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) – meiden Sie Taxi-Schlepper in der Ankunftshalle.
+**Flughafentransfer:** Das internationale Terminal in Nairobi liegt bei wenig Verkehr 20 Minuten von der Stadt entfernt. Private Flughafentransfers buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) – meiden Sie Taxi-Schlepper in der Ankunftshalle.
 
 ## Unterwegs vor Ort
 
 **Kleinflugzeug:** Der übliche Weg zu abgelegenen Safaricamps. Safarilink, Air Kenya und Fly540 verbinden den Wilson Airport mit der Maasai Mara, Amboseli, Samburu und Laikipia. Buschpisten direkt bei den Lodges sorgen für Effizienz von Tür zu Tür. Die meisten Lodges organisieren die Charterverbindungen selbst.
 
-**Selbstfahrer:** In Nairobi und auf den Hauptstraßen möglich, in Safarigebieten ohne Ortskenntnis aber nicht zu empfehlen. Die meisten Besucher nutzen die von der Lodge organisierten Pirschfahrten und Transfers. Für Erkundungen in der Stadt vergleichen Sie Preise bei [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20car%20rental).
+**Selbstfahrer:** In Nairobi und auf den Hauptstraßen möglich, in Safarigebieten ohne Ortskenntnis aber nicht zu empfehlen. Die meisten Besucher nutzen die von der Lodge organisierten Pirschfahrten und Transfers. Für Erkundungen in der Stadt vergleichen Sie Preise bei [QEEQ](https://www.qeeq.com/search?q=Nairobi%2C+Kenya) oder [Localrent](https://localrent.com/en/?location=Nairobi).
 
 ## Touren und Erlebnisse
 
-Pirschfahrten in der Maasai Mara, Halbtagestouren im Nairobi-Nationalpark, Besuche im Giraffe Centre und Touren auf den Spuren der Großen Tierwanderung buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). Ballonsafaris über der Mara – eines der schönsten Erlebnisse Afrikas – buchen Sie direkt bei den Anbietern. Kulturelle Begegnungen mit den Maasai und Besuche in Gemeinden gibt es über [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20Maasai%20cultural%20experience).
+Pirschfahrten in der Maasai Mara, Halbtagestouren im Nairobi-Nationalpark, Besuche im Giraffe Centre und Touren auf den Spuren der Großen Tierwanderung buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). Ballonsafaris über der Mara – eines der schönsten Erlebnisse Afrikas – buchen Sie direkt bei den Anbietern. Kulturelle Begegnungen mit den Maasai und Besuche in Gemeinden gibt es über [WeGoTrip](https://wegotrip.com/destinations/kenya/).
 
 ## Reise-Essentials
 
-**eSIM:** Besorgen Sie sich eine Kenia-eSIM bei [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM). Safaricom hat die beste Abdeckung auf dem Land, auch in den meisten Nationalparks; in abgelegenen Lodges (die Satellit oder Funk nutzen) gibt es keinen Empfang.
+**eSIM:** Besorgen Sie sich eine Kenia-eSIM bei [Airalo](https://www.airalo.com). Safaricom hat die beste Abdeckung auf dem Land, auch in den meisten Nationalparks; in abgelegenen Lodges (die Satellit oder Funk nutzen) gibt es keinen Empfang.
 
-**Reiseversicherung:** Eine Versicherung für medizinische Evakuierung ist bei Aufenthalten in abgelegenen Camps unverzichtbar – ein Rettungsflug von Laikipia oder den Chyulu Hills nach Nairobi kostet 3.000–6.000 US-Dollar.
+**Reiseversicherung:** Eine Versicherung für medizinische Evakuierung ist bei Aufenthalten in abgelegenen Camps unverzichtbar – ein Rettungsflug von Laikipia oder den Chyulu Hills nach Nairobi kostet 3.000–6.000 US-Dollar. Prüfen Sie, ob die Police medizinische Evakuierung abdeckt; [EKTA](https://ektatraveling.com/) ist eine Option zum Vergleichen.
 
-**VPN:** Manche Satellitenverbindungen sind eingeschränkt; ein VPN stellt den vollen Internetzugang wieder her.
+**VPN:** Ein VPN hilft in ruhigen Stunden in der Lodge. Manche Satellitenverbindungen sind eingeschränkt; ein VPN stellt den vollen Internetzugang wieder her.

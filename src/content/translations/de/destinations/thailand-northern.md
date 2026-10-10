@@ -50,22 +50,22 @@ Chiang Mai liegt eine Stunde mit einer Billigairline von Bangkok entfernt oder 1
 
 ## Anreise
 
-**Flüge:** Der Chiang Mai International Airport (CNX) wird direkt aus Bangkok (Don Mueang und Suvarnabhumi), Singapur, Kuala Lumpur, Taipeh, Hongkong und mehreren chinesischen Städten angeflogen.
+**Flüge:** Der Chiang Mai International Airport (CNX) wird direkt aus Bangkok (Don Mueang und Suvarnabhumi), Singapur, Kuala Lumpur, Taipeh, Hongkong und mehreren chinesischen Städten angeflogen. Billigflieger – AirAsia, Thai Lion Air, Bangkok Airways – machen die Verbindung Bangkok–Chiang Mai äußerst günstig. Flüge suchen und vergleichen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chiang+Mai/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/chiang-mai).
 
-**Flughafentransfer:** Der Flughafen Chiang Mai liegt 5 km von der Altstadt entfernt – zehn Minuten mit Taxi oder Songthaew. Private Transfers buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Chiang%20Mai%20airport%20transfer). Die App Grab funktioniert in Chiang Mai zuverlässig für Fahrten zum festen Preis.
+**Flughafentransfer:** Der Flughafen Chiang Mai liegt 5 km von der Altstadt entfernt – zehn Minuten mit Taxi oder Songthaew. Private Transfers buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Chiang+Mai) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Chiang+Mai). Die App Grab funktioniert in Chiang Mai zuverlässig für Fahrten zum festen Preis.
 
 ## Unterwegs vor Ort
 
-**Roller:** Der effizienteste Weg, die Region Chiang Mai auf eigene Faust zu erkunden. Mietpreise ab 7 $ pro Tag; ein internationaler Führerschein wird bevorzugt. Für das Bergland und das Goldene Dreieck mieten Sie besser ein Auto oder einen Fahrer. Mietwagenpreise vergleichen Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Chiang%20Mai%20car%20rental).
+**Roller:** Der effizienteste Weg, die Region Chiang Mai auf eigene Faust zu erkunden. Mietpreise ab 7 $ pro Tag; ein internationaler Führerschein wird bevorzugt. Für das Bergland und das Goldene Dreieck mieten Sie besser ein Auto oder einen Fahrer. Mietwagenpreise vergleichen Sie bei [Localrent](https://localrent.com/en/?location=Thailand), [QEEQ](https://www.qeeq.com/search?q=Chiang+Mai%2C+Thailand) oder [EconomyBookings](https://www.economybookings.com/?location=Chiang+Mai). Motorräder mieten Sie über [BikeBooking](https://www.bikesbooking.com/en/search?location=Chiang+Mai%2C+Thailand).
 
 **Nachtzug:** Der Nachtzug mit Schlafwagen von Bangkok nach Chiang Mai (Zug 9/10) ist eine klassische Reise. Buchen Sie über die Website der State Railway of Thailand; die Schlafplätze sind schnell ausverkauft. Die 13-stündige Fahrt durch die Ebenen Zentralthailands hinauf in die Berge des Nordens lohnt sich zumindest in einer Richtung als Erlebnis.
 
 ## Touren und Erlebnisse
 
-Wanderungen im Doi-Inthanon-Nationalpark, Trekkingtouren zu den Dörfern der Bergvölker, Besuche in Elefantenschutzgebieten und Kochkurse in Chiang Mai buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand). Das Laternenfest Yi Peng (November) und das Wasserfest Songkran (April) sind prägende kulturelle Ereignisse, nach denen sich die Reiseplanung richten lohnt. Touren ins Goldene Dreieck und Bootsfahrten auf dem Mekong buchen Sie auf dieselbe Weise.
+Wanderungen im Doi-Inthanon-Nationalpark, Trekkingtouren zu den Dörfern der Bergvölker, Besuche in Elefantenschutzgebieten und Kochkurse in Chiang Mai buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand). Das Laternenfest Yi Peng (November) und das Wasserfest Songkran (April) sind prägende kulturelle Ereignisse, nach denen sich die Reiseplanung richten lohnt. Touren ins Goldene Dreieck und Bootsfahrten auf dem Mekong buchen Sie über [WeGoTrip](https://wegotrip.com/destinations/thailand/).
 
 ## Reise-Essentials
 
-**eSIM:** Besorgen Sie sich vor der Abreise eine Thailand-eSIM bei [Klook](https://www.klook.com/en-US/search-results/?query=Thailand%20eSIM). DTAC und AIS haben die beste Abdeckung im nördlichen Hochland und in den Regionen der Bergvölker. Es gibt sehr günstige 15-Tage-Datenpakete.
+**eSIM:** Besorgen Sie sich vor der Abreise eine Thailand-eSIM bei [Airalo](https://www.airalo.com). DTAC und AIS haben die beste Abdeckung im nördlichen Hochland und in den Regionen der Bergvölker. Es gibt sehr günstige 15-Tage-Datenpakete.
 
-**Reiseversicherung:** Achten Sie darauf, dass Elefantenbegegnungen und Abenteuer-Trekking abgedeckt sind. In ländlichen Gebieten besteht ein Dengue-Risiko; prüfen Sie, ob Ihre Police durch Insekten übertragene Krankheiten einschließt.
+**Reiseversicherung:** Achten Sie darauf, dass Elefantenbegegnungen und Abenteuer-Trekking abgedeckt sind. In ländlichen Gebieten besteht ein Dengue-Risiko; prüfen Sie, ob Ihre Police durch Insekten übertragene Krankheiten einschließt. Prüfen Sie außerdem, ob Abenteueraktivitäten in Thailand abgedeckt sind; [EKTA](https://ektatraveling.com/) ist eine Option zum Vergleichen.

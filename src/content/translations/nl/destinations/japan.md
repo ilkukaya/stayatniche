@@ -38,20 +38,20 @@ Die mobiliteit verandert wat er mogelijk is. Kyoto, Nara, Osaka, Kobe en Hiroshi
 
 ## Zo kom je er
 
-**Vluchten:** De luchthavens Narita (NRT) en Haneda (HND) in Tokio zijn de belangrijkste internationale toegangspoorten; Haneda verwerkt inmiddels meer internationale routes en ligt dichter bij het centrum van Tokio. Kansai International (KIX) bij Osaka is de betere aankomstplek voor Kyoto, Hiroshima en West-Japan. Fukuoka (FUK) en Sapporo (CTS) bedienen die regionale knooppunten.
+**Vluchten:** De luchthavens Narita (NRT) en Haneda (HND) in Tokio zijn de belangrijkste internationale toegangspoorten; Haneda verwerkt inmiddels meer internationale routes en ligt dichter bij het centrum van Tokio. Kansai International (KIX) bij Osaka is de betere aankomstplek voor Kyoto, Hiroshima en West-Japan. Fukuoka (FUK) en Sapporo (CTS) bedienen die regionale knooppunten. Zoek en vergelijk vluchten naar Japan op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) of [Aviasales](https://www.aviasales.com/search/to/japan).
 
-**Luchthaventransfer:** De Narita Express (N'EX) in Tokio rijdt rechtstreeks naar Shinjuku, Shibuya en Yokohama in ongeveer 60–90 minuten. De monorail van Haneda is in 14 minuten in Hamamatsuchō. Voor een privétransfer – handig bij een late aankomst of veel bagage – boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer).
+**Luchthaventransfer:** De Narita Express (N'EX) in Tokio rijdt rechtstreeks naar Shinjuku, Shibuya en Yokohama in ongeveer 60–90 minuten. De monorail van Haneda is in 14 minuten in Hamamatsuchō. Voor een privétransfer – handig bij een late aankomst of veel bagage – boek je via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo).
 
 ## Onderweg
 
-**Trein:** De Japan Rail Pass is de gebruikelijke keuze als je meerdere steden bezoekt: hij dekt de shinkansen en de meeste JR-verbindingen. Koop hem vóór aankomst via een reisbureau of online. In de steden zijn de metronetten uitgebreid; IC-kaarten (Suica of Pasmo) werken in al het openbaar vervoer. Een huurauto is vooral zinvol op Hokkaido en op het platteland waar geen trein komt; vergelijk prijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20car%20rental).
+**Trein:** De Japan Rail Pass is de gebruikelijke keuze als je meerdere steden bezoekt: hij dekt de shinkansen en de meeste JR-verbindingen. Koop hem vóór aankomst via een reisbureau of online. In de steden zijn de metronetten uitgebreid; IC-kaarten (Suica of Pasmo) werken in al het openbaar vervoer. Een huurauto is vooral zinvol op Hokkaido en op het platteland waar geen trein komt; vergelijk prijzen op [QEEQ](https://www.qeeq.com/search?q=Japan) of [EconomyBookings](https://www.economybookings.com/?location=Japan).
 
 ## Tours en belevenissen
 
-Boek dagtochten met gids, culturele ervaringen en uitstapjes naar de Fuji via [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Theeceremonies in ryokans en rondleidingen bij sakebrouwerijen zijn er volop. Traditionele kookworkshops, ochtendtrainingen van sumoworstelaars en kaartjes voor no-theater vind je ook.
+Boek dagtochten met gids, culturele ervaringen en uitstapjes naar de Fuji via [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Theeceremonies in ryokans en rondleidingen bij sakebrouwerijen zijn er volop. Traditionele kookworkshops, ochtendtrainingen van sumoworstelaars en kaartjes voor no-theater vind je via [WeGoTrip](https://wegotrip.com/destinations/japan/).
 
 ## Handig voor onderweg
 
-**eSIM:** De mobiele dekking in Japan is uitstekend. Koop voor vertrek een eSIM voor Japan via [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM) (betaalbare databundels). Op luchthavens kun je ook een pocket-wifi huren, maar een eSIM is eenvoudiger.
+**eSIM:** De mobiele dekking in Japan is uitstekend. Koop voor vertrek een eSIM voor Japan via [Airalo](https://www.airalo.com) (betaalbare databundels vanaf ¥ 1.500). Op luchthavens kun je ook een pocket-wifi huren, maar een eSIM is eenvoudiger.
 
-**Reisverzekering:** Onmisbaar in Japan, gezien de hoge kosten van medische zorg. Sluit een kortlopende verzekering af die medische kosten en annulering dekt; vergelijk gespecialiseerde reisverzekeringen op de gebruikelijke vergelijkingssites.
+**Reisverzekering:** Onmisbaar in Japan, gezien de hoge kosten van medische zorg. Check of de polis medische zorg en je geplande activiteiten dekt; [EKTA](https://ektatraveling.com/) is een optie, en je kunt gespecialiseerde reisverzekeringen vergelijken op de gebruikelijke vergelijkingssites.

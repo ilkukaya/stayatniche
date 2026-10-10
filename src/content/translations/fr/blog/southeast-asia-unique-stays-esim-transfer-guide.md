@@ -27,7 +27,7 @@ Les grands aéroports-hubs d'Asie du Sud-Est relient la région au reste du mond
 
 **Sorong (SOQ)/Manokwari (MKW) :** les portes d'entrée de Raja Ampat. La plupart des vols passent par Makassar (UPG) ou Manado (MDC) depuis Jakarta (CGK) ou Bali (DPS).
 
-Comparez toutes ces routes avant de réserver : la recherche multi-destinations est particulièrement utile pour composer un itinéraire Thaïlande-Cambodge-Indonésie avec des points d'entrée et de sortie différents.
+Recherchez et comparez toutes ces routes sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Southeast+Asia/anytime/anytime) : la recherche multi-destinations est particulièrement utile pour composer un itinéraire Thaïlande-Cambodge-Indonésie avec des points d'entrée et de sortie différents. [Aviasales](https://www.aviasales.com) fait souvent remonter les options à bas prix que les autres comparateurs ignorent.
 
 ---
 
@@ -41,13 +41,13 @@ Soneva Kiri exploite son propre service de transfert en hydravion depuis Bangkok
 
 L'option économique : vol de Don Mueang à l'aéroport de Trat (TDX) avec AirAsia ou Bangkok Airways (45 minutes), taxi ou songthaew jusqu'à la jetée de Ban Hua Hin, puis vedette du resort jusqu'à l'île. Durée totale du trajet depuis Bangkok : environ 4 heures.
 
-**Transfert vers Don Mueang à Bangkok :** réservez via [Klook](https://www.klook.com/en-US/search-results/?query=Bangkok%20Don%20Mueang%20airport%20transfer) : prix fixe, chauffeur professionnel, accueil dans le hall des arrivées. Bien préférable à la file d'attente des taxis.
+**Transfert vers Don Mueang à Bangkok :** réservez via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Bangkok) : prix fixe, chauffeur professionnel, accueil dans le hall des arrivées. Bien préférable à la file d'attente des taxis.
 
 ### Keemala, Phuket
 
 L'aéroport international de Phuket (HKT) reçoit des vols internationaux directs depuis la plupart des hubs asiatiques et un nombre croissant de vols charters européens. Keemala est niché dans les collines de Kamala, au-dessus de la côte ouest de Phuket, à 30 minutes de l'aéroport en transfert privé.
 
-[Klook](https://www.klook.com/en-US/search-results/?query=Phuket%20airport%20transfer) propose des transferts à prix fixe depuis l'aéroport de Phuket vers toutes les zones balnéaires de l'île, avec prise en charge professionnelle, ce qui vaut nettement mieux que de marchander avec les rabatteurs de taxis dans le hall des arrivées.
+[KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phuket) propose des transferts à prix fixe depuis l'aéroport de Phuket vers toutes les zones balnéaires de l'île, avec prise en charge professionnelle, ce qui vaut nettement mieux que de marchander avec les rabatteurs de taxis dans le hall des arrivées.
 
 ---
 
@@ -67,7 +67,7 @@ Le resort gère toute la logistique depuis Phnom Penh ; la plupart des hôtes 
 
 **Voiture privée depuis Phnom Penh :** l'option la plus confortable. Le resort peut vous trouver un chauffeur fiable, ou vous pouvez réserver vous-même auprès d'agences locales.
 
-**Transfert aéroport à Phnom Penh :** réservez via [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20airport%20transfer). L'aéroport se trouve à 10 km du quartier de Riverside ; le tuk-tuk convient aux petits budgets, mais un transfert privé est préférable si vous avez des bagages et un long trajet à enchaîner.
+**Transfert aéroport à Phnom Penh :** réservez via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Phnom+Penh) ou [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). L'aéroport se trouve à 10 km du quartier de Riverside ; le tuk-tuk convient aux petits budgets, mais un transfert privé est préférable si vous avez des bagages et un long trajet à enchaîner.
 
 ### Song Saa Private Island, Koh Rong
 
@@ -82,17 +82,17 @@ Song Saa est le lodge insulaire raffiné de l'archipel cambodgien de Koh Rong, �
 Raja Ampat est isolé par nature comme par géographie. La Papouasie occidentale est la province la plus orientale d'Indonésie ; pour l'atteindre, il faut enchaîner des vols que la plupart des voyageurs venus d'Europe ou d'Amérique du Nord n'ont jamais pratiqués.
 
 **L'enchaînement de vols classique :**
-1. Arrivée internationale à Jakarta (CGK) ou Bali (DPS) : comparez les vols depuis votre ville de départ
+1. Arrivée internationale à Jakarta (CGK) ou Bali (DPS) : comparez les vols depuis votre ville de départ sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Indonesia/anytime/anytime)
 2. Correspondance vers Sorong (SOQ) : vols directs depuis Makassar, Manado ou Jakarta ; prévoyez 3 à 4 heures de correspondance à Jakarta ou Bali
 3. Depuis Sorong : Misool assure un transfert de 4 heures en bateau de croisière jusqu'au resort
 
 Le tronçon vers Sorong est celui qu'il ne faut pas rater. Lion Air, Garuda Indonesia et Sriwijaya Air desservent tous Sorong ; vérifiez attentivement les franchises bagages, car les compagnies intérieures indonésiennes appliquent des suppléments d'excédent stricts, parfois punitifs.
 
-**eSIM pour l'Indonésie :** procurez-vous avant le départ une eSIM Indonésie sur [Klook](https://www.klook.com/en-US/search-results/?query=Indonesia%20eSIM), de préférence avec le réseau Telkomsel, l'opérateur qui couvre le mieux la Papouasie. Le réseau est bon dans la ville de Sorong ; à Raja Ampat, il faiblit nettement hors des villages. Le resort utilise une connexion Internet par satellite.
+**eSIM pour l'Indonésie :** procurez-vous avant le départ une eSIM Indonésie d'[Airalo](https://www.airalo.com) avec un forfait Telkomsel, l'opérateur qui couvre le mieux la Papouasie. Le réseau est bon dans la ville de Sorong ; à Raja Ampat, il faiblit nettement hors des villages. Le resort utilise une connexion Internet par satellite.
 
 ### Remarque générale sur les voyages en Indonésie
 
-L'Indonésie est un pays immense de plus de 17 000 îles. Le réseau aérien intérieur est étendu, mais de qualité inégale. Lion Air et AirAsia sont les options à bas prix ; Garuda Indonesia et Citilink offrent une meilleure qualité, qui vaut bien le léger supplément sur les longs trajets intérieurs. Réservez vos vols intérieurs indonésiens en direct auprès de la compagnie : disponibilités et conditions d'annulation varient fortement d'une compagnie à l'autre.
+L'Indonésie est un pays immense de plus de 17 000 îles. Le réseau aérien intérieur est étendu, mais de qualité inégale. Lion Air et AirAsia sont les options à bas prix ; Garuda Indonesia et Citilink offrent une meilleure qualité, qui vaut bien le léger supplément sur les longs trajets intérieurs. Réservez vos vols intérieurs indonésiens en direct ou via [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Indonesia/anytime/anytime) : disponibilités et conditions d'annulation varient fortement d'une compagnie à l'autre.
 
 ---
 
@@ -100,7 +100,7 @@ L'Indonésie est un pays immense de plus de 17 000 îles. Le réseau aérien i
 
 L'Asie du Sud-Est compte six marchés de téléphonie mobile distincts. Une carte SIM européenne ou américaine en itinérance dans chacun d'eux accumule des frais extraordinaires. La solution, c'est l'eSIM, et pour un voyage dans plusieurs pays, deux approches sont possibles :
 
-1. **Une eSIM régionale Asie du Sud-Est** sur [Klook](https://www.klook.com/en-US/search-results/?query=Southeast%20Asia%20eSIM) : les forfaits régionaux ASEAN couvrent la Thaïlande, le Cambodge, l'Indonésie, la Malaisie, le Vietnam et les Philippines sur une seule eSIM. La qualité de couverture varie selon les pays, mais reste fonctionnelle dans les zones touristiques.
+1. **Une eSIM régionale Asie du Sud-Est** d'[Airalo](https://www.airalo.com) : ses forfaits régionaux ASEAN couvrent la Thaïlande, le Cambodge, l'Indonésie, la Malaisie, le Vietnam et les Philippines sur une seule eSIM. La qualité de couverture varie selon les pays, mais reste fonctionnelle dans les zones touristiques.
 
 2. **Des eSIM propres à chaque pays** : plus chères une à une, mais avec une meilleure couverture, notamment dans les zones isolées (monts des Cardamomes, Raja Ampat) où l'opérateur local compte davantage que la commodité régionale.
 
@@ -109,7 +109,7 @@ L'Asie du Sud-Est compte six marchés de téléphonie mobile distincts. Une cart
 - **Cambodge :** Smart et Cellcard couvrent bien Phnom Penh et Siem Reap ; dans le Cambodge rural et les monts des Cardamomes, le signal est variable.
 - **Indonésie :** Telkomsel est le seul opérateur dont la couverture en Papouasie (Raja Ampat) soit digne de ce nom. XL et Tri conviennent pour Java et Bali.
 
-Toutes les eSIM de [Klook](https://www.klook.com/en-US/search-results/?query=Southeast%20Asia%20eSIM) s'installent avant le départ et s'activent à l'arrivée : inutile de chercher un vendeur de cartes SIM en vous débattant avec la barrière de la langue.
+Toutes les eSIM d'[Airalo](https://www.airalo.com) s'installent avant le départ et s'activent à l'arrivée : inutile de chercher un vendeur de cartes SIM en vous débattant avec la barrière de la langue.
 
 ---
 
@@ -118,8 +118,8 @@ Toutes les eSIM de [Klook](https://www.klook.com/en-US/search-results/?query=Sou
 La location de voiture a moins d'intérêt pour un circuit d'hôtels insolites en Asie du Sud-Est qu'en Europe ou dans les Amériques. La plupart des adresses isolées exigent des transferts en bateau ou en véhicule spécialisé organisés par le resort ; en ville, Grab (l'équivalent régional d'Uber) est pratique et bon marché.
 
 Là où conduire soi-même a du sens :
-- **Thaïlande :** pour Chiang Mai et le nord du pays, la location est pertinente. Comparez via [Klook](https://www.klook.com/en-US/search-results/?query=Thailand%20car%20rental).
-- **Bali, Indonésie :** le scooter est la norme locale ; location à partir de 7 $/jour. Pour explorer l'île plus largement, une voiture avec chauffeur est plus sûre et à peine plus chère. [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20car%20rental) pour la location de voiture.
+- **Thaïlande :** pour Chiang Mai et le nord du pays, la location est pertinente. Comparez via [QEEQ](https://www.qeeq.com/search?q=Thailand) ou [Localrent](https://localrent.com/en/?location=Thailand).
+- **Bali, Indonésie :** le scooter est la norme locale ; location à partir de 7 $/jour. Pour explorer l'île plus largement, une voiture avec chauffeur est plus sûre et à peine plus chère. [BikeBooking](https://www.bikesbooking.com/en/search?location=Bali%2C+Indonesia) pour les deux-roues ; [EconomyBookings](https://www.economybookings.com/?location=Bali) pour les voitures.
 - **Cambodge :** en dehors de Phnom Penh et Siem Reap, prenez un chauffeur plutôt que de conduire vous-même.
 
 ---
@@ -128,7 +128,7 @@ Là où conduire soi-même a du sens :
 
 Chaque hôtel extraordinaire de cette liste se trouve dans un lieu où une évacuation médicale, si elle s'avère nécessaire, est coûteuse et compliquée. Depuis les monts des Cardamomes, Raja Ampat ou Koh Kood, rejoindre un véritable hôpital exige une logistique considérable.
 
-**Le minimum indispensable :** une assurance voyage qui inclut explicitement l'évacuation médicale d'urgence, avec une couverture d'au moins 100 000 $. Vérifiez qu'elle couvre aussi les activités d'aventure (trek dans la jungle, plongée, tyroliennes) ; un contrat coûte une fraction du prix d'un seul vol d'évacuation sanitaire.
+**Le minimum indispensable :** une assurance voyage qui inclut explicitement l'évacuation médicale d'urgence, avec une couverture d'au moins 100 000 $. Vérifiez aussi que le contrat couvre les activités d'aventure (trek dans la jungle, plongée, tyroliennes) ; [EKTA](https://ektatraveling.com/) est une option à comparer, et un tel contrat coûte une fraction du prix d'un seul vol d'évacuation sanitaire.
 
 Vérifiez que votre contrat couvre :
 - La plongée et les sports nautiques (pour Misool, Song Saa et toutes les adresses côtières)
@@ -145,4 +145,4 @@ Pour un voyage de 2 à 3 semaines en Asie du Sud-Est, d'hôtel insolite en hôte
 **Semaine 2 :** Cambodge : Phnom Penh pour 2 nuits, Shinta Mani Wild (monts des Cardamomes) pour 3 nuits, Siem Reap et Angkor pour 2 à 3 nuits
 **Semaine 3 (facultative) :** extension en Indonésie : transit par Bali, correspondance à Sorong, Raja Ampat (Misool) pour 5 à 7 nuits au minimum (le voyage mérite un séjour plus long)
 
-Recherchez l'itinéraire aérien complet grâce à la recherche multi-destinations. Réservez vos lodges isolés 3 à 6 mois à l'avance ; Misool, en particulier, remplit tôt sa capacité limitée.
+Recherchez l'itinéraire aérien complet sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Southeast+Asia/anytime/anytime) grâce à la recherche multi-destinations. Réservez vos lodges isolés 3 à 6 mois à l'avance ; Misool, en particulier, remplit tôt sa capacité limitée.

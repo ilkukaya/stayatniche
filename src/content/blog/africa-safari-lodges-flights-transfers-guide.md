@@ -47,7 +47,7 @@ Nairobi's Jomo Kenyatta International Airport is the most connected East African
 - **From Dubai/Doha:** Emirates and Qatar Airways daily
 - **From regional Africa:** Ethiopian Airlines via Addis Ababa (the largest intra-Africa hub); RwandAir via Kigali; South African Airways via Johannesburg
 
-Ethiopian Airlines consistently delivers the best pricing for Africa-first bookings from Asia and the Americas; Kenya Airways is the preferred option for quality from Europe.
+Search and compare all Nairobi routes on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/nairobi). Ethiopian Airlines consistently delivers the best pricing for Africa-first bookings from Asia and the Americas; Kenya Airways is the preferred option for quality from Europe.
 
 ### Kigali (KGL) — Rwanda and Central Africa
 
@@ -94,7 +94,7 @@ Most international Safari itineraries overnight in Nairobi before the bush fligh
 - **Giraffe Centre area (Langata):** Karen and Langata suburbs are near the Giraffe Centre, David Sheldrick Wildlife Trust (elephant orphanage — reserve your morning spot online before arrival), and Karen Blixen Museum. Boutique guesthouses and garden lodges in these suburbs are quieter and more atmospheric than the central city.
 - **Nairobi National Park adjacent:** The park's boundary runs along the southern edge of the city; some lodge accommodation within the park itself offers the surreal experience of watching lion kills with the Nairobi skyline on the horizon.
 
-**Nairobi airport transfer:** The airport sits 20km from the city — 30 minutes in off-peak, over an hour in Nairobi traffic at 5pm. Book a private transfer on [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) — the fixed price and professional meet-and-greet is worth significantly more than the airport taxi rank experience.
+**Nairobi airport transfer:** The airport sits 20km from the city — 30 minutes in off-peak, over an hour in Nairobi traffic at 5pm. Book a private transfer through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) — the fixed price and professional meet-and-greet is worth significantly more than the airport taxi rank experience.
 
 ---
 
@@ -110,7 +110,7 @@ Rwanda's gorilla trekking circuit is operationally straightforward compared to t
 
 Most lodges at Volcanoes manage the entire sequence including Kigali airport pickup and permit logistics. [Bisate Lodge](/hotels/bisate-lodge-rwanda) is the most design-forward option; all properties in this category are all-inclusive and manage gorilla trekking logistics completely.
 
-**Rwanda eSIM:** [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM) Rwanda eSIM — MTN Rwanda has coverage in Kigali and along the main road to the park. The park interior and most lodges use lodge-provided satellite WiFi.
+**Rwanda eSIM:** [Airalo](https://www.airalo.com) Rwanda eSIM — MTN Rwanda has coverage in Kigali and along the main road to the park. The park interior and most lodges use lodge-provided satellite WiFi.
 
 ---
 
@@ -126,7 +126,7 @@ The Maasai Mara ecosystem — encompassing the national reserve and the private 
 
 [Rekero Camp](/hotels/rekero-camp-masai-mara) and [Campi ya Kanzi](/hotels/campi-ya-kanzi-kenya) are two distinctly different Mara/Amboseli ecosystem experiences — Rekero is on the Mara River directly at the great migration crossing points; Campi ya Kanzi is in the Chyulu Hills Maasai Conservancy with Kilimanjaro views and more walking safari access.
 
-**Nairobi to Wilson Airport transfer:** 15–30 minutes depending on traffic. [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) offers fixed-price Nairobi city transfers including Wilson Airport.
+**Nairobi to Wilson Airport transfer:** 15–30 minutes depending on traffic. [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) offers fixed-price Nairobi city transfers including Wilson Airport.
 
 ---
 
@@ -166,11 +166,11 @@ Bush flight luggage restrictions (15kg soft bag, no hard-sided cases) define the
 
 East African mobile coverage varies significantly:
 
-- **Kenya:** Safaricom has the best coverage including most national park boundaries and main highways. A [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM) Kenya eSIM with Safaricom is the right choice. Lodges in very remote areas (Chyulu Hills, Lake Turkana) use satellite.
+- **Kenya:** Safaricom has the best coverage including most national park boundaries and main highways. An [Airalo](https://www.airalo.com) Kenya eSIM with Safaricom is the right choice. Lodges in very remote areas (Chyulu Hills, Lake Turkana) use satellite.
 - **Tanzania:** Vodacom Tanzania and Airtel Tanzania cover main roads and Arusha. Serengeti interior: lodge satellite internet only.
 - **Rwanda:** MTN Rwanda covers Kigali and the main road to Volcanoes National Park excellently. The park interior: lodge WiFi.
 
-A regional East Africa eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM) covers Kenya, Tanzania, and Rwanda on one plan — practical for multi-country circuits.
+A regional East Africa eSIM from [Airalo](https://www.airalo.com) covers Kenya, Tanzania, and Rwanda on one plan — practical for multi-country circuits.
 
 ---
 
@@ -185,7 +185,7 @@ The closest advanced medical facility to most Kenyan safari camps is Nairobi. A 
 - Medical expense: minimum $50,000 for Tanzania/Kenya
 - Trip cancellation: relevant if you've booked non-refundable high-season lodge nights
 
-Choose a policy that covers all of the above, includes adventure activities (game drives in open vehicles, gorilla trekking) at no extra premium, and costs a fraction of what a single Medivac would. The AMREF Flying Doctors annual membership (Kenya/Tanzania-based) is a useful additional layer for extended East Africa travel.
+A policy from [EKTA](https://ektatraveling.com/) is one option; check that the policy covers medical evacuation and adventure activities (game drives in open vehicles, gorilla trekking), since a single Medivac costs far more than the cover itself. The AMREF Flying Doctors annual membership (Kenya/Tanzania-based) is a useful additional layer for extended East Africa travel.
 
 ---
 
@@ -194,10 +194,10 @@ Choose a policy that covers all of the above, includes adventure activities (gam
 For an East Africa safari trip with lodge accommodation at the level described in this guide, the booking sequence matters:
 
 1. **Lodge accommodation first:** The best camps at Bisate, Rekero, Campi ya Kanzi fill 6–9 months ahead for peak migration season (July–October). Book as soon as your dates are confirmed.
-2. **International flights:** Search flights 3–4 months ahead; fares are relatively stable compared to European routes.
+2. **International flights:** Search [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime) 3–4 months ahead; fares are relatively stable compared to European routes.
 3. **Bush flights:** Once lodge dates are confirmed, the lodge will advise the optimal airstrip and operator. Book directly with Safarilink or Coastal Aviation.
 4. **Nairobi hotel:** 1–2 nights pre-safari. Karen and Langata are better than airport hotel districts.
-5. **eSIM:** [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM) East Africa regional plan before departure.
-6. **Travel insurance:** comprehensive cover as baseline; verify evacuation limits.
+5. **eSIM:** [Airalo](https://www.airalo.com) East Africa regional plan before departure.
+6. **Travel insurance:** [EKTA](https://ektatraveling.com/) as baseline; verify evacuation limits.
 
 The logistics look complex written out; experienced by good operators, they become the journey itself — part of the deepening of perspective that is what East Africa ultimately delivers.

@@ -43,22 +43,22 @@ De zuidkust, lang genegeerd door reizigers die alleen oog hadden voor de tempels
 
 ## Hoe kom je er
 
-**Vluchten:** Phnom Penh (PNH) en Siem Reap (REP) zijn de twee belangrijkste internationale vliegvelden van Cambodja. Vanuit Bangkok (BKK), Kuala Lumpur (KUL), Singapore (SIN) en Ho Chi Minhstad (SGN) zijn er dagelijks meerdere verbindingen. Rechtstreekse vluchten uit Incheon, Guangzhou en Taipei zijn gangbaar.
+**Vluchten:** Phnom Penh (PNH) en Siem Reap (REP) zijn de twee belangrijkste internationale vliegvelden van Cambodja. Vanuit Bangkok (BKK), Kuala Lumpur (KUL), Singapore (SIN) en Ho Chi Minhstad (SGN) zijn er dagelijks meerdere verbindingen. Rechtstreekse vluchten uit Incheon, Guangzhou en Taipei zijn gangbaar. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Cambodia/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/cambodia).
 
-**Luchthaventransfer:** het vliegveld van Siem Reap ligt 3 km van de stad, een rit van 10 minuten. Het vliegveld van Phnom Penh ligt 10 km van de Riverside. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20airport%20transfer). Tuktuks zijn overal te vinden en een sfeervol alternatief voor korte afstanden in de stad.
+**Luchthaventransfer:** het vliegveld van Siem Reap ligt 3 km van de stad, een rit van 10 minuten. Het vliegveld van Phnom Penh ligt 10 km van de Riverside. Boek een privétransfer via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Siem+Reap) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). Tuktuks zijn overal te vinden en een sfeervol alternatief voor korte afstanden in de stad.
 
 ## Vervoer ter plaatse
 
 **Tuktuk en chauffeur:** de standaardmanier om Angkor Wat te bezoeken en je in Siem Reap te verplaatsen. De meeste hotels regelen betrouwbare Engelssprekende tuktukchauffeurs tegen een dagtarief. Een huurauto met chauffeur is er voor de rit over land van Phnom Penh naar Siem Reap (6 uur) en is een stuk comfortabeler dan de bus.
 
-**Speedboten:** varen van Phnom Penh naar Siem Reap over het Tonle Sapmeer (sneldienst, 5–6 uur, mooi maar hobbelig) en vanuit Sihanoukville naar de eilanden voor de zuidkust. Voor autohuur in de steden vergelijk je op [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20car%20rental).
+**Speedboten:** varen van Phnom Penh naar Siem Reap over het Tonle Sapmeer (sneldienst, 5–6 uur, mooi maar hobbelig) en vanuit Sihanoukville naar de eilanden voor de zuidkust. Voor autohuur in de steden vergelijk je op [QEEQ](https://www.qeeq.com/search?q=Phnom+Penh%2C+Cambodia) of [Localrent](https://localrent.com/en/?location=Phnom+Penh).
 
 ## Tours en belevenissen
 
-Boek zonsopgangtours in Angkor Wat, uitstapjes naar de drijvende dorpen van het Tonle Sapmeer en historische tours in Phnom Penh via [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Trektochten en ecolodges in het Cardamomgebergte regel je het best via gespecialiseerde natuurbeschermingsorganisaties. Cambodjaanse kookworkshops, zijdeweefworkshops en fototours langs de tempels vind je ook op Klook.
+Boek zonsopgangtours in Angkor Wat, uitstapjes naar de drijvende dorpen van het Tonle Sapmeer en historische tours in Phnom Penh via [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Trektochten en ecolodges in het Cardamomgebergte regel je het best via gespecialiseerde natuurbeschermingsorganisaties. Cambodjaanse kookworkshops, zijdeweefworkshops en fototours langs de tempels vind je op [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
 
 ## Praktisch
 
-**eSIM:** regel een eSIM voor Cambodja bij [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20eSIM). Smart en Cellcard hebben het beste bereik; in het Cardamomgebergte is het signaal wisselend en bij afgelegen ecolodges is er geen. De meeste junglelodges gebruiken wifi via satelliet.
+**eSIM:** regel een eSIM voor Cambodja bij [Airalo](https://www.airalo.com). Smart en Cellcard hebben het beste bereik; in het Cardamomgebergte is het signaal wisselend en bij afgelegen ecolodges is er geen. De meeste junglelodges gebruiken wifi via satelliet.
 
-**Reisverzekering:** onmisbaar. De openbare zorg in Cambodja is beperkt en een medische evacuatie naar Bangkok of Singapore kost $ 5.000–15.000. Zorg dat je polis evacuatie omvat en junglewandelingen dekt.
+**Reisverzekering:** onmisbaar. De openbare zorg in Cambodja is beperkt en een medische evacuatie naar Bangkok of Singapore kost $ 5.000–15.000. Vergelijk polissen op [EKTA](https://ektatraveling.com/) en controleer of de polis die je kiest medische evacuatie en junglewandelingen dekt.

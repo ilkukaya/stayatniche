@@ -90,13 +90,13 @@ Over de verbinding naar Fort William: het stadje zelf is bescheiden, maar het is
 
 Voor sommige reizen met Europese nachttreinen heb je aan één kant nog een vlucht nodig: je vliegt naar een grote hub en reist de rest per trein. Dat is vaak de beste aanpak: één lange vlucht in plaats van twee of drie korte, met de trein voor de verbindingen op het continent.
 
-Plan eerst het trans-Atlantische of Azië-Pacifische vluchtdeel en bouw de treinetappes daaromheen. De beste combinaties van vliegen en spoor:
+Voor het trans-Atlantische of Azië-Pacifische vluchtdeel zoek je op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Europe/anytime/anytime) of [Aviasales](https://www.aviasales.com/search/to/europe). De beste combinaties van vliegen en spoor:
 
 - **Vlieg naar Londen, dan per trein naar het zuiden en oosten:** neem de Eurostar naar Parijs en dan de Nightjet naar Wenen of Barcelona. Eén vlucht, drie landen per trein.
 - **Vlieg naar Amsterdam:** de Nederlandse treinverbindingen sluiten naadloos aan op het Duitse ICE-netwerk. Vanuit Amsterdam stap je op de European Sleeper naar Praag zonder van luchthaven te wisselen.
 - **Vlieg naar Zürich:** door de positie van Zwitserland als spoorknooppunt is het de toegangspoort tot Italië en Zuid-Frankrijk per nachttrein.
 
-**Transfers vanaf deze hubluchthavens:** boek via [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20airport%20transfer) een privéchauffeur vanaf grote Europese luchthavens. Vooral handig als je van een langeafstandsvlucht komt en dezelfde avond nog een nachttrein moet halen.
+**Transfers vanaf deze hubluchthavens:** boek via [Welcome Pickups](https://www.welcomepickups.com/) een privéchauffeur vanaf grote Europese luchthavens. Vooral handig als je van een langeafstandsvlucht komt en dezelfde avond nog een nachttrein moet halen.
 
 ---
 
@@ -106,7 +106,7 @@ De nachttreinreis is in de meeste gevallen uitdrukkelijk een reismodel zonder au
 
 De uitzondering: als je route landelijke bestemmingen buiten het hoofdspoornet bevat. De Schotse Highlands, de Loirevallei, Toscane, de Noorse fjorden: die verken je allemaal veel beter met de auto. Vlieg of neem dan de trein naar de dichtstbijzijnde hubstad en haal daar een huurauto op; dat is de praktische oplossing.
 
-Voor autohuur in Europa vergelijk je op [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20car%20rental). Voor reizen met een elektrische auto, steeds praktischer in Scandinavië en Duitsland, kijk je bij het zoeken naar elektrische voertuigen.
+Voor autohuur in Europa vergelijk je op [AutoEurope](https://www.autoeurope.eu/), [QEEQ](https://www.qeeq.com/search?q=Europe) en [Localrent](https://localrent.com/en/) voor lokale verhuurders. Voor reizen met een elektrische auto, steeds praktischer in Scandinavië en Duitsland, hebben deze platforms inmiddels speciale zoekfilters voor EV's.
 
 ---
 
@@ -124,9 +124,9 @@ Het nachttreinmodel is efficiënt omdat de reis 's nachts plaatsvindt. Je dagen 
 
 Mobiel roamen in Europa valt voor EU-burgers onder EU-regels, maar reizigers van buiten de EU betalen roamingkosten op de verschillende nationale netwerken. Een eSIM lost dat op:
 
-Een regionale Europa-eSIM van [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20eSIM) dekt meer dan 30 Europese landen in één bundel, meestal 10 GB voor $ 20–25. Hij schakelt automatisch tussen nationale netwerken als je nachttrein een grens passeert, zodat je verbonden blijft zonder iets in te stellen. Installeer hem voor vertrek en activeer hem bij aankomst.
+De regionale Europa-eSIM van [Airalo](https://www.airalo.com) dekt meer dan 30 Europese landen in één bundel, meestal 10 GB voor $ 20–25. Hij schakelt automatisch tussen nationale netwerken als je nachttrein een grens passeert, zodat je verbonden blijft zonder iets in te stellen. Installeer hem voor vertrek en activeer hem bij aankomst.
 
-Alleen het Verenigd Koninkrijk (Caledonian Sleeper): een aparte UK-eSIM (meestal £ 12–15 voor 10 GB) is voor een reis naar één land voordeliger dan de Europabundel.
+Alleen het Verenigd Koninkrijk (Caledonian Sleeper): een aparte UK-eSIM van Airalo (meestal £ 12–15 voor 10 GB) is voor een reis naar één land voordeliger dan de Europabundel.
 
 ---
 

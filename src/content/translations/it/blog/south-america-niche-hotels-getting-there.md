@@ -19,13 +19,13 @@ Dal punto di vista geografico, il Cile è il Paese sudamericano più accessibile
 
 **La sequenza di voli per l’Atacama:**
 
-1. **Volo internazionale per Santiago (SCL):** LATAM da Madrid (12 ore) è l’opzione europea più diretta. American Airlines e LATAM da Miami (9 ore e 30) per chi parte dal Nord America. Prenota per tempo per ottenere le tariffe migliori.
+1. **Volo internazionale per Santiago (SCL):** LATAM da Madrid (12 ore) è l’opzione europea più diretta. American Airlines e LATAM da Miami (9 ore e 30) per chi parte dal Nord America. Cerca su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chile/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/chile).
 
 2. **Da Santiago a Calama (CJC):** LATAM e Sky Airline volano più volte al giorno (2 ore). Calama è l’aeroporto di San Pedro de Atacama.
 
-3. **Da Calama a San Pedro:** 100 km verso sud-est su strada asfaltata, 1 ora e mezza. La maggior parte dei lodge ([Awasi Atacama](/hotels/awasi-atacama-chile), [Tierra Atacama](/hotels)) offre il transfer dall’aeroporto. I trasferimenti privati si possono prenotare tramite [Klook](https://www.klook.com/en-US/search-results/?query=Calama%20airport%20transfer).
+3. **Da Calama a San Pedro:** 100 km verso sud-est su strada asfaltata, 1 ora e mezza. La maggior parte dei lodge ([Awasi Atacama](/hotels/awasi-atacama-chile), [Tierra Atacama](/hotels)) offre il transfer dall’aeroporto. I trasferimenti privati si possono prenotare tramite [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Calama).
 
-**eSIM per il Cile:** eSIM Cile su [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20eSIM); Entel ha la migliore copertura nell’Atacama, compreso il segnale nel paese di San Pedro de Atacama. Nel deserto circostante e nelle escursioni in alta quota (El Tatio, 4.320 m) il segnale è molto scarso; i lodge usano il WiFi satellitare.
+**eSIM per il Cile:** eSIM Cile di [Airalo](https://www.airalo.com); Entel ha la migliore copertura nell’Atacama, compreso il segnale nel paese di San Pedro de Atacama. Nel deserto circostante e nelle escursioni in alta quota (El Tatio, 4.320 m) il segnale è molto scarso; i lodge usano il WiFi satellitare.
 
 **Altitudine:** San Pedro si trova a 2.400 m; i geyser di El Tatio a 4.320 m. Trascorri un giorno alla quota di San Pedro prima di salire. Il tè di coca si trova ovunque.
 
@@ -37,7 +37,7 @@ Per chi abbina l’Atacama alla Patagonia (il classico circuito degli hotel inso
 
 - **In alternativa, Atacama → Santiago → Puerto Natales (PMC):** più vicino al Torres del Paine, ma con meno collegamenti. LATAM vola in modo stagionale.
 
-Trasferimento da Punta Arenas al Torres del Paine: 4 ore su strada. [Klook](https://www.klook.com/en-US/search-results/?query=Punta%20Arenas%20airport%20transfer) offre trasferimenti privati affidabili a prezzo fisso.
+Trasferimento da Punta Arenas al Torres del Paine: 4 ore su strada. [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Punta+Arenas) offre trasferimenti privati affidabili a prezzo fisso.
 
 ---
 
@@ -46,7 +46,7 @@ Trasferimento da Punta Arenas al Torres del Paine: 4 ore su strada. [Klook](http
 La facilità di accesso fa dell’Ecuador una delle mete sudamericane più appaganti per un viaggio breve. Quito (UIO) è a 2 ore e mezza da Miami con American Airlines, a 7 ore da Madrid con Iberia e a 7 ore da Amsterdam con KLM. Ed è da qui che il [Mashpi Lodge](/hotels/mashpi-lodge-ecuador), la struttura dalle pareti di vetro nella foresta nebulosa del Chocó Andino, dista appena 2 ore.
 
 **La sequenza di voli:**
-1. Volo internazionale per Quito (UIO).
+1. Volo internazionale per Quito (UIO): cerca su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime).
 2. Una notte a Quito (per acclimatarsi all’altitudine: la città si trova a 2.850 m)
 3. Trasferimento su strada al Mashpi Lodge: 2 ore a nord-ovest di Quito, scendendo attraverso la foresta nebulosa fino a 1.200 m
 
@@ -54,11 +54,11 @@ Il Mashpi Lodge organizza direttamente i trasferimenti da Quito. La strada scend
 
 **Estensione alle Galápagos:** da Quito, i voli per le Galápagos, diretti a Baltra (GPS, vicino a Santa Cruz) o a San Cristóbal (SCY), partono 2–3 volte al giorno con LATAM e Avianca e durano circa 3 ore. Le Galápagos si visitano di solito con una crociera con pernottamento a bordo (4–8 giorni) tra le diverse isole, oppure con un itinerario via terra da Santa Cruz ed escursioni giornaliere. La tassa d’ingresso al parco nazionale, di 200 $, si paga all’arrivo.
 
-**eSIM per l’Ecuador:** eSIM Ecuador su [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM); Claro Ecuador ha la migliore copertura nella foresta nebulosa, compresi Mindo e l’area della riserva di Mashpi. Al lodge c’è segnale; l’interno della riserva è offline (ed è proprio questo il bello).
+**eSIM per l’Ecuador:** eSIM Ecuador di [Airalo](https://www.airalo.com); Claro Ecuador ha la migliore copertura nella foresta nebulosa, compresi Mindo e l’area della riserva di Mashpi. Al lodge c’è segnale; l’interno della riserva è offline (ed è proprio questo il bello).
 
 ### Noleggio auto in Ecuador
 
-Per viaggiare in autonomia verso la foresta nebulosa, gli altopiani andini e la costa, guidare sulla rete stradale principale dell’Ecuador è fattibile. Confronta le tariffe su [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Un 4x4 è utile per le strade d’accesso alla foresta nebulosa; tieni presente che l’altitudine di Quito richiede motori adatti all’alta quota nelle auto a noleggio, ma la maggior parte va benissimo.
+Per viaggiare in autonomia verso la foresta nebulosa, gli altopiani andini e la costa, guidare sulla rete stradale principale dell’Ecuador è fattibile. Confronta le tariffe su [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) o [EconomyBookings](https://www.economybookings.com/?location=Quito). Un 4x4 è utile per le strade d’accesso alla foresta nebulosa; tieni presente che l’altitudine di Quito richiede motori adatti all’alta quota nelle auto a noleggio, ma la maggior parte va benissimo.
 
 ---
 
@@ -71,7 +71,7 @@ Il Brasile richiede più pianificazione del Cile o dell’Ecuador: le distanze s
 - **Rio de Janeiro (GIG):** meno collegamenti a lungo raggio rispetto a San Paolo; soprattutto voli da Europa e Stati Uniti
 - **Manaus (MAO):** l’hub dell’Amazzonia, con collegamenti LATAM da San Paolo e da Miami (diretto); il punto d’ingresso per viaggiare nell’Amazzonia centrale
 
-Prenota i voli per il Brasile con largo anticipo.
+Cerca i voli per il Brasile su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Brazil/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/brazil).
 
 **Per il Cristalino Lodge (Alta Floresta, margine meridionale dell’Amazzonia):**
 
@@ -86,7 +86,7 @@ Tempo totale di viaggio da San Paolo: 6–8 ore, coincidenze comprese. Dall’Eu
 
 **Un’alternativa:** alcuni viaggiatori spezzano il viaggio con 2–3 notti nel Pantanal (la più grande zona umida tropicale del mondo, raggiungibile da Cuiabá) prima di proseguire per Alta Floresta. Così il transito diventa una seconda meta da safari: nella stagione secca (agosto–ottobre) il Pantanal regala avvistamenti spettacolari di giaguari.
 
-**eSIM per il Brasile:** eSIM Brasile su [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20eSIM); Claro o Vivo hanno la migliore copertura nell’interno. Nel paese di Alta Floresta il segnale funziona; all’interno della riserva il lodge usa una connessione satellitare.
+**eSIM per il Brasile:** eSIM Brasile di [Airalo](https://www.airalo.com); Claro o Vivo hanno la migliore copertura nell’interno. Nel paese di Alta Floresta il segnale funziona; all’interno della riserva il lodge usa una connessione satellitare.
 
 ---
 
@@ -97,7 +97,7 @@ Per un circuito sudamericano che tocchi più strutture straordinarie:
 **Esempio Cile + Ecuador + Brasile (circuito di 3 settimane):**
 - Arrivo a Santiago (SCL) → Atacama (via Calama) → Santiago → Quito (UIO) → Mashpi Lodge → Quito → San Paolo (GRU) → Alta Floresta → San Paolo → rientro
 
-Costruisci questo itinerario con la ricerca multitratta: trova combinazioni con meno tratte a ritroso rispetto alla ricerca di ogni segmento separatamente.
+Costruisci questo itinerario su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/South+America/anytime/anytime) con la ricerca multitratta: trova combinazioni con meno tratte a ritroso rispetto alla ricerca di ogni segmento separatamente.
 
 **Circuiti di sola andata in Sud America:** entrare da una porta d’accesso (Buenos Aires, Santiago) e uscire da un’altra (Lima, Bogotá) spesso costa meno di un andata e ritorno e permette un circuito geografico logico.
 
@@ -107,7 +107,7 @@ Costruisci questo itinerario con la ricerca multitratta: trova combinazioni con 
 
 La regola base per i trasferimenti dagli aeroporti sudamericani: evita i taxi abusivi (presenti in ogni aeroporto del continente) e usa il servizio di transfer del lodge, un trasferimento privato prenotato in anticipo o un’app di ride-hailing (Uber funziona a Santiago, San Paolo, Quito e Lima; gli equivalenti locali variano da città a città).
 
-Prenota in anticipo tramite [Klook](https://www.klook.com/en-US/search-results/?query=South%20America%20airport%20transfer) nelle principali città d’arrivo: il prezzo fisso e l’accoglienza professionale valgono il modesto sovrapprezzo, soprattutto per gli arrivi della prima sera.
+Prenota in anticipo tramite [Welcome Pickups](https://www.welcomepickups.com/) nelle principali città d’arrivo: il prezzo fisso e l’accoglienza professionale valgono il modesto sovrapprezzo, soprattutto per gli arrivi della prima sera.
 
 ---
 
@@ -115,9 +115,9 @@ Prenota in anticipo tramite [Klook](https://www.klook.com/en-US/search-results/?
 
 Guidare in autonomia è pratico in Cile (strade eccellenti, poco traffico sulle rotte dell’Atacama) e in alcune zone di Brasile ed Ecuador. Lo è meno in Perù, Bolivia e Colombia, dove condizioni delle strade e traffico urbano sono più impegnativi.
 
-Per il Cile: confronta su [Klook](https://www.klook.com/en-US/search-results/?query=Chile%20car%20rental). Un 4x4 è necessario per il Torres del Paine e per le escursioni negli altopiani dell’Atacama; per le strade principali dell’Atacama basta un’auto normale.
+Per il Cile: confronta su [Localrent](https://localrent.com/en/?location=Chile), [QEEQ](https://www.qeeq.com/search?q=Santiago%2C+Chile) e [AutoEurope](https://www.autoeurope.eu/). Un 4x4 è necessario per il Torres del Paine e per le escursioni negli altopiani dell’Atacama; per le strade principali dell’Atacama basta un’auto normale.
 
-Per l’Ecuador: confronta su [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Tieni presente che le piccole agenzie di noleggio locali di Quito offrono spesso tariffe decisamente migliori rispetto ai marchi internazionali.
+Per l’Ecuador: [QEEQ](https://www.qeeq.com/search?q=Quito%2C+Ecuador) ed [EconomyBookings](https://www.economybookings.com/?location=Quito). Tieni presente che le piccole agenzie di noleggio locali di Quito offrono spesso tariffe decisamente migliori rispetto ai marchi internazionali.
 
 ---
 
@@ -131,7 +131,7 @@ Prenota le escursioni locali nell’Atacama (geyser di El Tatio, Valle de la Lun
 
 Le strutture sanitarie del Sud America variano molto: le grandi città hanno ottimi ospedali privati, mentre le zone remote dell’Amazzonia e degli altopiani richiedono l’evacuazione. Il modello del lodge remoto, di cui parla questa guida, richiede una copertura per l’evacuazione sanitaria.
 
-Assicurati che la polizza copra le attività d’avventura (trekking nella foresta nebulosa, escursioni naturalistiche in Amazzonia, salite sui vulcani dell’Atacama) e includa l’evacuazione d’emergenza. Verifica anche che copra i rischi per la salute legati all’altitudine (Atacama, Quito, passi andini).
+Verifica che la tua assicurazione di viaggio (ad esempio [EKTA](https://ektatraveling.com/)) copra il Sud America, comprese le attività d’avventura (trekking nella foresta nebulosa, escursioni naturalistiche in Amazzonia, salite sui vulcani dell’Atacama) e l’evacuazione d’emergenza. Verifica inoltre che la polizza copra i rischi per la salute legati all’altitudine (Atacama, Quito, passi andini).
 
 In alcune regioni è obbligatoria la vaccinazione contro la febbre gialla: verifica i requisiti specifici per il tuo itinerario, soprattutto per i viaggi in Amazzonia in Brasile, Perù ed Ecuador.
 

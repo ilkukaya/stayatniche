@@ -47,22 +47,22 @@ Noorderlicht kijken in IJsland is een kwestie van statistiek en geduld. Je hebt 
 
 ## Zo kom je er
 
-**Vluchten:** Keflavík International Airport (KEF) ligt 50 kilometer ten zuidwesten van Reykjavik en heeft rechtstreekse vluchten vanuit de meeste Europese hoofdsteden, New York, Boston, Minneapolis, Denver, Seattle, Los Angeles en Toronto. Icelandair en PLAY hebben de grootste netwerken. De vluchtprijzen verschillen flink per vertrekdatum en -stad.
+**Vluchten:** Keflavík International Airport (KEF) ligt 50 kilometer ten zuidwesten van Reykjavik en heeft rechtstreekse vluchten vanuit de meeste Europese hoofdsteden, New York, Boston, Minneapolis, Denver, Seattle, Los Angeles en Toronto. Icelandair en PLAY hebben de grootste netwerken. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Iceland/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/iceland): de prijzen verschillen flink per vertrekdatum en -stad.
 
-**Luchthaventransfer:** De bussen van Flybus en Reykjavik Excursions rijden van Keflavík naar het busstation BSÍ in Reykjavik (45 minuten). Voor een privétransfer – vooral handig bij een late aankomst of veel bagage – boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Reykjavik%20airport%20transfer). De Blue Lagoon ligt op 20 minuten van de luchthaven; transfers kunnen je daar afzetten voordat je doorreist naar Reykjavik.
+**Luchthaventransfer:** De bussen van Flybus en Reykjavik Excursions rijden van Keflavík naar het busstation BSÍ in Reykjavik (45 minuten). Voor een privétransfer – vooral handig bij een late aankomst of veel bagage – boek je via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Reykjavik) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Reykjavik). De Blue Lagoon ligt op 20 minuten van de luchthaven; transfers kunnen je daar afzetten voordat je doorreist naar Reykjavik.
 
 ## Onderweg
 
-**Huurauto:** Onmisbaar voor de Ringweg en het hoogland. Op de F-wegen (routes door het binnenland, alleen open van juli tot half september) is een 4x4 verplicht. Vergelijk huurprijzen, ook van lokale verhuurders met scherpe prijzen voor 4x4's, op [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20car%20rental). Boek voor de zomer ruim op tijd: het aanbod is beperkt en de vraag piekt in juli–augustus.
+**Huurauto:** Onmisbaar voor de Ringweg en het hoogland. Op de F-wegen (routes door het binnenland, alleen open van juli tot half september) is een 4x4 verplicht. Vergelijk huurprijzen op [Localrent](https://localrent.com/en/?location=Iceland) (gespecialiseerd in lokale verhuurders met scherpe prijzen voor 4x4's), [QEEQ](https://www.qeeq.com/search?q=Iceland) en [AutoEurope](https://www.autoeurope.eu/). Boek voor de zomer ruim op tijd: het aanbod is beperkt en de vraag piekt in juli–augustus.
 
 **Bussen:** Het openbare busnet van Strætó bedient Reykjavik en het schiereiland Reykjanes; Sterna en andere maatschappijen rijden in de zomer seizoensgebonden bussen door het hoogland (de F-road Buses). Handig als je op budget reist, maar een stuk beperkter dan een huurauto.
 
 ## Tours en belevenissen
 
-Boek gletsjerwandelingen op de Vatnajökull, sneeuwscootertochten, walvissen spotten vanuit Húsavík en foodtours in Reykjavik via [Klook](https://www.klook.com/en-US/search-results/?query=Iceland). Noorderlichttours met ervaren gidsen vertrekken 's winters elke avond vanuit Reykjavik, Akureyri en afgelegen lodges. De dagtochten naar de Blue Lagoon, de Gouden Cirkel en de zuidkust krijgen steevast goede beoordelingen. IJsgrottours (november–maart) in de Vatnajökull behoren tot de meest buitengewone ervaringen van IJsland en boek je via gespecialiseerde aanbieders.
+Boek gletsjerwandelingen op de Vatnajökull, sneeuwscootertochten, walvissen spotten vanuit Húsavík en foodtours in Reykjavik via [Klook](https://www.klook.com/en-US/search-results/?query=Iceland). Noorderlichttours met ervaren gidsen vertrekken 's winters elke avond vanuit Reykjavik, Akureyri en afgelegen lodges. De dagtochten naar de Blue Lagoon, de Gouden Cirkel en de zuidkust krijgen steevast goede beoordelingen. IJsgrottours (november–maart) in de Vatnajökull behoren tot de meest buitengewone ervaringen van IJsland en boek je via gespecialiseerde aanbieders op [WeGoTrip](https://wegotrip.com/destinations/iceland/).
 
 ## Handig voor onderweg
 
-**eSIM:** IJsland heeft uitstekende 4G-dekking langs Route 1 en in alle plaatsen; in het hoogland heb je geen bereik. Regel voor vertrek een eSIM voor IJsland via [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20eSIM). Síminn heeft de beste dekking op het platteland.
+**eSIM:** IJsland heeft uitstekende 4G-dekking langs Route 1 en in alle plaatsen; in het hoogland heb je geen bereik. Regel voor vertrek een eSIM voor IJsland via [Airalo](https://www.airalo.com). Síminn heeft de beste dekking op het platteland.
 
-**Reisverzekering:** Onmisbaar in IJsland, gezien de kosten van een reddingshelikopter als je gewond raakt op een afgelegen F-weg of tijdens een hooglandwandeling. Controleer of je polis offroadrijden dekt als je F-wegen wilt rijden. Controleer ook of avontuurlijke activiteiten zoals gletsjerwandelen en sneeuwscooteren gedekt zijn.
+**Reisverzekering:** Onmisbaar in IJsland, gezien de kosten van een reddingshelikopter als je gewond raakt op een afgelegen F-weg of tijdens een hooglandwandeling. Controleer of je polis offroadrijden dekt als je F-wegen wilt rijden. [EKTA](https://ektatraveling.com/) biedt reisverzekeringen aan; controleer of de polis avontuurlijke activiteiten zoals gletsjerwandelen en sneeuwscooteren dekt.

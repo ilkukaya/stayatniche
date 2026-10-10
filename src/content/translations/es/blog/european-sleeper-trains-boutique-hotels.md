@@ -90,13 +90,13 @@ En cuanto al servicio a Fort William: el pueblo en sí es modesto, pero es la pu
 
 Algunos itinerarios en tren nocturno por Europa siguen necesitando un vuelo en uno de los extremos: volar a un gran aeropuerto y hacer el resto del viaje en tren. A menudo es la mejor opción: un vuelo largo en lugar de dos o tres cortos, y el tren se encarga de las conexiones dentro del continente.
 
-Planifica primero el tramo transatlántico o desde Asia-Pacífico y organiza los tramos en tren a su alrededor. Las mejores combinaciones de tren y avión:
+Para el tramo transatlántico o desde Asia-Pacífico, busca en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Europe/anytime/anytime) o en [Aviasales](https://www.aviasales.com/search/to/europe). Las mejores combinaciones de tren y avión:
 
 - **Vuela a Londres y sigue en tren hacia el sur y el este:** toma el Eurostar a París y después el Nightjet a Viena o Barcelona. Un vuelo, tres países en tren.
 - **Vuela a Ámsterdam:** las conexiones de los trenes neerlandeses con la red ICE alemana son perfectas. Desde Ámsterdam puedes subir al European Sleeper hasta Praga sin cambiar de aeropuerto.
 - **Vuela a Zúrich:** su posición como nudo ferroviario convierte a Suiza en la puerta de entrada a Italia y el sur de Francia en tren nocturno.
 
-**Traslados desde estos grandes aeropuertos:** reserva en [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20airport%20transfer) traslados con conductor privado desde los principales aeropuertos europeos; resulta especialmente útil si llegas de un vuelo de largo recorrido y enlazas esa misma noche con un tren nocturno.
+**Traslados desde estos grandes aeropuertos:** reserva en [Welcome Pickups](https://www.welcomepickups.com/) traslados con conductor privado desde los principales aeropuertos europeos; resulta especialmente útil si llegas de un vuelo de largo recorrido y enlazas esa misma noche con un tren nocturno.
 
 ---
 
@@ -106,7 +106,7 @@ El itinerario en tren nocturno es, en la mayoría de los casos, un modelo de via
 
 La excepción: si tu ruta incluye destinos rurales fuera de la red ferroviaria principal. Las Highlands escocesas, el valle del Loira, la Toscana, los fiordos noruegos: todos se exploran mucho mejor en auto. En estos casos, la solución práctica es llegar en avión o en tren a la ciudad importante más cercana y recoger allí un vehículo de alquiler.
 
-Para alquilar un auto en Europa, compara en [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20car%20rental). Para viajar en vehículo eléctrico —cada vez más práctico en Escandinavia y Alemania—, busca opciones de vehículos eléctricos al reservar.
+Para alquilar un auto en Europa, compara en [AutoEurope](https://www.autoeurope.eu/), [QEEQ](https://www.qeeq.com/search?q=Europe) y [Localrent](https://localrent.com/en/) si buscas agencias locales. Para viajar en vehículo eléctrico —cada vez más práctico en Escandinavia y Alemania—, estas plataformas incluyen ya filtros de búsqueda específicos.
 
 ---
 
@@ -124,9 +124,9 @@ El modelo del tren nocturno es eficiente porque el trayecto ocupa la noche. Los 
 
 El roaming en Europa está regulado por la normativa de la UE para los ciudadanos comunitarios, pero quienes llegan de fuera de la UE pagan cargos de roaming en las distintas redes nacionales. Una eSIM lo resuelve:
 
-Una eSIM regional para Europa de [Klook](https://www.klook.com/en-US/search-results/?query=Europe%20eSIM) cubre más de 30 países europeos con un solo plan: normalmente 10 GB por 20–25 US$. Cambia automáticamente de red nacional a medida que tu tren nocturno cruza fronteras y mantiene la conexión sin ninguna configuración. Instálala antes de salir y actívala al aterrizar.
+La eSIM regional para Europa de [Airalo](https://www.airalo.com) cubre más de 30 países europeos con un solo plan: normalmente 10 GB por 20–25 US$. Cambia automáticamente de red nacional a medida que tu tren nocturno cruza fronteras y mantiene la conexión sin ninguna configuración. Instálala antes de salir y actívala al aterrizar.
 
-Si solo vas al Reino Unido (Caledonian Sleeper), una eSIM británica (normalmente 12–15 £ por 10 GB) sale más a cuenta que el plan europeo para un viaje a un solo país.
+Si solo vas al Reino Unido (Caledonian Sleeper), una eSIM británica de Airalo (normalmente 12–15 £ por 10 GB) sale más a cuenta que el plan europeo para un viaje a un solo país.
 
 ---
 

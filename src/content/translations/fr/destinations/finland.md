@@ -43,22 +43,22 @@ Helsinki mérite plus qu'une nuit de transit. Le Design District, l'église Temp
 
 ## Comment s'y rendre
 
-**Vols :** Helsinki-Vantaa (HEL) est le principal hub de Finlande, avec des liaisons directes dans toute l'Europe et des lignes long-courriers vers l'Asie avec Finnair. Rovaniemi (RVN) accueille des vols charters saisonniers directs depuis le Royaume-Uni et l'Allemagne (de novembre à mars), ce qui évite la correspondance à Helsinki pour un voyage hivernal en Laponie. Ivalo (IVL), l'aéroport le plus proche des cabanes à aurores de Saariselkä, est à moins de 90 minutes d'Helsinki.
+**Vols :** Helsinki-Vantaa (HEL) est le principal hub de Finlande, avec des liaisons directes dans toute l'Europe et des lignes long-courriers vers l'Asie avec Finnair. Rovaniemi (RVN) accueille des vols charters saisonniers directs depuis le Royaume-Uni et l'Allemagne (de novembre à mars), ce qui évite la correspondance à Helsinki pour un voyage hivernal en Laponie. Ivalo (IVL), l'aéroport le plus proche des cabanes à aurores de Saariselkä, est à moins de 90 minutes d'Helsinki. Recherchez vos vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Finland/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/finland).
 
-**Transfert depuis l'aéroport :** la ligne ferroviaire circulaire d'Helsinki relie l'aéroport de Vantaa au centre-ville en 30 minutes. À Rovaniemi et Ivalo, la plupart des lodges de Laponie assurent le transfert. Réservez un transfert privé en ville via [Klook](https://www.klook.com/en-US/search-results/?query=Helsinki%20airport%20transfer).
+**Transfert depuis l'aéroport :** la ligne ferroviaire circulaire d'Helsinki relie l'aéroport de Vantaa au centre-ville en 30 minutes. À Rovaniemi et Ivalo, la plupart des lodges de Laponie assurent le transfert. Réservez un transfert privé en ville via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Helsinki) ou [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Helsinki).
 
 ## Se déplacer
 
-**Location de voiture :** indispensable dans la région des lacs et en Laponie. Les pneus hiver sont obligatoires de novembre à mars. Comparez les tarifs sur [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20car%20rental).
+**Location de voiture :** indispensable dans la région des lacs et en Laponie. Les pneus hiver sont obligatoires de novembre à mars. Comparez les tarifs sur [Localrent](https://localrent.com/en/?location=Finland), [QEEQ](https://www.qeeq.com/search?q=Finland) et [AutoEurope](https://www.autoeurope.eu/).
 
 **Train :** les chemins de fer finlandais VR relient Helsinki à Rovaniemi de nuit à bord du train-couchettes Santa Claus Express (12 heures, une expérience en soi). Réservez sur le site de [VR](https://www.vr.fi/en).
 
 ## Excursions et expériences
 
-Réservez vos safaris aurores boréales, balades en chiens de traîneau, visites de fermes de rennes et séances de sauna finlandais sur [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Visites architecturales d'Helsinki, kayak dans l'archipel et saunas à fumée traditionnels sont proposés également là-bas.
+Réservez vos safaris aurores boréales, balades en chiens de traîneau, visites de fermes de rennes et séances de sauna finlandais sur [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Visites architecturales d'Helsinki, kayak dans l'archipel et saunas à fumée traditionnels sont proposés sur [WeGoTrip](https://wegotrip.com/destinations/finland/).
 
 ## L'essentiel pour voyager
 
-**eSIM :** procurez-vous une eSIM Finlande chez [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20eSIM) avant le départ. Elisa et DNA offrent la meilleure couverture en zone rurale. La plupart des lodges de Laponie disposent d'un Wi-Fi par satellite.
+**eSIM :** procurez-vous une eSIM Finlande chez [Airalo](https://www.airalo.com) avant le départ. Elisa et DNA offrent la meilleure couverture en zone rurale. La plupart des lodges de Laponie disposent d'un Wi-Fi par satellite.
 
-**Assurance voyage :** faites couvrir les sports d'hiver si vous comptez faire de la motoneige.
+**Assurance voyage :** faites couvrir les sports d'hiver si vous comptez faire de la motoneige. [EKTA](https://ektatraveling.com/) propose des assurances voyage ; vérifiez que le contrat couvre les activités par grand froid.

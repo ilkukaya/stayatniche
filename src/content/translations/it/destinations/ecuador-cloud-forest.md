@@ -36,22 +36,22 @@ La foresta nebulosa sui versanti occidentali delle Ande, il bioma del Chocó and
 
 ## Come arrivare
 
-**Voli:** l’aeroporto internazionale Mariscal Sucre di Quito (UIO) riceve voli diretti da Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima e da altre capitali sudamericane. Guayaquil (GYE), sulla costa del Pacifico, è la porta d’ingresso secondaria.
+**Voli:** l’aeroporto internazionale Mariscal Sucre di Quito (UIO) riceve voli diretti da Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima e da altre capitali sudamericane. Guayaquil (GYE), sulla costa del Pacifico, è la porta d’ingresso secondaria. Cerca e confronta i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/ecuador).
 
-**Transfer dall’aeroporto:** Quito dista 45 minuti d’auto dall’aeroporto. Prenota un transfer privato con [Klook](https://www.klook.com/en-US/search-results/?query=Quito%20airport%20transfer): molto più affidabile dei taxi in attesa agli arrivi.
+**Transfer dall’aeroporto:** Quito dista 45 minuti d’auto dall’aeroporto. Prenota un transfer privato con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Quito) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Quito): molto più affidabile dei taxi in attesa agli arrivi.
 
 ## Come muoversi
 
-**Noleggio auto:** la rete della Panamericana è ben tenuta e guidare in autonomia è pratico. Confronta le tariffe su [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Per le strade degli altipiani e della foresta nebulosa serve un 4x4.
+**Noleggio auto:** la rete della Panamericana è ben tenuta e guidare in autonomia è pratico. Confronta le tariffe su [Localrent](https://localrent.com/en/?location=Ecuador), [QEEQ](https://www.qeeq.com/search?q=Quito,+Ecuador) o [EconomyBookings](https://www.economybookings.com/?location=Quito). Per le strade degli altipiani e della foresta nebulosa serve un 4x4.
 
 **Autobus:** la rete di autobus interurbani dell’Ecuador è eccellente ed economica. Il terminal principale di Quito (Quitumbe) collega tutte le mete principali. I transfer privati verso i lodge della foresta nebulosa (come Mashpi) sono di solito gestiti dalla struttura stessa.
 
 ## Tour ed esperienze
 
-Prenota le escursioni tra le isole delle Galápagos, i trekking al cratere del Quilotoa e i tour di Quito su [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). I tour di birdwatching nella foresta nebulosa e le visite alle piantagioni di cacao vicino a Mindo si prenotano anche lì.
+Prenota le escursioni tra le isole delle Galápagos, i trekking al cratere del Quilotoa e i tour di Quito su [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). I tour di birdwatching nella foresta nebulosa e le visite alle piantagioni di cacao vicino a Mindo si prenotano su [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
 
 ## Informazioni pratiche
 
-**eSIM:** prima di partire procurati una eSIM per l’Ecuador su [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM). Claro ha la migliore copertura rurale, anche nella foresta nebulosa andina occidentale. Nell’interno delle Galápagos il segnale è assente, ma a Puerto Ayora c’è.
+**eSIM:** prima di partire procurati una eSIM per l’Ecuador su [Airalo](https://www.airalo.com). Claro ha la migliore copertura rurale, anche nella foresta nebulosa andina occidentale. Nell’interno delle Galápagos il segnale è assente, ma a Puerto Ayora c’è.
 
-**Assicurazione di viaggio:** Verifica che la polizza copra le attività d’avventura in Ecuador (escursionismo, immersioni, escursioni naturalistiche). Per i viaggi nella foresta nebulosa più remota e in Amazzonia è importante la copertura per l’evacuazione medica.
+**Assicurazione di viaggio:** [EKTA](https://ektatraveling.com/) offre assicurazioni di viaggio; verifica che la polizza copra le attività d’avventura in Ecuador (escursionismo, immersioni, escursioni naturalistiche). Per i viaggi nella foresta nebulosa più remota e in Amazzonia è importante la copertura per l’evacuazione medica.

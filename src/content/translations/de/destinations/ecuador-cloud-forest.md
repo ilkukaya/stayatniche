@@ -36,22 +36,22 @@ Im Nebelwald an den Westhängen der Anden – dem Biom des Chocó Andino – leb
 
 ## Anreise
 
-**Flüge:** Der internationale Flughafen Mariscal Sucre in Quito (UIO) wird direkt aus Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima und anderen südamerikanischen Hauptstädten angeflogen. Guayaquil (GYE) an der Pazifikküste ist das zweite Tor zum Land.
+**Flüge:** Der internationale Flughafen Mariscal Sucre in Quito (UIO) wird direkt aus Miami, New York, Atlanta, Madrid, Amsterdam, Bogotá, Lima und anderen südamerikanischen Hauptstädten angeflogen. Guayaquil (GYE) an der Pazifikküste ist das zweite Tor zum Land. Flüge suchen und vergleichen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Ecuador/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/ecuador).
 
-**Flughafentransfer:** Vom Flughafen nach Quito sind es 45 Minuten mit dem Auto. Buchen Sie einen privaten Transfer über [Klook](https://www.klook.com/en-US/search-results/?query=Quito%20airport%20transfer) – deutlich zuverlässiger als die Taxistände bei der Ankunft.
+**Flughafentransfer:** Vom Flughafen nach Quito sind es 45 Minuten mit dem Auto. Buchen Sie einen privaten Transfer über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Quito) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Quito) – deutlich zuverlässiger als die Taxistände bei der Ankunft.
 
 ## Unterwegs vor Ort
 
-**Mietwagen:** Das Straßennetz der Panamericana ist gut ausgebaut, Selbstfahren ist problemlos möglich. Preise vergleichen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20car%20rental). Für Straßen im Hochland und im Nebelwald brauchen Sie ein Allradfahrzeug.
+**Mietwagen:** Das Straßennetz der Panamericana ist gut ausgebaut, Selbstfahren ist problemlos möglich. Preise vergleichen Sie auf [Localrent](https://localrent.com/en/?location=Ecuador), [QEEQ](https://www.qeeq.com/search?q=Quito,+Ecuador) oder [EconomyBookings](https://www.economybookings.com/?location=Quito). Für Straßen im Hochland und im Nebelwald brauchen Sie ein Allradfahrzeug.
 
 **Busse:** Ecuadors Fernbusnetz ist hervorragend und günstig. Quitos Hauptbusbahnhof (Quitumbe) verbindet mit allen wichtigen Zielen. Private Transfers zu Nebelwald-Lodges (wie Mashpi) organisiert in der Regel die Lodge selbst.
 
 ## Touren und Erlebnisse
 
-Inselhopping auf Galápagos, Wanderungen am Kratersee Quilotoa und Stadtführungen in Quito buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). Vogelbeobachtungstouren im Nebelwald und Besuche auf Kakaofarmen bei Mindo gibt es dort ebenfalls.
+Inselhopping auf Galápagos, Wanderungen am Kratersee Quilotoa und Stadtführungen in Quito buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador). Vogelbeobachtungstouren im Nebelwald und Besuche auf Kakaofarmen bei Mindo gibt es bei [WeGoTrip](https://wegotrip.com/destinations/ecuador/).
 
 ## Reisepraktisches
 
-**eSIM:** Besorgen Sie sich vor der Abreise eine eSIM für Ecuador bei [Klook](https://www.klook.com/en-US/search-results/?query=Ecuador%20eSIM). Claro hat die beste Abdeckung auf dem Land, auch im Nebelwald an den westlichen Andenhängen. Im Inselinneren von Galápagos gibt es kein Netz, in Puerto Ayora schon.
+**eSIM:** Besorgen Sie sich vor der Abreise eine eSIM für Ecuador bei [Airalo](https://www.airalo.com). Claro hat die beste Abdeckung auf dem Land, auch im Nebelwald an den westlichen Andenhängen. Im Inselinneren von Galápagos gibt es kein Netz, in Puerto Ayora schon.
 
-**Reiseversicherung:** Achten Sie darauf, dass Ihre Police die Abenteueraktivitäten in Ecuador (Wandern, Tauchen, Tierbeobachtungsausflüge) abdeckt. Für Reisen in abgelegene Nebelwälder und ins Amazonasgebiet ist ein Schutz für medizinische Evakuierung wichtig.
+**Reiseversicherung:** [EKTA](https://ektatraveling.com/) bietet Reiseversicherungen an; prüfen Sie, ob die Police die Abenteueraktivitäten in Ecuador (Wandern, Tauchen, Tierbeobachtungsausflüge) abdeckt. Für Reisen in abgelegene Nebelwälder und ins Amazonasgebiet ist ein Schutz für medizinische Evakuierung wichtig.

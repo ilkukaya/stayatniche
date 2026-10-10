@@ -47,20 +47,20 @@ El Aeropuerto Internacional Ngurah Rai, en Denpasar, recibe vuelos directos desd
 
 ## Cómo llegar
 
-**Vuelos:** el Aeropuerto Internacional Ngurah Rai (DPS), en Denpasar, recibe vuelos directos desde Singapur, Kuala Lumpur, Sídney, Melbourne, Tokio, Seúl y, vía Emirates (Dubái) y Qatar Airways, desde ciudades europeas.
+**Vuelos:** el Aeropuerto Internacional Ngurah Rai (DPS), en Denpasar, recibe vuelos directos desde Singapur, Kuala Lumpur, Sídney, Melbourne, Tokio, Seúl y, vía Emirates (Dubái) y Qatar Airways, desde ciudades europeas. Las aerolíneas de bajo coste —AirAsia, Scoot, Jetstar— ofrecen conexiones competitivas en Asia-Pacífico. Busca y compara vuelos en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Bali/anytime/anytime) y [Aviasales](https://www.aviasales.com/search/to/bali).
 
-**Traslado desde el aeropuerto:** el aeropuerto de Denpasar está a 30 minutos de Seminyak y a 90 de Ubud con tráfico normal. Reserva traslados privados con [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20airport%20transfer). Los taxis Bluebird, con taxímetro, son la alternativa fiable.
+**Traslado desde el aeropuerto:** el aeropuerto de Denpasar está a 30 minutos de Seminyak y a 90 de Ubud con tráfico normal. Reserva traslados privados con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Bali) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Bali). Los taxis Bluebird, con taxímetro, son la alternativa fiable.
 
 ## Cómo moverse
 
-**Scooter y moto:** es la opción habitual en la isla para viajar por libre. Se alquilan desde 5 US$ al día; en teoría se exige permiso de conducir internacional, aunque la mayoría de los alquileres son informales. Una alternativa más segura es contratar chófer por días (40-60 US$). Compara precios de alquiler de coche en [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20car%20rental).
+**Scooter y moto:** es la opción habitual en la isla para viajar por libre. Se alquilan desde 5 US$ al día; en teoría se exige permiso de conducir internacional, aunque la mayoría de los alquileres son informales. Una alternativa más segura es contratar chófer por días (40-60 US$). Compara precios de alquiler de coche en [Localrent](https://localrent.com/en/?location=Bali), [QEEQ](https://www.qeeq.com/search?q=Bali%2C+Indonesia) o [EconomyBookings](https://www.economybookings.com/?location=Bali). Para alquilar moto, compara en [BikeBooking](https://www.bikesbooking.com/en/search?location=Bali%2C+Indonesia).
 
 ## Excursiones y experiencias
 
-Reserva el ascenso al amanecer al monte Batur, paseos por las terrazas de Tegallalang, clases de cocina balinesa y ceremonias en templos sagrados en [Klook](https://www.klook.com/en-US/search-results/?query=Bali). El Bosque de los Monos de Ubud, el baño sagrado de Tirta Empul y el rafting en el río Ayung reciben siempre muy buenas opiniones.
+Reserva el ascenso al amanecer al monte Batur, paseos por las terrazas de Tegallalang, clases de cocina balinesa y ceremonias en templos sagrados en [Klook](https://www.klook.com/en-US/search-results/?query=Bali). El Bosque de los Monos de Ubud, el baño sagrado de Tirta Empul y el rafting en el río Ayung reciben siempre muy buenas opiniones. Para experiencias culturales seleccionadas y audioguías para recorrer por tu cuenta, usa [WeGoTrip](https://wegotrip.com/destinations/bali/).
 
 ## Imprescindibles del viaje
 
-**eSIM:** consigue una eSIM para Bali/Indonesia en [Klook](https://www.klook.com/en-US/search-results/?query=Bali%20eSIM) antes de salir. Telkomsel tiene la mejor cobertura en las zonas rurales del interior y las tierras altas.
+**eSIM:** consigue una eSIM para Bali/Indonesia en [Airalo](https://www.airalo.com) antes de salir. Telkomsel tiene la mejor cobertura en las zonas rurales del interior y las tierras altas.
 
-**Seguro de viaje:** que cubra deportes acuáticos, caminatas por volcanes y conducción de scooter (comprueba específicamente la cobertura de moto: muchas pólizas estándar la excluyen). Asegúrate de que cubra también actividades de aventura y la asistencia sanitaria en Asia-Pacífico.
+**Seguro de viaje:** que cubra deportes acuáticos, caminatas por volcanes y conducción de scooter (comprueba específicamente la cobertura de moto: muchas pólizas estándar la excluyen). Compara pólizas en [EKTA](https://ektatraveling.com/) y comprueba que la que elijas cubra las actividades de aventura y la asistencia sanitaria en Asia-Pacífico.

@@ -43,22 +43,22 @@ La côte sud, longtemps délaissée par des voyageurs tout entiers tournés vers
 
 ## Comment s'y rendre
 
-**Vols :** Phnom Penh (PNH) et Siem Reap (REP) sont les deux principaux aéroports internationaux du Cambodge. Bangkok (BKK), Kuala Lumpur (KUL), Singapour (SIN) et Hô Chi Minh-Ville (SGN) proposent plusieurs liaisons quotidiennes. Les vols directs depuis Incheon, Canton et Taipei sont fréquents.
+**Vols :** Phnom Penh (PNH) et Siem Reap (REP) sont les deux principaux aéroports internationaux du Cambodge. Bangkok (BKK), Kuala Lumpur (KUL), Singapour (SIN) et Hô Chi Minh-Ville (SGN) proposent plusieurs liaisons quotidiennes. Les vols directs depuis Incheon, Canton et Taipei sont fréquents. Recherchez et comparez les vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Cambodia/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/cambodia).
 
-**Transfert depuis l'aéroport :** l'aéroport de Siem Reap est à 3 km de la ville, soit 10 minutes de trajet. Celui de Phnom Penh est à 10 km du quartier du Riverside. Réservez un transfert privé via [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20airport%20transfer). Les tuk-tuks, omniprésents, sont une alternative pleine de charme pour les courtes distances en ville.
+**Transfert depuis l'aéroport :** l'aéroport de Siem Reap est à 3 km de la ville, soit 10 minutes de trajet. Celui de Phnom Penh est à 10 km du quartier du Riverside. Réservez un transfert privé via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Siem+Reap) ou [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Phnom+Penh). Les tuk-tuks, omniprésents, sont une alternative pleine de charme pour les courtes distances en ville.
 
 ## Se déplacer
 
 **Tuk-tuk et chauffeur privé :** la façon classique de visiter Angkor Vat et de circuler dans Siem Reap. La plupart des hôtels vous trouvent des chauffeurs de tuk-tuk fiables et anglophones à la journée. La location de voiture avec chauffeur est possible pour relier Phnom Penh à Siem Reap par la route (6 heures), bien plus confortable que le bus.
 
-**Vedettes :** elles relient Phnom Penh à Siem Reap par le lac Tonlé Sap (bateau express, 5 à 6 heures, pittoresque mais cahoteux) et desservent aussi les îles de la côte sud depuis Sihanoukville. Pour louer une voiture en ville, comparez sur [Klook](https://www.klook.com/en-US/search-results/?query=Phnom%20Penh%20car%20rental).
+**Vedettes :** elles relient Phnom Penh à Siem Reap par le lac Tonlé Sap (bateau express, 5 à 6 heures, pittoresque mais cahoteux) et desservent aussi les îles de la côte sud depuis Sihanoukville. Pour louer une voiture en ville, comparez sur [QEEQ](https://www.qeeq.com/search?q=Phnom+Penh%2C+Cambodia) ou [Localrent](https://localrent.com/en/?location=Phnom+Penh).
 
 ## Excursions et expériences
 
-Réservez les visites d'Angkor Vat au lever du soleil, les excursions vers les villages flottants du Tonlé Sap et les visites historiques de Phnom Penh sur [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Les treks dans les monts des Cardamomes et les séjours en écolodge s'organisent au mieux auprès d'opérateurs spécialisés dans la protection de la nature. Cours de cuisine cambodgienne, ateliers de tissage de la soie et circuits photo dans les temples sont aussi proposés sur Klook.
+Réservez les visites d'Angkor Vat au lever du soleil, les excursions vers les villages flottants du Tonlé Sap et les visites historiques de Phnom Penh sur [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia+Angkor). Les treks dans les monts des Cardamomes et les séjours en écolodge s'organisent au mieux auprès d'opérateurs spécialisés dans la protection de la nature. Cours de cuisine cambodgienne, ateliers de tissage de la soie et circuits photo dans les temples sont proposés sur [WeGoTrip](https://wegotrip.com/destinations/cambodia/).
 
 ## L'essentiel pour voyager
 
-**eSIM :** procurez-vous une eSIM Cambodge chez [Klook](https://www.klook.com/en-US/search-results/?query=Cambodia%20eSIM). Smart et Cellcard offrent la meilleure couverture ; le signal est irrégulier dans les monts des Cardamomes et inexistant dans les écolodges isolés. La plupart des lodges de la jungle utilisent un Wi-Fi par satellite.
+**eSIM :** procurez-vous une eSIM Cambodge chez [Airalo](https://www.airalo.com). Smart et Cellcard offrent la meilleure couverture ; le signal est irrégulier dans les monts des Cardamomes et inexistant dans les écolodges isolés. La plupart des lodges de la jungle utilisent un Wi-Fi par satellite.
 
-**Assurance voyage :** indispensable, car le système de santé public cambodgien est limité, et une évacuation sanitaire vers Bangkok ou Singapour coûte de 5 000 à 15 000 $. Vérifiez que votre contrat inclut l'évacuation et couvre les treks dans la jungle.
+**Assurance voyage :** indispensable, car le système de santé public cambodgien est limité, et une évacuation sanitaire vers Bangkok ou Singapour coûte de 5 000 à 15 000 $. Comparez les contrats sur [EKTA](https://ektatraveling.com/) et vérifiez que celui que vous choisissez couvre l'évacuation sanitaire et les treks dans la jungle.

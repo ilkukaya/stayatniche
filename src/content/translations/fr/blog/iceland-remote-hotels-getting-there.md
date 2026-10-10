@@ -1,7 +1,7 @@
 ---
 source: iceland-remote-hotels-getting-there
 title: "Hôtels isolés en Islande : y aller sans voyage organisé"
-excerpt: "Les hébergements les plus extraordinaires d'Islande (dômes géodésiques au bord des lagunes glaciaires, phares reconvertis sur des péninsules atlantiques, cabanes-bulles pour les aurores au fin fond des fjords de l'Ouest) demandent une organisation qui va bien au-delà d'une simple recherche d'hôtel. Voici comment rejoindre les plus reculés sans passer par un groupe."
+excerpt: "Les hébergements les plus extraordinaires d'Islande (dômes géodésiques au bord des lagunes glaciaires, phares reconvertis sur des péninsules atlantiques, cabanes-bulles pour les aurores au fin fond des fjords de l'Ouest) demandent une organisation qui va bien au-delà d'une simple réservation d'hôtel. Voici comment rejoindre les plus reculés sans passer par un groupe."
 seo:
   metaTitle: "Hôtels isolés en Islande : y aller seul | StayAtNiche"
   metaDescription: "Rejoindre seul les hôtels les plus isolés d'Islande : vols, location de voiture, conduite en hiver et les adresses insolites loin de la route circulaire."
@@ -21,7 +21,7 @@ Le point de départ est l'aéroport international de Keflavík (KEF), à 50 kilo
 
 L'astuce pour les vols vers l'Islande : **l'intersaison est le secret**. Mai et début juin offrent presque autant de lumière que juillet, avec beaucoup moins de monde et des prix nettement plus bas. Octobre associe les couleurs d'automne (oui, l'Islande a une saison des feuillages courte mais superbe dans les fjords de l'Ouest et autour du lac Mývatn) aux premières aurores d'envergure. Ces deux périodes offrent régulièrement des vols à 50-60 % des prix de la haute saison de juillet.
 
-Cherchez vos vols avec des dates flexibles : les calendriers de prix simplifient l'organisation d'un voyage en intersaison.
+Cherchez vos vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Iceland/anytime/anytime) : sa recherche à dates flexibles affiche des calendriers de prix qui simplifient l'organisation d'un voyage en intersaison. [Aviasales](https://www.aviasales.com/search/to/iceland) agrège les mêmes liaisons, avec des tarifs parfois différents.
 
 **Une tactique méconnue :** arriver à l'aéroport intérieur de Reykjavík (RVK) depuis Copenhague, Londres ou Édimbourg via des vols charters islandais peut faire économiser une somme importante si votre itinéraire commence loin des environs immédiats de Keflavík.
 
@@ -31,7 +31,7 @@ Cherchez vos vols avec des dates flexibles : les calendriers de prix simplifie
 
 Keflavík est à 50 km de Reykjavík. Le Flybus relie l'aéroport à la gare routière de Mjódd, dans la banlieue est (45 minutes, avec correspondance vers les hôtels du centre), mais si vous prenez une voiture de location dès l'arrivée, ce que devraient faire la plupart des voyageurs en autotour, les comptoirs de location sont à l'aéroport. Ne payez pas un Flybus dont vous n'avez pas besoin.
 
-Si vous arrivez tard et ne récupérez votre voiture que le lendemain matin, réservez un transfert privé plutôt que de payer un taxi d'aéroport hors de prix. [Klook](https://www.klook.com/en-US/search-results/?query=Reykjavik%20airport%20transfer) dessert Keflavík de façon fiable, à prix fixe, pour moins cher que la station de taxis.
+Si vous arrivez tard et ne récupérez votre voiture que le lendemain matin, réservez un transfert privé plutôt que de payer un taxi d'aéroport hors de prix. [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Reykjavik) et [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Reykjavik) desservent tous deux Keflavík de façon fiable, à prix fixe, pour moins cher que la station de taxis.
 
 Une option réellement utile : les transferts qui s'arrêtent au Blue Lagoon en route vers Reykjavík. Si vous avez réservé un créneau au Blue Lagoon (réservez en ligne des mois à l'avance, il affiche complet), le détour de 20 minutes depuis l'aéroport en fait l'arrivée la plus efficace pour une baignade au Blue Lagoon un dimanche soir avant d'attaquer votre itinéraire.
 
@@ -45,8 +45,9 @@ Presque tout ce qui vaut le détour en Islande exige un véhicule. Mais pas n'im
 
 Le marché de la location en Islande est concurrentiel, mais la qualité varie beaucoup en entrée de gamme. La meilleure approche :
 
-1. **Comparez les loueurs sur [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20car%20rental)** : les loueurs islandais locaux sont souvent 20 à 30 % moins chers que les grandes marques internationales pour des 4x4 équivalents.
-2. **Choisissez une grande marque internationale** si vous préférez la sécurité d'un nom connu.
+1. **Comparez sur [Localrent](https://localrent.com/en/?location=Iceland)** : cette plateforme est spécialisée dans les loueurs islandais locaux, souvent 20 à 30 % moins chers que les grandes marques internationales pour des 4x4 équivalents.
+2. **Consultez [QEEQ](https://www.qeeq.com/search?q=Iceland)** pour comparer plusieurs loueurs.
+3. **Réservez via [AutoEurope](https://www.autoeurope.eu/)** si vous préférez la sécurité d'une grande marque internationale.
 
 **Réservez longtemps à l'avance pour l'été.** Le marché islandais de la location de 4x4 est réellement tendu en juillet-août ; arriver sans réservation en espérant trouver un véhicule adapté relève de l'optimisme.
 
@@ -93,7 +94,7 @@ La réputation de la conduite hivernale en Islande est en partie exagérée et e
 
 Le réseau mobile islandais couvre la route circulaire et la majeure partie du sud et de l'ouest. L'intérieur des fjords de l'Ouest et certaines parties des hautes terres n'ont aucun signal.
 
-Une eSIM islandaise de [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20eSIM), en général un forfait de 10 Go à partir de 15 à 18 $ environ, se connecte aux réseaux de Síminn et de Nova sans carte SIM physique. Achetez-la avant le départ et activez-la à l'arrivée : elle fonctionne en quelques minutes. Plus besoin de routeur Wi-Fi de poche ni d'un forfait d'itinérance qui vous facturerait chaque jour plus cher que l'eSIM.
+Une eSIM islandaise d'[Airalo](https://www.airalo.com), en général un forfait de 10 Go à partir de 15 à 18 $ environ, se connecte aux réseaux de Síminn et de Nova sans carte SIM physique. Achetez-la avant le départ et activez-la à l'arrivée : elle fonctionne en quelques minutes. Plus besoin de routeur Wi-Fi de poche ni d'un forfait d'itinérance qui vous facturerait chaque jour plus cher que l'eSIM.
 
 Dans les lodges isolés sans signal, la plupart des établissements disposent du Wi-Fi (souvent par satellite). Téléchargez les cartes hors ligne de tout votre itinéraire islandais avant de quitter Reykjavík.
 
@@ -104,7 +105,7 @@ Dans les lodges isolés sans signal, la plupart des établissements disposent du
 La conduite sur les pistes F, la randonnée sur glacier et l'exposition générale des hébergements isolés en Islande exigent une vraie assurance voyage. Deux points à vérifier :
 
 1. **La couverture de la conduite hors route :** certaines polices standard et certaines garanties des loueurs excluent les dommages sur les pistes F. Pour une tranquillité totale, souscrivez auprès de votre loueur la protection sable et cendres (SAAP) ou la Super Collision Damage Waiver (SCDW), ou vérifiez que l'assurance location de votre carte bancaire couvre spécifiquement les conditions islandaises.
-2. **La couverture recherche et sauvetage :** l'ICE-SAR (Iceann Search and Rescue), le service islandais de recherche et de sauvetage, est gratuit, mais une évacuation médicale depuis un lieu isolé a un coût. Vérifiez que votre contrat couvre les activités d'aventure, randonnée sur glacier comprise.
+2. **La couverture recherche et sauvetage :** l'ICE-SAR (Iceann Search and Rescue), le service islandais de recherche et de sauvetage, est gratuit, mais une évacuation médicale depuis un lieu isolé a un coût. Un contrat proposé par [EKTA](https://ektatraveling.com/) est une option ; vérifiez qu'il couvre l'évacuation médicale et les activités d'aventure, randonnée sur glacier comprise.
 
 ---
 
@@ -112,11 +113,11 @@ La conduite sur les pistes F, la randonnée sur glacier et l'exposition généra
 
 Un ordre logique pour un autotour en Islande qui passe par les hébergements isolés :
 
-1. **Vols :** réservez 3 à 4 mois à l'avance pour l'intersaison ; plus de 6 mois pour juillet.
-2. **Location de voiture :** réservez en même temps que les vols. Comparez les 4x4 économiques et les grandes marques internationales (pour une couverture d'assurance plus rassurante) sur [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20car%20rental).
-3. **eSIM :** achetez une eSIM islandaise sur [Klook](https://www.klook.com/en-US/search-results/?query=Iceland%20eSIM) et installez-la sur votre téléphone.
+1. **Vols :** réservez 3 à 4 mois à l'avance pour l'intersaison ; plus de 6 mois pour juillet. Cherchez sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Iceland/anytime/anytime).
+2. **Location de voiture :** réservez en même temps que les vols. [Localrent](https://localrent.com/en/?location=Iceland) pour les 4x4 économiques ; les grandes marques internationales via [QEEQ](https://www.qeeq.com/search?q=Iceland) pour une couverture d'assurance plus rassurante.
+3. **eSIM :** achetez une eSIM islandaise [Airalo](https://www.airalo.com) et installez-la sur votre téléphone.
 4. **Lodges isolés :** réservez en direct. La plupart des petits établissements islandais ne sont pas présents sur les plateformes de réservation et se remplissent par réservation directe par e-mail.
 5. **Blue Lagoon :** réservez en ligne à l'avance, il affiche vraiment complet.
-6. **Assurance voyage :** une couverture de base ; vérifiez à part la couverture du véhicule sur les pistes F.
+6. **Assurance voyage :** [EKTA](https://ektatraveling.com/) comme base ; vérifiez à part la couverture du véhicule sur les pistes F.
 
 La formule que la plupart des voyageurs découvrent lors de leur deuxième séjour en Islande : moins de nuits à Reykjavík, plus de nuits ailleurs. La capitale mérite deux nuits. La côte sud, la péninsule de Snæfellsnes et le nord méritent tout le reste du temps dont vous disposez.

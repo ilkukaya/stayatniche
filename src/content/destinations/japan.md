@@ -45,20 +45,20 @@ This mobility changes what is possible. Kyoto, Nara, Osaka, Kobe, and Hiroshima 
 
 ## Getting There
 
-**Flights:** Tokyo's Narita (NRT) and Haneda (HND) airports are the main international gateways, with Haneda now handling more international routes and sitting closer to central Tokyo. Osaka's Kansai International (KIX) is the better entry point for Kyoto, Hiroshima, and western Japan. Fukuoka (FUK) and Sapporo (CTS) serve those regional hubs.
+**Flights:** Tokyo's Narita (NRT) and Haneda (HND) airports are the main international gateways, with Haneda now handling more international routes and sitting closer to central Tokyo. Osaka's Kansai International (KIX) is the better entry point for Kyoto, Hiroshima, and western Japan. Fukuoka (FUK) and Sapporo (CTS) serve those regional hubs. Search and compare flights to Japan on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) or [Aviasales](https://www.aviasales.com/search/to/japan).
 
-**Airport Transfer:** Tokyo's Narita Express (N'EX) connects directly to Shinjuku, Shibuya, and Yokohama in approximately 60–90 minutes. Haneda's monorail reaches Hamamatsuchō in 14 minutes. For private transfers — useful if arriving late or with heavy luggage — book through [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer).
+**Airport Transfer:** Tokyo's Narita Express (N'EX) connects directly to Shinjuku, Shibuya, and Yokohama in approximately 60–90 minutes. Haneda's monorail reaches Hamamatsuchō in 14 minutes. For private transfers — useful if arriving late or with heavy luggage — book through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo).
 
 ## Getting Around
 
-**Rail:** The Japan Rail Pass is the standard approach for multi-city travel, covering Shinkansen and most JR services. Purchase before arrival through a travel agent or online. Within cities, the subway networks are comprehensive; IC cards (Suica or Pasmo) work on all transit. Car rental is most relevant in Hokkaido and rural areas not served by rail; compare rates on [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20car%20rental).
+**Rail:** The Japan Rail Pass is the standard approach for multi-city travel, covering Shinkansen and most JR services. Purchase before arrival through a travel agent or online. Within cities, the subway networks are comprehensive; IC cards (Suica or Pasmo) work on all transit. Car rental is most relevant in Hokkaido and rural areas not served by rail; compare rates on [QEEQ](https://www.qeeq.com/search?q=Japan) or [EconomyBookings](https://www.economybookings.com/?location=Japan).
 
 ## Tours & Experiences
 
-Book guided day trips, cultural experiences, and Fuji excursions through [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Specialist ryokan tea ceremony experiences and sake brewery tours are particularly well represented. Traditional cooking classes, sumo morning practice tours, and Noh theatre tickets are on offer too.
+Book guided day trips, cultural experiences, and Fuji excursions through [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Specialist ryokan tea ceremony experiences and sake brewery tours are particularly well represented. Traditional cooking classes, sumo morning practice tours, and Noh theatre tickets are available through [WeGoTrip](https://wegotrip.com/destinations/japan/).
 
 ## Travel Essentials
 
-**eSIM:** Japan's mobile network coverage is excellent. Purchase a Japan eSIM before departure from [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM) (affordable data plans). Physical pocket WiFi rentals are available at airports but eSIM is simpler.
+**eSIM:** Japan's mobile network coverage is excellent. Purchase a Japan eSIM before departure from [Airalo](https://www.airalo.com) (affordable data plans from ¥1,500). Physical pocket WiFi rentals are available at airports but eSIM is simpler.
 
-**Travel Insurance:** Essential for Japan given the high cost of medical care. Arrange short-term cover that includes medical costs and trip cancellation; compare specialist travel policies at standard comparison sites.
+**Travel Insurance:** Essential for Japan given the high cost of medical care. Check that the policy covers medical care and your planned activities; [EKTA](https://ektatraveling.com/) is one option, and you can compare specialist travel policies at standard comparison sites.

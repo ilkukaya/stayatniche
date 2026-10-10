@@ -47,22 +47,22 @@ Kigali International Airport heeft inmiddels rechtstreekse vluchten vanuit Bruss
 
 ## Erheen reizen
 
-**Vluchten:** Kigali International Airport (KGL) heeft rechtstreekse vluchten vanuit Brussel (RwandAir en Brussels Airlines), Londen Gatwick, Nairobi, Addis Abeba, Dubai en Johannesburg. Qatar Airways en Kenya Airways verzorgen via hun knooppunten verbindingen vanuit Azië, Amerika en de rest van Afrika. Vergelijk prijzen en boek vluchten op tijd.
+**Vluchten:** Kigali International Airport (KGL) heeft rechtstreekse vluchten vanuit Brussel (RwandAir en Brussels Airlines), Londen Gatwick, Nairobi, Addis Abeba, Dubai en Johannesburg. Qatar Airways en Kenya Airways verzorgen via hun knooppunten verbindingen vanuit Azië, Amerika en de rest van Afrika. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Rwanda/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/rwanda).
 
-**Luchthaventransfer:** Het vliegveld van Kigali ligt op 12 km van het centrum. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Kigali%20airport%20transfer). De meeste lodges bij Volcanoes National Park regelen ophalen op het vliegveld, zodat je minder tijd kwijt bent aan reizen over land.
+**Luchthaventransfer:** Het vliegveld van Kigali ligt op 12 km van het centrum. Boek een privétransfer via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kigali) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kigali). De meeste lodges bij Volcanoes National Park regelen ophalen op het vliegveld, zodat je minder tijd kwijt bent aan reizen over land.
 
 ## Ter plaatse reizen
 
-**Huurauto met chauffeur:** De gebruikelijke manier om door Rwanda te reizen. De wegen zijn naar regionale maatstaven uitstekend: van Kigali naar Volcanoes National Park is 2,5 uur, naar het Nyungwewoud 4 uur, naar Akagera 2,5 uur. Vergelijk tarieven voor zelf rijden op [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20car%20rental), maar in de parkgebieden, waar lokale kennis telt, is een chauffeur aan te raden.
+**Huurauto met chauffeur:** De gebruikelijke manier om door Rwanda te reizen. De wegen zijn naar regionale maatstaven uitstekend: van Kigali naar Volcanoes National Park is 2,5 uur, naar het Nyungwewoud 4 uur, naar Akagera 2,5 uur. Vergelijk tarieven voor zelf rijden op [QEEQ](https://www.qeeq.com/search?q=Rwanda), maar in de parkgebieden, waar lokale kennis telt, is een chauffeur aan te raden.
 
 **Brommertaxi's (moto's):** Het alomtegenwoordige vervoer in Kigali – veilig, snel en goedkoop. Een goedgekeurde helm is verplicht en wordt verstrekt.
 
 ## Tours en belevenissen
 
-Boek gorillavergunningen (beheerd door de Rwanda Development Board, $ 1.500 per persoon), tochten naar de goudapen, chimpanseehabituatie in Nyungwe en rondleidingen bij het genocidemonument in Kigali via [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Een ballonvaart boven de duizend heuvels van Rwanda is een buitengewone aanvulling. Culturele belevenissen en bezoeken aan lokale markten boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20cultural%20experience).
+Boek gorillavergunningen (beheerd door de Rwanda Development Board, $ 1.500 per persoon), tochten naar de goudapen, chimpanseehabituatie in Nyungwe en rondleidingen bij het genocidemonument in Kigali via [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Een ballonvaart boven de duizend heuvels van Rwanda is een buitengewone aanvulling. Culturele belevenissen en bezoeken aan lokale markten boek je via [WeGoTrip](https://wegotrip.com/destinations/rwanda/).
 
 ## Praktische zaken
 
-**eSIM:** Regel een Rwandese eSIM via [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM). MTN Rwanda heeft de beste dekking, ook in de parkgebieden van Volcanoes en Nyungwe. Lodges hebben vaak wifi via satelliet.
+**eSIM:** Regel een Rwandese eSIM via [Airalo](https://www.airalo.com). MTN Rwanda heeft de beste dekking, ook in de parkgebieden van Volcanoes en Nyungwe. Lodges hebben vaak wifi via satelliet.
 
-**Reisverzekering:** Bij afgelegen lodges is medische evacuatie naar Nairobi of Johannesburg het relevante risico. Zorg dat je polis evacuatie omvat en gorillatrekking als avontuurlijke activiteit dekt.
+**Reisverzekering:** Bij afgelegen lodges is medische evacuatie naar Nairobi of Johannesburg het relevante risico. Controleer of de polis medische evacuatie en gorillatrekking als avontuurlijke activiteit dekt; [EKTA](https://ektatraveling.com/) is een optie om te vergelijken.
