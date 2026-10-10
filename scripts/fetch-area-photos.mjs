@@ -1,7 +1,7 @@
 /**
  * Real photos for stays that have none, from Wikimedia Commons (free licences only).
  *
- * For each hotel without its own photo (public/images/**/<slug>.*):
+ * For each hotel without its own photo (any public/images/ file named <slug>):
  *   1. Commons file search for the hotel's name. A file counts as a photo OF the hotel only if its
  *      title contains every distinctive word of the name and (when the file is geotagged) it was
  *      taken within 3 km. Saved as public/images/hotels/<slug>.webp, credit key "<slug>".
