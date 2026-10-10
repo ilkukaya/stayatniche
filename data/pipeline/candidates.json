@@ -1615,7 +1615,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -1641,7 +1641,9 @@
    "reason": "Hotel explicitly housed in a medieval castle, so the castle niche applies to the whole property.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:46.165Z"
  },
  "osm:node/10146928535": {
   "id": "osm:node/10146928535",
@@ -4088,7 +4090,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Marche",
@@ -4114,7 +4116,9 @@
    "reason": "Agriturismo named Castello in a fortified stone hamlet with a tower; the castle link is name plus tower, so confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:26.698Z"
  },
  "osm:node/10677660945": {
   "id": "osm:node/10677660945",
@@ -6105,7 +6109,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Lazio",
@@ -6131,7 +6135,9 @@
    "reason": "Albergo diffuso housed in a historic castle and village; rooms sit in castle towers and walls.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:00.335Z"
  },
  "osm:node/10845866398": {
   "id": "osm:node/10845866398",
@@ -19431,7 +19437,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -19457,7 +19463,9 @@
    "reason": "Hotel in Verduno with rooms in the historic castle wing; the other rooms are in annexes, so only some units fit.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:11.217Z"
  },
  "osm:node/12346195343": {
   "id": "osm:node/12346195343",
@@ -23084,7 +23092,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -23110,7 +23118,9 @@
    "reason": "Hotel located inside the walls of a castle on a hilltop, so the castle niche covers the whole property.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:02.917Z"
  },
  "osm:node/12729562336": {
   "id": "osm:node/12729562336",
@@ -35067,7 +35077,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Tuscany",
@@ -35093,7 +35103,9 @@
    "reason": "Agriturismo whose castle houses rooms, pool and restaurant; the 12 rooms are described as part of the estate, so confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:28.729Z"
  },
  "osm:node/13911485634": {
   "id": "osm:node/13911485634",
@@ -43096,7 +43108,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Liguria",
@@ -43122,7 +43134,9 @@
    "reason": "The official home page says guests stay in an ancient castle that kept its architectural structure, so the whole property is a castle stay.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:05.135Z"
  },
  "osm:node/171910059": {
   "id": "osm:node/171910059",
@@ -51796,7 +51810,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Veneto",
@@ -51822,7 +51836,9 @@
    "reason": "The hotel occupies a 17th-century palace, which fits the palace wording of the castle-hotel category; the name alone was not used, but the confidence is moderate because the palace is a town building.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:30.929Z"
  },
  "osm:node/2453298270": {
   "id": "osm:node/2453298270",
@@ -57160,7 +57176,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Trentino – Alto Adige/Südtirol",
@@ -57186,7 +57202,9 @@
    "reason": "The site says rooms are in the castle or in the residence, and the castle suites are castle rooms, so only some units are niche.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:15.984Z"
  },
  "osm:node/2874004563": {
   "id": "osm:node/2874004563",
@@ -59266,7 +59284,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Trentino – Alto Adige/Südtirol",
@@ -59292,7 +59310,9 @@
    "reason": "The official site describes a medieval castle converted into a hotel, with guest rooms in its towers and palas, so the whole property is a castle stay.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:57.551Z"
  },
  "osm:node/3047683005": {
   "id": "osm:node/3047683005",
@@ -79380,7 +79400,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Liguria",
@@ -79395,7 +79415,9 @@
    "snippet": "Home Agriturismo Il Mulino del Castello - Garlenda  Home This sites uses the cookies with the aim to increase the navigation of the website and to increase the quality of the presentatio. The website uses third party cookies of Google, Facebook and Youtube. The data are collected by our company in full anonimity and in any case they will be analysed in aggregated form only. Clic"
   },
   "checkedAt": "2026-10-03",
-  "reasons": [],
+  "reasons": [
+   "reviewer: rejected on review page"
+  ],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -79406,7 +79428,8 @@
    "reason": "Agriturismo with apartments; the site describes restoring an old watermill, but it does not say guests sleep inside it. The only dated offer on the page is from 2024, so current operation is unconfirmed.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "reviewedAt": "2026-10-10T07:35:36.938Z"
  },
  "osm:node/4338182996": {
   "id": "osm:node/4338182996",
@@ -94441,7 +94464,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Abruzzo",
@@ -94467,7 +94490,9 @@
    "reason": "The whole hotel is a historic castle with 45 rooms designed within its architecture; the site is live with current offers.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:51.197Z"
  },
  "osm:node/5232529960": {
   "id": "osm:node/5232529960",
@@ -102269,7 +102294,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "hotel in Guarene, Italy",
@@ -102297,7 +102322,9 @@
    "reason": "The whole hotel is a historic baroque castle with twelve rooms, and the site is live with current booking options.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:44.033Z"
  },
  "osm:node/5735330626": {
   "id": "osm:node/5735330626",
@@ -109490,7 +109517,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Friuli – Venezia Giulia",
@@ -109516,7 +109543,9 @@
    "reason": "Rooms are in the ancient manor of the castle complex and in a modern wellness wing, so only some units fit the castle niche; the site is live.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:23.899Z"
  },
  "osm:node/6325889708": {
   "id": "osm:node/6325889708",
@@ -111759,7 +111788,7 @@
    "tourism": "apartment"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Trentino – Alto Adige/Südtirol",
@@ -111785,7 +111814,9 @@
    "reason": "The stay is an apartment inside a restored castle-style hunting lodge; the site also lists Residenza delle Contesse and Torre del Baron, whose location in the castle is not stated.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:18.831Z"
  },
  "osm:node/6505457489": {
   "id": "osm:node/6505457489",
@@ -118350,7 +118381,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Piedmont",
@@ -118376,7 +118407,9 @@
    "reason": "A guest house built within the medieval walls of Cremolino castle, with three rooms; the site describes its rooms and booking directly.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:07.383Z"
  },
  "osm:node/7139345982": {
   "id": "osm:node/7139345982",
@@ -126514,7 +126547,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Tuscany",
@@ -126540,7 +126573,9 @@
    "reason": "The whole fortified borgo is the castle, with rooms and apartments inside the medieval walls; the site is live. The estate size differs between the homepage (500 ha) and FAQ (600 ha).",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:13.267Z"
  },
  "osm:node/8532227410": {
   "id": "osm:node/8532227410",
@@ -127917,7 +127952,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Umbria",
@@ -127943,7 +127978,9 @@
    "reason": "The site describes a castle from 1266 with guest rooms that have thick walls and beamed ceilings; the rooms are presented as part of the castle property.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:34:21.414Z"
  },
  "osm:node/8807075768": {
   "id": "osm:node/8807075768",
@@ -138932,7 +138969,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Abruzzo",
@@ -138958,7 +138995,9 @@
    "reason": "The site describes a scattered village hotel; the castle appears only in the village name, so no castle building is evidenced.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:35:15.046Z"
  },
  "osm:relation/11752434": {
   "id": "osm:relation/11752434",
@@ -139780,7 +139819,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed quadrangular castle in County Durham, England, UK",
@@ -139797,9 +139836,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -139810,7 +139847,9 @@
    "reason": "Wikipedia states the 14th-century castle is currently a hotel; the operator site returned 403, so there is no page evidence.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:30:07.537Z"
  },
  "osm:relation/14769948": {
   "id": "osm:relation/14769948",
@@ -140197,7 +140236,7 @@
    "tourism": "hostel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Grade I listed castle in Forest of Dean, United Kingdom",
@@ -140214,9 +140253,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -140227,7 +140264,9 @@
    "reason": "OSM tags it a hostel and Wikipedia describes the castle, but the site fetch failed and no evidence says guests sleep inside the castle.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:28.800Z"
  },
  "osm:relation/18794909": {
   "id": "osm:relation/18794909",
@@ -161170,7 +161209,7 @@
    "tourism": "camp_site"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "Northern Ireland",
@@ -161196,7 +161235,9 @@
    "reason": "The pods are glamping units, but the Barbican Gate gatehouse on the same estate is a castle building stay, so the castle category fits some units only.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:23.168Z"
  },
  "osm:way/1413182458": {
   "id": "osm:way/1413182458",
@@ -167760,7 +167801,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "region": "England",
@@ -167786,7 +167827,9 @@
    "reason": "The castle is a real stay, but it is offered as a perk of a language school course, so the business is a school with castle accommodation; confidence is moderate.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:17.352Z"
  },
  "osm:way/155166582": {
   "id": "osm:way/155166582",
@@ -176943,7 +176986,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "hotel in Barmouth, United Kingdom",
@@ -176956,9 +176999,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "accepted",
@@ -176969,7 +177010,9 @@
    "reason": "The site repeatedly calls the building a castle and describes 11 guest rooms in it, a clear castle-hotel case.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:30:01.225Z"
  },
  "osm:way/227365477": {
   "id": "osm:way/227365477",
@@ -178062,7 +178105,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Argyll and Bute, Scotland, UK",
@@ -178079,9 +178122,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -178092,7 +178133,9 @@
    "reason": "OSM tags say guest house and castle, but the website returned 403 and no page text describes guest rooms, so the niche is unclear.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:30.783Z"
  },
  "osm:way/232134839": {
   "id": "osm:way/232134839",
@@ -181394,7 +181437,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Highland, Scotland, UK",
@@ -181408,9 +181451,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -181421,7 +181462,9 @@
    "reason": "OSM tags say guest house and castle, but the website fetch failed and no page text is available, so the stay is unconfirmed.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:34.684Z"
  },
  "osm:way/254707509": {
   "id": "osm:way/254707509",
@@ -181472,7 +181515,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle",
@@ -181500,7 +181543,9 @@
    "reason": "Site is in Italian and states the 18 rooms are inside a medieval castle, a clear castle-hotel case.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:39.368Z"
  },
  "osm:way/255222031": {
   "id": "osm:way/255222031",
@@ -184930,7 +184975,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": null,
@@ -184958,7 +185003,9 @@
    "reason": "Site is in Italian and says the castle offers 18 rooms and suites; online booking is said to be temporarily unavailable, which is not a closure.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:53.982Z"
  },
  "osm:way/279194604": {
   "id": "osm:way/279194604",
@@ -185450,7 +185497,7 @@
    "stars": "4"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Barcaldine, Scotland",
@@ -185467,9 +185514,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -185480,7 +185525,9 @@
    "reason": "OSM tags say guest house and castle, but the website returned empty pages, so no rooms or stay are confirmed.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:32.850Z"
  },
  "osm:way/282764419": {
   "id": "osm:way/282764419",
@@ -201249,7 +201296,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "rejected",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "tower in Tawstock, North Devon, England, UK",
@@ -201260,7 +201307,7 @@
   "evidence": null,
   "checkedAt": "2026-10-02",
   "reasons": [
-   "no category evidence on official website"
+   "reviewer: rejected on review page"
   ],
   "lastEvidence": "2026-10-09",
   "haiku": {
@@ -201272,7 +201319,8 @@
    "reason": "Wikipedia describes an 18th-century folly tower rather than a castle; the only hotel evidence is an OSM tag and no website is known.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "reviewedAt": "2026-10-10T07:35:49.880Z"
  },
  "osm:way/418024840": {
   "id": "osm:way/418024840",
@@ -215561,7 +215609,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in Fife, Scotland, UK",
@@ -215570,9 +215618,7 @@
   "score": 5,
   "evidence": null,
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -215583,7 +215629,9 @@
    "reason": "Wikipedia says the castle is run with lodging, but there is no website or page text, so it is unclear whether guests sleep inside the castle.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:25.119Z"
  },
  "osm:way/608275728": {
   "id": "osm:way/608275728",
@@ -221434,7 +221482,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "fortress on St Mary's, Isles of Scilly",
@@ -221448,9 +221496,7 @@
    "snippet": null
   },
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -221461,7 +221507,9 @@
    "reason": "The site says the 38-room hotel has castle rooms in a 1593 fortress alongside garden cottage rooms, so only some units are castle rooms; bookings are open.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:30:05.179Z"
  },
  "osm:way/725980935": {
   "id": "osm:way/725980935",
@@ -221887,7 +221935,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "ruinous moated fortified 16th century manor house in North Warwickshire, England, UK",
@@ -221897,9 +221945,7 @@
   "score": 5,
   "evidence": null,
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -221910,7 +221956,9 @@
    "reason": "Wikipedia says a moated fortified manor house reopened as a holiday let; no page text confirms the current operating status or the stay itself.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:19.484Z"
  },
  "osm:way/737465374": {
   "id": "osm:way/737465374",
@@ -223575,7 +223623,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "castle in County Antrim, Northern Ireland",
@@ -223585,9 +223633,7 @@
   "score": 5,
   "evidence": null,
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -223598,7 +223644,9 @@
    "reason": "Wikipedia says the castle is now run as a hotel; the home page text is empty, so current status and room details are unconfirmed.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:12.784Z"
  },
  "osm:way/773578903": {
   "id": "osm:way/773578903",
@@ -226843,7 +226891,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": null,
@@ -226871,7 +226919,9 @@
    "reason": "The official site describes suites inside the castle building, so the stay itself is the castle niche, and the site is live with booking prompts.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:41.785Z"
  },
  "osm:way/838811908": {
   "id": "osm:way/838811908",
@@ -231678,7 +231728,7 @@
    "historic": "castle"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "description": "Castles in Oviglio",
@@ -231706,7 +231756,9 @@
    "reason": "The official site describes nine rooms and suites in the castle building, and the site shows current booking options and copyright to 2025.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:48.897Z"
  },
  "osm:way/949490862": {
   "id": "osm:way/949490862",
@@ -246146,7 +246198,7 @@
   "city": "Argyll and Bute",
   "description": "country house, now hotel, in Argyll and Bute, Scotland, UK",
   "source": "wikidata",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-10-02",
   "lastSeen": "2026-10-09",
   "duplicateOf": "osm:way/294779425",
@@ -246156,9 +246208,7 @@
   "score": 5,
   "evidence": null,
   "checkedAt": "2026-10-02",
-  "reasons": [
-   "no category evidence on official website"
-  ],
+  "reasons": [],
   "lastEvidence": "2026-10-09",
   "haiku": {
    "verdict": "needs_review",
@@ -246169,7 +246219,9 @@
    "reason": "The Wikipedia summary says this castle-named Scottish baronial house has been used as a hotel since 1950, but no current website or status was available.",
    "file": "data/pipeline/decisions/2026-10-09/checked.json",
    "decidedAt": "2026-10-09"
-  }
+  },
+  "finalCategory": "castle-hotels",
+  "reviewedAt": "2026-10-10T07:33:15.119Z"
  },
  "wd:Q7903424": {
   "id": "wd:Q7903424",
