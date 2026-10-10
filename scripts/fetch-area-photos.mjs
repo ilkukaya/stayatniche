@@ -62,6 +62,9 @@ const hotels = readdirSync('src/content/hotels').filter(f => f.endsWith('.md')).
 }).filter(h => (!ONLY || ONLY.includes(h.slug)) && h.category !== 'train-hotels');
 
 const usedFiles = new Set(Object.values(credits).map(c => c.source));
+// Files rejected on visual review are never picked again.
+const BLOCK = 'data/photo-blocklist.json';
+for (const f of existsSync(BLOCK) ? JSON.parse(readFileSync(BLOCK, 'utf8')).files : []) usedFiles.add(f);
 
 // ── File metadata, 50 titles per request ────────────────────────────────────
 async function fileInfo(titles) {
@@ -88,7 +91,7 @@ async function fileInfo(titles) {
 
 const licenseOk = (f) => OK_LICENSE.test(f.license) && !/\b(nc|nd)\b/i.test(f.license.replace(/^cc0/i, ''));
 const photoOk = (f) => /jpeg/.test(f.mime) && f.w >= 1400 && f.h >= 850 && f.w / f.h >= 1.2 && f.w / f.h <= 2.4 && licenseOk(f) && !/personality/.test(f.restrict);
-const BAD = /\b(maps?|karte|plan|plans|logo|logos|signs?|signage|schild|diagram|coat of arms|flags?|menu|ticket|stamps?|posters?|inscriptions?|plaques?|graves?|tombs?|portraits?|selfies?|interiors?|toilets?|bathrooms?|cars?|buses|bus|trucks?|vehicles?|license plates?|construction|people|men|women|children|crowd|food|dishes|cuisine|meals?|drinks?|animals in|dogs?|cats?|insects?|birds of|flowers of|documents?|screenshots?|aerial photographs? of airports?|night sky|astronomy|street art|graffiti|advertis\w*|shops?|stores?|supermarkets?|petrol|gas stations?|parking)\b/i;
+const BAD = /\b(maps?|karte|plan|plans|logo|logos|signs?|signage|schild|diagram|coat of arms|flags?|menu|ticket|stamps?|posters?|inscriptions?|plaques?|graves?|tombs?|portraits?|selfies?|interiors?|toilets?|bathrooms?|cars?|buses|bus|trucks?|vehicles?|license plates?|construction|people|men|women|children|crowd|food|dishes|cuisine|meals?|drinks?|animals in|dogs?|cats?|insects?|birds of|flowers of|documents?|screenshots?|weddings?|brides?|meetings?|conferences?|press|books?|bookcases?|library|breakfast|buffet|iss\d{3}|astronauts?|international space station|satellite|landsat|sentinel-?\d|from space|earth observation|aerial photographs? of airports?|night sky|astronomy|street art|graffiti|advertis\w*|shops?|stores?|supermarkets?|petrol|gas stations?|parking)\b/i;
 const SCENIC = /\b(view|panorama|panoramic|landscape|aerial|sunset|sunrise|valley|castle|beach|coast|bay|lake|mountains?|village|town|cliffs?|lagoon|island|chimneys?|desert|forest|river|harbou?r|canyon|fjord|waterfall|glacier|dunes?|savann?a|rainforest|vineyards?|hills?|countryside|old town|skyline|loch|gorge)\b/i;
 
 function score(f, h) {
@@ -101,10 +104,16 @@ function score(f, h) {
   return { s, d };
 }
 
+// Download, reject dark or flat (hazy, fog, night) pictures, then save as webp. Returns false if rejected.
 async function save(f, file) {
   const buf = Buffer.from(await (await get(f.url)).arrayBuffer());
+  const { channels } = await sharp(buf).resize(200).stats();
+  const mean = channels.slice(0, 3).reduce((a, c) => a + c.mean, 0) / 3;
+  const sd = channels.slice(0, 3).reduce((a, c) => a + c.stdev, 0) / 3;
+  if (mean < 75 || sd < 38) { console.log(`  skip ${f.title} (brightness ${mean.toFixed(0)}, contrast ${sd.toFixed(0)})`); usedFiles.add(f.page); return false; }
   mkdirSync(file.replace(/\/[^/]+$/, ''), { recursive: true });
   await sharp(buf).rotate().resize(1600, 1067, { fit: 'cover', withoutEnlargement: true }).webp({ quality: 80 }).toFile(file);
+  return true;
 }
 const credit = (f, h, extra) => ({
   author: f.author, license: f.license, licenseUrl: f.licenseUrl, source: f.page, title: f.title.replace(/^File:/, ''),
@@ -115,14 +124,17 @@ const credit = (f, h, extra) => ({
 const GENERIC = new Set(['the', 'hotel', 'hotels', 'resort', 'spa', 'and', 'by', 'suites', 'suite', 'boutique', 'collection', 'de', 'la', 'le', 'el', 'del', 'di', 'at', 'of', 'a', 'an', 'luxury', 'otel', 'hotell', 'relais', 'chateaux']);
 async function ownHotelPhoto(h) {
   const need = words(h.name).filter(w => !GENERIC.has(w) && w.length > 1);
-  if (!need.length || (need.length === 1 && need[0].length < 6)) return null;
+  if (!need.length || (need.length === 1 && need[0].length < 6)) return [];
   const r = await api(`action=query&list=search&srnamespace=6&srlimit=20&srsearch=${encodeURIComponent(`${h.name} filetype:bitmap`)}`);
   const titles = (r.query?.search ?? []).map(x => x.title).filter(t => { const w = new Set(words(t)); return need.every(n => w.has(n)); });
-  if (!titles.length) return null;
+  if (!titles.length) return [];
   const files = (await fileInfo(titles)).filter(f => photoOk(f) && !usedFiles.has(f.page) && !BAD.test(f.title));
-  const near = files.filter(f => f.lat == null ? need.length >= 2 : km(h.lat, h.lng, f.lat, f.lng) <= 3);
+  // The title must start with the name ("Nihi Sumba.jpg", not "Breakfast buffet at Nihi Sumba.jpg"),
+  // and a geotagged file must have been taken within 3 km.
+  const starts = (f) => { const w = words(f.title.replace(/^File:/, '')).filter(x => !/^\d+$/.test(x) && !GENERIC.has(x)); return need.every((n, i) => w[i] === n); };
+  const near = files.filter(f => starts(f) && (f.lat == null || km(h.lat, h.lng, f.lat, f.lng) <= 3));
   near.sort((a, b) => score(b, h).s - score(a, h).s);
-  return near[0] ?? null;
+  return near;
 }
 
 // ── 2. The best photo of the surrounding area ───────────────────────────────
@@ -134,9 +146,9 @@ async function areaPhoto(h) {
     const files = (await fileInfo(titles.slice(0, 150)))
       .filter(f => photoOk(f) && !usedFiles.has(f.page) && !BAD.test(f.cats) && !BAD.test(f.desc));
     files.sort((a, b) => score(b, h).s - score(a, h).s);
-    if (files[0]) return files[0];
+    if (files.length) return files;
   }
-  return null;
+  return [];
 }
 
 let own = 0, area = 0, none = 0;
@@ -146,18 +158,17 @@ for (const h of hotels) {
   const hasArea = have.has(`${h.slug}--area`);
   if (hasOwn || (hasArea && !REDO)) continue;
   try {
-    const f = await ownHotelPhoto(h);
+    let f = null;
+    for (const c of (await ownHotelPhoto(h)).slice(0, 4)) if (await save(c, `public/images/hotels/${h.slug}.webp`)) { f = c; break; }
     if (f) {
-      await save(f, `public/images/hotels/${h.slug}.webp`);
       credits[h.slug] = credit(f, h, { kind: 'hotel', matched: h.name });
       if (hasArea) { unlinkSync(`public/images/area/${h.slug}--area.webp`); delete credits[`area:${h.slug}`]; }
       usedFiles.add(f.page); own++;
       console.log(`✓ hotel ${h.slug} ← ${f.title}`);
     } else {
-      const a = await areaPhoto(h);
+      let a = null;
+      for (const c of (await areaPhoto(h)).slice(0, 6)) if (await save(c, `public/images/area/${h.slug}--area.webp`)) { a = c; break; }
       if (!a) { none++; console.log(`– ${h.slug}: nothing usable nearby`); continue; }
-      if (hasArea) usedFiles.delete(credits[`area:${h.slug}`]?.source);
-      await save(a, `public/images/area/${h.slug}--area.webp`);
       credits[`area:${h.slug}`] = credit(a, h, { kind: 'area', place: h.destination.split(',')[0].trim() });
       usedFiles.add(a.page); area++;
       console.log(`✓ area  ${h.slug} ← ${a.title} (${credits[`area:${h.slug}`].distanceKm} km, ${a.assess || 'unassessed'})`);

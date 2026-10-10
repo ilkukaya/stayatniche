@@ -891,16 +891,6 @@
     "kind": "area",
     "place": "Göreme"
   },
-  "area:aerie-resort-washington": {
-    "author": "Matthew Anderson",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Parksunsetreflection_(141293419).jpeg",
-    "title": "Parksunsetreflection (141293419).jpeg",
-    "distanceKm": 0.9,
-    "kind": "area",
-    "place": "Chelan County"
-  },
   "area:aigle-des-neiges-france": {
     "author": "Melviniob",
     "license": "CC BY-SA 4.0",
@@ -950,26 +940,6 @@
     "distanceKm": 2.9,
     "kind": "area",
     "place": "Ranthambore"
-  },
-  "area:anantara-maldives-underwater": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS030-E-13099_-_View_of_Earth.jpg",
-    "title": "ISS030-E-13099 - View of Earth.jpg",
-    "distanceKm": 4.1,
-    "kind": "area",
-    "place": "Baa Atoll"
-  },
-  "area:anantara-sir-bani-yas-uae": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS047-E-2383_-_View_of_Earth.jpg",
-    "title": "ISS047-E-2383 - View of Earth.jpg",
-    "distanceKm": 2.5,
-    "kind": "area",
-    "place": "Sir Bani Yas Island"
   },
   "area:andbeyond-benguerra-island-mozambique": {
     "author": "Cornelius Kibelka from Berlin, Germany",
@@ -1021,16 +991,6 @@
     "kind": "area",
     "place": "Allauch"
   },
-  "area:awasi-atacama-chile": {
-    "author": "Pierre cb",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:San_Pedro_de_Atacama_view_of_Licancabur_volcano.jpg",
-    "title": "San Pedro de Atacama view of Licancabur volcano.jpg",
-    "distanceKm": 1,
-    "kind": "area",
-    "place": "San Pedro de Atacama"
-  },
   "area:bambu-indah-bali": {
     "author": "Michelle Maria",
     "license": "CC BY 3.0",
@@ -1081,16 +1041,6 @@
     "kind": "area",
     "place": "Hunter Valley"
   },
-  "area:campi-ya-kanzi-kenya": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS065-E-202444_-_View_of_Earth.jpg",
-    "title": "ISS065-E-202444 - View of Earth.jpg",
-    "distanceKm": 5.2,
-    "kind": "area",
-    "place": "Chyulu Hills"
-  },
   "area:cape-leeuwin-lighthouse-australia": {
     "author": "Photograph by Greg O'Beirne",
     "license": "CC BY 2.5",
@@ -1110,16 +1060,6 @@
     "distanceKm": 0.1,
     "kind": "area",
     "place": "Göreme"
-  },
-  "area:cappadocia-inans-cave-suites-turkey": {
-    "author": "kinyasim",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ahmet_so%C4%9Fanc%C4%B1_-_panoramio.jpg",
-    "title": "Ahmet soğancı - panoramio.jpg",
-    "distanceKm": 0.2,
-    "kind": "area",
-    "place": "Nevşehir"
   },
   "area:cavo-tagoo-mykonos-greece": {
     "author": "Bernard Gagnon",
@@ -1161,16 +1101,6 @@
     "kind": "area",
     "place": "Rangali Island"
   },
-  "cristalino-lodge-brazil": {
-    "author": "Jochen Tamm",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manduca_diffissa_petuniae_(Brazil,_Cristalino_Jungle_Lodge,_17.ix_.2016)_1.jpg",
-    "title": "Manduca diffissa petuniae (Brazil, Cristalino Jungle Lodge, 17.ix .2016) 1.jpg",
-    "distanceKm": null,
-    "kind": "hotel",
-    "matched": "Cristalino Lodge"
-  },
   "area:cuevas-al-jatib-spain": {
     "author": "jbdodane",
     "license": "CC BY 2.0",
@@ -1191,26 +1121,6 @@
     "kind": "area",
     "place": "Coober Pedy"
   },
-  "area:fastnet-lighthouse-ireland": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS053-E-292404_-_View_of_Earth.jpg",
-    "title": "ISS053-E-292404 - View of Earth.jpg",
-    "distanceKm": 3.8,
-    "kind": "area",
-    "place": "Schull"
-  },
-  "area:floating-seahorse-dubai": {
-    "author": "Aleem Yousaf",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wedding_at_Jumeriah_Beach_(5519125447).jpg",
-    "title": "Wedding at Jumeriah Beach (5519125447).jpg",
-    "distanceKm": 4.9,
-    "kind": "area",
-    "place": "The World Islands"
-  },
   "area:four-seasons-maldives-landaa": {
     "author": "Godot13",
     "license": "CC BY-SA 4.0",
@@ -1220,16 +1130,6 @@
     "distanceKm": 0.1,
     "kind": "area",
     "place": "Baa Atoll"
-  },
-  "area:free-spirit-spheres-canada": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS041-E-34083_-_View_of_Earth.jpg",
-    "title": "ISS041-E-34083 - View of Earth.jpg",
-    "distanceKm": 2.2,
-    "kind": "area",
-    "place": "Vancouver Island"
   },
   "area:gamirasu-cave-turkey": {
     "author": "Bernard Gagnon",
@@ -1321,16 +1221,6 @@
     "kind": "area",
     "place": "Puerto Maldonado"
   },
-  "inkaterra-machu-picchu": {
-    "author": "Kim",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Breakfast_buffet_at_the_Inkaterra_Machu_Picchu_Pueblo_Hotel.jpg",
-    "title": "Breakfast buffet at the Inkaterra Machu Picchu Pueblo Hotel.jpg",
-    "distanceKm": null,
-    "kind": "hotel",
-    "matched": "Inkaterra Machu Picchu Pueblo Hotel"
-  },
   "area:intercontinental-thalasso-bora-bora": {
     "author": "Chris McClave from Connecticut, United States",
     "license": "CC BY 2.0",
@@ -1341,36 +1231,6 @@
     "kind": "area",
     "place": "Bora Bora"
   },
-  "area:jao-camp-botswana": {
-    "author": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS063-E-53787_-_View_of_Earth.jpg",
-    "title": "ISS063-E-53787 - View of Earth.jpg",
-    "distanceKm": 4,
-    "kind": "area",
-    "place": "Jao Concession"
-  },
-  "area:jules-undersea-lodge-florida": {
-    "author": "Serge Melki from Indianapolis, USA",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sunrise_-_about_to_peekaboo_from_behind_the_clouds_(5889914894).jpg",
-    "title": "Sunrise - about to peekaboo from behind the clouds (5889914894).jpg",
-    "distanceKm": 0.9,
-    "kind": "area",
-    "place": "Key Largo"
-  },
-  "area:juvet-landscape-hotel-norway": {
-    "author": "Davide Mauro",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gudbrandsjuvet_01.jpg",
-    "title": "Gudbrandsjuvet 01.jpg",
-    "distanceKm": 0.2,
-    "kind": "area",
-    "place": "Alnes"
-  },
   "area:keemala-bird-nest-phuket": {
     "author": "Tuderna",
     "license": "CC BY 3.0",
@@ -1380,16 +1240,6 @@
     "distanceKm": 0.2,
     "kind": "area",
     "place": "Kamala"
-  },
-  "area:kelebek-special-cave-hotel-turkey": {
-    "author": "Kyle Lamothe",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Balloon_In_Relief_(55651126).jpeg",
-    "title": "Balloon In Relief (55651126).jpeg",
-    "distanceKm": 0.3,
-    "kind": "area",
-    "place": "Göreme"
   },
   "area:kokopelli-cave-usa": {
     "author": "Patrick Alexander from Las Cruces, NM",
@@ -1411,16 +1261,6 @@
     "kind": "area",
     "place": "Normandy"
   },
-  "la-cabane-perchee-france": {
-    "author": "VVVCFFrance",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ru_d%27Aulnay_dans_l%27arboretum_pr-s_de_la_cabane_perch%C3%A9e.jpg",
-    "title": "Ru d'Aulnay dans l'arboretum pr-s de la cabane perchée.jpg",
-    "distanceKm": null,
-    "kind": "hotel",
-    "matched": "La Cabane Perchée"
-  },
   "area:lapa-rios-costa-rica": {
     "author": "Charles J. Sharp",
     "license": "CC BY-SA 3.0",
@@ -1440,16 +1280,6 @@
     "distanceKm": 0.1,
     "kind": "area",
     "place": "Lindesnes"
-  },
-  "area:londolozi-varty-camp-south-africa": {
-    "author": "NASA",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:STS126-E-16239_-_View_of_Earth.jpg",
-    "title": "STS126-E-16239 - View of Earth.jpg",
-    "distanceKm": null,
-    "kind": "area",
-    "place": "Sabi Sand Game Reserve"
   },
   "area:longitude-131-australia": {
     "author": "Annette Teng",
@@ -1471,36 +1301,6 @@
     "kind": "area",
     "place": "Göreme"
   },
-  "area:manshausen-island-resort-norway": {
-    "author": "Dirk Kohlmann",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gr%C3%B8t%C3%B8y_febr_2011_008.jpg",
-    "title": "Grøtøy febr 2011 008.jpg",
-    "distanceKm": 0.4,
-    "kind": "area",
-    "place": "Steigen Archipelago"
-  },
-  "area:manta-resort-zanzibar": {
-    "author": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS064-E-14791_-_View_of_Earth.jpg",
-    "title": "ISS064-E-14791 - View of Earth.jpg",
-    "distanceKm": 7.6,
-    "kind": "area",
-    "place": "Pemba Island"
-  },
-  "mashpi-lodge-ecuador": {
-    "author": "nearsjasmine",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hummingbird_at_Mashpi_Lodge,_Ecuador.jpg",
-    "title": "Hummingbird at Mashpi Lodge, Ecuador.jpg",
-    "distanceKm": null,
-    "kind": "hotel",
-    "matched": "Mashpi Lodge"
-  },
   "area:melek-cave-hotel-turkey": {
     "author": "Netha Hussain",
     "license": "CC0",
@@ -1510,16 +1310,6 @@
     "distanceKm": 0.3,
     "kind": "area",
     "place": "Göreme"
-  },
-  "area:misool-eco-resort-indonesia": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS006-E-40902_-_View_of_Western_New_Guinea.jpg",
-    "title": "ISS006-E-40902 - View of Western New Guinea.jpg",
-    "distanceKm": 4.1,
-    "kind": "area",
-    "place": "Raja Ampat"
   },
   "area:ms-fram-norway": {
     "author": "Godot13",
@@ -1550,16 +1340,6 @@
     "distanceKm": null,
     "kind": "hotel",
     "matched": "Nihi Sumba"
-  },
-  "area:niku-hide-finland": {
-    "author": "State Chancellery of Latvia",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:V.Dombrovskis_Somij%C4%81_piedal%C4%81s_Eiropas_l%C4%ABderu_neform%C4%81laj%C4%81_san%C4%81ksm%C4%93_(8585111233).jpg",
-    "title": "V.Dombrovskis Somijā piedalās Eiropas līderu neformālajā sanāksmē (8585111233).jpg",
-    "distanceKm": 0.5,
-    "kind": "area",
-    "place": "Saariselkä"
   },
   "area:nothofagus-hotel-chile": {
     "author": "gavin_62",
@@ -1621,16 +1401,6 @@
     "kind": "area",
     "place": "Point Reyes Station"
   },
-  "area:portland-bill-lighthouse-england": {
-    "author": "Ben Brooksbank",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Portland_Bill_Lighthouse_geograph-4102028-by-Ben-Brooksbank.jpg",
-    "title": "Portland Bill Lighthouse geograph-4102028-by-Ben-Brooksbank.jpg",
-    "distanceKm": 0.1,
-    "kind": "area",
-    "place": "Portland"
-  },
   "area:rekero-camp-masai-mara": {
     "author": "guyvail",
     "license": "CC BY-SA 3.0",
@@ -1640,16 +1410,6 @@
     "distanceKm": 4.1,
     "kind": "area",
     "place": "Masai Mara National Reserve"
-  },
-  "area:romantic-cave-hotel-turkey": {
-    "author": "Bernard Gagnon",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:View_of_%C3%9Crg%C3%BCp.jpg",
-    "title": "View of Ürgüp.jpg",
-    "distanceKm": 2,
-    "kind": "area",
-    "place": "Ürgüp"
   },
   "area:sadie-cove-alaska": {
     "author": "Paxson Woelber",
@@ -1671,16 +1431,6 @@
     "kind": "area",
     "place": "Matera"
   },
-  "area:scarabeo-camp-morocco": {
-    "author": "Jakub Hałun",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Agafay_Desert,_Morocco,_20250125_1802_7284.jpg",
-    "title": "Agafay Desert, Morocco, 20250125 1802 7284.jpg",
-    "distanceKm": 2.7,
-    "kind": "area",
-    "place": "Agafay Desert"
-  },
   "area:seki-cave-hotel-turkey": {
     "author": "Bernard Gagnon",
     "license": "CC BY-SA 3.0",
@@ -1701,16 +1451,6 @@
     "kind": "area",
     "place": "Matera"
   },
-  "area:shinta-mani-wild-cambodia": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS022-E-85294_-_View_of_Earth.jpg",
-    "title": "ISS022-E-85294 - View of Earth.jpg",
-    "distanceKm": 4.1,
-    "kind": "area",
-    "place": "Cardamom Mountains"
-  },
   "area:signature-cave-cappadocia-turkey": {
     "author": "Bernard Gagnon",
     "license": "CC BY-SA 3.0",
@@ -1721,16 +1461,6 @@
     "kind": "area",
     "place": "Nevşehir"
   },
-  "area:singita-grumeti-tanzania": {
-    "author": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS054-E-33754_-_View_of_Earth.jpg",
-    "title": "ISS054-E-33754 - View of Earth.jpg",
-    "distanceKm": 5.6,
-    "kind": "area",
-    "place": "Grumeti Game Reserve"
-  },
   "singita-lebombo-south-africa": {
     "author": "Jessica138",
     "license": "CC BY-SA 4.0",
@@ -1740,16 +1470,6 @@
     "distanceKm": null,
     "kind": "hotel",
     "matched": "Singita Lebombo Lodge"
-  },
-  "area:six-senses-shaharut-israel": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS045-E-105820_-_View_of_Earth.jpg",
-    "title": "ISS045-E-105820 - View of Earth.jpg",
-    "distanceKm": 3.7,
-    "kind": "area",
-    "place": "Shaharut"
   },
   "area:skylodge-peru": {
     "author": "Ordzonhyd Rudyard Tarco Palomino",
@@ -1770,16 +1490,6 @@
     "distanceKm": 1.4,
     "kind": "area",
     "place": "Kirkenes"
-  },
-  "area:soneva-jani-maldives": {
-    "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:ISS022-E-22010_-_View_of_Earth.jpg",
-    "title": "ISS022-E-22010 - View of Earth.jpg",
-    "distanceKm": 9.7,
-    "kind": "area",
-    "place": "Noonu Atoll"
   },
   "soneva-kiri-thailand": {
     "author": "josef knecht",
@@ -1851,16 +1561,6 @@
     "kind": "area",
     "place": "Pulderbos"
   },
-  "tierra-patagonia-chile": {
-    "author": "Internet Archive Book Images",
-    "license": "Public domain",
-    "licenseUrl": null,
-    "source": "https://commons.wikimedia.org/wiki/File:The_wilds_of_Patagonia;_a_narrative_of_the_Swedish_expedition_to_Patagonia,_Tierra_del_Fuego_and_the_Falkland_Islands_in_1907-1909_(1911)_(14589609598).jpg",
-    "title": "The wilds of Patagonia; a narrative of the Swedish expedition to Patagonia, Tierra del Fuego and the Falkland Islands in 1907-1909 (1911) (14589609598).jpg",
-    "distanceKm": null,
-    "kind": "hotel",
-    "matched": "Tierra Patagonia"
-  },
   "area:urgup-inn-cave-hotel-turkey": {
     "author": "Mykola Swarnyk",
     "license": "CC BY 3.0",
@@ -1868,16 +1568,6 @@
     "source": "https://commons.wikimedia.org/wiki/File:Chamin%C3%A9s_de_fada.jpg",
     "title": "Chaminés de fada.jpg",
     "distanceKm": 1.8,
-    "kind": "area",
-    "place": "Ürgüp"
-  },
-  "area:utopia-cave-cappadocia-turkey": {
-    "author": "brewbooks from near Seattle, USA",
-    "license": "CC BY-SA 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%C3%9Crg%C3%BCp_at_sunrise_-_Flickr_-_brewbooks.jpg",
-    "title": "Ürgüp at sunrise - Flickr - brewbooks.jpg",
-    "distanceKm": 2.9,
     "kind": "area",
     "place": "Ürgüp"
   },

@@ -22,7 +22,7 @@ jobs:
         run: |
           git config user.name "stayatniche-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add public/images/hotels public/images/destinations public/images/area src/data/photo-credits.json
+          git add -A public/images/hotels public/images/destinations public/images/area src/data/photo-credits.json
           git diff --cached --quiet && echo "No new photos" && exit 0
           git commit -m "Add free-licensed photos from Wikimedia Commons"
           git pull --rebase origin ${GITHUB_REF_NAME}
