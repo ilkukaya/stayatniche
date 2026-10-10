@@ -50,22 +50,22 @@ Chiang Mai ligt op een uur vliegen met een prijsvechter vanuit Bangkok, of op 12
 
 ## Zo kom je er
 
-**Vluchten:** Chiang Mai International Airport (CNX) heeft rechtstreekse vluchten vanuit Bangkok (Don Mueang en Suvarnabhumi), Singapore, Kuala Lumpur, Taipei, Hongkong en verschillende Chinese steden.
+**Vluchten:** Chiang Mai International Airport (CNX) heeft rechtstreekse vluchten vanuit Bangkok (Don Mueang en Suvarnabhumi), Singapore, Kuala Lumpur, Taipei, Hongkong en verschillende Chinese steden. Prijsvechters – AirAsia, Thai Lion Air, Bangkok Airways – maken de verbinding Bangkok–Chiang Mai extreem betaalbaar. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chiang+Mai/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/chiang-mai).
 
-**Luchthaventransfer:** De luchthaven van Chiang Mai ligt op 5 km van de oude stad: 10 minuten met een taxi of songthaew. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Chiang%20Mai%20airport%20transfer). De Grab-app werkt in Chiang Mai betrouwbaar voor ritten met een vaste prijs.
+**Luchthaventransfer:** De luchthaven van Chiang Mai ligt op 5 km van de oude stad: 10 minuten met een taxi of songthaew. Boek een privétransfer via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Chiang+Mai) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Chiang+Mai). De Grab-app werkt in Chiang Mai betrouwbaar voor ritten met een vaste prijs.
 
 ## Onderweg
 
-**Scooter:** De efficiëntste manier om de regio Chiang Mai op eigen houtje te verkennen. Huur vanaf $ 7 per dag; een internationaal rijbewijs heeft de voorkeur. Huur voor het heuvelland en de Gouden Driehoek een auto of chauffeur. Vergelijk autoprijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Chiang%20Mai%20car%20rental).
+**Scooter:** De efficiëntste manier om de regio Chiang Mai op eigen houtje te verkennen. Huur vanaf $ 7 per dag; een internationaal rijbewijs heeft de voorkeur. Huur voor het heuvelland en de Gouden Driehoek een auto of chauffeur. Vergelijk autoprijzen op [Localrent](https://localrent.com/en/?location=Thailand), [QEEQ](https://www.qeeq.com/search?q=Chiang+Mai%2C+Thailand) of [EconomyBookings](https://www.economybookings.com/?location=Chiang+Mai). Een motor huur je via [BikeBooking](https://www.bikesbooking.com/en/search?location=Chiang+Mai%2C+Thailand).
 
 **Nachttrein:** De nachtelijke slaaptrein Bangkok–Chiang Mai (trein 9/10) is een klassieke reis. Boek via de website van de State Railway of Thailand; de slaapplaatsen zijn snel uitverkocht. De tocht van 13 uur door de vlaktes van Centraal-Thailand de noordelijke bergen in is voor de ervaring minstens één kant op de moeite waard.
 
 ## Tours en belevenissen
 
-Boek wandelingen in Doi Inthanon National Park, trektochten naar bergvolkdorpen, bezoeken aan olifantenopvangcentra en kookworkshops in Chiang Mai via [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand). Het lantaarnfestival Yi Peng (november) en het waterfestival Songkran (april) zijn overweldigende culturele gebeurtenissen om je reis omheen te plannen. Tours door de Gouden Driehoek en boottochten op de Mekong boek je op dezelfde manier.
+Boek wandelingen in Doi Inthanon National Park, trektochten naar bergvolkdorpen, bezoeken aan olifantenopvangcentra en kookworkshops in Chiang Mai via [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand). Het lantaarnfestival Yi Peng (november) en het waterfestival Songkran (april) zijn overweldigende culturele gebeurtenissen om je reis omheen te plannen. Tours door de Gouden Driehoek en boottochten op de Mekong boek je via [WeGoTrip](https://wegotrip.com/destinations/thailand/).
 
 ## Handig voor onderweg
 
-**eSIM:** Regel voor vertrek een eSIM voor Thailand via [Klook](https://www.klook.com/en-US/search-results/?query=Thailand%20eSIM). DTAC en AIS hebben de beste dekking in het noordelijke hoogland en de gebieden van de bergvolken. Er zijn voordelige databundels voor 15 dagen.
+**eSIM:** Regel voor vertrek een eSIM voor Thailand via [Airalo](https://www.airalo.com). DTAC en AIS hebben de beste dekking in het noordelijke hoogland en de gebieden van de bergvolken. Er zijn voordelige databundels voor 15 dagen.
 
-**Reisverzekering:** Zorg dat ontmoetingen met olifanten en avontuurlijke trektochten gedekt zijn. Op het platteland is er risico op dengue; check of je polis ziektes door insecten dekt.
+**Reisverzekering:** Zorg dat ontmoetingen met olifanten en avontuurlijke trektochten gedekt zijn. Op het platteland is er risico op dengue; check of je polis ziektes door insecten dekt. Controleer ook of avontuurlijke activiteiten in Thailand gedekt zijn; [EKTA](https://ektatraveling.com/) is een optie om te vergelijken.

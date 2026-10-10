@@ -25,7 +25,7 @@ Der Jomo Kenyatta International Airport in Nairobi ist das am besten angebundene
 - **Ab Dubai/Doha:** Emirates und Qatar Airways täglich
 - **Innerhalb Afrikas:** Ethiopian Airlines über Addis Abeba (das größte innerafrikanische Drehkreuz); RwandAir über Kigali; South African Airways über Johannesburg
 
-Ethiopian Airlines bietet für Afrikareisen aus Asien und Amerika durchweg die günstigsten Preise; aus Europa ist Kenya Airways in Sachen Qualität die bevorzugte Wahl.
+Alle Verbindungen nach Nairobi können Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/nairobi) suchen und vergleichen. Ethiopian Airlines bietet für Afrikareisen aus Asien und Amerika durchweg die günstigsten Preise; aus Europa ist Kenya Airways in Sachen Qualität die bevorzugte Wahl.
 
 ### Kigali (KGL) – Ruanda und Zentralafrika
 
@@ -72,7 +72,7 @@ Bei den meisten internationalen Safarireisen übernachtet man in Nairobi, bevor 
 - **Rund um das Giraffe Centre (Langata):** Die Vororte Karen und Langata liegen nahe dem Giraffe Centre, dem David Sheldrick Wildlife Trust (Elefantenwaisenhaus – reservieren Sie Ihren Platz für den Vormittag schon vor der Anreise online) und dem Karen-Blixen-Museum. Die Boutique-Gästehäuser und Garten-Lodges in diesen Vierteln sind ruhiger und stimmungsvoller als das Stadtzentrum.
 - **Am Rand des Nairobi-Nationalparks:** Die Parkgrenze verläuft am Südrand der Stadt; manche Lodges im Park selbst bieten das surreale Erlebnis, Löwen bei der Jagd zu beobachten, während am Horizont die Skyline von Nairobi aufragt.
 
-**Flughafentransfer in Nairobi:** Der Flughafen liegt 20 km außerhalb der Stadt – 30 Minuten außerhalb der Stoßzeiten, über eine Stunde im Nairobier Verkehr um 17 Uhr. Buchen Sie einen privaten Transfer über [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) – Festpreis und professioneller Empfang sind deutlich mehr wert als das Erlebnis am Taxistand des Flughafens.
+**Flughafentransfer in Nairobi:** Der Flughafen liegt 20 km außerhalb der Stadt – 30 Minuten außerhalb der Stoßzeiten, über eine Stunde im Nairobier Verkehr um 17 Uhr. Buchen Sie einen privaten Transfer über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) – Festpreis und professioneller Empfang sind deutlich mehr wert als das Erlebnis am Taxistand des Flughafens.
 
 ---
 
@@ -88,7 +88,7 @@ Verglichen mit der mehrteiligen Safari in Kenia oder Tansania ist das Gorilla-Tr
 
 Die meisten Lodges am Volcanoes-Nationalpark organisieren den gesamten Ablauf, einschließlich Abholung am Flughafen Kigali und Genehmigungen. Die [Bisate Lodge](/hotels/bisate-lodge-rwanda) ist architektonisch die mutigste Wahl; alle Häuser in dieser Kategorie arbeiten mit All-inclusive und kümmern sich vollständig um die Logistik des Gorilla-Trekkings.
 
-**eSIM für Ruanda:** [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM) Ruanda-eSIM – MTN Rwanda bietet Empfang in Kigali und entlang der Hauptstraße zum Park. Im Parkinneren und in den meisten Lodges gibt es WLAN über Satellit.
+**eSIM für Ruanda:** [Airalo](https://www.airalo.com) Ruanda-eSIM – MTN Rwanda bietet Empfang in Kigali und entlang der Hauptstraße zum Park. Im Parkinneren und in den meisten Lodges gibt es WLAN über Satellit.
 
 ---
 
@@ -104,7 +104,7 @@ Das Ökosystem der Masai Mara – das nationale Reservat und die umliegenden pri
 
 [Rekero Camp](/hotels/rekero-camp-masai-mara) und [Campi ya Kanzi](/hotels/campi-ya-kanzi-kenya) stehen für zwei sehr unterschiedliche Erlebnisse in den Ökosystemen von Mara und Amboseli – Rekero liegt direkt am Mara-Fluss an den Übergangsstellen der großen Migration; Campi ya Kanzi befindet sich im Massai-Schutzgebiet der Chyulu Hills mit Blick auf den Kilimandscharo und mehr Möglichkeiten für Walking-Safaris.
 
-**Transfer von Nairobi zum Wilson Airport:** Je nach Verkehr 15 bis 30 Minuten. [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) bietet Stadttransfers in Nairobi zum Festpreis an, auch zum Wilson Airport.
+**Transfer von Nairobi zum Wilson Airport:** Je nach Verkehr 15 bis 30 Minuten. [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) bietet Stadttransfers in Nairobi zum Festpreis an, auch zum Wilson Airport.
 
 ---
 
@@ -144,11 +144,11 @@ Die Gepäckregeln für Buschflüge (15 kg in einer weichen Tasche, keine Hartsch
 
 Der Mobilfunkempfang in Ostafrika ist sehr unterschiedlich:
 
-- **Kenia:** Safaricom hat die beste Abdeckung, auch an den meisten Nationalparkgrenzen und Hauptstraßen. Eine Kenia-eSIM von [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM) mit Safaricom ist die richtige Wahl. Lodges in sehr abgelegenen Gebieten (Chyulu Hills, Turkanasee) nutzen Satellit.
+- **Kenia:** Safaricom hat die beste Abdeckung, auch an den meisten Nationalparkgrenzen und Hauptstraßen. Eine Kenia-eSIM von [Airalo](https://www.airalo.com) mit Safaricom ist die richtige Wahl. Lodges in sehr abgelegenen Gebieten (Chyulu Hills, Turkanasee) nutzen Satellit.
 - **Tansania:** Vodacom Tanzania und Airtel Tanzania decken die Hauptstraßen und Arusha ab. Im Inneren der Serengeti gibt es nur das Satelliteninternet der Lodges.
 - **Ruanda:** MTN Rwanda deckt Kigali und die Hauptstraße zum Volcanoes-Nationalpark hervorragend ab. Im Parkinneren: WLAN der Lodge.
 
-Eine regionale Ostafrika-eSIM von [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM) deckt Kenia, Tansania und Ruanda mit einem Tarif ab – praktisch für Reisen durch mehrere Länder.
+Eine regionale Ostafrika-eSIM von [Airalo](https://www.airalo.com) deckt Kenia, Tansania und Ruanda mit einem Tarif ab – praktisch für Reisen durch mehrere Länder.
 
 ---
 
@@ -163,7 +163,7 @@ Die nächstgelegene gut ausgestattete Klinik ist für die meisten kenianischen S
 - Behandlungskosten: mindestens 50.000 $ für Tansania und Kenia
 - Reiserücktritt: sinnvoll, wenn Sie nicht erstattbare Lodge-Nächte in der Hochsaison gebucht haben
 
-Wählen Sie eine Police, die all das abdeckt, Abenteueraktivitäten (Pirschfahrten in offenen Fahrzeugen, Gorilla-Trekking) ohne Aufpreis einschließt und nur einen Bruchteil eines einzigen Rettungsflugs kostet. Die Jahresmitgliedschaft bei AMREF Flying Doctors (mit Sitz in Kenia und Tansania) ist bei längeren Reisen durch Ostafrika eine sinnvolle zusätzliche Absicherung.
+Eine Police von [EKTA](https://ektatraveling.com/) ist eine Möglichkeit; prüfen Sie, ob die Police den medizinischen Rücktransport und Abenteueraktivitäten (Pirschfahrten in offenen Fahrzeugen, Gorilla-Trekking) abdeckt, denn ein einziger Rettungsflug kostet weit mehr als der Versicherungsschutz selbst. Die Jahresmitgliedschaft bei AMREF Flying Doctors (mit Sitz in Kenia und Tansania) ist bei längeren Reisen durch Ostafrika eine sinnvolle zusätzliche Absicherung.
 
 ---
 
@@ -172,10 +172,10 @@ Wählen Sie eine Police, die all das abdeckt, Abenteueraktivitäten (Pirschfahrt
 Für eine Safarireise nach Ostafrika mit Lodges auf dem hier beschriebenen Niveau kommt es auf die Reihenfolge der Buchungen an:
 
 1. **Zuerst die Lodges:** Die besten Camps in Bisate, Rekero und Campi ya Kanzi sind für die Hochsaison der Migration (Juli bis Oktober) 6 bis 9 Monate im Voraus ausgebucht. Buchen Sie, sobald Ihre Reisedaten feststehen.
-2. **Internationale Flüge:** Suchen Sie 3 bis 4 Monate im Voraus nach Flügen; die Preise sind im Vergleich zu Europastrecken recht stabil.
+2. **Internationale Flüge:** Suchen Sie 3 bis 4 Monate im Voraus auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Nairobi/anytime/anytime); die Preise sind im Vergleich zu Europastrecken recht stabil.
 3. **Buschflüge:** Sobald die Lodge-Daten bestätigt sind, empfiehlt die Lodge die optimale Landepiste und den passenden Anbieter. Buchen Sie direkt bei Safarilink oder Coastal Aviation.
 4. **Hotel in Nairobi:** 1 bis 2 Nächte vor der Safari. Karen und Langata sind besser als die Hotelviertel am Flughafen.
-5. **eSIM:** Regionaltarif Ostafrika von [Klook](https://www.klook.com/en-US/search-results/?query=East%20Africa%20eSIM) vor der Abreise.
-6. **Reiseversicherung:** ein umfassender Schutz als Basis; prüfen Sie die Höchstgrenzen für den Rücktransport.
+5. **eSIM:** Regionaltarif Ostafrika von [Airalo](https://www.airalo.com) vor der Abreise.
+6. **Reiseversicherung:** [EKTA](https://ektatraveling.com/) als Basis; prüfen Sie die Höchstgrenzen für den Rücktransport.
 
 Aufgeschrieben wirkt die Logistik kompliziert; mit guten Veranstaltern erlebt, wird sie selbst zur Reise – Teil jenes erweiterten Blicks, den Ostafrika am Ende schenkt.

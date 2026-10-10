@@ -36,22 +36,22 @@ Der Fluss selbst – bei Hochwasser in der Regenzeit bis zu 48 Kilometer breit �
 
 ## Anreise
 
-**Flüge:** Die Flughäfen Guarulhos (GRU) und Campinas (VCP) in São Paulo sind die wichtigsten internationalen Tore. Auch Galeão (GIG) in Rio de Janeiro wird von großen internationalen Strecken bedient. Speziell für den Amazonas fliegen Sie über Manaus (MAO) oder Belém (BEL); Manaus ist mit Miami, Lissabon und allen großen brasilianischen Städten verbunden. Alta Floresta (ATF, für die Cristalino Lodge) erreichen Sie von São Paulo aus über Cuiabá (CGB).
+**Flüge:** Die Flughäfen Guarulhos (GRU) und Campinas (VCP) in São Paulo sind die wichtigsten internationalen Tore. Auch Galeão (GIG) in Rio de Janeiro wird von großen internationalen Strecken bedient. Speziell für den Amazonas fliegen Sie über Manaus (MAO) oder Belém (BEL); Manaus ist mit Miami, Lissabon und allen großen brasilianischen Städten verbunden. Alta Floresta (ATF, für die Cristalino Lodge) erreichen Sie von São Paulo aus über Cuiabá (CGB). Flüge suchen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Brazil/anytime/anytime) oder [Aviasales](https://www.aviasales.com/search/to/brazil).
 
-**Flughafentransfer:** Private Transfers ab brasilianischen Flughäfen buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Manaus%20airport%20transfer). Bei abgelegenen Lodges übernimmt meist die Lodge selbst die Logistik.
+**Flughafentransfer:** Private Transfers ab brasilianischen Flughäfen buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Manaus) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Manaus). Bei abgelegenen Lodges übernimmt meist die Lodge selbst die Logistik.
 
 ## Unterwegs vor Ort
 
-**Inlandsflüge:** Angesichts der Entfernungen in Brasilien unverzichtbar. LATAM, Gol und Azul verbinden alle großen Städte. Buchen Sie direkt oder vergleichen Sie auf brasilianischen Flugportalen. Mietwagen für den Süden und die Städte vergleichen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20car%20rental).
+**Inlandsflüge:** Angesichts der Entfernungen in Brasilien unverzichtbar. LATAM, Gol und Azul verbinden alle großen Städte. Buchen Sie direkt oder vergleichen Sie auf brasilianischen Flugportalen. Mietwagen für den Süden und die Städte vergleichen Sie auf [Localrent](https://localrent.com/en/?location=Brazil), [QEEQ](https://www.qeeq.com/search?q=Brazil) oder [AutoEurope](https://www.autoeurope.eu/).
 
 **Flussboote:** Die langsamen Fähren auf dem Amazonas sind authentisch und günstig (Manaus–Santarém 36 Stunden, Manaus–Belém 4–5 Tage). Schnellere Speedboote und gecharterte Wasserflugzeuge bedienen abgelegene Lodges.
 
 ## Touren und Erlebnisse
 
-Tierbeobachtungstouren im Amazonas, Jaguar-Safaris im Pantanal und Stadterlebnisse in Rio buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Brazil). Spezielle Lodge-Pakete im Amazonas und Flusskreuzfahrten organisieren Sie am besten über regionale Ökotourismus-Veranstalter.
+Tierbeobachtungstouren im Amazonas, Jaguar-Safaris im Pantanal und Stadterlebnisse in Rio buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Brazil). Spezielle Lodge-Pakete im Amazonas und Flusskreuzfahrten organisieren Sie am besten über regionale Ökotourismus-Veranstalter oder [WeGoTrip](https://wegotrip.com/destinations/brazil/).
 
 ## Reisepraktisches
 
-**eSIM:** In Städten und entlang der Hauptstraßen hat Brasilien gute 4G-Abdeckung, tief im Amazonas gibt es kein Netz. Eine lokale eSIM erhalten Sie bei [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20eSIM) – Claro und Vivo haben die beste Abdeckung auf dem Land. Die meisten Amazonas-Lodges verfügen über Satelliten- oder VSAT-Internet.
+**eSIM:** In Städten und entlang der Hauptstraßen hat Brasilien gute 4G-Abdeckung, tief im Amazonas gibt es kein Netz. Eine lokale eSIM erhalten Sie bei [Airalo](https://www.airalo.com) – Claro und Vivo haben die beste Abdeckung auf dem Land. Die meisten Amazonas-Lodges verfügen über Satelliten- oder VSAT-Internet.
 
-**Reiseversicherung:** Angesichts der sehr unterschiedlichen Gesundheitsversorgung in Brasilien und der körperlichen Anforderungen einer Amazonasreise unverzichtbar. Für Aufenthalte in abgelegenen Lodges ist ein Schutz für medizinische Evakuierung wichtig.
+**Reiseversicherung:** Angesichts der sehr unterschiedlichen Gesundheitsversorgung in Brasilien und der körperlichen Anforderungen einer Amazonasreise unverzichtbar. Für Aufenthalte in abgelegenen Lodges ist ein Schutz für medizinische Evakuierung wichtig. Policen vergleichen Sie auf [EKTA](https://ektatraveling.com/); prüfen Sie, ob die gewählte Police Abenteueraktivitäten und medizinische Evakuierung abdeckt.

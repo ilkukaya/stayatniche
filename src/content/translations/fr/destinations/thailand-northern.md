@@ -50,22 +50,22 @@ Chiang Mai est à une heure de Bangkok en compagnie à bas prix, ou à 12 heures
 
 ## Comment s'y rendre
 
-**Vols :** l'aéroport international de Chiang Mai (CNX) reçoit des vols directs depuis Bangkok (Don Mueang et Suvarnabhumi), Singapour, Kuala Lumpur, Taipei, Hong Kong et plusieurs villes chinoises.
+**Vols :** l'aéroport international de Chiang Mai (CNX) reçoit des vols directs depuis Bangkok (Don Mueang et Suvarnabhumi), Singapour, Kuala Lumpur, Taipei, Hong Kong et plusieurs villes chinoises. Les compagnies à bas prix — AirAsia, Thai Lion Air, Bangkok Airways — rendent la liaison Bangkok-Chiang Mai extrêmement abordable. Recherchez et comparez les vols sur [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Chiang+Mai/anytime/anytime) et [Aviasales](https://www.aviasales.com/search/to/chiang-mai).
 
-**Transfert depuis l'aéroport :** l'aéroport de Chiang Mai se trouve à 5 km de la vieille ville, soit 10 minutes en taxi ou en songthaew. Réservez un transfert privé auprès de [Klook](https://www.klook.com/en-US/search-results/?query=Chiang%20Mai%20airport%20transfer). L'application Grab fonctionne bien à Chiang Mai pour des courses au tarif affiché.
+**Transfert depuis l'aéroport :** l'aéroport de Chiang Mai se trouve à 5 km de la vieille ville, soit 10 minutes en taxi ou en songthaew. Réservez un transfert privé auprès de [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Chiang+Mai) ou de [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Chiang+Mai). L'application Grab fonctionne bien à Chiang Mai pour des courses au tarif affiché.
 
 ## Se déplacer
 
-**Scooter :** le moyen le plus efficace d'explorer la région de Chiang Mai en indépendant. Location à partir de 7 $ par jour ; permis international de préférence. Pour les collines et le Triangle d'or, louez une voiture ou prenez un chauffeur. Comparez les tarifs de location de voiture sur [Klook](https://www.klook.com/en-US/search-results/?query=Chiang%20Mai%20car%20rental).
+**Scooter :** le moyen le plus efficace d'explorer la région de Chiang Mai en indépendant. Location à partir de 7 $ par jour ; permis international de préférence. Pour les collines et le Triangle d'or, louez une voiture ou prenez un chauffeur. Comparez les tarifs de location de voiture sur [Localrent](https://localrent.com/en/?location=Thailand), [QEEQ](https://www.qeeq.com/search?q=Chiang+Mai%2C+Thailand) ou [EconomyBookings](https://www.economybookings.com/?location=Chiang+Mai). Location de moto sur [BikeBooking](https://www.bikesbooking.com/en/search?location=Chiang+Mai%2C+Thailand).
 
 **Train de nuit :** le train-couchettes Bangkok-Chiang Mai (trains 9/10) est un voyage classique. Réservez sur le site des chemins de fer thaïlandais (State Railway of Thailand) ; les couchettes partent vite. Les 13 heures de trajet à travers les plaines du centre de la Thaïlande puis dans les montagnes du Nord valent d'être vécues au moins dans un sens.
 
 ## Excursions et expériences
 
-Réservez vos randonnées dans le parc national de Doi Inthanon, vos treks vers les villages des tribus montagnardes, vos visites de sanctuaires d'éléphants et vos cours de cuisine à Chiang Mai sur [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand). La fête des lanternes de Yi Peng (novembre) et la fête de l'eau de Songkran (avril) sont des événements culturels marquants autour desquels organiser votre voyage. Les excursions au Triangle d'or et les balades en bateau sur le Mékong se réservent de la même façon.
+Réservez vos randonnées dans le parc national de Doi Inthanon, vos treks vers les villages des tribus montagnardes, vos visites de sanctuaires d'éléphants et vos cours de cuisine à Chiang Mai sur [Klook](https://www.klook.com/en-US/search-results/?query=Chiang+Mai+Northern+Thailand). La fête des lanternes de Yi Peng (novembre) et la fête de l'eau de Songkran (avril) sont des événements culturels marquants autour desquels organiser votre voyage. Les excursions au Triangle d'or et les balades en bateau sur le Mékong se réservent sur [WeGoTrip](https://wegotrip.com/destinations/thailand/).
 
 ## L'essentiel pour voyager
 
-**eSIM :** procurez-vous une eSIM Thaïlande chez [Klook](https://www.klook.com/en-US/search-results/?query=Thailand%20eSIM) avant le départ. DTAC et AIS offrent la meilleure couverture dans les hautes terres du Nord et les régions des tribus montagnardes. Excellents forfaits data de 15 jours à prix avantageux.
+**eSIM :** procurez-vous une eSIM Thaïlande chez [Airalo](https://www.airalo.com) avant le départ. DTAC et AIS offrent la meilleure couverture dans les hautes terres du Nord et les régions des tribus montagnardes. Excellents forfaits data de 15 jours à prix avantageux.
 
-**Assurance voyage :** assurez-vous d'être couvert pour les rencontres avec les éléphants et les treks d'aventure. Risque de dengue en zone rurale : vérifiez que votre contrat couvre les maladies à transmission vectorielle.
+**Assurance voyage :** assurez-vous d'être couvert pour les rencontres avec les éléphants et les treks d'aventure. Risque de dengue en zone rurale : vérifiez que votre contrat couvre les maladies à transmission vectorielle. Vérifiez aussi qu’il couvre les activités d’aventure en Thaïlande ; [EKTA](https://ektatraveling.com/) est une option à comparer.

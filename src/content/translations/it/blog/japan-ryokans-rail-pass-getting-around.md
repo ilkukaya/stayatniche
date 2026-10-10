@@ -19,11 +19,11 @@ Questa guida traccia le rotte ferroviarie verso gli alloggi più interessanti e 
 
 **Voli:** gli aeroporti di Tokyo Haneda (HND) e Narita (NRT) sono le principali porte d’ingresso internazionali. Osaka Kansai (KIX) è l’arrivo più comodo se inizi da Kyoto: l’Haruka Express porta direttamente alla stazione di Kyoto in 75 minuti. L’aeroporto New Chitose di Sapporo (CTS) è la porta dell’Hokkaido, con voli diretti stagionali da Tokyo, Taipei, Seul e Hong Kong.
 
-La fioritura dei ciliegi (fine marzo–metà aprile) e il foliage autunnale (ottobre–novembre) sono i periodi più richiesti: i voli in queste finestre si esauriscono con 4–6 mesi di anticipo e costano di più.
+Cerca e confronta i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/japan). La fioritura dei ciliegi (fine marzo–metà aprile) e il foliage autunnale (ottobre–novembre) sono i periodi più richiesti: i voli in queste finestre si esauriscono con 4–6 mesi di anticipo e costano di più.
 
 **Trasferimento dall’aeroporto alla città:** da Haneda, la Tokyo Monorail o la linea Keikyu raggiungono la città in 14–20 minuti. Da Narita, il N’EX (Narita Express) arriva a Shinjuku e Shibuya in 60–80 minuti. Da Kansai, l’Haruka Express è il collegamento standard per Kyoto e Osaka.
 
-Per i trasferimenti privati, comodi all’arrivo quando hai bagagli pesanti e non hai ancora ritirato il JR Pass, [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer) copre sia Tokyo sia Osaka.
+Per i trasferimenti privati, comodi all’arrivo quando hai bagagli pesanti e non hai ancora ritirato il JR Pass, [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) e [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo) coprono sia Tokyo sia Osaka.
 
 ---
 
@@ -52,7 +52,7 @@ Hakone è la meta ryokan più facile da raggiungere da Tokyo: 90 minuti con l’
 
 **Percorso in treno:** Shinjuku → Hakone-Yumoto (Odakyu Romancecar, 85 minuti diretto). Da Hakone-Yumoto, la Hakone Tozan Railway sale a tornanti fino a Gora (30 minuti); da Gora, una funivia sorvola la valle vulcanica di Owakudani.
 
-**Dove dormire:** Gōra Kadan, in cima alla funicolare di Gora, è il ryokan più prestigioso di Hakone. Lungo la valle fluviale di Hakone-Yumoto, le opzioni di fascia media offrono autentiche camere in tatami e onsen privati a prezzi accessibili. Cerca un alloggio a Hakone su [Expedia](https://www.expedia.com/Hotel-Search?destination=Hakone%2C%20Japan).
+**Dove dormire:** Gōra Kadan ([Expedia](https://www.expedia.com/Hotel-Search?destination=Hakone)), in cima alla funicolare di Gora, è il ryokan più prestigioso di Hakone. Lungo la valle fluviale di Hakone-Yumoto, le opzioni di fascia media offrono autentiche camere in tatami e onsen privati a prezzi accessibili.
 
 Prenota tour di Hakone ed esperienze con vista sul Fuji su [Klook](https://www.klook.com/en-US/search-results/?query=Hakone+Mount+Fuji): l’ingresso all’Open Air Museum e la crociera sul lago sono disponibili anche in combinata.
 
@@ -91,7 +91,7 @@ Prenota le esperienze a Kyoto (cerimonia del tè, teatro Nō, degustazioni di sa
 
 **Niseko d’estate:** folla e prezzi calano sensibilmente, e il paesaggio di vette vulcaniche, campi fioriti e prati d’altura è davvero splendido. Gli onsen privati e la cucina kaiseki di Zaborin sono attivi tutto l’anno.
 
-Cerca i trasferimenti dall’aeroporto New Chitose a Niseko su [Klook](https://www.klook.com/en-US/search-results/?query=New%20Chitose%20airport%20transfer) oppure prenota direttamente tramite Zaborin.
+Cerca i trasferimenti dall’aeroporto New Chitose a Niseko su [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Sapporo) oppure prenota direttamente tramite Zaborin.
 
 ---
 
@@ -109,7 +109,7 @@ Cerca i trasferimenti dall’aeroporto New Chitose a Niseko su [Klook](https://w
 
 ## eSIM e connessione in Giappone
 
-Le reti 4G e 5G giapponesi sono eccellenti in tutto il Paese, cittadine termali rurali comprese. Una eSIM per il Giappone di [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM), di solito ¥1.500–2.500 per un piano da 10 GB e 30 giorni, è la soluzione più pratica per i visitatori. Si attiva subito, evita il pocket WiFi e funziona su tutte le principali reti degli operatori giapponesi.
+Le reti 4G e 5G giapponesi sono eccellenti in tutto il Paese, cittadine termali rurali comprese. Una eSIM per il Giappone di [Airalo](https://www.airalo.com), di solito ¥1.500–2.500 per un piano da 10 GB e 30 giorni, è la soluzione più pratica per i visitatori. Si attiva subito, evita il pocket WiFi e funziona su tutte le principali reti degli operatori giapponesi.
 
 **Una nota sul pocket WiFi:** noleggiare un pocket WiFi in aeroporto è la soluzione tradizionale degli stranieri in Giappone, ma oggi la eSIM è migliore quasi sotto ogni aspetto: più comoda, senza dispositivi da restituire e sempre più economica. L’unica eccezione: se viaggi in gruppo e vuoi un unico pacchetto dati condiviso invece di tante eSIM individuali.
 
@@ -119,7 +119,7 @@ Le reti 4G e 5G giapponesi sono eccellenti in tutto il Paese, cittadine termali 
 
 Il Giappone è un Paese sicuro con una sanità eccellente, ma per i visitatori stranieri senza assicurazione quella sanità costa cara. Un ricovero ospedaliero a Tokyo può costare 500–2.000 $ al giorno; un’emergenza che richieda cure prolungate può arrivare a 10.000–20.000 $.
 
-Scegli una polizza che copra le spese mediche in Giappone e le attività d’avventura in programma (sci a Niseko, trekking nelle Alpi giapponesi). Per i soggiorni in ryokan in particolare: la maggior parte delle strutture di alto livello richiede una prenotazione con 6 mesi di anticipo e caparre non rimborsabili, quindi vale la pena verificare di avere una polizza che copra l’annullamento del viaggio.
+Verifica che la tua assicurazione di viaggio (ad esempio [EKTA](https://ektatraveling.com/)) copra le spese mediche in Giappone e le attività d’avventura (sci a Niseko, trekking nelle Alpi giapponesi). Per i soggiorni in ryokan in particolare: la maggior parte delle strutture di alto livello richiede una prenotazione con 6 mesi di anticipo e caparre non rimborsabili, quindi vale la pena verificare di avere una polizza che copra l’annullamento del viaggio.
 
 ---
 

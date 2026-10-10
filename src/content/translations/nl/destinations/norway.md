@@ -43,13 +43,13 @@ Het meest bepalende aan Noorwegen is het licht, of beter gezegd de uitersten erv
 
 ## Erheen reizen
 
-**Vluchten:** Oslo Gardermoen (OSL) is de belangrijkste luchthaven van Noorwegen, met verbindingen door heel Europa en rechtstreekse langeafstandsvluchten vanuit New York, Chicago en grote Aziatische steden. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) en Bodø (BOO) hebben allemaal rechtstreekse verbindingen met Europa; wie voor een fjordenreis op deze regionale luchthavens landt, slaat de overstap van Oslo naar de fjorden helemaal over.
+**Vluchten:** Oslo Gardermoen (OSL) is de belangrijkste luchthaven van Noorwegen, met verbindingen door heel Europa en rechtstreekse langeafstandsvluchten vanuit New York, Chicago en grote Aziatische steden. Bergen (BGO), Stavanger (SVG), Trondheim (TRD), Tromsø (TOS) en Bodø (BOO) hebben allemaal rechtstreekse verbindingen met Europa; wie voor een fjordenreis op deze regionale luchthavens landt, slaat de overstap van Oslo naar de fjorden helemaal over. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Norway/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/norway).
 
-**Luchthaventransfer:** De Flytoget (Airport Express) brengt je in 19 minuten van Gardermoen naar het centraal station van Oslo. Voor privétransfers naar je hotel of verder naar de fjorden boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Oslo%20airport%20transfer).
+**Luchthaventransfer:** De Flytoget (Airport Express) brengt je in 19 minuten van Gardermoen naar het centraal station van Oslo. Voor privétransfers naar je hotel of verder naar de fjorden boek je via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Oslo) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Oslo).
 
 ## Ter plaatse reizen
 
-**Autohuur:** De Nasjonale turistveger (18 aangewezen routes) en het fjordenland verken je het best met de auto. De wegen zijn uitstekend; in de winter zijn winterbanden wettelijk verplicht (oktober–april). Vergelijk tarieven op [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20car%20rental). Een elektrische auto huren is goed te doen: Noorwegen heeft het hoogste aandeel elektrische auto's ter wereld en op de meeste routes laadpalen.
+**Autohuur:** De Nasjonale turistveger (18 aangewezen routes) en het fjordenland verken je het best met de auto. De wegen zijn uitstekend; in de winter zijn winterbanden wettelijk verplicht (oktober–april). Vergelijk tarieven op [Localrent](https://localrent.com/en/?location=Norway), [QEEQ](https://www.qeeq.com/search?q=Norway) en [AutoEurope](https://www.autoeurope.eu/). Een elektrische auto huren is goed te doen: Noorwegen heeft het hoogste aandeel elektrische auto's ter wereld en op de meeste routes laadpalen.
 
 **Veerboten:** Onmisbaar voor een reis langs de fjorden; voor veel fjordoversteken bestaat geen alternatief over de weg. De Hurtigruten-kustboot van Bergen naar Kirkenes doet er 6 dagen over en is een van de grote zeereizen ter wereld. Autoveren boek je via Fjord1 en Norled; reserveer voor zomerse overtochten van tevoren.
 
@@ -57,10 +57,10 @@ Het meest bepalende aan Noorwegen is het licht, of beter gezegd de uitersten erv
 
 ## Tours en belevenissen
 
-Kajaktochten op de Geirangerfjord, noorderlichtsafari's vanuit Tromsø, hondensleetochten in Finnmark en fjordexcursies vanuit Flåm boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Norway). Het seizoen voor poolexpedities op Spitsbergen (maart–oktober) regel je het best via gespecialiseerde Arctische reisorganisaties. Zeekajakken en gletsjerwandelingen rond de Jostedalsbreen zijn te boeken bij regionale aanbieders.
+Kajaktochten op de Geirangerfjord, noorderlichtsafari's vanuit Tromsø, hondensleetochten in Finnmark en fjordexcursies vanuit Flåm boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Norway). Het seizoen voor poolexpedities op Spitsbergen (maart–oktober) regel je het best via gespecialiseerde Arctische reisorganisaties. Zeekajakken en gletsjerwandelingen rond de Jostedalsbreen zijn te boeken bij regionale aanbieders op [WeGoTrip](https://wegotrip.com/destinations/norway/).
 
 ## Praktische zaken
 
-**eSIM:** Noorwegen heeft uitstekende 4G-dekking op alle hoofdwegen en in de steden; op Spitsbergen en in heel afgelegen fjordgebieden valt het signaal weg. Regel vóór vertrek een Noorse eSIM via [Klook](https://www.klook.com/en-US/search-results/?query=Norway%20eSIM); Telenor heeft de beste dekking op het platteland en op Spitsbergen.
+**eSIM:** Noorwegen heeft uitstekende 4G-dekking op alle hoofdwegen en in de steden; op Spitsbergen en in heel afgelegen fjordgebieden valt het signaal weg. Regel vóór vertrek een Noorse eSIM via [Airalo](https://www.airalo.com); Telenor heeft de beste dekking op het platteland en op Spitsbergen.
 
-**Reisverzekering:** Onmisbaar voor de buitenactiviteiten in Noorwegen. Controleer of je polis bergwandelen dekt (reddingsacties bij Trolltunga en Preikestolen zijn duur). Zorg dat die ook avontuurlijke sporten en noodevacuatie dekt.
+**Reisverzekering:** Onmisbaar voor de buitenactiviteiten in Noorwegen. Controleer of je polis bergwandelen dekt (reddingsacties bij Trolltunga en Preikestolen zijn duur). Controleer ook of avontuurlijke sporten en noodevacuatie gedekt zijn; [EKTA](https://ektatraveling.com/) is een optie om te vergelijken.

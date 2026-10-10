@@ -122,6 +122,14 @@ const metaDesc = seo.metaDescription || experience.data.description;
             >
               {E.klook}
             </a>
+            <a
+              href={withTracking(`https://tiqets.com/en/search/?q=${encodeURIComponent(experience.en.destination)}`, { campaign: 'experience-tiqets', content: experience.slug })}
+              target="_blank"
+              rel="noopener noreferrer nofollow sponsored"
+              class="flex items-center justify-center gap-2 w-full bg-[#6C3AE8] hover:bg-[#5b2fd0] text-white font-body font-semibold text-sm px-4 py-2.5 rounded-full transition-all"
+            >
+              {E.tiqets}
+            </a>
           </div>
 
           <a

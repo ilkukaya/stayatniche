@@ -37,22 +37,22 @@ De Negevwoestijn, die 60% van het landoppervlak beslaat, verrast steeds weer rei
 
 ## Zo kom je er
 
-**Vluchten:** Ben Gurion International Airport (TLV) bij Tel Aviv is de belangrijkste toegangspoort van Israël, met rechtstreekse vluchten vanuit alle Europese hoofdsteden, Noord-Amerika en de grote Aziatische knooppunten.
+**Vluchten:** Ben Gurion International Airport (TLV) bij Tel Aviv is de belangrijkste toegangspoort van Israël, met rechtstreekse vluchten vanuit alle Europese hoofdsteden, Noord-Amerika en de grote Aziatische knooppunten. Ramon Airport (ETM) bij Eilat verzorgt regionale verbindingen en charters. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Israel/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/israel).
 
-**Luchthaventransfer:** Ben Gurion ligt op 20 km van Tel Aviv en 50 km van Jeruzalem. Elke 30 minuten rijdt er een trein naar het centrum van Tel Aviv. Voor een privétransfer – vooral handig bij een late aankomst of als je naar Jeruzalem gaat – boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Tel%20Aviv%20airport%20transfer).
+**Luchthaventransfer:** Ben Gurion ligt op 20 km van Tel Aviv en 50 km van Jeruzalem. Elke 30 minuten rijdt er een trein naar het centrum van Tel Aviv. Voor een privétransfer – vooral handig bij een late aankomst of als je naar Jeruzalem gaat – boek je via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tel+Aviv) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tel+Aviv).
 
 ## Onderweg
 
-**Huurauto:** Onmisbaar voor de Negev en Galilea. De Israëlische wegen zijn uitstekend en goed bewegwijzerd in het Hebreeuws en Engels. Vergelijk huurprijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20car%20rental). Let op: mijd de goedkoopste lokale verhuurders, de kwaliteit loopt sterk uiteen.
+**Huurauto:** Onmisbaar voor de Negev en Galilea. De Israëlische wegen zijn uitstekend en goed bewegwijzerd in het Hebreeuws en Engels. Vergelijk huurprijzen op [Localrent](https://localrent.com/en/?location=Israel), [QEEQ](https://www.qeeq.com/search?q=Israel) of [AutoEurope](https://www.autoeurope.eu/). Let op: mijd de goedkoopste lokale verhuurders, de kwaliteit loopt sterk uiteen.
 
 **Trein en bus:** Het spoornet verbindt Tel Aviv, Jeruzalem, Haifa, Be'er Sheva en Nahariya. De busmaatschappijen Egged en Dan rijden de routes waar geen trein komt. De lightrail van Jeruzalem is handig binnen de stad. Let op: tijdens sjabbat rijdt er geen openbaar vervoer.
 
 ## Tours en belevenissen
 
-Boek rondleidingen door de oude stad van Jeruzalem, dagtochten naar de Dode Zee, begeleide wandelingen in Makhtesh Ramon en Masada bij zonsopgang via [Klook](https://www.klook.com/en-US/search-results/?query=Israel). Jeeptochten door de Negev en overnachtingen in bedoeïenenkampen worden goed aangeboden door regionale organisaties. Wijntours in de Golan en Galilea boek je op dezelfde manier.
+Boek rondleidingen door de oude stad van Jeruzalem, dagtochten naar de Dode Zee, begeleide wandelingen in Makhtesh Ramon en Masada bij zonsopgang via [Klook](https://www.klook.com/en-US/search-results/?query=Israel). Jeeptochten door de Negev en overnachtingen in bedoeïenenkampen worden goed aangeboden door regionale organisaties. Wijntours in de Golan en Galilea boek je via [WeGoTrip](https://wegotrip.com/destinations/israel/).
 
 ## Handig voor onderweg
 
-**eSIM:** Israël heeft uitstekende 4G/5G-dekking, ook langs de snelwegen door de Negev, al valt het signaal weg in de afgelegen woestijn. Regel een eSIM voor Israël via [Klook](https://www.klook.com/en-US/search-results/?query=Israel%20eSIM); Cellcom en Partner hebben de beste dekking buiten de steden.
+**eSIM:** Israël heeft uitstekende 4G/5G-dekking, ook langs de snelwegen door de Negev, al valt het signaal weg in de afgelegen woestijn. Regel een eSIM voor Israël via [Airalo](https://www.airalo.com); Cellcom en Partner hebben de beste dekking buiten de steden.
 
-**Reisverzekering:** Een gewone reisverzekering dekt Israël; sommige polissen sluiten gebieden bij conflictzones uit. Controleer je polis daar specifiek op.
+**Reisverzekering:** Een gewone reisverzekering dekt Israël; sommige polissen sluiten gebieden bij conflictzones uit. Controleer je polis daar specifiek op. [EKTA](https://ektatraveling.com/) biedt reisverzekeringen aan; controleer of de polis avontuurlijke activiteiten zoals woestijnwandelen en duiken dekt.

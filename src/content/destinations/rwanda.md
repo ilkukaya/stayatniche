@@ -53,22 +53,22 @@ Kigali International Airport now receives direct flights from Brussels, London, 
 
 ## Getting There
 
-**Flights:** Kigali International Airport (KGL) receives direct flights from Brussels (RwandAir and Brussels Airlines), London Gatwick, Nairobi, Addis Ababa, Dubai, and Johannesburg. Qatar Airways and Kenya Airways provide connections from Asia, the Americas, and the rest of Africa via their hubs. Compare fares and book flights early.
+**Flights:** Kigali International Airport (KGL) receives direct flights from Brussels (RwandAir and Brussels Airlines), London Gatwick, Nairobi, Addis Ababa, Dubai, and Johannesburg. Qatar Airways and Kenya Airways provide connections from Asia, the Americas, and the rest of Africa via their hubs. Search and compare flights on [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Rwanda/anytime/anytime) and [Aviasales](https://www.aviasales.com/search/to/rwanda).
 
-**Airport Transfer:** Kigali's airport sits 12km from the city centre. Book private transfers through [Klook](https://www.klook.com/en-US/search-results/?query=Kigali%20airport%20transfer). Most lodges near Volcanoes National Park arrange direct airport pick-up to reduce overland transit time.
+**Airport Transfer:** Kigali's airport sits 12km from the city centre. Book private transfers through [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kigali) or [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kigali). Most lodges near Volcanoes National Park arrange direct airport pick-up to reduce overland transit time.
 
 ## Getting Around
 
-**Hire Car with Driver:** The standard approach for Rwanda travel. Roads are excellent by regional standards; Kigali to Volcanoes National Park is 2.5 hours, to Nyungwe Forest 4 hours, to Akagera 2.5 hours. Compare self-drive rates on [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20car%20rental) — but a driver is recommended for park areas where local knowledge matters.
+**Hire Car with Driver:** The standard approach for Rwanda travel. Roads are excellent by regional standards; Kigali to Volcanoes National Park is 2.5 hours, to Nyungwe Forest 4 hours, to Akagera 2.5 hours. Compare self-drive rates on [QEEQ](https://www.qeeq.com/search?q=Rwanda) — but a driver is recommended for park areas where local knowledge matters.
 
 **Motorcycles (Motos):** The ubiquitous urban transport in Kigali — safe, fast, and cheap. Regulated helmets are mandatory and provided.
 
 ## Tours & Experiences
 
-Book gorilla trekking permits (managed by the Rwanda Development Board — permits $1,500 per person), golden monkey trekking, chimpanzee habituation in Nyungwe, and Kigali genocide memorial tours through [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Hot air balloon flights over Rwanda's thousand hills are an extraordinary add-on. Cultural experiences and community market visits are bookable through [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20cultural%20experience).
+Book gorilla trekking permits (managed by the Rwanda Development Board — permits $1,500 per person), golden monkey trekking, chimpanzee habituation in Nyungwe, and Kigali genocide memorial tours through [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda). Hot air balloon flights over Rwanda's thousand hills are an extraordinary add-on. Cultural experiences and community market visits are bookable through [WeGoTrip](https://wegotrip.com/destinations/rwanda/).
 
 ## Travel Essentials
 
-**eSIM:** Get a Rwanda eSIM from [Klook](https://www.klook.com/en-US/search-results/?query=Rwanda%20eSIM). MTN Rwanda has the best coverage including in the Volcanoes and Nyungwe park areas. Lodge properties often have satellite WiFi.
+**eSIM:** Get a Rwanda eSIM from [Airalo](https://www.airalo.com). MTN Rwanda has the best coverage including in the Volcanoes and Nyungwe park areas. Lodge properties often have satellite WiFi.
 
-**Travel Insurance:** Medical evacuation to Nairobi or Johannesburg is the relevant risk for remote lodges. Make sure your policy includes evacuation and covers gorilla trekking as an adventure activity.
+**Travel Insurance:** Medical evacuation to Nairobi or Johannesburg is the relevant risk for remote lodges. Check that the policy covers medical evacuation and gorilla trekking as an adventure activity; [EKTA](https://ektatraveling.com/) is one option to compare.

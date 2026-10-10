@@ -46,24 +46,24 @@ Wat de betere safariorganisaties in Kenia echt duurzaam maakt, is de directe kop
 
 ## Zo kom je er
 
-**Vluchten:** Jomo Kenyatta International Airport (NBO) in Nairobi is het belangrijkste knooppunt van Oost-Afrika, met rechtstreekse verbindingen vanuit Londen, Amsterdam, Parijs, Dubai, Doha, Mumbai en grote Afrikaanse steden. Wilson Airport (WIL), een kleine binnenlandse luchthaven op 6 km van de stad, verzorgt de verbindingen met kleine vliegtuigjes naar de safarikampen. Veel afgelegen lodges (Chyulu Hills, het Laikipia-plateau) zijn alleen per chartervlucht bereikbaar. Boek internationale vluchten op tijd voor de beste prijzen.
+**Vluchten:** Jomo Kenyatta International Airport (NBO) in Nairobi is het belangrijkste knooppunt van Oost-Afrika, met rechtstreekse verbindingen vanuit Londen, Amsterdam, Parijs, Dubai, Doha, Mumbai en grote Afrikaanse steden. Wilson Airport (WIL), een kleine binnenlandse luchthaven op 6 km van de stad, verzorgt de verbindingen met kleine vliegtuigjes naar de safarikampen. Veel afgelegen lodges (Chyulu Hills, het Laikipia-plateau) zijn alleen per chartervlucht bereikbaar. Zoek internationale vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kenya/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/kenya).
 
-**Luchthaventransfer:** De internationale terminal van Nairobi ligt bij rustig verkeer op 20 minuten van de stad. Boek een privétransfer via [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer); ga niet in op taxironselaars in de aankomsthal.
+**Luchthaventransfer:** De internationale terminal van Nairobi ligt bij rustig verkeer op 20 minuten van de stad. Boek een privétransfer via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi); ga niet in op taxironselaars in de aankomsthal.
 
 ## Onderweg
 
 **Kleine vliegtuigjes:** De standaardmanier om afgelegen safarikampen te bereiken. Safarilink, Air Kenya en Fly540 vliegen van Wilson Airport naar de Masai Mara, Amboseli, Samburu en Laikipia. Dankzij landingsstrips in de bush bij de lodges reis je van deur tot deur. De meeste lodges regelen de chartervluchten zelf.
 
-**Zelf rijden:** Kan in Nairobi en op de hoofdwegen, maar is zonder lokale kennis niet aan te raden in safarigebieden. De meeste bezoekers gebruiken de gamedrives en transfers van hun lodge. Voor de stad vergelijk je prijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20car%20rental).
+**Zelf rijden:** Kan in Nairobi en op de hoofdwegen, maar is zonder lokale kennis niet aan te raden in safarigebieden. De meeste bezoekers gebruiken de gamedrives en transfers van hun lodge. Voor de stad vergelijk je prijzen op [QEEQ](https://www.qeeq.com/search?q=Nairobi%2C+Kenya) of [Localrent](https://localrent.com/en/?location=Nairobi).
 
 ## Tours en belevenissen
 
-Boek gamedrives in de Masai Mara, halve dagen in Nairobi National Park, bezoeken aan het Giraffe Centre en tochten om de Grote Migratie te volgen via [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). Ballonsafari's boven de Mara – een van de mooiste ervaringen van Afrika – boek je rechtstreeks bij de aanbieders. Culturele ervaringen bij de Masai en bezoeken aan gemeenschappen boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20Maasai%20cultural%20experience).
+Boek gamedrives in de Masai Mara, halve dagen in Nairobi National Park, bezoeken aan het Giraffe Centre en tochten om de Grote Migratie te volgen via [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). Ballonsafari's boven de Mara – een van de mooiste ervaringen van Afrika – boek je rechtstreeks bij de aanbieders. Culturele ervaringen bij de Masai en bezoeken aan gemeenschappen boek je via [WeGoTrip](https://wegotrip.com/destinations/kenya/).
 
 ## Handig voor onderweg
 
-**eSIM:** Regel een eSIM voor Kenia via [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM). Safaricom heeft de beste dekking op het platteland, ook in de meeste nationale parken; bij afgelegen lodges (die satelliet of radio gebruiken) heb je geen bereik.
+**eSIM:** Regel een eSIM voor Kenia via [Airalo](https://www.airalo.com). Safaricom heeft de beste dekking op het platteland, ook in de meeste nationale parken; bij afgelegen lodges (die satelliet of radio gebruiken) heb je geen bereik.
 
-**Reisverzekering:** Een verzekering voor medische evacuatie is onmisbaar bij verblijven in afgelegen kampen: een evacuatie per vliegtuig van Laikipia of Chyulu Hills naar Nairobi kost $ 3.000–6.000.
+**Reisverzekering:** Een verzekering voor medische evacuatie is onmisbaar bij verblijven in afgelegen kampen: een evacuatie per vliegtuig van Laikipia of Chyulu Hills naar Nairobi kost $ 3.000–6.000. Controleer of de polis medische evacuatie dekt; [EKTA](https://ektatraveling.com/) is een optie om te vergelijken.
 
-**VPN:** Sommige satellietverbindingen van lodges zijn beperkt; met een VPN heb je weer volledige internettoegang.
+**VPN:** een VPN is handig voor de rustige uren in de lodge. Sommige satellietverbindingen van lodges zijn beperkt; met een VPN heb je weer volledige internettoegang.

@@ -15,10 +15,39 @@ export const VERIFIED = {
   'expedia.com': { p: '8645', campaign: '594' },
 };
 
-// Partners approved in the Travelpayouts account (My Programs, checked 2026-10-10: Expedia and
-// Klook only). Plain links to these are converted by Drive; links to hosts outside this list are
-// treated as ordinary external links and earn nothing, so the site does not promote them.
-export const APPROVED = ['expedia.com', 'klook.com'];
+// Partners approved in the Travelpayouts account (My Programs, 27 programs, checked 2026-10-10).
+// Plain links to these are converted by Drive; links to hosts outside this list are treated as
+// ordinary external links and earn nothing, so the site does not promote them.
+// Program ids in brackets (app.travelpayouts.com/programs/<id>).
+export const APPROVED = [
+  'expedia.com',          // Expedia [594], hotels
+  'klook.com',            // Klook [137], tours, transfers, eSIM, car rental
+  'kkday.com',            // KKday [633], tours
+  'tiqets.com',           // Tiqets [89], attraction tickets
+  'gocity.com',           // Go City [62], city passes
+  'wegotrip.com',         // WeGoTrip [150], audio tours
+  'aviasales.com',        // Aviasales [100], flights
+  'kiwi.com',             // Kiwi.com [111], flights
+  'welcomepickups.com',   // Welcome Pickups [627], transfers
+  'kiwitaxi.com',         // Kiwitaxi [1], transfers
+  'gettransfer.com',      // GetTransfer [147], transfers
+  'intui.travel',         // intui.travel [22], transfers
+  'localrent.com',        // Localrent [87], car rental
+  'getrentacar.com',      // GetRentacar [222], car rental
+  'qeeq.com',             // QEEQ [172], car rental
+  'economybookings.com',  // Economybookings [10], car rental
+  'autoeurope.eu',        // AutoEurope EU/UK [143], car rental (not autoeurope.com)
+  'bikesbooking.com',     // BikesBooking [57], scooters and bikes
+  'airalo.com',           // Airalo [541], eSIM
+  'yesim.tech', 'yesim.app', // Yesim [224], eSIM
+  'saily.com',            // Saily [629], eSIM
+  'gigsky.com',           // GigSky [636], eSIM
+  'drimsim.com',          // Drimsim [102], SIM
+  'ektatraveling.com',    // EKTA [225], travel insurance
+  'airhelp.com',          // AirHelp [120], flight compensation
+  'compensair.com',       // Compensair [86], flight compensation
+  'radicalstorage.com',   // Radical Storage [209], luggage storage
+];
 
 export const hostKey = (host) => host.replace(/^www\./, '').toLowerCase();
 export const isPartner = (host) => APPROVED.some(d => hostKey(host) === d || hostKey(host).endsWith('.' + d));
@@ -36,7 +65,7 @@ const SAFE_LANDING = {
   'kiwitaxi.com': 'https://kiwitaxi.com/',
   'gettransfer.com': 'https://gettransfer.com/',
   'qeeq.com': 'https://www.qeeq.com/',
-  'autoeurope.com': 'https://www.autoeurope.com/',
+  'autoeurope.eu': 'https://www.autoeurope.eu/',
   'economybookings.com': 'https://www.economybookings.com/',
   'intui.travel': 'https://intui.travel/',
   'bikebooking.com': 'https://www.bikesbooking.com/',

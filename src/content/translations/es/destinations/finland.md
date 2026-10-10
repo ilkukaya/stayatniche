@@ -43,22 +43,22 @@ Helsinki merece más que una noche de paso. El Design District, la iglesia de Te
 
 ## Cómo llegar
 
-**Vuelos:** Helsinki-Vantaa (HEL) es el principal aeropuerto de Finlandia, con conexiones directas a toda Europa y rutas de largo recorrido a Asia con Finnair. Rovaniemi (RVN) recibe vuelos chárter directos de temporada desde el Reino Unido y Alemania (de noviembre a marzo), lo que evita la conexión en Helsinki en los viajes invernales a Laponia. Ivalo (IVL), el aeropuerto más cercano a las cabañas para ver auroras de Saariselkä, está a menos de 90 minutos de Helsinki.
+**Vuelos:** Helsinki-Vantaa (HEL) es el principal aeropuerto de Finlandia, con conexiones directas a toda Europa y rutas de largo recorrido a Asia con Finnair. Rovaniemi (RVN) recibe vuelos chárter directos de temporada desde el Reino Unido y Alemania (de noviembre a marzo), lo que evita la conexión en Helsinki en los viajes invernales a Laponia. Ivalo (IVL), el aeropuerto más cercano a las cabañas para ver auroras de Saariselkä, está a menos de 90 minutos de Helsinki. Busca vuelos en [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Finland/anytime/anytime) y [Aviasales](https://www.aviasales.com/search/to/finland).
 
-**Traslado desde el aeropuerto:** la línea ferroviaria circular de Helsinki conecta el aeropuerto de Vantaa con el centro en 30 minutos. En Rovaniemi o Ivalo, la mayoría de los lodges de Laponia ofrecen traslado directo. Reserva traslados privados en la ciudad con [Klook](https://www.klook.com/en-US/search-results/?query=Helsinki%20airport%20transfer).
+**Traslado desde el aeropuerto:** la línea ferroviaria circular de Helsinki conecta el aeropuerto de Vantaa con el centro en 30 minutos. En Rovaniemi o Ivalo, la mayoría de los lodges de Laponia ofrecen traslado directo. Reserva traslados privados en la ciudad con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Helsinki) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Helsinki).
 
 ## Cómo moverse
 
-**Alquiler de coche:** imprescindible en la región de los lagos y en Laponia. Los neumáticos de invierno son obligatorios de noviembre a marzo. Compara precios en [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20car%20rental).
+**Alquiler de coche:** imprescindible en la región de los lagos y en Laponia. Los neumáticos de invierno son obligatorios de noviembre a marzo. Compara precios en [Localrent](https://localrent.com/en/?location=Finland), [QEEQ](https://www.qeeq.com/search?q=Finland) y [AutoEurope](https://www.autoeurope.eu/).
 
 **Tren:** VR, los ferrocarriles finlandeses, une Helsinki y Rovaniemi de noche con el tren nocturno Santa Claus Express (12 horas, toda una experiencia en sí misma). Reserva en [VR](https://www.vr.fi/en).
 
 ## Excursiones y experiencias
 
-Reserva safaris de auroras boreales, excursiones en trineo de huskies, visitas a granjas de renos y experiencias de sauna finlandesa en [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Las rutas de arquitectura por Helsinki, el kayak por el archipiélago y las saunas de humo tradicionales están disponibles allí también.
+Reserva safaris de auroras boreales, excursiones en trineo de huskies, visitas a granjas de renos y experiencias de sauna finlandesa en [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Las rutas de arquitectura por Helsinki, el kayak por el archipiélago y las saunas de humo tradicionales están disponibles en [WeGoTrip](https://wegotrip.com/destinations/finland/).
 
 ## Imprescindibles del viaje
 
-**eSIM:** consigue una eSIM para Finlandia en [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20eSIM) antes de salir. Elisa y DNA tienen la mejor cobertura rural. La mayoría de los lodges de Laponia tienen wifi por satélite.
+**eSIM:** consigue una eSIM para Finlandia en [Airalo](https://www.airalo.com) antes de salir. Elisa y DNA tienen la mejor cobertura rural. La mayoría de los lodges de Laponia tienen wifi por satélite.
 
-**Seguro de viaje:** incluye los deportes de invierno si vas a ir en moto de nieve.
+**Seguro de viaje:** incluye los deportes de invierno si vas a ir en moto de nieve. [EKTA](https://ektatraveling.com/) ofrece seguros de viaje; comprueba que la póliza cubra las actividades en climas fríos.

@@ -46,24 +46,24 @@ Ciò che rende davvero sostenibili i migliori operatori di safari del Kenya è i
 
 ## Come arrivare
 
-**Voli:** il Jomo Kenyatta International Airport (NBO) di Nairobi è il principale hub dell’Africa orientale, con collegamenti diretti da Londra, Amsterdam, Parigi, Dubai, Doha, Mumbai e dalle principali città africane. Il Wilson Airport (WIL), un piccolo aeroporto nazionale a 6 km dalla città, gestisce i voli con piccoli aerei verso i campi safari. Molti lodge remoti (Chyulu Hills, altopiano di Laikipia) sono raggiungibili solo con voli charter. Prenota per tempo i voli internazionali per ottenere le tariffe migliori.
+**Voli:** il Jomo Kenyatta International Airport (NBO) di Nairobi è il principale hub dell’Africa orientale, con collegamenti diretti da Londra, Amsterdam, Parigi, Dubai, Doha, Mumbai e dalle principali città africane. Il Wilson Airport (WIL), un piccolo aeroporto nazionale a 6 km dalla città, gestisce i voli con piccoli aerei verso i campi safari. Molti lodge remoti (Chyulu Hills, altopiano di Laikipia) sono raggiungibili solo con voli charter. Cerca i voli internazionali su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kenya/anytime/anytime) e [Aviasales](https://www.aviasales.com/search/to/kenya).
 
-**Transfer dall’aeroporto:** con poco traffico, il terminal internazionale di Nairobi è a 20 minuti dalla città. Prenota un transfer privato con [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20airport%20transfer) ed evita i procacciatori di taxi agli arrivi.
+**Transfer dall’aeroporto:** con poco traffico, il terminal internazionale di Nairobi è a 20 minuti dalla città. Prenota un transfer privato con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Nairobi) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Nairobi) ed evita i procacciatori di taxi agli arrivi.
 
 ## Come muoversi
 
 **Piccoli aerei:** sono il modo standard per raggiungere i campi safari remoti. Safarilink, Air Kenya e Fly540 collegano il Wilson Airport a Maasai Mara, Amboseli, Samburu e Laikipia. Le piste d’atterraggio nella savana accanto ai lodge garantiscono un servizio porta a porta. La maggior parte dei lodge organizza direttamente i voli charter.
 
-**Guida in autonomia:** possibile a Nairobi e sulle strade principali, ma sconsigliata nelle zone di safari senza conoscenze locali. La maggior parte dei visitatori si affida a fotosafari e transfer organizzati dai lodge. Per esplorare la città, confronta le tariffe su [Klook](https://www.klook.com/en-US/search-results/?query=Nairobi%20car%20rental).
+**Guida in autonomia:** possibile a Nairobi e sulle strade principali, ma sconsigliata nelle zone di safari senza conoscenze locali. La maggior parte dei visitatori si affida a fotosafari e transfer organizzati dai lodge. Per esplorare la città, confronta le tariffe su [QEEQ](https://www.qeeq.com/search?q=Nairobi%2C+Kenya) o [Localrent](https://localrent.com/en/?location=Nairobi).
 
 ## Tour ed esperienze
 
-Prenota fotosafari nel Maasai Mara, tour di mezza giornata nel Nairobi National Park, visite al Giraffe Centre e tour per seguire la grande migrazione su [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). I safari in mongolfiera sul Mara, tra le esperienze più belle d’Africa, si prenotano direttamente presso gli operatori. Esperienze culturali masai e visite alle comunità si prenotano su [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20Maasai%20cultural%20experience).
+Prenota fotosafari nel Maasai Mara, tour di mezza giornata nel Nairobi National Park, visite al Giraffe Centre e tour per seguire la grande migrazione su [Klook](https://www.klook.com/en-US/search-results/?query=Kenya+safari). I safari in mongolfiera sul Mara, tra le esperienze più belle d’Africa, si prenotano direttamente presso gli operatori. Esperienze culturali masai e visite alle comunità si prenotano su [WeGoTrip](https://wegotrip.com/destinations/kenya/).
 
 ## Informazioni pratiche
 
-**eSIM:** procurati una eSIM per il Kenya su [Klook](https://www.klook.com/en-US/search-results/?query=Kenya%20eSIM). Safaricom ha la migliore copertura rurale, anche nella maggior parte dei parchi nazionali; nei lodge remoti (che usano collegamenti satellitari o radio) il segnale è assente.
+**eSIM:** procurati una eSIM per il Kenya su [Airalo](https://www.airalo.com). Safaricom ha la migliore copertura rurale, anche nella maggior parte dei parchi nazionali; nei lodge remoti (che usano collegamenti satellitari o radio) il segnale è assente.
 
-**Assicurazione di viaggio:** per i soggiorni nei campi remoti è indispensabile un’assicurazione che copra l’evacuazione sanitaria: un volo di evacuazione da Laikipia o dalle Chyulu Hills a Nairobi costa 3.000–6.000 $.
+**Assicurazione di viaggio:** per i soggiorni nei campi remoti è indispensabile un’assicurazione che copra l’evacuazione sanitaria: un volo di evacuazione da Laikipia o dalle Chyulu Hills a Nairobi costa 3.000–6.000 $. Verifica che la polizza copra l’evacuazione sanitaria; [EKTA](https://ektatraveling.com/) è un’opzione da confrontare.
 
-**VPN:** Alcune connessioni satellitari dei lodge sono limitate: una VPN ripristina l’accesso completo a internet.
+**VPN:** una VPN è utile per i momenti di relax al lodge. Alcune connessioni satellitari dei lodge sono limitate: una VPN ripristina l’accesso completo a internet.

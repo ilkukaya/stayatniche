@@ -36,22 +36,22 @@ Il fiume, largo fino a 48 chilometri durante le piene della stagione delle piogg
 
 ## Come arrivare
 
-**Voli:** gli aeroporti di Guarulhos (GRU) e Campinas (VCP), a San Paolo, sono le principali porte d’ingresso internazionali. Il Galeão (GIG) di Rio de Janeiro accoglie le grandi rotte internazionali. Per l’Amazzonia vola su Manaus (MAO) o Belém (BEL); Manaus ha collegamenti da Miami, Lisbona e da tutte le principali città brasiliane. Alta Floresta (ATF, per il Cristalino Lodge) si raggiunge via Cuiabá (CGB) da San Paolo.
+**Voli:** gli aeroporti di Guarulhos (GRU) e Campinas (VCP), a San Paolo, sono le principali porte d’ingresso internazionali. Il Galeão (GIG) di Rio de Janeiro accoglie le grandi rotte internazionali. Per l’Amazzonia vola su Manaus (MAO) o Belém (BEL); Manaus ha collegamenti da Miami, Lisbona e da tutte le principali città brasiliane. Alta Floresta (ATF, per il Cristalino Lodge) si raggiunge via Cuiabá (CGB) da San Paolo. Cerca i voli su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Brazil/anytime/anytime) o [Aviasales](https://www.aviasales.com/search/to/brazil).
 
-**Transfer dall’aeroporto:** prenota transfer privati dagli aeroporti brasiliani con [Klook](https://www.klook.com/en-US/search-results/?query=Manaus%20airport%20transfer). Per i lodge remoti, di solito è la struttura stessa a occuparsi della logistica.
+**Transfer dall’aeroporto:** prenota transfer privati dagli aeroporti brasiliani con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Manaus) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Manaus). Per i lodge remoti, di solito è la struttura stessa a occuparsi della logistica.
 
 ## Come muoversi
 
-**Voli interni:** indispensabili per coprire le distanze del Brasile. LATAM, Gol e Azul collegano tutte le principali città. Prenota direttamente o confronta le offerte sui comparatori di voli brasiliani. Per il noleggio auto nel sud e nelle città, confronta su [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20car%20rental).
+**Voli interni:** indispensabili per coprire le distanze del Brasile. LATAM, Gol e Azul collegano tutte le principali città. Prenota direttamente o confronta le offerte sui comparatori di voli brasiliani. Per il noleggio auto nel sud e nelle città, confronta su [Localrent](https://localrent.com/en/?location=Brazil), [QEEQ](https://www.qeeq.com/search?q=Brazil) o [AutoEurope](https://www.autoeurope.eu/).
 
 **Battelli fluviali:** i traghetti lenti sul Rio delle Amazzoni sono autentici ed economici (da Manaus a Santarém 36 ore; da Manaus a Belém 4–5 giorni). Motoscafi più veloci e idrovolanti a noleggio servono i lodge più isolati.
 
 ## Tour ed esperienze
 
-Prenota tour naturalistici in Amazzonia, safari del giaguaro nel Pantanal ed esperienze a Rio su [Klook](https://www.klook.com/en-US/search-results/?query=Brazil). I pacchetti specializzati nei lodge amazzonici e le crociere di spedizione sul fiume si organizzano al meglio tramite operatori di ecoturismo locali.
+Prenota tour naturalistici in Amazzonia, safari del giaguaro nel Pantanal ed esperienze a Rio su [Klook](https://www.klook.com/en-US/search-results/?query=Brazil). I pacchetti specializzati nei lodge amazzonici e le crociere di spedizione sul fiume si organizzano al meglio tramite operatori di ecoturismo locali o [WeGoTrip](https://wegotrip.com/destinations/brazil/).
 
 ## Informazioni pratiche
 
-**eSIM:** il Brasile ha una buona copertura 4G nelle città e lungo le strade principali; nel cuore dell’Amazzonia il segnale è assente. Procurati una eSIM locale su [Klook](https://www.klook.com/en-US/search-results/?query=Brazil%20eSIM): Claro e Vivo hanno la migliore copertura rurale. La maggior parte dei lodge amazzonici dispone di connessione satellitare o VSAT.
+**eSIM:** il Brasile ha una buona copertura 4G nelle città e lungo le strade principali; nel cuore dell’Amazzonia il segnale è assente. Procurati una eSIM locale su [Airalo](https://www.airalo.com): Claro e Vivo hanno la migliore copertura rurale. La maggior parte dei lodge amazzonici dispone di connessione satellitare o VSAT.
 
-**Assicurazione di viaggio:** indispensabile, viste le disparità del sistema sanitario brasiliano e l’impegno fisico di un viaggio in Amazzonia. Per i soggiorni nei lodge remoti è importante la copertura per l’evacuazione medica.
+**Assicurazione di viaggio:** indispensabile, viste le disparità del sistema sanitario brasiliano e l’impegno fisico di un viaggio in Amazzonia. Per i soggiorni nei lodge remoti è importante la copertura per l’evacuazione medica. Confronta le polizze su [EKTA](https://ektatraveling.com/) e verifica che quella scelta copra le attività d’avventura e l’evacuazione medica.

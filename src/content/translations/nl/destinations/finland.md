@@ -43,22 +43,22 @@ Helsinki verdient meer dan een nacht op doorreis. Het Design District, de Temppe
 
 ## Hoe kom je er
 
-**Vluchten:** Helsinki-Vantaa (HEL) is het belangrijkste knooppunt van Finland, met rechtstreekse verbindingen door heel Europa en langeafstandsroutes naar Azië met Finnair. Rovaniemi (RVN) heeft in het seizoen (november–maart) rechtstreekse chartervluchten uit het VK en Duitsland, zodat je voor een wintertrip naar Lapland niet via Helsinki hoeft. Ivalo (IVL), het dichtst bij de noorderlichthutten van Saariselkä, ligt minder dan 90 minuten vliegen van Helsinki.
+**Vluchten:** Helsinki-Vantaa (HEL) is het belangrijkste knooppunt van Finland, met rechtstreekse verbindingen door heel Europa en langeafstandsroutes naar Azië met Finnair. Rovaniemi (RVN) heeft in het seizoen (november–maart) rechtstreekse chartervluchten uit het VK en Duitsland, zodat je voor een wintertrip naar Lapland niet via Helsinki hoeft. Ivalo (IVL), het dichtst bij de noorderlichthutten van Saariselkä, ligt minder dan 90 minuten vliegen van Helsinki. Zoek vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Finland/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/finland).
 
-**Luchthaventransfer:** de Ring Rail Line van Helsinki verbindt het vliegveld Vantaa in 30 minuten met het centrum. In Rovaniemi of Ivalo regelen de meeste lodges in Lapland een rechtstreekse transfer. Boek een privétransfer in de stad via [Klook](https://www.klook.com/en-US/search-results/?query=Helsinki%20airport%20transfer).
+**Luchthaventransfer:** de Ring Rail Line van Helsinki verbindt het vliegveld Vantaa in 30 minuten met het centrum. In Rovaniemi of Ivalo regelen de meeste lodges in Lapland een rechtstreekse transfer. Boek een privétransfer in de stad via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Helsinki) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Helsinki).
 
 ## Vervoer ter plaatse
 
-**Autohuur:** onmisbaar voor het Merengebied en Lapland. Winterbanden zijn van november tot maart verplicht. Vergelijk prijzen op [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20car%20rental).
+**Autohuur:** onmisbaar voor het Merengebied en Lapland. Winterbanden zijn van november tot maart verplicht. Vergelijk prijzen op [Localrent](https://localrent.com/en/?location=Finland), [QEEQ](https://www.qeeq.com/search?q=Finland) en [AutoEurope](https://www.autoeurope.eu/).
 
 **Trein:** de Finse spoorwegen VR verbinden Helsinki 's nachts met Rovaniemi met de nachttrein Santa Claus Express (12 uur, een belevenis op zich). Boek via [VR](https://www.vr.fi/en).
 
 ## Tours en belevenissen
 
-Boek noorderlichtsafari's, tochten met de huskyslee, bezoeken aan rendierboerderijen en Finse saunabelevenissen via [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Architectuurtours in Helsinki, kajakken in de archipel en traditionele rooksauna's vind je daar ook.
+Boek noorderlichtsafari's, tochten met de huskyslee, bezoeken aan rendierboerderijen en Finse saunabelevenissen via [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Architectuurtours in Helsinki, kajakken in de archipel en traditionele rooksauna's vind je via [WeGoTrip](https://wegotrip.com/destinations/finland/).
 
 ## Praktisch
 
-**eSIM:** regel vóór vertrek een eSIM voor Finland bij [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20eSIM). Elisa en DNA hebben het beste bereik op het platteland. De meeste lodges in Lapland hebben wifi via satelliet.
+**eSIM:** regel vóór vertrek een eSIM voor Finland bij [Airalo](https://www.airalo.com). Elisa en DNA hebben het beste bereik op het platteland. De meeste lodges in Lapland hebben wifi via satelliet.
 
-**Reisverzekering:** zorg dat wintersport gedekt is als je gaat sneeuwscooteren.
+**Reisverzekering:** zorg dat wintersport gedekt is als je gaat sneeuwscooteren. [EKTA](https://ektatraveling.com/) biedt reisverzekeringen aan; controleer of de polis activiteiten in de kou dekt.

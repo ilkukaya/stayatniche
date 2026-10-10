@@ -45,20 +45,20 @@ Doordat de yen sinds 2022 aanhoudend zwak staat tegenover de dollar en de euro, 
 
 ## Zo kom je er
 
-**Vluchten:** Narita (NRT) en Haneda (HND) in Tokio zijn de belangrijkste internationale toegangspoorten; Kansai Airport (KIX) bij Osaka ligt dichter bij Kyoto (75 minuten met de Haruka Express). Door rechtstreekse vluchten naar Osaka vanuit Londen, Parijs, Amsterdam en Helsinki is aankomen in Kansai handig als je je reis in Kyoto begint.
+**Vluchten:** Narita (NRT) en Haneda (HND) in Tokio zijn de belangrijkste internationale toegangspoorten; Kansai Airport (KIX) bij Osaka ligt dichter bij Kyoto (75 minuten met de Haruka Express). Door rechtstreekse vluchten naar Osaka vanuit Londen, Parijs, Amsterdam en Helsinki is aankomen in Kansai handig als je je reis in Kyoto begint. Zoek en vergelijk vluchten op [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Kyoto/anytime/anytime) en [Aviasales](https://www.aviasales.com/search/to/osaka).
 
-**Luchthaventransfer naar Kyoto:** Vanaf Kansai bij Osaka ben je met de Haruka Limited Express in 75 minuten op Kyoto Station. Vanuit Tokio doet de shinkansen Nozomi 2 u 15 min over de rit naar Kyoto. Voor een privétransfer (handig met veel bagage of bij een late aankomst op Narita) boek je via [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto%20airport%20transfer).
+**Luchthaventransfer naar Kyoto:** Vanaf Kansai bij Osaka ben je met de Haruka Limited Express in 75 minuten op Kyoto Station. Vanuit Tokio doet de shinkansen Nozomi 2 u 15 min over de rit naar Kyoto. Voor een privétransfer (handig met veel bagage of bij een late aankomst op Narita) boek je via [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Kyoto) of [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Kyoto).
 
 ## Onderweg
 
-**Trein:** De Japan Rail Pass dekt de shinkansen tussen steden en de regionale JR-lijnen; koop hem voordat je naar Japan vertrekt. De stadsbussen en metro van Kyoto verbinden de belangrijkste tempelwijken. Met een IC-kaart (ICOCA in West-Japan, Suica in het hele land) betaal je in metro, bus en supermarktjes. Een huurauto heeft binnen Kyoto geen zin: door het verkeer en het parkeren werkt het averechts. Vergelijk prijzen voor uitstapjes in de regio op [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto%20car%20rental).
+**Trein:** De Japan Rail Pass dekt de shinkansen tussen steden en de regionale JR-lijnen; koop hem voordat je naar Japan vertrekt. De stadsbussen en metro van Kyoto verbinden de belangrijkste tempelwijken. Met een IC-kaart (ICOCA in West-Japan, Suica in het hele land) betaal je in metro, bus en supermarktjes. Een huurauto heeft binnen Kyoto geen zin: door het verkeer en het parkeren werkt het averechts. Vergelijk prijzen voor uitstapjes in de regio op [QEEQ](https://www.qeeq.com/search?q=Kyoto%2C+Japan) of [EconomyBookings](https://www.economybookings.com/?location=Kyoto).
 
 ## Tours en belevenissen
 
-Boek vroege wandelingen bij Fushimi Inari, rondleidingen door de geishawijk Gion, bezoeken aan sakebrouwerijen en tochten door het bamboebos van Arashiyama via [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto). Theeceremonies, foodtours over Nishiki Market en optredens van Kodo-trommelaars krijgen steevast goede beoordelingen. Traditioneel no-theater en diners met maiko (leerling-geisha's) boek je daar ook.
+Boek vroege wandelingen bij Fushimi Inari, rondleidingen door de geishawijk Gion, bezoeken aan sakebrouwerijen en tochten door het bamboebos van Arashiyama via [Klook](https://www.klook.com/en-US/search-results/?query=Kyoto). Theeceremonies, foodtours over Nishiki Market en optredens van Kodo-trommelaars krijgen steevast goede beoordelingen. Traditioneel no-theater en diners met maiko (leerling-geisha's) boek je via [WeGoTrip](https://wegotrip.com/destinations/kyoto/).
 
 ## Handig voor onderweg
 
-**eSIM:** Regel voor vertrek een eSIM voor Japan via [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM). IIJ en Docomo hebben uitstekende 4G-dekking in heel Japan, ook op het platteland. Een pocket-wifi huren op de luchthaven is het alternatief, maar een eSIM is eenvoudiger.
+**eSIM:** Regel voor vertrek een eSIM voor Japan via [Airalo](https://www.airalo.com). IIJ en Docomo hebben uitstekende 4G-dekking in heel Japan, ook op het platteland. Een pocket-wifi huren op de luchthaven is het alternatief, maar een eSIM is eenvoudiger.
 
-**Reisverzekering:** Een gewone reisverzekering dekt Japan goed. Het belangrijkst zijn annuleringsdekking (boekingen in het kersenbloesem- en herfstseizoen zijn duur om kwijt te raken) en ziektekosten (zorg in Japan is duur voor onverzekerde bezoekers).
+**Reisverzekering:** Een gewone reisverzekering dekt Japan goed. Het belangrijkst zijn annuleringsdekking (boekingen in het kersenbloesem- en herfstseizoen zijn duur om kwijt te raken) en ziektekosten (zorg in Japan is duur voor onverzekerde bezoekers). Vergelijk polissen, waaronder [EKTA](https://ektatraveling.com/), en controleer of de dekking in Japan geldt.

@@ -43,22 +43,22 @@ Helsinki verdient mehr als eine Transitnacht. Der Design District, die in den bl
 
 ## Anreise
 
-**Flüge:** Helsinki-Vantaa (HEL) ist Finnlands wichtigstes Drehkreuz, mit Direktverbindungen in ganz Europa und Langstrecken nach Asien mit Finnair. Rovaniemi (RVN) wird saisonal (November bis März) direkt per Charter aus Großbritannien und Deutschland angeflogen – für Winterreisen nach Lappland entfällt dann der Umstieg in Helsinki. Ivalo (IVL), der nächstgelegene Flughafen zu den Polarlicht-Hütten von Saariselkä, ist weniger als 90 Flugminuten von Helsinki entfernt.
+**Flüge:** Helsinki-Vantaa (HEL) ist Finnlands wichtigstes Drehkreuz, mit Direktverbindungen in ganz Europa und Langstrecken nach Asien mit Finnair. Rovaniemi (RVN) wird saisonal (November bis März) direkt per Charter aus Großbritannien und Deutschland angeflogen – für Winterreisen nach Lappland entfällt dann der Umstieg in Helsinki. Ivalo (IVL), der nächstgelegene Flughafen zu den Polarlicht-Hütten von Saariselkä, ist weniger als 90 Flugminuten von Helsinki entfernt. Flüge suchen Sie auf [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Finland/anytime/anytime) und [Aviasales](https://www.aviasales.com/search/to/finland).
 
-**Flughafentransfer:** Die Ringbahn verbindet den Flughafen Vantaa in 30 Minuten mit dem Stadtzentrum von Helsinki. In Rovaniemi oder Ivalo bieten die meisten Lodges in Lappland direkte Transfers an. Private Stadttransfers buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Helsinki%20airport%20transfer).
+**Flughafentransfer:** Die Ringbahn verbindet den Flughafen Vantaa in 30 Minuten mit dem Stadtzentrum von Helsinki. In Rovaniemi oder Ivalo bieten die meisten Lodges in Lappland direkte Transfers an. Private Stadttransfers buchen Sie über [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Helsinki) oder [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Helsinki).
 
 ## Unterwegs vor Ort
 
-**Mietwagen:** Für die Seenplatte und Lappland unverzichtbar. Von November bis März sind Winterreifen Pflicht. Preise vergleichen Sie auf [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20car%20rental).
+**Mietwagen:** Für die Seenplatte und Lappland unverzichtbar. Von November bis März sind Winterreifen Pflicht. Preise vergleichen Sie auf [Localrent](https://localrent.com/en/?location=Finland), [QEEQ](https://www.qeeq.com/search?q=Finland) und [AutoEurope](https://www.autoeurope.eu/).
 
 **Bahn:** Die finnische Bahn VR verbindet Helsinki über Nacht mit dem Schlafwagenzug Santa Claus Express mit Rovaniemi (12 Stunden – schon an sich ein Erlebnis). Buchung über [VR](https://www.vr.fi/en).
 
 ## Touren und Erlebnisse
 
-Polarlicht-Safaris, Hundeschlittentouren, Besuche auf Rentierfarmen und finnische Saunaerlebnisse buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Architekturführungen in Helsinki, Kajaktouren durch den Schärengarten und traditionelle Rauchsaunen finden Sie dort ebenfalls.
+Polarlicht-Safaris, Hundeschlittentouren, Besuche auf Rentierfarmen und finnische Saunaerlebnisse buchen Sie über [Klook](https://www.klook.com/en-US/search-results/?query=Finland). Architekturführungen in Helsinki, Kajaktouren durch den Schärengarten und traditionelle Rauchsaunen finden Sie bei [WeGoTrip](https://wegotrip.com/destinations/finland/).
 
 ## Reisepraktisches
 
-**eSIM:** Besorgen Sie sich vor der Abreise eine eSIM für Finnland bei [Klook](https://www.klook.com/en-US/search-results/?query=Finland%20eSIM). Elisa und DNA haben die beste Abdeckung auf dem Land. Die meisten Lodges in Lappland bieten WLAN per Satellit.
+**eSIM:** Besorgen Sie sich vor der Abreise eine eSIM für Finnland bei [Airalo](https://www.airalo.com). Elisa und DNA haben die beste Abdeckung auf dem Land. Die meisten Lodges in Lappland bieten WLAN per Satellit.
 
-**Reiseversicherung:** Wenn Sie Schneemobil fahren, sollte Wintersport abgedeckt sein.
+**Reiseversicherung:** Wenn Sie Schneemobil fahren, sollte Wintersport abgedeckt sein. [EKTA](https://ektatraveling.com/) bietet Reiseversicherungen an; prüfen Sie, ob die Police Aktivitäten bei Kälte abdeckt.

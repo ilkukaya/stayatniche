@@ -38,20 +38,20 @@ Questa mobilità cambia ciò che è possibile. Kyoto, Nara, Osaka, Kobe e Hirosh
 
 ## Come arrivare
 
-**Voli:** gli aeroporti di Narita (NRT) e Haneda (HND) a Tokyo sono le principali porte d’ingresso internazionali; Haneda gestisce ormai più rotte internazionali ed è più vicino al centro di Tokyo. Il Kansai International (KIX) di Osaka è il punto d’arrivo migliore per Kyoto, Hiroshima e il Giappone occidentale. Fukuoka (FUK) e Sapporo (CTS) servono i rispettivi poli regionali.
+**Voli:** gli aeroporti di Narita (NRT) e Haneda (HND) a Tokyo sono le principali porte d’ingresso internazionali; Haneda gestisce ormai più rotte internazionali ed è più vicino al centro di Tokyo. Il Kansai International (KIX) di Osaka è il punto d’arrivo migliore per Kyoto, Hiroshima e il Giappone occidentale. Fukuoka (FUK) e Sapporo (CTS) servono i rispettivi poli regionali. Cerca e confronta i voli per il Giappone su [Kiwi.com](https://www.kiwi.com/en/search/results/anywhere/Japan/anytime/anytime) o [Aviasales](https://www.aviasales.com/search/to/japan).
 
-**Transfer dall’aeroporto:** il Narita Express (N’EX) di Tokyo porta direttamente a Shinjuku, Shibuya e Yokohama in circa 60–90 minuti. La monorotaia di Haneda raggiunge Hamamatsuchō in 14 minuti. Per un transfer privato, utile se arrivi tardi o con bagagli pesanti, prenota con [Klook](https://www.klook.com/en-US/search-results/?query=Tokyo%20airport%20transfer).
+**Transfer dall’aeroporto:** il Narita Express (N’EX) di Tokyo porta direttamente a Shinjuku, Shibuya e Yokohama in circa 60–90 minuti. La monorotaia di Haneda raggiunge Hamamatsuchō in 14 minuti. Per un transfer privato, utile se arrivi tardi o con bagagli pesanti, prenota con [Welcome Pickups](https://www.welcomepickups.com/transfers/?destination=Tokyo) o [KiwiTaxi](https://kiwitaxi.com/search?startPlace=Tokyo).
 
 ## Come muoversi
 
-**Treno:** il Japan Rail Pass è la soluzione standard per spostarsi tra più città e copre lo Shinkansen e la maggior parte dei servizi JR. Va acquistato prima dell’arrivo tramite un’agenzia di viaggi o online. In città le reti di metropolitana sono capillari e le carte IC (Suica o Pasmo) valgono su tutti i mezzi. L’auto a noleggio ha senso soprattutto in Hokkaido e nelle zone rurali non servite dal treno; confronta le tariffe su [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20car%20rental).
+**Treno:** il Japan Rail Pass è la soluzione standard per spostarsi tra più città e copre lo Shinkansen e la maggior parte dei servizi JR. Va acquistato prima dell’arrivo tramite un’agenzia di viaggi o online. In città le reti di metropolitana sono capillari e le carte IC (Suica o Pasmo) valgono su tutti i mezzi. L’auto a noleggio ha senso soprattutto in Hokkaido e nelle zone rurali non servite dal treno; confronta le tariffe su [QEEQ](https://www.qeeq.com/search?q=Japan) o [EconomyBookings](https://www.economybookings.com/?location=Japan).
 
 ## Tour ed esperienze
 
-Prenota gite guidate in giornata, esperienze culturali ed escursioni al Fuji su [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Le cerimonie del tè nei ryokan e le visite alle distillerie di sake sono particolarmente ben rappresentate. Corsi di cucina tradizionale, visite agli allenamenti mattutini di sumo e biglietti per il teatro Nō sono disponibili anch’essi.
+Prenota gite guidate in giornata, esperienze culturali ed escursioni al Fuji su [Klook](https://www.klook.com/en-US/search-results/?query=Japan). Le cerimonie del tè nei ryokan e le visite alle distillerie di sake sono particolarmente ben rappresentate. Corsi di cucina tradizionale, visite agli allenamenti mattutini di sumo e biglietti per il teatro Nō sono disponibili su [WeGoTrip](https://wegotrip.com/destinations/japan/).
 
 ## Informazioni pratiche
 
-**eSIM:** la copertura mobile in Giappone è eccellente. Prima di partire acquista una eSIM per il Giappone su [Klook](https://www.klook.com/en-US/search-results/?query=Japan%20eSIM) (piani dati convenienti). In aeroporto si possono noleggiare pocket WiFi, ma la eSIM è più semplice.
+**eSIM:** la copertura mobile in Giappone è eccellente. Prima di partire acquista una eSIM per il Giappone su [Airalo](https://www.airalo.com) (piani dati convenienti a partire da 1.500 ¥). In aeroporto si possono noleggiare pocket WiFi, ma la eSIM è più semplice.
 
-**Assicurazione di viaggio:** indispensabile in Giappone, visto l’alto costo delle cure mediche. Sottoscrivi una copertura di breve durata che includa spese mediche e annullamento; confronta le polizze viaggio specializzate sui comuni siti di comparazione.
+**Assicurazione di viaggio:** indispensabile in Giappone, visto l’alto costo delle cure mediche. Verifica che la polizza copra le cure mediche e le attività previste; [EKTA](https://ektatraveling.com/) è un’opzione, e puoi confrontare le polizze viaggio specializzate sui comuni siti di comparazione.
