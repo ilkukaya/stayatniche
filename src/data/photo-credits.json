@@ -2351,5 +2351,143 @@
     "distanceKm": 4.9,
     "kind": "area",
     "place": "North Malé Atoll"
+  },
+  "cliff-house-hotel-ireland": {
+    "author": "Slamforeman",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cliff_House_Hotel.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q71973594",
+    "matched": "Cliff House Hotel",
+    "distanceKm": 0
+  },
+  "vuurtoren-van-harlingen-netherlands": {
+    "author": "Bouwe Brouwer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Harlingen_vuurtoren.jpg",
+    "wikidata": "https://www.wikidata.org/wiki/Q1877806",
+    "matched": "Harlingen Lighthouse",
+    "distanceKm": 0
+  },
+  "bangkok-tree-house-thailand": {
+    "author": "mohigan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bangkok_Tree_house_-_panoramio.jpg",
+    "title": "Bangkok Tree house - panoramio.jpg",
+    "distanceKm": 0,
+    "kind": "hotel",
+    "matched": "Bangkok Tree House"
+  },
+  "area:barahi-jungle-lodge-nepal": {
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_rhinoceros_(Rhinoceros_unicornis)_3.jpg",
+    "title": "Indian rhinoceros (Rhinoceros unicornis) 3.jpg",
+    "distanceKm": 4.8,
+    "kind": "area",
+    "place": "Meghauli"
+  },
+  "corsewall-lighthouse-hotel-scotland": {
+    "author": "John M Wheatley",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corsewall_Lighthouse_Hotel_with_a_Belfast_bound_Ferry_-_geograph.org.uk_-_2987480.jpg",
+    "title": "Corsewall Lighthouse Hotel with a Belfast bound Ferry - geograph.org.uk - 2987480.jpg",
+    "distanceKm": 0.1,
+    "kind": "hotel",
+    "matched": "Corsewall Lighthouse Hotel"
+  },
+  "desert-camp-namibia": {
+    "author": "Ekrem Canli",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Desert_Camp,_Wahiba_Sands_(02).jpg",
+    "title": "Desert Camp, Wahiba Sands (02).jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Desert Camp"
+  },
+  "area:houseboat-arka-mielno-poland": {
+    "author": "Author:",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Mielno_pla%C5%BCa.jpg",
+    "title": "Mielno plaża.jpg",
+    "distanceKm": 1.2,
+    "kind": "area",
+    "place": "Mielno"
+  },
+  "area:houseboat-harmony-utrecht-netherlands": {
+    "author": "Victor van Werkhooven",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Rietendakschool_2009.jpg",
+    "title": "Rietendakschool 2009.jpg",
+    "distanceKm": 0.8,
+    "kind": "area",
+    "place": "Utrecht"
+  },
+  "area:mt-matutum-domesville-glamping-philippines": {
+    "author": "Precipitated",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mt._Matutum.jpg",
+    "title": "Mt. Matutum.jpg",
+    "distanceKm": 4.6,
+    "kind": "area",
+    "place": "Tupi"
+  },
+  "area:palafitos-overwater-bungalows-mexico": {
+    "author": "Alfonzo Buscemi",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maroma_Beach_Star_-_panoramio.jpg",
+    "title": "Maroma Beach Star - panoramio.jpg",
+    "distanceKm": 3.1,
+    "kind": "area",
+    "place": "Playa del Carmen"
+  },
+  "area:robles-treehouse-lodge-peru": {
+    "author": "Michael Lavery",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anolis_punctatus_362478324.jpg",
+    "title": "Anolis punctatus 362478324.jpg",
+    "distanceKm": 0.2,
+    "kind": "area",
+    "place": "Manu"
+  },
+  "schwimmendes-haus-partwitzer-see-germany": {
+    "author": "Charly k Wue",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Schwimmendes_Haus_Graebendorfer_See.jpg",
+    "title": "Schwimmendes Haus Graebendorfer See.jpg",
+    "distanceKm": null,
+    "kind": "hotel",
+    "matched": "Schwimmendes Haus"
+  },
+  "the-harpy-houseboat-london-united-kingdom": {
+    "author": "Richard Rogerson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Harpy_Houseboat_-_geograph.org.uk_-_8381557.jpg",
+    "title": "The Harpy Houseboat - geograph.org.uk - 8381557.jpg",
+    "distanceKm": 0,
+    "kind": "hotel",
+    "matched": "The Harpy Houseboat"
+  },
+  "area:transfagarasan-treehouse-village-romania": {
+    "author": "User:Radu Ana Maria",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RO_AG_Vidraru_lake_evening.jpg",
+    "title": "RO AG Vidraru lake evening.jpg",
+    "distanceKm": 4.5,
+    "kind": "area",
+    "place": "Arefu"
   }
 }
