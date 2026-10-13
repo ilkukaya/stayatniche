@@ -4746,7 +4746,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-10",
   "region": "West Pomeranian Voivodeship",
@@ -4773,7 +4773,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "floating-hotels",
-  "reviewedAt": "2026-10-08T21:13:52.243Z"
+  "reviewedAt": "2026-10-08T21:13:52.243Z",
+  "slug": "houseboat-arka-mielno-poland"
  },
  "osm:node/10713342181": {
   "id": "osm:node/10713342181",
@@ -17956,7 +17957,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-11",
   "region": "North-West District",
@@ -17983,7 +17984,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "desert-camps",
-  "reviewedAt": "2026-10-08T21:14:08.357Z"
+  "reviewedAt": "2026-10-08T21:14:08.357Z",
+  "slug": "the-dune-camp-botswana"
  },
  "osm:node/12118525397": {
   "id": "osm:node/12118525397",
@@ -18001,7 +18003,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -18028,7 +18030,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "treehouse-hotels",
-  "reviewedAt": "2026-10-08T21:13:59.245Z"
+  "reviewedAt": "2026-10-08T21:13:59.245Z",
+  "slug": "transfagarasan-treehouse-village-romania"
  },
  "osm:node/12119725363": {
   "id": "osm:node/12119725363",
@@ -19113,7 +19116,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": "Madre de Dios",
@@ -19140,7 +19143,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "treehouse-hotels",
-  "reviewedAt": "2026-10-08T21:14:01.626Z"
+  "reviewedAt": "2026-10-08T21:14:01.626Z",
+  "slug": "robles-treehouse-lodge-peru"
  },
  "osm:node/12222169280": {
   "id": "osm:node/12222169280",
@@ -56492,7 +56496,7 @@
    "stars": "3"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-11",
   "region": "Hardap",
@@ -56519,7 +56523,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "desert-camps",
-  "reviewedAt": "2026-10-08T21:13:39.727Z"
+  "reviewedAt": "2026-10-08T21:13:39.727Z",
+  "slug": "desert-camp-namibia"
  },
  "osm:node/2518857599": {
   "id": "osm:node/2518857599",
@@ -61389,7 +61394,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "classified",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-12",
   "region": null,
@@ -61417,7 +61422,8 @@
   },
   "finalCategory": "ice-hotels",
   "reviewedAt": "2026-10-08T21:12:46.063Z",
-  "duplicateOf": "snowhotel-kirkenes-norway"
+  "duplicateOf": "snowhotel-kirkenes-norway",
+  "reviewNote": "Approved on the review page but no evidence pack exists yet; held until one is collected."
  },
  "osm:node/2891540804": {
   "id": "osm:node/2891540804",
@@ -63900,7 +63906,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Frisia",
@@ -63924,7 +63930,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "lighthouse-hotels",
-  "reviewedAt": "2026-10-08T21:13:37.546Z"
+  "reviewedAt": "2026-10-08T21:13:37.546Z",
+  "slug": "vuurtoren-van-harlingen-netherlands"
  },
  "osm:node/3063488056": {
   "id": "osm:node/3063488056",
@@ -66330,7 +66337,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-10",
   "region": "Utrecht",
@@ -66357,7 +66364,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "floating-hotels",
-  "reviewedAt": "2026-10-08T21:13:42.310Z"
+  "reviewedAt": "2026-10-08T21:13:42.310Z",
+  "slug": "houseboat-harmony-utrecht-netherlands"
  },
  "osm:node/3192451427": {
   "id": "osm:node/3192451427",
@@ -75164,7 +75172,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-05",
   "lastSeen": "2026-10-05",
   "region": "Bagamati Province",
@@ -75191,7 +75199,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "safari-lodges",
-  "reviewedAt": "2026-10-08T21:13:49.792Z"
+  "reviewedAt": "2026-10-08T21:13:49.792Z",
+  "slug": "barahi-jungle-lodge-nepal"
  },
  "osm:node/3743081176": {
   "id": "osm:node/3743081176",
@@ -88304,7 +88313,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-13",
   "region": "Riau Islands",
@@ -88331,7 +88340,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "overwater-bungalows",
-  "reviewedAt": "2026-10-08T21:14:11.342Z"
+  "reviewedAt": "2026-10-08T21:14:11.342Z",
+  "slug": "telunas-private-island-overwater-villas-indonesia"
  },
  "osm:node/4489873689": {
   "id": "osm:node/4489873689",
@@ -92087,7 +92097,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-07",
   "region": "Scotland",
@@ -92114,7 +92124,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "lighthouse-hotels",
-  "reviewedAt": "2026-10-08T21:13:30.766Z"
+  "reviewedAt": "2026-10-08T21:13:30.766Z",
+  "slug": "corsewall-lighthouse-hotel-scotland"
  },
  "osm:node/4695024889": {
   "id": "osm:node/4695024889",
@@ -171230,7 +171241,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-08",
   "region": null,
@@ -171257,7 +171268,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "treehouse-hotels",
-  "reviewedAt": "2026-10-08T21:13:35.343Z"
+  "reviewedAt": "2026-10-08T21:13:35.343Z",
+  "slug": "bangkok-tree-house-thailand"
  },
  "osm:way/135453935": {
   "id": "osm:way/135453935",
@@ -172614,7 +172626,7 @@
    "stars": "5"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-06",
   "lastSeen": "2026-10-13",
   "description": "hotel in Playa del Carmen, Mexico",
@@ -172643,7 +172655,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "overwater-bungalows",
-  "reviewedAt": "2026-10-08T21:14:13.826Z"
+  "reviewedAt": "2026-10-08T21:14:13.826Z",
+  "slug": "palafitos-overwater-bungalows-mexico"
  },
  "osm:way/1389338967": {
   "id": "osm:way/1389338967",
@@ -175163,7 +175176,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-03",
   "region": "South Cotabato",
@@ -175190,7 +175203,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "bubble-hotels",
-  "reviewedAt": "2026-10-08T21:13:45.812Z"
+  "reviewedAt": "2026-10-08T21:13:45.812Z",
+  "slug": "mt-matutum-domesville-glamping-philippines"
  },
  "osm:way/1464871395": {
   "id": "osm:way/1464871395",
@@ -187504,7 +187518,7 @@
    "tourism": "guest_house"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-10",
   "category": "floating-hotels",
@@ -187530,7 +187544,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "floating-hotels",
-  "reviewedAt": "2026-10-08T21:14:03.594Z"
+  "reviewedAt": "2026-10-08T21:14:03.594Z",
+  "slug": "the-harpy-houseboat-london-united-kingdom"
  },
  "osm:way/203306150": {
   "id": "osm:way/203306150",
@@ -237441,7 +237456,7 @@
    "tourism": "chalet"
   },
   "source": "osm",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-03",
   "lastSeen": "2026-10-10",
   "region": "Saxony",
@@ -237468,7 +237483,8 @@
    "decidedAt": "sample"
   },
   "finalCategory": "floating-hotels",
-  "reviewedAt": "2026-10-08T21:13:56.261Z"
+  "reviewedAt": "2026-10-08T21:13:56.261Z",
+  "slug": "schwimmendes-haus-partwitzer-see-germany"
  },
  "osm:way/707994967": {
   "id": "osm:way/707994967",
@@ -264465,7 +264481,7 @@
   "city": "County Waterford",
   "description": "hotel in Waterford, Ireland",
   "source": "wikidata",
-  "status": "approved",
+  "status": "published",
   "firstSeen": "2026-10-04",
   "lastSeen": "2026-10-11",
   "hasWikiImage": true,
@@ -264494,7 +264510,8 @@
   },
   "finalCategory": "cliffside-hotels",
   "reviewedAt": "2026-10-08T21:14:05.811Z",
-  "duplicateOf": "osm:way/157719109"
+  "duplicateOf": "osm:way/157719109",
+  "slug": "cliff-house-hotel-ireland"
  },
  "wd:Q7548259": {
   "id": "wd:Q7548259",
