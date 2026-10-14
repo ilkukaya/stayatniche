@@ -61455,7 +61455,7 @@
    "tourism": "hotel"
   },
   "source": "osm",
-  "status": "classified",
+  "status": "approved",
   "firstSeen": "2026-09-29",
   "lastSeen": "2026-10-12",
   "region": null,
@@ -61483,8 +61483,7 @@
   },
   "finalCategory": "ice-hotels",
   "reviewedAt": "2026-10-08T21:12:46.063Z",
-  "duplicateOf": "snowhotel-kirkenes-norway",
-  "reviewNote": "Approved on the review page but no evidence pack exists yet; held until one is collected."
+  "duplicateOf": "snowhotel-kirkenes-norway"
  },
  "osm:node/2891540804": {
   "id": "osm:node/2891540804",
