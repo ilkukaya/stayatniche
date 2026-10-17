@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/5399971650",
+ "name": "Hotel Schloss Dyck",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.1429414,
+ "lng": 6.5577571,
+ "country": "Germany",
+ "city": "Jüchen",
+ "region": "North Rhine-Westphalia",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.stiftung-schloss-dyck.de/de/gastronomie/1150.html",
+ "fetchedAt": "2026-10-12T07:28:55.550Z",
+ "pages": [
+  {
+   "url": "https://www.stiftung-schloss-dyck.de/hotel-und-gastronomie/hotel-schloss-dyck.html",
+   "kind": "home",
+   "title": "Hotel Schloss&nbsp;Dyck – Stiftung Schloss&nbsp;Dyck",
+   "description": "In unserem kleinen, edlen Hotel wurden Historie und Moderne harmonisch miteinander kombiniert. Es befindet sich in der ehemaligen restaurierten Remise der Schlossanlage, die von einem herrlichen Park umgeben ist.",
+   "text": "Hotel Schloss Dyck – Stiftung Schloss Dyck Start\nHotel & Gastro\nHotel\nKontakt\nStiftung Schloss Dyck\nHotel\nSchloss Dyck | 41363 J chen\nTelefon 02182-824 250\nhotel@stiftung-schloss-dyck.de\nHier online buchen\nHinweis:\nEs besteht keine Kooperation mit der Seite www.guestreservations.com\nIn unserem kleinen, edlen Hotel wurden Historie und Moderne harmonisch miteinander kombiniert. Es befindet sich in der ehemaligen restaurierten Remise der Schlossanlage, die von einem herrlichen Park umgeben ist. Das Hotel besticht durch insgesamt neun modern und stilvoll mit Naturmaterialien in warmen Naturt nen eingerichtete, ger umige und lichtdurchflutete Doppelzimmer, von denen vier auch mit drei Personen belegt werden k nnen. Zwei der Doppelzimmer k nnen zu einem Familienzimmer verbunden werden.\nJedes Zimmer verf gt ber ein innenliegendes, gro z giges und hochwertig ausgestattetes Bad mit Dusche und Badewanne - zum Teil freistehend - sowie ein separates WC. Es gibt einen schwenkbaren Flachbildschirm, einen Sitzbereich, einen Schreibtisch, einen Safe und eine Minibar. Wasserkocher, eine Nespresso-Maschine, Kaffeegeschirr und Gl ser, eine Flasche Wasser und ein kleines Sortiment an Tees sowie der Dycker Apfel\" als Willkommensgru runden das Angebot ab. F r die K rperpflege stehen im Bad luxuri se Pflegeprodukte kostenlos bereit.\nWLAN-Zugang und Parkm glichkeiten sind f r G ste ebenfalls kostenlos.\nIm Geb ude gibt es das Restaurant Remise ( ffnungszeiten von 10 - 18 Uhr), wo Fr hst ck, eine Auswahl regionaler Gerichte und Snacks sowie Kaffee und Kuchen serviert werden.\nGerne sind wir bei der Reservierung einer Abendgastronomie behilflich.\nDie l ndliche Umgebung l dt zu ausgedehnten Spazierg ngen oder Fahrradtouren (eine Ladestation f r E-Bikes ist auf dem Gel nde vorhanden) ein und die N he zu D sseldorf, Neuss und M nchengladbach sichert ein umfangreiches kulturelles Angebot.\nImpressionen"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.stiftung-schloss-dyck.de/hotel-und-gastronomie/hotel-schloss-dyck.html",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

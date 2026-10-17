@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/656697954",
+ "name": "Camping Las Cavenes",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 40.5674491,
+ "lng": -6.1346982,
+ "country": "Spain",
+ "city": "El Cabaco",
+ "region": "Castile and León",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.campinglascavenes.com/",
+ "fetchedAt": "2026-10-14T06:15:33.222Z",
+ "pages": [
+  {
+   "url": "https://campinglascavenes.com/",
+   "kind": "home",
+   "title": "Inicio - Camping Las Cavenes",
+   "description": "",
+   "text": "Inicio - Camping Las Cavenes\nLas Cavenes\nCamping y bungalows ubicados en la Sierra de Francia\nContacta\nDisfruta de las maravillas del entorno pasando unos días con nosotros\nIniciamos la temporada 2026\nINICIO DE TEMPORADA MIÉRCOLES 1 DE ABRIL.\nNuestro camping estará abierto durante la Semana Santa y posteriormente durante los meses de abril, mayo y junio de viernes a domingo, y a partir del 26 de junio hasta el 6 de septiembre todos los días.\nPueden hacer sus reservas a través de nuestro correo electrónico campinglascavenes@hotmail.com  o solicitando información en el teléfono de contacto 923 45 41 05.\n¡Os esperamos!\nEl portal de entrada a la Sierra de Francia, en un lugar rodeado por parajes de una impresionante belleza, con bosques de robles y castaños.\nEl camping\nEl cámping LAS CAVENES está ubicado en la localidad de El Cabaco, enclavado en la cuenta alta del Río Yeltes, a 958m. de altitud, dentro del Parque Natural de Las Batuecas.\nConocenos\nEl entorno\nEl Parque Natural de Las Batuecas, situado al sur de la provincia de Salamanca y con una extensión de 32.320 ha pertenecientes a 15 municipios, forma parte de las estribaciones occidentales de la Cordillera Central. Sus cotas más altas se sitúan en el Pico Hastiala (1.375m.) y en la cresta de la Peña de Francia, que con sus 1.723m. domina el conjunto de la Comarca.\nSaber más\nGestionar el consentimiento de las cookies\nPara ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.\nFuncional\nFuncional\nSiempre activo\nEl almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.\nPreferencias\nPreferencias\nEl almacenamiento o acceso técnico es necesario para la finalidad legítima de almacenar preferencias no solicitadas por el abonado o usuario.\nEstadísticas\nEstadísticas\nEl almacenamiento o acceso técnico que es utilizado exclusivamente con fines estadísticos.\nEl almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos anónimos. Sin un requerimiento, el cumplimiento voluntario por parte de tu proveedor de servicios de Internet, o los registros adicionales de un tercero, la información almacenada o recuperada sólo para este propósito no se puede utilizar para identificarte.\nMarketing\nMarketing\nEl almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.\nAdministrar opciones\nGestionar los servicios\nGestionar {vendor_count} proveedores\nLeer más sobre estos propósitos\nAceptar\nDenegar\nVer preferencias\nGuardar preferencias\nVer preferencias\n{title}\n{title}\n{title}\nGestionar consentimiento\nIr al contenido"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://campinglascavenes.com/",
+ "httpStatus": 200,
+ "htmlLang": "es-ES"
+}

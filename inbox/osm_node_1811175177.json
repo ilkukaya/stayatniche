@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/1811175177",
+ "name": "Fitzgerald Bay Bush Camp - Native Myrtle Retreat - toilets/water",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -32.90694,
+ "lng": 137.755,
+ "country": "Australia",
+ "city": "South Australia",
+ "region": "South Australia",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.whyalla.com/bush-camps-motorhomes",
+ "fetchedAt": "2026-10-16T06:00:41.222Z",
+ "pages": [
+  {
+   "url": "https://whyalla.com/bush-camps-motorhomes",
+   "kind": "home",
+   "title": "Bush Camps &amp; Motorhomes | Whyalla",
+   "description": "Whyalla has serene bush camping areas located up the Northern Coastline of Whyalla along Fitzgerald Bay and welcoming camp grounds with services for Motorhomes.",
+   "text": "Bush Camps & Motorhomes | Whyalla"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://whyalla.com/bush-camps-motorhomes",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

@@ -1,0 +1,107 @@
+{
+ "id": "osm:node/485261846",
+ "name": "The Pack & Carriage London",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 51.5319633,
+ "lng": -0.1355999,
+ "country": "United Kingdom",
+ "city": "London",
+ "region": "England",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.thepackandcarriage.london/",
+ "fetchedAt": "2026-10-17T05:46:33.033Z",
+ "pages": [
+  {
+   "url": "https://hotels.cloudbeds.com/reservation/jpsC4V",
+   "kind": "home",
+   "title": "The Pack and Carriage London - London, United Kingdom - Book Now",
+   "description": "Well set in London, The Pack And Carriage London provides air-conditioned rooms, a bar, free WiFi and a shared lounge. The property is around 1.8 km from London Zoo, 2.1 km from Regents Park and 3.2 km from Madame Tussauds. The hotel features family rooms. At the hotel, the rooms are equipped with a wardrobe. At The Pack And Carriage London every room is equipped with a desk, a flat-screen TV and a private bathroom. Popular points of interest near The Pack And Carriage London include Camden Mark",
+   "text": "The Pack and Carriage London - London, United Kingdom - Book Now\n{\"@context\":\"https://schema.org\",\"@type\":\"LodgingBusiness\",\"@id\":\"https://hotels.cloudbeds.com/reservation/jpsC4V\",\"name\":\"The Pack and Carriage London\",\"telephone\":\"+44 02079162181\",\"email\":\"bookings@thepackandcarriage.london\",\"checkinTime\":\"13:30:00\",\"checkoutTime\":\"10:30:00\",\"url\":\"https://hotels.cloudbeds.com/en/reservation/jpsC4V\",\"image\":[\"https://h-img3.cloudbeds.com/uploads/319756/p1493381~~6960d2a25514a.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493387~~6960d2bfe1c51.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493388~~6960d2c02e65f.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493420~~6960d2c4e9d57.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493425~~6960d2c9df842.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493423~~6960d2ca0b6b1.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493427~~6960d2cd25a85.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493429~~6960d2ce0a638.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493433~~6960d2d07fe6d.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493435~~6960d2d1c86d3.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493436~~6960d2d395cd7.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493438~~6960d2d569d5f.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493442~~6960d2d68abff.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493445~~6960d31d14ee8.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493446~~6960d31d1a1f6.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493447~~6960d31fee038.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493450~~6960d321282ab.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493452~~6960d3232f5f8.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493455~~6960d3245ed61.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493456~~6960d3262e274.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493459~~6960d327981f4.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493461~~6960d329b497b.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493464~~6960d32ab6b6b.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493472~~6960d32d997ac.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493474~~6960d32e8e7cc.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493475~~6960d332c98a7.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493486~~6960d333054a6.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493488~~6960d3360945b.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493490~~6960d3370b8eb.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493493~~6960d3393d60e.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493494~~6960d33a0f519.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493497~~6960d33c87b85.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493509~~6960d33d7a9ff.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493516~~6960d3417ea44.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493517~~6960d3421471e.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493520~~6960d346a369b.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493519~~6960d346cb42b.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493521~~6960d349e9b90.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493523~~6960d34b199dd.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493525~~6960d34ce0291.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493526~~6960d34e43e72.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493533~~6960d34fa0a68.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493537~~6960d351a299d.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493539~~6960d3528fa4f.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493542~~6960d354be855.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493547~~6960d3558d0cd.jpg\",\"https://h-img1.cloudbeds.com/uploads/319756/p1493549~~6960d35776a80.jpg\",\"https://h-img2.cloudbeds.com/uploads/319756/p1493554~~6960d35849970.jpg\",\"https://h-img3.cloudbeds.com/uploads/319756/p1493557~~6960d35b93a49.jpg\"],\"logo\":\"https://h-img3.cloudbeds.com/uploads/319756/p1493547_gallery~~6957dc86cd16f.jpg\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"162 Eversholt St.\",\"addressLocality\":\"London\",\"postalCode\":\"NW1 1BL\",\"addressCountry\":\"GB\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.53196335,\"longitude\":-0.1355999},\"description\":[{\"@value\":\"Well set in London, The Pack And Carriage London provides air-conditioned rooms, a bar, free WiFi and a shared lounge. The property is around 1.8 km from London Zoo, 2.1 km from Regents Park and 3.2 km from Madame Tussauds. The hotel features family rooms. At the hotel, the rooms are equipped with a wardrobe. At The Pack And Carriage London every room is equipped with a desk, a flat-screen TV and a private bathroom. Popular points of interest near The Pack And Carriage London include Camden Market, King's Cross Theatre and British Museum. The nearest airport is London City Airport, 13 km from the hotel.\",\"@language\":\"en\"}],\"amenityFeature\":[{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"24-hour check-in\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"24-hour front desk\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Air conditioning\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Heating\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Internet\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Invoices\",\"@language\":\"en\"}]},{\"@type\":\"LocationFeatureSpecification\",\"value\":true,\"name\":[{\"@value\":\"Non-smoking rooms\",\"@language\":\"en\"}]}],\"containsPlace\":[{\"@type\":\"HotelRoom\",\"@id\":\"https://hotels.cloudbeds.com/reservation/jpsC4V?rid=669481\",\"name\":[{\"@value\":\"Double Room\",\"@language\":\"en\"}],\"description\":[{\"@value\":\"Double Room\",\"@language\":\"en\"}],\"image\":[\"h"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LodgingBusiness",
+   "name": "The Pack and Carriage London",
+   "description": [
+    {
+     "@value": "Well set in London, The Pack And Carriage London provides air-conditioned rooms, a bar, free WiFi and a shared lounge. The property is around 1.8 km from London Zoo, 2.1 km from Regents Park and 3.2 km from Madame Tussauds. The hotel features family rooms. At the hotel, the rooms are equipped with a wardrobe. At The Pack And Carriage London every room is equipped with a desk, a flat-screen TV and a private bathroom. Popular points of interest near The Pack And Carriage London include Camden Market, King's Cross Theatre and British Museum. The nearest airport is London City Airport, 13 km from the hotel.",
+     "@language": "en"
+    }
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "162 Eversholt St.",
+    "addressLocality": "London",
+    "postalCode": "NW1 1BL",
+    "addressCountry": "GB"
+   },
+   "telephone": "+44 02079162181",
+   "checkinTime": "13:30:00",
+   "checkoutTime": "10:30:00",
+   "amenityFeature": [
+    [
+     {
+      "@value": "24-hour check-in",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "24-hour front desk",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Air conditioning",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Heating",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Internet",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Invoices",
+      "@language": "en"
+     }
+    ],
+    [
+     {
+      "@value": "Non-smoking rooms",
+      "@language": "en"
+     }
+    ]
+   ],
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.53196335,
+    "longitude": -0.1355999
+   },
+   "url": "https://hotels.cloudbeds.com/en/reservation/jpsC4V"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://hotels.cloudbeds.com/reservation/jpsC4V",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

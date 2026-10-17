@@ -1,0 +1,34 @@
+{
+ "id": "osm:way/450363203",
+ "name": "Saughtree Railway Station B&B",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 55.2748133,
+ "lng": -2.6869699,
+ "country": "United Kingdom",
+ "city": "Scottish Borders",
+ "region": "Scotland",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": "Q7427221",
+ "wikidataDescription": "railway station in Scottish Borders, Scotland, UK",
+ "website": "https://saughtreestation.weebly.com/",
+ "fetchedAt": "2026-10-17T05:46:29.468Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Saughtree railway station",
+  "url": "https://en.wikipedia.org/wiki/Saughtree_railway_station",
+  "extract": "Saughtree railway station is a closed railway station situated a mile north of the hamlet of Saughtree and two miles from the border with England."
+ },
+ "notes": [
+  "website fetch failed: 404"
+ ],
+ "finalUrl": "https://saughtreestation.weebly.com/",
+ "httpStatus": 404
+}

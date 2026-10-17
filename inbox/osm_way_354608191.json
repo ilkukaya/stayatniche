@@ -1,0 +1,37 @@
+{
+ "id": "osm:way/354608191",
+ "name": "Zamek Dersława",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.4636838,
+ "lng": 20.7195175,
+ "country": "Poland",
+ "city": "Busko-Zdrój",
+ "region": "Holy Cross Voivodeship",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.derslaw.busko.com.pl/",
+ "fetchedAt": "2026-10-15T06:03:06.605Z",
+ "pages": [
+  {
+   "url": "http://www.derslaw.busko.com.pl/",
+   "kind": "home",
+   "title": "ZAMEK DERSŁAWA - Pokoje do wynajęcia [Busko Zdrój nocleg zamek dersława uzdrowisko busko zdrój noclegi spanie pokoje kwatery sanatorium leczenie]",
+   "description": "Zamek Dersława",
+   "text": "ZAMEK DERSŁAWA - Pokoje do wynajęcia [Busko Zdrój nocleg zamek dersława uzdrowisko busko zdrój noclegi spanie pokoje kwatery sanatorium leczenie]\nOferta specjalna: Dziedzictwo Kulinarne Restauracji GoĹciniec ... - zobacz więcej...\nCatering: Ĺwiadczymy usĹugi Cateringowe na najwyĹźszy... - zobacz więcej...\nBył rok 1911, Rosjanin Wasyl Waslewicz Jakobs - lekarz uzdrowiska Busko, otrzymał zgodę na wybudowanie pensjonatu. Doktor Jakobs postanowił wybudować dom,ale nie taki jakie posiadali możni panowie Buska. Jego dom miał być potężny jak średniowieczny zamek, oczywiście, jeśli chodzi o architekturę zewnętrzną, bowiem wnętrze miało być nowoczesne i nadające się do przyjmowania kuracjuszy, którzy licznie zjeżdżali do Buskich Wód Mineralnych, jak wówczas nazywano kurort.\nNaszym miłym Gościom oferujemy: pokoje 1, 2 i 3 osobowe o wysokim standardzie, z łazienkami i odbiornikami telewizyjnymi, małą salę konferencyjną, miejsca postojowe dla samochodów.\nKsięga Gości:\nAutor: Piotr\nSmaczne jedzenie stoĹuje sie kilka dni w jednym dniu dĹuĹźej czekam w innym szybko dostajÄ zamĂłwienie, ogĂłlnie to warto poczekaÄ bo dobre i niedrogie !\n[ Zobacz wpisy ] [ Dodaj nowy wpis ]\nWiosenna Promocja - Nocleg z wyĹźywieniem.\n2019-03-20 09:45:39\nWiosenna Promocja\nBella Voce\n2018-11-29 00:35:13\nWarsztaty wokalistyki i plastyki ruchu odbyĹy siÄ w dniach 7 14.08.2018 w Buskim SamorzÄdowym Centrum Kultury w Busku-Zdroju oraz na terenach wiejskich Gminy Busko-ZdrĂłj.\nJak siÄ ĹźegnajÄ z pacjentami: laryngolog, okulista i ginekolog?\nLaryngolog: - Do usĹyszenia.\nOkulista: - Do zobaczenia.\nAnkara Kolejler sanal ofis\nEryaman Dershane\nGinekolog: - Jeszcze do pani zajrzÄ...\nHistoria Zamku DersĹawa Dojazd Restauracja Catering Pensjonat UsĹugi Rezerwacja Cennik Uzdrowisko Aktualności Kontakt\nCopyright 2003-2006 Zamek Dersława\nProjekt realnet.pl"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.derslaw.busko.com.pl/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

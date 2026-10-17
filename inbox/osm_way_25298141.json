@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/25298141",
+ "name": "Schloss Eckberg",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.0635808,
+ "lng": 13.7994457,
+ "country": "Germany",
+ "city": "Dresden",
+ "region": "Saxony",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2240727",
+ "wikidataDescription": "castle in Dresden, Saxony, Germany",
+ "website": "https://www.schloss-eckberg.de/",
+ "fetchedAt": "2026-10-12T07:29:13.145Z",
+ "pages": [
+  {
+   "url": "https://www.schloss-eckberg.de/",
+   "kind": "home",
+   "title": "Schloss Eckberg Dresden: Ihr Traumhotel - Schloss Eckberg",
+   "description": "Erleben Sie unvergessliche Momente im Schloss Eckberg Dresden. Genießen Sie die Ruhe und den historischen Charme des Schlosses.",
+   "text": "Schloss Eckberg Dresden: Ihr Traumhotel - Schloss Eckberg\nSkip to content\nLoading...\nHERZLICH WILLKOMMEN IN DRESDEN IM HOTEL UND RESTAURANT\nSCHLOSS ECKBERG\nHoch über der Elbe, vor sensationeller Kulisse, thront eines der schönsten Schlosshotels Deutschlands. Traumhaft in jedem Augenblick: der perfekte Ort für besondere Momente. Genießen Sie die Ruhe des weitläufigen Parks und der historischen Räume oder die anregende Atmosphäre in einem unserer modernen Tagungsräume.\n☀️ Herbst- Special für Ihre Tagung Nutzen Sie den Herbst in der Zeit vom 05.10. bis 13.11.2026 für erfolgreiche Meetings und Veranstaltungen. Bei Buchung einer Tagung in unserem Hotel entfallen die Bereitstellungskosten für den Tagungsraum . Profitieren Sie von einer inspirierenden Atmosphäre und attraktiven Konditionen.\nIhr Gastgeberehepaar Thomas und Odett Gaier umsorgt Sie dabei mit einem engagierten Team in jedem Augenblick leidenschaftlich gern mit Herz und Seele.\nFür einen ersten Eindruck können Sie sich einen Drohnenflug durch den Park und alle Gebäude - hier anschauen .\nWas immer Sie erleben möchten, wir sind persönlich für Sie da. Wir freuen uns auf Ihren Besuch.\nIhre Gastgeber\nThomas und Odett Gaier\nsowie das gesamte Team vom Hotel Schloss Eckberg\nKontaktdaten\nTel.: +49 351 80 99 - 0\ninfo@schloss-eckberg.de\nwww.schloss-eckberg.de\nAnfahrtskarte\nUm Ihnen den Weg in unser Haus zu erleichtern, halten wir für Sie eine Google-Maps Anfahrtskarte bereit.\nOnlinebuchung\nSie möchten gern Gast in unserem Schloss Eckberg sein? Kein Problem, hier geht es zur Onlinebuchung .\nAnschrift\nSchloss Eckberg\nHotel und Restaurant\nBetriebsgesellschaft mbH\nBautzner Straße 134\n01099 Dresden\nPage load link\nZustimmung verwalten\nUm dir ein optimales Erlebnis zu bieten, verwenden wir Technologien wie Cookies, um Geräteinformationen zu speichern und/oder darauf zuzugreifen. Wenn du diesen Technologien zustimmst, können wir Daten wie das Surfverhalten oder eindeutige IDs auf dieser Website verarbeiten. Wenn du deine Zustimmung nicht erteilst oder zurückziehst, können bestimmte Merkmale und Funktionen beeinträchtigt werden.\nFunktional\nFunktional\nImmer aktiv\nDie technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.\nVorlieben\nVorlieben\nDie technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.\nStatistiken\nStatistiken\nDie technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt.\nDie technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.\nMarketing\nMarketing\nDie technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.\nOptionen verwalten\nDienste verwalten\nVerwalten von {vendor_count}-Lieferanten\nLese mehr über diese Zwecke\nAkzeptieren\nAblehnen\nEinstellungen ansehen\nEinstellungen speichern\nEinstellungen ansehen\n{title}\n{title}\n{title}\nZustimmung verwalten\nGo to Top"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Eckberg",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Eckberg",
+  "extract": "Schloss Eckberg ist eines der drei Elbschlösser und befindet sich am rechten Elbhang in Dresden, etwa 3 Kilometer elbaufwärts vom Stadtzentrum entfernt. Westlich von Schloss Eckberg befindet sich das Lingnerschloss und neben diesem das Schloss Albrechtsberg."
+ },
+ "notes": [],
+ "finalUrl": "https://www.schloss-eckberg.de/",
+ "httpStatus": 200,
+ "htmlLang": "de-DE"
+}

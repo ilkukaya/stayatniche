@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/846452228",
+ "name": "Cavetta",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 45.5351141,
+ "lng": 12.7105299,
+ "country": "Italy",
+ "city": "Jesolo",
+ "region": "Veneto",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.agriturismocavetta.com/",
+ "fetchedAt": "2026-10-14T06:16:15.944Z",
+ "pages": [
+  {
+   "url": "https://www.agriturismocavetta.com/",
+   "kind": "home",
+   "title": "Agriturismo Cavetta |",
+   "description": "Home - Agriturismo Cavetta | ",
+   "text": "Agriturismo Cavetta |\nCavetta, come il canale che unisce il Centro Storico di Jesolo a quello di Cortellazzo. Si chiama così l'agriturismo della famiglia Antoniazzi, un'oasi di pace che offre una novità assoluta nel panorama dell'ospitalità jesolana: i clienti possono, infatti, non solo gustare gli ottimi piatti della cucina casalinga, ma anchealloggiare tutto l'anno presso una delle nove, accoglienti, camere.\nPer una sosta di gusto e relax!"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.agriturismocavetta.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

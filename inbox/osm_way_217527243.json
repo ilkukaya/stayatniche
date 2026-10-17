@@ -1,0 +1,32 @@
+{
+ "id": "osm:way/217527243",
+ "name": "Dovecliff Hall Hotel",
+ "queueStatus": "weak",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 52.844249,
+ "lng": -1.6184958,
+ "country": "United Kingdom",
+ "city": "Burton-on-Trent",
+ "region": "England",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q21008651",
+ "wikidataDescription": "English country house in Stretton, East Staffordshire, England, UK",
+ "website": null,
+ "fetchedAt": "2026-10-15T06:01:00.089Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Dovecliff Hall",
+  "url": "https://en.wikipedia.org/wiki/Dovecliff_Hall",
+  "extract": "Dovecliff Hall is a large Georgian country house in Stretton, East Staffordshire, England which is now a country house hotel. It is a Grade II listed building."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

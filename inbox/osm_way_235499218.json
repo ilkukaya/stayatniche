@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/235499218",
+ "name": "Hotel Grotta di Tiberio",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 41.2566882,
+ "lng": 13.4441334,
+ "country": "Italy",
+ "city": "Sperlonga",
+ "region": "Lazio",
+ "osm": {
+  "tourism": "hostel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.hotelgrottaditiberio.it/",
+ "fetchedAt": "2026-10-14T06:16:17.043Z",
+ "pages": [
+  {
+   "url": "https://www.hotelgrottaditiberio.it/",
+   "kind": "home",
+   "title": "hotelgrottaditiberio.it — Domain for sale",
+   "description": "",
+   "text": "hotelgrottaditiberio.it — Domain for sale\nhotelgrottaditiberio.it\nThis domain is for sale on\nMake an offer"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.hotelgrottaditiberio.it/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

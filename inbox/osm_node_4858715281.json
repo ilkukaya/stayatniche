@@ -1,0 +1,51 @@
+{
+ "id": "osm:node/4858715281",
+ "name": "Ravenstone Castle",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 42.3917427,
+ "lng": -88.614817,
+ "country": "United States",
+ "city": "Harvard",
+ "region": "Illinois",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.ravenstonecastle.com/",
+ "fetchedAt": "2026-10-16T06:00:54.963Z",
+ "pages": [
+  {
+   "url": "https://www.ravenstonecastle.com/",
+   "kind": "home",
+   "title": "Welcome to RavenStone Castle - a unique bed and breakfast destination in northern Illinois",
+   "description": "",
+   "text": "Welcome to RavenStone Castle - a unique bed and breakfast destination in northern Illinois\n(815) 943-5764\nHome\nAbout Us\nBed & Breakfast\nPrivate Parties\nTours\nEvents\nContact\nStep back in time and delight in the ambience of a 16th century castle. RavenStone Castle stands majestically on a hillside mile south of Route 14 on Illinois Route 23 in Harvard, Illinois. Stay in one of our themed rooms and enjoy a European-styled breakfast, book a Tea Party for that special occasion or take a tour on one of our event days . We hope to see you soon!\nWe can make your occasion special!\nWhether you're looking for a weekend away from the city, a unique place for your special occasion or a birthday party that your little princess will never forget, RavenStone Castle can help you forge memories that will last a lifetime.\nRavenStone Castle is the perfect venue for everything from a private party to a quaint wedding.\nDiscover all that RavenStone Castle has to offer.\nCome spend the night\nLooking for something different? RavenStone Castle offers numerous bed and breakfast amenities and a variety of affordable, specially-themed rooms .\nQuick links\nHistory | Tours | Sir Peter | Directions\nEvent Calendar\nTapestries, Tea & Tarts\nApril 25th & 26th, 2026\n10:30a to 4:30p\nButterfly Faire\nJune 20th & 21st, 2026\n10:30a to 4:30p\nAutumn & Halloween Faire\nOctober 24th & 25th, 2026\n10:30a to 4:30p\nChristmas at the Castle\nDecember 4th, 2026: 1:00p to 4:30p\nDecember 5th & 6th: 10:30a to 4:30p\nClick here to learn more about all of the upcoming events at RavenStone Castle.\nRavenStone Castle, 4504 Illinois Route 23, Harvard, Illinois 60033\nRavenStone Castle 2026. All rights reserved."
+  },
+  {
+   "url": "https://www.ravenstonecastle.com/about.html",
+   "kind": "sub",
+   "label": "About Us",
+   "title": "About RavenStone Castle",
+   "text": "About RavenStone Castle\n(815) 943-5764\nHome\nAbout Us\nBed & Breakfast\nPrivate Parties\nTours\nEvents\nContact\nAbout Us\nRavenStone Castle is more than a family home. It's a castle with 16th century style, modern conveniences and detailed craftsmanship.\nRavenStone Castle History\nIn 2001, Jose and Rose Michel broke ground on their dream home - a castle in the 16th century style. Truly making the house their own, Rose designed each room, arch and turret.\nWith plans in hand, the Michel family - including four sons and a daughter - built the castle from the ground up. They rented equipment, excavated the basement, set forms and poured concrete. While they were framing the roof, they realized they could see all the way to the grocery store in Harvard.\nAnother pleasant surprise was how everyone's natural talents surfaced as they worked on the interior details of the castle. Together they built something much more than just a house. Amazing craftsmanship and a unique design await you.\nRavenStone Castle is filled with antiques and unique pieces from all over the world.  We hope you will visit and enjoy the Michel Family's dream.\nQuick links\nTake a tour of the castle\nSir Peter's rules of the manor\nDirections to the castle\nRavenStone Castle, 4504 Illinois Route 23, Harvard, Illinois 60033\nRavenStone Castle 2026. All rights reserved."
+  },
+  {
+   "url": "https://www.ravenstonecastle.com/rooms.html",
+   "kind": "sub",
+   "label": "Bed &amp; Breakfast",
+   "title": "RavenStone Castle bed and breakfast",
+   "text": "RavenStone Castle bed and breakfast\n(815) 943-5764\nHome\nAbout Us\nBed & Breakfast\nPrivate Parties\nTours\nEvents\nContact\nBed & Breakfast\nEach of RavenStone Castle's spacious guestrooms is individual in design and furnished with a specially-themed decor. Rooms all feature central air conditioning and heating. All guests are invited to a European-style breakfast each morning.\nPlease note, we are unfortunately unable to accomodate children under the age of 12 or dogs.\nQueen Elizabeth's Room\nQueen Elizabeth's Room features two twin beds. A private bath is located just a few short steps away, and guests also have access to a whirlpool tub.\nRate: $175/night\nKing Arthur's Room\nKing Arthur's Room features a queen-size bed and a sitting area. The suite also boasts a private bath with shower.\nRate: $195/night\nEgyptian Suite\nThe spacious Egyptian Suite boasts a queen-size bed and a sitting area. It also features a private bath and a whirlpool tub within the room. A private balcony overlooks the countryside.\nRate: $225/night\nLittle Extras\nSweetheart Special:\nDelicate rose petals strewn from door, along the floor and across the bed.\n$10.00\nSuite Bouquet:\nA beautiful bouquet of flowers waiting for you in the room.\n$25.00\nRavenStone Castle, 4504 Illinois Route 23, Harvard, Illinois 60033\nRavenStone Castle 2026. All rights reserved."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.ravenstonecastle.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

@@ -1,0 +1,51 @@
+{
+ "id": "osm:way/791825862",
+ "name": "Amsterdam Castle",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 42.9327399,
+ "lng": -74.199253,
+ "country": "United States",
+ "city": "Amsterdam",
+ "region": "New York",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "building"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.amsterdamcastle.com/",
+ "fetchedAt": "2026-10-16T06:01:13.023Z",
+ "pages": [
+  {
+   "url": "https://www.amsterdamcastle.com/",
+   "kind": "home",
+   "title": "AMSTERDAM CASTLE NY &quot;OFFICIAL WEBSITE&quot; | Hotel",
+   "description": "AMSTERDAM CASTLE NY .Amsterdam Castle is a unique hotel where people can stay and host weddings and events of any size including business and company gatherings. AMSTERDAM CASTLE NY &quot;OFFICIAL WEBSITE&quot;",
+   "text": "-->\nAMSTERDAM CASTLE NY \"OFFICIAL WEBSITE\" | Hotel\ntop of page\nAMSTERDAM CASTLE NY \"OFFICIAL WEBSITE\"\nEnjoy a Relaxing Stay in Our boutique Hotel & Event Restaurant.\nCall our office- 518-212-2607\nThere is nothing worth more than spending wonderful moments with your loved ones in a beautiful place. Let Amsterdam Castle NY Inc. in Amsterdam, New York be the place where you create precious memories. Whether you want to celebrate a milestone or spend a staycation in style, our hotel and r estaurant is indispensable!\nEmail us or call our office, 518-212-2607, for more information! Visit our Facebook page for the latest event availability. https://www.facebook.com/amsterdamcastle\nBook Now\nAbout Us\nAmsterdam Castle NY Inc. is an unique hotel where people can stay and host functions and events of any size. From an iconic & spectacularly photogenic business event to company functions, gatherings, etc. Constructed by a prolific architect and builder named Isaac Perry, born 1827. Our historic building dates back to long before 1827 where a magnificent mansion stood in its place in 1736. Mr. Perry designed the famous Capitol Building in Albany among many other notable structures in the Empire State.\n\"WEDDING INFORMATION\"\nOur weddings are $346 per person with a minimum of 68 (sixty-eight) persons per wedding. The hotel will exclusively be cleared for that date and will include three course food & beverages with champagne exclusively for the wedding, plus exclusive overnight accommodation for 52-persons at our luxurious hotel.\n\"PLEASE NOTE: IF YOU ARE NOT BOOKING A WEDDING WITH US, THEN THE FOLLOWING WILL APPLY\"\n“NO\" Wedding photography of any kind is permitted without a written contract. If you have not booked a wedding with us, no reservations under 21 years of age for rooms or events are valid. Wedding photography is strictly reserved & “prohibited\" without a written consent from Amsterdam Castle. For quiet & tranquility of our valued Guests, Amsterdam Castle does “NOT” permit any wedding related activities, particularly booking rooms that will have more than 3-wedding party persons inside at all times or more than a maximum of 2 cars in the parking lot. Weddings are strictly booked by written contracts & the hotel will be cleared for that day. Reservations made for the purposes of holding any part of a wedding event, activity, etc, will disturb other guests. Room reservations made to hold any part of a wedding activity without a written contract are “NOT” valid. The management would like to thank the wedding organizers, personal or company wedding businesses, or individuals in advance for their generous co-operation to promote tranquility & control the unauthorized access to the castle by unregistered individuals. Thank you again.\nSee What’s Inside the Hotel\nPLEASE Call Here to Book Your Event\n518-212-2607\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Amsterdam Castle NY",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "US",
+    "addressLocality": "Amsterdam",
+    "addressRegion": "NY",
+    "postalCode": "12010-5708",
+    "streetAddress": "49 Florida Avenue"
+   },
+   "url": "https://www.amsterdamcastle.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.amsterdamcastle.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

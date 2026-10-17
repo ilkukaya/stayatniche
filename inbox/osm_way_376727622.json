@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/376727622",
+ "name": "Gutshaus Badow",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 53.6101707,
+ "lng": 11.1160031,
+ "country": "Germany",
+ "city": "Schildetal",
+ "region": "Mecklenburg-Vorpommern",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q29439095",
+ "wikidataDescription": "Building in Mecklenburg-Western Pomerania, Germany",
+ "website": "https://www.schloss-badow.com/",
+ "fetchedAt": "2026-10-12T07:29:18.511Z",
+ "pages": [
+  {
+   "url": "https://www.schloss-badow.com/",
+   "kind": "home",
+   "title": "Schloss Badow | Apartments in Mecklenburg-Vorpommern | Söhringer Str. 1, Schildetal, Germany",
+   "description": "Schloss Badow ist ein liebevoll restauriertes Gutshaus in Mecklenburg mit stilvollen Apartments, historischem Charme und weitläufigem Park. Der ideale Ort für Erholung, Natur und Ausflüge – nur wenige Minuten von Schwerin und dem Biosphärenreservat Schaalsee entfernt.\n",
+   "text": "-->\nSchloss Badow | Apartments in Mecklenburg-Vorpommern | Söhringer Str. 1, Schildetal, Germany\ntop of page\n<path fill=\"#1D1D1B\" d=\"M57.664 112.897v3.37h"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Gutshaus Badow",
+  "url": "https://de.wikipedia.org/wiki/Gutshaus_Badow",
+  "extract": "Das Gutshaus Badow, im Ort auch als Schloss bezeichnet, befindet sich im Ortsteil Badow der Gemeinde Schildetal, Landkreis Nordwestmecklenburg."
+ },
+ "notes": [],
+ "finalUrl": "https://www.schloss-badow.com/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

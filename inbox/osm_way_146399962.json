@@ -1,0 +1,32 @@
+{
+ "id": "osm:way/146399962",
+ "name": "Oregon Caves Chateau",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 42.0984836,
+ "lng": -123.407659,
+ "country": "United States",
+ "city": "Josephine County",
+ "region": "Oregon",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q7101110",
+ "wikidataDescription": null,
+ "website": null,
+ "fetchedAt": "2026-10-16T06:01:36.748Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Oregon Caves Chateau",
+  "url": "https://en.wikipedia.org/wiki/Oregon_Caves_Chateau",
+  "extract": "The Oregon Caves Chateau is a historic American hotel that opened in 1934. It is located in Oregon Caves National Monument in southern Oregon, near Cave Junction. The Chateau was designed and built by Gust Lium, a local contractor. Declared a National Historic Landmark in 1987, the Chateau building is architecturally significant because of its construction and design. The Chateau is closed for repairs until further notice."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

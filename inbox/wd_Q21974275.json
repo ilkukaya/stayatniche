@@ -1,0 +1,30 @@
+{
+ "id": "wd:Q21974275",
+ "name": "Chobe Safari Lodge Airport",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 2.24027778,
+ "lng": 32.14166667,
+ "country": "Uganda",
+ "city": "Nwoya",
+ "region": "Nwoya",
+ "osm": null,
+ "wikidata": "Q21974275",
+ "wikidataDescription": "airport serving Chobe Safari Lodge in Uganda",
+ "website": null,
+ "fetchedAt": "2026-10-17T05:45:09.597Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Chobe Safari Lodge Airport",
+  "url": "https://en.wikipedia.org/wiki/Chobe_Safari_Lodge_Airport",
+  "extract": "Chobe Safari Lodge Airport is an airport serving Murchison Falls National Park in Uganda. The runway is adjacent to the Chobe Safari Lodge, and alongside the rapids of the Nile River."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

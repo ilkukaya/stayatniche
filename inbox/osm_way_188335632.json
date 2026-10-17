@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/188335632",
+ "name": "The Cliff House",
+ "queueStatus": "verified",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 50.7369351,
+ "lng": -1.6717251,
+ "country": "United Kingdom",
+ "city": "New Milton",
+ "region": "England",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://thecliffhouse.co.uk/",
+ "fetchedAt": "2026-10-15T06:00:55.489Z",
+ "pages": [
+  {
+   "url": "https://thecliffhouse.co.uk/",
+   "kind": "home",
+   "title": "Home | The Cliff House",
+   "description": "The Cliff House Hotel and Restaurant offers breathtaking views over the Solent, comfortable accommodation, fine dining, and a warm and personal welcome from our friendly, experienced team. ",
+   "text": "Home | The Cliff House\n-->\nSkip to main content\nSkip to navigation\nSkip to footer\nHome\nEat Drink Sleep at the Cliff House\nWe are an independent restaurant, bar and rooms sitting on the cliff top in Barton on Sea, offering\npanoramic views of the Solent.\nYou can always be certain of a warm welcome and relaxed feel, our team work hard so all you need to do is\nsit back and unwind. Whilst we have an informal approach to make everyone feel welcome, we take our food\nand service very seriously.\nWhether you want to eat, drink or sleep with us, we look forward to your visit.\nOpening Hours\nEvery day 11:30am-11pm\nWe don't take bookings outside, all tables are first come- first served. To book a table inside our\nrestaurant, you can book online or give us a call on\n01425 619333\nThe Cliff House\nBook a table\nCall us\nSocial:\nFollow us on\nFacebook\nFollow us on\nInstagram"
+  },
+  {
+   "url": "https://thecliffhouse.co.uk/location/",
+   "kind": "sub",
+   "label": "Location",
+   "title": "Location | The Cliff House",
+   "text": "Location | The Cliff House\n-->\nSkip to main content\nSkip to navigation\nSkip to footer\nLocation\nWith stunning views from our bedrooms, bar and restaurant across to the Isle of Wight and\nthe Purbecks,\nyou may not want to leave the Cliff House. For those who want to explore the area though, there is\nplenty to do both on our door step and further afield.\nOn your doorstep\nYou can wander down to the beach from The Cliff House and find a sheltered spot for a picnic, take a\npaddle in the sea or walk along the coastal path to neighbouring villages. Help is always on hand to\nsuggest the best route for you to take.\nBarton on Sea also boasts a Championship Standard golf course which is worth a visit.\nThings to do in the area\nGrab a rod and enjoy guided fishing or fly fishing lessons in Hampshire & Dorest with Steve Ward www.stevewardfishing.co.uk\nTake in the beautiful coastline from a different view point with the New Forest Paddle board\ncompany\nHire a bike and enjoy the stunning routes the New Forest has to offer www.cyclexperience.co.uk/hire-new-forest\nAlong the coast\nAll within a 20 minute drive, the villages of Milford on Sea, Highcliffe, Mudeford, Christchurch and\nLymington all have plenty of cafés, restaurants and shops to while away the time. When the sun shines,\nmany of these spots are also great fun for fishing, crabbing or hiring a small boat. Stretching along\nthe coast there are numerous beautiful and award winning beaches, Sandbanks is a particular highlight.\nBournemouth town centre is approximately 30 minutes drive and great for shopping or the cinema, with\nhistoric Ports of Southampton and Portsmouth also offering plenty of action with two large outlet\nshopping centres.\nThe New Forest\nThe New Forest National Park is also just on our door step, with plenty of fun to be had! If you want to\nget out and about, there are cycle routes, horse riding trails and some energetic or relaxing walks\nwhilst taking in the beautiful scenery.\nFinding us\nIf you’re travelling by car, postcode BH25 7QL will bring you straight to our door.\nWe are just five minutes from New Milton train station by car and will be more than happy to arrange\ntaxi services between the hotel and station.\nThe Cliff House\nBook a table\nCall us\nSocial:\nFollow us on\nFacebook\nFollow us on\nInstagram"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://thecliffhouse.co.uk/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

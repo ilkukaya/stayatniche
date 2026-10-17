@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/35380253",
+ "name": "Schloss Steinhöfel",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 52.3974542,
+ "lng": 14.1658558,
+ "country": "Germany",
+ "city": "Steinhöfel",
+ "region": "Brandenburg",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2243623",
+ "wikidataDescription": null,
+ "website": "http://www.schloss-steinhoefel.de",
+ "fetchedAt": "2026-10-12T07:29:15.023Z",
+ "pages": [
+  {
+   "url": "https://www.schloss-steinhoefel.de/",
+   "kind": "home",
+   "title": "Schloss Steinhöfel: Stilvolle Firmenveranstaltungen",
+   "description": "Feiern Sie im Schloss Steinhöfel: stilvolle Hochzeiten, Kultur und Genuss im Schlosspark. Unvergessliche Momente für Ihre Lieben.",
+   "text": "Schloss Steinhöfel: Stilvolle Firmenveranstaltungen\nHochzeiten & Events auf Schloss Steinhöfel\nTraumhaft und stilvoll, rauschend oder klein und elegant? Wie Ihre Hochzeitsfeier auch sein soll, es wird ein unvergessliches Fest für Sie und Ihre Lieben.\nEine Hochzeit auf Steinhöfel wird ein großer Tag für die große Liebe. Gern stehen wir Ihnen mit all unserer Erfahrung beratend zur Seite.\nMehr erfahren\nTagungen & Seminare\nDas Schloss  und die eleganten Tagungsräume ermöglichen Ihnen alle Voraussetzungen, um Ihre Konferenzen und Tagungen  erfolgreich zu veranstalten.\n\nMehr erfahren\nFirmenevents\nWir bieten Ihnen die passenden Räumlichkeiten für Ihre Firmen-veranstaltung. Bei der Planung richten wir uns ganz nach Ihren Wünschen.\n\nMehr erfahren\nweitere Events\nGeburtstagsfeier, festliches Jubiläum, Konfirmation oder Einschulung: Im Schloss Steinhöfel erleben Sie mit uns unvergessliche Momente.\n\nMehr erfahren\nWir beraten Sie gern zu Ihrem individuellen Event.\nBeratung vereinbaren\nSchloss Steinhöfel\nÜber uns\nDas Schloss Steinhöfel mit seiner englischen Parkanlage gehörte schon immer – zu den schönsten Adelssitzen in der Mark. Seine Eleganz und die unvergleichliche Lage inspirierte Könige und Schriftsteller, Prinzessinnen und Politiker durch die Jahrhunderte hinweg.\nHeute finden im Schloss Steinhöfel regelmäßig Veranstaltungen statt und lädt zum Verweilen ein."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Steinhöfel",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Steinh%C3%B6fel",
+  "extract": "Das Schloss Steinhöfel ist ein spätklassizistisches Schloss in der Gemeinde Steinhöfel im Landkreis Oder-Spree in Brandenburg. Mit seiner Parkanlage im englischen Stil zählt es heute wie schon früher zu den schönsten Adelssitzen in der Mark. Seine heutige Gestalt verdankt es der Familie von Massow, die es seit dem ausgehenden 18. Jahrhundert mehrfach erweiterte. Um das Jahr 2000 aufwendig restauriert, wird das Ensemble heute als denkmalgeschütztes Hotel genutzt."
+ },
+ "notes": [],
+ "finalUrl": "https://www.schloss-steinhoefel.de/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

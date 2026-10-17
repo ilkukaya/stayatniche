@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/71429582",
+ "name": "Rifugio Sassi Castelli",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 45.9341136,
+ "lng": 9.5274569,
+ "country": "Italy",
+ "city": "Moggio",
+ "region": "Lombardy",
+ "osm": {
+  "tourism": "alpine_hut"
+ },
+ "wikidata": "Q112138135",
+ "wikidataDescription": "alpine hut in Piani di Artavaggio (Moggio)",
+ "website": "http://www.rifugiosassicastelli.it/",
+ "fetchedAt": "2026-10-14T06:15:48.575Z",
+ "pages": [
+  {
+   "url": "http://rifugiosassicastelli.it/",
+   "kind": "home",
+   "title": "Rifugio Sassi Castelli &#8211; Piani di Artavaggio",
+   "description": "",
+   "text": "Rifugio Sassi Castelli Piani di Artavaggio\nSalta al contenuto\nWebcam\nTelefono Rifugio: 0341 996084 - Telefono Gestore:   331-73 73 651\nBENVENUTI AI PIANI DI ARTAVAGGIO\n1.670 mt di altitudine tra natura, tradizione e paesaggi suggestivi\nIl rifugio vi accoglie con un’atmosfera familiare e genuina, raggiungibile in funivia da Moggio o a piedi lungo sentieri per ogni livello e anche una volta arrivati, le possibilità non finiscono: dai Piani partono numerosi itinerari escursionistici , facili e difficili, tra cui la salita alla spettacolare cima del Monte Sodadura (2.010 m) , che domina l’altipiano con la sua inconfondibile sagoma.\nFUNIVIA APERTA TUTTI I GIORNI (ad esclusione del martedì e del 25 dicembre) DAL 05.12.2025 AL 20.10.2026. APERTURE ECCEZIONALI: ,martedì 30 dicembre 2025 e martedì 6 gennaio 2026.\nAGEVOLAZIONI PER MINORI DI 14 ANNI\nIn inverno il rifugio si trasforma in un luogo ancora più magico: il paesaggio, avvolto dalla neve, regala atmosfere suggestive e silenzi che incantano.\nDa qui partono splendidi itinerari per ciaspolate immersi nella natura, perfetti per esplorare il bosco in tutta tranquillità. Per i più avventurosi non manca la possibilità di scendere con lo slittino , mentre chi vuole avvicinarsi agli sport invernali può imparare a sciare grazie alle piste per principianti , ideali per muovere i primi passi sulla neve in totale sicurezza.\nIl cuore della nostra ospitalità è la cucina tradizionale di montagna e gli aperitivi da gustare in compagnia, davanti al panorama.\nPernottare in rifugio è un’esperienza unica: il silenzio della montagna, il cielo stellato, il risveglio nella natura. Le camere, da 2 a 6 posti, sono accoglienti e calde. I bagni sono in comune, nel rispetto della semplicità e dello spirito di rifugio.\nIdeale per famiglie, coppie e gruppi di amici, è il luogo perfetto per rallentare, respirare e ritrovare il contatto con la montagna vera.\nUser comments\nUser comments\nUser comments\n27 Settembre 2025\nNessun risultato\nFai un tour virtuale del rifugio!"
+  },
+  {
+   "url": "https://rifugiosassicastelli.it/le-camere/",
+   "kind": "sub",
+   "label": "Le camere",
+   "title": "Le camere &#8211; Rifugio Sassi Castelli &#8211; Piani di Artavaggio",
+   "text": "Le camere Rifugio Sassi Castelli Piani di Artavaggio\nSalta al contenuto\nWebcam\nTelefono Rifugio: 0341 996084 - Telefono Gestore:   331-73 73 651\nLe nostre camere, comode e accoglienti, sono realizzate con materiali naturali e avvolte dal calore del legno, per un’atmosfera autentica e rilassante. Al primo piano le stanze sono caratterizzate da tonalità di verde, in armonia con i colori dell’intero piano, mentre al secondo piano dominano i toni del blu, creando un ambiente calmo e distensivo. Le camere ospitano da 2 a 5 persone, con letti matrimoniali e a castello, ideali per coppie, famiglie o gruppi. I bagni, in comune e separati tra uomini e donne, sono sempre puliti e ben curati.\nScreenshot\nNessun risultato\nFai un tour virtuale del rifugio!"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://rifugiosassicastelli.it/",
+ "httpStatus": 200,
+ "htmlLang": "it-IT"
+}

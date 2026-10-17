@@ -1,0 +1,35 @@
+{
+ "id": "osm:way/254613618",
+ "name": "Erchless Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 57.4295816,
+ "lng": -4.649157,
+ "country": "United Kingdom",
+ "city": "Highland",
+ "region": "Scotland",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle"
+ },
+ "wikidata": "Q5385208",
+ "wikidataDescription": "castle in Highland, Scotland, UK",
+ "website": "http://erchless-castle.co.uk/",
+ "fetchedAt": "2026-10-09T07:57:43.407Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Erchless Castle",
+  "url": "https://en.wikipedia.org/wiki/Erchless_Castle",
+  "extract": "Erchless Castle is an L-plan castle in northern Scotland, near Struy, Highland. The current building was built in about 1600. The castle is located at the northeast end of Strathglass at the point where the Erchless Burn enters the River Beauly, itself newly formed from the confluence of the rivers Glass and Farrar immediately to the south of the castle."
+ },
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "http://erchless-castle.co.uk/",
+ "httpStatus": 0
+}

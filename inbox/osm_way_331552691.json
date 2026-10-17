@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/331552691",
+ "name": "Podomek",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": 50.8665363,
+ "lng": 20.6622137,
+ "country": "Poland",
+ "city": "Kielce",
+ "region": "Holy Cross Voivodeship",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://podomek.pl/",
+ "fetchedAt": "2026-10-15T06:00:25.299Z",
+ "pages": [
+  {
+   "url": "https://podomek.pl/",
+   "kind": "home",
+   "title": "Podomek &#8211; Podomek",
+   "description": "",
+   "text": "Podomek Podomek\nPODOMEK\nDoskonałe miejsce na nocleg\nSprawdź wolne terminy\nNasze pokoje\nDysponujemy 4 pokojami dla dwóch osób, 1 Studio dla 4 osób, Studio dla 2 osób i 1 pokojem jednososobowym.\nStudio nr 0\nStudio dla 2 osób\nStudio dla dwóch osób z aneksem kuchennym, łazienką i wyjściem na taras\nStudio nr 1\nStudio dla 4 osób\nStudio z dwoma osobnymi pokojami dwuosobowymi, kuchnią oraz łazienką.\nPokój nr 2\nDwuosobowy\nPokój dwuosobowy umiejscowiony na parterze z łazienką oraz balkonem.\nPokój nr 3\nDwuosobowy\nPokój dwuosobowy z łazienką, umiejscowiony na parterze.\nPokój nr 4\nJednoosobowy Dwuosobowy\nPokój jedno lub dwu osobowy posiadający duże łóżko małżeńskie oraz łazienkę. Umiejscowiony jest na piętrze.\nPokój nr 5\nDwuosobowy\nPokój dwuosobowy z balkonem oraz łazienką, umiejscowiony na piętrze.\nPokój nr 6\nPokój dwuosobowy\nPokój dwuosobowy z łazienką, umiejscowiony na piętrze.\nTransfer z lotniska\nRezerwuj Transfer\nOpinie naszych klientów\nDokładamy wszelkich starań aby czuli się Państwo u nas jak najlepiej. Oto kilka opinii naszych klientów zaczerpniętych z portalu Booking.com\nPani Agnieszka\nPobyt prywatny\n\"Bardzo miła obsługa! Pokój czysty i zadbany. Z przyjemnością tu jeszcze wrócę!\"\nPan Krzysztof\nPobyt biznesowy\n\"Komfortowo urządzony, czysty i zadbany dom z wszystkimi udogodnieniami, jakie są potrzebne w trakcie kilkudniowego ( bądź dłuższego) pobytu. Bardzo dobry kontakt z Właścicielami, którzy nie mieli nam za złe kilkukrotnych zmian w godzinie odjazdu. Podróżowaliśmy ze Znajomymi w celach szkoleniowych- znaleźliśmy pod tym adresem wszystko czego było nam potrzeba- spokojną okolicę, przestronne sypialnie z wygodnymi łóżkami, kuchnię z jadalnią do wspólnych spotkań\"\nPani Maria\nPobyt prywatny\n\"Domek wyposażony we wszystko co potrzebne, dla osób lub rodzin podróżujących i zwiedzających okolice Gór Świętokrzyskich. Lokalizacja na obrzeżach Kielc - dobra baza wypadowa w okoliczne miejsca. Polecam\"\nPozostań w kontakcie\nNasza lokalizacja\nul. Pomorska 155, 25-349 Kielce woj. Świętokrzyskie, Polska\nZadzwoń do nas:\n(+48) 663 021 021\n(+48) 609 330 470\nPn - Nd, 16:00-22:00"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://podomek.pl/",
+ "httpStatus": 200,
+ "htmlLang": "pl-PL"
+}

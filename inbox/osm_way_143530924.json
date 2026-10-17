@@ -1,0 +1,57 @@
+{
+ "id": "osm:way/143530924",
+ "name": "Castle Beach Club",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 25.8342961,
+ "lng": -80.1201475,
+ "country": "United States",
+ "city": "Miami Beach",
+ "region": "Florida",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://miamihotelresort.com/the-castle-hotel/",
+ "fetchedAt": "2026-10-16T06:01:02.817Z",
+ "pages": [
+  {
+   "url": "https://miamihotelresort.com/the-castle-hotel/",
+   "kind": "home",
+   "title": "The Castle Hotel &#8211; Miami Hotel &#038; Resort",
+   "description": "",
+   "text": "The Castle Hotel Miami Hotel Resort\nThe Castle Hotel\nThe Castle hotel provides  an ideal mix of value, comfort and convenience, and offers an array of amenities. It is conveniently located close to the Miami Beach Boardwalk and Studio 23 as well as popular seafood restarants.\nAmenities\nFree Parking\nFree WiFi\nSwimming Pool\nBeach\nSauna\nBar/Lounge\nExpress check-in / check-out\nNon-smoking roomSuites\nFamily Rooms\nNearby Attractions\nOcean Drive\nArt Deco Welcome Center\nMiami Beach Marina\nBayshore Golf Course\nNormandy Shores Golf Course\nMiami Beach Golf Club\nVersace Mansion\nThe Wolfsonian\nHolocaust Memorial\nMiami Beach Marina\nAddress: 5445 Collins Ave, Miami Beach, FL 33140, United States\nPhone: +1 305-968-1053"
+  },
+  {
+   "url": "https://miamihotelresort.com/beach-park-hotel/",
+   "kind": "sub",
+   "label": "Beach Park Hotel",
+   "title": "Beach Park Hotel &#8211; Miami Hotel &#038; Resort",
+   "text": "Beach Park Hotel Miami Hotel Resort\nBeach Park Hotel\nThe Beach Park Hotel  is a 3-star hotel and it is located close to the beach in Miami Beach’s South Beach, an area with shopping possibilities, numerous restaurants and bars.\nAmenities\nFree Parking\nFree WiFi\n24-hour Front Desk\nBeachfront\nNearby Attractions\nOcean Drive\nArt Deco Welcome Center\nMiami Beach Marina\nLincoln Road Mall\nFlamingo Park\nThe Wolfsonian\nHolocaust Memorial\nMiami Beach Marina\nAddress:  600 Ocean Dr, Miami Beach, FL 33139, United States\nPhone:  +1 305-531-0021"
+  },
+  {
+   "url": "https://miamihotelresort.com/berkeley-shore-hotel/",
+   "kind": "sub",
+   "label": "BERKELEY SHORE HOTEL",
+   "title": "Berkeley Shore Hotel &#8211; Miami Hotel &#038; Resort",
+   "text": "Berkeley Shore Hotel Miami Hotel Resort\nBerkeley Shore Hotel\nThe Berkeley Shore Hotel is a 4-star hotel, conviniently located on the beach and only half a mile from Art Deco Historic District, in the renowned South Beach area. This prime location offers easy access to the vibrant atmosphere of Lincoln Road Mall, with its array of shops, restaurants, and entertainment venues, all within a 4-minute walk.\nAll guestrooms are equipped with modern amenities, including complimentary WiFi, a spacious 50-inch flat-screen TV, and a secure safety deposit box. For added convenience, guests can enjoy brewing their own coffee using the in-room coffeemaker. The hotel features the breathtaking rooftop pool and sundeck.\nConveniently located, the Miami International Airport is a mere 10 miles away from the property.\nAmenities\nParking\nFree WiFi\n24-hour front desk\nNon-smoking rooms\nFitness centre\nRestaurant\nBar\nOutdoor swimming pool\nPrivate beach area\nFacilities for disabled guests\nNearby Attractions\nMiami Beach\nLummus Park Beach\nSouth Pointe Park Beach\nSoundscape Park\nArt Deco Historic District\nMiami Beach Botanical Garden\nHolocaust Memorial\nThe Wolfsonian Museum–Florida International University\nAddress: 1610 Collins Ave, Miami Beach, FL 33139, United States\nPhone: +1 786 605 0810"
+  },
+  {
+   "url": "https://miamihotelresort.com/costa-norte-boutique-hotel/",
+   "kind": "sub",
+   "label": "Costa Norte Boutique Hotel",
+   "title": "Costa Norte Boutique Hotel &#8211; Miami Hotel &#038; Resort",
+   "text": "Costa Norte Boutique Hotel Miami Hotel Resort\nCosta Norte Boutique Hotel\nThe Costa Norte Boutique Hotel is located in North Beach area, a short walk to the beach and restaurants. Large, comfortable and allergy free rooms are here to ensure your pleasant stay.\nAmenities\nPaid Public Parking Available\nFree WiFi\nBeach (200 m from the hotel)\nNon-smoking rooms\nFacilities for disabled guests\nTerrace\nDaily housekeeping\nNearby Attractions\nNormandy Shores Golf Course\nMiami Beach Golf Club\nBayshore Golf Course\nBass Museum of Art\nHolocaust Memorial\nAddress: 7130 Harding Ave, Miami Beach, FL 33141, United States\nPhone: +1 786-578-5490"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://miamihotelresort.com/the-castle-hotel/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

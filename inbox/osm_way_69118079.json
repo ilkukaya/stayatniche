@@ -1,0 +1,34 @@
+{
+ "id": "osm:way/69118079",
+ "name": "Fort Pontchartrain Detroit a Wyndham Hotel",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 42.3280027,
+ "lng": -83.0476932,
+ "country": "United States",
+ "city": "Detroit",
+ "region": "Michigan",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q5266005",
+ "wikidataDescription": "skyscraper",
+ "website": "https://www.ihg.com/crowneplaza/hotels/us/en/detroit/dttnd/hoteldetail",
+ "fetchedAt": "2026-10-15T06:00:32.553Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Fort Pontchartrain a Wyndham Hotel",
+  "url": "https://en.wikipedia.org/wiki/Fort_Pontchartrain_a_Wyndham_Hotel",
+  "extract": "The Fort Pontchartrain a Wyndham Hotel, is a 367-room, 25-story high-rise hotel opened in 1965, adjacent to former Cobo Hall, now Huntington Place in Downtown Detroit, Michigan."
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "finalUrl": "https://www.ihg.com/crowneplaza/hotels/us/en/detroit/dttnd/hoteldetail",
+ "httpStatus": 403
+}

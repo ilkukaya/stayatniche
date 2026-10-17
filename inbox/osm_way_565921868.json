@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/565921868",
+ "name": "Kilcolgan Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 53.2090587,
+ "lng": -8.8804148,
+ "country": "Ireland",
+ "city": "County Galway",
+ "region": null,
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle"
+ },
+ "wikidata": "Q30969833",
+ "wikidataDescription": null,
+ "website": null,
+ "fetchedAt": "2026-10-12T07:30:10.419Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "uk",
+  "title": "Замок Кілколган",
+  "url": "https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9A%D1%96%D0%BB%D0%BA%D0%BE%D0%BB%D0%B3%D0%B0%D0%BD",
+  "extract": "Замок Кілколган або замок Кілл-Холгайн — один із замків Ірландії. Стоїть в графстві Ґолвей. Назва в перекладі з ірландської одначає «церква Холгайн». Замок стоїть біля однойменного селища Кіколган і біля гирла однойменної річки Кілколган, біля затоки Данкелін-Бей."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

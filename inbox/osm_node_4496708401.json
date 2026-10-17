@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/4496708401",
+ "name": "Africa Safari Lodge",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -24.630533,
+ "lng": 17.7701436,
+ "country": "Namibia",
+ "city": "Hardap",
+ "region": "Hardap",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.africasafarilodge.com.na/",
+ "fetchedAt": "2026-10-11T07:37:40.232Z",
+ "pages": [
+  {
+   "url": "https://africasafarilodge.com.na/",
+   "kind": "home",
+   "title": "Home | Africa Safari Lodge",
+   "description": "Africa Safari Lodge Inspired by the breath-taking splendor of the Southern Namibian Landscape, offers Luxury Accommodation which overlooks the majestic hori ...",
+   "text": "Home | Africa Safari Lodge\nSkip to content\nNAMIBIA\nAfrica Safari Lodge\nNAMIBIA\nAfrica Safari Lodge\nWelcome\nAfrica Safari Lodge\nInspired by the breath-taking splendor of the Southern Namibian Landscape, offers Luxury Accommodation which overlooks the majestic horizon.\nAfrica Safari Lodge is situated on-route to the famous travelers’ destination Sossusvlei .\nInformation\nThe Lodge\nAfrica Safari Lodge\nAfrica Safari Lodge boasts with 20 tastefully decorated chalets, each overlooking the majestic plains, sunset and ink blue night sky with a spectacular show of the galaxy.\nAccommodation\nRestaurant\nAfrica Safari Lodge\nThe restaurant doors open to offer you an uninterrupted and serene view of the striking Namibian plains with a full-time professional chef to cater to all your cuisine requirements.\nSet Menu\nFunctions & Events\nAfrica Safari Lodge\nHave your special day at Africa Safari Lodge.\nMore Information\nAttractions\nAfrica Safari Lodge\nGame Drives, Tours and Walking Trails, MTB, Bird Watching, Wellness Spa\nExplore Activities\nWildlife Auctions\nAfrica Game Bomas Annual Auctions.\nMore Information\nWhatsApp us"
+  },
+  {
+   "url": "https://africasafarilodge.com.na/accommodation/",
+   "kind": "sub",
+   "label": "ACCOMMODATION",
+   "title": "Accommodation | Africa Safari Lodge",
+   "text": "Accommodation | Africa Safari Lodge\nSkip to content\nAccommodation\nFind and book your room at Africa Safari Lodge\nRooms & Rates\nAfrica Safari Lodge\nBook your stay with us\nOnline Reservation\nInformation\nAfrica Safari Lodge\nPOLICIES\nFACILITIES\nCONTACT US\nPOLICIES\nCHECK-IN & CANCELLATION POLICY\nPrices are subject to change and rooms are subject to availability.\nCheck-in time from 14h00\nCheck-out time from 10h00\nCancellation Policy\n50% deposit is required on the day of the booking or when booking is confirmed\nIf cancelled up to 30 days prior to arrival no deposit fee will be charged\nIf cancelled later than 30 days and up to 7 days 50% of the total stay will be charged\nIf cancelled later than 7 days prior to arrival up to 100% can be charged\nIn the unfortunate event of a no show, 100% will be charged on a confirmed booking\nRefunds on deposits are at the discretion of the management and are dependent on the\nability to re‐sell the room.\nFACILITIES\nAircon\nTelephone\nWi-Fi Internet Lounge Area\nSatellite TV Lounge Area\nSafe\nRoom Service\nLaundry\nLinen & Towels\nTea & Coffee\nLounge Area\nBath\nShower\nBathrobes\nPool\nDisabled Access\nCONTACT US\nPlease complete the form and submit for inquiries.\nYour Name (required)\nYour Email (required)\nSubject\nYour Message\nSend\nIMPORTANT!\nPlease note Namibian nationals to request rates prior to booking.\nWhatsApp us"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://africasafarilodge.com.na/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

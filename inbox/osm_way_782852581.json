@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/782852581",
+ "name": "Cliffside Cottages",
+ "queueStatus": "verified",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 40.350395,
+ "lng": -105.5676515,
+ "country": "United States",
+ "city": "Estes Park",
+ "region": "Colorado",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://cliffsidecottages.com/",
+ "fetchedAt": "2026-10-15T06:03:12.516Z",
+ "pages": [
+  {
+   "url": "https://cliffsidecottages.com/",
+   "kind": "home",
+   "title": "cliffsidecottages.com",
+   "description": "",
+   "text": "cliffsidecottages.com\nCliffside Cottages\nCliffside Cottages Cliffside Cottages Cliffside Cottages\nLaunching Soon\nLaunching Soon Launching Soon Launching Soon\nLaunching Soon\nLaunching Soon Launching Soon Launching Soon\nContact Us\nDrop us a line!\nName\nEmail*\nSign up for our email list for updates, promotions, and more.\nSend\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nCopyright © 2025 Cliffside Cottages - All Rights Reserved.\nPowered by\nThis website uses cookies.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.\nAccept"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://cliffsidecottages.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-CA"
+}

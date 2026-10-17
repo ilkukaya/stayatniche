@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/6053286534",
+ "name": "El Faro",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 28.3943634,
+ "lng": -16.6345367,
+ "country": "Spain",
+ "city": "San Juan de la Rambla",
+ "region": "Canary Islands",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.elfaro-tenerife.com/",
+ "fetchedAt": "2026-10-17T05:44:32.367Z",
+ "pages": [
+  {
+   "url": "http://www.elfaro-tenerife.com/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": "Failed to connect to MySQL: (2002) No such file or directoryError!"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.elfaro-tenerife.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

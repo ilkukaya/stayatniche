@@ -1,0 +1,49 @@
+{
+ "id": "osm:way/116821910",
+ "name": "Castillo del Buen Amor",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 41.1570284,
+ "lng": -5.6705862,
+ "country": "Spain",
+ "city": "Topas",
+ "region": "Castile and León",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q5757771",
+ "wikidataDescription": "cultural property in Topas, Spain",
+ "website": "https://www.buenamor.net/",
+ "fetchedAt": "2026-10-11T07:39:17.870Z",
+ "pages": [
+  {
+   "url": "https://www.buenamor.net/en",
+   "kind": "home",
+   "title": "Posada Real Castillo del Buen Amor | Castilla y León | Hotel",
+   "description": "El Castillo del Buen Amor es un precioso hotel con encanto rodeado de jardines y viñedos ubicado entre Salamanca y Zamora, a 2 horas de Madrid. Habitaciones románticas, abovedadas, terrazas y torreones se convierten en el escenario ideal para una escapada en pareja donde la intimidad y el romanticismo están asegurados.",
+   "text": "-->\nPosada Real Castillo del Buen Amor | Castilla y León | Hotel\ntop of page\nA Castle with More Than A Thousand Years of History\nA grand military fortress from the 11th century\nConverted into a wonderful palace in the 15th\nUsed as an agricultural warehouse until the 19th\nIt is returned to its former glory in the 20th\nOpens its doors as a hotel and venue in the 21st\nWhat's your plan ?\nRomance\nFamily & friends\nwith pet\nCorporate\nYour wedding\nO ur S uggestions ...\nCommitted to our Environment\nEco-initiatives\nOur Restaurant\nCafeteria Menu\nday trip\nRestaurant menu\nCustom made\nroom service\nCastle experiences\nOur plans\nDiscover the Wines of the Property\nCafeteria Menu\nday trip\nWines, Vineyards and Winery\nMake your reservation\nC elebrations , W eddings , M eetings\nYour Event at the Castle\nLETS BEGIN!\nG ifts , A cknowledgments , T reats\nGift Vouchers\nONLINE STORE\nreceive our newsletter for updates\nSubscribe\nbottom of page"
+  },
+  {
+   "url": "https://www.buenamor.net/en/habitaciones",
+   "kind": "sub",
+   "label": "Rooms",
+   "title": "Habitaciones | Posada Real Castillo del Buen Amor | Castilla y León",
+   "text": "-->\nHabitaciones | Posada Real Castillo del Buen Amor | Castilla y León\ntop of page\nS taying in the C astle\nWe have forty beautiful rooms in the Castle for you to choose from.\nRooms\nBedrooms\nSuites\nSuites\nBook your room\nC elebrations , W eddings , M eetings\nYour Event at the Castle\nLETS BEGIN!\nG ifts , A cknowledgments , T reats\nGift Vouchers\nONLINE STORE\nreceive our newsletter to be up to date with everything\nSubscribe\nbottom of page"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "es",
+  "title": "Castillo del Buen Amor (Salamanca)",
+  "url": "https://es.wikipedia.org/wiki/Castillo_del_Buen_Amor_(Salamanca)",
+  "extract": "El castillo de Villanueva del Cañedo se localiza en el término municipal de Topas, en el lugar conocido como Villanueva de Cañedo, localidad hoy desaparecida, en la provincia de Salamanca (España). Es un castillo de estilo renacentista y que al parecer contiene restos del siglo XI, pero la construcción actual data del siglo XV."
+ },
+ "notes": [],
+ "finalUrl": "https://www.buenamor.net/en",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

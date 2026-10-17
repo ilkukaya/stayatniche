@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/126079283",
+ "name": "La Cabane dans les Arbres",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 46.237107,
+ "lng": 6.6542685,
+ "country": "France",
+ "city": "Saint-Jean-d'Aulps",
+ "region": "Auvergne-Rhône-Alpes",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.lacabanedanslesarbres.com/",
+ "fetchedAt": "2026-10-13T07:51:21.992Z",
+ "pages": [
+  {
+   "url": "http://www.lacabanedanslesarbres.com/",
+   "kind": "home",
+   "title": "La Cabane et le Chalet dans les arbres à Saint jean d'Aulps",
+   "description": "LA CABANE DANS LES ARBRES\nAccrochée sur un mélèze, la Cabane dans les Arbres est un cocon cosy pour un séjour toutes saisons.LE CHALET DANS LES ARBRES\nA peine plus terre à terre, le chalet offre aussi un confort exceptionnel pour un séjour insolite.",
+   "text": "La Cabane et le Chalet dans les arbres à Saint jean d'Aulps\nRéservation sécurisée\nJour :\nMois :\nAnnée :\n.\nNbre de nuits :\n. Adultes :\nRéserver...\nHome\nLa Cabane\nLe Chalet\nVidéo\nSituation\nTarifs\nEN\nLa Cabane dans les Arbres\nAccrochée sur un mélèze, la Cabane dans les Arbres est un cocon cosy pour un séjour toutes saisons.\nPlus\nLe chalet dans les Arbres\nA peine plus terre à terre, le chalet offre aussi un confort exceptionnel pour un séjour insolite.\nPlus\nRéserver...\nPour plus d'informations sur les bons cadeaux,\ncontactez Rémi par téléphone : +33 6 20 12 26 15\nWarning : include(form.php): Failed to open stream: No such file or directory in /home/clients/5de11d5caa0b4f946253a2381a7121e7/sites/lacabanedanslesarbres.com/footer.php on line 14\nWarning : include(): Failed opening 'form.php' for inclusion (include_path='.:/opt/php8.5/lib/php') in /home/clients/5de11d5caa0b4f946253a2381a7121e7/sites/lacabanedanslesarbres.com/footer.php on line 14\n-->"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.lacabanedanslesarbres.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

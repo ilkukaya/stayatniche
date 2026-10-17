@@ -1,0 +1,84 @@
+{
+ "id": "osm:relation/16202672",
+ "name": "Hotel Schloss Waldeck",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.2037936,
+ "lng": 9.0555753,
+ "country": "Germany",
+ "city": "Waldeck",
+ "region": "Hesse",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle",
+  "stars": "4S"
+ },
+ "wikidata": "Q111390237",
+ "wikidataDescription": "hotel in Waldeck, Germany",
+ "website": "http://www.hotel-schloss-waldeck.de/",
+ "fetchedAt": "2026-10-12T07:28:39.900Z",
+ "pages": [
+  {
+   "url": "https://www.hotel-schloss-waldeck.de/",
+   "kind": "home",
+   "title": "Hotel Hotel Schloss Waldeck auf Burg Waldeck am Edersee",
+   "description": "",
+   "text": "Hotel Hotel Schloss Waldeck auf Burg Waldeck am Edersee\nMenü\nen\nWillkommen\nim Hotel Schloss Waldeck\nAnreisedatum:\nAbreisedatum:\nVerfügbarkeit prüfen Buchen Sie zum garantierten Bestpreis\nkein Warten - sofortige Buchungsbestätigung\n1 / 1\nUnser 4-Sterne Superior Hotel Schloss Waldeck auf der im 11. Jahrhundert erbauten Burg Waldeck liegt als Wahrzeichen der Region 120 m hoch auf dem Berg und bietet einen herrlichen Blick auf den Edersee, den Nationalpark und den Naturpark Kellerwald-Edersee.\nIm Hotel Schloss Waldeck residieren Sie in einer reizvollen Umgebung, gepr gt von der bewegten Historie des Schlosses selbst und dem malerischen Ambiente der Region am Edersee.\nWeihnachten auf Schloss Waldeck, eingebettet in den wohlig warmen Burgmauern erwarten Sie Tage der Ruhe und Besinnlichkeit.\nWeihnachten 3 N chte oder l nger\nbuchbar 23. bis 26. Dezember 2026\nDas Arrangement beinhaltet\n3 oder 4x bernachtungen inklusive Fr hst ck\n1x Glas Winterpunsch zur Begr ung\n1x 3-G nge Men am 23.12.\n1x 4-G nge Men am Heiligabend um 18.00 Uhr\n1 Glas Champagner\n1x 5-G nge Men am 25.12. inkl. korrespondierenden Weinen um 18.30 Uhr\n1x Burgf hrung am 25.12.\nNutzung des Wellnessbereiches\nEntspannung im Kaminzimmer\nZur Buchung"
+  },
+  {
+   "url": "https://www.hotel-schloss-waldeck.de/hotel-128/",
+   "kind": "sub",
+   "label": "",
+   "title": "Hotel Hotel Schloss Waldeck at Burg Waldeck on the Edersee",
+   "text": "Hotel Hotel Schloss Waldeck at Burg Waldeck on the Edersee\nMenu\nde\nWelcome\nto Hotel Schloss Waldeck\nArrival:\nDeparture:\nCheck availability Book at the best price\nNo waiting - instant confirmation\nCastle Waldeck rests on the remnants of an 11th-century fortification, towering over the town of Waldeck, in the district of Waldeck-Frankenberg in Hessen (Germany). The castle is situated in the north of the Kellerwald-Edersee nature reserve, 120 metres above the Edersee's north shore, on a steep, wooded rock close to the Centre of the halftimbered town of Waldeck. What better place to take in the beautiful scenery!\nFormerly the ancestral seat and residence of the Counts of Waldeck, the fortification was later used as military barracks. In 1734 it was a state penitentiary, and in subsequent years was used as state archive, forestry office, and, as early as 1906, was put to use as a hotel. Today it belongs to the Waldeckian domanial administration and is public property.\nIn September 2009, the hotel subsidiary manufacturing company reopened the redesigned 'Hotel Schloss Waldeck'."
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "Hotel",
+   "name": "Hotel Schloss Waldeck",
+   "description": "Das 4-Sterne Superior Hotel Schloss Waldeck auf der im 11. Jahrhundert erbauten Burg Waldeck liegt als Wahrzeichen der Region 120 m hoch auf dem Berg.",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "DE",
+    "addressLocality": "Waldeck",
+    "addressRegion": "Hessen",
+    "postalCode": "34513",
+    "streetAddress": "Schloss Waldeck 1"
+   },
+   "telephone": "+49 5623 589 0 (bis 21 Uhr)",
+   "priceRange": "$60 - $130",
+   "starRating": {
+    "@type": "Rating",
+    "ratingValue": "4"
+   }
+  },
+  {
+   "@type": "Hotel",
+   "name": "Hotel Schloss Waldeck",
+   "description": "The 4-star superior Hotel Schloss Waldeck on Waldeck Castle, which was built in the 11th century, is a landmark of the region and is 120 m high on the mountain.",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "DE",
+    "addressLocality": "Waldeck",
+    "addressRegion": "Hessen",
+    "postalCode": "34513",
+    "streetAddress": "Schloss Waldeck 1"
+   },
+   "telephone": "+49 5623 589 0 (bis 21 Uhr)",
+   "priceRange": "$60 - $130",
+   "starRating": {
+    "@type": "Rating",
+    "ratingValue": "4"
+   }
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.hotel-schloss-waldeck.de/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/4795934021",
+ "name": "Castillo de la Isla del Burguillo",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 40.4291691,
+ "lng": -4.5640619,
+ "country": "Spain",
+ "city": "El Barraco",
+ "region": "Castile and León",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.isladelburguillo.es/",
+ "fetchedAt": "2026-10-11T07:39:33.620Z",
+ "pages": [
+  {
+   "url": "https://www.isladelburguillo.es/",
+   "kind": "home",
+   "title": "Una isla con un Castillo",
+   "description": "Isla y Castillo en alquiler, situados en el Embalse del Burguillo a 100 kms de Madrid. Es un paraíso tranquilo e independiente, ideal para pasar unos días de vacaciones con la familia y los amigos. Sus playas y su entorno, ofrecen todo tipo de posibilidades. Disfruta la Isla y el Castillo",
+   "text": "Una isla con un Castillo\nIr al contenido\nA 100 kms. de Madrid\nDISFRUTA DE ESTA ISLA Y DE SU CASTILLO\nDisponibilidad\nAlquiler de la Isla y el Castillo\nbarca incluida\nTe encantará: única, exclusiva, diferente\nLa Isla\nEs un paraíso tranquilo e independiente, ideal para pasar unos días de vacaciones con la familia y los amigos. Sus playas y su entorno, ofrecen todo tipo de posibilidades.\nVER MÁS\nEl Castillo\nTiene cuatro dormitorios y su capacidad es para un máximo de 8/10 personas. Existe la posibilidad de ampliar la capacidad, hasta un total de 38 personas en Glamping .\nVER MÁS\nUn entorno de ensueño\nLa Isla, podemos considerarla como un jardín botánico con una interesante variedad de plantas.\nPodrás disfrutar de la observación de una gran diversidad de aves .\nEl pantano ofrece una interesante y abundante variedad de peces .\nEn las proximidades se encuentra la Reserva Natural del «Valle de Iruelas».\nVER MÁS\nEventos y Actividades\nLa Isla y el Castillo es un emplazamiento ideal para la organización de eventos como bodas, comuniones, cumpleaños así como juegos y actividades temáticas.\nSe puede tomar el sol en sus diversas playas, bañarse y practicar deportes acuáticos .\nVER MÁS\n01\nIsla del Burguillo\n( a 100 Kms de Madrid)\nDisfruta de esta Isla y de su Castillo\nVER MÁS\n01\nIsla del Burguillo\n( a 100 Kms de Madrid)\nDisfruta de esta Isla y de su Castillo\nVER MÁS\n01\nIsla del Burguillo\n( a 100 Kms de Madrid)\nDisfruta de esta Isla y de su Castillo\nVER MÁS\n01\nIsla del Burguillo\n( a 100 Kms de Madrid)\nDisfruta de esta Isla y de su Castillo\nVER MÁS\n01\nIsla del Burguillo\n( a 100 Kms de Madrid)\nDisfruta de esta Isla y de su Castillo\nVER MÁS\nA 100 KMS DE MADRID\nDISFRUTA DE ESTA ISLA Y DE SU CASTILLO\nVER MÁS\nA 100 KMS DE MADRID\nDISFRUTA DE ESTA ISLA Y DE SU CASTILLO\nScroll al inicio\nUsamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello. Aceptar"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.isladelburguillo.es/",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

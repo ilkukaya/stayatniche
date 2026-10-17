@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/13031691491",
+ "name": "Révembulle",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": 44.8146918,
+ "lng": 6.1936888,
+ "country": "France",
+ "city": "La Chapelle-en-Valgaudémar",
+ "region": "Provence-Alpes-Côte d'Azur",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://revembulle.com/",
+ "fetchedAt": "2026-10-13T07:52:14.665Z",
+ "pages": [
+  {
+   "url": "https://revembulle.com/",
+   "kind": "home",
+   "title": "Rêvembulle - Logement insolite - Valgaudemar",
+   "description": "Dormez à la belle étoile, en plein coeur du parc national des Ecrins dans une nature flamboyante et un cadre idyllique.",
+   "text": "Rêvembulle - Logement insolite - Valgaudemar\nContact\nEn savoir plus\nBienvenue\nDormez à la belle étoile, en plein coeur du parc national des Ecrins dans une nature flamboyante et un cadre idyllique, sans en avoir les inconvénients !\nIdéal pour une weekend en amoureux ou pour une expérience en famille, la bulle transparente vous offre la possibilité d’une nuit unique sous les étoiles en harmonie totale avec la nature.\nUn souvenir inoubliable, en couple, en famille ou entre amis, confortablement installés dans une bulle transparente suspendue jusqu’à 3 mètres du sol pour passer une nuit insolite entre ciel et terre au cœur du Massif des Ecrins.\nBercés par les cascades et le chant des animaux, venez contempler l’immensité d’un ciel étoilé en toute intimité.\nouverture:\n9 mai au 5 octobre 2026\n(Nous sommes aptes à récolter vos demandes de réservations pour les box et autre organisme externe à partir du 15 Janvier à 15h15 et 15 seconde) !\nPour nos coupons cadeaux artisanaux de la maison, nos réservations en direct ainsi que nos fidèles récidivistes, dès le mois de décembre 2025...\nToujours d'actualités... Les massages en forêt !!!\nDans un espace couvert et chauffé, Entouré et envouté par la beauté et les musiques naturelles qui emanent de notre majestueuse forêt testez nos massages insolites !!!\nContactez-nous\nN'hésitez pas à nous interpeller par mail ou par téléphone pour toutes demandes d'informations et prises de réservations.\nMail\nValgo-aventure@hotmail.fr\nTéléphone\n06 74 59 93 79\nAdresse POSTALE\nValgau Aventure\nLa Fôret\n05800       La Chapelle en Valgaudemar\nNom * Prénom\nNom\nEmail *\nTéléphone\nParagraph Text\nName\nSubmit\nFacebook\nInstagram\nTripadvisor"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://revembulle.com/",
+ "httpStatus": 200,
+ "htmlLang": "fr-FR"
+}

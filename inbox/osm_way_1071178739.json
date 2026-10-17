@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/1071178739",
+ "name": "Os Faros Pisos Turísticos",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 43.1838659,
+ "lng": -9.1067986,
+ "country": "Spain",
+ "city": "Arou",
+ "region": "Galicia",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://osfarospisosturisticos.es/",
+ "fetchedAt": "2026-10-17T05:44:33.612Z",
+ "pages": [
+  {
+   "url": "https://osfarospisosturisticos.es/",
+   "kind": "home",
+   "title": "Portada - Os Faros Pisos Turísticos",
+   "description": "",
+   "text": "Portada - Os Faros Pisos Turísticos\n¡Gracias!\nOS FAROS - PISOS TURÍSTICOS\nEn plena Costa da Morte\nOS FAROS - PISOS TURÍSTICOS\nEstancias amplias y cómodas\nOS FAROS - PISOS TURÍSTICOS\nApartamentos de 3 habitaciones\nBienvenid@ a Os Faros\nApartamentos turísticos\nApartamentos turísticos situados en un enclave natural increíble, con una situación idónea para visitar numerosos puntos de interés de A Costa da Morte, A Coruña, Santiago, etc. Disfruta de un entorno tranquilo, con espacio para el ocio, el deporte o el descanso. Conoce más sobre Os Faros\nNuestros pisos disponen de todos los servicios para que vuestra estancia sea lo más confortable posible.\nUn enclave natural privilegiado. Desde el alojamiento podrás disfrutar del increíble paisaje, visible desde todos los apartamentos.\nToda la información de precios y descuentos.\nRevisa los servicios que se incluyen en el precio del alojamiento.\nConoce todas las habitaciones y el entorno que encontrarás en Arou y zonas limítrofes."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://osfarospisosturisticos.es/",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

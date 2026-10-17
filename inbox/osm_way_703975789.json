@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/703975789",
+ "name": "Apartamentos las Cuevas",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 43.3175499,
+ "lng": -4.8463947,
+ "country": "Spain",
+ "city": "Carreña",
+ "region": "Asturias",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.alojamientosencabrales.com/",
+ "fetchedAt": "2026-10-14T06:15:36.457Z",
+ "pages": [
+  {
+   "url": "https://www.alojamientosencabrales.com/",
+   "kind": "home",
+   "title": "Asturias: guía de turismo, actividades y productos asturianos",
+   "description": "Los apartamentos Puente la Molina se encuentran en la capital del concejo de Cabrales, en el macizo central de los Picos de Europa y con vistas extraordinarias",
+   "text": "Asturias: guía de turismo, actividades y productos asturianos\nNuestros apartamentos en el Parque de los Picos de Europa son ideales para tus vacaciones en familia.\n¡Ven a conocernos!\n\" />\npicujultayu@gmail.com\n667 28 26 18 687 61 95 18\nEntorno único\nLos Picos de Europa\nLeer más\nEn las aldeas cabraliegas\nse respira tranquilidad\nLeer más\nEN LOS PICOS DE EUROPA\nCabrales, conocido en el mundo entero por ser el productor original del famoso queso del mismo nombre, es además, el segundo acceso más utilizado en Asturias para acceder al Parque Nacional de Los Picos de Europa . En él, confluyen los tres macizos y desde Poncebos podemos ver, de una sola mirada, el perfil de los tres a un mismo tiempo.\nLa Ruta del Cares, el Naranjo de Bulnes, piragüismo, senderismo, escalada, pesca... y hasta acercarte a la playa en media hora. Si a todo esto le añadimos una buena gastronomía, un paisaje y ubicación privilegiados y unas gentes y costumbres deseosas de acoger al que quiera acercarse por su tierra... ¿a qué esperas para venir?\nSi buscas un lugar para descansar, relajarte, disfrutar del entorno, hacer excursiones y todo lo que puedas imaginar, en Cabrales, nosotros te ofrecemos la más variada oferta de alojamientos en la zona .\nViajes en grupo, en pareja, con amigos o familia o, sencillamente tú, tenemos la posibilidad de darte el tipo de\"hogar vacacional\" que más se ajuste a tus necesidades. Sólo llámanos o envíanos un mail, cuéntanos tus preferencias, fechas y nosotros te informaremos rápidamente.\nDistancias a las principales localidades y rincones de la zona:\nRuta del Cares: 9 km.\nLagos de Covadonga: 28 km.\nRibadesella: 40 km.\nLlanes: 28 km.\nCangas de Onís: 28 km.\nAPT La Molina\nUbicados en Carreña de Cabrales\nLEER MÁS\nTus vacaciones en la montaña\nLEER MÁS\nCookies : usamos cookies para personalizar el contenido y analizar nuestro tráfico. Puedes leer la politica y el listado completo en la pagina de cookies .\nAceptar todo Solo necesarias Rechazar cookies"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.alojamientosencabrales.com/",
+ "httpStatus": 200,
+ "htmlLang": "es-ES"
+}

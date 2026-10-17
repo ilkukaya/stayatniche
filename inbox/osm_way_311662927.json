@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/311662927",
+ "name": "Blands Cliff Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 54.2831386,
+ "lng": -0.396689,
+ "country": "United Kingdom",
+ "city": "Scarborough",
+ "region": "England",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://blandscliff.co.uk/",
+ "fetchedAt": "2026-10-15T06:01:48.276Z",
+ "pages": [
+  {
+   "url": "https://blandscliff.co.uk/",
+   "kind": "home",
+   "title": "Blands Cliff Lodge Scarborough. Bed and lovely homecooked Breakfasts",
+   "description": "",
+   "text": "Blands Cliff Lodge Scarborough. Bed and lovely homecooked Breakfasts\nBlands Cliff Lodge – Scarborough\nThe owners, Kevin & Carys have enjoyed offering Bed and lovely homecooked Breakfasts here for the past 26 years as well as Holiday Apartments for guests who prefer self catering accommodation.\nBlands Cliff Lodge is situated in a great location in Scarborough town centre. Only 100 metres from the sandy South Beach. Only a short walk to Shopping, Theatres, Bars, Coffee shops, Restaurants, Cricket ground, Open Air Theatre concerts, mariner and all the beach entertainment Scarborough seafront offers.\n9\nAll Rooms en suite\n9\nPets not allowed at B&B\n9\nPets allowed at self catering apartments\nPlease note NO LIFT in our buildings – Stairs only to all en-suite rooms on 1st, 2nd & 3rd floors, parts of Blands Cliff Lodge date back 300 years before lifts invented.\n9\nParking\nOn street parking permits available on reception for £2 per day (2026 price), valid in a large residential area near the hotel. Full details given on arrival.\n9\nPublic transport\n( Bus / Train ) station is a 10 minute walk away.\nBlands Cliff Lodge\nMobile: 07729 616202\nLandlines: 01723 351747 / 01723 363653\nEmail: stayinscarborough@gmail.com"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://blandscliff.co.uk/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

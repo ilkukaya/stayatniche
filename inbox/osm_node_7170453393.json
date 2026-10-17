@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/7170453393",
+ "name": "Gästehaus Locanda al Castello",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.0490351,
+ "lng": 14.07999,
+ "country": "DE",
+ "city": "Stolpen",
+ "region": null,
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.locanda-stolpen.de/",
+ "fetchedAt": "2026-10-17T05:45:33.510Z",
+ "pages": [
+  {
+   "url": "https://www.locanda-stolpen.de/",
+   "kind": "home",
+   "title": "G&auml;stehaus und Ferienwohnung Beier in Stolpen - S&auml;chsische Schweiz - Zimmer, Ferienwohnung",
+   "description": "Gästehaus Locanda al Castello, Ferienzimmer (Einzelzimmer, Doppelzimmer) und Ferienwohnung Cosel Castello mit Sauna in der Burgstadt Stolpen - S&auml;chsische Schweiz, Sachsen - &Uuml;bernachtungsangebot mit Zimmer, Ferienwohnung, Wellness und Sauna",
+   "text": "G stehaus und Ferienwohnung Beier in Stolpen - S chsische Schweiz - Zimmer, Ferienwohnung\nChristian Beier Dresdner Str. 32 01833 Stolpen Tel.: 035973 / 29349 Handy: 0174 8909615 locanda.stolpen@gmx.de\nStartseite | G stehaus\nLocanda al Castello | Ferienwohnung Cosel Castello mit Sauna\nHerzlich willkommen in unseren Ferienunterk nften\nin der S chsischen Schweiz\nund der Burgstadt Stolpen!\nWir bieten Ihnen Ferienzimmer, EZ, DZ\nmit italienischem Flair\nund eine Ferienwohnung Cosel Castello\nf r 2 - 4 Personen mit Sauna\nBurgstadt Stolpen\nDie Stadt Stolpen ist ein Ort mit historischem Stadtkern, verwinkelten Gassen, gem tlichen kleinen Gastst tten und Cafes, einem sch nen Stadtpark am Fu e unserer ber hmt ber chtigten Basaltburg, dem Gef ngnis der Gr fin Cosel.\nUm Stolpen herum gibt es ein gut ausgebautes Wander- und Radwegenetz. Stolpen ist zentraler und idealer Ausgangsort f r Ausfl ge\nin die S chsische Schweiz (10km) und in die Kulturstadt Dresden (20km), sowie nach Tschechien (20km) und die Oberlausitz (15km).\nOrtsans ssige Busunternehmen bieten Tagesfahrten nach Prag an.\nTopolino, das Hausmaskottchen,\nist Bestandteil des Stadtspieles von Stolpen.\n\"Findet mit Geist & Maus Stolpner Geschichten heraus! \"\nDie Locanda ist die Station 26.\nTopolino und Topolina,\nzwei Pilgerm uschen\nDie sitzen auf einem Pilgerstab und\nerz hlen\nsich Geschichten vom Jakobsweg ...\nDatenschutz | Impressum"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.locanda-stolpen.de/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

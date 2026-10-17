@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/368619793",
+ "name": "Schloss Hotel Bredenfelde",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 53.6012975,
+ "lng": 12.9533973,
+ "country": "Germany",
+ "city": "Bredenfelde",
+ "region": "Mecklenburg-Vorpommern",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "manor",
+  "stars": "3"
+ },
+ "wikidata": "Q2240390",
+ "wikidataDescription": "manor house in Germany",
+ "website": "http://www.schloss-hotel-bredenfelde.de",
+ "fetchedAt": "2026-10-12T07:29:05.448Z",
+ "pages": [
+  {
+   "url": "http://www.schloss-hotel-bredenfelde.de/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Herrenhaus Bredenfelde",
+  "url": "https://de.wikipedia.org/wiki/Herrenhaus_Bredenfelde",
+  "extract": "Das Herrenhaus Schloss Bredenfelde befindet sich in Bredenfelde im Landkreis Mecklenburgische Seenplatte. Es wurde nach Entwürfen des Architekten Friedrich Hitzig in der Mitte des 19. Jahrhunderts im Tudorstil gebaut."
+ },
+ "notes": [],
+ "finalUrl": "http://www.schloss-hotel-bredenfelde.de/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

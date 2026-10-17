@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/9439299636",
+ "name": "Park Side Safari Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 2.4725632,
+ "lng": 31.5355091,
+ "country": "Uganda",
+ "city": "Nwoya",
+ "region": "Nwoya",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": "Q111997148",
+ "wikidataDescription": "hotel in Uganda",
+ "website": "https://parksidesafarilodge.com",
+ "fetchedAt": "2026-10-17T05:45:08.584Z",
+ "pages": [
+  {
+   "url": "https://parksidesafarilodge.com/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://parksidesafarilodge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

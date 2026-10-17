@@ -1,0 +1,41 @@
+{
+ "id": "osm:way/206149776",
+ "name": "Hotel Schloss Reinhartshausen",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.0189734,
+ "lng": 8.092335,
+ "country": "Germany",
+ "city": "Eltville am Rhein",
+ "region": "Hesse",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q2243126",
+ "wikidataDescription": "castle in Germany",
+ "website": "https://hotelschloss-reinhartshausen.de/",
+ "fetchedAt": "2026-10-12T07:28:42.238Z",
+ "pages": [
+  {
+   "url": "https://hotelschloss-reinhartshausen.de/",
+   "kind": "home",
+   "title": "HSR",
+   "description": "",
+   "text": "HSR\nELEGANZ\nZWISCHEN\nRHEIN UND\nREBEN\nKarriere\nKontakt\nde\nen\nELEGANZ\nZWISCHEN\nRHEIN UND\nREBEN\nEntspannter Luxus und pure Erholung, malerische Natur und spannende Kultur, feine Kulinarik und gelebte Gastfreundschaft.\nDas wird Schloss Reinhartshausen in wenigen Monaten wieder sein. Ein Gebäude mit außergewöhnlicher Kraft. Es steht für die Geschichte von starken Frauen, von Emanzipation, feingeistigen Begegnungen der Menschen aus vielen Ländern und für Freigeist. Wie konnte man nur denken, es würde eine Renovierung nach vorgefertigtem Plan werden. Nein. Der historische Bau beweist seine ganz eigene Persönlichkeit. Das machte die Arbeiten, Schloss Reinhartshausen in die Neuzeit zu bringen, so besonders.\nWir freuen uns sehr darauf, Sie bald wieder einladen zu dürfen, in ein Hotel der Extraklasse. Mitten in einer der reizvollsten Landschaften Europas.\nDAS SCHLOSSHOTEL\nAUF EINEN BLICK\nIdyllische Lage im Rheingau, zwischen Rhein und Reben\n38 Zimmer und 15 Suiten\n12 Tagungsräume für Hochzeiten, Businessmeetings, Events und Weihnachtsfeiern\nKulinarische Highlights in zwei exklusiven Restaurants\nSekt- und Champagnerbar im stilvollen Ambiente\nWeitläufiger, romantischer Schlossgarten, direkt am Rhein\nBeeindruckende Kunstschätze aus der Sammlung von Marianne von Oranien-Nassau in allen Räumen\nWIR FREUEN UNS\nAUF IHRE NACHRICHT!\nSprechen Sie uns gerne an:\n+49 6123 7019494\ninfo[at]schloss-hotel.de\nImpressum\nDatenschutz\nNewsletter\n/ real people should not fill this in and expect good things - do not remove this or risk form bot signups /\nSie können unseren Newsletter jederzeit abbestellen. Weitere Informationen finden Sie in unserer Datenschutzerklärung"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Reinhartshausen",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Reinhartshausen",
+  "extract": "Schloss Reinhartshausen ist ein ehemaliges Schloss mit Weingut im heute hessischen Rheingau. Es liegt am westlichen Ortsrand von Erbach, einem Stadtteil von Eltville am Rhein, und vom Rheinufer nur durch die Bundesstraße 42 getrennt."
+ },
+ "notes": [],
+ "finalUrl": "https://hotelschloss-reinhartshausen.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

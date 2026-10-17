@@ -1,0 +1,52 @@
+{
+ "id": "osm:relation/15569095",
+ "name": "Tarangire Safari Lodge",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -3.7704617,
+ "lng": 36.0213704,
+ "country": "Tanzania",
+ "city": "Manyara Region",
+ "region": "Manyara Region",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.tarangiresafarilodge.com/",
+ "fetchedAt": "2026-10-11T07:37:24.776Z",
+ "pages": [
+  {
+   "url": "https://www.tarangiresafarilodge.com/",
+   "kind": "home",
+   "title": "Tarangire Safari Lodge",
+   "description": "",
+   "text": "Tarangire Safari Lodge\nScroll\nWelcome\nSince 1985, family-owned & managed Tarangire Safari Lodge has been well known for its location and panoramic views. We have catered to wildlife enthusiasts and those seeking rest and relaxation among one of Tanzania’s most popular national parks.\nAccommodation\nRead More\nThings to Do\nRead More\nFollow Us"
+  },
+  {
+   "url": "https://www.tarangiresafarilodge.com/accommodation",
+   "kind": "sub",
+   "label": "Accommodation",
+   "title": "Accommodation &mdash; Tarangire Safari Lodge",
+   "text": "Accommodation Tarangire Safari Lodge\nScroll\nAccommodation\nOur Tents\nThe quintessential safari tents, with thatched roofs and large, mesh-screened windows, provide the perfect opportunity to connect with the sights and sounds of nature.\nEach tent has a comfortable verandah, ideal for bird and game viewing or reading your favorite book after a dusty safari.\nWith a choice of twin, double or family tents; all are equipped with en-suite bathrooms with 24 hour electricity, solar-heated showers, ample cupboard space for your gear, and a cultural touch of local textiles.\nOur Bungalows\nThe four circular bungalows, built in a similar style to the Maasai boma, offer a more spacious option for family and triple accommodation.\nThe bungalows are set away from the main lodge, providing privacy, a panoramic view, and all have large en-suite bathrooms with 24 hour electricity, solar-heated showers, and comfortable bedding made from local textiles.\nPatulivu River Suite"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "address": ""
+  },
+  {
+   "@type": "LocalBusiness",
+   "address": ""
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.tarangiresafarilodge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

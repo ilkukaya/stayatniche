@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/14095167273",
+ "name": "Haus Zugspitzblick",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 47.4893887,
+ "lng": 11.1530123,
+ "country": "Germany",
+ "city": "Garmisch-Partenkirchen",
+ "region": "Bavaria",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://haus-zugspitzblick.de",
+ "fetchedAt": "2026-10-17T05:46:48.269Z",
+ "pages": [
+  {
+   "url": "https://haus-zugspitzblick.de/",
+   "kind": "home",
+   "title": "Haus Zugspitzblick Garmisch-Partenkirchen",
+   "description": "",
+   "text": "Haus Zugspitzblick Garmisch-Partenkirchen\nSkip to content\nUnsere Doppelzimmer\nErholung pur inmitten der Natur!\nUnsere Ferienwohnungen\nErholung am sonnigen Südhang über Partenkirchen!\nBuchungsanfrage\nHier gehts zu Ihrem nächsten Urlaub in den Bergen!\nGrüß Gott im Zugspitzland!\nDiese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus. OK"
+  },
+  {
+   "url": "https://haus-zugspitzblick.de/doppelzimmer/",
+   "kind": "sub",
+   "label": "Doppelzimmer",
+   "title": "Doppelzimmer &#8211; Haus Zugspitzblick Garmisch-Partenkirchen",
+   "text": "Doppelzimmer Haus Zugspitzblick Garmisch-Partenkirchen\nSkip to content\nDoppelzimmer\nHome / Doppelzimmer\nUnsere Doppelzimmer\n(auch als Einzelzimmer buchbar)\nKomfortabel eingerichtet mit Sat-TV\nSüd-West-Balkon / -Terrasse\nDusche/WC\nreichhaltiges Frühstück\nWLan\nNichtraucherzimmer (auf Balkon/ Terrasse Rauchen möglich)\nDiese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus. OK"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://haus-zugspitzblick.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

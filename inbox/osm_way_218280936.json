@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/218280936",
+ "name": "Castle Hotel",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 48.8614743,
+ "lng": 8.2159489,
+ "country": "Germany",
+ "city": "Rastatt",
+ "region": "Baden-Württemberg",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://hotel-castle-rastatt.de/",
+ "fetchedAt": "2026-10-12T07:29:01.962Z",
+ "pages": [
+  {
+   "url": "https://hotel-castle-rastatt.de/",
+   "kind": "home",
+   "title": "Castle Hotel Rastatt - Modernes Hotel in Rastatt - 20 Zimmer",
+   "description": "Castle Hotel Rastatt verbindet Komfort mit persönlichem Service. 20 Zimmer in einem modernen und luxuriösen Design bieten einen unvergesslichen Aufenthalt.",
+   "text": "Castle Hotel Rastatt - Modernes Hotel in Rastatt - 20 Zimmer\nGenießen Sie Ihren Aufenthalt\nModerne & komfortable Zimmer\nCheck-In\nCheck-Out\nNumber\nGuests\nCheck Availability\nWILLKOMMEN BEIM\nCASTLE HOTEL RASTATT\nDas Castle Hotel Rastatt verbindet Komfort  mit persönlichem Service. 20 Zimmer in einem modernen und luxuriösen  Design bieten einen unvergesslich bequemen Aufenthalt. Das Castle Hotel ist Ihre Verbindung zur Stadt. Der Hauptbahnhof Rastatts liegt nur wenige Schritte entfernt und somit sind Städte wie Basel, Stuttgart oder Frankfurt ohne großen Aufwand zu erreichen. Zudem fahren regelmäßig Züge oder S-Bahnen Richtung Offenburg und Karlsruhe.\nAm Abend speisen Sie in den besten Restaurants der Stadt oder besuchen die schöne Altstadt, welche lediglich einen Fußweg von 10 Minuten entfernt ist.\nUnsere Zimmer bieten ein modernes Interieur, sind gut belichtet und auf maximalen Komfort ausgelegt.\nAnfahrt\nÜber uns\nAktivitäten\nHOTEL CASTLE RASTATT\nJETZT RESERVIEREN\nCheck-In\nCheck-Out\nNumber\nGuests\nCheck Availability\nUNSERE GÄSTE SAGEN\nSelten wurden wir bei später Ankunft so herzlich begrüßt wie hier. Mit einem Willkommensbier ausgerüstet, haben wir ein ausreichend großes Zimmer mit moderner Ausstattung bekommen. Die Züge sind zwar hörbar – aber weder störend noch bei der Lage verwunderlich.\nDas Frühstück deckt alle Bereiche ab und wurde auch gegen Ende immer wieder aufgefüllt.\nWir kommen gerne nochmal hier her, falls wir in der Region sind.\nDaniel P.\n“ Das Personal war immer sehr hilfsbereit und freundlich. Wir waren als Paar dort und haben uns sehr wohl gefühlt. Empfehlen wir sehr gerne weiter!\n“\nKathrin F.\nBin hetzt schon das 6. Mal hier.\nDie Inhaber sind super nette Leute und legen großen Wert auf Kundenzufriedenheit. Komfortabel und modern. Direkt am Bahnhof aber Fenster sind gut gedämmt.\nFrank E.\nDiese Website verwendet Cookies für Analysen, personalisierte Inhalte und Werbung. Indem Sie diese Website nutzen, erklären Sie sich mit dieser Verwendung einverstanden. OK Mehr Informationen\nPrivacy & Cookies Policy\nSchließen\nPrivacy Overview\nThis website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.\nNecessary\nNecessary\nimmer aktiv\nNecessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.\nNon-necessary\nNon-necessary\nAny cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.\nSPEICHERN & AKZEPTIEREN"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://hotel-castle-rastatt.de/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

@@ -1,0 +1,55 @@
+{
+ "id": "osm:way/422819683",
+ "name": "Nhoma Safari Camp",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -19.2364104,
+ "lng": 20.240548,
+ "country": "Namibia",
+ "city": "Otjozondjupa",
+ "region": "Otjozondjupa",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.nhomasafaricamp.com/",
+ "fetchedAt": "2026-10-11T07:37:56.237Z",
+ "pages": [
+  {
+   "url": "https://www.nhomasafaricamp.com/",
+   "kind": "home",
+   "title": "Nhoma Safari Camp Bushman San Culture Bushmanland",
+   "description": "What makes Nhoma Safari Camp unique is it location just next to the local village of Nhoma, home of the Ju|",
+   "text": "-->\nNhoma Safari Camp Bushman San Culture Bushmanland\ntop of page\nBook now\nNhoma Safari Camp is a small, activity orientated, tented camp, situated in the north eastern corner of Namibia on communal land of the Ju|'hoan San or Bushmen (as they are commonly known in Namibia).\nWhat makes Nhoma Safari Camp unique is it location just next to the local village of Nhoma, home of the Ju|'hoansi San Bushmen.\nRead more\nThe Ju|'hoan San people, like other recent hunter-gatherer communities, are the only analog we have for understanding how human kind organised themselves before the agricultural revolution.The activities at the camp are centred around the Bushmen culture and ranges from hunting and tracking wild animals, veld food gathering, the making of hunting equipment to traditional games and the healing dances.\nRead more\n\"Wildest of the wild.\n​\nWe wanted wildest Africa and this is what we got.\nReally interesting even though wildlife was scarce.\nBest part was interacting with the San people who seemed to enjoy our visit to their village and waved us off when we left.\"\n​\n- via E xpert Africa\n\"Visiting Nhoma was the highlight of my trip to Namibia, and although it's quite a long way to get there it is 100% worth it.\nYou won't be able to find a more authentic and in-depth way to learn about the Ju/'hoans and their culture/language/way of life.\nThe facilities are also quite nice despite their remoteness -- this was perhaps the most comfortable bed I slept in while in Namibia.\nThe food is also all fantastic!\"\n​\n- Nathan, USA via Tripadvisor\n\"This remarkable and pioneering philanthropic project aims to provide visitors with opportunities for some interaction with these people in return for a modest income, which helps the villagers with medical support, opportunities for education and other essentials. The presence of the camp and the trickle of interested visitors has also had the effect of making the local people start to feel proud rather than ashamed of their traditional way of life and will hopefully ensure the opportunity for people to continue to life this way into the future, should they wish to do so.\"\n​\n- via Africa Travel Resource\n​\n​\nAll rights reserved. Nhoma Safari Camp 2024\nbottom of page"
+  },
+  {
+   "url": "https://www.nhomasafaricamp.com/accommodation",
+   "kind": "sub",
+   "label": "",
+   "title": "Accommodation | Safari Tents on Decks | Nhoma Safari Camp",
+   "text": "-->\nAccommodation | Safari Tents on Decks | Nhoma Safari Camp\ntop of page\nThe tented camp is situated in the Nyae Nyae Conservancy, at the basin of the Kalahari desert. The Nhoma Safari Camp lies on top of a fossil dune, giving a view over the Nhoma omuramba, a dry river bed. The landscape at the Camp is dominated by big Zambezi trees shading the tented houses and the pathways. At the bottom of the dune the fauna is a combination of a bush and tree savannah.\nWe offer a fully inclusive option to stay in our safari tents on decks, whereby all meals, drinks and activities are included.\nTo enable our guests the most immersive experience with the community, we request a minimum of two nights stay. This will give you ample time to make connection with our bushman village and dive into the wisdom and knowledge of the hunters and elders.\nOut Safari tents on wooden decks are well spaced and shaded by Zambezi Teak trees. The tents are equipped with double beds with ensuite bathrooms.\nIn front of the tent is a deck, where guests can sit and enjoy the vistas of big trees, lush vegetation and passing elephants.\nHot water for the tents is provided by wood fired boilers called donkeys.\nThere are no electrical points in the tents or camp site. Electrical devices can be charged in the Lapa area. The camp is running on solar power only.\nThe fresh and potable borehole water is pumped with solar energy as well. The water quality gets tested in regular intervals and qualifies as good drinking water quality.\nWith our booster system we amplify the cell phone signal from the closest radial to provide mobile reception at the main area.\nOccasionally, the migrating wild elephants can be seen at the waterhole. The elephants cannot enter the camp's premises as the whole camp is protected with an elephant trench.\nMeals and drinks are provided in the central dining area and are included in the price.\nPlease note that we are camp setup and therefore not comparable to a lodge.\nIf you re looking for an off the beaten track, cultural immersion on eye level and close to nature experience you will be spoiled at our place.\nPlease take note that we do not provide aircons, swimming pools or electrical plugs in our rooms.\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Nhoma Safari Camp",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NA",
+    "addressRegion": "Otjozondjupa"
+   },
+   "telephone": "081 273 4606",
+   "url": "https://www.nhomasafaricamp.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.nhomasafaricamp.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

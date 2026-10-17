@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/1565649296",
+ "name": "Buxton Bush Camp",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -25.1768221,
+ "lng": 152.5507695,
+ "country": "Australia",
+ "city": "Buxton",
+ "region": "Queensland",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://buxtonbushcamp.com.au/",
+ "fetchedAt": "2026-10-16T06:00:50.393Z",
+ "pages": [
+  {
+   "url": "https://buxtonbushcamp.com.au/",
+   "kind": "home",
+   "title": "Buxton Bush Camp",
+   "description": "",
+   "text": "Buxton Bush Camp\nHome\nBuxton Bush Camp is a family owned camp ground, run by Danny, Sharon, Ethan and Eliza.\nSituated on the 650 acre rural property, we overlook the Burrum River, making this the perfect spot for your next fishing trip! The 50-metre camper-free buffer zone allows everyone to enjoy the waterfront. Whether you are having a picnic or kicking the footy, you can t beat this view!\nOur camp sites are perfectly suited to self-contained caravans, RVs, camping trailers and tents or swags. With our own dump point, hot showers and flushing toilets, your next camp trip is going to be a breeze!\nWe can cater for the single camper all the way up to large groups for Birthdays, Work Parties and even Weddings!\nOur rates are charged per person not per site (or the size of your rig) which makes it economical for those traveling alone or those who have large vans/motor homes that generally require 2 sites at other caravan parks.\nCHECK IN / CHECK OUT\nCheck In / Out:  10am\nHire Facilities Check Out:  10am\nPlease let us know when booking of your approximate check-in time. Early check-in and late check-out is available upon request, please phone ahead.\nUpon arrival to the property, follow the dirt road approximately 2km until you reach the check in point. From here, please phone Danny (0418 797 532), and he will find you a spot best suited to your needs."
+  },
+  {
+   "url": "https://buxtonbushcamp.com.au/accommodation/",
+   "kind": "sub",
+   "label": "Gallery",
+   "title": "Gallery &#8211; Buxton Bush Camp",
+   "text": "Gallery Buxton Bush Camp\nGallery\nhttps://www.high-endrolex.com/18\nCHECK IN / CHECK OUT\nCheck In / Out:  10am\nHire Facilities Check Out:  10am\nPlease let us know when booking of your approximate check-in time. Early check-in and late check-out is available upon request, please phone ahead.\nUpon arrival to the property, follow the dirt road approximately 2km until you reach the check in point. From here, please phone Danny (0418 797 532), and he will find you a spot best suited to your needs."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://buxtonbushcamp.com.au/",
+ "httpStatus": 200,
+ "htmlLang": "en-AU"
+}

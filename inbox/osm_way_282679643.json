@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/282679643",
+ "name": "Barcaldine Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 56.5105277,
+ "lng": -5.4016193,
+ "country": "United Kingdom",
+ "city": "Argyll and Bute",
+ "region": "Scotland",
+ "osm": {
+  "tourism": "guest_house",
+  "stars": "4"
+ },
+ "wikidata": "Q3202",
+ "wikidataDescription": "castle in Barcaldine, Scotland",
+ "website": "https://www.barcaldinecastle.co.uk/",
+ "fetchedAt": "2026-10-09T07:57:22.606Z",
+ "pages": [
+  {
+   "url": "https://www.barcaldinecastle.co.uk/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Barcaldine Castle",
+  "url": "https://en.wikipedia.org/wiki/Barcaldine_Castle",
+  "extract": "Barcaldine Castle is a 17th-century tower house castle located at Barcaldine 9 miles north of Oban, Scotland."
+ },
+ "notes": [],
+ "finalUrl": "https://www.barcaldinecastle.co.uk/",
+ "httpStatus": 202,
+ "htmlLang": null
+}

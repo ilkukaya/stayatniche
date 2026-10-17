@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/1811162746",
+ "name": "Black Cockatoo Bush Camp",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -36.8651072,
+ "lng": 140.8248837,
+ "country": "Australia",
+ "city": "South Australia",
+ "region": "South Australia",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.blackcockatoobushcamp.com.au/",
+ "fetchedAt": "2026-10-16T06:00:41.135Z",
+ "pages": [
+  {
+   "url": "https://www.blackcockatoobushcamp.com.au/",
+   "kind": "home",
+   "title": "Black Cockatoo Bush Camp Home",
+   "description": "Camp beneath shady gum trees beside a water hole stocked with Silver Perch and Redfin. Experience bush walking, bird watching and enjoy the flora and fauna in 120ha. ",
+   "text": "Black Cockatoo Bush Camp Home\nblackcockatoobushcamp@hotmail.com\nPHONE: 0428 621 613\nNARACOORTE | SOUTH AUSTRALIA THE LIMESTONE COAST\nCamp beneath the\nshady gums\nbeside a water hole stocked with Silver Perch and Redfin\nCamp beneath shady gum trees beside a water hole stocked with Silver Perch and Redfin.\nExperience bush walking, bird watching and enjoy the flora and fauna.\nAn easy walking trail meanders through virgin scrub, view colourful native flowers and orchids throughout the park. The marked trail starts at the camp ground.\nUse our campground as a base to explore the wineries at Coonawarra and Padthaway,\npart of the scenic Limestone Coast or visit the World Heritage listed Naracoorte Caves.\nAll can be visited comfortably within a day trip.\nMake your own pizza with our wood fired pizza oven.\nBarbeques, tables, flush toilets, hot showers and limited powered sites provided in a natural setting.\nPets welcome at our discretion. Dump site available.\nEnquiries and bookings: 0428 621 613\nEmail: blackcockatoobushcamp@hotmail.com\nBOOK HERE\nwww.blackcockatoobushcamp.com.au\nSite: Hansen Design and Print"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.blackcockatoobushcamp.com.au/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/226620285",
+ "name": "\"Castello\"-Dom weselny",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.3854008,
+ "lng": 19.7784994,
+ "country": "Poland",
+ "city": "Wolbrom",
+ "region": "Lesser Poland Voivodeship",
+ "osm": {
+  "tourism": "motel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://castellowolbrom.pl/",
+ "fetchedAt": "2026-10-15T06:02:33.773Z",
+ "pages": [
+  {
+   "url": "https://castellowolbrom.pl/",
+   "kind": "home",
+   "title": "Przyjęcia weselne, okolicznościowe, bankiety firmowe",
+   "description": "Organizujemy przyjęcia weselne, okolicznościowe oraz bankiety firmowe. Zapewniamy starannie dobrane menu, perfekcyjną obsługę kelnerską, wykwintne dania kuchni polskiej oraz dekorację florystyczną sali.",
+   "text": "Przyjęcia weselne, okolicznościowe, bankiety firmowe\nYou are using an outdated browser. Please upgrade your browser .\nZorganizujemy Twoje\nwymarzone przyjęcie weselne\nKażde przyjęcie weselne jest wyjątkowe\ni tworzy odrębną historię – Waszą historię.\nzobacz więcej\nIG FB\nWitamy w Castello\nOrganizacja przyjęcia weselnego jest wyzwaniem, które wymaga olbrzymiego zaangażowania, wiedzy i doświadczenia, często całego sztabu ludzi, dla których pasją jest ich praca. Nie jest to zadanie łatwe, ale wrażliwość i empatia pozwalają zrozumieć nawet najbardziej wyszukane wyobrażenia a perfekcjonizm sprawia, że każde wyzwanie traktujemy bardzo poważnie. Najmniejszy nawet element wesela jest przez nas dobierany z największą starannością.\nRealizujemy Wasze wyobrażenia o najpiękniejszym dniu Waszego życia. Czy może być coś piękniejszego niż miłość?\nPrzede wszystkim jesteśmy pasjonatkami naszej pracy i do wszystkich jej aspektów podchodzimy profesjonalnie. Połączyło nas zamiłowanie do piękna, estetyki, dobrego stylu i smaku. Tworzymy firmę we dwie ale cel mamy zdecydowanie jeden Zadowoleni Klienci!\nZapewniamy, że trafiliście pod właściwy adres!\nNajlepszych i najpiękniejszych rzeczy na świecie, nie można ani zobaczyć ani dotknąć.\nTrzeba je poczuć sercem.\nHellen Keller\nOferty weselne\nWieloletnie doświadczenie w organizacji przyjęć weselnych pozwoliło nam przygotować dla Państwa trzy pakiety weselne. Mamy nadzieję, że wśród nich znajdą Państwo rozwiązanie odpowiadające Państwa wymaganiom.\npakiet\nZłoty\nczytaj więcej\npakiet\nZłoty Plus\nczytaj więcej\npakiet\nPremium\nczytaj więcej\nzobacz pełną ofertę\nGaleria\nWyjątkowy dzień wymaga odpowiedniej oprawy. Jasna, przestronna i klimatyzowana sala, profesjonalna oprawa florystyczna oraz ledowe oświetlenie, które można dostosować wg własnych preferencji to tylko niektóre aspekty przyjęć organizowanych w naszej sali.\nzobacz naszą salę"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://castellowolbrom.pl/",
+ "httpStatus": 200,
+ "htmlLang": "pl-PL"
+}

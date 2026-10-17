@@ -1,0 +1,45 @@
+{
+ "id": "osm:way/474806603",
+ "name": "The Cliff House Inn on the Beach",
+ "queueStatus": "weak",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 34.3558161,
+ "lng": -119.4401215,
+ "country": "United States",
+ "city": "Mussel Shoals",
+ "region": "California",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.cliffhouseinn.com/",
+ "fetchedAt": "2026-10-16T06:00:24.988Z",
+ "pages": [
+  {
+   "url": "https://cliffhouseinn.com/",
+   "kind": "home",
+   "title": "A Charming, Ventura Beach Hotel for Unforgettable Getaways",
+   "description": "Experience ultimate relaxation and romantic dining at our exquisite Ventura beach hotel. Book your seaside retreat today!",
+   "text": "A Charming, Ventura Beach Hotel for Unforgettable Getaways\nSkip to content\nSeek Balance\nBreathe\nwith Life’s Ebb and Flow\nAwake and in the Rhythm\nwith the Ocean Tides\nDiscover your Ultimate Getaway to Relaxation at Our Ventura Beach Hotel\nIF YOU DREAM of being lulled to sleep by gentle surf, exploring tide pools on a private beach, and relaxing at poolside in a lush tropical garden setting, the Cliff House Inn, transforms these dreams into an affordable reality. Located just 15-minutes from downtown Santa Barbara, the special ambiance and signature service of this Ventura beach hotel keep guests returning and recommending the resort. The Cliff House Inn is also proud to host a restaurant recently voted as one of the most Romantic dining locales in the area, adding to the allure of this coastal retreat.\nThe Shoals Restaurant  showcases a delectable menu featuring an array of steaks and seafood, complemented by signature cocktails and an extensive selection of local wines. Whether you choose to dine by the pool, immersed in the serene outdoor ambiance, or in the intimate coziness of our dining room, each setting promises a unique culinary experience. Indulge in the finest flavors, expertly crafted cocktails, and the perfect pairing of local wines, making your meal at The Shoals an exquisite journey for your taste buds.\nLooking for an ideal last-minute gift? Consider grabbing a Cliff House Inn gift card online . Receive a virtual gift card delivered via email within a few hours!\nWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit \"Cookie Settings\" to provide a controlled consent.\nCookie Settings Accept All\nManage consent\nClose\nPrivacy Overview\nThis website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.\nNecessary\nNecessary\nAlways Enabled\nNecessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.\nCookie Duration Description\ncookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\".\ncookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\".\ncookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\".\ncookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other.\ncookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\".\nviewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.\nFunctional\nFunctional\nFunctional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.\nPerformance\nPerformance\nPerformance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.\nAnalytics\nAnalytics\nAnalytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.\nAdvertisement\nAdvertisement\nAdvertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.\nOthers\nOthers\nOther uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.\nSAVE & ACCEPT"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": [
+    "Hotel",
+    "Organization"
+   ],
+   "name": "Cliff House Inn and Shoals Restaurant",
+   "url": "https://cliffhouseinn.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://cliffhouseinn.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

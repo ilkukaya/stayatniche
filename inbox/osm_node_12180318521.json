@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/12180318521",
+ "name": "Waggon & Horses Camping & Caravanning Site",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 53.3235009,
+ "lng": 0.1146537,
+ "country": "GB",
+ "city": "Louth",
+ "region": null,
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://waggonandhorsesreston.co.uk/camping/",
+ "fetchedAt": "2026-10-17T05:46:29.780Z",
+ "pages": [
+  {
+   "url": "https://www.waggonandhorsesreston.co.uk/campsite",
+   "kind": "home",
+   "title": "The Waggon &amp; Horses | Campsite | Louth | Mablethorpe",
+   "description": "Stay at The Waggon and Horses caravan and camping site in South Reston, near Louth, Mablethorpe, Alford and Sutton-on-Sea. Located eight miles from the Lincolnshire coast, the site welcomes tents, caravans, campervans and motorhomes, with electric hook-ups, toilets, showers and water facilities. Enjoy home-cooked food and drinks in the country pub during your stay. Contact us to plan your camping break.",
+   "text": "-->\nThe Waggon & Horses | Campsite | Louth | Mablethorpe\ntop of page\nOur Campsite\n- Quiet pitches eight miles from the Lincolnshire coast, away from the larger holiday parks\n- Electric hook-ups, showers and a full pub menu right on your doorstep\nbottom of page"
+  },
+  {
+   "url": "https://www.waggonandhorsesreston.co.uk/about-us",
+   "kind": "sub",
+   "label": "ABOUT US",
+   "title": "The Waggon &amp; Horses | Country Pub | Louth | Mablethorpe",
+   "text": "-->\nThe Waggon & Horses | Country Pub | Louth | Mablethorpe\ntop of page\nABOUT US\nA Lincolnshire Original\nin the Heart of South Reston\nStanding on Main Road in South Reston for over 130 years, The Waggon and Horses is a traditional Lincolnshire freehold country pub where home-cooked food, real ales and a genuine village welcome come together in one of the county's most enduring local institutions.\n01507 450364\nOur Menus\nbottom of page"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.waggonandhorsesreston.co.uk/campsite",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

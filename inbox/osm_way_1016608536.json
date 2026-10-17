@@ -1,0 +1,50 @@
+{
+ "id": "osm:way/1016608536",
+ "name": "Cave Hill Motel",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 36.9796424,
+ "lng": -85.6151876,
+ "country": "United States",
+ "city": "Edmonton",
+ "region": "Kentucky",
+ "osm": {
+  "tourism": "motel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://cavehillmotel.com/",
+ "fetchedAt": "2026-10-16T06:02:00.388Z",
+ "pages": [
+  {
+   "url": "https://cavehillmotel.com/",
+   "kind": "home",
+   "title": "Cave Hill Motel &#8211; Affordable. Comfortable. Lovable.",
+   "description": "",
+   "text": "Cave Hill Motel Affordable. Comfortable. Lovable.\nSkip to content\nAffordable accommodations two blocks from Edmonton, Kentucky s historic downtown.\n“ This place made our trip feel like a home away from home. Great people, great service. Spring Hill, TN\nCall to reserve\nAmenities:\nfree wi-fi\ncable\nnon-smoking rooms\nwalking distance to downtown"
+  },
+  {
+   "url": "https://cavehillmotel.com/comfortable-rooms/",
+   "kind": "sub",
+   "label": "Accommodations",
+   "title": "Comfortable Rooms &#8211; Cave Hill Motel",
+   "text": "Comfortable Rooms Cave Hill Motel\nSkip to content\nThere are 7 clean and cozy rooms at Cave Hill Motel offering cable, free wi-fi and smoke-free amenities. With the one-level layout, guests enjoy easy access to the rooms and the office."
+  },
+  {
+   "url": "https://cavehillmotel.com/home/contact/",
+   "kind": "sub",
+   "label": "Location",
+   "title": "Location &#8211; Cave Hill Motel",
+   "text": "Location Cave Hill Motel\nSkip to content\nCave Hill Motel is located just two blocks from the beautiful downtown featuring the Edmonton courthouse and jail which are national historic landmarks.\nContact Us\n310 W Stockton St, Edmonton, KY 42129 Map it\n270-432-3911"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://cavehillmotel.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

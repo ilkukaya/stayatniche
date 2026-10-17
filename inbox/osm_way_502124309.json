@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/502124309",
+ "name": "Monteverde Ecolodge",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 10.3170532,
+ "lng": -84.8191536,
+ "country": "Costa Rica",
+ "city": "Monteverde",
+ "region": "Puntarenas Province",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q112020735",
+ "wikidataDescription": "hotel in Monte Verde, Costa Rica",
+ "website": "https://www.monteverdeecolodge.com/",
+ "fetchedAt": "2026-10-14T06:16:58.175Z",
+ "pages": [
+  {
+   "url": "https://monteverdeecolodge.com/",
+   "kind": "home",
+   "title": "Monteverde Ecolodge Inglés - Hotel Monteverde Ecolodge",
+   "description": "&nbsp; Message us! Monteverde Ecolodge About Us Rooms Experience Testimonials Book Now 🇨🇷 ES Monteverde, Costa Rica Connect, breathe, and enjoy the essence of Monteverde A welcoming accommodation where tranquility, hospitality, and authenticity come together so you can rest and feel at home. Book Now Discover More Welcome to Monteverde Ecolodge &#8220;Connect, breathe, and enjoy [&hellip;]",
+   "text": "Monteverde Ecolodge Inglés - Hotel Monteverde Ecolodge\nMonteverde Ecolodge | Accommodation in Monteverde\nMessage us!\nMonteverde, Costa Rica\nConnect, breathe, and enjoy the essence of Monteverde\nA welcoming accommodation where tranquility, hospitality, and authenticity come together so you can rest and feel at home.\nBook Now\nDiscover More\nWelcome to Monteverde Ecolodge\n\"Connect, breathe, and enjoy the essence of Monteverde.\"\nWe offer an accommodation experience where rest, tranquility, and feeling at home are our priority. A cozy space surrounded by the nature and magic of Monteverde.\nRespect for Nature\nWe promote a responsible relationship with our surroundings.\nHospitality\nWe welcome our guests with warmth and genuine care.\nWarmth\nPersonalized and attentive service.\nFeel at Home\nA warm and familiar atmosphere for your stay.\nOur Rooms\nAll our rooms are standard rooms, designed to provide comfort and a relaxing stay.\nStandard Triple Room\nCozy and peaceful, ideal for couples or small groups.\n1 double bed\n1 single bed\nPrivate bathroom\nHot water\nTV\nHigh-speed WiFi\nMini refrigerator\nMaximum capacity: 3 guests\nStandard Quadruple Room\nSpacious and comfortable, perfect for groups of friends or small families.\n2 double beds\nPrivate bathroom\nHot water\nTV\nHigh-speed WiFi\nMini refrigerator\nMaximum capacity: 4 guests\nStandard Family Room\nSpacious and designed for the comfort of the whole family.\n2 double beds\n1 single bed\nPrivate bathroom\nHot water\nTV\nHigh-speed WiFi\nMini refrigerator\nMaximum capacity: 5 guests\nExperience Monteverde\nA stay where nature, well-being, and authenticity come together.\nLiving Nature\nSurrounded by biodiversity and unique landscapes.\nTraditional Breakfast\nLocal flavors to start your day with energy.\nTranquility & Well-being\nSpaces to rest and reconnect with yourself.\nAuthentic Adventure\nLocal recommendations for exploring Monteverde.\nWhat Our Guests Say\nReal experiences from guests who have enjoyed our hospitality.\n★★★★★\n\"A magical place. The service is exceptional, and we felt right at home. The breakfast is delicious, and the tranquility of the surroundings is incomparable.\"\nLaura and Carlos\n— United States\n★★★★★\n\"Monteverde Ecolodge exceeded all our expectations. The connection with nature, the kindness of the staff, and the peace you feel here are truly unique.\"\nMaría Fernández\n— Spain\n★★★★★\n\"A perfect place to disconnect. The facilities are comfortable and clean, and the team is always willing to help with local recommendations.\"\nTom and Sarah\n— United Kingdom"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://monteverdeecolodge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

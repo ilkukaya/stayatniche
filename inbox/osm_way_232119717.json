@@ -1,0 +1,35 @@
+{
+ "id": "osm:way/232119717",
+ "name": "Saddell Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 55.5274398,
+ "lng": -5.5045251,
+ "country": "United Kingdom",
+ "city": "Campbeltown",
+ "region": "Scotland",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "castle"
+ },
+ "wikidata": "Q168089",
+ "wikidataDescription": "castle in Argyll and Bute, Scotland, UK",
+ "website": "https://www.landmarktrust.org.uk/search-and-book/properties/saddell-castle-11597/#Overview",
+ "fetchedAt": "2026-10-09T07:57:39.976Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Saddell Castle",
+  "url": "https://en.wikipedia.org/wiki/Saddell_Castle",
+  "extract": "Saddell Castle is a historic 16th-century castle on the shore of the Kilbrannan Sound near Saddell, Kintyre, Argyll and Bute, Scotland. The original castle existed in Somerled's time in the 12th century. The castle served as a bastion of the MacDonald family for several centuries and continues to be visited by MacDonald diaspora from around the world who return to Western Scotland and the Isles. Several MacDonald Lords have resided at Saddell over the centuries, including Alasdair Mor MacDonald, younger brother of Angus Mor MacDonald, Lord of the Isles in the 13th century. Angus Og MacDonald once provided refuge to Robert the Bruce during the First War of Scottish Independence in the early 14th century before taking him on to Dunaverty Castle on the Mull of Kintyre."
+ },
+ "notes": [
+  "website fetch failed: 403"
+ ],
+ "finalUrl": "https://www.landmarktrust.org.uk/search-and-book/properties/saddell-castle-11597/",
+ "httpStatus": 403
+}

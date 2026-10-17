@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/327529559",
+ "name": "Phare de Fatouville",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 49.4140585,
+ "lng": 0.325297,
+ "country": "France",
+ "city": "Fatouville-Grestain",
+ "region": "Normandy",
+ "osm": {
+  "tourism": "guest_house",
+  "historic": "yes",
+  "man_made": "lighthouse"
+ },
+ "wikidata": "Q3378215",
+ "wikidataDescription": "lighthouse in Eure, France",
+ "website": "http://www.pharedefatouville.fr/",
+ "fetchedAt": "2026-10-12T07:31:25.068Z",
+ "pages": [
+  {
+   "url": "https://pharedefatouville.fr/",
+   "kind": "home",
+   "title": "Phare de Fatouville",
+   "description": "Site officiel du phare de Fatouville",
+   "text": "Phare de Fatouville Phare de Fatouville\nFatouville-Grestain, Normandie, France.\nClassé Monument Historique depuis 2011.\nArrow Right\nJournées du Patrimoine 2026\nMontez au sommet du Phare de Fatouville à l’occasion des journées du Patrimoine !\nVisites guidées d’1h sur inscription. ⚠️ les visites sont complètes. Seules les personnes munies d’une réservation pourront accéder à la visite ⚠️\nArrow Left\nArrow Right\nParc boisé\nDécouvrez l'Histoire du Phare grâce à une exposition dans le parc boisé.\nOuverte d'Avril à fin Septembre\nArrow Left\nArrow Right\nVisite \"Les secrets du Phare\"\nDécouvrez le Phare de Fatouville et ses secrets à travers une application A partir de l'été 2027\nArrow Left\nArrow Right\n04.\nNous contacter\nPhone\nEmail\nInstagram\nFacebook\nArrow Left\nThank you\nPosuere eget id ultrices pharetra lacus eu sodales sociis non lorem eu magna volutpat aliquam.\nArrow Right"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "fr",
+  "title": "Phare de Fatouville",
+  "url": "https://fr.wikipedia.org/wiki/Phare_de_Fatouville",
+  "extract": "Le phare de Fatouville a été construit sur la commune de Fatouville-Grestain, pour guider les bateaux sur l'estuaire de la Seine. Il est classé monuments historiques depuis le 13 septembre 2011"
+ },
+ "notes": [],
+ "finalUrl": "https://pharedefatouville.fr/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

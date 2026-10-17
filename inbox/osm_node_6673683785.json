@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/6673683785",
+ "name": "Cabane Perchée du Charron",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 47.1856101,
+ "lng": -1.764254,
+ "country": "France",
+ "city": "Le Pellerin",
+ "region": "Pays de la Loire",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.cabanepercheeducharron.com/",
+ "fetchedAt": "2026-10-13T07:51:19.487Z",
+ "pages": [
+  {
+   "url": "https://www.cabanepercheeducharron.com/",
+   "kind": "home",
+   "title": "Site Officiel - Cabane Perchée du Charron",
+   "description": "La cabane perchée du charron est située à 20 km de Nantes (en Loire Atlantique 44). Idéale pour une nuit insolite à deux, elle est une des plus luxueuses de France.",
+   "text": "Site Officiel - Cabane Perchée du Charron\nAccueil\nLa Fabrication\nLe Livre d'Or\nA voir / A faire\nTarifs Dispo\nContacts\nVenez passer une nuit de rêve  à 9 mètres du sol dans cette cabane tout confort. Cette cabane de 27 m² a été construite dans un chêne tricentenaire\nen respectant la croissance de l'arbre. Vous atteindrez le premier niveau en une minute par l'ascenseur électrique habilité. Par ce biais, petits et grands peuvent y monter en\ntoute sécurité.\nVous bénéficierez dans la cabane de tout le confort habituel, à savoir eau courante et électricité.\nPhoto Sphère de l'intérieur\nLa Fabrication\nLivre d'or\nA voir / A faire\nTarifs\nContacts\nDécouvrez le plaisir de vivre perché dans son plus grand confort\nConnexion à Facebook\nConnexion à Facebook\nDéfiler vers le haut"
+  },
+  {
+   "url": "https://www.cabanepercheeducharron.com/about/",
+   "kind": "sub",
+   "label": "Mentions légales",
+   "title": "Mentions légales - Cabane Perchée du Charron",
+   "text": "Mentions légales - Cabane Perchée du Charron\nAccueil\nLa Fabrication\nLe Livre d'Or\nA voir / A faire\nTarifs Dispo\nContacts\nDécouvrez le plaisir de vivre perché dans son plus grand confort\nConnexion à Facebook\nConnexion à Facebook\nDéfiler vers le haut"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.cabanepercheeducharron.com/",
+ "httpStatus": 200,
+ "htmlLang": "fr-FR"
+}

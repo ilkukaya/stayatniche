@@ -1,0 +1,56 @@
+{
+ "id": "osm:node/9250470428",
+ "name": "Cally Cave House",
+ "queueStatus": "verified",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 36.417487,
+ "lng": 25.4428655,
+ "country": "Greece",
+ "city": "Mesa Katikies",
+ "region": "South Aegean",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.cally-santorini.com",
+ "fetchedAt": "2026-10-14T06:16:19.025Z",
+ "pages": [
+  {
+   "url": "https://www.cally-santorini.com/",
+   "kind": "home",
+   "title": "Cally Cave House in Fira Santorini | Homepage",
+   "description": "Cally Cave House in Santorini is a fully renovated traditional Cave accommodation of Santorini. An opportunity to experience the original Santorinian way of …",
+   "text": "Cally Cave House in Fira Santorini | Homepage\nArrival\nDeparture\nGuests\nReserve\nCally Cave House\nWe are proud to present Cally Cave House created with love to the local architecture and landscape. Cally Cave House, a fully renovated traditional Cave accommodation of Santorini, is not only a nice accommodation, but an opportunity to experience the original Santorinian way of living. Hewn vertically into the volcanic soil, which keep the house warm in winter and cold in summer, the rooms are narrow-fronted and built in the rock without any foundation. At the front is the parlour, while the bedroom is at the back, lighted and aired though the parlour and the tiny ventilation tube.\nThe House has been designed according to the traditional architecture of Santorini (Cave House), but also to deliver high standards of modern comfort. It consists of 4 separate suites and can accommodate up to 13 guests. Large swimming pool is equipped with comfortable sun beds. This is opportunity for your family and friends to stay together in the quiet place, but still close to cosmopolitan Fira town.\nSuites\nJacuzzi Suite double\nFeaturing bedroom area with queen size bed with private heated Jacuzzi. Perfect for just the two of you, Jacuzzi suite is a romantic bird nest and makes ideal …\nJacuzzi Suite triple\nFeaturing bedroom area, large living room with sofa bed and with private heated Jacuzzi. Perfect for a couple or group of friends, Jacuzzi suite is a large …\nGrand Suite Double\nFeaturing bedroom with matrimonial bed, inviting living room area with second matrimonial bed and dining area with kitchenette. This suite has 2 bathrooms. …\nGrand Suite Twin\nFeaturing bedroom with matrimonial bed, inviting living room area with two single beds and dining area with kitchenette. This suite has 2 bathrooms. Maximum …\nPrivate Cave House\nBook the entire Cally cave house for upto 13 guests with private pool and ensuite jacuzzi. The house offer 4 luxury suites.\nThe Accommodation\nAll facilities\nHello! My name is Vasilis.\n​\nI am proud to present Cally Cave House, created with love for the local architecture and landscape. Cally Cave House is not only a nice accommodation, but an opportunity to experience the original Santorinian accommodation. I would be glad to help you tailor your activities to your interests so that once you get here, you can find the best things to do and the most interesting places to visit in Santorini, Greece.\nCally Cave House Facilities\nFree WiFi\nSwimming pool\nPets are allowed\nFlat-screen TV\nDining area\nRefrigerator\nHand sanitiser\nNon-smoking rooms\nGallery\nView all\nFREE Transfer!\nreviews\n4.9\n★★★★★\nAll Reviews 4.9\nGoogle 4.9\nTripadvisor 5.0\n4.9\n/5\n★★★★★ ★★★★★\nbased on 54 reviews Google 4.9\nTripadvisor 5.0\nDimitris I. Xylas\na month ago\n★★★★★ ★★★★★\nWe stayed at Cally Cave House for 5 nights and we enjoyed every last one of them! The place is quiet, not on a busy road and don't be afraid to choose it even though you don't have a specific view to look at while you are relaxing at the pool. It's located in a very central position which you can get everywhere in Santorini within 20-25 minutes. The owner was extremely helpful and the breakfast was everything we needed to start our day. The private jacuzzi in the room was a wonderful experience to have. I would definitely recommend it and personally I would choose it again.\nswapnil kochetaa\n7 months ago\n★★★★★ ★★★★★\nA very cozy cave house, built inside a mountain, very clean, well maintained and with all the basic amineties that you need.\nVasillis is very helpful and always available to plan logistics or recommend local secrets.\nSince we travelled in the off season, He was kind enough to pick us and drop back from airport.\nWe availed his service too travel around which was perfect decision with kids, he was able to take us to appropriate places at appropriate timings to enjoy nature at its best\nFederico K\n10 months ago\n★★★★★ ★★★★★\nComing from a hospitality myself I can honestly say that this place is a Fantastic spot to stay in Santorini , it’s very close to all the locations that you might want to visit . Place is very clean and the team are very friendly and always there to help you .\nOur host Vasili’s was such a nice , gentle and helpful individual. He helped us hire the ATV within 30 minutes , allowed us to do a late check out and gives us a lift to the airport .We are already planning to visit with our family .\nAllison Anderson\na year ago\n★★★★★ ★★★★★\nVasilis and his brother are incredibly gracious hosts. They are super friendly and helpful when asking for directions or rides into town. They kept the place looking spectacular during our stay. The pictures on their site are incredibly accurate so you know just what you are booking online. The houses are gorgeous! Worked perfectly for our family's stay in Santorini!\nOpas Klinhom\n3 years ago\n★★★★★ ★★★★★\nWonderful place to stay for family vacation. We are family of 4, the youngest is 3.5 years old and she really enjoyed the stay. Our accommodation - Cave 2 - was lovely, cool, clean, and very peaceful at night. Also, not forget to mention a gorgeous breakfast delivered to your cave house in the morning. The location was a short walk to Fira central, approx. 15 minutes' stroll. The staff was extremely friendly and helpful, especially Vasilis, who picked us up from the airport and was always there to help or can easily be contacted via WhatsApp. We strongly recommend Cally Cave House, especially for young families, and we would definitely stay here again!\nAngeMac\n2023-07-31\n★★★★★ ★★★★★\nBeautiful large house just outside of Fira main square. Excellent assistance from host\nI'm not even sure where to start with this review. What an amazing experience we had. The Cave House was wonderful and really suited our large family with plenty of space for everyone. Beautiful rooms with spa like quality bathrooms. Very clean throughout and very comfy beds. Breakfast was brought to us each morning and was plentiful. Vasilis was s"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LodgingBusiness",
+   "name": "Cally Cave House",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": " Mesa Katikies",
+    "addressLocality": "Fira",
+    "postalCode": "847 00",
+    "addressCountry": "Greece"
+   },
+   "telephone": "+30 6983623896",
+   "priceRange": "€€",
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 36.41746,
+    "longitude": 25.44284
+   },
+   "url": "https://www.cally-santorini.com/"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.cally-santorini.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

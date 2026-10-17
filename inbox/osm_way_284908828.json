@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/284908828",
+ "name": "Schloss Grube",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 52.9987,
+ "lng": 12.00457,
+ "country": "DE",
+ "city": "Bad Wilsnack",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2241313",
+ "wikidataDescription": "manor house in Bad Wilsnack, Brandenburg state, Germany",
+ "website": "https://schloss-grube.de/",
+ "fetchedAt": "2026-10-17T05:45:54.077Z",
+ "pages": [
+  {
+   "url": "https://schloss-grube.de/",
+   "kind": "home",
+   "title": "Schloss Grube &#8211; Urlaub in der Prignitz",
+   "description": "",
+   "text": "Schloss Grube Urlaub in der Prignitz\n1\nNews: Schloss Grube ist derzeit nicht geöffnet. Für Eventanfragen nutzen Sie unsere Mail. Für Rückgaben zu Gutscheinen, siehe im Verlauf. Danke\nSchloss Grube - das Juwel der Prignitz\nBuchen Sie diese einmalige Location für Ihre Feierlichkeit.\n... Erleben Sie einen individuellen Service, liebevoll hergerichtete Räumlichkeiten und buchen Sie Ihre unvergesslichen privaten wie geschäftlichen Events.\nIm schönen Ort Grube, einem Ortsteil von Bad Wilsnack, in der zauberhaften Prignitz finden Sie unser außergewöhnliches Juwel.\nMehr Infos\nGUTSCHEINRÜCKGABE\nWenn Sie einen früheren Gutschein zurückgeben wollen, dann können Sie es gern tun. Bitte schicken Sie uns vorab eine Mail mit Scan des Gutscheins/e an: buchhaltung@schloss-grube.de. Nach der Prüfung, benötigen wir an Schloss Grube (Buchhaltung, Gruber Dorfstr. 24, 19336 Grube) den originalen Gutschein per Post. Wir können nur Originalgutscheine erstatten. Dieser Vorgang kann leider etwas dauern. Danke für Ihr Verständis.\nHier können Sie eine Anfrage für Ihr Event schicken.\nNutzen Sie: email@schloss-grube.de\nAnfrage stellen\nSearch"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Grube",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Grube",
+  "extract": "Schloss Grube ist das letzte vollständig erhaltene Gutshaus der Familie von Quitzow. Das Schloss liegt im Dorf Grube, heute zur Stadt Bad Wilsnack gehörend, im Landkreis Prignitz, etwa zwei Kilometer südlich der Bundesstraße 5."
+ },
+ "notes": [],
+ "finalUrl": "https://schloss-grube.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

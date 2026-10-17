@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/232364047",
+ "name": "Schloss Wilkendorf",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 52.6092085,
+ "lng": 13.9020346,
+ "country": "Germany",
+ "city": "Altlandsberg",
+ "region": "Brandenburg",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q1723959",
+ "wikidataDescription": null,
+ "website": "http://www.schloss-wilkendorf.de",
+ "fetchedAt": "2026-10-12T07:29:10.108Z",
+ "pages": [
+  {
+   "url": "http://www.schloss-wilkendorf.de/",
+   "kind": "home",
+   "title": "Schloss Wilkendorf - HOME",
+   "description": "Schloss Wilkendorf, Alt Wilkendorf 38 15345 Altlandsberg, wird zu einem Fünf-Sterne-Hotel umgebaut und voraussichtlich im\nMai 2013 eröffnet. Derzeit finden sehr umfangreiche Sanierungs- und Umbauarbeiten statt.",
+   "text": "Schloss Wilkendorf - HOME\nDEUTSCH |\nKONTAKT\n| KOOPERATION\n| PRESSE\n| DANKE\n| IMPRESSUM"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Wilkendorf",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Wilkendorf",
+  "extract": "Schloss Wilkendorf ist ein denkmalgeschützter Adelssitz im Ort Wilkendorf in Altlandsberg nördlich von Strausberg, das zu DDR-Zeiten als Gästehaus des Verteidigungsministeriums diente."
+ },
+ "notes": [],
+ "finalUrl": "http://www.schloss-wilkendorf.de/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

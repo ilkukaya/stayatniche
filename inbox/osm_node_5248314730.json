@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/5248314730",
+ "name": "Yebo Safari Camp",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 2.247903,
+ "lng": 31.5213335,
+ "country": "Uganda",
+ "city": "Buliisa",
+ "region": "Buliisa",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "www.yebotours.com",
+ "fetchedAt": "2026-10-17T05:45:11.404Z",
+ "pages": [
+  {
+   "url": "https://www.yebotours.com/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.yebotours.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

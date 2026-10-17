@@ -1,0 +1,50 @@
+{
+ "id": "osm:way/1290279869",
+ "name": "Sabula Castle Bed & Breakfast",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 42.0695292,
+ "lng": -90.1712382,
+ "country": "United States",
+ "city": "Sabula",
+ "region": "Iowa",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.sabulacastle.com/",
+ "fetchedAt": "2026-10-16T06:01:02.279Z",
+ "pages": [
+  {
+   "url": "https://www.sabulacastle.com/",
+   "kind": "home",
+   "title": "The Sabula Castle Bed &amp; Breakfast",
+   "description": "",
+   "text": "The Sabula Castle Bed & Breakfast\n0\nDream it.\nPondering the thought of self care? Make the plans come to life.\nGallery of Home\nBook it.\nDont overthink taking care of your mind body and soul. invest in your health by relaxing.\nBook Now\nLive it.\nPut down the phone or take a million photos it’s all up to you.\nBreakfast\nLove it.\nFind yourself coming back as a friend more than a customer.\nAbout"
+  },
+  {
+   "url": "https://www.sabulacastle.com/about",
+   "kind": "sub",
+   "label": "About",
+   "title": "About &mdash; The Sabula Castle Bed &amp; Breakfast",
+   "text": "About The Sabula Castle Bed & Breakfast\n0\n“I don’t have customers that stay here, I have friends.”\n- Sharon Mangler, Owner & Hostess with the Mostest\nBook Your Stay\nThe History of the Castle Bed & Breakfast.\nIt all began with a man who wanted to build a beautiful home for his wife on the river. Stories say they lived a long and happy life in the home.\nWhen they moved on, Joan Thompson bought the home. Prior to moving, Joan and her children were in the Panama Canal Zone. She was stationed there as a nurse for the American government. Yet she found herself missing home so back to Sabula, Iowa.\nAs time passed and her children grew up, Joan found herself in a large home wanting to share the beauty that was all around her. She open her doors to people all over the world in the year of 1980. The Castle has had guest from all over the globe with each one leaving as a new friend.\nCurrently Sharon Mangler, Joan’s daughter, owns and filled the big shoes of her Mother’s being a hostess with what she would say has the mostest. And it is true when you walk through that front door Sharon is there to greet you with stories and amazing food, you wont want to leave.\nImage here is Joan Thompson with her five children. Top (Michael), 2nd from top (Patricia), 3rd from top (Sharon) also the Owner & Hostess now, 2nd from bottom (Jake), bottom (Mary)."
+  },
+  {
+   "url": "https://www.sabulacastle.com/RoomsRates",
+   "kind": "sub",
+   "label": "Rooms + Rates",
+   "title": "Rooms + Rates &mdash; The Sabula Castle Bed &amp; Breakfast",
+   "text": "Rooms + Rates The Sabula Castle Bed & Breakfast\n0\nTake a deep breath…\nInhale Peace. Exhale Happiness.\nRoom Information\nKing Room\nPer Night $150\nOur best room in the house, the King Room offers extra space to settle in and beautiful views overlooking the sunrise side of the Mississippi River. Wake up to morning light over the water and stretch out in a spacious king bed. A pullout couch provides an extra sleeping spot for little ones, making this room a special retreat for couples or families.\nBook It\nQueen Room\nPer Night $140\nThe Queen Room features a queen bed and beautiful views of the Mississippi River. Watch the water go by and enjoy the peaceful scenery right from your room. Its views are just as lovely as those in the King Room, with a connecting door that can be opened when both rooms are booked together. A wonderful option for families or friends staying at the Castle.\nBook It\nPrincess Room\nPer Night $140\nThe Princess Room is a small cozy retreat for guests seeking comfort at an affordable price. Featuring a queen bed and a side view of the river plus a TV, closet and dresser. It’s a welcoming place to unpack and enjoy a little peace and quiet at the Castle.\nBook It\nWhole Home Rental\n$400 per night\nBook It"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.sabulacastle.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

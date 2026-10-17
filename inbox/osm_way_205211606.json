@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/205211606",
+ "name": "Castillo de Alarcón",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 39.5465449,
+ "lng": -2.0831165,
+ "country": "Spain",
+ "city": "Alarcón",
+ "region": "Castile-La Mancha",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q1049114",
+ "wikidataDescription": "castle and current hotel in Alarcón, Castile-La Mancha, Spain",
+ "website": null,
+ "fetchedAt": "2026-10-11T07:40:15.325Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Castle of Alarcón",
+  "url": "https://en.wikipedia.org/wiki/Castle_of_Alarc%C3%B3n",
+  "extract": "The Castle of Alarcón forms part of the fortifications built around the town of Alarcón in Cuenca, Spain. The fortress is composed of a walled enclosure, which houses the heart of the population and the castle proper, and of five exterior towers, separate and strategically placed."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

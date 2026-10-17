@@ -1,0 +1,55 @@
+{
+ "id": "osm:way/385437356",
+ "name": "Le Phare d'Opale",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 50.701577,
+ "lng": 1.5651886,
+ "country": "France",
+ "city": "Le Portel",
+ "region": "Hauts-de-France",
+ "osm": {
+  "tourism": "camp_site",
+  "stars": "1"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.campinglephare.com/",
+ "fetchedAt": "2026-10-13T07:50:16.064Z",
+ "pages": [
+  {
+   "url": "https://www.campinglephare.com/",
+   "kind": "home",
+   "title": "Camping Le Phare d&#x27;Opale, Le Portel, Nord-Pas-De-Calais",
+   "description": "Camping Le Phare d&#x27;Opale à Le Portel dans le Pas-de-Calais. Camping avec vue sur la Manche, à proximité de la Côte d&#x27;Opale et de la ville de Le Touquet. Tarifs &amp; Réservation.",
+   "text": "Camping Le Phare d Opale, Le Portel, Nord-Pas-De-Calais\nHomair | Camping Le Phare d'Opale\nSur la côte d'Opale\nPlage à 100 m\nUn moment de détente en famille\nÀ 5 km de Boulogne-sur-Mer\nSitué en haut d’une falaise avec une vue surplombant La Manche, le camping Le Phare d’Opale vous offre des vacances en camping au cœur du Nord-Pas-de-Calais, à Le Portel .\nVous pourrez louer votre mobil-home ou votre emplacement le temps d’un séjour et partir à la découverte des sites touristiques de la Région.\nBienvenue au camping Le Phare d’Opale !\nAfficher plus\nClub enfants\nClub enfants\nHey les petits aventuriers ! Préparez-vous pour une aventure inoubliable avec Topi le Chat au Club Enfants !\n4 - 12 Juillet / Août\nDétails et horaires\nClub ados\nHey la Team ! Prêts à déconnecter et à vivre des moments de folie au Club Ados ?\n13 - 17 Juillet / Août\nDétails et horaires\nActivités\nSports, Loisirs, culture\nTerrain de pétanque\nTennis de table\nSalle de jeux\nBillard\n+ 19\nautres\nPour les enfants / ados\nAire de jeux enfants\nClub ados\nClub enfants\nAnimations pour tous\nSoirées à thème\nCours de stretching, fitness, yoga\nCours de danse sportive (ex. zumba)\nKaraoke\nVoir toutes les activités (30)\nServices\nCommerces & Alimentation\nBar\nSnack\nDépôt de pain\nEpicerie\n+ 2\nautres\nLocation / Vente / Prêt\nLocation de draps\nLocation de serviettes\nEquipements pour bébé\nDivers\nAccès WiFi\nMachine à laver\nBarbecue au charbon de bois autorisé\nUn seul chien autorisé (hors 1ère et 2nd cat.)\nVoir tous les services (13)\ninfos pratiques\nAdresse\n2 rue de la Mer\n62480 Le Portel\nFrance\nLocaliser sur la carte\nCoordonnées GPS\nLatitude : 50.7040549\nLongitude : 1.5663028\nOuverture du camping\nDu 02/04/2027\nAu 26/09/2027\nDu 01/01/1970\nAu 01/01/1970\nLangues parlées à l'accueil\nAnglais\nFrançais\n624\navis\n7.4\n/ 10\nAccueil\nHébergement\nEspace aquatique\nAnimation\nBien, mais les places camping car sont trop haut, les mobilhomes ont des voitures, mais nous soit à pieds soit vélo. Sinon belle vue, la vidange des cassettes est aussi trop loin, il faudrait un point plus haut\nAccueil\nHébergement\nEspace aquatique\nAnimation\nMalgré un premier jour difficile car le Mob Home n etait pas ds un etat optimum mais le personnel technique très compétent a resolu les problèmes ds la journée ! L accueil etait chaleureux d emblee ! La position du Mob Home ideale et tranquille , Bravo\nAccueil\nHébergement\nEspace aquatique\nLe séjour très bien. Mais vos indications quand au camping et l'accès à la plage sont erronées. Handicapée à 80 % ( handicap invisible) je n'ai pu me rendre à pied à la plage. Grosse dénivellation. D'autant que le bungalow est situé à l'extrémité haute du camping. Déçue.\nAccueil\nHébergement\nEspace aquatique\nAfficher plus"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "CampGround",
+   "name": "Le Phare d'Opale",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 rue de la Mer",
+    "addressLocality": "Le Portel",
+    "addressRegion": "Nord-Pas-de-Calais",
+    "postalCode": "62480",
+    "addressCountry": {
+     "@type": "Country",
+     "name": "France"
+    },
+    "telephone": "04 30 05 15 17"
+   },
+   "url": "https://www.campinglephare.com/"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.campinglephare.com/",
+ "httpStatus": 200,
+ "htmlLang": "fr-FR"
+}

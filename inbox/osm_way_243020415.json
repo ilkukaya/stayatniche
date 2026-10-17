@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/243020415",
+ "name": "Ferienwohnungen Zugspitze",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 47.4748379,
+ "lng": 11.0253388,
+ "country": "Germany",
+ "city": "Grainau",
+ "region": "Bavaria",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.ferienwohnungen-zugspitze.com/",
+ "fetchedAt": "2026-10-17T05:46:56.728Z",
+ "pages": [
+  {
+   "url": "https://www.ferienwohnungen-zugspitze.com/",
+   "kind": "home",
+   "title": "&nbsp;&#124;&nbsp;Ferienwohnungen Zugspitze",
+   "description": "Suchen Sie nach einem entspannten Urlaub im ♥ der bayerischen Alpien? Na dann... herzlich Willkommen in den Ferienwohnungen Zugspitze",
+   "text": "Ferienwohnungen Zugspitze\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nSie wollten schon lange einmal (wieder) nach Bayern? In die Berge? An die Zugspitze? Sehr gute Entscheidung, dann sind Sie ja bei uns in Grainau genau richtig! Hier sind die Almen und Wiesen so richtig grün und der Himmel tatsächlich weiss-blau! Hier ist die Gemütlichkeit zu Hause… Und Sie? Sie können schon bald eine unserer Ferienwohnungen Zugspitze Ihr zu Hause nennen.\nUmgeben von den beeindruckenden Gipfeln des Wettersteins und der Ammergauer Alpen. In der Unabhängigkeit und Freiheit eines Apartments. Mit all den Annehmlichkeiten, die Sie sich speziell im Urlaub wünschen. In einer Atmosphäre irgendwo zwischen exklusiv, stilvoll und entspannt.\nMit Gastgebern, die die Umgebung aus dem FF kennen. Die immer für Sie erreichbar sind und Ihnen gerne jeden Wunsch erfüllen. Für Ihren wohlverdienten Urlaub und die perfekte Auszeit in den Bergen.\nRufen Sie uns an, geht am schnellsten: +49 160 4093693 zwischen 08.30 Uhr und 19.00 Uhr.\nWir freuen uns auf Sie!\nUnsere beiden Ferienwohnungen \"Alpspitze\" und \"Zwölferkopf\" am Brücklesbach 7 in Grainau finden Sie hier: www.ferienwohnung-zugspitze.com\nDie wertvollsten Augenblicke im Leben sind ja meistens jene, die nicht von langer Hand geplant sind. Na, wie wär’s mit einer spontanen Auszeit in den Ferienwohnungen Zugspitze?\nUnsere Wohnung \" Hochwanner \" für 2-4 Pers. ist noch frei zwischen dem 21.-31.08.2026, ab 4 ÜN buchbar ♥\nFür die nächste Fahrt in Richtung Garmisch-Partenkirchen oder Eibsee sind Sie versorgt. Denn durch die GrainauCard können Sie die Zugspitzbahn und den Bus während Ihres Aufenthaltes in unseren Ferienwohnungen Zugspitze kostenfrei nutzen.\nErkunden Sie die bayerische Karibik am Eibsee, shoppen Sie in Garmisch und genießen Sie viele weitere \"Goodies\" der GrainauCard. Unser Rezeptionsteam versorgt Sie sehr gerne mit vielen Geheimtipps und Wegbeschreibungen.\nBuchen zu Inklusivpreisen\nKeine versteckten Kosten\nUrlaub unbeschwert genießen\nAnfrage\nBuchen\nBitte aktivieren Sie in den Cookie Einstellungen die Option \"Funktionalität\" für die korrekte Map-Darstellung\nCookie Einstellungen"
+  },
+  {
+   "url": "https://www.ferienwohnungen-zugspitze.com/unterkunft/",
+   "kind": "sub",
+   "label": "Unterkunft",
+   "title": "&nbsp;&#124;&nbsp;Unterkunft",
+   "text": "Unterkunft\nYou are using an outdated browser. Please upgrade your browser to improve your experience.\nAnfrage\nBuchen\nBitte aktivieren Sie in den Cookie Einstellungen die Option \"Funktionalität\" für die korrekte Map-Darstellung\nCookie Einstellungen"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.ferienwohnungen-zugspitze.com/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

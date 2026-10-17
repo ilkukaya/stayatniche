@@ -1,0 +1,37 @@
+{
+ "id": "osm:way/506239264",
+ "name": "Camping Cave",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 45.6791065,
+ "lng": 10.0766474,
+ "country": "Italy",
+ "city": "Iseo",
+ "region": "Lombardy",
+ "osm": {
+  "tourism": "camp_site",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.campingcave.it/",
+ "fetchedAt": "2026-10-14T06:16:14.116Z",
+ "pages": [
+  {
+   "url": "https://www.campingcave.it/",
+   "kind": "home",
+   "title": "Camping Cave - Campeggio sul Lago d&#039;Iseo",
+   "description": "Campeggio sul Lago d&#039;Iseo in Franciacorta con piazzole erbose, accesso privato al lago e un ottimo bar/ristorante/pizzeria. FINE STAGIONE 04/10/2026",
+   "text": "Camping Cave - Campeggio sul Lago d'Iseo\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nIL LAGO, IL CIELO, IL PRATO E VOI\nBar\n&\nRead More\nIl Campeggio\n&\nRead More\nSport\nD\nRead More\nDintorni\n&\nRead More\nComments are closed."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.campingcave.it/",
+ "httpStatus": 200,
+ "htmlLang": "it-IT"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/2469084991",
+ "name": "Tiger Safari Lodge",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -16.0332453,
+ "lng": 28.8670471,
+ "country": "Zimbabwe",
+ "city": "Hurungwe",
+ "region": "Mashonaland West Province",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.tigersafaris.co.zw/",
+ "fetchedAt": "2026-10-16T06:02:03.675Z",
+ "pages": [
+  {
+   "url": "https://www.tigersafaris.co.zw/",
+   "kind": "home",
+   "title": "Tiger Safaris | Fishing &amp; Safari Camp on the Lower Zambezi",
+   "description": "One of the most established camps on the lower Zambezi. Riverside chalets, tiger fishing and boat hire, a bar &amp; restaurant, and stunning wedding venues in Chirundu, Zimbabwe.",
+   "text": "Tiger Safaris | Fishing & Safari Camp on the Lower Zambezi\nChirundu · Lower Zambezi · Zimbabwe\nOne of the most established camps on the lower Zambezi\nRiverside chalets, legendary tiger fishing, sundowners at the bar and unforgettable celebrations — all on the banks of the Great Zambezi.\nBook Your Stay Explore Fishing\nWelcome to Tiger Safaris\nA wild, welcoming escape on the water s edge\nThere s nothing quite like waking to a Great Zambezi sunrise, or unwinding as the sun stretches across the water at the end of the day. Our camp sits on the banks of the river in Chirundu, where established chalets, a warm bar and restaurant, and expert fishing guides come together for a truly memorable stay.\nWe proudly practise catch & release to preserve this magnificent fishery for generations to come.\nRiverside stays\n5 self-catering chalets & family units\nTiger fishing\nGuided boats on the lower Zambezi\nBar & dining\nCustom menus or self-cater\nFacilities & Services\nEverything you need, right on the river\nSit back, relax and let us take care of it all — from the family fishing trip to a 100-seater wedding, so you can enjoy what you came here for: the beauty of the Zambezi.\nAccommodation\nFive self-catering river chalets plus full-board and air-conditioned family units on the water’s edge.\nBar & Catering\nA relaxed bar and restaurant with custom menus — or self-cater in your fully equipped chalet.\nFishing & Boat Hire\nChase the mighty tiger fish with experienced guides, river runners, sportsters and an Ali boat.\nWeddings\nSay “I do” under indigenous trees on lush green lawns with the Zambezi as your backdrop.\nThe Catch\nMoments from the Zambezi\nFrom trophy tigers to feisty bream and giant vundu — the memories our guests take home.\nGuest Stories\nLoved by anglers & families alike\nWe have just got home from our beautiful stay at Tiger Safaris — we all caught Tiger and one Vundu. Such an amazing place. The service is outstanding, the restaurant and food delicious and all the staff were so accommodating. We will definitely be back very soon. Well done to Michael who caught all the big tigers and surpassed his PB!\nReady for your Zambezi escape?\nWhether it s a family fishing trip or a riverside wedding, we ll take care of every detail so you can relax and enjoy the beauty of the river.\nEnquire & Book"
+  },
+  {
+   "url": "https://www.tigersafaris.co.zw/accommodation",
+   "kind": "sub",
+   "label": "Accommodation",
+   "title": "Accommodation | Tiger Safaris",
+   "text": "Accommodation | Tiger Safaris\nStay With Us\nAccommodation\nWake to a Great Zambezi sunrise and relax to the sun stretching across the water at the end of the day.\n5 river chalets\nEach sleeps up to 6 guests\nAir-con units\nFull-board & family options\nFamily unit\nThree bedrooms, open-plan living\nSelf-Catering River Chalets\nOur main camp is made up of five beautiful chalets set on the banks of the Zambezi River. Each is able to sleep up to six people and is equipped with everything you need, including a stove, a fridge with freezer, and full crockery and cutlery.\nWith our bar and kitchen, we can now cater for your every need — just bring yourself and get everything else here. Ice is available too!\nFull-Board Chalet & Family Unit\nWe also have a two-bedroom en-suite chalet with no self-catering facilities — fully air-conditioned. Situated at the back near the swimming pool and water hole, Chalet 7 has two bedrooms, each with two single beds and a shower and toilet en suite.\nMore recently finished is our new air-conditioned family unit: three bedrooms with two beds in each, an open-plan kitchen and dining area, a bathroom with bath and shower, and a veranda with a braai area. It s become very popular, especially for those who prefer to escape the heat.\nGuest Stories\nLoved by anglers & families alike\nWe have just got home from our beautiful stay at Tiger Safaris — we all caught Tiger and one Vundu. Such an amazing place. The service is outstanding, the restaurant and food delicious and all the staff were so accommodating. We will definitely be back very soon. Well done to Michael who caught all the big tigers and surpassed his PB!\nReady for your Zambezi escape?\nWhether it s a family fishing trip or a riverside wedding, we ll take care of every detail so you can relax and enjoy the beauty of the river.\nEnquire & Book"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.tigersafaris.co.zw/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

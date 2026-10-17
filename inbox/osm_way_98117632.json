@@ -1,0 +1,49 @@
+{
+ "id": "osm:way/98117632",
+ "name": "Schloss Freudental",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 47.7478119,
+ "lng": 9.0786663,
+ "country": "DE",
+ "city": "Allensbach",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2241053",
+ "wikidataDescription": "building in Allensbach (Germany)",
+ "website": "https://www.schloss-freudental.de/",
+ "fetchedAt": "2026-10-17T05:46:05.094Z",
+ "pages": [
+  {
+   "url": "https://www.schloss-freudental.de/",
+   "kind": "home",
+   "title": "Startseite | Schloss Freudental - Allensbach-Freudental, Deutschland, Bodensee",
+   "description": "Startseite",
+   "text": "Startseite | Schloss Freudental - Allensbach-Freudental, Deutschland, Bodensee\nWillkommen auf Schloss Freudental\nDem Charme von Schloss Freudental werden Sie sich wohl kaum entziehen k nnen. Das erst k rzlich vollst ndig renovierte Barockschl sschen unweit des Bodensees liegt an einmaliger Lage mit Blick auf die sterreichischen und Schweizer Alpen.\nDer Erbauer von Freudental, Freiherr Franz Dominik von Pra berg, war Oberhofmeister des Bistums Konstanz. Als solcher war er u.a. zust ndig f r s mtliche Bauten des Bistums. Als verm gender Mann verpflichtete er die besten Handwerker seiner Zeit, so u.a. Michael Wiedenmann, den Baumeister des Konventgeb udes der Abtei Neresheim. Wiedenmann zeichnete auch f r die pr chtigen Stuckdecken verantwortlich. In seinem Vertrag wurde ausdr cklich festgehalten, dass sich der Meister pers nlich an der Erstellung der Stuckaturen beteiligen und die Arbeiten berwachen musste. Das damals wichtigste deutsche Bistum war in seiner Bl tezeit gr sser als die ganze Schweiz oder das Land Baden-W rttemberg.\nGeniessen Sie diese einmalige l ndliche Idylle in einer herrschaftlichen Umgebung!\nAdresse\nSchloss Freudental GmbH\nSchlossstrasse 1\nD-78476 Allensbach-Freudental\nTelefon +49 7533 949 1100\nFax + 49 7533 949 1104\ninfo@schloss-freudental.de\nwww.schloss-freudental.de\nBrosch re als PDF"
+  },
+  {
+   "url": "https://www.schloss-freudental.de/hotel",
+   "kind": "sub",
+   "label": "Hotel",
+   "title": "Hotel | Schloss Freudental - Allensbach-Freudental, Deutschland, Bodensee",
+   "text": "Hotel | Schloss Freudental - Allensbach-Freudental, Deutschland, Bodensee\nHotel\nDas Schloss fasziniert durch sein historisches Flair und das Ambiente eines ehemaligen F rstensitzes. Die G stezimmer sind dem Geschmack und den Erfordernissen anspruchsvoller G ste angepasst. Diese wohnen entweder im Schloss oder in einem der beiden Nebengeb ude.\nAus allen Zimmern hat man einen wundersch nen Ausblick auf die Landschaft des Bodanr ck, zum Teil bis zum Bodensee.\nZimmerübersicht Preise\nAdresse\nSchloss Freudental GmbH\nSchlossstrasse 1\nD-78476 Allensbach-Freudental\nTelefon +49 7533 949 1100\nFax + 49 7533 949 1104\ninfo@schloss-freudental.de\nwww.schloss-freudental.de\nBrosch re als PDF"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Freudental (Allensbach)",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Freudental_(Allensbach)",
+  "extract": "Das Schloss Freudental liegt auf der Bodenseehalbinsel Bodanrück zwischen dem Überlinger See und dem Gnadensee. Auf einer Anhöhe erbaut, überragt es das Dorf Freudental und ist weit in der umgebenden Landschaft zu sehen. Baumeister war der aus Neresheim stammende Michael Wiedemann (1661–1703), der am Bau der Abtei Neresheim mitwirkte."
+ },
+ "notes": [],
+ "finalUrl": "https://www.schloss-freudental.de/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

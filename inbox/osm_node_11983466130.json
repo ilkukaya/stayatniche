@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/11983466130",
+ "name": "Thunacadavu Tree House",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 10.437472,
+ "lng": 76.7802677,
+ "country": "India",
+ "city": "Chittur",
+ "region": "Kerala",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.parambikulam.org/PlanYourVisit/Programme?type=6056f8813f552e2298a9f67c&category=60488cfd18f3076749346702&name=Treetop%20Hut,%20Thunacadavu",
+ "fetchedAt": "2026-10-17T05:44:51.908Z",
+ "pages": [
+  {
+   "url": "https://www.parambikulam.org/PlanYourVisit/Programme?type=6056f8813f552e2298a9f67c&category=60488cfd18f3076749346702&name=Treetop%20Hut,%20Thunacadavu",
+   "kind": "home",
+   "title": "Parambikulam Tiger Reserve | Official Website of Parambikulam Tiger Reserve | Online Bookings for Accomodations, Jungle Safari, Trekking Programs, Nature Camps | Buy Parambikulam Honey | Wild Honey",
+   "description": "Parambikulam is one of the premier Tiger Reserves of India and is endowed by nature in terms of species, habitat and ecosystem diversity, characterized by functional human-ecological affinities. It stood 7th in the country in terms of Management Effectiveness in the 2018 Assessment (among 50 Tiger Reserves in the country).",
+   "text": "Parambikulam Tiger Reserve | Official Website of Parambikulam Tiger Reserve | Online Bookings for Accomodations, Jungle Safari, Trekking Programs, Nature Camps | Buy Parambikulam Honey | Wild Honey"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.parambikulam.org/PlanYourVisit/Programme?type=6056f8813f552e2298a9f67c&category=60488cfd18f3076749346702&name=Treetop%20Hut,%20Thunacadavu",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

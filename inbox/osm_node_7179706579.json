@@ -1,0 +1,50 @@
+{
+ "id": "osm:node/7179706579",
+ "name": "Castle Bijaipur",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 24.8937354,
+ "lng": 74.805885,
+ "country": "India",
+ "city": "Chittaurgarh Tehsil",
+ "region": "Rajasthan",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.castlebijaipur.co.in/",
+ "fetchedAt": "2026-10-17T05:46:16.596Z",
+ "pages": [
+  {
+   "url": "https://www.castlebijaipur.co.in/",
+   "kind": "home",
+   "title": "Castle Bijaipur - Chittorgarh Heritage Hotel | Luxury Resort | Best Hotel in Chittorgarh Rajasthan",
+   "description": "Luxury Heritage Hotel in Chittorgarh - Castle Bijaipur is Best Resort in Chittorgarh. Located in the Vindhyanchal Hills at 600 meters above sea level, surrounded by graceful forests of Flame of the Forest & Jaracanda overlooking the farmlands in the valley, Castle Bijaipur is the ultimate place where history, nature and hospitality form unison.",
+   "text": "Castle Bijaipur - Chittorgarh Heritage Hotel | Luxury Resort | Best Hotel in Chittorgarh Rajasthan\nTRAVEL ATTRACTIONS\nRESERVATION\nGUEST COMMENT\nFACILITIES\nIt was an elegant experience like an oasis of peace harmonized by the tranquil atmosphere. The entertainment was very good along with exceptional food and facilities. All the staff members were cheerful, courteous and always happy to help..\nCastle Bijaipur\nLocated in the Vindhyanchal Hills at 600 meters above sea level, surrounded by graceful forests of Flame of the Forest & Jaracanda overlooking the farmlands in the valley, Castle Bijaipur is the ultimate place where history, nature and hospitality form unison. It is not just a retreat that will leave you breathless with the enchantment of its surroundings, but assists in redefining lifestyles to include the well-known Indian traditions of life and hospitality.\nThe 16th century Castle, situated in fortified walls, was converted to a hotel in 1991 by the ruling family. The Castle is still home to the ruling family who run it not as a hotel but as a ‘HOME’ where people can come and experience traditional Rajput hospitality – First hand .\nOnce inside the Castle, time stands still and transfers you to the bygone era. Heritage here is not just about antiques and artefacts – it is more about the culture that is alive inside, about the experiences that are surprisingly genuine, about smiling faces that feel pride in sharing what they call – HERITAGE .\nHome\nAbout Us\nActivities\nAccomodation\nServices\nReview\nGallery\nContact\nWebsite Design and Developed by EyeBridge"
+  },
+  {
+   "url": "https://www.castlebijaipur.co.in/aboutus-philosophy.html",
+   "kind": "sub",
+   "label": "",
+   "title": "Hotel in Chittorgarh | Best Resort | Heritage Hotel | Castle Bijaipur Near Chittorgarh",
+   "text": "Hotel in Chittorgarh | Best Resort | Heritage Hotel | Castle Bijaipur Near Chittorgarh\nPHILOSOPHY\nHISTORY\nRULERS\nBIJAIPUR-The village\nOTHER PROPERTIES\nSOCIAL-RESPONSIBLITIES\nIt was an elegant experience like an oasis of peace harmonized by the tranquil atmosphere. The entertainment was very good along with exceptional food and facilities. All the staff members were cheerful, courteous and always happy to help..\nAbout Us\nPhilosophy\nThere are many heritage hotels in India, but none so encapsulate the traditional family values that have shaped India through the ages. The current family is the 13th generation calling the castle 'HOME'\n.\nSharing the 16th century Castle with the family welcomes a guest into the very heart and soul of India.In the Mewar region hospitality runs thick in blood of the Rajputs.\nOur only objective is that our guests, while staying with us, should feel like family and friends. WELCOME HOME!\nHome\nAbout Us\nActivities\nAccomodation\nServices\nReview\nGallery\nContact\nWebsite Design and Developed by EyeBridge"
+  },
+  {
+   "url": "https://www.castlebijaipur.co.in/accommodation-deluxe-rooms.html",
+   "kind": "sub",
+   "label": "",
+   "title": "Deluxe Rooms | Best Hotel in Chittorgarh | Resort Near Chittorgarh | Castle Bijaipur",
+   "text": "Deluxe Rooms | Best Hotel in Chittorgarh | Resort Near Chittorgarh | Castle Bijaipur\nDELUXE ROOMS\nHERITAGE DLX ROOMS\nBURJ SUITES\nIt was an elegant experience like an oasis of peace harmonized by the tranquil atmosphere. The entertainment was very good along with exceptional food and facilities. All the staff members were cheerful, courteous and always happy to help..\nAccomodation\nDeluxe Rooms\nReady for your own private palace? These rooms are equipped with all modern facilities of running hot & cold water, telephone and television.Then add a luxurious bathroom and walk-in shower.An interconnecting room is available for accompanying guests.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut sapien urna. Pellentesque eget nisl ut felis consequat aliquet at eu ante. Sed sagittis suscipit auctor. Nullam pharetra, est eget vulputate commodo, dolor nisl interdum massa, ac gravida sem metus a tellus. -->\nHome\nAbout Us\nActivities\nAccomodation\nServices\nReview\nGallery\nContact\nWebsite Design and Developed by EyeBridge"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.castlebijaipur.co.in/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

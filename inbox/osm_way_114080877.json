@@ -1,0 +1,52 @@
+{
+ "id": "osm:way/114080877",
+ "name": "Castle Inn & Suites",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 33.8049314,
+ "lng": -117.9142193,
+ "country": "United States",
+ "city": "Anaheim",
+ "region": "California",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.castleinn.com/",
+ "fetchedAt": "2026-10-16T06:01:02.134Z",
+ "pages": [
+  {
+   "url": "https://www.castleinn.com/",
+   "kind": "home",
+   "title": "Castle Inn and Suites Hotel in Anaheim, CA near Disneyland",
+   "description": "",
+   "text": "Castle Inn and Suites Hotel in Anaheim, CA near Disneyland Book Your Stay Disney Reopening April 30, 2021!\nSRT\nPlease Note: Reservations made below are for hotel stay only. Disney tickets & park reservations must be made separately.\nCheck In )\nCheck Out\nRooms\nAdults\nKids\nBook Your Hotel Stay\nFind Reservation\nWelcome to Castle Inn and Suites\nPlease note: When visiting The Disneyland Resort, tickets and reservations are required. Learn More .\nAvailable hotel amenities are subject to change due to restrictions and guidelines, for questions, please call our hotel directly at: 1(800)CASTLE-0\n1(800)227-8530\nEnjoy family fun at Castle Inn and Suites, an Anaheim hotel located across the street from Disneyland Resort and all its magical theme parks and entertainment districts, including the Downtown Disney District. This location makes our family-owned Anaheim hotel the perfect spot for a family or group vacation, though we're also ideal for business travelers visiting the Anaheim Convention Center less than half a mile away.\nChoose from an array of cozy guest rooms or upgraded suites for you stay, complete with amenities like coffeemakers, work desks, and cable TVs. After a busy day at the local theme parks or convention center events, everyone can relax in our heated outdoor pool or grab something delicious to eat at the several local restaurants within walking distance from our Anaheim hotel.\nView Accommodations\nPurchase Disney Tickets\nOur top priority is to make your trip magical, including easy access to find Disney tickets here from our website.\nPurchase Tickets\nKnow Before You Go Information\nFamily-Friendly Vacation\nAffordable hotel accommodations and amenities sure to please kids and parent alike.\nLearn More\nRoyal Amenities at Our Anaheim Hotel\nFree Wi-Fi\nConcierge offering attraction tickets and tours\nHeated outdoor pool\nOn-site laundry and valet services\nLEARN MORE\nExplore Our Guest Rooms\nWith stellar accommodations and generous amenities, our guest suites will make your vacation in Anaheim memorable.\nLearm More\nExplore Our Guest Rooms\nView Our Photo Gallery\nTake in the view of our cool castle d cor and gets the kids excited about your upcoming family vacation to Disneyland !\nLearm More\nView Our Photo Gallery\nBuy Your Disney Tickets\nMake the most of your trip when you purchase tickets in advance. Luckily you can take care of everything you'll need right here from our site!\nLearm More\nBuy Your Disney Tickets\nSign Up for Specials\nBe the first to receive exclusive announcements, special promotions and discounts.\nSign Up\n× Close Success!"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "Hotel",
+   "name": "Castle Inn & Suites",
+   "description": "At our Anaheim hotel, you get the full castle experience while staying across the street from the happiest place on earth.",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "United States",
+    "addressLocality": "Anaheim",
+    "addressRegion": "CA",
+    "postalCode": "92802",
+    "streetAddress": "1734 S. Harbor Blvd"
+   },
+   "telephone": "(714) 774-8111",
+   "url": "https://www.castleinn.com/"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.castleinn.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

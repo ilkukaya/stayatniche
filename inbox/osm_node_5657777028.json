@@ -1,0 +1,57 @@
+{
+ "id": "osm:node/5657777028",
+ "name": "Chilo Gorge Safari Lodge",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -21.2488207,
+ "lng": 32.3484999,
+ "country": "Zimbabwe",
+ "city": "Chipinge",
+ "region": "Manicaland Province",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://chilogorge.com/",
+ "fetchedAt": "2026-10-16T06:02:03.820Z",
+ "pages": [
+  {
+   "url": "https://chilogorge.com/",
+   "kind": "home",
+   "title": "Chilo Gorge / Luxury Safari Lodge - Zimbabwe",
+   "description": "Chilo Gorge is a luxury safari lodge on the edge of Gonarezhou: a Zimbabwe national conservation park preserved in pristine wilderness.",
+   "text": "Chilo Gorge / Luxury Safari Lodge - Zimbabwe\nSkip to content\nThe edge of serenity\nCHILO GORGE IS A LUXURY SAFARI LODGE ON THE EDGE OF GONAREZHOU: A NATIONAL PARK PRESERVED IN PRISTINE WILDERNESS\nS 21’14.779 – E 032’20.908\nLODGE\nWILDLIFE\nGONAREZHOU: MEANS “PLACE OF THE ELEPHANTS” THE PARK IS HOME TO OVER EIGHT THOUSAND OF THEM\nEXPERT GUIDES ARE ON HAND TO SHOW YOU AROUND THE PARK, INCLUDING CLIVE STOCKIL, WINNER OF THE 2013 TUSK AWARD\nGUIDES"
+  },
+  {
+   "url": "https://chilogorge.com/lodge/",
+   "kind": "sub",
+   "label": "Lodge",
+   "title": "Lodge / Chilo Gorge Safari Lodge - Zimbabwe",
+   "text": "Lodge / Chilo Gorge Safari Lodge - Zimbabwe\nSkip to content\nLodge\nHome\nLodge\nImmerse yourself in the wilderness of Gonarezhou National Park from the comfort of the Chilo Gorge Safari Lodge.\nThe Chilo safari experience combines spacious luxury in one of Southern Africa’s last truly remote wilderness areas with the unmatched Zimbabwean guiding knowledge, care, warmth and hospitality. Our safari lodge is spacious with vast views offering you a haven from the heat of the day, a place to rest and recoup, and to prepare for your next Gonarezhou safari adventure. You will feel like home when the Chilo family welcomes you and the expansive viewing deck will be your place to go to watch elephants, hippos and crocodiles cooling off in the waters of the river amongst abundant vegetation.\nThe main lodge is surrounded by beautifully tended indigenous gardens cared for by Enock, our Head Gardener. Relax in the shaded swimming pool or sit on one of the wooden benches dotted around the garden marvelling at the majestic view of the Save River."
+  },
+  {
+   "url": "https://chilogorge.com/accommodation/",
+   "kind": "sub",
+   "label": "Your Stay",
+   "title": "Accommodation | Chilo Gorge",
+   "text": "Accommodation | Chilo Gorge\nSkip to content\nYour Stay\nHome\nAccommodation\nLuxury Chalets\nPerched precariously on the edge of a dramatic cliff, our luxurious chalets offer a truly unique and unobstructed view of the untamed wilderness stretching out...\nRead More\nSelf-Catering Chalets & Villa\nEscape to the freedom of Nhambo self catering lodges, where the spirit of adventure calls. This self-catering haven is designed for the independent traveler who...\nRead More\nChilo Gorge Tented Camp Experience at Mahove\nImmerse yourself in the wilderness at Chilo Tented Camp, situated on a scenic floodplain overlooking the Runde River in Gonarezhou National Park. Wake up to...\nRead More\nChilo Fly-Camping Experience / Ivory Trail Adventure\nEmbark on an unforgettable adventure at Chilo Gorge Safari Lodge, your gateway to the unspoiled wilderness of Gonarezhou National Park. Our commitment to providing an...\nRead More"
+  },
+  {
+   "url": "https://chilogorge.com/about/",
+   "kind": "sub",
+   "label": "Our Story",
+   "title": "About / Chilo Gorge Safari Lodge - Zimbabwe",
+   "text": "About / Chilo Gorge Safari Lodge - Zimbabwe\nSkip to content\nOur Story\nHome\nOur Story\nChilo Gorge Safari Lodge was founded with the sole purpose of providing opportunities through photographic tourism for the community of Mahenye following the creation of Gonarezhou National Park in 1975. The founder, Clive Stockil, is to this day involved in community work and partnerships in this area and other areas of the Save Valley and Zimbabwean Lowveld.\nOur team will welcome you into the Chilo family from the minute you arrive. We have created a safari experience that allows you to deeply immerse yourself into the wilderness that is Gonarezhou National Park. Our experienced guides create a safari stay filled with knowledgeable, safe and adventurous activities, guaranteeing a true wilderness experience. But Chilo is also a place to sit back and watch the day go by in the wilderness; enjoy sundowners on the beach, watch elephants cross rivers and white sandy shores and feel the mystery of the Chilojo Cliffs. Chilo is more than a safari experience it’s for travellers seeking the wilderness solitude of truly wild Africa.\nOur Founder\nOur Founder, Clive Stockil, a professional guide with a passion for community and conservation, has instilled this ethos across all aspects of Chilo Gorge Safari Lodge. Our guides are experienced and knowledgeable which will show in your safari experience daily.\nConservation\nConservation and partnership with our surrounding community is our focus. A daily conservation levy contributes directly to supporting community and conservation work. We will share our work, explain and show you all the ways your stay is making an positive and sustainable impact in this community and wilderness area.\nExperience\nWe will show you all Gonarezhou has to offer. You will see the national park from different perspectives, some adventurous and some reflective. We will combine wildlife experience with picnics in one of the most magnificent sceneries you will ever experience. Cross rivers on foot and hike up Chilojo Cliffs on elephant paths followed by a day of relaxing and watching wildlife in the floodplains."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://chilogorge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-GB"
+}

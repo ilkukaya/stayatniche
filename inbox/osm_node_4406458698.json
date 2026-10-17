@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/4406458698",
+ "name": "End of the Line Railway Accommodation",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": -37.3770746,
+ "lng": 144.0615376,
+ "country": "Australia",
+ "city": "Victoria",
+ "region": "Victoria",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "www.endoftheline.com.au",
+ "fetchedAt": "2026-10-17T05:44:49.527Z",
+ "pages": [
+  {
+   "url": "http://www.endoftheline.com.au/",
+   "kind": "home",
+   "title": "www.endoftheline.com.au - Coming Soon",
+   "description": "",
+   "text": "www.endoftheline.com.au - Coming Soon\n🚀\nwww.endoftheline.com.au\nThis domain is coming soon."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.endoftheline.com.au/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

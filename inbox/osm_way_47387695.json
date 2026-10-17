@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/47387695",
+ "name": "Dauercamping Freizeitgemeinschaft Karpfenzug",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 49.4262547,
+ "lng": 8.4590306,
+ "country": "Germany",
+ "city": "Altrip",
+ "region": "Rhineland-Palatinate",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.karpfenzug.de/",
+ "fetchedAt": "2026-10-17T05:46:58.341Z",
+ "pages": [
+  {
+   "url": "https://www.karpfenzug.de/",
+   "kind": "home",
+   "title": "Home",
+   "description": "",
+   "text": "Home\nServicenummer: +49 155/61284100\nEin\nMerkblatt f r Neumitglieder, Formulare, Satzung, Gesch fts- und Nutzungsordnung...\nwichtiges f r Mitglieder und solche, die es werden wollen\nLink zum Downloadbereich\nInfos\nErreichbarkeit, Verf gbarkeit, ffnungszeiten M lldeponie...\nMehr dazu\nTermine und aktuelles\nSt rungen, anstehende Termine und alles was dazu geh rt.\nMehr dazu\nFreizeitgemeinschaft Karpfenzug e.V. Alle Rechte vorbehalten.\nShare by:"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.karpfenzug.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

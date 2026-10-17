@@ -1,0 +1,49 @@
+{
+ "id": "osm:relation/5372210",
+ "name": "Schloss Hochhausen",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 49.3233635,
+ "lng": 9.1055001,
+ "country": "DE",
+ "city": "Haßmersheim",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q16856684",
+ "wikidataDescription": null,
+ "website": "https://schloss-hochhausen.de/",
+ "fetchedAt": "2026-10-17T05:45:45.885Z",
+ "pages": [
+  {
+   "url": "https://schloss-hochhausen.de/",
+   "kind": "home",
+   "title": "Startseite Hotel Mosbach - Schlosshotel Hochhausen | Website des Schlosshotel Hochhausen",
+   "description": "Willkommen im Gästehaus Schloss Hochhausen! Das kleine Dorf Hochhausen liegt abseits vom großen Verkehr im schönsten Teil des Neckartals zwischen Heidelberg und Bad Wimpfen.",
+   "text": "Startseite Hotel Mosbach - Schlosshotel Hochhausen | Website des Schlosshotel Hochhausen\n00496261893142\nWillkommen im Gästehaus\nSchloss Hochhausen!\nDas kleine Dorf Hochhausen liegt abseits vom großen Verkehr im schönsten Teil des Neckartals zwischen Heidelberg und Bad Wimpfen.\nÜber dem Dorf, dem Neckar zugewandt, steht das romantische Schloss, dessen Anfänge auf das frühe Mittelalter zurückgehen und das im 18. Jahrhundert im barocken Stil umgebaut wurde. Der weitläufige naturnahe Park mit alten Bäumen umgibt diese Insel der Ruhe.\nSchon immer war es Tradition des Hauses Gastlichkeit zu pflegen und so steht heute noch ein Teil des Schlosses für Gäste offen, die Abgeschiedenheit und eine gepflegte Atmosphäre suchen. Dort empfangen wir Sie in privater Umgebung."
+  },
+  {
+   "url": "https://schloss-hochhausen.de/geschichte",
+   "kind": "sub",
+   "label": "Geschichte",
+   "title": "Geschichte Hotel Mosbach - Schlosshotel Hochhausen",
+   "text": "Geschichte Hotel Mosbach - Schlosshotel Hochhausen\n00496261893142\nGeschichte\nrund um das Schloss Hochhausen\nDer Ursprung von Schloss Hochhausen geht zurück ins frühe Mittelalter. Die wahrscheinlich bewehrte Anlage wurde von Damian Hugo, einem Ahnherrn der Familie, im Jahr 1752 vollkommen im Stil des Spätbarocks umgebaut. Raban von Helmstatt fügte im Jahr 1895 an das bestehende Schloss eine zweigeschossige Eingangshalle an, die als Empfang und Treppenhaus das Zentrum des Hauses bildet.\nSeit 1954 ist das Haus offen für Gäste, die in einer lieblichen, an Kultur reichen Landschaft die Ruhe suchen.\nDie jetzigen Besitzer, Monique und Dieter von Helmstatt, teilen gern den Charme dieses Familienguts mit ihren Gästen.\nWeitere Informationen zur Geschichte des Hauses finden Sie auch auf Wikipedia ."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Hochhausen",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Hochhausen",
+  "extract": "Schloss Hochhausen ist ein 1752 errichtetes barockes Schloss, das aus einer mittelalterlichen Burg hervorgegangen ist. Es liegt am linken Hang des Neckars im Dorf Hochhausen im Neckar-Odenwald-Kreis in Baden-Württemberg. Das Schloss ist bewohnt und wird als Pension geführt."
+ },
+ "notes": [],
+ "finalUrl": "https://schloss-hochhausen.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

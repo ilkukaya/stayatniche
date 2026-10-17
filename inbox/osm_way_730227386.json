@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/730227386",
+ "name": "Ca Cueva Reximán",
+ "queueStatus": "verified",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 43.3094662,
+ "lng": -4.8665631,
+ "country": "Spain",
+ "city": "Inguanzo",
+ "region": "Asturias",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://reximan.com/",
+ "fetchedAt": "2026-10-14T06:15:29.937Z",
+ "pages": [
+  {
+   "url": "https://reximan.com/",
+   "kind": "home",
+   "title": "Ca Reximan | Vivienda vacacional en Cabrales, Inguanzo",
+   "description": "",
+   "text": "Ca Reximan | Vivienda vacacional en Cabrales, Inguanzo\nCa Cueva Reximán\nVivienda vacacional en Inguanzo\nCabrales, Asturias, Picos de Europa\nContacto\nApartamentos turísticos\nCa Reximán está situada en el pueblo de Inguanzo, concejo de Cabrales, Asturias.\nEs una vivienda vacacional independiente, que dispone de dos habitaciones, ambas con baño, sala de estar y cocina.\nCa Reximan toma el nombre de nuestras casas familiares.\nEstamos aquí\nInguanzo\nInguanzo es un pueblo del concejo de Cabrales situado a media ladera del macizo de Los Picos de Europa, a 330 metros de altitud.\nEn medio de un conjunto arquitectónico de gran interés, destaca la Iglesia de Santa Cruz, construida a finales del siglo XVIII, y el palacio de los marqueses que lleva su mismo nombre.\nEl pueblo está a poco más de 3 kilómetros de Carreña, la capital del municipio, y a 12 de Poncebos, donde comienza la Ruta del Cares y desde donde parte -también- el funicular a Bulnes.\nGuía de Los Picos de Europa\nUrriellu\nRuta del Cares\nIMG_6151\nVentana, detalle\nVV Reximan\nIMG_6095\nIMG_6144\nIMG_6141\nIMG_6140\nIMG_6139\nIMG_6137\nIMG_6136\nIMG_6134\nIMG_6124\nIMG_6125\nIMG_6126\nIMG_6127\nIMG_6128\nIMG_6129\nIMG_6130\nIMG_6132\nIMG_6133\nIMG_6123\nIMG_6121\nIMG_6120\nIMG_6119\nIMG_6116\nIMG_6115\nIMG_6114\nIMG_6113\nIMG_6111\nIMG_6100\nIMG_6101\nIMG_6103\nIMG_6104\nIMG_6105\nIMG_6106\nIMG_6107\nIMG_6108\nIMG_6109\nIMG_6099\nIMG_6098\nIMG_6096\nIMG_6094\nIMG_6091\nIMG_6090\nLa Casa 1\nRx fondo\nHabitación doble con baño\nVentana, detalle\nCa Cueva Reximan\nContacto"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://reximan.com/",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

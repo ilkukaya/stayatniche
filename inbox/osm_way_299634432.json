@@ -1,0 +1,37 @@
+{
+ "id": "osm:way/299634432",
+ "name": "Hotel Le Grotte",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 43.4076142,
+ "lng": 12.9300176,
+ "country": "Italy",
+ "city": "Genga",
+ "region": "Marche",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "4"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.hotellegrotte.it/",
+ "fetchedAt": "2026-10-14T06:16:12.490Z",
+ "pages": [
+  {
+   "url": "https://www.hotellegrotte.it/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": "/*\n* The Typekit service used to deliver this font or fonts for use on websites\n* is provided by Adobe and is subject to these Terms of Use\n* http://www.adobe.com/products/eulas/tou_typekit. For font license\n* information, see the list below.\n*\n* mundial:\n* - http://typekit.com/eulas/00000000000000007735ee0b\n* - http://typekit.com/eulas/00000000000000007735ee06\n* - http://typekit.com/eulas/00000000000000007735ee08\n* - http://typekit.com/eulas/00000000000000007735ee0d\n* - http://typekit.com/eulas/00000000000000007735ee0e\n*\n* � 2009-2025 Adobe Systems Incorporated. All Rights Reserved.\n*/\n/*{\"last_published\":\"2025-06-16 07:55:06 UTC\"}*/\n@import url(\"https://p.typekit.net/p.css?s=1&k=mgp8kjl&ht=tk&f=47863.47864.47865.47868.47869&a=109589087&app=typekit&e=css\");\n@font-face {\nfont-family: 'Noto Sans';\nsrc: url('data:font/woff2;charset=utf-8;base64,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"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.hotellegrotte.it/",
+ "httpStatus": 200,
+ "htmlLang": "it-IT"
+}

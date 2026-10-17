@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/73689706",
+ "name": "Astley Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 52.502349,
+ "lng": -1.542348,
+ "country": "United Kingdom",
+ "city": "Nuneaton",
+ "region": "England",
+ "osm": {
+  "tourism": "apartment",
+  "historic": "castle"
+ },
+ "wikidata": "Q4810907",
+ "wikidataDescription": "ruinous moated fortified 16th century manor house in North Warwickshire, England, UK",
+ "website": null,
+ "fetchedAt": "2026-10-09T07:57:49.105Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Astley Castle",
+  "url": "https://en.wikipedia.org/wiki/Astley_Castle",
+  "extract": "Astley Castle  is a ruinous moated fortified 16th century manor house in North Warwickshire, England. It has been a Grade II* listed building since 1952 and a Scheduled Ancient Monument since 1994. It was derelict and neglected since it was severely damaged by fire in 1978 whilst in use as a hotel and was officially a Building at Risk. The building reopened as a holiday let in 2012 after extensive and novel renovations that combine modern elements within the (mostly) renaissance remains. In 2013, Astley Castle won the Royal Institute of British Architects Stirling Prize for architecture, as an \"exceptional example\" of the blending of an ancient monument with modern architecture."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

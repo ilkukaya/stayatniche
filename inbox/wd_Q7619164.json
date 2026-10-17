@@ -1,0 +1,30 @@
+{
+ "id": "wd:Q7619164",
+ "name": "Stonefield Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 55.8912,
+ "lng": -5.41706,
+ "country": "United Kingdom",
+ "city": "Argyll and Bute",
+ "region": "Scotland",
+ "osm": null,
+ "wikidata": "Q7619164",
+ "wikidataDescription": "country house, now hotel, in Argyll and Bute, Scotland, UK",
+ "website": null,
+ "fetchedAt": "2026-10-09T07:57:50.476Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Stonefield Castle",
+  "url": "https://en.wikipedia.org/wiki/Stonefield_Castle",
+  "extract": "Stonefield Castle is a Scottish baronial manor house near the village of Stonefield, north of Tarbert, Argyll & Bute, Scotland. It was built on the site of an earlier building, known as Barmore, and has been in use as a hotel since 1950."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/199209353",
+ "name": "Jagdschloss Prillwitz",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 53.4532799,
+ "lng": 13.1406813,
+ "country": "DE",
+ "city": "Hohenzieritz",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "historic": "manor"
+ },
+ "wikidata": "Q1678371",
+ "wikidataDescription": null,
+ "website": "https://www.jagdschloss-prillwitz.de/",
+ "fetchedAt": "2026-10-17T05:45:52.243Z",
+ "pages": [
+  {
+   "url": "https://www.jagdschloss-prillwitz.de/",
+   "kind": "home",
+   "title": "Jagdschloss Prillwitz | Land- und Jagdgut",
+   "description": "",
+   "text": "Jagdschloss Prillwitz | Land- und Jagdgut\nHerzlich Willkommen auf Prillwitz!\nDas in unverbauter Natur gelegene historische Jadgschloss liegt in dem kleinen, idyllischen Dorf Prillwitz, umgeben vom Naturschutzgebiet Nonnenhof inmitten der Mecklenburgischen Seenplatte.\nIm Jagdschloss Prillwitz erleben Sie Ihren Aufenthalt in einem wunderbaren Zusammenspiel von Natur, Kultur und Historie.\nGenießen Sie den Sonnenaufgang über dem angrenzenden See, lauschen Sie den Vögeln oder begeben Sie sich mit unserem Revierjäger auf die Pirsch in unserem wunderschönen Jagdrevier.\nDas geschichtsträchtige Schloss wurde von 1886 bis 1888 von Großherzog Friedrich Wilhelm II. von Mecklenburg-Strelitz errichtet und nach einer wechselvollen Geschichte von 2012 bis 2014 umfassend und stilgerecht restauriert. Neben der Wiederherstellung des ursprünglichen Charmes des Jagdschlosses wurde ein besonderes Augenmerk auf die Rekonstruktion der Parkanlage gelegt, die in enger Zusammenarbeit mit den Denkmalbehörden nach historischem Vorbild durchgeführt wurde.\nJagdschloss Prillwitz bietet drei Suiten mit jeweils zwei Schlafzimmern sowie drei Doppelzimmer. Bei Bedarf können weitere Appartements in unmittelbarer Nachbarschaft zum Schloss angemietet werden.\nDas Schloss kann nur exklusiv und komplett angemietet werden. In dieser Zeit werden keine Zimmer an andere Gäste vermietet.\nDiese exklusive Nutzung bietet Ihnen den Rahmen, den Sie sich wünschen – sei es für eine Firmenfeier im kleinen Kreis, eine Tagung, Workshop oder Filmaufnahmen. Bitte haben Sie Verständnis dafür, dass sich das Jagdschloss Prillwitz nicht für Hochzeiten, Tanzveranstaltungen und Partys eignet.\nHochwertiges Wohnen auf dem Schloss\nIn unseren drei Suiten und unseren drei Doppelzimmern bieten wir Ihnen einen einzigartigen Aufenthalt.\nMehr Infos\nIndividuelle Events auf dem Schloss\nSie suchen einen Ort der Ruhe für Ihre Firmen-Tagung? Oder ein besonderes Ambiente für eine Präsentation?\nMehr Infos\nStilechte Filmaufnahmen auf dem Schloss\nFehlt Ihnen die passende Location für ein Foto- Shooting oder suchen Sie eine neue Kulisse für Filmaufnahmen?\nMehr Infos\nWochenende auf dem Schloss – mit Familie oder unter Freunden\nSie wollen ein stilvolles Ambiente, um im Familienkreis oder mit guten Freunden eine besondere Zeit zu verbringen, ob mit oder ohne Anlass. Neben dem Schloss selbst, dem See vor der Tür und der einzigartigen Umgebung, die zu wunderschönen Wanderungen und Radtouren einlädt, bieten wir Ihnen folgende Specials:\nKochkurse für Wildspezialitäten\nUnsere Köchin kann Ihnen alle Finessen der richtigen Zubereitung von Wildbret nahebringen.\nMax. Teilnehmeranzahl: 10\nGeführte Jagdausflüge\nmit unserem Jäger vor Ort, der Ihnen gerne die Schönheiten unseres Reviers zeigt.\nMax Teilnehmeranzahl: 10\nYOGA Kurse:\nTeilnehmeranzahl: 20. Dies entspricht zugleich der max. Anzahl von Übernachtungsmöglichkeiten direkt im Schloss."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Jagdschloss Prillwitz",
+  "url": "https://de.wikipedia.org/wiki/Jagdschloss_Prillwitz",
+  "extract": "Das Jagdschloss Prillwitz ist ein ehemaliges Jagdschloss der Großherzöge von Mecklenburg-Strelitz in Prillwitz in der Gemeinde Hohenzieritz im Landkreis Mecklenburgische Seenplatte in Mecklenburg-Vorpommern. Das Schloss aus der Epoche des Historismus steht am Ufer der Lieps und wird deshalb auch Liepser Schlösschen genannt."
+ },
+ "notes": [],
+ "finalUrl": "https://www.jagdschloss-prillwitz.de/",
+ "httpStatus": 200,
+ "htmlLang": "de-DE"
+}
