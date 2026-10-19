@@ -1,0 +1,54 @@
+[
+ {
+  "id": "osm:node/901089545",
+  "is_lodging": true,
+  "operating_status": "unknown",
+  "category": "safari-lodges",
+  "also_fits": [],
+  "niche_scope": "whole_property",
+  "niche_unit_count": null,
+  "niche_feature": "Safari bushcamp in Kafue National Park offering game drives and predator sightings",
+  "category_quote": "Nanzhila Lake Camp and Nanzhila Plains Camp are two safari lodges located in the Kafue National Park offering unforgettable predator sightings & personalised hospitality.",
+  "confidence": 0.9,
+  "red_flags": [],
+  "other_niche_type": null,
+  "official_name": "Nanzhila Plains Camp",
+  "property_type": "camp",
+  "address": null,
+  "room_count": null,
+  "amenities": [
+    {
+      "text": "Game drives",
+      "quote": "Currently, the 24 hour mammal species count record at Plains Camp is 27 different mammal species across 2 game drives"
+    },
+    {
+      "text": "Boating and fishing on the lake (water levels permitting)",
+      "quote": "Occasional boating and fishing on the lake, water levels permitting"
+    }
+  ],
+  "highlights": [
+    {
+      "text": "Consistent predator sightings, including lion, leopard, cheetah and African wild dog",
+      "quote": "guests enjoy consistent and exclusive sightings of lion, leopard, cheetah, and the endangered African wild dog"
+    },
+    {
+      "text": "Wide variety of wildlife and bird species",
+      "quote": "Wide variety of wildlife and bird species"
+    },
+    {
+      "text": "Remote wilderness with few other vehicles or guests",
+      "quote": "Miles of genuinely remote wilderness, with almost no other vehicles or guests around"
+    }
+  ],
+  "season": null,
+  "check_in": null,
+  "check_out": null,
+  "access": {
+    "text": "Airport pickup and road transfer to camp (5-6 hours from Lusaka or Livingstone)",
+    "quote": "We will collect you from the airport and drive you to camp."
+  },
+  "audience": "unknown",
+  "best_for": [],
+  "reason": "Site describes Nanzhila Plains Camp as a safari lodge in Kafue National Park with game drives and predator sightings, so the safari-lodge category fits the whole property."
+ }
+]

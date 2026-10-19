@@ -1,0 +1,49 @@
+[
+  {
+    "id": "osm:node/4059003534",
+    "is_lodging": true,
+    "operating_status": "unknown",
+    "category": null,
+    "also_fits": [],
+    "niche_scope": "unclear",
+    "niche_unit_count": null,
+    "niche_feature": null,
+    "category_quote": null,
+    "confidence": 0.3,
+    "red_flags": [],
+    "other_niche_type": null,
+    "official_name": "The Six Foot Track Eco Lodge",
+    "property_type": "lodge",
+    "address": null,
+    "room_count": {
+      "value": 2,
+      "quote": "The lodge provides accommodation for up to 28 guests in the two cabins."
+    },
+    "amenities": [
+      {
+        "text": "Fully equipped outdoor kitchen",
+        "quote": "You can use the fully equipped outdoor kitchen"
+      },
+      {
+        "text": "Meals ordered from the lodge",
+        "quote": "order your meals with us"
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Located on the Coxs River along the Six Foot Track",
+        "quote": "located on the Coxs River along the well-known historic Six Foot Track"
+      }
+    ],
+    "season": null,
+    "check_in": null,
+    "check_out": null,
+    "access": {
+      "text": "Overnight stay for hikers on the Six Foot Track",
+      "quote": "Whether you are hiking & staying overnight"
+    },
+    "audience": "unknown",
+    "best_for": ["hikers"],
+    "reason": "Evidence describes a bush eco lodge with two cabins on a hiking track, with no rainforest, cave, tree, water or other niche feature stated, so the queued jungle-lodges label does not fit."
+  }
+]
