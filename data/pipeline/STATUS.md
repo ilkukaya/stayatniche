@@ -1,20 +1,20 @@
 # Hotel pipeline status
 
-Updated 2026-10-20T06:13:22.251Z. Published hotels on site: 195.
+Updated 2026-10-21T06:15:24.164Z. Published hotels on site: 195.
 
 | Category | new | verified | weak | classified | approved | rejected | duplicate | published |
 |---|---|---|---|---|---|---|---|---|
-| treehouse-hotels | 0 | 12 | 231 | 19 | 0 | 168 | 8 | 3 |
-| cave-hotels | 0 | 9 | 640 | 18 | 0 | 70 | 12 | 20 |
+| treehouse-hotels | 0 | 11 | 231 | 19 | 0 | 169 | 8 | 3 |
+| cave-hotels | 0 | 7 | 627 | 19 | 0 | 84 | 12 | 20 |
 | underwater-rooms | 0 | 0 | 10 | 0 | 0 | 1 | 2 | 0 |
-| castle-hotels | 0 | 116 | 821 | 138 | 11 | 514 | 19 | 45 |
+| castle-hotels | 0 | 83 | 803 | 169 | 11 | 534 | 19 | 45 |
 | floating-hotels | 0 | 5 | 100 | 0 | 0 | 5 | 1 | 4 |
-| bubble-hotels | 0 | 0 | 296 | 8 | 0 | 269 | 2 | 1 |
-| cliffside-hotels | 0 | 5 | 436 | 10 | 0 | 79 | 4 | 2 |
-| desert-camps | 0 | 15 | 253 | 7 | 0 | 25 | 4 | 2 |
-| jungle-lodges | 0 | 29 | 922 | 42 | 0 | 59 | 5 | 3 |
+| bubble-hotels | 0 | 0 | 278 | 9 | 0 | 284 | 4 | 1 |
+| cliffside-hotels | 0 | 4 | 421 | 12 | 0 | 93 | 4 | 2 |
+| desert-camps | 0 | 14 | 253 | 8 | 0 | 25 | 4 | 2 |
+| jungle-lodges | 0 | 23 | 919 | 46 | 0 | 64 | 5 | 3 |
 | ice-hotels | 0 | 1 | 112 | 4 | 1 | 57 | 13 | 2 |
-| safari-lodges | 0 | 41 | 915 | 104 | 0 | 50 | 17 | 2 |
+| safari-lodges | 0 | 33 | 911 | 108 | 0 | 56 | 19 | 2 |
 | overwater-bungalows | 0 | 0 | 55 | 0 | 0 | 0 | 21 | 3 |
-| lighthouse-hotels | 0 | 4 | 492 | 12 | 0 | 476 | 4 | 3 |
-| train-hotels | 0 | 21 | 528 | 16 | 0 | 73 | 31 | 1 |
+| lighthouse-hotels | 0 | 0 | 477 | 16 | 0 | 490 | 5 | 3 |
+| train-hotels | 0 | 18 | 525 | 18 | 0 | 79 | 31 | 1 |
