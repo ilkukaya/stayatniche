@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/93816535",
+ "name": "Bullerbü",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": 53.7699408,
+ "lng": 7.6908578,
+ "country": "DE",
+ "city": "Spiekeroog",
+ "region": null,
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.bullerbue-spiekeroog.de/",
+ "fetchedAt": "2026-10-23T06:11:00.664Z",
+ "pages": [
+  {
+   "url": "https://www.bullerbue-spiekeroog.de/",
+   "kind": "home",
+   "title": "bullerbue-spiekeroog.de",
+   "description": "",
+   "text": "bullerbue-spiekeroog.de\nHOME\nBOSSE\nVirtuelle 360° Ansichten - Bosse\nLASSE\nVirtuelle 360° Ansicht - Lasse\nOLE\nVirtuelle 360° Ansicht - Ole\nNORDHOF\nVirtuelle 360° Ansicht - Nordhof\nREISERÜCKTRITT\nKONTAKT\nHOME\nBOSSE\nLASSE\nOLE\nNORDHOF\nREISERÜCKTRITT\nKONTAKT\nHerzlich willkommen auf Bullerbü!\nDas Haus Bullerbü liegt ruhig am westlichen Dorfrand und grenzt mit dem eigenen ca. 1.000 qm großen Garten hinter dem Haus direkt und uneinsehbar an den Waldrand des ruhig gelegenen Kurparks. Die Ortsmitte mit ihren Läden, Kaffees und Restaurants ist in wenigen Fußminuten erreichbar. Zum Hafen sind es ca. 5 Fußminuten. Den Hauptstrand erreicht man in 15 Minuten.\nDas 2017 neu erbaute Anwesen bietet vier helle, lichtdurchflutete Ferienwohnungen unterschiedlicher Größe, nach höchsten Qualitätsstandards gebaut und äußerst hochwertig eingerichtet.\nIm Haupthaus, dem „Südhof“ befinden sich die Wohnungen „Bosse“ (bis 4 Personen), „Lasse“ (bis 4 Personen) und „Ole“ (bis 3 Personen).\nIm nördlichen Anbau befindet sich die exclusive ca. 125 qm große Wohnung „Nordhof“ über zwei Etagen mit einem eigenen großen „idyllischen Garten“ und zwei möblierten Terrassen zur alleinigen Nutzung.\nHinter dem Wohngebäude steht der im nostalgischen Stil renovierte ehemalige Stall. Er bietet großzügige Abstellflächen für Kinderwagen, Spielsachen etc.\nJede Wohnung verfügt ferner über einen eigenen kostenlos nutzbaren Bollerwagen.\nDie mit erstklassigen Gartenmöbeln ausgestatteten Terrassen im hinteren Garten sind den Wohnungen „Bosse“ und „Ole“ zugeordnet. Die Wohnung „Ole“ hat darüber hinaus einen herrlichen Ost-Balkon - ebenfalls möbliert.\n„Lasse“ verfügt über einen eigenen kleinen Garten nebst eigener möblierter Terrasse.\nWaschmaschinen und Wäschetrockner befinden sich für alle Wohnungen im separaten hauseigenen Waschkeller zur kostenlosen Nutzung.\nBOSSE\nErdgeschosswohnung ca. 60 qm\nEINSICHT\nLASSE\nErdgeschosswohnung\nEINSICHT\nNordhof\nErdgeschosswohnung\nEINSICHT\nOle\nObergeschosswohnung\nEINSICHT\nUs Nordsee Immobilien\nTel.: +49 173 21 909 82\nMail: info@us-nordsee.de\nwww.us-spiekeroog.de\nImpressum\nDatenschutzerklärung"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.bullerbue-spiekeroog.de/",
+ "httpStatus": 200,
+ "htmlLang": "en_us"
+}

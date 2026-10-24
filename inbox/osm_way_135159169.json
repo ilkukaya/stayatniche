@@ -1,0 +1,53 @@
+{
+ "id": "osm:way/135159169",
+ "name": "Botel Vodník",
+ "queueStatus": "weak",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 50.0629548,
+ "lng": 14.4114508,
+ "country": "Czechia",
+ "city": "Prague",
+ "region": null,
+ "osm": {
+  "tourism": "motel",
+  "stars": "2"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.botel.cz",
+ "fetchedAt": "2026-10-23T06:10:34.973Z",
+ "pages": [
+  {
+   "url": "https://www.botelvodnik.cz/cs/",
+   "kind": "home",
+   "title": "Botel Vodník Praha: Užijte si pobyt na lodi se snídaní",
+   "description": "Botel Vodník Praha: Užijte si pobyt v srdci Prahy s výhledem na Vltavu. Rezervujte si ubytování na jedinečném botelu s restaurací a terasou! ",
+   "text": "Botel Vodník Praha: Užijte si pobyt na lodi se snídaní\nStylové ubytování na lodi s výhledem na Vyšehrad\nOnline rezervace\nKomfortně zařízené pokoje\nVyberte si pokoj pro Váš pobyt za skvělou cenu.\nPokoje\nRestaurace\nPoseďte na palubě se sklenkou vína při západu slunce.\nRestaurace\nSnídaně\nVynikajicí bufetová snídaně je součástí ceny ubytování\nPobytové balíčky\nVyrazte se svoji drahou polovičkou do romantické Prahy\nPobyty\nZjistit dostupnost:\nRezervovat\nBOTEL VODNÍK\nRomantika, zábava a posezení s výhledem nedaleko centra Prahy\nBotel Vodník byl původně postaven v roce 1971 jako nákladní loď na loděnici v německém Rostocku. Po mnoho let sloužil jako nákladní loď a byl provozován různými majiteli. V roce 1991 byl zakoupen a převeden do Prahy, kde byl přestavěn na hotelový botel.\nBěhem přestavby byly všechny kabiny přestavěny na moderní, pohodlné kajuty a apartmán s výhledem na řeku Vltavu.\nTerasa nabízí krásný výhled na Vyšehrad, který je přímo naproti botelu.\nBotel Vodník je jedním z nejstarších botelů v Praze a dodnes je velmi populární pro svou jedinečnost a umístění na řece. Je to oblíbené místo pro turisty, kteří hledají netradiční způsob ubytování v centru města.\nBotel kotví nedaleko historického centra Prahy - cca 3,5 km / 15 min. pěšky od Karlova mostu - na levém břehu Smíchovského přístavu, u konce ostrova Císařská louka. Nabízí ubytování ve 28 moderně zařízených pokojích (kajutách) s klimatizací a vlastním sociálním zázemím (sprchový kout, umyvadlo, WC) o celkové kapacitě 93 lůžek. Dále je součástí botelu restaurace a posezení na otevřené terase. Terasa je vhodná i pro pořádání akcí, svateb či jiných akcí.\nChci vědět víc\nKajuty Botelu Vodník jsou dvou až čtyřlůžkové. Všechny pokoje jsou nekuřácké a nabízí svým hostům maximální funkčnost a pohodlí. Botel disponuje i nadstandardními pokoji jako je pokoj Superior a Apartmán. Nadstandardní pokoj \"Apartmán\" Vás osloví svou velikostí, koupelnou s vanou, kávovarem a televizí. Recepce Botelu je hostům k dispozici 24 hodin denně. Na recepci je možné si zakoupit drobné občerstvení, hygienické potřeby, suvenýry, objednat taxi či se informovat o zajímavostech a kulturních akcích nejen v Praze.\nChci vědět víc\nPokoje\nDvoulůžkový pokoj s oddělenými postelemi\n10 m&sup2\n1\n1\n2\nDvoulůžkový pokoj\n10 m&sup2\n1\n1\n3\nDvoulůžkový pokoj s výhledem\n3\nČtyřlůžkový pokoj\n12 m&sup2\n1\n1\n4\nČtyřlůžkový pokoj s výhledem\n4\nApartmán\n21 m&sup2\n1\n2\n3\nVšechny apartmány\nRecenze hostů\nVše bylo perfektní. Všude čisto a luxusní snídaně.\nJana Hajduchová\nThis was a wonderful experience for me, Wonderful staff, they are so friendly and helpful especially \"Thomas\" and Katherina, Room with georgous view . Very clean and comfortable. Thank you for this wonderful experience, i LL advice to all my friends this botel .. ☺️?\nEbru Gulec\nubytování, výhled, ochota p. recepční\nJana Haladová\nNa nic si nehraje. Pěkně se tu spinká.\nRobert Novacek\nJe to romantické ubytovanie na lodičke s pekným výhľadom na Vyšehrad, žblnkajúcou vodou Vltavy,\nplávajúcimi rybičkami a lietajúcimi čajkami priamo na dosah rúk. Hotel je spojený s prírodou, čo umožňuje ubytovaným príjemný pobyt a pokojný odpočinok.\nPeter Kleštinec\nSpeciální nabídka\n© Copyright 2026 | Všechna práva vyhrazena"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "Hotel",
+   "name": "Botel Vodník ",
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Praha",
+    "addressRegion": "Česká republika",
+    "postalCode": "15000",
+    "streetAddress": "Strakonická 948/1"
+   },
+   "telephone": "+420 722 991 351",
+   "checkinTime": "14:00:00",
+   "checkoutTime": "10:00:00",
+   "url": "https://www.botelvodnik.cz"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.botelvodnik.cz/cs/",
+ "httpStatus": 200,
+ "htmlLang": "cs"
+}

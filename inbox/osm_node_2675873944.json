@@ -1,0 +1,50 @@
+{
+ "id": "osm:node/2675873944",
+ "name": "Montezuma Ecolodge",
+ "queueStatus": "verified",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 5.2303346,
+ "lng": -76.0836081,
+ "country": "Colombia",
+ "city": "Pueblo Rico",
+ "region": "Risaralda",
+ "osm": {
+  "tourism": "hostel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://montezumarainforest.com/",
+ "fetchedAt": "2026-10-18T06:06:27.982Z",
+ "pages": [
+  {
+   "url": "https://montezumarainforest.com/",
+   "kind": "home",
+   "title": "Montezuma Rainforest Lodge - Birdwatching, Butterflies &amp; Botany",
+   "description": "Montezuma Rainforest Lodge is the hotspot for nature lovers interested in birdwatching, butterflies, botany or just nature in general.",
+   "text": "Montezuma Rainforest Lodge - Birdwatching, Butterflies & Botany\nSkip to content\nAt Montezuma, birders, butterfly enthusiasts, orchid lovers and zoologists and botanists of all sorts come from around the world to explore the amazing abundance of life in a pristine natural rainforest ecosystem located in one of the planet’s top biodiversity hotspots.\nCome to Montezuma and enjoy comfortable lodging, delicious home-cooked meals, and expert nature guiding while you marvel at the beauty and magnificence of one of Colombia’s great natural treasures; Tatamá."
+  },
+  {
+   "url": "https://montezumarainforest.com/index.php/ecolodge/",
+   "kind": "sub",
+   "label": "Ecolodge",
+   "title": "Ecolodge - Montezuma Rainforest",
+   "text": "Ecolodge - Montezuma Rainforest\nSkip to content\nMontezuma Ecolodge is operated by the Tapasco family, headed by Michelle Tapasco. The lodge offers 12 rooms with comfortable beds (3 triples, 6 doubles, 3 king bed only), bathrooms, hot showers and electricity. The kitchen at the main lodge offers up delicious home-cooked meals based on typical Colombian cuisine, and can accommodate dietary preferences (vegetarian, gluten-free, etc.) upon request with advance notice.\nThe lodge is situated on the Tapascos’ 400 hectare property, a mix of farmland and forest. Bird feeders, flowers and fruit trees surround the lodge, attracting a beautiful array of hummingbirds, tanagers, honeycreepers, euphonias and many others daily."
+  },
+  {
+   "url": "https://montezumarainforest.com/index.php/about/",
+   "kind": "sub",
+   "label": "Tatamá and Montezuma Road",
+   "title": "Tatamá National Natural Park and Montezuma Road - Montezuma Rainforest",
+   "text": "Tatamá National Natural Park and Montezuma Road - Montezuma Rainforest\nSkip to content\nColombia s Tatamá National Natural Park is located on the borders of the departments of Risaralda, Chocó and Valle del Cauca, within the Chocó bioregion, one of the world’s most biodiverse regions. The park encompasses 51,900 hectares of primary west-Andean tropical and subtropical rainforest, temperate cloud forest and páramo habitat, and is a source of water to rivers in all directions. It is home to over 550 species of birds, 450 species of orchids and 700 species of butterflies. The biodiversity across other taxa is equally impressive. Many Colombian endemic and near-endemic species are found here.\nThe only road access to the park is via Montezuma Road, which starts near the town of Pueblo Rico and winds up Cerro Montezuma to a military base at its summit (2600 meters above sea level). The Montezuma Ecolodge property (1350 meters) sits at the entrance to the park, 13km from the summit, and so is perfectly situated to be your home base while you explore the park."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://montezumarainforest.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

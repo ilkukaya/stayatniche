@@ -1,0 +1,52 @@
+{
+ "id": "osm:node/1374488190",
+ "name": "Salastrains",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 46.4993433,
+ "lng": 9.8276692,
+ "country": "Switzerland",
+ "city": "St. Moritz",
+ "region": "Grisons",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": "Q112013983",
+ "wikidataDescription": "hotel in St. Moritz Samedan, Switzerland",
+ "website": "https://www.salastrains.ch/",
+ "fetchedAt": "2026-10-24T06:03:20.550Z",
+ "pages": [
+  {
+   "url": "https://www.salastrains.ch/",
+   "kind": "home",
+   "title": "Salastrains | SALASTRAINS-NEU",
+   "description": "",
+   "text": "-->\nSalastrains | SALASTRAINS-NEU\ntop of page\nCLOSED UNTIL\nDECEMBER 2026\nDUE TO CONSTRUCTION\nA NEW CHAPTER STARTED\n... but it's\nstill us!\nContact\nVia Salastrains 12\nCH - 7500 St.Moritz\nE-Mail-Adresse: info@salastrains.ch\nTel: +41 81 830 07 07\nReserve your table!\nVorname\nNachname\nE-Mail\nNachricht\nThanks for contacting, we will get back to you soon!\nAbsenden\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "www.salastrains.ch",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "CH",
+    "addressLocality": "Sankt Moritz",
+    "addressRegion": "GR",
+    "postalCode": "7500",
+    "streetAddress": "12 Via Salastrains"
+   },
+   "telephone": "+41818300707",
+   "url": "https://www.salastrains.ch"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.salastrains.ch/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

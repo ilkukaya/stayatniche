@@ -1,0 +1,40 @@
+{
+ "id": "osm:node/3982527546",
+ "name": "Tiki Villas Rainforest Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 9.2030832,
+ "lng": -83.7825989,
+ "country": "Costa Rica",
+ "city": "Osa",
+ "region": "Puntarenas Province",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.tikivillas.com/",
+ "fetchedAt": "2026-10-14T06:17:04.144Z",
+ "pages": [
+  {
+   "url": "https://www.tikivillas.com/",
+   "kind": "home",
+   "title": "Tiki Villas",
+   "description": "",
+   "text": "Tiki Villas\n0\nLuxury Villas in the Heart of Costa Rica’s Southern Pacific\nDiscover a boutique adults-only sanctuary (ages 16+) where jungle, ocean, and mindful living meet.\nWelcome to the newly reimagined Tiki Villas, an intimate retreat overlooking Costa Rica’s Pacific coast, designed exclusively for guests ages 16 and up. Nestled between rainforest and ocean, our villas blend contemporary design with the rhythms of nature. Whether you’re seeking relaxation, rejuvenation, or adventure, Tiki Villas offers the perfect balance of privacy, comfort, and connection to the wild beauty of Costa Rica.\nOur collection of private villas has been thoughtfully designed with a modern tropical aesthetic and luxurious touches. Each villa offers:\nPanoramic views of the jungle and ocean\nSpacious layouts with king beds and private terraces\nElegant bathrooms inspired by natural elements\nFind your sanctuary, whether it’s waking to the sounds of the rainforest or watching the sun set over the Pacific from your balcony.\nView fullsize\nAccommodations\nExecutive Suite\nElevated luxury with sweeping ocean and jungle views, the Executive King Suite offers a spacious retreat with a private terrace and refined tropical design.\nView fullsize\nPremium King Villa\nA serene hideaway featuring a king bed, open-air living, and modern comforts, with direct connection to the sights and sounds of the rainforest.\nView fullsize\nPremium Double Villa\nIdeal for friends or family, the Premium Double Villa offers two plush double beds, a private terrace, and generous space to unwind in nature.\nView fullsize\nAccessible Queen Villa\nThoughtfully designed for comfort and accessibility, this villa features a queen bed, elegant finishes, and step-free access to the best of Tiki Villas.\nDining & Bar\nEnjoy fresh, nourishing dishes and handcrafted drinks surrounded by the rainforest, with the Pacific horizon as your backdrop.\nVibrant Costa Rican flavors\nCreative wellness-inspired cuisine\nSeasonal, locally sourced ingredients\nSignature cocktails and fine wines\nTiki Villas is perched above golden beaches of Playa Hermosa, between Uvita and Dominical. Our region known for its natural beauty and vibrant wildlife. Explore:\nWhale’s Tail at Marino Ballena National Park\nWaterfalls and hidden jungle trails\nSurf breaks, snorkeling, and kayaking adventures\nA stay at Tiki Villas offers the perfect base to experience Costa Rica’s untouched Southern Pacific coast — from Dominical and Uvita to Ojochal, home to acclaimed dining and boutique stays such as Hotel Three Sixty\nSurroundings\nPlan your journey\nTiki Villas is a beautiful location where you can hear the sounds of the jungle while hearing the crashes of the waves at the same time. Our experience there was magical.\n- Sean K.\nWow, what a special spot, a little piece of paradise. The views from the infinity edge pool were incredible. Toucans and other birds flying by made my mornings beautiful.\n- Jesse H.\n5 out of 5 rating . We hosted our company's executive retreat at Tiki Villas and it was amazing. The staff service and accommodations were perfect.\n- Philip R.\nTiki Villas was the best place we stayed in Costa Rica. It was up in the trees and we saw lots of wild life including monkeys from the villas. It had the pool, dining area and lounge all together in one central area so it was very convenient, the perfect size for our group!\n- Jackie B.\nYour Sanctuary Awaits\nEscape to Tiki Villas, where luxury, wellness, and nature flow together in harmony.\nReserve Your Villa Now\nLocation\nPlaya Hermosa\nPuntarenas, Costa Rica\nEmail:\ninfo@tikivillas.com\nWhatsApp: +506 8328 7676\nTelephone: +506 4070-9207\nFollow Us On Social\nLooking for an even more elevated experience nearby?\nJust south in Ojochal, Hotel Three Sixty offers panoramic ocean views, private villas, refined dining, and a more secluded boutique luxury atmosphere.\nDiscover Our\nSister Property\nExplore Hotel Three Sixty"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.tikivillas.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

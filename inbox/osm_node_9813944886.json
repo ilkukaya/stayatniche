@@ -1,0 +1,50 @@
+{
+ "id": "osm:node/9813944886",
+ "name": "Harties is Africa safari lodge",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -25.7584488,
+ "lng": 27.7728581,
+ "country": "South Africa",
+ "city": "Madibeng Local Municipality",
+ "region": "North West",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://hartiesisafrica.co.za/",
+ "fetchedAt": "2026-10-10T07:38:26.494Z",
+ "pages": [
+  {
+   "url": "https://hartiesisafrica.co.za/",
+   "kind": "home",
+   "title": "Harties is Africa Safari Lodge &amp; Function Venue | Harties is Africa Safari Lodge &amp; Function Venue",
+   "description": "",
+   "text": "Harties is Africa Safari Lodge & Function Venue | Harties is Africa Safari Lodge & Function Venue\n+27 (0) 76 724 8952\nreservations@hartiesisafrica.co.za\nFacebook\nFacebook\nWelcome to Harties is Africa\nLocated on the banks of the Magalies River and shadowed by the Magestic Magaliesberg Mountains our 5 Luxury Safari Tents and 2 Luxury Caravans and Rooms are hidden amongst a canopy of indigenous trees overlooking the savanna grasslands\nLuxury Tents & Caravans\nThe property offers an experience close to Johannesburg and Pretoria in the beautiful African bushveld, open grassland and riverine vegetation, streams flowing from the mountain that flows into the Hartbeespoort dam.\nMore Info\nLodge\nNestled in the foothills of the Magalies Mountain our lodge offers affordable self catering accommodation ideal for friend and family groups looking for a weekend getaway surrounded by peace and tranquility.\nMore Info\nConferencing & Functions\nThe property offers an array of conferencing and function setups. We can cater for up to 150 guests at a time with lunch venues available on the River Reed Boma set in nature with a view of the beautiful bushveld.\nMore Info\nWeddings\nThis natural setting and tranquil environment, on the banks of the Magalies river, makes Harties is Africa the ideal setting to embrace your love for one another and exchange your vows.\nMore Info\nBush Spa\nTreat yourself for a visit unforgettable bush spa and leave feeling relaxed, refreshed and invigorated. Pre-book your treatment to ensure that you are not disappointed on the day.\nMore Info\nActivities\nHarties is Africa offers various on-site activities to ensure that your weekend is fun-filled, memorable and unforgettable. Choose from picnics, nature drives, hiking or a boat cruise\nMore Info"
+  },
+  {
+   "url": "https://hartiesisafrica.co.za/luxury-tents-caravans/",
+   "kind": "sub",
+   "label": "Luxury Tents &#038; Caravans",
+   "title": "Luxury Tents &#038; Caravans | Harties is Africa Safari Lodge &amp; Function Venue",
+   "text": "Luxury Tents Caravans | Harties is Africa Safari Lodge & Function Venue\n+27 (0) 76 724 8952\nreservations@hartiesisafrica.co.za\nFacebook\nFacebook\nLuxury Tents & Caravans\nLocated on the banks of the Magalies River and shadowed by the Magestic Magaliesberg Mountains our 5 Luxury Safari Tents and 2 Luxury Caravans are hidden amongst a canopy of indigenous trees overlooking the savanna grasslands\nRelax & Unwind\nThe property offers an experience Close to the City but Out of this World with dense African bush, open grassland and riverine vegetation, streams flowing from the mountain that flows into the Hartbeespoort dam. Game includes Giraffe, Nyala, Impala (Black), Springbok (White), Blesbuck, Bush buck, Wildebeest as well as duiker, porcupine and nocturnal species such as lesser bush baby. Experience the prolific birdlife the property has to offer. A bird list is available in each tent and the call of Africa is no doubt the finest call you could experience is that of the Fish Eagles that frequent the open water to catch their prey. Our river reed boma and lapa is exclusively reserved for our guests where one can enjoy an African braai whilst indulging in your favorite beverage experiencing magnificent sunsets and the sounds of Africa.\nEach tent encompasses of the following\nQueen size extra length bed\nPrivate en-suite bathroom\nFresh linen\nComfortable high back chairs\nCoffee table\nBedside lamps\nExterior mini kitchen (bar fridge, toaster, kettle)\nGas skottel\nCutlery and crockery\nExterior benches\nElectricity\nAdditional services available on request:\nHouse keeping R50 per day\nPicnic baskets from R550\nMini bar refreshments (if required please send through requirements)\nCharcoal/firewood\nTransport shuttle\nBoat cruises\nBush Spa (Massages & Pamper Treatments)\nNo pets allowed\nNo TV s in tents or caravans\nView our gallery"
+  },
+  {
+   "url": "https://hartiesisafrica.co.za/lodge/",
+   "kind": "sub",
+   "label": "Lodge",
+   "title": "Lodge | Harties is Africa Safari Lodge &amp; Function Venue",
+   "text": "Lodge | Harties is Africa Safari Lodge & Function Venue\n+27 (0) 76 724 8952\nreservations@hartiesisafrica.co.za\nFacebook\nFacebook\nLodge\nNestled in the foothills of the Magalies Mountain our lodge offers affordable self catering accommodation ideal for friend and family groups\nRelax & Unwind\nThe property offers an experience Close to the City but Out of this World with dense African bush, open grassland and riverine vegetation, streams flowing from the mountain that flows into the Hartbeespoort dam. Game includes Giraffe, Nyala, Impala (Black), Springbok (White), Blesbuck, Bush buck, Wildebeest as well as duiker, porcupine and nocturnal species such as lesser bush baby. Experience the prolific birdlife the property has to offer. A bird list is available in each tent and the call of Africa is no doubt the finest call you could experience is that of the Fish Eagles that frequent the open water to catch their prey. Our river reed boma and lapa is exclusively reserved for our guests where one can enjoy an African braai whilst indulging in your favorite beverage experiencing magnificent sunsets and the sounds of Africa.\nFacilities\nLadies and gent ablutions\nLounge\nBraai facility\nNo TV’s available\nSplash pool\nGame on the property\nTranquil walks on the property\nNo pets allowed\nView our gallery"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://hartiesisafrica.co.za/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

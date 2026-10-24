@@ -1,0 +1,42 @@
+{
+ "id": "osm:node/10827295835",
+ "name": "The Safari Series",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 0.1352534,
+ "lng": 37.1194266,
+ "country": "Kenya",
+ "city": "Laikipia",
+ "region": "Laikipia County",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://safari-series.com",
+ "fetchedAt": "2026-10-11T07:38:22.740Z",
+ "pages": [
+  {
+   "url": "https://safari-series.com/",
+   "kind": "home",
+   "title": "Kenya Safari Camp &amp; Beach House | Lolldaiga Hills, Mt. Kenya &amp; Lamu | The Safari Series",
+   "description": "Owner-managed tented camp in the Lolldaiga Hills conservancy, Laikipia, and a private beach house on Kizingoni Beach, Lamu Island. Lion, leopard, cheetah, elephant, Grevy",
+   "text": "Kenya Safari Camp & Beach House | Lolldaiga Hills, Mt. Kenya & Lamu | The Safari Series\n0\nThe Safari Series is a collection of small, family-owned, conservation-focused properties in Kenya - Moon's Camp in Lolldaiga Hills conservancy in Laikipia, Chuchungi House, a private beach house, on Lamu Island. A third property, Ontulili Camp, a walking camp on the slopes of Mt. Kenya, is coming soon.\nWe are passion about showing our guests the best of these incredible natural landscapes, while welcoming you as friends, to our home….\nmoon’s camp, lolldaiga hills\nchuchungi house, lamu\nOntulili Forest Camp - coming soon!\nAfrican Private Guides Network"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "The Safari Series",
+   "address": "mathagiro town, Laikipia County, \nKenya"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://safari-series.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

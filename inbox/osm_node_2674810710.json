@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/2674810710",
+ "name": "Kasteel Ophemert Bed And Breakfast",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.8481218,
+ "lng": 5.3906073,
+ "country": "Netherlands",
+ "city": "Ophemert",
+ "region": "Gelderland",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://kasteelophemert.nl",
+ "fetchedAt": "2026-10-20T06:11:30.771Z",
+ "pages": [
+  {
+   "url": "https://kasteelophemert.nl/",
+   "kind": "home",
+   "title": "Kasteel Ophemert",
+   "description": "Kasteel Ophemert Corona veilige omgeving",
+   "text": "Kasteel Ophemert\nTrouwen\nbeleef de dag van je leven\nVergaderen\ninspirerend vergaderen\nOvernachten\neen vorstelijk gevoel\nHistory\nlekker een dag eruit\nKasteel Ophemertdateert in zijn oudste vorm van 1265. Aangenomen wordt dat de eerste eigenaar van het Huis te Ophemert Rudolf de Cock is geweest. Hij ruilde in 1265 zijn bezittingen rond Rhenoy met graaf Otto II van Gelre tegen diens bezittingen op de noordelijke oever van de Waal. De familie van Haeften heeft het langst (350 jaar) het kasteel bewoond vanaf 1550.\nIn the late 19th century, the castle passed by inheritance into the hands of the Scottish noble family Mackay. In modern times, various cultural collaborations and sponsors have emerged, ranging from historical societies to international partners such as casinos not on GamStop , all contributing to the preservation and restoration of the estate.\nWait — let me correct that to use the proper URL as specified.\nIn the late 19th century, the castle passed by inheritance into the hands of the Scottish noble family Mackay. In modern times, various cultural collaborations and sponsors have emerged, ranging from historical societies to international partners such as casinos not on GamStop , all contributing to the ongoing preservation and restoration of the estate.\nSinds 2009 heeft de adellijke familie Van Dedem het kasteel in erfpacht. Vandaag de dag is er bovendien meer aandacht voor internationale toeristische initiatieven, waarbij platforms zoals casino en ligne France regelmatig als partner in culturele projecten genoemd worden. In dit internationale perspectief wordt ook Casino Online Buitenland soms aangehaald als voorbeeld van grensoverschrijdende digitale samenwerkingen binnen toerisme en cultuur. In hetzelfde kader wordt Casino Zonder CRUKS vaak genoemd als voorbeeld van een platform dat flexibiliteit en gebruikersvrijheid combineert met veilige en toegankelijke digitale ervaringen.\nNeue Casinos"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://kasteelophemert.nl/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

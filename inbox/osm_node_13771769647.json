@@ -1,0 +1,50 @@
+{
+ "id": "osm:node/13771769647",
+ "name": "Fyrgaarden",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": 56.7360039,
+ "lng": 11.650553,
+ "country": "Denmark",
+ "city": "Central Denmark Region",
+ "region": "Central Denmark Region",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.fyrgarden.com",
+ "fetchedAt": "2026-10-21T06:13:48.639Z",
+ "pages": [
+  {
+   "url": "https://www.fyrgarden.com/",
+   "kind": "home",
+   "title": "AnholtFyrgard",
+   "description": "",
+   "text": "AnholtFyrgard\nWelcome to Fyrgaarden at the eastern tip of the island of Anholt, right next to the old light house. We offer accommodation and an artist residency. Request Booking →\nBuilt in 1826 as the home of the lighthouse keeper and his family. For nearly two centuries, the house has stood quietly in the shadow of the lighthouse, watching the seasons turn over the dunes.\nRead more →"
+  },
+  {
+   "url": "https://www.fyrgarden.com/stay/",
+   "kind": "sub",
+   "label": "Stay",
+   "title": "AnholtFyrgard",
+   "text": "AnholtFyrgard Booking for high season opens on 1st of March. Inquiries for the rest of year can be submitted at any time.\nFyrgaarden is located close to the lighthouse, at the eastern tip of the Island of Anholt. Here you will find yourself surrounded by turquoise water and sand dunes.\nFyrgaarden was built in 1826, and not much has changed since then. Fridges and stoves run on gas, and water is pumped by hand from the well in the middle of the courtyard, and there’s also one pump in every apartment.\nRooms are filled with daylight, and when the sun goes down oil lamps are used for lighting, since there is no electricity. Toilets are located in the outhouse.\nThe house consists of three separate apartments, each equipped with a kitchen and multiple bedrooms. You can rent the whole house or just one of the apartments.\nTo get to the house, the easiest way is to drive along the beach and towards the lighthouse. We have a suitable car for driving on the beach which you can rent during your stay.\nStaying at Fyrgaarden is very peaceful and quiet. The house is surrounded by nature and no neighbours ahead. It’s the perfect get away from an otherwise connected everyday life. It’s a simple life when staying at Fyrgaarden, but also a lot to think about if you’ve never been there before. When booking you will receive a guide with practical information to ensure you have the best stay possible.\n25th of June\n—\n13th of August\nPrices / Week\nApartment 1, max. 15 people\n15 000 dkk\nApartment 2, max. 7 people\n7 000 dkk\nApartment 3, max. 7 people\n7 000 dkk\nRest of the year\nPrices / Day\nApartment 1, max. 15 people\n1 200 dkk\nApartment 2, max. 7 people\n800 dkk\nApartment 3, max. 7 people\n800 dkk\nBooking Request"
+  },
+  {
+   "url": "https://www.fyrgarden.com/history/",
+   "kind": "sub",
+   "label": "History",
+   "title": "AnholtFyrgard",
+   "text": "AnholtFyrgard Our History\nFyrgaarden is located on the Island of Anholt, in the middle of the Kattegat Sea. On the island’s western shore, the famous lighthouse rises over 40 metres above the sea. Once upon a time Fyrgaarden was home to the lighthouse keeper and his family. The Arén family came to Fyrgaarden in the late 60s — since then they have spent all their summers there.\nThe house, with its unique interior and location, have always been a place where people gather and socialize across generational boundaries. The essence of daily life at Fyrgaarden consists as much of community as privacy — eat together in the beautiful garden, or enjoy a moment of solitude in the desert or by the sea.\nMany of our guests experience a rare form of peace, quiet and revival after visiting Fyrgaarden, and a unique opportunity to gain a perspective on life.\nThe house itself was built in the early 17th century, and consists of three ’apartments’ with access to a kitchen, dining room and a varying number of bedrooms. It is possible to rent the whole house or one of the individual apartments.\nIn the middle of the yard stands a hand pump, which supplies the whole house with water."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.fyrgarden.com/",
+ "httpStatus": 200,
+ "htmlLang": "da"
+}

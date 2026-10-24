@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/3750242618",
+ "name": "Beaconstone Eco Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -41.863975,
+ "lng": 171.4932113,
+ "country": "New Zealand",
+ "city": "Buller District",
+ "region": "West Coast",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.beaconstoneecolodge.co.nz",
+ "fetchedAt": "2026-10-24T06:04:04.516Z",
+ "pages": [
+  {
+   "url": "https://www.beaconstoneecostay.com/",
+   "kind": "home",
+   "title": "COMING SOON!",
+   "description": "Site will be available soon. Thank you for your patience!",
+   "text": "COMING SOON!\nCOMING SOON!\nSite will be available soon. Thank you for your patience!\n© www.beaconstoneecostay.com 2026\nUser Login Lost Password"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.beaconstoneecostay.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

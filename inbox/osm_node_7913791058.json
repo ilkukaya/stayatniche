@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/7913791058",
+ "name": "Cueva Pura Vida",
+ "queueStatus": "verified",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 37.5762098,
+ "lng": -2.527542,
+ "country": "Spain",
+ "city": "Cúllar",
+ "region": "Andalusia",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.cuevapuravida.es",
+ "fetchedAt": "2026-10-14T06:15:18.464Z",
+ "pages": [
+  {
+   "url": "http://cuevapuravida.es/nl_nl/",
+   "kind": "home",
+   "title": "Cueva Pura Vida | Cuevas en el Altiplano de Granada - Cúllar - Pulpite",
+   "description": "",
+   "text": "Cueva Pura Vida | Cuevas en el Altiplano de Granada - Cúllar - Pulpite\nOntdek de Magie van Cueva Pura Vida\nGrotten in de Altiplano van Granada\nErvaar de unieke charme van onze grotwoningen, gelegen in het serene Pulpite, Cúllar Granada. Geniet van een constante temperatuur en een adembenemend landschap.\nEen Unieke Grotwoning Ervaring\nOnze grotwoningen bieden een constante temperatuur tussen 18°C en 20°C, waardoor het in de winter aangenaam warm en in de zomer heerlijk koel is. Gelegen in het rustige Pulpite, Cúllar Granada, bieden onze grotten een perfecte ontsnapping aan de drukte van het dagelijks leven.\nActiviteiten in de Natuur\nOntdek de vele activiteiten die mogelijk zijn in de prachtige omgeving van Pulpite.\n\nWandelen\n\nMountainbiken\n\nPaardrijden\n\nKano Paddle Kayak\n\nVissen\n\nBars Restaurants\nOntdek de Schoonheid van Pulpite\nFotogalerij van Pulpite\nBoek Uw Verblijf Nu\nklik Hier"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://cuevapuravida.es/nl_nl/",
+ "httpStatus": 200,
+ "htmlLang": "nl-NL"
+}

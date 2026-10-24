@@ -1,0 +1,35 @@
+{
+ "id": "osm:way/103592066",
+ "name": "Kasteel van Ordingen",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.8141169,
+ "lng": 5.2336149,
+ "country": "Belgium",
+ "city": "Sint-Truiden",
+ "region": "Limburg",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2430575",
+ "wikidataDescription": null,
+ "website": "https://nl.kasteelvanordingen.be/",
+ "fetchedAt": "2026-10-20T06:11:58.681Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "it",
+  "title": "Castello di Ordingen",
+  "url": "https://it.wikipedia.org/wiki/Castello_di_Ordingen",
+  "extract": "Il castello di Ordingen è uno storico edificio in stile neorinascimentale fiammingo della frazione belga di Ordingen, nella provincia Limburgo, realizzato nella forma attuale agli inizi del XIX secolo, ma le cui origini risalgono all'XI secolo."
+ },
+ "notes": [
+  "website fetch failed: 0 fetch failed"
+ ],
+ "finalUrl": "https://www.nl.kasteelvanordingen.be/",
+ "httpStatus": 0
+}

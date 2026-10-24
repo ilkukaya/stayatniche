@@ -1,0 +1,41 @@
+{
+ "id": "wd:Q124735972",
+ "name": "Bier el-Gabal Hotel and Desert Camping",
+ "queueStatus": "weak",
+ "queueCategory": "desert-camps",
+ "categories": [
+  "desert-camps"
+ ],
+ "lat": 25.739541,
+ "lng": 28.922166,
+ "country": "Egypt",
+ "city": "New Valley",
+ "region": "New Valley",
+ "osm": null,
+ "wikidata": "Q124735972",
+ "wikidataDescription": "hotel and campsite in Bir el-Gebel, Dakhla depression, Egypt",
+ "website": "http://www.dakhla-birgabal.com/",
+ "fetchedAt": "2026-10-24T06:03:02.222Z",
+ "pages": [
+  {
+   "url": "http://www.dakhla-birgabal.com/",
+   "kind": "home",
+   "title": "Bir el-Gabal Hotel and Desert Camping",
+   "description": "Bier el-Gabal Hotel and desert camping",
+   "text": "Bir el-Gabal Hotel and Desert Camping\nOase Dakhla\nHotel and Camp\nOur programme\n8 days programme\nHow to reach us\nContacts\nLanguage:\nWe located in the deep desert, very far away from megapolises, crowded places and traffics.\nDakhla is the oasis that lies furthest off the main settlements of Egypt.\nUnlike many other oases, it is situated above sea level, as high as 122 metres.\nBefore the road came here, Dakhla must have felt like a planet of its own, where only few inhabitants ever came as far as to the neighbouring oases Kharga and Farafra.\nThe main towns are Mut and El-Qasr, the latter the main attraction in the entire oasis.\nIf you have time, the old town of Mut is also interesting.\nDakhla has been inhabited for millenniums, and of old sights, the Muzawaka tombs and Deir al-Hagar temple are the main attractions.\nAt Balat, not far from Bashendi, tombs from the 3rd millennium BCE have been found, but generally the funerary complex is open to visitors."
+  },
+  {
+   "url": "http://www.dakhla-birgabal.com/gallery.html",
+   "kind": "sub",
+   "label": "Hotel and Camp",
+   "title": "Bier el-Gabal Hotel and desert camping",
+   "text": "Bier el-Gabal Hotel and desert camping\nOase Dakhla\nHotel and Camp\nOur programme\n8 days programme\nHow to reach us\nContacts\nOur cosy Beir El-Gabal Tourist Camp is situated at the periphery of\nancient palm orchards some 5 kilometres from El-Qasr, embedded in one\nof Egypt's most diverse and beautiful desert sceneries. It blends in\nharmonically with the clay and sand formations below the Dakhla cliff,\nwhich provides guidance and orientation for walks and trek tours and\noffers an interesting stage even for bold climbers.\nLet the sweet sound of the Flow Form rivulet that runs along the\nterrace and into the garden enchant you. Its melody will whet your\nappetite for a relaxed outdoor breakfast.\nSeparate cabins provide ten rooms for two or three, each with shower\nand toilet. A camping ground is also available for your accommodation.\nWidely-acclaimed meals are served all day, partially from our own\norganic farm.\nWatching the night sky while taking a bath in the 38 C hot spring is a very special treat, as is a detoxifying sand-bath in the dunes during the day. You are welcome to stay and relax at this perfect place for individualist travellers with individualist preferences."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.dakhla-birgabal.com/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

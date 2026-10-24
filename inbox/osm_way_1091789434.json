@@ -1,0 +1,51 @@
+{
+ "id": "osm:way/1091789434",
+ "name": "Château de Vignée",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.1578114,
+ "lng": 5.0749269,
+ "country": "Belgium",
+ "city": "Villers-sur-Lesse",
+ "region": "Namur",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.chateaudevignee.be/",
+ "fetchedAt": "2026-10-20T06:12:03.308Z",
+ "pages": [
+  {
+   "url": "https://www.chateaudevignee.be/",
+   "kind": "home",
+   "title": "Chateau de Vignée - Nature&#039;s beauty is a gift",
+   "description": "Château de Vignée is a harbour in the wild for those returning after the chase. Sourced by the Ardennes’ fluid state of beauty. Designed to treasure whoever resides in it.",
+   "text": "Chateau de Vignée - Nature's beauty is a gift\nnature’s beauty is a gift\nAn ancient boutique hotel offering a genuine Ardennes experience\nExplore Voucher Boutique\nHome\nHotel\nVoucher Boutique\nPackages\nAdventures\nDining\nArden* restaurant\nLounge by Château de Vignée\nWellness\nEvents\nAbout\nContact\nJobs\nA lush retreat emerging from the Ardennes\nChâteau de Vignée is a harbour in the wild for those returning after the chase. Sourced by the Ardennes’ fluid state of beauty. Designed to treasure whoever resides in it.\nExplore Rooms\nARDEN is a terroir driven restaurant working with what nature has to grant. Chef Marius Bosmans grows and gathers vegetables from the chateau greenhouse to create a pure, yet expressive cuisine in rhythm of the seasons. A curated selection of wines and local craft beers accompanies Marius servings.\nSavour more\nA sanctuary for body and being\nSprung from the river Lesse. Soothing floods from within. The spa nurtures ego as well as physique with an array of rituals and facilities including a swimming pool, hammam and Finnish sauna overlooking the riverbank.\nDescend further\nClose this module\n✨ Upcoming Events & Festive Celebrations\nDiscover our upcoming events & festive experiences\n🍷 La Table du Sommelier – 1st Edition | October 18th\nJoin us for the first edition of La Table du Sommelier, an exclusive wine tasting dedicated to exceptional Super Tuscans, paired with delicious gourmet tapas.\n🍇 An Evening with the Great Bordeaux Wines | November 5th\nExperience an exceptional evening at our gastronomic restaurant ARDEN*, featuring the great Bordeaux wines of the Thienpont family, paired with an exquisite 5-course menu.\n🎄 Christmas Package\nCelebrate Christmas in style with a magical festive experience.\n🥂 New Year’s Eve Package\nStep into the New Year with an unforgettable evening of celebration.\nDiscover our events and our Christmas & New Year’s Eve packages on our website.\nFor more information, please contact us at info@chateaudevignee.be"
+  },
+  {
+   "url": "https://www.chateaudevignee.be/hotel/",
+   "kind": "sub",
+   "label": "Hotel",
+   "title": "Hotel - Chateau De Vignée",
+   "text": "Hotel - Chateau De Vignée\nnature is not a place to visit\n— it is home\nReside in the lush depths of the wilful Ardennes\nOur rooms\nChâteau de Vignée encloses 24 bespoke rooms. The flamboyant suites range from two to four guests, while the double wellness rooms thrive off a more sensorial ambience. Each of them echoing the vigorous landscape of the Ardennes in every nerve and vain.\nRoyal Suite\nExplore the Royal suite\nJunior Suite\nExplore the Junior suite\nComfort Room\nExplore the Lesse room\nComfort Room Lesse\nExplore the Lesse room\nSuperior room\nExplore our Superior"
+  },
+  {
+   "url": "https://www.chateaudevignee.be/about/",
+   "kind": "sub",
+   "label": "About",
+   "title": "About - Chateau De Vignée",
+   "text": "About - Chateau De Vignée\nthere are no lines in nature\n— only areas of colour\nHISTORY\nChâteau de Vignée is a landmark amidst the strong-willed landscape of the Ardennes.\nSprouting from a 400-year-old hunting narrative and acting as a field hospital in the Second World War, the 17th-century castle has always been a stronghold in the Famenne region.\nHERE AND NOW\nOver the years, Château de Vignée has gained deeper insight into the needs of its guests only to arise anew as a lavish boutique estate. The opulent suites are tailored to unwind, restaurant ARDEN caters to any gastronomical urges while the spa site tends to physical and spiritual solace. The tailored event spaces add to the flourishing spirit of the chateau site.\nANCIENT ROOTS\nDrawing from its ancient roots, the chateau is raised from regional marbles and the ruins of the previous building. The interior takes cues from the overwhelming force and beauty of the native scenery surrounding the estate. Aware of its ever-evolving setting, Château de Vignée has aligned with the seasons both aesthetically and gastronomically offering a genuine Ardennes experience.\nSustainability Policy\nAt Château de Vignée, sustainability is at the heart of our approach, as we believe that high-quality hospitality must respect its environment. Located in a preserved natural setting, our establishment is committed to responsibly managing resources, reducing its environmental impact, and promoting local and seasonal products. We also involve our staff and encourage our guests to adopt responsible practices. This approach is part of a continuous improvement process, including recognized commitments such as Green Key certification."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.chateaudevignee.be/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

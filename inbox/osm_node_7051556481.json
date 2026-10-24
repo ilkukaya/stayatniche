@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/7051556481",
+ "name": "Castillo San Rafael",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 36.7578302,
+ "lng": -3.7310369,
+ "country": "Spain",
+ "city": "La Herradura",
+ "region": "Andalusia",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://castillosanrafael.com",
+ "fetchedAt": "2026-10-11T07:39:41.881Z",
+ "pages": [
+  {
+   "url": "https://castillosanrafael.com/",
+   "kind": "home",
+   "title": "Eine Reise zu Dir selbst | Castillo San Rafael",
+   "description": "",
+   "text": "Eine Reise zu Dir selbst | Castillo San Rafael\nEine Reise zu Dir selbst\nWir verwenden Cookies, um Ihnen den bestmöglichen Service zu bieten. Wenn Sie weitersurfen stimmen Sie unseren Datenschutzbestimmungen zu.\nUnsere Datenschutzerklärung"
+  },
+  {
+   "url": "https://castillosanrafael.com/yogahalleundzimmer.html",
+   "kind": "sub",
+   "label": "Yogahalle und Zimmer",
+   "title": "Yogahalle und Zimmer | Castillo San Rafael",
+   "text": "Yogahalle und Zimmer | Castillo San Rafael\nYogahalle\nZimmer\nWir bieten Ihnen höchstmögliche Privatsphäre in Ihrer Unterkunft.\nDie Zimmer verfügen über einen eigenen direkten Zugang und\nmehrheitlich über einen eigenen Sitzplatz im Freien. Ihr Sitzkissen für\ndraussen ist in Ihrem Zimmer exklusiv für Sie bereitgestellt! Nehmen Sie\nes bei Nichtbenutzung wieder rein – die Katzen werden sich sonst darauf\nbreit machen! Die Zimmer sind im einfachen typischen\nspanisch-maurischen Stil eingerichtet und verfügen über Französische-, Einzel- oder\nDoppelbetten.\nDie Split-Klimageräte werden im Winter und in der Übergangszeit zum Beheizen und im Sommer zum Kühlen eingesetzt.\nJedes Zimmer hat sein eigenes Badezimmer mit Toilette,\nWaschbecken, Badewanne oder Dusche, Fön und Frottiertüchern. Die Frottiertücher\nwerden jeweils Mittwochs oder nach speziellem Bedarf ausgewechselt. In jedem Zimmer hat es einen kleinen Safe.\nIhr Zimmer ist Ihr persönlicher Rückzugsort wo Sie sich von den Aktivitäten erholen können und einfach Zeit und Raum haben.\nCypresos\nEinzelzimmer\nIm Parterre\nBett: 90x200cm\nAlcobas\nIm Parterre\nEinzelzimmer\nBett: 90x200cm\nAlgarrobo\nIn der Burg\nEinzelzimmer beim Pool\nBett: 90x200cm\nPortico\n\"Pförtnerzimmer\"\nEinzelzimmer\nFranz. Bett: 140x200cm\nTorre\nIm Turm\nEinzelzimmer mit eigener kleiner Dachterrasse.\nFranz. Bett: 140x200cm\nReja\nIm Parterre\nEinzelzimmer\nFranz. Bett: 140x200cm\nMagnolia\nIm Turm\nEinzelzimmer\nFranz. Bett: 140x200cm\nCasalilo\nIn der Burg\nDoppelzimmer\nFranz. Bett: 160x200cm\nChimenea\nIn der Burg\nDoppelzimmer. Mit Blick auf Pool\n2 Bett: 90x200cm. Zusammenschieben möglich\nPalmeras\nIm Parterre\nDoppelzimmer\n2 Bett: 90x200cm. Zum zusammenschieben nicht geeignet\nArcos\nIm Parterre\nDoppelzimmer\n2 Bett: 90x200cm. Zusammenschieben nicht möglich\nParra\nIm Parterre\nDoppelzimmer\n2 Bett: 90x200cm. Zusammenschieben möglich\nGolondrinas\nIm Parterre\nDoppelzimmer\n2 Bett: 90x200cm. Zusammenschieben möglich"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://castillosanrafael.com/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

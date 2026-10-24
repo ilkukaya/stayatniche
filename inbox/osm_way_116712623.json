@@ -1,0 +1,42 @@
+{
+ "id": "osm:way/116712623",
+ "name": "Schloss Seggau",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 46.7814518,
+ "lng": 15.5236559,
+ "country": "Austria",
+ "city": "Leibnitz",
+ "region": "Styria",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q490160",
+ "wikidataDescription": "château",
+ "website": "https://www.seggau.com/",
+ "fetchedAt": "2026-10-23T06:11:21.344Z",
+ "pages": [
+  {
+   "url": "https://seggau.com/en/startpage-home/",
+   "kind": "home",
+   "title": "Schlosshotel Seggau | The Hotel in Southern Styria",
+   "description": "With its hotel, restaurant and conference centre, Schloss Seggau offers a unique overall package in southern Styria.",
+   "text": "Schlosshotel Seggau | The Hotel in Southern Styria\n/*!/wp-content/themes/betheme-child/style.css*/html{font-size:1vw}:root{--content-width:65rem;--content-width-home:65rem;--mobile-top-bar-height:4rem;--color-1:#c3a053;--color-2:#545454;--color-3:#c4cfd3;--color-4:#966f60;--font-0:din-30640-std-neuzeit-grotesk-bold, Arial, Tahoma, sans-serif;--font-1:antarctican-headline, sans-serif;--text-img-spacing:3%;--overlay-light:rgba(255, 255, 255, 0.3);--overlay-dark:rgba(0, 0, 0, 0.20);--img-border:.5rem solid white;--slick-img-height:20rem}.font-2{font-family:antarctican-headline,sans-serif;font-weight:400;font-style:normal}#Top_bar .top_bar_left{background-color:#fff!important;width:100%}@media only screen and (min-width:1024px){#Wrapper .wso-hide-desktop{display:none!important}}@keyframes ScaleIn{0%{transform:scale(.1) rotate(0.1deg)}100%{transform:scale(1) rotate(0.1deg)}}html{font-size:1vw}#Wrapper .wso-hide{display:none!important}a.wso-absolute-link{position:absolute!important;top:0;left:0;bottom:0;right:0}.ui-tabs .ui-tabs-nav li a{-webkit-transition:all .1s ease-in-out!important;-o-transition:all .1s ease-in-out!important;transition:all .1s ease-in-out!important}.accordion .question .title,.accordion .question .title i,.wso-video-button{-webkit-transition:all .2s ease-in-out!important;-o-transition:all .2s ease-in-out!important;transition:all .2s ease-in-out!important}#Footer .widget_nav_menu ul li a,.wpcf7-list-item-label::before,.wpcf7-list-item-label::after,.wso-intro-video-button img,.tg-wso-slider-skin .tg-item-media-content,.tg-wso-slider-skin::before{-webkit-transition:all .3s ease-in-out!important;-o-transition:all .3s ease-in-out!important;transition:all .3s ease-in-out!important}.image_frame .image_wrapper img,.image_frame .image_wrapper .mask:after,.image_frame .image_wrapper .image_links,.tg-wso-skin-2 .tg-item-media-holder::before{-webkit-transition:all .5s ease-in-out!important;-o-transition:all .5s ease-in-out!important;transition:all .5s ease-in-out!important}#Wrapper .tg-wso-skin-2 .tg-bottom-holder .tg-element-2 p{-webkit-transition:all .8s ease-in-out!important;-o-transition:all .8s ease-in-out!important;transition:all .8s ease-in-out!important}body.error404{height:auto}.fancybox-active.compensate-for-scrollbar{margin-right:0}.fancybox-navigation button,.fancybox-navigation button:hover{background-color:#fff0}.fancybox-navigation button::after{display:none}.tg-item-image,.wso-slider-skin-img img,.wso-hero-img img,.wso-section-text-img .image_wrapper img,.wso-img-box img,.gallery-item img,.wso-section-multi-column .column_image.wso-img:not(.wso-img-proportional) img{-o-object-fit:cover;object-fit:cover;-o-object-position:center center;font-family:'object-fit: cover; object-position: center;';width:100%!important;height:100%!important}.wso-left-top img{-o-object-position:left top!important;object-position:left top!important;font-family:'object-fit: cover; object-position: left top;'!important}.wso-left-center img{-o-object-position:left center!important;object-position:left center!important;font-family:'object-fit: cover; object-position: left center;'!important}.wso-left-bottom img{-o-object-position:left bottom!important;object-position:left bottom!important;font-family:'object-fit: cover; object-position: left bottom;'!important}.wso-center-top img{-o-object-position:center top!important;object-position:center top!important;font-family:'object-fit: cover; object-position: center top;'!important}.wso-center-center img{-o-object-position:center center!important;object-position:center center!important;font-family:'object-fit: cover; object-position: center center;'!important}.wso-center-bottom img{-o-object-position:center bottom!important;object-position:center bottom!important;font-family:'object-fit: cover; object-position: center bottom;'!important}.wso-right-top img{-o-object-position:right top!important;object-position:right top!important;font-family:'object-fit: cover; object-position: right top;'!important}.wso-right-center img{-o-object-position:right center!important;object-position:right center!important;font-family:'object-fit: cover; object-position: right center;'!important}.wso-right-bottom img{-o-object-position:right bottom!important;object-position:right bottom!important;font-family:'object-fit: cover; object-position: right bottom;'!important}@media only screen and (min-width:768px){.wso-float-right{float:right}}.tg-wso-references .tg-item-media-content::before,.tg-wso-slider-skin .tg-item-content-holder::before{content:\"\";position:absolute;top:0;bottom:0;left:0;right:0;background:-moz-linear-gradient(top,#fff0 0%,#fff0 1%,rgb(0 0 0 / .45) 100%);background:-webkit-linear-gradient(top,#fff0 0%,#fff0 1%,rgb(0 0 0 / .45) 100%);background:linear-gradient(to bottom,#fff0 0%,#fff0 1%,rgb(0 0 0 / .45) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000',endColorstr='#73000000',GradientType=0);z-index:1}img[data-lazy-src*=\"http\"]{-webkit-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;transition:all 0.3s ease-in-out}img[data-lazy-src*=\"http\"]:not(.lazyloaded){opacity:0!important}a[href*=\"mailto:\"]{text-transform:none!important}body,.tg-item p,.gm-style p{font-size:0.95rem!important;line-height:1.85em!important}.column>p,.column_visual>p,.column_attr>p,.column_attr>ul,.column_attr>ol,#Footer p,#Footer ul,#Footer ol,#Footer ul li,#Footer ol li,.tg-item p{margin-bottom:1rem!important;font-size:1.3rem!important}#Content .column a:hover{text-decoration:none!important}#Content .column a{position:relative}#Content .column a:after{content:\"\";position:absolute;bottom:-.2rem;height:.1rem;width:100%;background:var(--color-1);left:0;transition:.1s all ease-in-out;opacity:0}#Content .column a:not(.button):not(.post-more):hover:after{opacity:1}#Wrapper h1,#Wrapper .wso-h1,#Wrapper h2,#Wrapper .wso-h2{font-size:2.8rem;line-height:2em;font-weight:400;margin-bottom:1rem;color:var(--color-1)}.wso-voucher-system h1{font-family:\"da"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Schloss Seggau",
+  "url": "https://en.wikipedia.org/wiki/Schloss_Seggau",
+  "extract": "Schloss Seggau is a castle situated in Seggauberg in southern Styria, Austria. It is located on a wooded hill overlooking the town of Leibnitz. Schloss Seggau is at an elevation of 344 metres (1,129 ft)."
+ },
+ "notes": [],
+ "finalUrl": "https://seggau.com/en/startpage-home/",
+ "httpStatus": 200,
+ "htmlLang": "en-GB"
+}

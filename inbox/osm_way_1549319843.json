@@ -1,0 +1,110 @@
+{
+ "id": "osm:way/1549319843",
+ "name": "Opperman Safari House",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -19.6483479,
+ "lng": 18.8957944,
+ "country": "Namibia",
+ "city": "Otjozondjupa",
+ "region": "Otjozondjupa",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://oppermansafarihouse.com/",
+ "fetchedAt": "2026-10-11T07:37:54.110Z",
+ "pages": [
+  {
+   "url": "https://oppermansafarihouse.com/",
+   "kind": "home",
+   "title": "Private Safari Accommodation in Namibia | Opperman Safari House",
+   "description": "Exclusive-use safari house near Grootfontein, Namibia with private guide, chef, game drive vehicle, wildlife, nature experiences and 44,500 acres.",
+   "text": "Private Safari Accommodation in Namibia | Opperman Safari House\nSkip to content\nWelcome\nExclusive use. Exceptional hospitality. Unforgettable safaris.\nBook Your Stay\nYour Private Escape\nBeyond the Ordinary...\nExperience big game, gourmet dining, and complete privacy in Namibia s untamed wilderness.\nPrivate Guide\nWildlife Viewing\nGourmet Dining\nSwimming Pool\nPlan Your Stay\nExclusively Opperman\n44,500 Acres\nPrivate Namibian wilderness to explore.\nDedicated Team\nPrivate guide, tracker, chef, and housekeeping.\nExclusive Private Use\nThe entire safari house and conservancy, exclusively yours.\nStay at Opperman\nYour Private Safari House\nEnjoy exclusive use of 44,500 acres of untouched Namibian wilderness, with your own guide, private chef, and every moment tailored to you.\nExplore Accommodation\nLuxury Accommodations. Wilderness Setting. Private Experience.\nACRES OF PRISTINE WILDERNESS\n0\nYEARS OF HOSPITALITY\n0\n+\nWILDLIFE SPECIES ON PROPERTY\n0\n+\nFreshly Prepared\nCulinary Excellence in the African Bush\nFrom hearty breakfasts to fireside dinners, enjoy freshly prepared meals, local beverages, and authentic Namibian hospitality.\nGuest Reviews\nDiscover Why Guests Return\nWe can t recommend Hans and Gerna s hospitality enough. It was a perfect escape, and we are already planning our next trip back!\nThe experience was nothing short of five-star.\nIf you re looking for a truly unforgettable getaway, look no further than Opperman Safari House . Hans and Gerna are the perfect hosts, and their incredible hospitality made our stay feel like a home away from home.\nWe were treated to delicious meals three times a day the food was absolutely amazing! In the evenings, we d gather on the stoep with a waterhole right in front of the house to watch the game come and drink, a breathtaking sight you have to see to believe.\nBefore dinner,  we spent our nights sitting around the fire at the boma, sharing stories and soaking in the peaceful atmosphere. The swimming pool was a fantastic way to relax and cool off during the day.\nPlan Your Stay\nFrequently Asked Questions\nIs Opperman Safari House private-use?\nYes. Opperman Safari House is designed as an exclusive-use private safari house for one group at a time, giving guests a more personal wilderness stay.\nWhere is Opperman Safari House located?\nOpperman Safari House is located at Wildernis Farm No. 957 in the Grootfontein area of Namibia, surrounded by private bushveld and open wilderness.\nWhat is included in a stay?\nA stay includes hosted safari services, chef-prepared meals, a private guide, a private game drive vehicle and time to enjoy the house, pool and surrounding nature.\nWhat safari experiences can guests enjoy?\nGuests can enjoy private game drives, guided bush walks, bird watching, sundowner moments and wildlife encounters in the Namibian bush.\nYour Safari Story Starts Here\nBook Your Stay\nOpperman Safari House\nClose Panel"
+  },
+  {
+   "url": "https://oppermansafarihouse.com/safari-house/",
+   "kind": "sub",
+   "label": "Accommodation",
+   "title": "Luxury Safari House Accommodation in Namibia | Private Stay",
+   "text": "Luxury Safari House Accommodation in Namibia | Private Stay\nSkip to content\nExclusive Stay\nA Safari House All to Yourself\nYour private safari retreat awaits, where exclusive use, authentic hospitality, and the wild beauty of Namibia come together.\nExclusive House Use\n4 Bedrooms\n8 Guests Maximum\nBedroom 1\nBedroom 2\nBedroom 3\nBedroom 4\nMaster Suite\nSpacious master bedroom with a Queen XL bed, luxurious ensuite bathroom, and private garden porch. Fully air-conditioned with premium amenities for a comfortable and relaxing stay.\nPrivate Garden Suite\nComfortable double bedroom with dark wood furnishings and an ensuite bathroom with shower. Double doors open directly onto the garden, creating a peaceful indoor-outdoor retreat. Fully air-conditioned with premium towels, a hairdryer, and quality bathroom amenities.\nDeluxe Queen Room\nSpacious guest room featuring a Queen XL bed and ensuite bathroom with shower. Double doors open directly onto the garden, while air-conditioning, premium towels, a hairdryer, and quality bathroom amenities ensure a comfortable stay.\nGarden Deluxe Suite\nSpacious suite featuring a Double XL bed, luxurious ensuite bathroom with bathtub, shower, and separate toilet, plus double doors opening onto a private garden porch. Fully air-conditioned with premium towels, a hairdryer, and quality bathroom amenities.\nExplore the House\nFloor Plan\nFour-bedroom safari house with mirrored design featuring two main bedrooms with private porches.\nPlan Your Stay\nFrequently Asked Questions\nIs Opperman Safari House private-use?\nYes. Opperman Safari House is designed as an exclusive-use private safari house for one group at a time, giving guests a more personal wilderness stay.\nWhere is Opperman Safari House located?\nOpperman Safari House is located at Wildernis Farm No. 957 in the Grootfontein area of Namibia, surrounded by private bushveld and open wilderness.\nWhat is included in a stay?\nA stay includes hosted safari services, chef-prepared meals, a private guide, a private game drive vehicle and time to enjoy the house, pool and surrounding nature.\nWhat safari experiences can guests enjoy?\nGuests can enjoy private game drives, guided bush walks, bird watching, sundowner moments and wildlife encounters in the Namibian bush.\nOpperman Safari House Rates\nDownload Rack Rates\nBook Accommodation\nOpperman Safari House\nClose Panel"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": [
+    "LodgingBusiness",
+    "TouristAccommodation"
+   ],
+   "name": "Opperman Safari House",
+   "description": "Exclusive-use safari house on a private Namibian conservancy near Grootfontein, with private guide, chef, game drive vehicle and nature experiences.",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wildernis Farm No: 957",
+    "addressLocality": "Grootfontein area",
+    "addressCountry": "NA"
+   },
+   "telephone": [
+    "+264812780283",
+    "+264816893533"
+   ],
+   "priceRange": "NAD 25,600+ per night",
+   "amenityFeature": [
+    "Exclusive-use safari house",
+    "Private guide",
+    "Private chef",
+    "Private game drive vehicle",
+    "Guided bush walks",
+    "Bird watching"
+   ],
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -19.64845,
+    "longitude": 18.895933
+   },
+   "url": "https://oppermansafarihouse.com/"
+  },
+  {
+   "@type": [
+    "LodgingBusiness",
+    "TouristAccommodation"
+   ],
+   "name": "Opperman Safari House",
+   "description": "Exclusive-use safari house on a private Namibian conservancy near Grootfontein, with private guide, chef, game drive vehicle and nature experiences.",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wildernis Farm No: 957",
+    "addressLocality": "Grootfontein area",
+    "addressCountry": "NA"
+   },
+   "telephone": [
+    "+264812780283",
+    "+264816893533"
+   ],
+   "priceRange": "NAD 25,600+ per night",
+   "amenityFeature": [
+    "Exclusive-use safari house",
+    "Private guide",
+    "Private chef",
+    "Private game drive vehicle",
+    "Guided bush walks",
+    "Bird watching"
+   ],
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -19.64845,
+    "longitude": 18.895933
+   },
+   "url": "https://oppermansafarihouse.com/"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://oppermansafarihouse.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

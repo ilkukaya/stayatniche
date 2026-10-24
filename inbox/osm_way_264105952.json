@@ -1,0 +1,35 @@
+{
+ "id": "osm:way/264105952",
+ "name": "Zamek Rokosowo",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.7832535,
+ "lng": 16.898044,
+ "country": "Poland",
+ "city": "Gostyń County",
+ "region": "Greater Poland Voivodeship",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q11815024",
+ "wikidataDescription": null,
+ "website": "http://www.rokosowo.pl/",
+ "fetchedAt": "2026-10-15T06:02:40.182Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "pl",
+  "title": "Pałac w Rokosowie",
+  "url": "https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Rokosowie",
+  "extract": "Pałac w Rokosowie – zabytkowy pałac we wsi Rokosowo, w gminie Poniec."
+ },
+ "notes": [
+  "website fetch failed: 0 This operation was aborted"
+ ],
+ "finalUrl": "http://www.rokosowo.pl/",
+ "httpStatus": 0
+}

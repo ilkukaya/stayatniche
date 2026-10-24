@@ -1,0 +1,37 @@
+{
+ "id": "osm:node/14225277758",
+ "name": "Zamek Nowęcin",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 54.7534096,
+ "lng": 17.5892588,
+ "country": "Poland",
+ "city": "Nowęcin",
+ "region": "Pomeranian Voivodeship",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "2"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://zameknowecin.com/",
+ "fetchedAt": "2026-10-15T06:03:07.995Z",
+ "pages": [
+  {
+   "url": "https://zameknowecin.com/",
+   "kind": "home",
+   "title": "Zamek Nowęcin – wyjątkowe miejsce w sercu Pomorza",
+   "description": "Zatrzymaj się w zabytkowym Zamku Nowęcin. Komfortowe pokoje, restauracja z regionalną kuchnią, sala konferencyjna i natura tuż przy morzu.",
+   "text": "Zamek Nowęcin – wyjątkowe miejsce w sercu Pomorza\nZaplanuj trasę po Pomorzu\nZaledwie  kilka minut od Łeby.  Lata świetlne od tłumów.\nZarezerwuj nocleg\n2\nZamek pełen historii,  pobyt pełen wrażeń!\nMiejsce\nUdogodnienia i usługi\nZadbaliśmy o szczegóły, które uprzyjemnią Twój wypoczynek. Skorzystaj z licznych udogodnień i usług dostępnych na terenie naszego obiektu, zapewniających komfortowy pobyt pełen wyjątkowych doświadczeń.\nTeren  zielony i park zamkowy\nBliskość jeziora z dostępem do brzegu\nRestauracja  z regionalną kuchnią\nMiejsce ogniskowe na integracje\nSala  konferencyjna\nRodzaje pokoi\nStandard\n2 osoby\nPowiększony\n3 osoby\nApartament\n3-5 osób\nPokoje\nRestauracja\nPoznaj smaki Pomorza w wyjątkowych wnętrzach naszego zamku. Serwujemy dania regionalne ze świeżych, sezonowych produktów, idealne na romantyczną kolację, rodzinny obiad czy spotkanie w gronie przyjaciół.\nZobacz menu\nZainspiruj się na\nkolejny wyjazd\nBądź na bieżąco z naszymi ofertami i wydarzeniami specjalnymi. Zapisz się, aby otrzymywać najnowsze informacje prosto na swoją skrzynkę mailową.\nZapisz się\nMenu\nKontakt\nZamek Nowęcin\nul. Jeziorna 2\n84-360 Nowęcin\n+48 451 259 499\nbiuro@zameknowecin.com\n© 2025 Zamek Nowęcin. Wszelkie prawa zastrzeżone.\nZamknij\nPokoje\nMiejsce\nRestauracja\nSala konferencyjna\nWirtualny spacer\nKontakt\nZarezerwuj nocleg\nZarządzaj zgodą\nAby zapewnić jak najlepsze wrażenia, korzystamy z technologii, takich jak pliki cookie, do przechowywania i/lub uzyskiwania dostępu do informacji o urządzeniu. Zgoda na te technologie pozwoli nam przetwarzać dane, takie jak zachowanie podczas przeglądania lub unikalne identyfikatory na tej stronie. Brak wyrażenia zgody lub wycofanie zgody może niekorzystnie wpłynąć na niektóre cechy i funkcje.\nFunkcjonalne\nFunkcjonalne\nZawsze aktywne\nPrzechowywanie lub dostęp do danych technicznych jest ściśle konieczny do uzasadnionego celu umożliwienia korzystania z konkretnej usługi wyraźnie żądanej przez subskrybenta lub użytkownika, lub wyłącznie w celu przeprowadzenia transmisji komunikatu przez sieć łączności elektronicznej.\nPreferencje\nPreferencje\nPrzechowywanie lub dostęp techniczny jest niezbędny do uzasadnionego celu przechowywania preferencji, o które nie prosi subskrybent lub użytkownik.\nStatystyka\nStatystyka\nPrzechowywanie techniczne lub dostęp, który jest używany wyłącznie do celów statystycznych.\nPrzechowywanie techniczne lub dostęp, który jest używany wyłącznie do anonimowych celów statystycznych. Bez wezwania do sądu, dobrowolnego podporządkowania się dostawcy usług internetowych lub dodatkowych zapisów od strony trzeciej, informacje przechowywane lub pobierane wyłącznie w tym celu zwykle nie mogą być wykorzystywane do identyfikacji użytkownika.\nMarketing\nMarketing\nPrzechowywanie lub dostęp techniczny jest wymagany do tworzenia profili użytkowników w celu wysyłania reklam lub śledzenia użytkownika na stronie internetowej lub na kilku stronach internetowych w podobnych celach marketingowych.\nZarządzaj opcjami\nZarządzaj serwisami\nZarządzaj {vendor_count} dostawcami\nPrzeczytaj więcej o tych celach\nAkceptuję\nOdmów\nZobacz preferencje\nZapisz preferencje\nZobacz preferencje\n{title}\n{title}\n{title}\nZarządzaj zgodą"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://zameknowecin.com/",
+ "httpStatus": 200,
+ "htmlLang": "pl-PL"
+}

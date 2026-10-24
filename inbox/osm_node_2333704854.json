@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/2333704854",
+ "name": "Lovas Zugoly",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 47.5316939,
+ "lng": 18.5887561,
+ "country": "Hungary",
+ "city": "Csabdi",
+ "region": null,
+ "osm": {
+  "tourism": "motel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.lovaszugoly.hu/",
+ "fetchedAt": "2026-10-21T06:14:51.279Z",
+ "pages": [
+  {
+   "url": "https://lovaszugoly.hu/",
+   "kind": "home",
+   "title": "Lovas Zugoly",
+   "description": "",
+   "text": "Lovas Zugoly\n-->\nEN\nHU\nMenu\nVendégház\nSzállás\nLó bértartás\nLó bértartás\nProgramok\nA környéken\nGaléria\nKépek\nÜdvözöljük a Lovas Zugolyban!\nA Lovas Zugoly Vendégház és Lovarda a Vértes és a Gerecse lábánál helyezkedik el, gyönyörű, érintetlen természeti környezetben, alig 45 kilométerre Budapesttől.\nNyugodt, családias, barátságos Vendégház, távol a világ zajától, közel a természethez. Ideális hely az aktív pihenést választók, a lovaglás, a túrázás, a biciklizés szerelmeseinek.\nA Lovas Zugoly Vendégház és Lovarda 5 szobával várja kedves vendégeit, melyekhez kényelmes közös nappali és jól felszerelt konyha tartozik. Az udvarban fedett lovaspálya, gyerek-játszótér, úszótó, trambulin, nyílt tűzrakóhely, függő-, hinta- és napozóágyak várják a vendégeket.\nKomjáthy András egyéni vállalkozó, TFC-M-1.1.2-2020-06463 nyilvántartási szám alatt 5.000.000,-Ft, 100% intenzitású támogatást nyert el a Lovas Zugoly Vendégház szobáinak felújítására. A 2021 májusában befejeződött projekt keretében teljesen megújultak a fürdőszobák, részben a vendégkonyhák, klímaberendezések és TV készülékek kerültek a szobákba, új vendégágyak, bejárati ajtó, valamint gardróbszekrény került beszerzésre. A támogatott projekt a Kisfaludy Turisztikai Fejlesztési Program keretében valósult meg.\nKomjáthy András egyéni vállalkozó a Vidékfejlesztési Program keretében a Völgy Vidék Közösség működési területére meghirdetett Helyi fejlesztések támogatása tárgyú felhívására sikeres pályázatot nyújtott be.\nA támogatás elfogadásra került és 2022-2023 évben a tervezett eszközbeszerzés és ingatlanberuházás megvalósult. A beszerzett eszközök:\nAMS354 traktor\nUniverzális homlokrakodó adapter kanállal, bálatüskével\nEFG 145 Szárzúzó\nWC5X ágdaráló\n800 mm kardántengely\n1,5 tonnás pótkocsi, 3 oldalra billenthető\nLNS150 tolólap\nEzúton is szeretnénk megköszönni a Magyar Állam és az Európai Unió támogatását, mely hozzájárult a Csabdi településen található székhelyünk/telephelyünk fejlesztéséhez. Büszkék vagyunk, hogy a támogatás segítségével az eszközállományunk új berendezésekkel bővült, továbbá a Lovaszugoly kisléptékű infrastruktúrafejlesztése is megtörtént, mely a közúttól (telekhatáson belül) vezető kb. 200 méteres magánút szilárd burkolattal való ellátását jelenti.\nCsaládi barátságos vendégház és lovarda\n5 szoba Wi-Fi-vel, közös nappali és konyha\nBeszélünk angolul és németül\nGyönyörű természeti környezetben Budapesthez közel\nKépzett lovak, időjárásfüggetlen lovaglás, remek terep\nGyerekbarát\nKomjáthy András Ferenc\nGödöllői Agrártudományi Egyetemen végzett, évek óta vezeti a Lovas Zugoly Lovardát, okleveles lovasoktató, beszél angolul és németül.\nKomjáthyné Sulyok Ilona\nA Lovas Zugoly háziasszonya, gondoskodik a vendégek kényelméről, intézi az adminisztrációt, készíti a reggeliket, szervezi a programokat, valamint kezdőket tanít futószáron lovagolni.\nEnd of Szabadság st.\n2064, Csabdi\nHungary\nNavigáció\nKapcsolat\nLó bértartás:\nszállás: 36702279509\ncsabdilovaszugoly@gmail.com\n2026 Lovas Zugoly\n© 2019 Lovas Zugoly\n-->"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://lovaszugoly.hu/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

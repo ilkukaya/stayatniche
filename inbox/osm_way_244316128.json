@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/244316128",
+ "name": "Nomadic Desert Camp",
+ "queueStatus": "weak",
+ "queueCategory": "desert-camps",
+ "categories": [
+  "desert-camps"
+ ],
+ "lat": 22.3574198,
+ "lng": 58.6917548,
+ "country": "Oman",
+ "city": "Al Mintarib",
+ "region": "Ash Sharqiyah North Governorate",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.nomadicdesertcamp.com/",
+ "fetchedAt": "2026-10-22T06:14:52.523Z",
+ "pages": [
+  {
+   "url": "https://nomadicdesertcamp.com/",
+   "kind": "home",
+   "title": "Nomadic Desert Camp – Wüstencamp & Reisen Wahiba Sands, Oman",
+   "description": "Nomadic Desert Camp in den Sharqiya Sands, Oman. Erleben Sie authentisches Wüstenleben mit Kamelreiten, Dünen-Safari und traditionellen Barasti-Hütten.",
+   "text": "Nomadic Desert Camp – Wüstencamp & Reisen Wahiba Sands, Oman"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://nomadicdesertcamp.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

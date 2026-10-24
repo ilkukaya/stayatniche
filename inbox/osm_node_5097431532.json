@@ -1,0 +1,58 @@
+{
+ "id": "osm:node/5097431532",
+ "name": "Bed and Breakfast Castello di Strambinello",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 45.4199149,
+ "lng": 7.7725743,
+ "country": "IT",
+ "city": "Strambinello",
+ "region": null,
+ "osm": {
+  "tourism": "guest_house",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.castellodistrambinello.com/",
+ "fetchedAt": "2026-10-21T06:13:05.924Z",
+ "pages": [
+  {
+   "url": "https://www.castellodistrambinello.com/",
+   "kind": "home",
+   "title": "Castello di Strambinello",
+   "description": "Il Castello di Strambinello è immerso in un’isola di verde che si affaccia su una valle incontaminata, splendida in ogni periodo dell’anno, al cui fondo scorre, come un nastro d’argento, il torrente Chiusella. La meta ideale per chi cerca una pausa rilassante, a contatto con la natura rigogliosa e rasserenante del Canavese.",
+   "text": "Castello di Strambinello\nUn'oasi di pace Un soggiorno indimenticabile nella natura\nIl Castello di Strambinello è immerso in un’isola di verde che si affaccia su una valle incontaminata, splendida in ogni periodo dell’anno, al cui fondo scorre, come un nastro d’argento, il torrente Chiusella.\nÈ questa la meta ideale per chi cerca una pausa rilassante, a contatto con la natura rigogliosa e rasserenante del Canavese.\nIl fascino della storia Dal Medioevo al Barocco, fino a oggi\nAl visitatore attento non potrà sfuggire che, oltre all’incanto del paesaggio, il Castello offre il fascino della storia e dell’arte: qui ogni angolo, ogni muro ed ogni pietra raccontano una storia grande e piccola, vissuta e sofferta, di prosperità e splendore, di rovina e ricostruzione, che spazia dal Medioevo al Barocco, per arrivare fino ai giorni nostri.\nRestauro di un sogno Pregiati arredi per una location unica\nL'attuale proprietario ha lavorato con tenacia e passione al restauro dell’edificio, si è occupato della sistemazione degli interni con arredi d’epoca, scelti con gusto e competenza, e ha creato a poco a poco un giardino ricco e vario, in sintonia con il palazzo e l’ambiente circostante. La realizzazione di un sogno meraviglioso, nato per restituire al castello il suo antico splendore.\nCastello di Strambinello\nUna splendida cornice per il tuo soggiorno\nColazione al castello\nSfoglia la gallery delle nostre proposte e lasciati ingolosire dai sapori semplici e genuini delle specialità del territorio: torte, marmellate, pane appena sfornato, formaggi, salumi della produzione canavesana e molto altro ancora!\nScopri\nRelax nella natura\nUn rigoglioso giardino, curato nel minimo dettaglio, ti aspetta per offrirti impareggiabili momenti di relax in mezzo alla natura: piccoli angoli discosti per leggere e rilassarsi, sentieri che si inoltrano nel bosco dove passeggiare e ascoltare, nel silenzio, lo scorrere delle acque del vicino fiume... Il tuo soggiorno sarà davvero indimenticabile!\nEsplora\nRecensioni\n\"Superlativo! Do come voto il massimo, solamente perchè di più non si può!!\nPrecisi in fase di prenotazione e pronti ad accoglierci al nostro arrivo, abbiamo preso la suite Battista, che ci ha lasciati a bocca aperta. Ricchissima di particolari, da proprio l'idea di un posto con un vissuto, con della storia, piena di libri e di particolari...\"\nAndreaM1976 , TripAdvisor\n\"Un angolo di magia! Arrivi dalla strada provinciale e dopo pochi metri di sterrato sei accolto da un piccolo ma incantevole giardino.Ogni pianta ha il proprio posto,trovato per creare una sensazione di armonia...\"\ntonellimarco64 , TripAdvisor\n\"Siamo al Top: dovendomi fermare in zona Ivrea per motivi di lavoro ho notato questa location e, ancorché a qualche km dalla città, provare. Spettacolare...\"\nJkkerouac , TripAdvisor\n\"Che meraviglia, questo B&B: non capita spesso di poter dormire in un vero castello! Si respira un'atmosfera d'altri tempi e una pace davvero unica. La colazione nella sala da pranzo con tavola imbandita e stoviglie preziose, poi, è un'esperienza che già da sé vale il viaggio...\"\nMartina B , TripAdvisor\n\" Tutti voi che state leggendo questa recensione: mollate tripadvisor e prenotate un'esperienza in questo Castello... Non ve ne pentirete. Non badate al prezzo, non è caro e una volta nella vita se lo possono permettere davvero tutti, ma vi assicuro che sarà una giornata indimenticabile...\"\nMichybo , TripAdvisor\n\"Questo castello è meraviglioso, lo consiglio a tutti, almeno una volta bisogna fare questa esperienza, immerso nel verde a due passi dalla città, questo castello direi famigliare, è stupendo...\"\nRaffaella G , TripAdvisor\n\"Ambiente suggestivo d'epoca, ricco nei dettagli, ma assolutamente genuino e mai lezioso. Grande appeal per la ricchezza dei pezzi originali d'epoca, ma immacolata pulizia e perfetta efficienza dei servizi (dal bagno, all'illuminazione)...\"\nAndreaDaMerate , TripAdvisor\n\"Non delude mai. Questo posto è veramente meraviglioso: camere grandi, arredate con grande gusto, come del resto, tutta la casa. La colazione, come dicono tutti, è qualcosa di superlativo...\"\nniclavitali , TripAdvisor\n\"Spettacolare! Abbiamo scelto questa struttura anche perché su Tripadvisor aveva tutte recensioni Eccellenti (cosa che non mi era mai capitata di vedere) ed eravamo sinceramente curiosi... Non possiamo che confermare le opinioni degli altri visitatori! \"\nGiada S , TripAdvisor\nDicono di noi..."
+  },
+  {
+   "url": "https://www.castellodistrambinello.com/le-camere",
+   "kind": "sub",
+   "label": "Le camere",
+   "title": "Le camere",
+   "text": "Le camere\nLe camere\nIl fascino di dormire in un castello...\nTre suite arredate con competenza e gusto, caratterizzate da un'atmosfera unica e da un'ambientazione ricca e piacevole.\nParole d'ordine: eleganza, pulizia e comfort.\nSuite Arieti\nScopri\nSuite Bandiera\nScopri\nSuite Battista\nScopri"
+  },
+  {
+   "url": "https://www.castellodistrambinello.com/suite-arieti",
+   "kind": "sub",
+   "label": "Suite Arieti",
+   "title": "Suite Arieti",
+   "text": "Suite Arieti\nSuite Arieti\n-->\nSuite Arieti\nLa camera è così chiamata per la presenza di due antiche statue in legno laccato rappresentanti appunto due arieti in grandezza naturale.\nVi si accede dallo scalone nobile del palazzo seicentesco, salendo al secondo piano.\nÈ situata nella parte del sottotetto dove anticamente veniva depositata la frutta.\nOra l’ambiente è stato restaurato rispettandone la morfologia e i materiali originari.\nLa camera è una vera e propria suite composta da un primo ambiente di ingresso con un soppalco dove vi sono due letti singoli, e poi la stanza vera e propria con un letto matrimoniale.\nLa suite ha il suo bagno riservato dotato di vasca e doccia. L’ambiente è confortevole e spazioso ed è ideale sia per una coppia che per una famiglia: infatti vi è anche un lettino per bambini.\nPanoramiche\nGallery"
+  },
+  {
+   "url": "https://www.castellodistrambinello.com/suite-bandiera",
+   "kind": "sub",
+   "label": "Suite Bandiera",
+   "title": "Suite Bandiera",
+   "text": "Suite Bandiera\nSuite Bandiera\n-->\nSuite Bandiera\nLa camera della bandiera è così denominata per il grande quadro rappresentante una bandiera italiana, eseguita dal padrone di casa ispirandosi alla tecnica del noto pittore americano Jasper Johns.\nLa stanza è accessibile direttamente dallo scalone principale e si trova nella parte del Castello ristrutturata con criteri attuali e innovativi.\nNell’ambiente si amalgamano in un insieme armonioso lo stile modernissimo dei pavimenti, realizzati con motivi astratti e i mobili antichi che ne costituiscono l’arredamento.\nLa camera con letto matrimoniale è affiancata da un delizioso salotto, che si trasforma all’occorrenza in una piccola ma accogliente camera con due posti letto.\nLa suite Bandiera è dotata al suo interno di un bagno spazioso e confortevole.\nA disposizione degli ospiti vi è inoltre un angolo attrezzato con frigobar e necessario per la preparazione di bevande calde.\nPanoramiche\nGallery"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.castellodistrambinello.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

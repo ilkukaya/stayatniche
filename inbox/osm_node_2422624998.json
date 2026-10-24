@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/2422624998",
+ "name": "Hotel Vagónka",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 49.7071157,
+ "lng": 18.050508,
+ "country": "Czechia",
+ "city": "Studénka",
+ "region": "Moravian-Silesian Region",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.hotel-vagonka.cz",
+ "fetchedAt": "2026-10-24T06:04:32.398Z",
+ "pages": [
+  {
+   "url": "http://www.hotel-vagonka.cz/",
+   "kind": "home",
+   "title": "Hotel Vagónka",
+   "description": "",
+   "text": "Hotel Vagónka\nO nás\nHotel Vagónka je nově zrekonstruovaný rodinný hotel, který byl od samého začátku úzce spjat s firmou specializovanou na výrobu železničních vagonů, kterou založil Adolf Šustala pod názvem Staudinger Waggonfabrik A.G. v roce 1900.\nHotel Vagónka nabízí exkluzivní ubytování v 11 pokojích a rodinných apartmánech v útulném prostředí.Každý apartmán je vybaven 2 až 4 lůžky, sprchou, WC, kuchyňskou linkou a lednicí.\nRestaurace i recepce je v našem hotelu uzavřena.\nNaše nová facebooková stránka\nhttps://www.facebook.com/Hotel-Vagónka-nově-1217925801661048/\nČíst více..."
+  },
+  {
+   "url": "http://www.hotel-vagonka.cz/hotel.php",
+   "kind": "sub",
+   "label": "",
+   "title": "Hotel Vagónka - Ubytování",
+   "text": "Hotel Vagónka - Ubytování\nUbytování\nLůžkové pokoje\nApartmány s manželskou postelí\nCena od 750 Kč\nVybavení pokojů a hotelu\n- LCD televize na pokoji\n- Sociální zařízení s koupelnou, individuálně i kuchyňka na pokoji\n- Volný přístup do hotelu nonstop\n- V celém hotelu připojení Wifi\n- Úschovna jízdních kol\n- V okoli hotelu sportovní vyžití (sportovní stadion, sauna, bazén a bowling)\nPři dlouhodobém pobytu je možnost domluvit slevu.\nObjednávky na telefonu\n+ 420 721 682 530\nV hotelu je možnost připojení k internetu pomocí wifi."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.hotel-vagonka.cz/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

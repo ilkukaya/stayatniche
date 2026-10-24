@@ -1,0 +1,70 @@
+{
+ "id": "osm:way/1519566333",
+ "name": "Escarpment Domes - Nook",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": -41.0287812,
+ "lng": 174.904374,
+ "country": "New Zealand",
+ "city": "Porirua",
+ "region": "Wellington",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.escarpmentdomes.co.nz/",
+ "fetchedAt": "2026-10-22T06:15:20.543Z",
+ "pages": [
+  {
+   "url": "https://www.escarpmentdomes.co.nz/",
+   "kind": "home",
+   "title": "Escarpment Domes",
+   "description": "Stunning accommodation supporting biodiversity projects",
+   "text": "Escarpment Domes\nStunning accommodation supporting biodiversity projects"
+  },
+  {
+   "url": "https://www.escarpmentdomes.co.nz/getting-here-sitemap",
+   "kind": "sub",
+   "label": "Getting here + sitemap",
+   "title": "Getting here + sitemap &mdash; Escarpment Domes",
+   "text": "Getting here + sitemap Escarpment Domes\nGetting here + sitemap\nAerial shot of domes site\nThe Gallery dome is at the top of the image. The Peak to the left and the Nook in the centre just in front of the Communal dome.\nIt’s 150m from the drop off area by the Communal dome down to the Gallery and the track is a bit steep in places.\nThe Peak and the Nook are both about 30m from the drop off area. If you have limited mobility we suggest the Nook as it’s the easiest to walk to.\nGetting to the carpark\nDon’t click on our location on Google maps it gives you incorrect directions. Please use the address you’ll be given with your arrival details.\nLook out for these 2 signs as you drive up the driveway.\nOn the fence at the start of the drive\nOn the gate at the halfway point\nWhen you get to the address you’ll see the first sign. Start driving up the 800m long single lane shared driveway (20kph please) and you’ll pass a house, go through a wooden gate that is often left open, drive down and back up to a large shed and a gate with the second sign on it. Great you’re halfway down the drive. Please go through the gate and close it behind you. The carpark is a bit further on you can’t miss it from there."
+  },
+  {
+   "url": "https://www.escarpmentdomes.co.nz/accommodation",
+   "kind": "sub",
+   "label": "Accommodation",
+   "title": "Unique accommodation &mdash; Escarpment Domes",
+   "text": "Unique accommodation Escarpment Domes\nAccommodation\nStunning regenerative accommodation set on 8 hectares of retired farmland in Pukerua Bay, just 35mins drive from central Wellington. Set just above the epic escarpment track, the views are truly magical. Scroll down for a photo tour of the site or click Explore our Domes for details and descriptions\nBook Now\nStunning accommodation supporting biodiversity projects"
+  },
+  {
+   "url": "https://www.escarpmentdomes.co.nz/contact",
+   "kind": "sub",
+   "label": "About us + Contact",
+   "title": "About us + Contact &mdash; Escarpment Domes",
+   "text": "About us + Contact Escarpment Domes\nAbout us + Contact\nhelp@escarpmentdomes.co.nz ph. 04 242 0522 Or live chat with us link below\nHugh Evans\nhas co-founded the successful Social Enterprise projects Thankyou Payroll and Cheese Cartel. He is an experienced company director and leads the technology and design projects for Floruit.\nBlair Boswell\nwas formerly the COO for Todd Solar, as well as being an experienced company director and General Manager of one New Zealand’s largest corporations. Blair is head of operations for Floruit.\nAaron Hawkins\nis the former Mayor of Dunedin City, and an experienced governor and RMA commissioner. He has a strong background in the arts and independent radio, and is leading on planning and creative programming."
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "address": ""
+  },
+  {
+   "@type": "LocalBusiness",
+   "address": ""
+  },
+  {
+   "@type": "LocalBusiness",
+   "address": ""
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.escarpmentdomes.co.nz/",
+ "httpStatus": 200,
+ "htmlLang": "en-NZ"
+}

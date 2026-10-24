@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/8038906263",
+ "name": "Oxwagon Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": -25.7584847,
+ "lng": 27.9261655,
+ "country": "South Africa",
+ "city": "Madibeng Local Municipality",
+ "region": "North West",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.oxwagonlodge.co.za",
+ "fetchedAt": "2026-10-22T06:15:48.242Z",
+ "pages": [
+  {
+   "url": "https://oxwagonlodge.co.za/",
+   "kind": "home",
+   "title": "Home | Oxwagon Lodge",
+   "description": "Welcome to Oxwagon Lodge, Hartbeespoort Dam Oxwagon Lodge is a spesialiteitslodge (“specialty lodge”) and one of the most unusual party venues in South",
+   "text": "Home | Oxwagon Lodge\nWelcome to Oxwagon Lodge, Hartbeespoort Dam\nOxwagon Lodge is a spesialiteitslodge (“specialty lodge”) and one of   the most unusual party venues   in South Africa. With spesialiteitslodge we mean that you sleep in an   original Oxwagon .  Each Oxwagon is   fully restored, cute and cosy!\nThis is the ideal place for   weddings, celebrations, conferences, reunions, Year End Functions, and for romantic weekend get-aways.\nAmenities include a   lapa, restaurant, braai area, dance floor, outdoor amphitheater and Conference Centre . Our party room near the pool has fantastic views of the Hartbeespoort Dam. Visit the   Oxwagon Museum   to understand the advanced technology of 100 years ago. Oxwagon Lodge also has a “cheap and cheerful” backpacker’s accommodation in a converted double-decker bus, with bunk beds. Bring your sense of humour!\nHartbeespoort Dam is the   “ Playground of Gauteng ” .\nThe   Oxwagon Restaurant   serves Sunday lunch including   oxtailpotjiekos, real farm bread and other traditional dishes.  Or, book a Romantic Sunset Picnic basket.\nAll   group functions and conference bookings   are welcome. Call Mark and the Team, on   +27 78 075 0720   or email to info@oxwagon.co.za"
+  },
+  {
+   "url": "https://oxwagonlodge.co.za/our-guest-book/",
+   "kind": "sub",
+   "label": "Our Guest Book",
+   "title": "Our Guest Book | Oxwagon Lodge",
+   "text": "Our Guest Book | Oxwagon Lodge\nOur Guest Book"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://oxwagonlodge.co.za/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

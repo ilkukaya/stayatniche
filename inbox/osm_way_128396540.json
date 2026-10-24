@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/128396540",
+ "name": "Hôtel-Restaurant \"Les Grottes\"",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 47.3584782,
+ "lng": 6.9151615,
+ "country": "Switzerland",
+ "city": "Réclère",
+ "region": "Jura",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://camping-restaurant-les-grottes.ch",
+ "fetchedAt": "2026-10-24T06:04:00.256Z",
+ "pages": [
+  {
+   "url": "https://camping-restaurant-les-grottes.ch/",
+   "kind": "home",
+   "title": "Index of /",
+   "description": "",
+   "text": "Index of / Index of /\nName Last Modified Size\ncgi-bin 2026-09-26 09:02 -\nphp.ini 2026-09-26 09:02 1k\nProudly Served by LiteSpeed Web Server at camping-restaurant-les-grottes.ch Port 443"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://camping-restaurant-les-grottes.ch/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

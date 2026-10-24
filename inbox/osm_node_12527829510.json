@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/12527829510",
+ "name": "Ecolodge de Parel Schoorl",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 52.6899646,
+ "lng": 4.7063448,
+ "country": "Netherlands",
+ "city": "Schoorl",
+ "region": "North Holland",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.booking.com/hotel/nl/ecolodge-de-parel-schoorl.nl.html",
+ "fetchedAt": "2026-10-24T06:04:27.148Z",
+ "pages": [
+  {
+   "url": "https://www.booking.com/hotel/nl/ecolodge-de-parel-schoorl.nl.html",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.booking.com/hotel/nl/ecolodge-de-parel-schoorl.nl.html",
+ "httpStatus": 202,
+ "htmlLang": "en"
+}

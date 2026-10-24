@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/5094622544",
+ "name": "West Highland Way Sleeper",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 56.5161289,
+ "lng": -4.7641718,
+ "country": "GB",
+ "city": null,
+ "region": null,
+ "osm": {
+  "tourism": "hostel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.westhighlandwaysleeper.com/",
+ "fetchedAt": "2026-10-17T05:46:33.334Z",
+ "pages": [
+  {
+   "url": "https://www.westhighlandwaysleeper.com/",
+   "kind": "home",
+   "title": "West Highland Way Sleeper",
+   "description": "",
+   "text": "West Highland Way Sleeper\n0\nPlease note: In order to keep prices down, especially in light of recent inflation, we ask that guests make up their own beds. Fresh linen will be provided on arrival.\nA unique railway bunkhouse in the Highlands.\nLearn More\nThe West Highland Way Sleeper is a bunkhouse hostel on the Bridge of Orchy Station platform.\nCome and stay at the most unique accommodation on the West Highland Way.\nReady to explore the West Highland Way?\nWe are now taking bookings for the 2024 season.\nBook Now\nOur bunkhouse has some of the most competitive prices on the West Highland Way.\nWe currently have a ten person bunk room, or a private room for four with 4 bunks and en-suite bathroom facilities, which can be booked in its entirety (sorry not for single occupancy though).\nPrices\n“This is an incredible, unique place to stay- a hostel in a working train station surrounded by incredible views.”\n— Trip Advisor Review Aug ‘21"
+  },
+  {
+   "url": "https://www.westhighlandwaysleeper.com/about",
+   "kind": "sub",
+   "label": "About",
+   "title": "About &mdash; West Highland Way Sleeper",
+   "text": "About West Highland Way Sleeper\n0\n“What makes the West Highland Sleeper a MUST stay is Helen, it's owner! She is the heartbeat of one of the most unique places I have stayed and as a travel professional, I have stayed at thousands of places. From the old world charm of staying literally in a historic train depot to the love that Helen gives to each and every person that comes, this is a highlight to any stay in Scotland.”\nGoogle Review Oct '21\nAbout us.\nGetting Here.\nAs well as being a working train station, we are directly along the famous West Highland Way trail. We are also accessible by car, just off the A82.\nwww.thetrainline.com/stations/bridge-of-orchy\nFacilities.\nThe main bunkroom has an adjoining shower and toilet block, and towel rental is available upon request. We also have a 4 bed en-suite bunkroom that can be booked out in it's entirety.\nLaundry facilities at the green welly in tyndrum . Coin operated Washing machines and dryers on the car park.\nThere is a defibrillator located on site\nFood.\nCurrently food is available on request. We can cater for various dietary needs. Please enquire upon booking.\nPayments.\nDeposit due upon booking, remaining balance 4 weeks prior to arrival. We take all major credit/debit cards, and will send a secure WorldPay link for payment.\nBooking.\nCall or email to enquire about availability. We will be as flexible as possible.\nReviews.\nEnjoyed your stay with us? Please leave us a tripadvisor or google review to help build our profile.\nFind Us\nWest Highland Way Sleeper,\nBridge of Orchy Station,\nOban,\nPA36 4AD\nPhone\n07778 746 600"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.westhighlandwaysleeper.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-GB"
+}

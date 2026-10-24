@@ -1,0 +1,41 @@
+{
+ "id": "osm:node/1830984405",
+ "name": "El Castillo",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": -31.1127835,
+ "lng": -64.4747733,
+ "country": "Argentina",
+ "city": "Pedanía San Antonio",
+ "region": "Córdoba",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q5350958",
+ "wikidataDescription": "building in Province of Córdoba, Argentina",
+ "website": "https://elcastillohotelfabrega.com.ar/historia/",
+ "fetchedAt": "2026-10-22T06:15:31.265Z",
+ "pages": [
+  {
+   "url": "https://elcastillohotelfabrega.com.ar/historia/",
+   "kind": "home",
+   "title": "Historia | El Castillo Hotel Fábrega",
+   "description": "",
+   "text": "Historia | El Castillo Hotel Fábrega\nLa historia del castillo\nEl castillo fue construido alrededor del año 1870 como casco principal de la estancia “Las Playas”, en la localidad de Valle Hermoso, Provincia de Córdoba, República Argentina.\nA principios del siglo XX el castillo se amplió, conservando su estilo medieval, para transformarse en el lujoso hotel «Castillo Monte Olivo”, embellecido con pisos de granito y parquet, ebanistería de cedro y quina, mobiliario provenzal, vajilla de porcelana y plata, grifería de bronce y luminaria de hierro forjado.\nEn 1930 el hotel pasó a manos del inmigrante italiano Don José Ferrarini, quien amplió más aún el tamaño del edificio. Pocos años después el Castillo cerró sus puertas y quedó sin uso durante treinta años.\nDesde 1970 a 2000, la propiedad fue utilizada como colonia de vacaciones por el sindicato de los metalúrgicos y concesionada a operadores de turismo estudiantil y de tercera edad. En los últimos años de esta etapa el castillo quedó sin posibilidades de utilización debido al deterioro sufrido por el descuido, la falta de mantenimiento y los saqueos repetidos.\nEn 2002, el castillo recobró su valor histórico gracias a una restauración que duró cuatro años, realizada completamente por mano de obra local y dirigida artesanalmente por la familia Fábrega. Desde el año 2006, con el nombre de El Castillo Hotel Fabrega Organizational Center, opera como hotel especializado en turismo familiar, eventos corporativos y programas de capacitación.\nD esde el mes de abril de 2022 El Castillo Hotel Fábrega es gestionado por un nuevo grupo directivo. Con la calidez de siempre, con nuevas ideas pero respetando su esencia y su historia ofreceremos a quienes nos visiten la posibilidad de alojarse en un edificio histórico, con las comodidades de un hotel de lujo para vivir una experiencia única en las sierras de Córdoba.⁣\nFotos gentileza de la Familia Fábrega. ( https://www.elcastillohotel.com.ar/ )\nRESERVAS\nEscribinos para obtener información acerca de disponibilidad y tarifas.\nEnviar Whatsapp\nSeguir\nSeguir"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "El Castillo Hotel",
+  "url": "https://en.wikipedia.org/wiki/El_Castillo_Hotel",
+  "extract": "El Castillo Hotel Fábrega is a building with [medieval architecture|medieval-style]] architecture that was built about 1870 and is located in Valle Hermoso (Córdoba), Argentina."
+ },
+ "notes": [],
+ "finalUrl": "https://elcastillohotelfabrega.com.ar/historia/",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/13081725737",
+ "name": "Tente safari",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 44.2088936,
+ "lng": 1.8023919,
+ "country": "France",
+ "city": "Caylus",
+ "region": "Occitania",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.domainelesquatretoits.fr/nos-tentes",
+ "fetchedAt": "2026-10-20T06:12:47.357Z",
+ "pages": [
+  {
+   "url": "https://www.domainelesquatretoits.fr/nos-tentes",
+   "kind": "home",
+   "title": "Nos tentes | My Site",
+   "description": "",
+   "text": "-->\nNos tentes | My Site\ntop of page\nLOCATION DE 4 TENTES SAFARI\nDESCRIPTIF\n​Ouverture du 1er juillet au 31 ao t\nCapacit : 4 ou 5 personnes\nTerrasse int gr e avec mobilier salon de jardin\n2 chambres, 1 salon, 1 cuisine, 1 salle de bain/WC disposant de l' lectricit et de l'eau chaude/froide (non potable)\nCe locatif ne r pond pas aux normes permettant l'accessibilit aux personnes mobilit r duite.\nD TAILS\nChambre parents : 1 lit 190 x 160 cm avec matelas mousse/ressorts et sommier lattes.\nChambre enfants : 2 ou 3 lits 190 x 90 suivant la tente avec matelas mousse/ressorts et sommier lattes.\nCoffre.\nLes draps, oreillers, couettes, linge de lit sont fournis et les lits seront faits l'arriv e.\nLit parapluie b b et chaise haute disposition sur demande.\nSalle de bain avec douche, lavabo et WC.\nLes serviettes de bain, tapis de bain sont fournis.\nCuisine quip e avec r frig rateur/cong lateur, plaque de cuisson 4 feux gaz, vier de cuisine, cafeti re Nespresso, m nag re compl te pour 5 personnes avec bols, mugs, po le, casseroles et couvercles, saladier, gouttoir, essoreuse salade, passoire, plats, tire-bouchon, conome.\n1 grande table en bois avec 4 chaises et 1 banc.\nLes torchons, manipules sont fournis.\nSalon de jardin : 1 table d'ext rieur et bancs ou chaises, barbecue gaz, 1 canap et 2 fauteuils, table basse, hamac et parasol.\nRobinet ext rieur avec tuyau d'arrosage.\nEx. de tarifs pour 4 personnes ( la semaine du samedi au samedi)\nDu samedi 27 juin au samedi 11 juillet 2026 : 1 120 (suppl ment pour une 5 me personne : 70 )\nDu samedi 11 juillet au samedi 15 ao t 2026 : 1 320 (suppl ment pour une 5 me personne : 70 )\nDu samedi 15 ao t au samedi 29 ao t 2026 : 1 180 (suppl ment pour une 5 me personne : 70 )\nR duction 10 % sur les s jours entre le 16 ao t et le 29 ao t, soit 1062 la semaine\nUne baguette et des viennoiseries sont livr es tous les matins au pied de la tente\nA partir de 2 semaines de location cons cutives, une remise de 10 % est accord e sur la deuxi me semaine.\nUne taxe locale de s jour 2026 est applicable pour toute personne de plus de 18 ans\nSuppl ment pour un chien : 5 par jour\nLes arriv es s'entendent apr s 16h et les d parts pour 10h\nCONDITIONS\n​\nLa r servation est effective d s r ception du contrat de location sign accompagn du versement de l'acompte correspondant la formule choisie, l'ordre de SAS Les Quatre Toits . Le solde devra tre r gl au maximum 7 jours avant l'arriv e. Une caution de 500 sera demand e l'arriv e et restitu e apr s un tat des lieux. La tente safari doit tre rendue rang e ; un forfait m nage de 80 sera retenu au titre des frais de nettoyage. Il est interdit de fumer dans nos locatifs.\nbottom of page\n{\"siteFeaturesConfigs\":{\"accessibilityBrowserZoom\":{\"isBuilder\":false,\"isStudio\":false,\"isResponsive\":false},\"appMonitoring\":{\"appsWithMonitoring\":[{\"appId\":\"1380b703-ce81-ff05-f115-39571d94dfcd\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"5bd9b06685a79a89ba27f27e2ede6be226068816873ed1f36c70d51d\"}}}},\"panoramaConfigByArtifactId\":{\"ecom-bm-subscriptions-draft\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"ecom-bm-subscriptions-draft\",\"fingerprint\":\"5bd9b06685a79a89ba27f27e2ede6be226068816873ed1f36c70d51d\"}}},\"abandoned-carts-bm\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"abandoned-carts-bm\",\"fingerprint\":\"13d15bc7d44af4c2920916fd32d054add9c5a8454fbd28fa89f8f19d\"}}}},\"externalIdByComponentId\":{\"fb919e60-be16-415f-bbe1-2d1c488c1765\":\"ecom-platform-providers\"}},{\"appId\":\"13d21c63-b5ec-5912-8397-c3a5ddb27a97\",\"isWixTPA\":true,\"monitoringComponent\":{\"monitoring\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"a08b0cb0c3e8c65d1dcca879f766a610deafc33587f4aea94578c63c\"}}}},\"panoramaConfigByArtifactId\":{\"bookings-uou\":{\"type\":\"PANORAMA\",\"panoramaOptions\":{\"project\":{\"groupId\":\"com.wixpress\",\"artifactId\":\"bookings-uou\",\"fingerprint\":\"a08b0cb0c3e8c65d1dcca879f766a610deafc33587f4aea94578c63c\"}}}},\"externalIdByComponentId\":{\"4936242d-905c-48bf-80ce-5f56d075de4f\":\"bookings-uou\",\"426941a1-1d08-4cf4-ae61-e433e800cde5\":\"bookings-uou\",\"216f9b1c-cb6d-4299-b97d-d3c0e2600b88\":\"bookings-uou\",\"73a358c8-c2c8-4342-bf64-9079e92178fc\":\"bookings-uou\",\"c151d9f7-1582-407c-bb59-59030f244b47\":\"bookings-uou\",\"117fa14c-cf9c-47f5-b2cb-7797094612ce\":\"bookings-uou\",\"bcc1b809-bde5-4d7d-a7bb-89831fe5ccb8\":\"bookings-uou\",\"c2557cb0-c439-4d99-80b3-606d54cb987f\":\"bookings-uou\",\"9f9aa00e-1c62-40ab-95c8-a5e6c5141dfd\":\"bookings-uou\",\"e42a982c-8e01-448a-b0cc-9908abda310a\":\"bookings-uou\",\"b6cd59dd-3842-48ab-a4dd-8a65904ff2fa\":\"bookings-uou\",\"5701aac0-952e-4640-b3d0-17c4ae96e73e\":\"bookings-uou\",\"3e284fce-0473-4c3d-b1cb-d8a8fb27e013\":\"bookings-uou\",\"bf90b29b-d88b-4dfa-b2b9-cfa319cee8a3\":\"bookings-uou\",\"a4f1c2d8-6e3b-4a59-9c70-2b8d5f1e3a64\":\"bookings-uou\",\"125e6cb9-d717-466a-a18a-980479a599bf\":\"bookings-uou\",\"9c0d6e00-e4a4-4947-9299-373a348085d9\":\"bookings-uou\",\"2b95f816-9d3c-4c95-8c31-26d5805ff2bf\":\"bookings-uou\",\"9471b4dd-b1bd-4691-94f5-69d8caa05889\":\"bookings-uou\",\"b3e2f1a0-4c5d-4e6f-8a7b-9c0d1e2f3a4b\":\"bookings-uou\",\"088daa34-9b26-4221-a8a5-2cf5e0d48c78\":\"bookings-uou\",\"c1e28bc2-6b09-4360-89af-25684c9a700c\":\"bookings-uou\",\"55eb7a01-c7b3-4bed-92b6-c95f4db13fed\":\"bookings-uou\",\"828d26ea-cd06-4140-a9fb-1fe6f6dab30e\":\"bookings-uou\",\"e5cdc542-bcda-4070-a6f9-d316db576a50\":\"bookings-uou\",\"693310f9-02a4-4b59-9637-a46004f6afad\":\"bookings-uou\",\"c2a7e5d1-9b6f-4a3e-8d24-1f0b7c6e9a52\":\"bookings-uou\",\"7f8870b4-2556-4cd7-95ed-481c256cc3dd\":\"bookings-uou\",\"f6c99b64-b2f4-4f5b-a5ca-be73178619a1\":\"bookings-uou\",\"0b5aee07-66f8-4be5-a4d3-54fd34cb49a4\":\"bookings-uou\",\"01a2daac-0333-4a27-afc0-a76b4a7a62db\":\"bookings-uou\"}}]},\"assetsLoader\":{\"isStylableComponentInStructure\":true,\"hasBuilderComponents\":false},\"businessLoggerService\":{},\"business"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.domainelesquatretoits.fr/nos-tentes",
+ "httpStatus": 200,
+ "htmlLang": "fr"
+}

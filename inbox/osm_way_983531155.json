@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/983531155",
+ "name": "Castello Studios",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 40.0385078,
+ "lng": 23.3588534,
+ "country": "Greece",
+ "city": "Σίβηρη",
+ "region": "Central Macedonia",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://castello.gohalkidiki.com",
+ "fetchedAt": "2026-10-18T06:05:43.899Z",
+ "pages": [
+  {
+   "url": "http://castello.gohalkidiki.com/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://castello.gohalkidiki.com/",
+ "httpStatus": 202,
+ "htmlLang": null
+}

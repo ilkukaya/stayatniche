@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/376157785",
+ "name": "Eisenbahnromantikhotel BR 50",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 53.3136002,
+ "lng": 12.2490169,
+ "country": "DE",
+ "city": "Meyenburg",
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.eisenbahnromantik-hotels.de/",
+ "fetchedAt": "2026-10-19T06:23:26.013Z",
+ "pages": [
+  {
+   "url": "https://www.eisenbahnromantik-hotels.de/willkommen.html",
+   "kind": "home",
+   "title": "Willkommen - Eisenbahnromantikhotel Meyenburg",
+   "description": "",
+   "text": "Willkommen - Eisenbahnromantikhotel Meyenburg\nWillkommen zurück!\nDie Überlegungen für das \"Eisenbahnromantik-Hotel\" entstammen einer alten, innigen Leidenschaft der Initiatoren zu Eisenbahn und deren Betrieb. Geschaffen werden sollte eine besondere Atmosphäre innerhalb der Anlage, um Freunde und Fans der Lokomotive eine neue Anlaufstelle für den speziellen Urlaub zu schaffen. Sie finden somit nicht nur im Außenbereich die namensgebende Lok im Original sondern auch im Innenbereich Details, Bilder und technische Feinheiten der Baureihen.\nAls besonderes Highlight bieten wir den „ Ehrenlokführerschein “ an, in dem Sie Weisungen durch Signale verstehen lernen und am Ende selbst die Möglichkeit haben (unter Aufsicht) ein Schienenfahrzeug zu führen.\nIhr nächster Urlaub steht dann unter dem Motto: „Freizeit erleben“.\nUnsere Dampflok\nHoliday Check\nPrignitzer Landhotel GmbH\nEisenbahnromantik Hotel „BR 50“\nFreyensteiner Straße 7\n16945 Meyenburg\nTelefon 033968 50149-0\nDiese Seite verwendet Cookies, um Ihnen ein gutes Angebot zu bieten. Wenn Sie auf unserer Internetseite weitersurfen stimmen Sie der Cookie-Nutzung zu.\nich stimme der Cookie-Nutzung zu."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.eisenbahnromantik-hotels.de/willkommen.html",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

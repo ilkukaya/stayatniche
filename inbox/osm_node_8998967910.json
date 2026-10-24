@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/8998967910",
+ "name": "Ecolodge Morgana",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 15.1848452,
+ "lng": -23.5886077,
+ "country": "Cape Verde",
+ "city": "Sao Miguel",
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://ecolodgemorgana.com/",
+ "fetchedAt": "2026-10-24T06:03:31.634Z",
+ "pages": [
+  {
+   "url": "https://ecolodgemorgana.com/",
+   "kind": "home",
+   "title": "Ecolodge Morgana &#8211; Une oasis de nature et une Ambiance relaxante",
+   "description": "",
+   "text": "Ecolodge Morgana Une oasis de nature et une Ambiance relaxante\nCONTACT US\nArchives\n27 Nov\nMasonry acceuil 4\nLe temps d’un week-end ou pour des vacances, les services proposés par l’Ecolodge permettront aux clients de se ressourcer, de découvrir des lieux authentiques, de se rapprocher de la nature en découvrant les actions de protection des singes du Cabo Verde et les tortues marines, et de profiter de moment de détente au bord de [ ]\nEN SAVOIR PLUS\n27 Nov\nMasonry acceuil 3\nEN SAVOIR PLUS\n27 Nov\nMasonry acceuil 2\nEN SAVOIR PLUS\n27 Nov\nMasonry Acceuil 1\nSur l’ile de Santiago, à seulement 45 minutes de Praia et à 15 minutes de Santa Cruz en direction de Tarrafal, entre plages et montagnes à Calheta de São Miguel, unique et exclusif l'Ecolodge Morgana (anciennement Villa Morgana) vous propose sa vision d’un tourisme différent dans l’île de Santiago.\nEN SAVOIR PLUS\n9 Juil\nBonjour tout le monde !\nBienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !\nEN SAVOIR PLUS\n17 Août\nLounge Bar\nPhasellus enim libero, blandit vel sapien vitae, condimentum ultricies magna et. Quisque euismod orci ut et lobortis.\nEN SAVOIR PLUS\n+238 273 12 12 / +238 996 93 56 / ecolodge.morgana@gmail.com"
+  },
+  {
+   "url": "https://ecolodgemorgana.com/bonjour-tout-le-monde/",
+   "kind": "sub",
+   "label": "EN SAVOIR PLUS",
+   "title": "Bonjour tout le monde ! &#8211; Ecolodge Morgana",
+   "text": "Bonjour tout le monde ! Ecolodge Morgana\nCONTACT US\nBonjour tout le monde !\nBienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !\nUn commentaire\nUn commentateur WordPress dit :\n9 juillet 2021 à 18h48\nBonjour, ceci est un commentaire.\nPour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.\nLes avatars des personnes qui commentent arrivent depuis Gravatar .\nRépondre\nLaisser un commentaire Annuler la réponse\nVotre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués avec *\nCommentaire *\nNom *\nE-mail *\nSite web\nEnregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.\n+238 273 12 12 / +238 996 93 56 / ecolodge.morgana@gmail.com"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://ecolodgemorgana.com/",
+ "httpStatus": 200,
+ "htmlLang": "fr-FR"
+}

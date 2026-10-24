@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/12522549571",
+ "name": "Harmony Villa Ioannina castle",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 39.6718225,
+ "lng": 20.8591145,
+ "country": "Greece",
+ "city": "Ιωάννινα",
+ "region": "Epirus",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.harmony-villa.gr/",
+ "fetchedAt": "2026-10-18T06:05:40.222Z",
+ "pages": [
+  {
+   "url": "https://www.harmony-villa.gr/el/",
+   "kind": "home",
+   "title": "Harmony Villa Homepage - Harmony Villa Ioannina Castle",
+   "description": "Η Harmony Villa είναι μια πολυτελής κατοικία που βρίσκεται στο ιστορικό κάστρο των Ιωαννίνων.\r\n\r\nΈχει διακοσμηθεί προσεκτικά με μοντέρνες και κομψές λεπτομέρειες,",
+   "text": "Harmony Villa Homepage - Harmony Villa Ioannina Castle\nSkip to main content\nHARMONY-VILLA | IOANNINA CASTLE\nΓια όσους αναζητούν μια πολυτελή απόδραση,\nη βίλα Harmony στο ιστορικό κάστρο των Ιωαννίνων είναι η τέλεια επιλογή.\nΣε ένα μοναδικό περιβάλλον, αυτή η κατοικία έχει διακοσμηθεί προσεκτικά για να εξασφαλίσει στους επισκέπτες μια αξέχαστη διαμονή.\nΗ Harmony Villa εκτείνεται σε 142μ2 και έχει τρία επίπεδα. Με 3 υπνοδωμάτια, 3 μπάνια, playroom - χώρο εργασίας, σαλόνι, κουζίνα και κλειστό γκαράζ είναι το ιδανικό μέρος για να χαλαρώσετε με τους φίλους ή την οικογένειά σας και να εξερευνήσετε την πόλη των Ιωαννίνων και την ευρύτερη περιοχή.\nΤηλ. κρατήσεων:\n+30 6988 288070\nΑυτή η διεύθυνση Email προστατεύεται από τους αυτοματισμούς αποστολέων ανεπιθύμητων μηνυμάτων. Χρειάζεται να ενεργοποιήσετε τη JavaScript για να μπορέσετε να τη δείτε.\nΚΡΑΤΗΣΗ\nINTERIOR DESIGN\nΟ εσωτερικός σχεδιασμός της Harmony Villa συνδυάζει άψογα τη μοντέρνα αισθητική με τη λειτουργικότητα, δημιουργώντας έναν χώρο που απολαμβάνεις να βλέπεις και ζεις ευχάριστα.\nIMAGES\nΔείτε όλες τις φωτογραφίες\nH ΤΕΛΕΙΑ ΕΠΙΛΟΓΗ\nΓια όσους αναζητούν μια πολυτελή απόδραση, η Harmony Villa στο ιστορικό κάστρο των Ιωαννίνων είναι η τέλεια επιλογή.\nΕπικοινωνήστε μαζί μας\n+30 6988 288070\nDirections to Harmony-Villa"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.harmony-villa.gr/el/",
+ "httpStatus": 200,
+ "htmlLang": "el-gr"
+}

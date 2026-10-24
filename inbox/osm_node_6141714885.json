@@ -1,0 +1,50 @@
+{
+ "id": "osm:node/6141714885",
+ "name": "Safari Narayani Hotel",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 27.5686403,
+ "lng": 84.365329,
+ "country": "Nepal",
+ "city": "Bharatpur",
+ "region": "Bagamati Province",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.safarinarayani.com.np/",
+ "fetchedAt": "2026-10-24T06:03:10.510Z",
+ "pages": [
+  {
+   "url": "https://safarinarayani.com.np/",
+   "kind": "home",
+   "title": "Safari Narayani",
+   "description": "Hotel Safari Narayani",
+   "text": "Safari Narayani\nCancel Preloader\nHome\nIntroduction\nAbout Chitwan National Park\nActivities\nTentative Programme\nTariff\nReservation\nContact Us\n-->"
+  },
+  {
+   "url": "https://safarinarayani.com.np/hotel-fact-sheet.html",
+   "kind": "sub",
+   "label": "Hotel Fact Sheet",
+   "title": "Safari Narayani",
+   "text": "Safari Narayani\nCancel Preloader\n-->\nHome\nIntroduction\nAbout Chitwan National Park\nActivities\nTentative Programme\nTariff\nReservation\nContact Us\n-->\n-->"
+  },
+  {
+   "url": "https://safarinarayani.com.np/program.html",
+   "kind": "sub",
+   "label": "Tentative Programme",
+   "title": "Safari Narayani",
+   "text": "Safari Narayani\nCancel Preloader\nHome\nIntroduction\nAbout Chitwan National Park\nActivities\nTentative Programme\nTariff\nReservation\nContact Us\n-->"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://safarinarayani.com.np/",
+ "httpStatus": 200,
+ "htmlLang": "zxx"
+}

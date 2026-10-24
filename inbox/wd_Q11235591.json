@@ -1,0 +1,39 @@
+{
+ "id": "wd:Q11235591",
+ "name": "Botel Albatros",
+ "queueStatus": "weak",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 50.0936,
+ "lng": 14.4294,
+ "country": "Czechia",
+ "city": "Prague",
+ "region": null,
+ "osm": null,
+ "wikidata": "Q11235591",
+ "wikidataDescription": "hotel in Prague, Czechia",
+ "website": "http://www.botelalbatros.cz",
+ "fetchedAt": "2026-10-23T06:10:34.088Z",
+ "pages": [
+  {
+   "url": "https://www.botelalbatros.cz/",
+   "kind": "home",
+   "title": "Botel Albatros | Plavba Prahou",
+   "description": "",
+   "text": "Botel Albatros | Plavba Prahou\nPlavba Prahou\nZažijte nezapomenutelnou plavbu po historickém centru Prahy v lodi Albatros II.\nRezervace\nNezapomenutelný zážitek\nZažijte fantastickou kuchyni, vychutnejte si pohodlí útulných kajut lodi Albatros...\nRezervace\nPrevious\nNext\nRestaurace\nRestaurace, bar a terase se nacházení na horní palubě botelu Albatros, kde zažijete nevšední zážitek v lodním stylu s výhledem na řeku Vltavu a Pražský hrad.\nUbytování\nBotel Albatros disponuje lodními kajutami s manželskou postelí nebo oddělenými lůžky, kde můžete načerpat atmosféru vody a lodního ubytování. Každá kajuta je vybavena koupelnou, WC a sateletní televizí.\nBotel Albatros\nBotel Albatros je první ze tří botelů vybudovaných v Praze. Spuštěn do provozu byl již v roce 1969 a prošel postupnou rekonstrukcí s cílem vytvořit ojedinělé ubytovací zařízení, kdy v centru velkoměsta si můžete přiblížit lodní atmosféru, kterou zažívají hosté plovoucích lodí.\nLoď Albatros\nZažijte kouzelnou atmosféru staré Prahy ze zcela nové perspektivy. Výletní loď Malý Albatros vás na Vltavě provede centrem hlavního města a ukáže vám známá panoramata z vodní hladiny. Těšit se můžete na Karlův most, Národní divadlo, Vyšehrad nebo Kampu.\nJedinečné ubytování v Praze\nZažijte nezapomenutelnou atmosféru staré Prahy, kterou umocní zážitek z paluby legendárního botelu Albatros.\nTématické interiéry kajut a vyníkající kuchyně, kterou si můžete vychutnat z paluby, ve vás navodí fantastickou atmosféru starého města pražského.\nNezapomenutelný zážitek\nInterér a exteriér botelu Albatros\nDÁRKOVÝ POUKAZ\nPobyt v Botelu Albatros\nUbytování v botelu pro 2 osoby\nSnídaně a tříchodová romantická večeře\nZískat poukaz\nTipy od našich partnerů\nVyzkoušejte oblíbené zahraničné online casino a užijte si zábavu i mimo pobyt v botelu.\nPodívejte se na přehled oblíbených Zahraničné kasina pre Slovákov a vyberte si to pravé pro vaši zábavu.\nObjevte oblíbený přehled Zahraničné kasina pre Slovákov a vyberte si zábavu podle svého vkusu.\nVyzkoušejte oblíbené online casino a užijte si zábavu i mimo pobyt v botelu.\nPodívejte se na přehled oblíbených telesnavychova.sk a vyberte si to pravé pro vaši zábavu.\nObjednávka dárkového poukazu\n×\nName\nOdeslat\nEmail byl odeslán\n×\nDěkujeme, ozveme se jakmile to bude možné.\nzavřít"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "cs",
+  "title": "Botel Albatros",
+  "url": "https://cs.wikipedia.org/wiki/Botel_Albatros",
+  "extract": "Botel Albatros je plovoucí tříhvězdičkový hotel zakotvený roku 1969 jako první z pražských botelů, v Praze-Novém Městě, při pravé straně Vltavy a při nábřeží Ludvíka Svobody mezi Štefánikovým mostem a ostrovem Štvanice, nedaleko Poštovního muzea. Provozovatelem hotelu je Bakal, spol. s r. o."
+ },
+ "notes": [],
+ "finalUrl": "https://www.botelalbatros.cz/",
+ "httpStatus": 200,
+ "htmlLang": "cs"
+}

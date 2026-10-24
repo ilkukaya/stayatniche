@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/13378700230",
+ "name": "Jungle Trails Homestay",
+ "queueStatus": "verified",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 15.4507072,
+ "lng": 74.2096209,
+ "country": "India",
+ "city": "Dharbandora",
+ "region": "Goa",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.jungletrailsgoa.org/",
+ "fetchedAt": "2026-10-16T06:01:26.002Z",
+ "pages": [
+  {
+   "url": "https://www.jungletrailsgoa.org/",
+   "kind": "home",
+   "title": "Home | Jungletrails Homestay",
+   "description": "",
+   "text": "-->\nHome | Jungletrails Homestay\ntop of page\nWelcome to Your Home in the Jungle\nWhere the jungle whispers, and the soul rests.\nTucked away in the serene village of Taldem, surrounded by lush forests, gentle streams, and whispering trees, Jungletrails Homestay offers an authentic Goan escape for hardcore wildlifers, nature lovers, solo travelers, and families alike.\n​\nHere, you don't just stay you reconnect. With nature. With yourself. And with the slower rhythm of life.\nActivities\n​\nWe offer immersive experiences that let you connect with nature, culutre and heritage\nRead More\nFacilities\n​\nCheck out the rooms and amenities available at the homestay\nRead More\nTestimonials\n​ ​\nRead what our guests feel about their experience with us.\nRead More\nContribute\nSupport the Community Every Contribution Counts\nCommunity tourism thrives when people come together. It's about more than just travel it's about connection, culture, and creating lasting memories for the travelers and benefits for local people.\nWhether you're a local looking to share your knowledge, a visitor seeking authentic experiences, or someone passionate about sustainable travel, this is the place for you here.\n​\nYou can contribute in many ways:\nShare your stories and experiences\nSupport local artisans and the women entrepreneurs\nVolunteer your skills or time\nHelp spread the word about ethical, community-led tourism\n​\nEvery action big or small helps strengthen local economies, preserve cultures, and protect the environment.\nSo however you choose to get involved, know this: you're part of something meaningful.\n​\nGET IN TOUCH WITH US at info@mrugayaxpeditions.com\nbottom of page"
+  },
+  {
+   "url": "https://www.jungletrailsgoa.org/about-us",
+   "kind": "sub",
+   "label": "About Us",
+   "title": "About Us | Jungletrails Homestay",
+   "text": "-->\nAbout Us | Jungletrails Homestay\ntop of page\nAbout Us\n​Welcome to Jungle Trails Homestay, a quiet retreat nestled deep in the forests of Taldem, a sleepy village in South Goa. We're not just another place to stay we're a family, a home, and a part of the land we live on.\nOur Story\nThis homestay began as a simple idea: to share the peace and beauty of our village with those seeking something real. No neon signs, no party crowds just the sounds of the forest, home-cooked Goan food, and the warmth of village hospitality.\n​\nWe the women of the Brahmani Self Help group have lived on this land for generations. We've grown up listening to the cicadas at dusk, watching the monsoon turn the hills lush green, and learning which herbs grow wild after the rains. We built Jungle Trails not as a business, but as a way to invite travellers into this way of life.\n​\nLocated on the boundary of Bhagwan Mahaveer Wildlife Sanctuary and a few kms from the iconic 13th century Mahadev Temple of Tambdi-Surla, the homestay opens up immense possibilities to the travelers seeking to connect with mother nature.​\nWhy We Do This\nWe believe in slow mornings, sumptuous breakfast, good conversation, and the healing power of nature. We wanted to create a space where guests can unplug, unwind, and experience Goa beyond the beaches in its villages, forests, food, and people.\n​\nHosting is personal to us. Whether you're here for a weekend or a week, you're not just a guest you're part of our home.\nSustainable, Simple, and Soulful\nThe homestay is a traditional mud house with cowdung smeared floor and blends naturally with the environment.\nWe compost, avoid plastic, and source ingredients locally from our farms and the forest.\nWe support local artisans and guides by weaving them into our guest experiences.\nCome as a Guest, Leave as Family.Whether you're looking for a quiet retreat, a family getaway, a solo escape into nature, or a hardcore exploration of the wildlife, Jungle Trails Homestay offers a genuine connection to the land, to the community, and maybe even to yourself.We look forward to welcoming you to our little jungle paradise.\nWe are thankful for the financial and technical support provided by the Mineral Foundation of Goa to set-up the homestay and later the Goa State Rural Livelihood Mission (GSRLM) for supporting us since 2023. We are also thankful to our partner Mrugaya Xpeditions for the continued marketing and technical support\nbottom of page"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.jungletrailsgoa.org/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/7015420647",
+ "name": "La Perla de la Selva EcoLodge & Aventura",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -27.2065923,
+ "lng": -54.039285,
+ "country": "Argentina",
+ "city": "El Soberbio",
+ "region": "Misiones",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://experiencemocona.wixsite.com/perladelaselva",
+ "fetchedAt": "2026-10-19T06:23:54.173Z",
+ "pages": [
+  {
+   "url": "https://experiencemocona.wixsite.com/perladelaselva",
+   "kind": "home",
+   "title": "La Perla de la Selva Ecolodge | Saltos del Mocona",
+   "description": "La Perla de la Selva Lodge, en medio de la selva ofrece confort y excelente comida.Sobre arroyo. Acceso a 3 kms de ruta prov. 2 a saltos del moconá.",
+   "text": "-->\nLa Perla de la Selva Ecolodge | Saltos del Mocona\ntop of page\nEste sitio web fue creado con Wix. Crea el tuyo hoy mismo. Empezar\nEXCURSIONES\n​\nLos saltos del Mocon son el principal atractivo de esta region, ubicados dentro de la reserva Yabot . Pero el rea ofrece una variedad increible de actividades y lugares extras que merecen ser visitados!\nMás Info\nCABA AS\nNuestras caba as camino a los saltos del Mocona estan totalmente equipadas con ba o, cocina, ropa de cama, ventiladores y caloventores. Puedes saber m s de nuestros servicios entrando aqui.\nMás Info\nGALERIA\nDescubre hermosos lugares de la selva paranaense, paisajes, naturaleza y conoce a los habitantes de esta region maravillosa y aun pristina.\nMás Info\nECOLODGE DE SELVA\nVENI A CONOCER LOS SALTOS DEL MOCONA\nbottom of page"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://experiencemocona.wixsite.com/perladelaselva",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

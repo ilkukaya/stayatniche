@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/401701436",
+ "name": "Lighthouse Cottage",
+ "queueStatus": "weak",
+ "queueCategory": "lighthouse-hotels",
+ "categories": [
+  "lighthouse-hotels"
+ ],
+ "lat": -43.5879057,
+ "lng": 172.8053049,
+ "country": "New Zealand",
+ "city": "Linwood-Central-Heathcote Community",
+ "region": "Canterbury",
+ "osm": {
+  "tourism": "wilderness_hut"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://doc.govt.nz/link/1d3d0d5acab246d8b4a4ae10deea24b9",
+ "fetchedAt": "2026-10-24T06:03:30.084Z",
+ "pages": [
+  {
+   "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/godley-head/things-to-do/lighthouse-cottage/",
+   "kind": "home",
+   "title": "Lighthouse Cottage: Awaroa/Godley Head",
+   "description": "This is a well-equipped lodge inside of Godley Head Campsite. It has great views up the coastline and sits in an area full of history.",
+   "text": "Lighthouse Cottage: Awaroa/Godley Head\nDepartment of Conservation | Te Papa Atawhai\nhttps://www.doc.govt.nz/\nImage:\nDOC\nLighthouse Cottage\nLocated in Awaroa/Godley Head in the Canterbury region\nThis is a well-equipped lodge inside of Godley Head Campsite. It has great views up the coastline and sits in an area full of history.\nBookings required\nImage gallery\nBunkroom Image: | DOC\nLighthouse Cottage kitchen facilities Image: | DOC\nLighthouse Cottage overlooking Awaroa/Godley Head Image: | DOC\nFacilities\nThis cottage has electric heating, power, table and chairs and a fully equipped kitchen including a fridge and electric stove. Boil water before use.\nThe bunk room consists of a 3-bed platform and a single bunk above (4 beds total). Bring your own bedding (mattresses provided).\nThere is mobile phone coverage.\nToilets are shared with the Godley Head Campsite.\nMap of Awaroa/Godley Head Campsite (PDF, 195K)\nFees\nThe fees are for up to four people.\nA $40 cleaning fee per booking applies.\n1 May - 30 September\n$76 per night\n1 October - 30 April\nWeekdays: $89 per night\nWeekends: $103 per night\n1 December - 29 February\nWeekdays: $120 per night\nWeekends: $137 per night\nBackcountry Hut Passes and Backcountry Hut Tickets cannot be used at this hut.\nBookings\nBookings are open for stays up to 30 June 2027.\nIf no availability shows online for your dates, the lodge is fully booked.\nNo spaces are kept for visitors arriving without a booking.\nPhone and in‑person bookings made at a visitor centre incur a $10 service fee.\nSame‑day bookings are available online until 8 pm if spaces remain.\nBook Lighthouse Cottage online .\nYou will be emailed the combination codes for the campground gates and Lighthouse Cottage with your booking confirmation. Note: there is a second gate in front of the carpark (before the campsite gate) that is locked overnight - both gates have the same lock code.\nFrom the suburb of Sumner in Christchurch, follow Wakefield Ave which later becomes Evans Pass Road for 3.5 km. Turn left onto the Summit Road and follow the winding, sealed road for 6.5 km.\nWhen you arrive at Awaroa/Godley Head the entrance to the campground is gated, with a combination code. You will be emailed the gates' lock code in your booking confirmation prior to your arrival. Note: there is a second gate in front of the carpark (before the campsite gate) that is locked over night - both have the same lock code. Bookings must be made before 8 pm of the evening your arrival.\nThe area can be accessed from Lyttelton via Tapuwaeharuru/Evans Pass and the Summit Road to Godley Head.\nThe sealed road is narrow, has sharp corners and steep drops off the sides. Drive with care.\nThe Summit Road to Awaroa/Godley Head is popular with cyclists. Keep left, reduce speed and keep a lookout for oncoming cyclists.\nFires are not allowed at any time.\nNo dogs allowed.\nNo drones\nFlying a drone without a permit is strictly prohibited.\nDrone use on conservation land\nFollow all signage related to historic contaminants\nThe Godley Head area had soil contamination remediation work completed in 2024. This work took place at the WW2 coastal defence heritage buildings.\nContaminated soil is capped (buried) on-site. Visitors must follow the signage at site. This includes keeping dogs on leads as digging is not allowed.\nAwaroa/Godley Head Loop Track .\nMountain biking info for Awaroa/Godley Head .\nArthur's Pass National Park Visitor Centre\nPhone:\n+64 3 318 9211\nEmail:\narthurspassvc@doc.govt.nz\nAddress:\n104 West Coast Road\nArthur's Pass 7654\nHours:\nVisitor centre hours and services"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/godley-head/things-to-do/lighthouse-cottage/",
+ "httpStatus": 200,
+ "htmlLang": "en-nz"
+}

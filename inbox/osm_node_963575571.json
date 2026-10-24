@@ -1,0 +1,37 @@
+{
+ "id": "osm:node/963575571",
+ "name": "Al Castello",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 44.5859651,
+ "lng": 7.9274195,
+ "country": "IT",
+ "city": "Novello",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.castellodinovello.com/",
+ "fetchedAt": "2026-10-21T06:13:13.566Z",
+ "pages": [
+  {
+   "url": "https://www.castellodinovello.com/",
+   "kind": "home",
+   "title": "Castello di Novello: Un'esperienza autentica nel cuore delle Langhe, tra storia, natura ed emozioni",
+   "description": "Nel cuore delle Langhe piemontesi, tra colline Patrimonio dell",
+   "text": "Castello di Novello: Un'esperienza autentica nel cuore delle Langhe, tra storia, natura ed emozioni\nCONTATTi\n+39 0173 744000\ninfo@castellodinovello.com\ndove trovarci\nPiazza G. Marconi, 4 - 12060 Novello CN\nItaliano\nit\nEnglish\nen\nContatti\nV ivi l'eleganza del Castello di Novello\nNozze al Castello\nOrganizza il tuo evento\nU n'esperienza autentica nel cuore delle Langhe, tra storia, natura ed emozioni\nNel cuore delle\nLanghe piemontesi , tra colline Patrimonio dell'Umanit\nUNESCO e rinomati vigneti, sorge il\nCastello di Novello , un luogo senza tempo dove natura, architettura e storia si fondono armoniosamente.\nScopri il Castello\nScopri un luogo perfetto per:\nMatrimoni da sogno\nScopri di pi\nEventi al Castello\nScopri di pi\nSuites e camere\nScopri di pi\nCosa dicono di noi\nContattaci su WhatsApp\nCONTATTi\nPiazza G. Marconi, 4 - 12060 Novello CN\n+39 0173 744000\ninfo@castellodinovello.com\nNAVIGA\niNFO\nCastello di Novello\nP.iva e Codice Fiscale: 02830670044 -\nCIN 00415200018\nPrivacy Policy\nSito creato da\netinet.it\nShare by:"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.castellodinovello.com/",
+ "httpStatus": 200,
+ "htmlLang": "it"
+}

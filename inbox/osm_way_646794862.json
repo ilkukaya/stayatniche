@@ -1,0 +1,58 @@
+{
+ "id": "osm:way/646794862",
+ "name": "Parco Sassi Hotel",
+ "queueStatus": "weak",
+ "queueCategory": "cave-hotels",
+ "categories": [
+  "cave-hotels"
+ ],
+ "lat": 45.0787454,
+ "lng": 7.7280048,
+ "country": "IT",
+ "city": "Torino",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.parcosassihotel.com",
+ "fetchedAt": "2026-10-24T06:03:48.995Z",
+ "pages": [
+  {
+   "url": "https://www.parcosassihotel.com/en/home-page-en/",
+   "kind": "home",
+   "title": "Parco Sassi Hotel &#8211; un&#039;oasi di verde in Torino",
+   "description": "",
+   "text": "Parco Sassi Hotel un'oasi di verde in Torino\nSkip to content\nTurin\n+39 011 8995117\ninfo@parcosassihotel.com\nArrival Date\nDeparture Date\nAdults\nChildren\nMeeting Rooms\nEquipped Meeting Rooms available to our guests\nFitness Room\nDo not lose the shape even when traveling. Our Fitness Room is equipped with first-level Technogym equipment\nRelax\nEnjoy our aperitif in the tranquility of the garden in the park​\nYour stay in a green oasis\nWhether your visit is for business or pleasure, do not give up comfort and relaxation"
+  },
+  {
+   "url": "https://www.parcosassihotel.com/en/rooms/",
+   "kind": "sub",
+   "label": "ROOMS",
+   "title": "Rooms &#8211; Parco Sassi Hotel",
+   "text": "Rooms Parco Sassi Hotel\nSkip to content\nTurin\n+39 011 8995117\ninfo@parcosassihotel.com\nRooms\nArrival Date\nDeparture Date\nAdults\nChildren\nComfort Rooms\nDeluxe Rooms"
+  },
+  {
+   "url": "https://www.parcosassihotel.com/en/comfort-rooms/",
+   "kind": "sub",
+   "label": "COMFORT ROOMS",
+   "title": "Comfort Rooms &#8211; Parco Sassi Hotel",
+   "text": "Comfort Rooms Parco Sassi Hotel\nSkip to content\nTurin\n+39 011 8995117\ninfo@parcosassihotel.com\nData di arrivo\nData di partenza\nAdulti\nBambini\nComfort Rooms\nAir Conditioning\nDesk\nHairdryer\nBathroom Amenities\nSat TV\nMinibar\nRoom Size: 25 sqm\nWhen booking, please specify the type of bed you require"
+  },
+  {
+   "url": "https://www.parcosassihotel.com/en/deluxe-rooms/",
+   "kind": "sub",
+   "label": "DELUXE ROOMS",
+   "title": "Deluxe Rooms &#8211; Parco Sassi Hotel",
+   "text": "Deluxe Rooms Parco Sassi Hotel\nSkip to content\nTurin\n+39 011 8995117\ninfo@parcosassihotel.com\nArrival Date\nDeparture Date\nAdults\nChildren\nDeluxe Rooms\nGarden View\nSat TV\nTV flat edge\nAir Conditioning\nDesk\nWooden Floor\nHairdryer\nBathroom amenities\nMinibar\nAlarm clock\nRoom Size: 33 sqm"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.parcosassihotel.com/en/home-page-en/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

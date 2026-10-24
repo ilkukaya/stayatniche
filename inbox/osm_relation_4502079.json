@@ -1,0 +1,35 @@
+{
+ "id": "osm:relation/4502079",
+ "name": "Zamek Korzkiew",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.1622517,
+ "lng": 19.8825619,
+ "country": "Poland",
+ "city": "Przybysławice",
+ "region": "Lesser Poland Voivodeship",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q9386656",
+ "wikidataDescription": "historic site in Lesser Poland Voivodeship, in Poland",
+ "website": "http://www.donimirski.com/zamek-korzkiew/zamek",
+ "fetchedAt": "2026-10-15T06:02:45.090Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Korzkiew Castle",
+  "url": "https://en.wikipedia.org/wiki/Korzkiew_Castle",
+  "extract": "Korzkiew Castle is a fourteenth-century Romanesque castle located in Korzkiew, Lesser Poland Voivodeship in Poland. The castle is part of the Trail of the Eagles' Nests tourist route. The castle complex includes the castle ruins, housing residence, a grange and park, enlisted on the register of objects of cultural heritage of the Lesser Poland Voivodeship."
+ },
+ "notes": [
+  "website fetch failed: 404"
+ ],
+ "finalUrl": "http://www.donimirski.com/zamek-korzkiew/zamek",
+ "httpStatus": 404
+}

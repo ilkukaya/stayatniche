@@ -1,0 +1,37 @@
+{
+ "id": "osm:node/3877650156",
+ "name": "Lake Mburo Camp - Kimpla Mantana Tented Camp",
+ "queueStatus": "verified",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -0.6184618,
+ "lng": 30.9808512,
+ "country": "Uganda",
+ "city": "Kiruhura",
+ "region": "Kiruhura",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "4"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.lakemburocamp.com/",
+ "fetchedAt": "2026-10-17T05:44:58.794Z",
+ "pages": [
+  {
+   "url": "https://www.lakemburocamp.com/",
+   "kind": "home",
+   "title": "Lake Mburo Camp &#8211; The Hidden Gem of Lake Mburo National Park&#8230;.",
+   "description": "",
+   "text": "Lake Mburo Camp The Hidden Gem of Lake Mburo National Park .\n“Like Lake Mburo National Park itself, this lodge is a hidden gem. We used it as a stopover en route to Bwindi to see the gorillas in the hope of catching sight of a little savannah game (maybe a leopard). But its much more than a stopover!”\nMantana’s Lake Mburo Camp\nLake Mburo Camp is ideally situated within Lake Mburo National Park set in a commanding position on the side of Rwamahungu hill, overlooking Lake Mburo and its surrounding eco-systems, it is a peaceful area with great views of the lake and surrounding country. Lake Mburo is a convenient and enjoyable halfway point on the long drive between Entebbe/Kampala and Bwindi.\nA small and intimate luxury camp, in a beautiful setting with a relaxed atmosphere and plenty of plains game, it is an ideal place to enjoy the African wilderness and to start or finish a safari to Uganda.\nFitting perfectly with the environment, the luxurious and spacious tents on wooden decks with their large bedrooms, en-suite facilities and verandahs overlooking the lake and valley are complemented by a luxurious sitting room, bar and dining area.\nEach of our nine guest tents are sent on wooden platforms with veranda, twin/double bedroom, dressing room and en-suite bush shower and toilet. Hot water is provided in the dressing room and for the showers. All bedding and towels, soap etc. are provided. Solar powered lighting is fitted in the tents. The dining and bar facilities are also set on a raised wooden platform that provides stunning views of Lake Mburo. Meals are freshly prepared in our kitchen to the very highest standards.\nThe area around the lodge and tents is host to many resident zebra, warthogs, water buck, impala, buffalo, civet cats and prolific bird life. An ideal place to relax with a cold drink after a hot and dusty game drive, a walking trip or a visit to the lake with its various activities.\nLake Mburo Camp is a classic tented camp in the grand safari tradition providing the only luxury accommodations inside the Lake Mburo National Park.\nLake Mburo Camp is situated 4 – 5 hours drive from Kampala on the Mbarara road. GPS Coordinates: 00.37’01.16”S and 30.58’48.04”E Alt 4,308ft\nPlease contact us directly for availability, pricing and/or for more information:"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.lakemburocamp.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-GB"
+}

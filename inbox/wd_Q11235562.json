@@ -1,0 +1,30 @@
+{
+ "id": "wd:Q11235562",
+ "name": "Botel Admirál",
+ "queueStatus": "weak",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 50.0708,
+ "lng": 14.4113,
+ "country": "Czechia",
+ "city": "Prague",
+ "region": null,
+ "osm": null,
+ "wikidata": "Q11235562",
+ "wikidataDescription": "hotel in Prague, Czechia",
+ "website": null,
+ "fetchedAt": "2026-10-23T06:10:34.180Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "cs",
+  "title": "Botel Admirál",
+  "url": "https://cs.wikipedia.org/wiki/Botel_Admir%C3%A1l",
+  "extract": "Botel Admirál  je tříhvězdičkový botel od roku 1971 zakotvený na Vltavě v Praze, při levém břehu řeky na Smíchově u Hořejšího nábřeží, jižně od Palackého mostu. Je po botelech Albatros a Racek v pořadí třetím z typově podobných pražských botelů vyrobených Českými loděnicemi. V roce 1991 byl kompletně zrekonstruován, od té doby má bílý nátěr se zelenými a žlutými pruhy. Od privatizace v roce 1993 jej provozuje cestovní kancelář Allvatours, spol. s r. o.."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

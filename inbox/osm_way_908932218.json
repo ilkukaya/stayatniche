@@ -1,0 +1,53 @@
+{
+ "id": "osm:way/908932218",
+ "name": "Redstone Castle",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 39.169133,
+ "lng": -107.2415975,
+ "country": "United States",
+ "city": "Redstone",
+ "region": "Colorado",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://theredstonecastle.com/",
+ "fetchedAt": "2026-10-16T06:01:13.675Z",
+ "pages": [
+  {
+   "url": "https://www.theredstonecastle.com/",
+   "kind": "home",
+   "title": "Wellness Retreat | The Redstone Castle | Redstone Historic District",
+   "description": "Forty-five minutes from Aspen lies the remote and magical Redstone, where guests enjoy exclusive experiences in the wilderness, curated by the best-in-class instructors and trainers. Our retreats and bootcamps incorporate a mix of wellness and social elements, with the goal of achieving a better YOU.",
+   "text": "-->\nWellness Retreat | The Redstone Castle | Redstone Historic District\ntop of page\nHome\nThe Redstone Castle\nOne hour from Aspen lies the remote and magical Redstone, where guests enjoy exclusive experiences in the wilderness.\nbottom of page"
+  },
+  {
+   "url": "https://www.theredstonecastle.com/about",
+   "kind": "sub",
+   "label": "ABOUT",
+   "title": "About | The Redstone Castle",
+   "text": "-->\nAbout | The Redstone Castle\ntop of page\nThe Jewel of Crystal Valley\nThis turn-of-the-century jewel was completed in 1902 by industrialist and coal magnate John Cleveland Osgood. At the time, Osgood was one of the wealthiest people in the United States (purportedly ranking 6th) and rubbed elbows with the rich and powerful. John D. Rockefeller, J. Pierpont Morgan, and Teddy Roosevelt all spent time at the estate. It is also known as Osgood Castle and Cleveholm Manor, its original name.\nPlaced on the National Register of Historic Places in 1971, the Castle provides a unique glimpse int o the p ersonal styles and social culture of America's elite at the turn of the 20th Century. Built-in the Tudor style, the Castle is filled with the finest furnishings of the period: wooden paneling designed by Gustav Stickley, intricately cast brass globe lights created by Louis Tiffany, and countless pieces of furniture and artwork collected by the Osgoods on their frequent trips to Europe.\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "The Redstone Castle",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "US"
+   },
+   "url": "https://www.theredstonecastle.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.theredstonecastle.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

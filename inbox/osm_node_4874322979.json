@@ -1,0 +1,42 @@
+{
+ "id": "osm:node/4874322979",
+ "name": "Laikipia Wilderness Bush Camp",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": 0.4765599,
+ "lng": 36.8225087,
+ "country": "Kenya",
+ "city": "Laikipia North",
+ "region": "Laikipia County",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://laikipia-wilderness.com/",
+ "fetchedAt": "2026-10-11T07:38:46.059Z",
+ "pages": [
+  {
+   "url": "https://www.laikipia-wilderness.com/",
+   "kind": "home",
+   "title": "Lakipia Wilderness",
+   "description": "",
+   "text": "Lakipia Wilderness\n0\nWhat sets Laikipia Wilderness apart is the sheer breadth of ways to experience the bush\nSet in the heart of Ol Doinyo Lemboro, a 21,000-acre conservancy in Central Laikipia - one of Kenya's most varied and wildlife-rich landscapes - it offers a relaxed, unpretentious take on safari life. This is bush camping in its truest sense: personal, off-grid, and built for those who want an authentic, adventurous experience without the formality. Offering five unique accommodations each carrying the same easy, no-frills character and warm hospitality that guests keep coming back for.\nLaikipia Wilderness\nExplore\nPalm Camp\nExplore\nRiver Camp\nExplore\nMain Camp\nExplore\nElephant Point\nExplore\nLeopard Springs\nLaikipia, Kenya\nWildlife\nLaikipia's largely unfenced landscape allows game to move freely with the rains, supporting an extraordinary range of species. The area is a stronghold for more than 70% of the world's remaining Grevy's zebra, alongside reticulated giraffe, Beisa oryx, zorilla, striped hyena, aardwolf, and wild dog. Large permanent populations of elephant, lion, leopard, spotted hyena, common zebra, warthog, hippo, buffalo, and numerous antelope species are also present, along with some 350 recorded bird species. A mammal and bird checklist is provided in the Laikipia Wilderness guest booklet.\nLeopard Tracking - Laikipia boasts one of the highest leopard densities in Africa, and sightings here are exceptional.\nRead more\nWilderness Outside of Laikipia\nMobile Safaris\nSafari means \"going on a journey\" in Kiswahili and, true to this, we take you on a luxury adventure to some of our favourite places in Kenya.\nLearn more\nWalking Safaris\nIn the heart of Kenya, the Laikipia Plateau has all the ingredients for a top-class walking destination allowing you to get up close to Wildlife.\nLearn more\nKenyan Expeditions\nThese expeditions are for adventurous people who want to explore. Each trip is different, and you will be accompanied by a guide and small crew of support staff.\nLearn more\nUseful Documents\nLaikipia Wilderness Factsheet\nLaikipia Wilderness Pre-arrivals\nLaikipia Wilderness Directions\nGET IN TOUCH.\nContact us\nimage by Paul Joynson-Hicks"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Laikipia Wilderness",
+   "address": ", Laikipia County, \nKenya"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.laikipia-wilderness.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

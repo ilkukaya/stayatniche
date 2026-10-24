@@ -1,0 +1,56 @@
+{
+ "id": "osm:node/3982522758",
+ "name": "Casa Corcovado Jungle Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 8.6311942,
+ "lng": -83.7260884,
+ "country": "Costa Rica",
+ "city": "Bahía Drake",
+ "region": "Puntarenas Province",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.casacorcovado.com/",
+ "fetchedAt": "2026-10-14T06:17:08.726Z",
+ "pages": [
+  {
+   "url": "https://casacorcovado.com/",
+   "kind": "home",
+   "title": "Casa Corcovado Jungle Lodge - A prime location on the edge of Corcovado National Park",
+   "description": "A prime location on the edge of Corcovado National Park, offering luxury accommodation, first-class service, exciting activities and the opportunity to unwind.",
+   "text": "Casa Corcovado Jungle Lodge - A prime location on the edge of Corcovado National Park\n-->\nWelcome\nA prime location on the edge of Corcovado National Park, offering luxury accommodation, first-class service, exciting activities and the opportunity to unwind. If you are looking for an authentic, remote and unforgettable vacation experience in Costa Rica, you'll find it at Casa Corcovado Jungle Lodge. Set above a palm-fringed beach, in tropical gardens surrounded by 170 acres of pristine rainforest, this much-loved destination is the ultimate combination of luxurious comfort and adventure.\nSee the Rooms\nDifferent by Nature\nLocation\nCasa Corcovado Jungle Lodge is the closest accommodation to Corcovado National Park, the crown jewel of Costa Rica's extraordinary, worldrenowned national park system. Located on the Osa Peninsula, on the south-western Pacific coast of Costa Rica, Corcovado is the last remaining large and sustainable lowland rainforest in Central America.\nRead More\nExplore\nGet carried away, immerse yourself in the adventure, dive, ride trek, explore and discover. Be intrigued by new perspectives and take home unique and unforgettable memories on any of our exciting tours.\nRead More\n2019\nRECONOCIMIENTO A LA EXCELENCIA\nCasa Corcovado Jungle Lodge\nDetectaHotel\n9\nValorado por los clientes\nCasa_Corcovado_Jungle_Lodge\nCasa Corcovado Jungle Lodge has won a 2019 Experts' Choice Award.\nThis year's awards are based on over 1.5 million expert reviews from leading travel guides, magazines and newspapers. The award recognizes you as one of the best hotels in Costa Rica"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "Hotel",
+   "name": "Casa Corcovado Jungle Lodge",
+   "description": "A prime location on the edge of Corcovado National Park, offering luxury accommodation, first-class service, exciting activities and the opportunity to unwind.",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "CR",
+    "addressLocality": "Puntarenas",
+    "addressRegion": "Osa",
+    "postalCode": "60506",
+    "streetAddress": "San Pedrillo, Bahía Drake"
+   },
+   "telephone": "1-888-896-6097",
+   "priceRange": "$435 - $2265",
+   "starRating": {
+    "@type": "Rating",
+    "ratingValue": "4.5"
+   }
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://casacorcovado.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

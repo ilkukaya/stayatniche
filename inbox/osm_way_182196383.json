@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/182196383",
+ "name": "Markree Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 54.1741666,
+ "lng": -8.4613724,
+ "country": "Ireland",
+ "city": "County Sligo",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2096149",
+ "wikidataDescription": "castle located in Collooney, County Sligo, Ireland",
+ "website": null,
+ "fetchedAt": "2026-10-12T07:30:10.266Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Markree Castle",
+  "url": "https://en.wikipedia.org/wiki/Markree_Castle",
+  "extract": "Markree Castle is a castle located in Collooney, County Sligo, Ireland. It is the ancestral seat of the Cooper family, partially moated by the River Unshin. Today it is a small family-run hotel."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

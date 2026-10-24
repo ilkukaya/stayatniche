@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/6783483513",
+ "name": "Baumhaus Sankt Martin",
+ "queueStatus": "verified",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 49.2981595,
+ "lng": 8.0935152,
+ "country": "Germany",
+ "city": "Sankt Martin",
+ "region": "Rhineland-Palatinate",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://baumhaus-sankt-martin.de/",
+ "fetchedAt": "2026-10-13T07:50:49.360Z",
+ "pages": [
+  {
+   "url": "https://www.baumhaus-sankt-martin.de/",
+   "kind": "home",
+   "title": "Baumhaus Sankt Martin - Modernes Ferienhaus bei Neustadt in der Pfalz",
+   "description": "Baumhaushotel und Ferienwohnung in Sankt Martin bei Neustadt an der Weinstraße in der wunderschönen Pfalz - Der besondere Urlaub unter Bäumen",
+   "text": "Baumhaus Sankt Martin - Modernes Ferienhaus bei Neustadt in der Pfalz\nZum Inhalt springen\nÜber den\nDingen ...\nDu möchtest unvergessliche\nTage im Baumhaus erleben?\nJETZT DIREKT VERFÜGBARKEIT PRÜFEN!\nSTARTSEITE webdesignmedia 2025-07-03T10:33:24+02:00\nUrlaub im Baumhaus\nDie Kraft der Natur fühlen: Nimm Dir Zeit für Dich!\nZwischen Wald und Reben am Rande des Pfälzerwaldes auf Wipfelhöhe wohnen, schlafen, entspannen. Genieße den traumhaften Blick in die Rheinebene von Deiner Holzterrasse in sieben Meter luftiger Höhe. Fühle die Freiheit hoch über dem Alltäglichen.\nSorry, your browser doesn't support embedded videos.\nNeugierig?\nWir verbrachten unseren Sommerurlaub in einem Baumhaus. Die Natur derart zu genießen war für uns\nDIE STORY\nPage load link\nNach oben"
+  },
+  {
+   "url": "https://www.baumhaus-sankt-martin.de/story/",
+   "kind": "sub",
+   "label": "STORY",
+   "title": "STORY - Baumhaus",
+   "text": "STORY - Baumhaus\nZum Inhalt springen\nSTORY webdesignmedia 2020-09-23T19:41:26+02:00\nWie alles begann\nIm Sommer 2016 verbrachten wir unseren Urlaub in einem Baumhaus. Wir genossen die Zeit sehr. Inmitten der Natur, umgeben von natürlichen Materialien und frei von jeglichen Ablenkungen entschleunigten wir sehr schnell und nachhaltig. Die Erholung stellte sich schon nach wenigen Stunden ein und hielt eine ganze Zeit an. Länger als üblich.\nNoch während des Urlaubs entstand der Wunsch nach einem eigenen Baumhaus in unserer Heimat, der Pfalz. Zwischen Wald und Wein, mit tollem Ausblick, auf einem Grundstück mit altem Baumbestand. Raus aus der Hektik, aber auch nicht fernab jeglicher Zivilisation. Das sollte es sein.Wir suchten und fanden in St. Martin, nur wenige Kilometer von Neustadt, wo wir wohnen, entfernt, ein geradezu ideales Grundstück.\nSchon ein Jahr später starteten wir unser Projekt, planten und bereiteten unser Traum-Baumhaus vor. Ende 2018 war es dann soweit: Die Zimmerei Mayer aus Neustadt-Geinsheim stellte den Rohbau. Den Innen- und Außenausbau, die Holzterrasse, das Geländer und die Treppe haben wir mit viel Liebe zum Detail und ökologischen Materialien selbst vorgenommen. Wir waren wählerisch, denn nur qualitativ hochwertiges und nachhaltiges Baumaterial, das zudem unseren Anspruch an Design entsprach, kam in Frage.\nAn Weihnachten 2019 war das Baumhaus das erste Mal vermietet und unser Traum wahr geworden!\nNeugierig?\nDas Baumhaus steht erhaben auf einem rund 1.400 Quadratmeter großen Waldgrundstück am\nDAS BAUMHAUS\nPage load link\nNach oben"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.baumhaus-sankt-martin.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

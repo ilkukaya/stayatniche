@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/7578277818",
+ "name": "Maison Chantraine",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 50.6398098,
+ "lng": 4.8499086,
+ "country": "Belgium",
+ "city": "Ramillies",
+ "region": "Walloon Brabant",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.gite-chantraine.be/",
+ "fetchedAt": "2026-10-24T06:03:04.006Z",
+ "pages": [
+  {
+   "url": "https://www.gite-chantraine.be/",
+   "kind": "home",
+   "title": "Location de la maison Chantraine à Ramillies",
+   "description": "",
+   "text": "Location de la maison Chantraine à Ramillies\nMAISON CHANTRAINE\nEN\nNL\nFR\n+32 (0)477.45.39.47\nlohestfr@skynet.be"
+  },
+  {
+   "url": "https://www.gite-chantraine.be/fr/chambre.html",
+   "kind": "sub",
+   "label": "La Chambre",
+   "title": "La Chambre de la maison Chantraine en location",
+   "text": "La Chambre de la maison Chantraine en location\nToggle navigation\naccueil\nmaison\nchambre\nséjour\ncuisine\nsalle de bain\nphotos\nrégion\ntarifs\ncontact\n-->\nLa Chambre\nLa chambre est composée de 2 lits simples ou d’un lit double (à préciser lors de la réservation) Elle est soignée et confortable.\nElle est équipée d’une literie haut de gamme, d’une garde robe ancienne.\nMAISON CHANTRAINE\nEN\nNL\nFR\nRue Saint Nicolas, 31\n1367 Ramillies, Belgique\n+32 (0)477.45.39.47\nlohestfr@skynet.be"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.gite-chantraine.be/",
+ "httpStatus": 200,
+ "htmlLang": null
+}

@@ -1,0 +1,51 @@
+{
+ "id": "osm:node/3289930540",
+ "name": "Sir David Balaton Castle Hotel",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 46.8397203,
+ "lng": 17.6457864,
+ "country": "Hungary",
+ "city": "Balatonszepezd",
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.sirdavidcastle.com",
+ "fetchedAt": "2026-10-21T06:12:34.283Z",
+ "pages": [
+  {
+   "url": "https://sirdavidcastle.com/",
+   "kind": "home",
+   "title": "Üdvözöljük a Sir David Balaton Kastély honlapján! - Sir David Kastély",
+   "description": "Kastély honlapján!",
+   "text": "Üdvözöljük a Sir David Balaton Kastély honlapján! - Sir David Kastély\nSkip to content\nSir David Kastély\nSir David Balaton Kastély\nRólunk\nHírek/Látnivalók/Programok\nApartmanok\nGaléria\nVideók\nSzolgáltatások\nReggeli\nKapcsolat\nÜdvözöljük a Sir David Balaton\nKastély honlapján!\n7\n1\n2\n3\n4\n5\n6\nA kastély a Balaton északi partján Balatonszepezd Szepezdfürdői részén található, a Káli Medence közelében. A kastély egy szép dombos vidék 1 hektáros területén ékeskedik toronymagasan, egy erdő szélén szőlő vidéken.\nA Sir David kastély apartmanjainak ablakain kitekintve, szemet gyönyörködtető panoráma tárul elénk. Csodálatos színekben pompázó napfelkelték gazdagítják a madár csicsergéstől ébredő tájat. A világ zaja elől menekülő vendégeink, tiszta levegőjű nyugodt környezetben, félrevonulva élvezhetik pihenésüket, ugyanakkor ideális környezet azoknak is, akik igényes szórakozással szeretnék egybekötni üdülésüket\nFeledhetetlen élményt nyújt egy-egy sétahajózás, vitorlázás. A teniszezés, lovaglás után felfrissülni vágyók, kellemeset mártózhatnak a kastély üde zöld parkjában található nyitott medencében. A strandolást kedvelőket a 200 m-re levő Balaton, fátyolosan csillámló hullámai csalogatják.\nA nap örömei után a közelben lévő, kellemes hangulatú éttermek kínálják a helyi és a nemzetközi konyha finomságait. Romantikus esti séták után, hegedülő tücskök ringatnak álomba Itt minden eltöltött pillanat, egy szép ajándék a természettől ! Szívesen és örömmel látjuk!\nSIR DAVID BALATON CASTLE\nKapcsolat\nSir David Balaton Castle 8252 Balatonszepezd,Szepezdfűrdő\n(+36) 30/98-95-800\ninfo@sirdavidcastle.com\nFreeCurrencyRates.com\nFacebook\nÁSZF\nAdatkezelési tájékoztató\nNTAK regisztrációs szám: EG25113879\nKártya elfogadás\nKészítette: PcNetSecurity Kft\nSir David Kastély | Proudly Powered by WordPress\nTheme by Grace Themes\nBezárás\nElőző\nKövetkező"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": [
+    "BedAndBreakfast",
+    "Organization"
+   ],
+   "name": "Sir David Kastély",
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kastély u. 1",
+    "postalCode": "8252",
+    "addressCountry": "Balatonszepezd"
+   },
+   "url": "https://sirdavidcastle.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://sirdavidcastle.com/",
+ "httpStatus": 200,
+ "htmlLang": "hu"
+}

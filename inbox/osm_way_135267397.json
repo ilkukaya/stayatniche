@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/135267397",
+ "name": "Kasteel Solhof",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.1374842,
+ "lng": 4.3937653,
+ "country": "Belgium",
+ "city": "Aartselaar",
+ "region": "Antwerp",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q108729880",
+ "wikidataDescription": "château and hotel in Aartselaar, Belgium",
+ "website": null,
+ "fetchedAt": "2026-10-20T06:11:59.255Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "nl",
+  "title": "Kasteel Solhof",
+  "url": "https://nl.wikipedia.org/wiki/Kasteel_Solhof",
+  "extract": "Kasteel Solhof is een kasteel in de Antwerpse plaats Aartselaar, gelegen aan de Baron van Ertbornstraat 118-122."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

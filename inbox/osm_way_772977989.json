@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/772977989",
+ "name": "Ballygally Castle Hotel",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 54.8993096,
+ "lng": -5.8616453,
+ "country": "United Kingdom",
+ "city": "Ballygally",
+ "region": "Northern Ireland",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": "Q4852123",
+ "wikidataDescription": "castle in County Antrim, Northern Ireland",
+ "website": null,
+ "fetchedAt": "2026-10-09T07:57:49.210Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Ballygally Castle",
+  "url": "https://en.wikipedia.org/wiki/Ballygally_Castle",
+  "extract": "Ballygally Castle is in the village of Ballygally, County Antrim, Northern Ireland, located approximately 3 miles north of Larne. The castle overlooks the sea at the head of Ballygally Bay. It is now run as a hotel and is reputed to be one of the most haunted places in Ulster."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

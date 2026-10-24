@@ -1,0 +1,30 @@
+{
+ "id": "wd:Q138941690",
+ "name": "Cliff End Hotel",
+ "queueStatus": "weak",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 50.72271,
+ "lng": -1.849,
+ "country": "United Kingdom",
+ "city": "Bournemouth, Christchurch and Poole",
+ "region": "England",
+ "osm": null,
+ "wikidata": "Q138941690",
+ "wikidataDescription": "demolished hotel in Bournemouth, Dorset, England",
+ "website": null,
+ "fetchedAt": "2026-10-15T06:01:00.326Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Cliff End Hotel",
+  "url": "https://en.wikipedia.org/wiki/Cliff_End_Hotel",
+  "extract": "The Cliff End Hotel was a historic hotel in the Boscombe area of Bournemouth, Dorset, England."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

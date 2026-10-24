@@ -1,0 +1,54 @@
+{
+ "id": "osm:node/14108646603",
+ "name": "Bamboo Turtle Ecolodge",
+ "queueStatus": "verified",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -8.5771774,
+ "lng": 115.2636479,
+ "country": "Indonesia",
+ "city": "Ubud District",
+ "region": "Bali",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://bambooturtleecolodge.com/",
+ "fetchedAt": "2026-10-18T06:05:22.676Z",
+ "pages": [
+  {
+   "url": "https://bambooturtleecolodge.com/",
+   "kind": "home",
+   "title": "Bamboo Turtle Ecolodge | River View Retreat in Ubud",
+   "description": "Escape to Bamboo Turtles Ecolodge in Ubud, an eco-friendly nature retreat with elegant rooms, river-view balconies, infinity pool, spa, yoga space, and authentic Balinese dining near top attractions.",
+   "text": "Bamboo Turtle Ecolodge | River View Retreat in Ubud\n0\nStep into the breathtaking natur al beauty of Bali\nBook Now\nA place you may have only dreamed of\nSet amidst the lush natural beauty of Ubud, Bamboo Turtles Ecolodge offers a peaceful sanctuary where comfort blends seamlessly with nature. Each elegantly designed bungalow includes air conditioning, a private bathroom, and a private balcony overlooking the gentle river and surrounding tropical greenery\nAbout Us\nWhat makes us unique?\nSustainable and eco-friendly\nCrafted with a deep respect for nature, the resort is designed to minimize environmental impact through careful land stewardship, sustainable and locally sourced materials, energy-efficient architecture, plastic-free initiatives and responsible waste management. Proud recipient of the Bali Eco Tourism Golden Award.\nAmazing location\nNestled within a lush tropical forest, the resort offers both serenity and convenience, a short drive away from Ubud’s most iconic attractions, including Tegenungan Waterfall, Sacred Monkey Forest Sanctuary, Ubud Palace, and Saraswati Temple\nA sanctuary of nature and comfort\nCome and unwind in the infinity pool overlooking the Wos River, indulge in rejuvenating spa treatments, immerse yourself in the lush jungle from your private balcony, serenaded by the tranquil sounds of the river and the rhythmic melodies of the tropical forest.\nDon’t take our word for it—hear it from our guests.\n“Amazing houses and great service, we loved how this place is organized, the host does great work when it comes to staying eco-friendly!! The massages and the healing was great, we really loved the experience. And the jungle, trees, the sounds - wow!”\n— Maria from Poland\n“I loved the partially opened bathroom. With plants in the bathroom soil. It gave me a big sense of freedom. Both the room and the bathroom were spacious and carefully decorated as well as spotless clean. I loved the garden view from the room. They put a lot of attention in fulfilling their guests needs.”\n— Nia from Ireland\n“The property is wonderful, you would never imagine finding that little jungle with a river right in front when you come in from the street. The bungalows are beautiful, with great attention to every detail, and the staff’s service is a perfect 10.”\n— Laura from Spain\n“This place was incredible in every way!! We absolutely LOVED it! Beautifully designed, well maintained, well managed. Nothing could have made it better!”\n— Brynne from United States\nLet’s start your journey\nUnlock the best available rates when you book directly with us.\nBook Now"
+  },
+  {
+   "url": "https://bambooturtleecolodge.com/about",
+   "kind": "sub",
+   "label": "About",
+   "title": "About | Experience Eco-Luxury in Ubud &mdash; Bamboo Turtle Ecolodge Ubud",
+   "text": "About | Experience Eco-Luxury in Ubud Bamboo Turtle Ecolodge Ubud\n0\nCrafted to bring together eco-friendly living and exceptional comfort\nEco-friendly stay without compromising on relaxation\nNestled in the lush natural surroundings of Ubud, Bamboo Turtles Ecolodge is a tranquil sanctuary where comfort meets nature. Elegantly designed accommodations feature air conditioning, private bathrooms, and private balconies overlooking the serene river and tropical landscape.\nGuests can unwind in the infinity pool, indulge in soothing spa treatments, or relax in peaceful garden and lounge spaces. Thoughtful amenities include a yoga area, breakfast corner, tour services, and complimentary Wi-Fi and private parking.\nA sanctuary where s ustainability meets comfort\nWe believe a truly memorable stay will go beyond rest and tranquility when communing with nature. Our resort is thoughtfully designed with eco-conscious practices, natural materials, and open, light-filled spaces, creating an experience that feels both refreshing and restorative—while comfort remains at its heart, ensuring a stay that is both responsible and indulgent\nLet’s start your journey\nUnlock the best available rates when you book directly with us.\nBook Now"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Jl. Gn. Abang, Lodtunduh, Kecamatan Ubud",
+   "address": "Gianyar, Bali, 80582\nIndonesia"
+  },
+  {
+   "@type": "LocalBusiness",
+   "name": "Jl. Gn. Abang, Lodtunduh, Kecamatan Ubud",
+   "address": "Gianyar, Bali, 80582\nIndonesia"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://bambooturtleecolodge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

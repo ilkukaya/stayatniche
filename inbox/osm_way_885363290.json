@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/885363290",
+ "name": "The Alice Hotel & Swim Club",
+ "queueStatus": "weak",
+ "queueCategory": "ice-hotels",
+ "categories": [
+  "ice-hotels"
+ ],
+ "lat": 32.205698,
+ "lng": -110.9804975,
+ "country": "United States",
+ "city": "Tucson",
+ "region": "Arizona",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://thealicehotel.com/",
+ "fetchedAt": "2026-10-24T06:03:01.862Z",
+ "pages": [
+  {
+   "url": "https://thealicehotel.com/",
+   "kind": "home",
+   "title": "A Trendsetting New Hotel in the Heart of Tucson | Official Site",
+   "description": "This vibrant downtown Tucson hotel, inspired by all things &quot;Alice,&quot; is iconic and trendsetting, pulsing with life, music, and adventure.",
+   "text": "A Trendsetting New Hotel in the Heart of Tucson | Official Site\nSkip to content\nUncover Tucson’s Newest Gem,\nThe Alice Hotel\nWE ARE NOW OPEN AND ACCEPTING GUESTS!\nBook Now\nPhotos\nAmenities\nSwim Club (Coming Soon)\nGet ready to step into a new world at The Alice Hotel. Located in the heart of Tucson – a small town with a lot of strange occurrences – the Alice offers an eclectic experience with modern luxury. Inspired by the legendary Alices who have left their mark on pop culture, The Alice Hotel is a portal to the unexpected where every moment promises to be part of a fun journey.\nKing Room\nKing Room\nKing Bathroom\n2 Double Bed Room\n2 Double Bed Room\n2 Double Bed Room\n2 Double Bed Room Bathroom\nMore Photos Here\nSee Our Amenities\nFollow Us\nInstagram @TheAliceHotel\nFacebook /TheAliceHotel"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://thealicehotel.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

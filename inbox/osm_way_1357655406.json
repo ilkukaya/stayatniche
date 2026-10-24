@@ -1,0 +1,50 @@
+{
+ "id": "osm:way/1357655406",
+ "name": "Granite Domes Accommodation",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": -32.8528881,
+ "lng": 135.1542577,
+ "country": "Australia",
+ "city": "South Australia",
+ "region": "South Australia",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://granitedomesaccommodation.com.au",
+ "fetchedAt": "2026-10-24T06:04:13.567Z",
+ "pages": [
+  {
+   "url": "https://granitedomesaccommodation.com.au/",
+   "kind": "home",
+   "title": "Granite Domes Accommodation",
+   "description": "Ready for an adventure on the Eyre Peninsula? Come stay at Granite Domes Accommodation, right in the heart of Minnipa, South Australia. It",
+   "text": "Granite Domes Accommodation\n0\nOur Accommodation.\nWe have accommodation to suit the whole family situated centrally in the quiet country town of Minnipa. Come to the Eyre Peninsula, stay with us and see the incredible South Australia.\nAbout\nGranite Domes House.\nA spacious and relaxing home nestled in the small country town of Minnipa on the upper Eyre Peninsula of South Australia. Explore the Gawler Ranges National Park or Pildappa Rock along with the natural attractions in the district.\nView Gallery\nPlan a stay with us today.\nBook Now"
+  },
+  {
+   "url": "https://granitedomesaccommodation.com.au/about",
+   "kind": "sub",
+   "label": "About",
+   "title": "About &mdash; Granite Domes Accommodation",
+   "text": "About Granite Domes Accommodation\n0\nAbout\nAs your hosts, we farm just north of Minnipa and are willing to assist with your stay in any way possible. We love travelling ourselves and appreciate the value of accommodation options and unique experiences.\nGreat pride is taken in providing a high standard of cleanliness, communication and comfort at Granite Domes. We take pleasure in sharing it with you.\nFiona & Pete"
+  },
+  {
+   "url": "https://granitedomesaccommodation.com.au/home",
+   "kind": "sub",
+   "label": "Granite Domes Accommodation",
+   "title": "Granite Domes Accommodation",
+   "text": "Granite Domes Accommodation\n0\nOur Accommodation.\nWe have accommodation to suit the whole family situated centrally in the quiet country town of Minnipa. Come to the Eyre Peninsula, stay with us and see the incredible South Australia.\nAbout\nGranite Domes House.\nA spacious and relaxing home nestled in the small country town of Minnipa on the upper Eyre Peninsula of South Australia. Explore the Gawler Ranges National Park or Pildappa Rock along with the natural attractions in the district.\nView Gallery\nPlan a stay with us today.\nBook Now"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://granitedomesaccommodation.com.au/",
+ "httpStatus": 200,
+ "htmlLang": "en-AU"
+}

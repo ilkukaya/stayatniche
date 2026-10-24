@@ -1,0 +1,32 @@
+{
+ "id": "osm:way/60647947",
+ "name": "Myres Castle",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 56.2852448,
+ "lng": -3.2264628,
+ "country": "GB",
+ "city": null,
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q3643160",
+ "wikidataDescription": "castle in Fife, Scotland, UK",
+ "website": null,
+ "fetchedAt": "2026-10-09T07:57:48.787Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "en",
+  "title": "Myres Castle",
+  "url": "https://en.wikipedia.org/wiki/Myres_Castle",
+  "extract": "Myres Castle is a Scottish castle situated in Fife near the village of Auchtermuchty. Its history is interleaved with that of nearby Falkland Palace with present-day castle construction dating to 1530. The castle and magnificent Scottish garden are now operated as a private conference centre with lodging."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

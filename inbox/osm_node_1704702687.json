@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/1704702687",
+ "name": "San Sebastián de la Selva",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -25.8575176,
+ "lng": -53.9757522,
+ "country": "Argentina",
+ "city": "Comandante Andresito",
+ "region": "Misiones",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.sansebastiandelaselva.com/",
+ "fetchedAt": "2026-10-19T06:23:53.663Z",
+ "pages": [
+  {
+   "url": "https://sansebastiandelaselva.com/",
+   "kind": "home",
+   "title": "Inicio - San Sebastián de la Selva",
+   "description": "Bienvenidos a la selva Te invitamos a descubrir este rincón mágico de Argentina,y a vivir una experiencia inolvidable en la naturaleza. ¡Muchas propuestas para disfrutar de la selva misionera! En San Sebastián de la Selva, además de descansar, podrás realizar muchas actividades pensadas para descubrir la naturaleza de forma entretenida, adaptadas a los intereses de",
+   "text": "Inicio - San Sebastián de la Selva\nIr al contenido\nBienvenidos a la selva\nTe invitamos a descubrir este rincón mágico de Argentina,\ny a vivir una experiencia  inolvidable en la naturaleza.\n¡Muchas propuestas para disfrutar de la selva misionera!\nEn San Sebastián de la Selva, además de descansar, podrás realizar muchas actividades pensadas para descubrir la naturaleza de forma entretenida, adaptadas a los intereses de quienes nos visitan.\ndescubrí todas las actividades\nLa Reserva Natural\nde Bayka\nEn San Sebastián de la Selva, reserva del proyecto Bayka, trabajamos principalmente en la regeneración del bosque atlántico a través de distintos programas de conservación, investigación y educación ambiental.\nconocé nuestro proyecto\n¡Alojate en el corazón de la selva misionera!\nNuestras cabañas están pensadas para que disfrutes de una experiencia inolvidable inmerso en la exuberancia del paisaje de la selva misionera.\nconsulta por reservas\nEl lugar elegido por\nlos amantes de la naturaleza\n\"Experiencia única en plena selva Misionera, muy buena la atención, un lugar increíble a la altura de las expectativas, muy recomendable para quienes quieren estar en contacto con la naturaleza.\"\nMiriam M.\n\"En medio de la selva misionera, un lugar bellísimo, atendido por un personal estupendo. Toda la fauna y la flora te envuelven. Ideal para amantes de la naturaleza, la fotografía, el descanso y el silencio.\"\nFabián J.\n\"Unos días geniales observando y fotografiando aves, plantas, paisajes, texturas... recorriendo senderos y los alrededores de la Reserva. Plantamos árboles nativos. Disfrutamos de riquísima comida casera, de las anécdotas de otros observadores.\"\nRegina\n\"Un lugar excelente para los amantes de la naturaleza, excelente servicio y atención. donde podrás ver con confort gran variedad de fauna y flora de la selva atlántica. Ideal para fotógrafos de naturaleza.\"\nMariano O.\n\"Recomendado para quiénes quieran estar en contacto con la selva y la naturaleza. Tiene senderos para recorrer distintos sectores, posaderos de aves donde se ven increíbles especies.\"\nGabriela A.\n\"Usamos la cabaña frente al lago, y el estar ahí unos días es de película. Amanecer viendo la bruma, y atardecer allí viendo el garzal, no tiene precio. Además el desayunar en el hotel, entre las aves de la zona, inolvidable. \"\nFlor F.\n\"Un lugar alucinante para quienes amamos el avistaje de aves, atendido por gente preparada y con mucho conocimiento de la selva.\"\nJuan I.\ndónde encontrarnos\nRuta Provincial 101, km 25\nAndresito, Misiones.\ninfo@sansebastiandelaselva.com\nRedes sociales\nsansebastiandelaselva\nsansebastiandelaselva\nEnvíenos su consulta\nDoy mi consentimiento para recibir comunicaciones comerciales y novedades de San Sebastián de la Selva por correo electrónico.\nEnviar Consulta"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://sansebastiandelaselva.com/",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

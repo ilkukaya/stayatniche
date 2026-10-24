@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/4327814640",
+ "name": "Les cabanes perchées dans les Landes",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 43.9380909,
+ "lng": -0.9913749,
+ "country": "France",
+ "city": "Rion-des-Landes",
+ "region": "Nouvelle-Aquitaine",
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.cabaneslandes.com/",
+ "fetchedAt": "2026-10-13T07:51:20.379Z",
+ "pages": [
+  {
+   "url": "https://www.cabaneslandes.com/",
+   "kind": "home",
+   "title": "Les Cabanes dans les Landes | Séjournez dans une cabane perchée",
+   "description": "Les Cabanes perchées dans le département des landes (40) à Rion des landes | Logement insolite | Location Cabane avec Spa | Piscine, sauna | Repas et petit ...",
+   "text": "Les Cabanes dans les Landes | Séjournez dans une cabane perchée\nSkip to content\nTél : +33(0)7.68.58.97.98\nairial.fabian@gmail.com\nOFFRIR\nRESERVER\nAccueil podevin 2024-09-24T12:33:44+02:00\nUne parenthèse\nbien-être et évasion\nau coeur des Landes de Gascogne\nCabanes perchées avec spas privatifs\nPiscine, détente\nRepas et séjours à thèmes\nLes Cabanes Perchées,\nTonia et Lisa vous accueillent pour un séjour unique et reposant dans un Airial de quatre hectares.\nAu coeur de cette nature préservée vous séjournerez dans l'une des deux cabanes perchées parmi les chênes centenaires.\nDécouvrez la cabane confort spa et la cabane nature spa\nSorry, your browser doesn't support embedded videos.\nUn séjour unique\nDîner fait maison\n(livré à votre cabane)\nEn savoir plus\nRessourcez-vous\nDéconnectez-vous en séjournant dans nos cabanes, relaxez vous dans nos spas privatifs chauffés.\nEmpruntez les VTT et partez en balade au gré des chemins forestiers environnants.\nPiscine à débordement chauffée en saison.\nTerrain de pétanque et table de Ping-Pong à votre disposition.\nEN SAVOIR PLUS\nGrands Espaces\nLes Cabanes dans les Landes sont situées à Rion-des-Landes (84 km de Bayonne | 125 km de Bordeaux)\nIsolées en pleine nature à quelques kilomètres du village.\nLa garantie d'un séjour nature pour se ressourcer et découvrir les richesses de ce territoire unique entre Océan, lacs et forêts.\nNOUS SITUER\nSoirée romantique\nEN SAVOIR PLUS\nDîner & Services\nEN SAVOIR PLUS\nÇa se passe chez nous..\nl'actu @Instagram\ncabaneslandes\nDépaysant🍃Amour🌹Magique✨\n2 cabanes spa dans les arbres pour les amoureux haut perchés🌳\n📍Rion Des Landes\nUn petit coin de bonheur sous le soleil✨🌴\n#c\nUne parenthèse de fraîcheur au milieu de la natu\nUne soirée romantique dans une cabane perchée av\nUne soirée romantique dans une cabane perchée av\nLe soleil est là, il ne manque plus que vous 💛\n💛🌼☀️\n#cabaneperchée #spa #cabanespa #l\nBesoin de déconnexion ? ☀️🌸\nVivez une nuit\nJuste le calme, les arbres et le soleil ☀️\n#s\nLa nature 🌳🌸 avec Philou le pottok 🐴\n#la\nAfficher plus...\nSuivre les Cabanes Perchées sur Instagram\nNous utilisons des cookies pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous y êtes favorable. OK\nGo to Top"
+  },
+  {
+   "url": "https://www.cabaneslandes.com/activites-detente/",
+   "kind": "sub",
+   "label": "EN SAVOIR PLUS",
+   "title": "Les Cabanes perchées dans les Landes | Séjour nature et relaxation",
+   "text": "Les Cabanes perchées dans les Landes | Séjour nature et relaxation\nSkip to content\nTél : +33(0)7.68.58.97.98\nairial.fabian@gmail.com\nOFFRIR\nRESERVER\nActivités Détente podevin 2024-09-18T17:43:36+02:00\nActivités & détente\nDéconnectez-vous et profitez\nde la nature\nEmpruntez les VTT et partez en balade dans la campagne\net les chemins forestiers environnants.\nPiscine à débordement chauffée pendant la saison\net accessible durant la durée de votre séjour.\nTerrain de pétanque et table de Ping-Pong à votre disposition.\nNous utilisons des cookies pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous y êtes favorable. OK\nGo to Top"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.cabaneslandes.com/",
+ "httpStatus": 200,
+ "htmlLang": "fr-FR"
+}

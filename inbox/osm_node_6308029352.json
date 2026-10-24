@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/6308029352",
+ "name": "La Falaise",
+ "queueStatus": "weak",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 3.8705916,
+ "lng": 11.5154153,
+ "country": "Cameroon",
+ "city": "Yaoundé",
+ "region": "Centre",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.lafalaisehotels.com",
+ "fetchedAt": "2026-10-24T06:03:30.189Z",
+ "pages": [
+  {
+   "url": "http://www.lafalaisehotels.com./",
+   "kind": "home",
+   "title": "La Falaise Hotel Yaoundé",
+   "description": "",
+   "text": "La Falaise Hotel Yaoundé\nWelcome to La Falaise Hotel Yaoundé\nOur website is under maintenance, however you can contact us by:\nTel: 00237 222 220 616, / Email: reservations@lafalaisehotels.com\nWe apologize most sincerely for this inconvenience.\nBienvenue à l’Hôtel La Falaise Yaoundé\nNotre site web est en cours de maintenance mais nous restons toujours joignable par\nTel : 00 237 222 220 616 / Email : reservations@lafalaisehotels.com Nous vous prions de nous excuser pour ce désagrément."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.lafalaisehotels.com./",
+ "httpStatus": 200,
+ "htmlLang": null
+}

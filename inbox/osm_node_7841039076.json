@@ -1,0 +1,58 @@
+{
+ "id": "osm:node/7841039076",
+ "name": "Hotel Seringal Jungle Lodge",
+ "queueStatus": "verified",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -3.6589753,
+ "lng": -59.8471277,
+ "country": "Brazil",
+ "city": "Careiro",
+ "region": "Amazonas",
+ "osm": {
+  "tourism": "hostel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.seringaljunglelodge.com.br/",
+ "fetchedAt": "2026-10-18T06:05:31.901Z",
+ "pages": [
+  {
+   "url": "https://www.seringueirajunglelodge.com.br/",
+   "kind": "home",
+   "title": "Seringueira Jungle Lodge | Seringal Jungle | Manaus, AM, Brasil",
+   "description": "O Seringueira Jungle Lodge é um exclusivo hotel de selva situado às margens do Rio Paraná do Mamori, a apenas 3hs da cidade de Manaus - Am. Nossa localização estratégica permite acesso rapidamente aos principais pontos e lagos da região maximizando o tempo de pesca. O hotel foi desenvolvido especialmente para quem ama a pesca esportiva e o turismo ecológico. Dispomos de um deck flutuante com piscina, perfeito para momentos de lazer e contemplação da impressionante vista da floresta amazônica. ",
+   "text": "-->\nSeringueira Jungle Lodge | Seringal Jungle | Manaus, AM, Brasil\ntop of page\nO Hotel de Selva\nBem-vindo a Seringueira Jungle Lodge , o seu ref gio perfeito no cora o da selva! Situado s margens do deslumbrante Rio Paran do Mamori, a menos de 3 horas de Manaus, nosso hotel um verdadeiro para so para os amantes da Pesca Esportiva e do Turismo Ecol gico. Desfrute de um relaxante dia beira da piscina em nosso deck flutuante, enquanto aprecia a vista incr vel que nos cerca. Com pacotes de Turismo Ecol gico, e de Pesca Esportiva, que incluem deliciosas refei es e passeios guiados, garantimos uma experi ncia inesquec vel na natureza!\n17915838688814154\npress to zoom\n17915838688814154\npress to zoom\n1/1\nVOLTAR\nO trajeto descrito oferece uma imers o completa na beleza da Amaz nia, com diversas etapas e experi ncias nicas. Para te ajudar a planejar sua viagem, preparei um guia detalhado com informa es teis:\nRoteiro Detalhado:\nTranslado Aeroporto/Hotel - Porto do Ceasa:\nO ponto de partida o Porto do Ceasa, um importante centro de com rcio e transporte fluvial em Manaus.\nO translado do aeroporto ou hotel at o porto pode ser feito de t xi, carro de aplicativo ou transfer privativo.\nNavega o em Lancha R pida at o Careiro:\nA primeira etapa da navega o feita em lancha r pida, proporcionando uma experi ncia emocionante e gil.\nDurante o trajeto, haver uma breve parada no famoso Encontro das guas, onde os rios Negro e Solim es se encontram, um espet culo da natureza.\nTransfer ncia Terrestre (Careiro - Paran do Mamori):\nNo Careiro, a viagem continua por terra, em Kombi ou micro- nibus, pela BR-319 e Ramal do 14, at o Paran do Mamori.\nEssa parte do percurso permite observar a transi o da paisagem urbana para a exuberante floresta amaz nica.\nNavega o em Lancha R pida at a Pousada:\nA ltima etapa da viagem feita novamente em lancha r pida, navegando pelos rios Paran do Mamori.\nDurante o percurso, h grandes chances de avistar diversas esp cies de animais selvagens, como p ssaros, jacar s e outros habitantes da floresta.\nChegada Pousada:\nAo chegar pousada, voc poder desfrutar de toda a estrutura e beleza do local, com diversas atividades de ecoturismo e contato com a natureza.\nIMG-20200301-WA0178\npress to zoom\n17915838688814154\npress to zoom\nIMG-20200301-WA0178\npress to zoom\n1/2\nbottom of page"
+  },
+  {
+   "url": "https://www.seringueirajunglelodge.com.br/o-hotel",
+   "kind": "sub",
+   "label": "Tarifário",
+   "title": "Tarifário | seringaljunglelodge",
+   "text": "-->\nTarifário | seringaljunglelodge\ntop of page\nTABELA DE VALORES\nTo play, press and hold the enter key. To stop, release the enter key.\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Hotel Seringueira Jungle Lodge",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "BR",
+    "addressLocality": "Amazonas",
+    "addressRegion": "AM",
+    "postalCode": "69250000",
+    "streetAddress": "Paraná do Rio Mamori"
+   },
+   "telephone": "+5592995350412",
+   "url": "https://www.seringueirajunglelodge.com.br"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.seringueirajunglelodge.com.br/",
+ "httpStatus": 200,
+ "htmlLang": "pt"
+}

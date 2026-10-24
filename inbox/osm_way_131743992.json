@@ -1,0 +1,54 @@
+{
+ "id": "osm:way/131743992",
+ "name": "Norfolk & Southern Caboose",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 37.5693012,
+ "lng": -80.261341,
+ "country": "United States",
+ "city": "Craig County",
+ "region": "Virginia",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.depotlodge.com/",
+ "fetchedAt": "2026-10-15T06:00:40.007Z",
+ "pages": [
+  {
+   "url": "https://www.depotlodge.com/",
+   "kind": "home",
+   "title": "The Depot Lodge",
+   "description": "",
+   "text": "The Depot Lodge\nScroll\nIn the mountains of Virginia, discover adventure & enjoy old-fashioned hospitality in\nA Land that Time (almost) forgot\nWelcome to the Depot Lodge!\nThe train depot dates back to 1909, when Paint Bank was the final stop of the Potts Valley Branch line of the Norfolk & Western Railway. This expansion was part of the mining boom of the early 1900’s. The Depot and our other historic buildings have been renovated and converted into charming lodging, while maintaining much of the original architecture.\nReady to come stay with us?\nMake a reservation at any one of our gorgeous lodging areas.\nMake a Reservation\nVisit our other unique sights\nLooking for a unique dining experience or to shop at an old fashioned general store? Paint Bank offers many attractions including hunting and fishing at Potts Creek Outfitters. Come see us!"
+  },
+  {
+   "url": "https://www.depotlodge.com/lodging",
+   "kind": "sub",
+   "label": "Lodging",
+   "title": "Lodging &mdash; The Depot Lodge",
+   "text": "Lodging The Depot Lodge\nLodging\nMain Lodge\nA step back in time…Our 1909 restored train depot from 1909 offers modern lodging including a primary suite, a common sitting room and beautiful appointed rooms. The rustic décor delivers the feel of yesteryear.\nView Lodge\nGlamping\nGlamorous Camping! We have three lavishly appointed Glamping tents that deliver unique lodging experiences for Campers who want amenities and luxury while they enjoy the Great Outdoors.\nView Glamps\nThe Lemon Slice\nCheck out our newest venue, The Lemon Slice, a cozy cottage perfect for a pampered get-away, with all the essential amenities.\nView Slice\nCabins\nOur luxurious Cabin options are perfect for larger groups and families. The Pondersa and Fox Hill Camp offer multiple sleeping options with kitchen, dining, and living room space.\nView Cabins\nCaboose\nA “railroad style” one room cozy experience, our authentic Norfolk & Western caboose is fully renovated, with private bath and patio for sitting and relaxing.\nView Caboose\nAirstream Trailer\nOur genuine 26’ Airstream Trailer comfortably sleeps 4, with bath, TV and phone. A retractable canapé with bistro table and chairs adds to the retro experience.\nView Airstream\nCompany House\nOur two-story house is ideal for families. Featuring two twin bedrooms, queen primary bedroom, fully equipped kitchen and dining area, situated alongside the creek.\nView House\nSection Foreman's Cottage\nOur 1910 renovated Section Foreman’s cottage offers cozy accommodations for 4, and is located right next door to the Main Lodge.\nView Cottage\nThe Lemon Hotel\nThe Lemon Hotel, recently brought back to its original splendor, is the perfect escape to a bygone era with all the luxuries of today.\nView Hotel"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "The Depot Lodge",
+   "address": "Virginia 311\nPaint Bank, VA, 24131\nUnited States"
+  },
+  {
+   "@type": "LocalBusiness",
+   "name": "The Depot Lodge",
+   "address": "Virginia 311\nPaint Bank, VA, 24131\nUnited States"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.depotlodge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

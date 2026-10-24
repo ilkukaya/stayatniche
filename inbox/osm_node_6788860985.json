@@ -1,0 +1,56 @@
+{
+ "id": "osm:node/6788860985",
+ "name": "Dome Village Lombok",
+ "queueStatus": "weak",
+ "queueCategory": "bubble-hotels",
+ "categories": [
+  "bubble-hotels"
+ ],
+ "lat": -8.9134307,
+ "lng": 116.3415903,
+ "country": "Indonesia",
+ "city": "Lombok Tengah",
+ "region": "West Nusa Tenggara",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.dome-lombok.com/",
+ "fetchedAt": "2026-10-23T06:11:01.552Z",
+ "pages": [
+  {
+   "url": "https://www.dome-lombok.com/",
+   "kind": "home",
+   "title": "Eco Living And Barefoot Luxury | Dome Lombok | West Nusa Tenggara",
+   "description": "Eco Domes Indonesia, Lombok: A resort built with sustainable concepts around house construction, water management and permaculture garden food production.",
+   "text": "-->\nEco Living And Barefoot Luxury | Dome Lombok | West Nusa Tenggara\ntop of page\nDOME\nBook a Dome\nInvest in a Dome\nOur Dome Models\nTIGA DOME\n2 Persons\nThis is our cosiest favourite Dome! Perfect for two persons with it's own rooftop terrace and outdoor area close to the pool.\nFrom:\n710 000 IDR\nBook Now\nSATU DOME\n2 Persons\nIf you prefer some privacy in a bigger Dome on a secluded platform, this is the one!\nFrom:\n1 000 000 IDR\nBook Now\nTANJU DOME\n3-4 Persons\nThis is our most high end and spacious Dome.\nFrom:\n1 100 000 IDR\nBook Now\nA Calm Getaway\nRelax in a unique and secluded oasis that is unlike any other. Dome Lombok represents eco living and barefoot luxury at its finest. We believe you will fall in love with the amazing Domes and feel at home at our exclusive resort. This lush, verdant oasis of 9 Domes boasts a swimming pool and farm-to-fork restaurant with a juice bar and amazing breakfast. Our core objective is to provide an unforgettable experience with an eco-friendly approach\nOur Domes\nEat & Relax\nFrom the restaurant terrace you will be able to enjoy the view of the fabled Tanjun An with its mile long white sandy beach while enjoying our farm-to-plate fresh food or a healthy juice tonic.\nMenu\nAbout This Place\nThe Dome Village resort is located on the south-eastern part of Lombok, Indonesia fantastically situated on a hilltop overlooking two bays and the most beautiful white sand beach in southern Lombok. The lush, green hillside spreads out over 6000 square metres. The views are phenomenal. The sunsets are magical. And the white sand beach of the fabled Tanjun Aan, with mellow surfing waves, diving sites and cosy local beach restaurants, are only a short walk away.\nWe know there is magic here! Come see Dome for yourself.\nSurf & Explore\nThe Dome Village resort is located on the south-eastern part of Lombok, strategically situated on a hilltop near the town of Gerupuk. It offers magnificent panoramic views over the Gerupuk mangrove delta as well as the stunning bay and dramatic coastlines. It is close to numerous surf breaks and diving sites, and is five minutes walking distance from the fabled Tanjung Aan Beach.\nThe 6 acre property is close to the local fishing village where you can enjoy small-town friendliness and traditional Sasak culture. It is also connected to the newly built road that provides a convenient 15-minute drive to Kuta Beach the main tourist destination and an approximately 30-minute drive to the international airport.\nInvest\nAs a part of our business concept we take in investors on each Dome to help us build more and then share the profit. We have plans for a stage 2 of our resort. If you are interested to be a part of the team, let us know!\nRead More\nSubscribe to our newsletter Don't miss out!\nJoin\nContact Us\nRajan Pujut, Central Lombok Regency\nSubmit\nThanks for submitting!\nMeet The Team\nDavid Paulin\nManaging Director & Co-Founder\nAnne Setterwall\nBusiness Development & IT\nOlle Pettersson\nBusiness Accellerator\nChristian G ran\nCreative Director & Co-Founder\nMartin Condominas\nCoating Specialist & Designer\nMaja Lartell\nHuman Resource & Interior Design\nAdrian\nResort Manager\nKetut Sugiada\nArchitect & Engineer\nChristine Thuresson\nSenior Project Manager\nAven\nVice Resort Manager\nSanne Jansen\nDome Designer\nbottom of page"
+  },
+  {
+   "url": "https://www.dome-lombok.com/about",
+   "kind": "sub",
+   "label": "About",
+   "title": "About our Dome Resort in Lombok",
+   "text": "-->\nAbout our Dome Resort in Lombok\ntop of page\nABOUT\nA PLACE FOR CONTEMPLATION AND RELAXATION\nThe Dome Village resort is located on the south-eastern part of Lombok, Indonesia fantastically situated on a hilltop overlooking two bays and the most beautiful white sand beach in southern Lombok. The lush, green hillside spreads out over 6000 square metres. The views are phenomenal. The sunsets are magical. And the white sand beach of the fabled Tanjun Aan, with mellow surfing waves, diving sites and cosy local beach restaurants, are only a short walk away.\nWe know there is magic here! Come see Dom e for yourself.\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Dome Lombok",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ID",
+    "addressLocality": "Central Lombok Regency",
+    "postalCode": "83573"
+   },
+   "telephone": "+62 817-7500-9892",
+   "url": "https://www.dome-lombok.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.dome-lombok.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

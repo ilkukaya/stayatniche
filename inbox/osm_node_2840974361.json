@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/2840974361",
+ "name": "Groepsaccommodatie \"Het Kasteel\"",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 52.8562443,
+ "lng": 6.326778,
+ "country": "Netherlands",
+ "city": "Diever",
+ "region": "Drenthe",
+ "osm": {
+  "tourism": "guest_house"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.hetkasteeldiever.nl/",
+ "fetchedAt": "2026-10-20T06:11:33.815Z",
+ "pages": [
+  {
+   "url": "http://www.hetkasteeldiever.nl/",
+   "kind": "home",
+   "title": "Het Kasteel Diever  - Het Kasteel Diever",
+   "description": "Please enter your slogan here!",
+   "text": "Het Kasteel Diever - Het Kasteel Diever\nHet Kasteel Diever\nDe perfecte plek voor mens en paard!\nOns bedrijf bevindt zich op loopstand van het centrum van Diever, direct aan de rand van het Drents Friese Woud. Voor zowel paardenliefhebber, wandelaars, fietsers, rustzoekers en kinderen een perfecte locatie. U kunt verblijven in 1 van onze mooie accommodaties tussen de paarden en schapen, of zelf de camper meenemen om te kamperen op onze nieuwe camperplaatsen.\nNaast ons gezellige familiehuis bieden we nu ook verschillende pipowagens aan. Deze zijn volledig geïsoleerd en geschikt voor 2 personen, maar ook voor een gezin (4 personen). Wanneer u op zoek bent naar totale rust is de pipowagen een uitkomst. Wilt u graag uw huisdier meenemen? Ook dit is geen probleem. Huisdieren, maar ook paarden zijn van harte welkom om te overnachten bij ons.\nTelefoonnummer\n+31650946986\nAdres\nKasteel 19, 7981AN in Diever\nEmail-adres\ninfo@hetkasteeldiever.nl\nExterne inhoud\nDe inhoud die hier wordt weergegeven kan niet worden weergegeven vanwege de huidige cookie-instellingen .\nInhoud van derden\nDeze website kan inhoud of functies aanbieden die door derden op eigen verantwoordelijkheid wordt geleverd. Deze derden kunnen hun eigen cookies plaatsen, bijvoorbeeld om de activiteit van de gebruiker te volgen of om hun aanbiedingen te personaliseren en te optimaliseren.\nCookie-instellingen\nDeze website maakt gebruik van cookies om bezoekers een optimale gebruikerservaring te bieden. Bepaalde inhoud van derden wordt alleen weergegeven als \"Inhoud van derden\" is ingeschakeld.\nTechnisch noodzakelijk\nDeze cookies zijn noodzakelijk voor de werking van de website, bijvoorbeeld om deze te beschermen tegen aanvallen van hackers en om te zorgen voor een uniforme uitstraling van de site, aangepast op de vraag van bezoekers.\nAnalytisch\nDeze cookies worden gebruikt om de gebruikerservaring verder te optimaliseren. Dit omvat statistieken die door derden websitebeheerder worden verstrekt en de weergave van gepersonaliseerde advertenties door het volgen van de gebruikersactiviteit op verschillende websites.\nInhoud van derden\nDeze website kan inhoud of functies aanbieden die door derden op eigen verantwoordelijkheid wordt geleverd. Deze derden kunnen hun eigen cookies plaatsen, bijvoorbeeld om de activiteit van de gebruiker te volgen of om hun aanbiedingen te personaliseren en te optimaliseren.\nWeigeren\nAccepteer alle\nOpslaan\nMeer informatie\nE-mailen\nBellen\nMap"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "http://www.hetkasteeldiever.nl/",
+ "httpStatus": 200,
+ "htmlLang": "nl"
+}

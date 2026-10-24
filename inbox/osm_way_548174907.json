@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/548174907",
+ "name": "Botel Racek",
+ "queueStatus": "weak",
+ "queueCategory": "floating-hotels",
+ "categories": [
+  "floating-hotels"
+ ],
+ "lat": 50.0511536,
+ "lng": 14.4148924,
+ "country": "Czechia",
+ "city": "Prague",
+ "region": null,
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.botelracek.eu/",
+ "fetchedAt": "2026-10-23T06:10:35.241Z",
+ "pages": [
+  {
+   "url": "https://www.botelracek.eu/",
+   "kind": "home",
+   "title": "Historie a současné trendy ubytování na botelu v Praze",
+   "description": "Objevte, jak se botely proměnily z levnější alternativy na originální a komfortní ubytování v Praze. Výhled na Vltavu, blízkost památek i jedinečná atmosféra z nich dělají stále oblíbenější volbu.",
+   "text": "Historie a současné trendy ubytování na botelu v Praze\nHistorie a současné trendy v ubytování na botelu\nBotely jsou dnes stále oblíbenější. Proč? Nabízejí něco, co běžné hotely nemají – klid vody a krásné výhledy přímo z paluby. V Praze je to zážitek, který se jen tak nevidí. Výhled na Vltavu a blízkost historických památek z nich dělá ideální místo pro turisty, kteří chtějí spojit pohodlí a romantiku.\nNa začátku byly botely levnější alternativou k hotelům. Dnes už to dávno neplatí. Staly se symbolem originality. Moderní botely nabízejí komfortní pokoje, kvalitní služby a někdy i restauraci přímo na palubě. Hosté si užívají atmosféru, kterou žádný běžný hotel nenahradí.\nPouhých 10 minut od centra… Restaurace na lodích nabízejí hostům příjemné posezení s výhledem na Vltavu a zeleň, výběr z mnoha českých pokrmů a širokou nabídku nápojů. Jejich kapacita umožňuje pořádat rodinné oslavy, svatby, promoce, pracovní obědy a různé prezentace.\nDestinační hraní\n•\nCo musí mít nejlepší zahraniční sázkové kanceláře?\n© 2009 - 2026 Kopírování obsahu je zakázáno."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.botelracek.eu/",
+ "httpStatus": 200,
+ "htmlLang": "cs-CZ"
+}

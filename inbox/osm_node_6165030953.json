@@ -1,0 +1,50 @@
+{
+ "id": "osm:node/6165030953",
+ "name": "Motel de la Falaise",
+ "queueStatus": "weak",
+ "queueCategory": "cliffside-hotels",
+ "categories": [
+  "cliffside-hotels"
+ ],
+ "lat": 47.2172916,
+ "lng": -70.2686376,
+ "country": "Canada",
+ "city": "Saint-Jean-Port-Joli",
+ "region": "Quebec",
+ "osm": {
+  "tourism": "motel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.moteldelafalaise.com/",
+ "fetchedAt": "2026-10-20T06:11:20.104Z",
+ "pages": [
+  {
+   "url": "https://www.moteldelafalaise.com/",
+   "kind": "home",
+   "title": "Welcome to Motel de la falaise | Motel de la falaise",
+   "description": "",
+   "text": "Welcome to Motel de la falaise | Motel de la falaise\nSkip to main content\nWelcome!\nWelcome!\nMany will tell you that our establishment is the best located in the heart of the village of St-Jean-Port-Joli.\nFor the cyclists\nSecure location for your bicycles.\nWireless Internet Access\nComplimentary High Speed Wireless Internet access freely available in all of our rooms.\nElectric car charger\nCharge your electric car directly at our establishment.\nPets\nDogs are allowed provided that they remain constantly accompanied.\nThe quiet landmark...\nTo find le motel de la Falaise, you must keep your eyes open. Because, unlike his big sister, he is discreet. Nestled at the end of an alley, out of sight. Staying there means finding yourself in a bubble, surrounded by beauty and tranquility. Perched on the edge of the cliff, as its name suggests, this enchanting place invites you to fully enjoy the breathtaking sun layers. Comfortably installed in the rest areas, you won’t miss anything of the magnificent spectacle offered by the mountains, the St. Lawrence River and the vagaries of the tides. Want to move… Take the walking path which gives you access to the banks or you can discover the village by foot. You are only a few steps away .\nKing with river view\nRiver View\nAll Rooms\nNo front page content has been created yet.\nContact\n47, avenue de Gaspé ouest, Saint-Jean-Port-Joli, Qc, G0R 3G0\ninfo@moteldelafalaise.com\n(418) 598-3313"
+  },
+  {
+   "url": "https://www.moteldelafalaise.com/book",
+   "kind": "sub",
+   "label": "Rooms",
+   "title": "Book a room | Motel de la falaise",
+   "text": "Book a room | Motel de la falaise\nSkip to main content\nRooms\nCancellation policy\nAt 24 hours from the date of arrival, there is no charge\nThe day of your arrival, the full stay will be charged\n$110.00\nRenovated\n$110.00\nRegular\n$135.00\nRiver View\n$135.00\nKing with river view"
+  },
+  {
+   "url": "https://www.moteldelafalaise.com/content/welcome",
+   "kind": "sub",
+   "label": "Welcome!",
+   "title": "Welcome! | Motel de la falaise",
+   "text": "Welcome! | Motel de la falaise\nSkip to main content\nMany will tell you that our establishment is the best located in the heart of the village of St-Jean-Port-Joli. Sheltered from prying eyes, very discreet, it offers a breathtaking view of the St. Lawrence River."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.moteldelafalaise.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "osm:node/4552834424",
+ "name": "Wolkensteiner Zughotel",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 50.6531424,
+ "lng": 13.0630218,
+ "country": "DE",
+ "city": "Wolkenstein",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "historic": "railway_car"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://wolkensteiner-zughotel.de/",
+ "fetchedAt": "2026-10-19T06:23:14.655Z",
+ "pages": [
+  {
+   "url": "https://wolkensteiner-zughotel.de/",
+   "kind": "home",
+   "title": "Das Wolkensteiner Zughotel",
+   "description": "Das Wolkensteiner Zughotel - in der erzgebirgischen Kleinstadt Wolkenstein erwartet seine Gäste. Das besondere Hotel in Sachsen.",
+   "text": "Das Wolkensteiner Zughotel\nZum Inhalt springen\nHerzlich willkommen im Wolkensteiner Zughotel!\nDas EINZIGE ZUGHOTEL Deutschlands, in dem Sie die typisch erzgebirgische Küche genießen und auch übernachten können!\nZur Geschichte...\nDie erzgebirgische Kleinstadt Wolkenstein , zwischen Marienberg und Annaberg-Bucholz gelegen, bietet viel Interessantes neben einer natürlich wunderschönen Landschaft, auch etwas zum Anfassen und Verweilen, zum Staunen und Erleben, zum Kosten und Genießen und das\nEinzige Zughotel Deutschlands erleben sie das Das Besondere: man übernachtet in Eisenbahnwagen bzw. Abteilen, rustikal und nostalgisch.!\nDirekt an der Bundesstraße -101-, unterhalb vom Schloss Wolkenstein im Zschopautal, finden uns Urlauber, Fahrrad- und Motorradfahrer, US-Car-Fans, Wanderburschen, Verliebte und natürlich Eisenbahnfans\nUnser Zughotel bietet 54 Übernachtungsmöglichkeiten in verschiedenen Klassen, fünf Ferienzüge, ca. 65 Restaurantplätze und eine großzügige Bierterrasse.\nWas bieten wir\nUnser Angebot ist umfangreich, reicht vom Übernachten in unseren Waggons, über Ferienzimmer im Bahnhofsgebäude bis hin zu unserer Gastronomie...\nEntdecken Sie das einmalige Übernachtungs- und Urlaubserlebnis in unserem Zughotel. Willkommen im Erzgebirge in Sachsen – immer wieder anders.\nSchlafen im Zughotel\nÜbernachten Sie für ein unvergessliches Erlebnis. Schlafen Sie in einem originalen Schlafwagen und wählen Sie zwischen 1. oder 2.Klasse.\nSchlafen im Ferienzug\nIn fünf individuellen ausgebauten Waggons haben wir für Sie, Ferienwohnungen eingerichtet mit Wohn- und Schlafbereich, Küche, sowie Bad und WC.\nÜbernachten im Alten Bahnhof\nIm historischen Bahnhofsgebäude von 1865 sind heute 11 Wohnungen entstanden, von denen zwei als Ferienwohnung gebucht werden können.\nCafé \"Alter Bahnmeister\"\nBesuchen Sie unser Café im ehemaligen Bahnhofsgebäude und geniessen Sie den besonderen nostalgischen Bahncharme bei einer Tasse Kaffee und schlemmen Sie ein Stückchen Torte oder einen leckeren Eisbecher.\nRestaurant & Sommerterasse\nUnser Salonwagen bietet Platz für Personen, dort verwöhnen wir Sie mit einem abwechslungsreichen Frühstück und gutbürgerliche sächsische Küche aus unserem Küchenwagen.\nFeiern und Tagen\nFeiern Sie in unserem Zugrestaurant oder treffen Sie sich zu einer Tagung im exklusiven Salonwagen des ehemaligen Regierungszuges der DDR, der im Original erhalten ist.\nGutscheine\nSie sind auf der Suche nach einem passenden Geschenk? Wie wäre es mit einem Gutschein vom Wolkensteiner Zughotel?\nWarum steht hier ein Zug herum?\nLiebe Fahrgäste - Herzlich Willkommen im Wolkensteiner Zughotel - \"Einsteigen bitte\"!\nDieser Zug wurde erstmals 1991 zusammengestellt. Er bestand damals aus einem Mitropa-Buffetwagen (Baujahr 1976) und einem ehemaligen Holzlazarettwagen (Baujahr 1928), der als Bar und Rezeption umgebaut wurde.\nIn der darauffolgenden Zeit wurden verschiedene Attraktionen an diesen Zug gekoppelt. So gehören heute unter anderem zum Wolkensteiner Zughotel zwei Schlafwagen (ausgebaut für 20 Betten mit Dusche und WC) ein ehemaliger Kulturwagen (dient heute als Küche) ein Salonwagen (das heutige Restaurant mit 60 Sitzplätzen) und ein Rottewagen (umgebaut als Gemeinschaftsdusche und -WC).\nWeiterlesen...\nUlrich Reuter - Eigentümer"
+  },
+  {
+   "url": "https://wolkensteiner-zughotel.de/zughotel/",
+   "kind": "sub",
+   "label": "Zughotel",
+   "title": "Zughotel | Das Wolkensteiner Zughotel",
+   "text": "Zughotel | Das Wolkensteiner Zughotel\nZum Inhalt springen\nZughotel\nStart\nZughotel\nÜbernachten Sie in den Schlafwagen aus längst vergangener Zeit, mit Holzverkleidungen und dem Flair einer großen Reise.\nSchlafwagen 1.Klasse\nSchlafwagen 2.Klasse\nRegierungsabteil\nSuite Erna\nSuite Walter\nHier geht es zum Anfrageformular -.\nÜbersicht Übernachtungen\nZughotel\nÜbernachten in unseren Ferienzügen\nÜbernachten im Bahnhof\nAdresse | Kontakt\nWolkensteiner Zughotel\nAm Bahnsteig 10\n09429 Wolkenstein\nTelefon Restaurant: 037369 / 58 21\nTelefon Cafe Alter Bahnmeister : 037369 / 88 782\nTelefon Büro: 037369 / 88 781\nTelefax Büro: 037369 / 88 780\nEmail: kontakt@wolkensteiner-zughotel.de"
+  },
+  {
+   "url": "https://wolkensteiner-zughotel.de/suite-erna/",
+   "kind": "sub",
+   "label": "Suite – Erna",
+   "title": "Suite – Erna | Das Wolkensteiner Zughotel",
+   "text": "Suite – Erna | Das Wolkensteiner Zughotel\nZum Inhalt springen\nSuite Erna\nStart\nSuite Erna\nDie Suiten verfügen über 2 einzeln stehende Betten, einem kleinen Sitzbereich mit TV sowie ein Bad mit Dusche und WC.\nEine Übernachtung im Doppelzimmer 145,00 EUR\nEine Übernachtung im Einzelzimmer 95,00 EUR\nAufbettung für max. 2 weitere Personen auf Anfrage möglich.\nPreise gelten pro Zimmer und Nacht, im Preis enthalten sind Frühstück, Bettwäsche, Handtücher, Parkplatz und Mwst.\nDie Benutzung der Grillanlagen nach Absprache möglich. Gerne können Brennholz, Holzkohle, kleines oder großes Grillpaket erworben werden. Hunde sind leider nicht erlaubt.\nVon Januar bis Ende März ist die Buchung der Schlafwagenabteile nicht möglich.\nHier geht es zum – Anfrageformular -.\nÜbersicht Übernachtungen\nZughotel\nÜbernachten in unseren Ferienzügen\nÜbernachten im Bahnhof\nAdresse | Kontakt\nWolkensteiner Zughotel\nAm Bahnsteig 10\n09429 Wolkenstein\nTelefon Restaurant: 037369 / 58 21\nTelefon Cafe Alter Bahnmeister : 037369 / 88 782\nTelefon Büro: 037369 / 88 781\nTelefax Büro: 037369 / 88 780\nEmail: kontakt@wolkensteiner-zughotel.de"
+  },
+  {
+   "url": "https://wolkensteiner-zughotel.de/suite-walter/",
+   "kind": "sub",
+   "label": "Suite – Walter",
+   "title": "Suite – Walter | Das Wolkensteiner Zughotel",
+   "text": "Suite – Walter | Das Wolkensteiner Zughotel\nZum Inhalt springen\nSuite Walter\nStart\nSuite Walter\nDie Suiten verfügen über 2 einzeln stehende Betten, einem kleinen Sitzbereich mit TV sowie ein Bad mit Dusche und WC.\nEine Übernachtung im Doppelzimmer 145,00 EUR\nEine Übernachtung im Einzelzimmer 95,00 EUR\nAufbettung für max. 2 weitere Personen auf Anfrage möglich.\nPreise gelten pro Zimmer und Nacht, im Preis enthalten sind Frühstück, Bettwäsche, Handtücher, Parkplatz und Mwst.\nDie Benutzung der Grillanlagen nach Absprache möglich. Gerne können Brennholz, Holzkohle, kleines oder großes Grillpaket erworben werden. Hunde sind leider nicht erlaubt.\nVon Januar bis Ende März ist die Buchung der Schlafwagenabteile nicht möglich.\nHier geht es zum – Anfrageformular -.\nÜbersicht Übernachtungen\nZughotel\nÜbernachten in unseren Ferienzügen\nÜbernachten im Bahnhof\nAdresse | Kontakt\nWolkensteiner Zughotel\nAm Bahnsteig 10\n09429 Wolkenstein\nTelefon Restaurant: 037369 / 58 21\nTelefon Cafe Alter Bahnmeister : 037369 / 88 782\nTelefon Büro: 037369 / 88 781\nTelefax Büro: 037369 / 88 780\nEmail: kontakt@wolkensteiner-zughotel.de"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://wolkensteiner-zughotel.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

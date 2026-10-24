@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/4759974701",
+ "name": "Epako Safari Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -21.225428,
+ "lng": 16.0020949,
+ "country": "Namibia",
+ "city": "Erongo Region",
+ "region": "Erongo Region",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.epako.com.na/",
+ "fetchedAt": "2026-10-11T07:38:20.691Z",
+ "pages": [
+  {
+   "url": "https://epako.com.na/",
+   "kind": "home",
+   "title": "EPAKO Safari Lodge Spa |",
+   "description": "",
+   "text": "EPAKO Safari Lodge Spa |\nBOOKINGS\nACCOMMODATION\nDINING\nACTIVITIES\nWilderness. Hospitality. Exclusivity.\nNestled in the heart of Namibia’s breathtaking Damaraland region, Epako Safari Lodge & Spa, a proud member of the prestigious Relais & Châteaux association, offers an unparalleled escape into the African wilderness, where stunning landscapes, diverse wildlife, and unparalleled hospitality converge.\nImmerse yourself in the beauty of the natural world as you explore the surrounding wilderness, and embark on thrilling game drives to witness majestic rhinoceros, roaming giraffes, and elusive desert antelopes. Return to the lodge to unwind in luxurious accommodations, savor delectable cuisine, and indulge in rejuvenating spa treatments. Whether you’re seeking adventure, relaxation, or a cultural experience, our lodge offers the perfect blend of luxury and nature.\nAt Epako, we believe in creating experiences as unique as you are. Your journey with us is entirely personalized, with every detail tailored to your individual needs and desires."
+  },
+  {
+   "url": "https://epako.com.na/accommodation/",
+   "kind": "sub",
+   "label": "Accommodation",
+   "title": "Accommodation | EPAKO Safari Lodge Spa",
+   "text": "Accommodation | EPAKO Safari Lodge Spa\nWaterhole Suite Immerse yourself in the vibrant heart of the African bush in our Waterhole Suite and witness the captivating spectacle of wildlife congregating at the active waterhole from the comfort of your terrace. This spacious suite offers unparalleled views of animals congregating at the water s edge, allowing you to feel truly connected to the rhythms of the wild.\nSuite features:\n200 sqm approx.\n1 super king-size bed\nLuxurious en-suite bathroom with bathtub, indoor and outdoor freestanding shower\nExclusive private lounge with private dining area\nOutdoor private terrace\nFloor plan\nRiver Suite Nestled amidst lush riverine vegetation, escape to the tranquil seclusion of the River Suite, where your terrace offers panoramic views of the Epako Riverbed and the abundant wildlife it attracts. Relax and unwind in your own private oasis.\nSuite features:\n150 sqm approx.\n1 super king-size bed\nLuxurious en-suite bathroom with bathtub, indoor and outdoor\nfreestanding shower\nExclusive private lounge\nOutdoor private terrace\nFloor plan\nLoft Suite Retreat to the modern elegance of our Loft Suite, where open-plan living seamlessly blends comfort and style. Relax in the spacious interior while enjoying breathtaking views of the African bush through expansive windows.\nSuite features:\n95 sqm approx.\n1 super king-size bed or 2 twin-sized beds\nLuxurious en-suite bathroom with bathtub and freestanding shower\nPrivate lounge\nOutdoor seating terrace\nFloor plan\nJunior Suite Embrace the exclusivity and natural splendor of our Junior Suites. Immerse yourself in the tranquility of the surrounding landscape, while taking in the breathtaking vistas and finding moments of quiet contemplation. This is an unforgettable experience defined by serenity and refined luxury.\nSuite features:\n80 sqm approx.\n1 super king-size bed or 2 twin-sized beds\nLuxurious en-suite bathroom with bathtub and freestanding shower\nOutdoor private terrace\nFloor plan\nDeluxe Double Room Indulge in the refined comfort of our Deluxe Suite, where every detail is designed to enhance your comfort. This well-appointed suite offers a comfortable and functional space to unwind after a day of exploration, inviting you to unwind and savor the tranquility of the surrounding wilderness from the comfort of your own bed.\nSuite features:\n50-75 sqm approx.\n1 super king-size bed or 2 twin\nsized beds\nLuxurious en-suite bathroom\nwith freestanding shower\nOutdoor seating terrace\nFloor plan\nOur suites are designed to elevate your experience with exceptional service and a range of premium amenities for your comfort and well-being.\nServices\nTurndown service, Room service, Concierge service, Welcome Fruit Basket ,Welcome Cocktail reception\nEssentials & Comfort:\nLuxurious Bedding, Mosquito Bed Nets, Independent Air Conditioning, Ceiling Fans, Blackout Curtains\nTechnology:\nFlat-screen HDTV, Wi-Fi, Power Outlets (Type M or D), Charging Ports (USB A), Workspace desk, Telephone\nBathroom & Personal Care:\nToiletries, Bathrobes, Slippers, Hairdryer, Magnifying mirror, Mosquito Spray\nRefreshments:\nCoffee & Tea Station, Mini-Bar\nStorage & Organization:\nCloset Space, Dresser Drawers, Luggage Rack, Laptop-size Safe"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://epako.com.na/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

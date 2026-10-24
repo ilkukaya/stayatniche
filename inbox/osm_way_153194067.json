@@ -1,0 +1,45 @@
+{
+ "id": "osm:way/153194067",
+ "name": "Ansitz Steinbock",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 46.6321227,
+ "lng": 11.5402355,
+ "country": "IT",
+ "city": "Villanders/Villandro",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle",
+  "stars": "4"
+ },
+ "wikidata": "Q107179559",
+ "wikidataDescription": "building in Villanders",
+ "website": "https://www.ansitzsteinbock.com/",
+ "fetchedAt": "2026-10-21T06:13:20.358Z",
+ "pages": [
+  {
+   "url": "https://www.ansitzsteinbock.com/en",
+   "kind": "home",
+   "title": "Gourmet Hotel & Restaurant Steinbock Manor in Villanders, South Tyrol",
+   "description": "",
+   "text": "Gourmet Hotel & Restaurant Steinbock Manor in Villanders, South Tyrol Timeless design within ancient walls in South Tyrol. Michelin-starred cuisine and 12 suites stand for living pleasure and new luxury in historic walls.\n\" name=\"description\"> Timeless design within ancient walls in South Tyrol. Michelin-starred cuisine and 12 suites stand for living pleasure and new luxury in historic walls.\n\" property=\"og:description\"> Timeless design within ancient walls in South Tyrol. Michelin-starred cuisine and 12 suites stand for living pleasure and new luxury in historic walls.\n\" name=\"twitter:description\">\nAwarded a MICHELIN Key\nThe MICHELIN Key recognizes exceptional stays that offer far more than just a place to stay: places with distinctive character, outstanding hospitality, and a unique identity.\nWe are delighted that Ansitz Steinbock has been awarded a MICHELIN Key – a special recognition of our historic house, its unique atmosphere, and the way we approach hospitality.\nDiscover our cuisine\nHome\nSuites\nRequest\nBooking\nOffers & Packages\nRestaurants\nArchitecture\nTeam\nEvents\nSurroundings\nContact\nF.-v.-Defreggergasse 14\n39040 Villanders/Villandro – Italy\n+39 0472 843 111\nContact\nF.-v.-Defreggergasse 14\n39040 Villanders/Villandro – Italy\n+39 0472 843 111\nBooking\nRequest\nArrival\nCall\nRestaurant\nThe essence of true hospitality\nThe greatness of simplicity. The good life. You can find it all at the Ansitz Steinbock in Villanders/Villandro in your home-from-home, together with people who bring cheer to your days and evenings with a smile. In the comfort of the wood-panelled “Stube” parlours where drinking and dining have taken on the status of art form, and in the suites where the minimalist simplicity is a language spoken with clarity.\nConscientious, grounded and attentive. We see ourselves as the proud custodians of history and, with our finely honed sensitivity for the precious and the rare, have created a place of beauty for you to spend your time here with us. By approaching each individual at eye-to-eye level, preferably on first-name terms, but always with respect and sensitivity, we foster a natural connection of an authentic warmth that transforms a guest house into a house of friends, for friends.\nTimeless design within ancient walls. Great architecture on a small scale\nOne-off pieces\nLess is more. The bold renovations have created an exclusive ambience. Just 12 suites, each more beautiful than the other, are the embodiment of comfort and contemporary luxury within historic walls.\nChoose your favourite suite\nNew ranks in the Steinbock kitchen!\nDining at the Steinbock\nThe three restaurant concepts are still here, as ever—it’s the kitchen management that’s changed: since October 2024, René Tschager has been shaping the Steinbock cuisine with his own youthful signature. Born and bred in South Tyrol, René takes a fascinating approach to the culinary arts: easy-going and carefree, but, in equal measure, respectful of ingredients and the finest of gourmet cuisine.\nYour palate was made to be happy\nLa Lumosa\nFine Dining: Minimalist and meticulous\nStain à la carte\nWell-planned lunch and evening menu\nSteinbock classic\nA 5-course Alpine dinner for hotel guests\nOne hotel, one team, so many personalities.\nLet’s be friends.\nThe hosts\nAn evening is about so much more than just good food and drink. The soul dances, the heart leaps, and the smile stays on your face until you fall asleep. We put our all into providing just that.\nAbout us\nIndivisibly linked with the history of the village.\nWhen tradition becomes heartfelt appreciation.\nHistory and architecture\nInitially a courthouse, the Steinbock went on to become a hotel in later years. The Ansitz Steinbock is deeply rooted in the Villandro village chronicles. The castle-like manor has always been an institution, and remains so to this day.\nPreserve the old, embrace the new\nExperiences in the surrounding area\nSights to see, just around the corner.\nSurroundings\nVillandro is located in the very heart of South Tyrol, and is the perfect base to explore the wineries, architecture and natural beauty of the surrounding area.\nWhere to go?"
+  },
+  {
+   "url": "https://www.ansitzsteinbock.com/en/rooms-suites",
+   "kind": "sub",
+   "label": "Suites",
+   "title": "12 exclusive suites for your holiday in Villanders, South Tyrol",
+   "text": "12 exclusive suites for your holiday in Villanders, South Tyrol Luxury Suites - historic walls meet design & craftsmanship. Book your suite now.\n\" name=\"description\"> Luxury Suites - historic walls meet design & craftsmanship. Book your suite now.\n\" property=\"og:description\"> Luxury Suites - historic walls meet design & craftsmanship. Book your suite now.\n\" name=\"twitter:description\">\nAwarded a MICHELIN Key\nThe MICHELIN Key recognizes exceptional stays that offer far more than just a place to stay: places with distinctive character, outstanding hospitality, and a unique identity.\nWe are delighted that Ansitz Steinbock has been awarded a MICHELIN Key – a special recognition of our historic house, its unique atmosphere, and the way we approach hospitality.\nDiscover our cuisine\nHome\nSuites\nRequest\nBooking\nOffers & Packages\nRestaurants\nArchitecture\nTeam\nEvents\nSurroundings\nContact\nF.-v.-Defreggergasse 14\n39040 Villanders/Villandro – Italy\n+39 0472 843 111\nContact\nF.-v.-Defreggergasse 14\n39040 Villanders/Villandro – Italy\n+39 0472 843 111\nBooking\nRequest\nArrival\nCall\nRestaurant\n12 One-off pieces\nUncompromising and decisive: Minimalist simplicity, speaking a beautifully articulated language. Architecture and interior design have been brought together with the finest of sensitivity, and historic walls blend harmoniously with contemporary style and local craftsmanship. Are you a design connoisseur? An individualist and an aesthete? Then you’ll take great pleasure in this stylish selection."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.ansitzsteinbock.com/en",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

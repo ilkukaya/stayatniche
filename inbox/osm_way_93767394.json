@@ -1,0 +1,33 @@
+{
+ "id": "osm:way/93767394",
+ "name": "Hotel Schloss Lebenberg",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 47.4531644,
+ "lng": 12.3814259,
+ "country": "AT",
+ "city": "Kitzbühel",
+ "region": null,
+ "osm": {
+  "tourism": "hotel",
+  "stars": "5"
+ },
+ "wikidata": "Q1715767",
+ "wikidataDescription": "building in Kitzbühel, Austria",
+ "website": null,
+ "fetchedAt": "2026-10-21T06:11:56.365Z",
+ "pages": [],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "de",
+  "title": "Schloss Lebenberg (Tirol)",
+  "url": "https://de.wikipedia.org/wiki/Schloss_Lebenberg_(Tirol)",
+  "extract": "Das Schloss Lebenberg liegt etwa einen Kilometer entfernt von Kitzbühel auf dem 80 Meter hohen Hügel Lebenberg."
+ },
+ "notes": [
+  "no website known"
+ ]
+}

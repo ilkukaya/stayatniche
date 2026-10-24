@@ -1,0 +1,58 @@
+{
+ "id": "osm:way/387218593",
+ "name": "Hotel Schloss",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 46.4947696,
+ "lng": 9.9000343,
+ "country": "Switzerland",
+ "city": "Pontresina",
+ "region": "Grisons",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "4"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.schlosshotelpontresina.com",
+ "fetchedAt": "2026-10-24T06:03:26.532Z",
+ "pages": [
+  {
+   "url": "https://www.schlosshotelpontresina.com/",
+   "kind": "home",
+   "title": "Schloss Hotel & Spa Pontresina - Hotel 4 stelle in Alta Engadina | Schloss Hotel Pontresina",
+   "description": "Scopri lo Schloss Hotel & Spa, un resort elegante a Pontresina, vicino a St. Moritz, ideale per vacanze invernali e relax con spa, ristorante e servizi per famiglie.",
+   "text": "Schloss Hotel & Spa Pontresina - Hotel 4 stelle in Alta Engadina | Schloss Hotel Pontresina\n-->\nSchloss Hotel & SPA\nCHE-445.652.827 IVA\nPrivacy policy\nCookie policy\nDati societari\n© 2026 Piazza Hotels. Tutti i diritti riservati\nRivedi le tue impostazioni sui Cookie\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply\nfatto con amore dalle persone di"
+  },
+  {
+   "url": "https://www.schlosshotelpontresina.com/camere/",
+   "kind": "sub",
+   "label": "Camere &amp; Suite",
+   "title": "Camere e Suite a Pontresina | Schloss Hotel Pontresina",
+   "text": "Camere e Suite a Pontresina | Schloss Hotel Pontresina\n-->\nSchloss Hotel & SPA\nCHE-445.652.827 IVA\nPrivacy policy\nCookie policy\nDati societari\n© 2026 Piazza Hotels. Tutti i diritti riservati\nRivedi le tue impostazioni sui Cookie\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply\nfatto con amore dalle persone di"
+  },
+  {
+   "url": "https://www.schlosshotelpontresina.com/offerte/capodanno-2027-a-pontresina-festeggia-il-nuovo-anno-allo-schloss-hotel-spa/",
+   "kind": "sub",
+   "label": "Capodanno 2027 allo Schloss Hotel &amp; Spa di Pontresina",
+   "title": "Capodanno 2027 a Pontresina | Schloss Hotel Pontresina | Schloss Hotel Pontresina",
+   "text": "Capodanno 2027 a Pontresina | Schloss Hotel Pontresina | Schloss Hotel Pontresina\n-->\nSchloss Hotel & SPA\nCHE-445.652.827 IVA\nPrivacy policy\nCookie policy\nDati societari\n© 2026 Piazza Hotels. Tutti i diritti riservati\nRivedi le tue impostazioni sui Cookie\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply\nfatto con amore dalle persone di"
+  },
+  {
+   "url": "https://www.schlosshotelpontresina.com/offerte/speciale-febbraio/",
+   "kind": "sub",
+   "label": "Settimana Bianca in Engadina allo Schloss Hotel",
+   "title": "Settimana Bianca Pontresina | Hotel Schloss & Spa vicino St. Moritz | Offerta Febbraio | Schloss Hotel Pontresina",
+   "text": "Settimana Bianca Pontresina | Hotel Schloss & Spa vicino St. Moritz | Offerta Febbraio | Schloss Hotel Pontresina\n-->\nSchloss Hotel & SPA\nCHE-445.652.827 IVA\nPrivacy policy\nCookie policy\nDati societari\n© 2026 Piazza Hotels. Tutti i diritti riservati\nRivedi le tue impostazioni sui Cookie\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply\nfatto con amore dalle persone di"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.schlosshotelpontresina.com/",
+ "httpStatus": 200,
+ "htmlLang": "it-IT"
+}

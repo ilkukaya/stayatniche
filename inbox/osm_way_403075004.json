@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/403075004",
+ "name": "Hotel Schloss Münchweiler",
+ "queueStatus": "verified",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 49.496633,
+ "lng": 6.8197724,
+ "country": "Germany",
+ "city": "Wadern",
+ "region": "Saarland",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://schloss-muenchweiler.de/hotel/",
+ "fetchedAt": "2026-10-12T07:29:02.480Z",
+ "pages": [
+  {
+   "url": "https://schloss-muenchweiler.de/hotel/",
+   "kind": "home",
+   "title": "Hotel - Schloss Münchweiler",
+   "description": "",
+   "text": "Hotel - Schloss Münchweiler\nHotel\nRomantik pur\nWollten Sie nicht auch immer schon mal wissen, wie man auf einem Schlosshof nächtigt? Verbringen Sie eine Nacht oder einen Kurzurlaub in der historischen Schlossanlage in Münchweiler! Gastfreundschaft hat in unserer Familie eine lange Tradition. In nunmehr der dritten Generation werden in unserem Haus Übernachtungsgäste von der Familie persönlich betreut. Eingebettet in das historische Barockensemble garantieren wir Ihnen in unserem Hotel individuelle Betreuung auf modernstem Standard.\nInmitten des Naturparks Saar-Hunsrück bietet unser Schlosshotel die optimale Ausgangslage für zahlreiche Ausflüge mit dem Rad oder zu Fuß. Die Lage im Dreiländer-Eck Deutschland Frankreich Luxembourg lädt darüber hinaus zu Kulturausflügen ein. ( Lage & Kultur )\nUnsere 7 Doppelzimmer und Suite ermöglichen es, ganz individuelle Wünsche unserer Gäste zu jeder Zeit zu erfüllen.\nZimmerpreise für 2026:\nEinzelzimmer: 150,00 €\nDoppelzimmer: 180,00 €\nHochzeitssuite: 330,00 €\nFrühstück: 20,00 € p. P.\nDie Rezeption ist am An- und Abreisetag von 09:00 Uhr bis 22:00 Uhr besetzt.\nFalls die Rezeption nicht besetzt ist, bitte rufen Sie uns kurz an: +49 (0) 68 74 – 18 37 569 Wir sind in ca. 5 Minuten bei Ihnen.\nCheck-In: ab 12:00 Uhr bis 21:00 Uhr\nCheck-Out: bis 12:00 Uhr am Abreisetag\nFrühstückszeiten : von 09:00 Uhr bis 11:00 Uhr\nGerne können Sie bei uns ein Babybett dazu buchen.\nFamilie von Hagke\nSchloss Münchweiler\n66687 Wadern\nTel: +49 (0) 68 74 - 18 37 569\ninfo@schloss-muenchweiler.de\nWir suchen derzeit dringend Service-Mitarbeiter. Weitere Infos unter: info@schloss-muenchweiler.de\nFolgen\nDeutsch\nEnglish ( Englisch )"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://schloss-muenchweiler.de/hotel/",
+ "httpStatus": 200,
+ "htmlLang": "de-DE"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "osm:way/284399335",
+ "name": "Schloß Pülswerda",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 51.5261512,
+ "lng": 13.0714304,
+ "country": "Germany",
+ "city": "Arzberg",
+ "region": "Saxony",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q36202968",
+ "wikidataDescription": "Castle of the Pülswerda manor, Arzberg (Saxony)",
+ "website": "https://www.schloss-puelswerda.de/",
+ "fetchedAt": "2026-10-12T07:29:14.219Z",
+ "pages": [
+  {
+   "url": "https://www.schloss-puelswerda.de/",
+   "kind": "home",
+   "title": "Im Hotel an der Elbe Sächsischen Wein genießen - Hotel Schloss Pülswerda",
+   "description": "Im Schlosshotel Pülswerda an der Elbe können Sie sächsische Weine genießen. Die Zimmer im Schloss sind nicht nur für Comtessen zur Übernachtung hergerichtet.",
+   "text": "Im Hotel an der Elbe Sächsischen Wein genießen - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nDas Hotel befindet sich ab dem 01.11.2026 in Winterruhe.\nWir freuen uns darauf, unsere Gäste ab dem Frühjahr 2027 wieder zu begrüssen.\nWerden Sie Geschichte!\nDort, wo die jungen Comtessen erste Liebesbriefe schrieben, schlafen nun Sie, die alte Türklinke zu Ihrem Zimmer tausende Male gedrückt, Ihre Hand reiht sich ein, die Geschichte geht weiter.\nDen Weg zur Elbe durch Schlosspark und Auen gehen, sächsische Weine und Biere geniessen, den Geist einer anderen Welt erfahren — unser Schlosshotel erwartet Sie!"
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlosshotel/unser-hotel",
+   "kind": "sub",
+   "label": "Schlosshotel",
+   "title": "Schlosshotel an der Elbe mit Gästezimmer - Hotel Schloss Pülswerda",
+   "text": "Schlosshotel an der Elbe mit Gästezimmer - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nUnser Schlosshotel\nWir bieten 4 Gästezimmer an, davon 3 als Doppelzimmer und 1 Einzelzimmer. Die eleganten Badezimmer sind mit Dusche und WC ausgestattet.\nGeist einer anderen Welt\nUnsere Zimmer sind mit abgeschirmten Elektrokabeln und Netzfreischalter ausgestattet sowie Fernseher-frei. Bei der Renovierung wurden nur Bio-Baumaterialien verwendet: Bio-Lacke, Bio-Fussbodenhartöl, Kalkwandputz. Die Wände und Decken sind mit Leimfarbe (wie früher!) oder mit Kalk-Kaseinfarbe gestrichen.\nWie bei der gesamten Wiederherstellung des früheren Glanzes des Schlosses haben wir selbst in den kleinen Details auf historische Authentizität geachtet: der vorgefundene Bestand an historischer Dielung, Fenster und Türen, sowie Beschlägen wurde aufgearbeitet oder mit alten Baumaterial ergänzt - und so eine unverwechselbare Atmosphäre des Wohlbehagens geschaffen.\nNichtraucherhotel und Haustiere\nBitte beachten Sie, dass wir ein Nichtraucherhotel sind - im Interesse des Gebäudes und Ihrer Gesundheit! Haustiere dürfen leider nicht bei uns übernachten, da wir in unserem Haus auch Gästen mit Allergie einen unbeschwerten Aufenthalt anbieten wollen.\nAnreise und Abreise\nIhr Zimmer kann am Tag der Anreise ab 15:00 Uhr bezogen werden. Am Tag der Abreise steht Ihnen das Zimmer bis 10:00 Uhr zur Verfügung. Die Entspannung, die wir dadurch gewinnen, kommt Ihnen als Gast zugute."
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlosshotel/unsere-zimmer",
+   "kind": "sub",
+   "label": "Unsere Zimmer",
+   "title": "Zimmer im Schlosshotel - Hotel Schloss Pülswerda",
+   "text": "Zimmer im Schlosshotel - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nDie Zimmer im Schlosshotel\nWir freuen uns, wenn wir Ihnen den Zimmerschlüssel überreichen können! Unser Ziel ist es, Ihren Aufenthalt im Schlosshotel erholsam, erlebnisreich und mit der Aura des Besonderen - dem \"Geist einer anderen Welt\" - zu gestalten.\nEinzelzimmer Nr.1\nBad Zimmer Nr.1\nDoppelzimmer Nr.3\nDoppelzimmer Nr.3\nDoppelzimmer Nr.4\nDoppelzimmer Nr.4\nDoppelzimmer Nr.6\nDoppelzimmer Nr.6"
+  },
+  {
+   "url": "https://www.schloss-puelswerda.de/schlossgeschichte/geschichte-1",
+   "kind": "sub",
+   "label": "Schlossgeschichte",
+   "title": "Geschichte von Pülswerda und Torgau - Hotel Schloss Pülswerda",
+   "text": "Geschichte von Pülswerda und Torgau - Hotel Schloss Pülswerda\nZum Hauptinhalt springen\nDer Ort Pülswerda liegt etwa 12 km südöstlich von Torgau an der Elbe und gehört heute zur Gemeinde Arzberg. Der Ortsname wurde gebildet aus den beiden Wörten \"pul\" (vgl. Pfuhl und das engl. \"pool\") für sumpfige Stelle, Loch mit schlammigen Wasser, und \"werder\" für erhöhtes, wasserfreies Land inmitten von stehendem oder fließendem Gewässer. Der Ort befand sich ursprünglich auf der westlichen Seite des Flusses Elbe, ebenso wie die heute auf der östlichen Seite der Elbe liegenden Orte Zwethau, Axien und Klöden. Wohl im Zusammenhang mit dem katastrophalen Magdalenenhochwasser vom 21. Juli 1342 riss sich die Elbe ein Bett westlich des Ortes Pülswerda, wobei der alte Flusslauf östlich von Pülswerda lange Zeit als Altarm erhalten blieb und deshalb auch Pülswerda als eine Insel zwischen zwei Elbarmen auf alten Landkarten zu sehen ist. Im 'Jahrbuch des Vereins für Niederdeutsche Sprachforschung', Jahrgang 1978, heisst es allerdings 'Die Elbe hatte sich im 15. Jahrhundert ein neues Bett westlich von Pülswerda gerissen'. Vielleicht war der Ort aufgrund seiner besonderen Lage auch Burgward in einer Kette von Burgwarden, deren nächste im Norden Triestewitz (noch nicht gesichert) und Zwethau waren, im Süden Belgern und Dröschkau. Auf der westlichen Elbseite gab es nordwestlich Belgern einen Ort Paulswerda, der bereits früh wüst (nicht mehr besiedelt) war. Bei der Suche nach historischen Daten wird der Ort Paulswerda von manchen Heimatforschern oft für den Ort Pülswerda gehalten.\nAuf der durch die beiden Elbarme gebildeten Insel liegt auch nördlich der Ortslage Pülswerda auf Höhe der Ortslage Prausitz ein einzelner Hof, der 1749 (Georg Schreiber, Das Amt Torgau) Hegerreutherhaus genannt wird. Auf den Landkarten ab ca. 1800 ist an dieser Stelle allerdings keine entsprechende Einzeichnung mehr vorhanden und also wohl von einer Brache oder einer Überackerung auszugehen. Wohl in den 1930er Jahren werden aus dem Rittergutsbesitz im Rahmen der Osthilfe ca. 50 Hektar gegen Schuldenerlass ausgegliedert und mit einem 3-Seiten-Hof neu bebaut, der einem Bauern gegeben wird, der wegen des Baus des Flughafens in Dessau seinen Hof aufgeben musste.\nAuch in der Feldflur um Pülswerda wurde früher Wein angebaut! Einen Hinweis dazu findet man im \"Gnädigst privilegirtes Leipziger Intelligenz-Blatt, in Frag- und Anzeigen, für Stadt- und Land-Wirthe, zum Besten des Nahrungsstandes, No. 19, Mittwochs, den 4. May, 1803\" in der Anzeige mit der Nummer 9). Dort heisst es: \"In Triestewitz bey Torgau ist eine ansehnliche Quantität hieselbst erbauter Wein von verschiedenem Jahrwuchs, in grössern und kleinern Parthien, jedoch ohne Gefässe, um billige Preise zu verkaufen. Kauflustige können deswegen je eher je lieber auf dem Ritterguthe allda nähere Erkundigungen einziehen, wo sie, auf mündliche sowohl als auf schriftliche portofreye Anfragen, jederzeit genaue Auskunft, auch nach Befinden Proben erhalten können. Den 19. April 1803.\""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.schloss-puelswerda.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

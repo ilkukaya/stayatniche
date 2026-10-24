@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/275128629",
+ "name": "Castillo de Valdés-Salas",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 43.4090274,
+ "lng": -6.2616514,
+ "country": "Spain",
+ "city": "Salas",
+ "region": "Asturias",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "manor",
+  "stars": "2"
+ },
+ "wikidata": "Q6058219",
+ "wikidataDescription": "cultural property in Salas, Spain",
+ "website": "http://www.castillovaldesalas.com/hotel-overview.html",
+ "fetchedAt": "2026-10-11T07:40:14.623Z",
+ "pages": [
+  {
+   "url": "http://www.castillovaldesalas.com/hotel-overview.html",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "es",
+  "title": "Palacio de Valdés Salas",
+  "url": "https://es.wikipedia.org/wiki/Palacio_de_Vald%C3%A9s_Salas",
+  "extract": "El Palacio de Valdés Salas está situado en la localidad de Salas, en el concejo asturiano del mismo nombre."
+ },
+ "notes": [],
+ "finalUrl": "http://www.castillovaldesalas.com/hotel-overview.html",
+ "httpStatus": 200,
+ "htmlLang": null
+}

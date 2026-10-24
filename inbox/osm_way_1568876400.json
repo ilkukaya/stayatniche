@@ -1,0 +1,44 @@
+{
+ "id": "osm:way/1568876400",
+ "name": "Pezulu Tree House Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": -24.5239126,
+ "lng": 31.120598,
+ "country": "South Africa",
+ "city": "Hoedspruit",
+ "region": "Limpopo",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "4"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://pezulu.co.za",
+ "fetchedAt": "2026-10-22T06:13:51.265Z",
+ "pages": [
+  {
+   "url": "https://pezulu.co.za/welcome/",
+   "kind": "home",
+   "title": "Pezulu Tree House Lodge &#8211; exclusive luxury meets the untamed wilderness",
+   "description": "",
+   "text": "Pezulu Tree House Lodge exclusive luxury meets the untamed wilderness\nNothing but breathing the air of Africa, and actually walking through it, can communicate the indescribable sensations.\nWilliam Burchell – English explorer\nexclusive luxury meets the untamed wilderness\nWelcome\nPezulu Tree House Lodge is a small exclusive Game Lodge, situated in the Greater Kruger game rich area of Hoedspruit, Limpopo Province, South Africa. . With each treehouse built around the canopy of growing trees, our unique accommodation fuses nature and comfort. Built to celebrate its surroundings, the lodge is intentionally small, to keep the experience personal for each guest.\nWhether you’re after excitement or tranquility, Pezulu is perfect for escaping the hustle and bustle of modern life. With a wide variety of experiences, being near to the Panorama Route and the world famous Kruger National Park, visiting Pezulu is something you’ll simply never forget.\nthere’s nowhere on earth quite like Pezulu Tree House Lodge\nContact Info\nReservations: +27 15 000 6583\nActivities: +27 15 000 6595\nMobile: +27 76 556 6014\nWhatsApp: +27 83 294 7831\nAddress:  P.O. Box 795, Hoedspruit 1380\nLocation:  Guernsey Rd Hoedspruit, Limpopo Province, South Africa\ne-mail:  info@pezulu.co.za\nGPS: S 24° 31′ 26.0″ E 31° 07′ 15.1\nScroll to top\nWhatsApp us"
+  },
+  {
+   "url": "https://pezulu.co.za/welcome/the-lodge/",
+   "kind": "sub",
+   "label": "The Lodge",
+   "title": "The Lodge &#8211; Pezulu Tree House Lodge",
+   "text": "The Lodge Pezulu Tree House Lodge\n“ Africa changes you forever, like nowhere on earth. Once you have been there, you will never be the same. ”\nBrian Jackman freelance writer\nPezulu is all about making memories\nThe Lodge\nPezulu is a one-of-a-kind place, with a friendly team who strives to provide unmatched experiences and service to ensure every minute is a memory. The thatched main building of the lodge is interweaved with a large Marula tree. Inside you’ll find a cosy lounge, reception, a dining area and a charming bush bar.\nOur magnificent rock pool is the place to be if you need to unwind on hot summer days. Grab a pool lounger and let the stress melt away! Once the heat of the sun subsides, enjoy a drink at the panoramic lookout point as the vibrant African sun sets over the Drakensberg mountains.\nA delicious 3 course dinner is served under the stars around a log fire in our beautiful boma. And if you’d like to celebrate something special, simply ask!\nContact Info\nReservations: +27 15 000 6583\nActivities: +27 15 000 6595\nMobile: +27 76 556 6014\nWhatsApp: +27 83 294 7831\nAddress:  P.O. Box 795, Hoedspruit 1380\nLocation:  Guernsey Rd Hoedspruit, Limpopo Province, South Africa\ne-mail:  info@pezulu.co.za\nGPS: S 24° 31′ 26.0″ E 31° 07′ 15.1\nScroll to top\nWhatsApp us"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://pezulu.co.za/welcome/",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

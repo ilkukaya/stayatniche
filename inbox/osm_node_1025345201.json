@@ -1,0 +1,41 @@
+{
+ "id": "osm:node/1025345201",
+ "name": "Castillo de Monda",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 36.630639,
+ "lng": -4.8349281,
+ "country": "Spain",
+ "city": "Monda",
+ "region": "Andalusia",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q97633439",
+ "wikidataDescription": "cultural property in Monda, Spain",
+ "website": "https://castillodemonda.com/",
+ "fetchedAt": "2026-10-11T07:40:13.864Z",
+ "pages": [
+  {
+   "url": "https://castillodemonda.com/",
+   "kind": "home",
+   "title": "",
+   "description": "",
+   "text": ""
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "es",
+  "title": "Castillo de Monda",
+  "url": "https://es.wikipedia.org/wiki/Castillo_de_Monda",
+  "extract": "El castillo de Monda, también denominado castillo de la Villeta, son los restos de una fortificación situada en el casco urbano de la localidad malagueña de Monda, España. Cuentan con la protección de la Declaración genérica del Decreto de 22 de abril de 1949, y la Ley 16/1985 sobre el Patrimonio Histórico Español.\nActualmente es un hotel boutique con cuatro estrellas."
+ },
+ "notes": [],
+ "finalUrl": "https://castillodemonda.com/",
+ "httpStatus": 202,
+ "htmlLang": null
+}

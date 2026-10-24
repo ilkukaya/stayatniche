@@ -1,0 +1,36 @@
+{
+ "id": "osm:way/760259795",
+ "name": "Hotel Restaurant Surselva",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": 46.7588491,
+ "lng": 9.143878,
+ "country": "Switzerland",
+ "city": "Obersaxen-Mundaun",
+ "region": "Grisons",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "http://www.hotelsurselva.ch",
+ "fetchedAt": "2026-10-24T06:03:44.573Z",
+ "pages": [
+  {
+   "url": "https://hotelsurselva.ch/en",
+   "kind": "home",
+   "title": "Home | Hotel Surselva",
+   "description": "Herzlich willkommen auf unserer Website. Wir freuen uns, Sie schon bald in unserer Region begrüssen zu dürfen.",
+   "text": "Home | Hotel Surselva\nskip to main content\nArrival\nDeparture\nAdults\nChildren\nBook now\nSlope access\nSkiraum beheizt\nGratis WLAN\nKostenlose Parkplätze\nHotel Surselva\nÖFFNUNGSZEITEN\n12. August bis 29. September Mittwoch bis Sonntag geöffnet ab 10 Uhr.\n30. September bis 18. Oktober täglich geöffnet.\nReservationen: 081 933 16 16 oder 079 630 01 17\nBetriebsferien Herbst: ab 19. Oktober bis 17. Dezember 2026\n360° Rundgang – virtuell erleben\nFinden Sie Erholung – im Hotel Surselva in den Bündner Bergen\nSteht Ihnen der Sinn mal wieder nach ein paar erholsamen Tagen mitten in der traumhaften Bündner Bergwelt? In diesem Fall legen wir Ihnen gerne unser Hotel Surselva ans Herz. Dieses besondere Haus liegt an einer wunderbar ruhigen Lage im malerischen Örtchen Surcuolm in der Surselva – und ist sommers wie winters für Sie geöffnet!\nIhre Gastgeber\nBeatrice Hug und Sigisbert Caviezel\nTelefon: 081 933 16 16    oder    079 630 01 17"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://hotelsurselva.ch/en",
+ "httpStatus": 200,
+ "htmlLang": "en-US"
+}

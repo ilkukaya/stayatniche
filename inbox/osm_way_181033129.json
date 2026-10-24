@@ -1,0 +1,38 @@
+{
+ "id": "osm:way/181033129",
+ "name": "Torre-Palacio de los Alvarado",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 43.0379825,
+ "lng": -3.4836201,
+ "country": "Spain",
+ "city": "Merindad de Montija",
+ "region": "Castile and León",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://torrepalacioalvarado.com",
+ "fetchedAt": "2026-10-12T07:28:35.476Z",
+ "pages": [
+  {
+   "url": "https://torrepalacioalvarado.com/",
+   "kind": "home",
+   "title": "Torre Palacio Alvarado &#8211; Castillo situado en Las Merindades",
+   "description": "Castillo situado en Las Merindades",
+   "text": "Torre Palacio Alvarado Castillo situado en Las Merindades\nCastillo situado en Las Merindades\nBienvenidos al Palacio de los Alvarado, un alojamiento lleno de historia y encanto, donde grandes figuras como Carlos V y Fernando VII dejaron su huella. Ubicado en el corazón de Las Merindades, al norte de España, nuestro hotel es el refugio perfecto para quienes buscan tranquilidad, naturaleza y desconexión.\nReservar\n/"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://torrepalacioalvarado.com/",
+ "httpStatus": 200,
+ "htmlLang": "es"
+}

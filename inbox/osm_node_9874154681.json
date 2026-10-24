@@ -1,0 +1,36 @@
+{
+ "id": "osm:node/9874154681",
+ "name": "Bahnwaggons",
+ "queueStatus": "weak",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 52.7015768,
+ "lng": 14.4108736,
+ "country": "Germany",
+ "city": "Letschin",
+ "region": "Brandenburg",
+ "osm": {
+  "tourism": "apartment"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.verladeturm.de/",
+ "fetchedAt": "2026-10-17T05:46:55.980Z",
+ "pages": [
+  {
+   "url": "https://www.verladeturm.de/",
+   "kind": "home",
+   "title": "Start - Kulturhafen Groß Neuendorf",
+   "description": "Der Kulturhafen Groß Neuendorf an der mittleren Oder bietet Kultur, Gastronomie und Ferienwohnungen.",
+   "text": "Start - Kulturhafen Groß Neuendorf\nStart\nHerzlich willkommen und Ahoi! an der schönen, blauen Oder!\nIm Jahr 2005 sanierten Jens Plate Architekten das Denkmalensemble \"Kulturhafen Groß Neuendorf\".\nDabei wurde der historische Verladeturm zu einer Ferienwohnung in den oberen vier Etagen und dem Turmcafé mit einer Ausstellung in den unteren drei Etagen umgebaut. Die frühere Förderbrücke wurde zu einer öffentlichen Aussichtsplattform; das ehemalige Maschinenhaus beherbergt heute ein Hotel und Restaurant.\nDie historischen Bahnwaggons vervollständigen das Denkmalensemble mit weiteren Übernachtungsmöglichkeiten und Deutschlands östlichstem Theater.\nVom Schiffsanleger werden Charterfahrten auf der schönen, blauen Oder angeboten. Ein Landwirtschaftsmuseum, eine Kunstgalerie, eine Skaterbahn und ein Fahrradverleih runden das Angebot ab.\nDiese Website verwendet Cookies. Wenn Sie diese Website weiter nutzen, stimmen Sie dem zu. Weitere Informationen finden Sie in unserer Datenschutzerklärung.\nWeiterlesen …\nVerstanden"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.verladeturm.de/",
+ "httpStatus": 200,
+ "htmlLang": "de"
+}

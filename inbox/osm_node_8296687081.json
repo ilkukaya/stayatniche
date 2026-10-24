@@ -1,0 +1,57 @@
+{
+ "id": "osm:node/8296687081",
+ "name": "Treehouse I.",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 48.9059395,
+ "lng": 18.1777382,
+ "country": "Slovakia",
+ "city": "Trenčianske Teplice",
+ "region": null,
+ "osm": {
+  "tourism": "chalet"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.treehouse.sk/treehouse/treehouse-i/",
+ "fetchedAt": "2026-10-24T06:02:28.825Z",
+ "pages": [
+  {
+   "url": "https://www.treehouse.sk/treehouse/treehouse-i/",
+   "kind": "home",
+   "title": "Treehouse I. | Trenčianske Teplice | Domček v korunách",
+   "description": "Treehouse I. - Ponúka útulné ubytovanie v lese s manželskou a poschodovou posteľou, terasou a suchým WC. Ideálne pre rodiny milujúce prírodu.",
+   "text": "Treehouse I. | Trenčianske Teplice | Domček v korunách\nPreskočiť na hlavný obsah\nPreskočiť prehliadku\nTrenčianske Teplice\nTreehouse I.\nZobraziť všetky fotky\nAj v Treehouse sa budete citiť ako doma\nTreehouse sme zariadili vkusne a útulne, aby ste sa aj v takomto netradičnom prostredí cítili príjemne. V domčeku sa nachádza jedna manželská a jedna poschodová posteľ, stôl so stoličkami a menšou lavicou. Nábytok z miestneho dreva je masívny a kvalitne spracovaný. Posedieť si môžete na priestrannej terase, z ktorej je vstup na samostatné sociálne zariadenie (suché wc). Terasu sme vybavili dreveným stolom a stoličkami, ktoré vám poslúžia najmä pri chutných raňajkách alebo večernom pohári vína. Hoci do Treehousu nie je privedená elektrina a tečúca voda, osvetlenie a základná hygiena bude vďaka pripravenému vybaveniu hračkou a vy si tak môžete naplno vychutnať pobyt v korunách stromov.\n1-4 Osoby\n1x manželská, 1x dvojposchodová\nZvieratká radšej nechajte doma\n15 m²\nSamostatné suché WC\nKuchynka k dispozícii\nTrenčianske Teplice\nTreehouse I.\nod 129€ / noc\nZobraziť dostupnosť Navigovať k nám\nZarezervovať si termín\nPrezrite si voľné termíny\nPrehľad voľných termínov\n*Nevhodn term ny? Vyberte in treehouse\nTreehouse I.\nTreehouse II.\nTreehouse III.\nTreehouse IV.\nTreehouse V.\nTreehouse I.\nDostupné\nRezervované\nP U S Š P S N\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28 135€\n29\n30\n31\nDátum začiatku:\n-\nDátum ukončenia:\n-\nRezervácia\nVaše Meno *\nVaše priezvisko *\nTelefón *\nEmail *\nPočet osôb *\nPočet raňajok\nDoplnkové služby\nPiknikový kôš - pre dve osoby Piknikový kôš - pre štyri osoby\nFlaša sektu\nTématická výzdoba\nZhrnutie\nNajprv vyberte dátum.\nWooCommerce Dokončiť objednávku\nPokračovať\nTreehouse I.\nDostupné\nRezervované\nP U S Š P S N\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28 135€\n29\n30\n31\nDátum začiatku:\n-\nDátum ukončenia:\n-\nRezervácia\nVaše Meno *\nVaše priezvisko *\nTelefón *\nEmail *\nPočet osôb *\nPočet raňajok\nDoplnkové služby\nPiknikový kôš - pre dve osoby Piknikový kôš - pre štyri osoby\nFlaša sektu\nTématická výzdoba\nZhrnutie\nNajprv vyberte dátum.\nWooCommerce Dokončiť objednávku\nPokračovať\nVkusne vybavený domček na strome.\nVybavenie Treehouse sme zariadili vkusne a útulne, aby ste sa aj v takomto netradičnom prostredí cítili príjemne. V domčeku sa nachádza jedna manželská a jedna poschodová posteľ, stôl so stoličkami a menšou lavicou. Nábytok z miestneho dreva je masívny a kvalitne spracovaný. Posedieť si môžete na priestrannej terase, z ktorej je vstup na samostatné sociálne zariadenie (suché wc). Terasu sme vybavili dreveným stolom a štyrmi stoličkami, ktoré vám poslúžia najmä pri chutných raňajkách alebo večernom pohári vína. Hoci do domčeka nie je privedená elektrina a tečúca voda, osvetlenie a základná hygiena bude vďaka pripravenému vybaveniu hračkou a vy si tak môžete naplno vychutnať pobyt v korunách stromov.\n1 - 4 osoby\n33 m²\nVáš prehliadač nepodporuje video tag.\nscript\nfunction initializeDateHandler() {\nfunction addOneDay(dateString) {\nconsole.log(\"pôvodný dátum\", dateString);\nconst monthNames = {\n'január': 0, 'február': 1, 'marec': 2, 'apríl': 3, 'máj': 4, 'jún': 5, 'júl': 6, 'august': 7, 'september': 8, 'október': 9, 'november': 10, 'december': 11\n};\nconst parts = dateString.split(' ');\nif (!dateString || parts.length !== 3) {\nreturn dateString;\n}\nconst day = parseInt(parts[0].trim(), 10);\nconst month = monthNames[parts[1].trim().toLowerCase()];\nconst year = parseInt(parts[2].trim(), 10);\nif (isNaN(day) || month === undefined || isNaN(year)) {\nreturn dateString;\n}\nconst date = new Date(year, month, day);\ndate.setDate(date.getDate() + 1);\nconst newMonthName = Object.keys(monthNames).find(key = monthNames[key] === date.getMonth());\nreturn `${date.getDate()}. ${newMonthName} ${date.getFullYear()}`;\n}\nconst clickableElement = document.querySelector('.wpbs-calendar-wrapper');\nclickableElement.addEventListener('click', function() {\nconsole.log(\"click\");\nconst endDateDiv = document.querySelector('.wpbs-form-field-end-date .wpbs-form-field-input');\nsetTimeout(() = {\nif (endDateDiv.textContent) {\nconsole.log(\"teraz áno\");\nconst newDate = addOneDay(endDateDiv.textContent);\nendDateDiv.textContent = newDate;\n}\n}, 100);\n});\n}\n/script"
+  },
+  {
+   "url": "https://www.treehouse.sk/treehouse/",
+   "kind": "sub",
+   "label": "Treehouse",
+   "title": "Treehouse | Domčeky na strome",
+   "text": "Treehouse | Domčeky na strome\nPreskočiť na hlavný obsah\nPreskočiť prehliadku\nTreehouse\nZážitková noc v domčeku na strome\nDôležité informácie\nVážení zákazníci, radi by sme Vás upozornili, že každý z našich domčekov na strome má vlastný kalendár obsadenosti a rezervačný systém. Voľné termíny teda uvidíte vždy po rozkliknutí konkrétneho domčeka, v ktorom sa rozhodnete zažiť svoje lesné dobrodružstvo. Tešíme sa na Vás!\nV etky Treehousy\nBojnice\nTren ianske Teplice\nod 129 / noc\nTren ianske Teplice\nTreehouse I.\nZ itkov pobyt v dom eku na strome pre v s a va ich najbli ch\nDetail\nod 129 / noc\nTren ianske Teplice\nTreehouse II.\nDobrodru stvo v pr rode s t mi, ktor ch m te najrad ej\nDetail\nod 129 / noc\nBojnice\nTreehouse III.\nRomantick pobyt v objat lesa\nDetail\nod 139 / noc\nBojnice\nTreehouse IV.\nNajv z itok na najv om dom eku na strome\nDetail\nod 129 / noc\nBojnice\nTreehouse V.\nRomantick dobrodru stvo v korun ch stromov\nDetail\nod 139 / noc\nBojnice\nTreehouse VI.\nCeloro n oddych v korun ch stromov\nDetail\nod 139 / noc\nBojnice\nTreehouse VII.\nSpolo n chv le str vene v dom eku na strome\nDetail\nod 129 / noc\nBojnice\nTreehouse III.\nRomantick pobyt v objat lesa\nDetail\nod 139 / noc\nBojnice\nTreehouse IV.\nNajv z itok na najv om dom eku na strome\nDetail\nod 129 / noc\nBojnice\nTreehouse V.\nRomantick dobrodru stvo v korun ch stromov\nDetail\nod 139 / noc\nBojnice\nTreehouse VI.\nCeloro n oddych v korun ch stromov\nDetail\nod 139 / noc\nBojnice\nTreehouse VII.\nSpolo n chv le str vene v dom eku na strome\nDetail\nod 129 / noc\nTren ianske Teplice\nTreehouse I.\nZ itkov pobyt v dom eku na strome pre v s a va ich najbli ch\nDetail\nod 129 / noc\nTren ianske Teplice\nTreehouse II.\nDobrodru stvo v pr rode s t mi, ktor ch m te najrad ej\nDetail\nPrezrite si voľné termíny\nPrehľad voľných termínov\nDostupné\nRezervované\nRezervované\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nTreehouse VII.\nTreehouse VI.\nTreehouse V.\nTreehouse IV.\nTreehouse III.\nTreehouse II.\nTreehouse I."
+  },
+  {
+   "url": "https://www.treehouse.sk/faq/",
+   "kind": "sub",
+   "label": "FAQ",
+   "title": "Treehouse | FAQ | Ako sa pripraviť na pobyt v Treehouse",
+   "text": "Treehouse | FAQ | Ako sa pripraviť na pobyt v Treehouse\nPreskočiť na hlavný obsah\nPreskočiť prehliadku\nFAQ\nAko Vám vieme\npomôcť?\nZ kladn inform cie\nPlatba\nProbl my\nM eme sa na treehouse ubytova aj piati?\nN Bojnick dom ek IV. je prisp soben pre 5 os b ostatn dom eky a ich vybavenie je prisp soben maxim lne tyrom dospel m osob m. Len tak bude v pobyt v maxim lne mo nej miere komfortn a bezpe n .\nM em si na treehouse privies aj ps ka?\nNa treehouse aktu lne nie je mo n bra si so sebou ps ka i in zvieratko. Pre zvieratk nie je pobyt vo v ke nad zemou prirodzen , m u poci ova nervozitu i zkos . Poproste teda rodinu i kamar tov, aby v m v ho dom ceho mil ika po as va ej nepr tomnosti postr ili.\nJe v bl zkosti dom eka ohnisko na opekanie?\nV etky na e treehouse v Bojniciach maj svoje ohnisk . Dom eky v Tren ianskych Tepliciach ohnisk nemaj .\nPotrebujem si bra so sebou aj drobn riad a pr bor?\nNie, lky na k vu a aj, poh re a pr bor bud pre v s pripraven . A nech ba ani odpadkov k .\nD sa s niekde v okol aj k vode?\nUr ite no, v lete v Tren ianskych Tepliciach odpor ame schladi sa na k palisku Zelen aba s vonkaj m baz nom v pr jemnom prostred s v h adom. Celoro ne m ete vyu va wellness a baz nov svety k pe n ch hotelov, napr. v hoteli Slovakia, Fl ra i Panor ma. Relaxa n baz n Grand sa nach dza priamo na n mest . Rovnako irok ponuku maj aj Bojnice kde v lete m ete nav t vi k palisko ajka alebo ak t ite po wellness s tu pre v s k pele Bojnice\nA o turistika? Kam vyrazi ?\nOkrem prech dzok po okolit ch lesoch odpor ame n u n chodn ky alebo aktivity ktor n jdete tu.\no m em v Tren ianskych Tepliciach za i po as leta?\nTren ianske Teplice s zn me svoj m bohat m kult rnym programom. Najm cez letn v kendy m ete nav t vi r zne festivaly, koncerty a in podujatia priamo pod hol m nebom. asto sa tu konaj aj svadby a s kromn oslavy. Dom ek je od k pe n ho parku vzdialen len 10 min t ch dze, preto to m te do centra diania naozaj bl zko. Z rove je v ak potrebn po ta s t m, e po as konania t chto akci m ete hudbu po u a na dom eku. No n k ud by v ak mal by dodr an a o v ch v kendov ch akci ch budeme na ich host vopred informova .\no robi a nav t vi s de mi?\nU samotn pobyt v dom eku je pre deti z itkom a je dobr si ho naplno vychutna . Ak v ak m te chu nie o s de mi podnikn , v Tren ianskych Tepliciach sa prejdite po k pe nom parku, kde sa deti vy antia na ihrisku a m u k mi ka i ky na rybn ku. Pri k pe nom jazierku n jdete tie minigolf a tenisov kurty, ne aleko je aj po i ov a bicyklov a kolobe iek. A erstvo upe en k pe n obl tka bude aj pre dospel ch dokonalou ere ni kou pekne str ven ho d a. V Bojniciach va e deti ur ite nepohrdn n v tevou ZOO alebo Dinoparku pod vyhliadkovou ve ou ajka, ktor pon ka prekr sne v h ady na okolie\nPlatba prebehla, no nepri lo mi potvrdenie o rezerv ci . Na koho sa m m obr ti ?\nV pr pade ak chko vek probl mov s rezerv ciou n s pros m konkatujte na e-mail rezervacie@treehouse.sk alebo telef nnom sle +421 911 520 650\no robi , ak sa n m po as ubytovania vyskytne nejak probl m, porucha alebo nepriazniv po asie?\nSme pripraven na ka d situ ciu. V pr pade ak chko vek probl mov alebo ot zok n s kontaktujte na telef nnom sle +421 911 520 650."
+  },
+  {
+   "url": "https://www.treehouse.sk/treehouse-lokalita/trencianske-teplice/",
+   "kind": "sub",
+   "label": "Trenčianske Teplice",
+   "title": "Trenčianske Teplice &#8211; Treehouse",
+   "text": "Trenčianske Teplice Treehouse\nPreskočiť na hlavný obsah\nPreskočiť prehliadku\nTreehouse lokalita: Trenčianske Teplice\nTreehouse II.\n17. apríla 2024\nTreehouse I.\n2. apríla 2024"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.treehouse.sk/treehouse/treehouse-i/",
+ "httpStatus": 200,
+ "htmlLang": "sk-SK"
+}

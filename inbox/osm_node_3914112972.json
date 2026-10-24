@@ -1,0 +1,58 @@
+{
+ "id": "osm:node/3914112972",
+ "name": "Swell Eco Lodge",
+ "queueStatus": "weak",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -31.923583,
+ "lng": 29.217044,
+ "country": "South Africa",
+ "city": "Nyandeni Local Municipality",
+ "region": "Eastern Cape",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": "Q111859553",
+ "wikidataDescription": "hotel in South Africa",
+ "website": "https://www.swellecolodge.com/",
+ "fetchedAt": "2026-10-21T06:13:30.301Z",
+ "pages": [
+  {
+   "url": "https://www.swellecolodge.com/",
+   "kind": "home",
+   "title": "Swell Eco Lodge | self-catering and pet friendly lodge on the wild coast | Mncibe, Mdumbi, 5140",
+   "description": "Swell Eco Lodge South Africa offers catered or self-catered, pet friendly accommodation in a remote location in the Transkei-Wild Coast, ideal for couples, groups and families.\nSpectacular views, jumping whales, roaming cattle and a view of rural life in this wonderful village is only part of your experience!\nOur lodge is made up of traditional Rondavel structures which blend into its beautiful surroundings and our interiors are modern, calming and artistic.",
+   "text": "-->\nSwell Eco Lodge | self-catering and pet friendly lodge on the wild coast | Mncibe, Mdumbi, 5140\ntop of page\nWelcome to our unique paradise\nWhy visit Swell Eco Lodge?\nSwell Eco Lodge South Africa offers catered or self-catered accommodation in a remote location in the Transkei Wild Coast, ideal for couples, groups and families.\n​\nSet within the rolling hills of Mngcibe, we invite you to enjoy pure relaxation and fun while supporting a green way of life.\n​\nSpectacular sea views, jumping whales, roaming cattle and a view of rural life in this wonderful village is only a part of your holiday experience!\n​\nOur lodge is made up of traditional Rondavel structures which blend into its beautiful surroundings and our interiors are modern, calming and artistic.\n​\nJoin us now for a South African holiday with a personal touch you will never forget!\nBook Now\nADVENTURE\nAccommodation options\nSea View Rondavel\nMore info\nSea View Duplex Rondavels\nMore Info\nLuxury Double Story Rondavel\nMore Info\nYes! We are pet friendly!\nWe believe your animals are part of your family and should also be able to join in on the fun! Please contact us before booking with your pet as it is on request with some terms & conditions.\nBook Now\nPatricia, Germany,\nAirbnb\n\"The Swell Eco Lodge is furnished with such a wonderful taste and it is equipped very well. The view from our deck was breathtaking. Unfortunately we had just 2 nights. We would recommend at least a 3 night stay, because the area offers a lot of walks and activities. The staff was extraordinary friendly and helpful. And a last thing to mention is, that you can order fresh bread and pizza. Both were very nice. Thank you for an unforgettable experience.\"\nAnne-Madeleine, Denmark\nBooking.com\nWow, what a place! Fantastic accomodation at an even more fantastic spot! Lovely staff and absolutely stunning nature.\nLexi, South Africa\nAirbnb\nWe absolutely love it here at Swell and honestly think this by far the best place to stay in Mdumbi. It's literally 5 minutes from the beach, quiet, beautiful, and the rondawels are so well built and decorated. Loved every minute and we can't wait to go back!\nJaco, South Africa\nAirbnb\nWow, this was simply spectacular in every aspect. Beautiful accomodation and surroundings. Super friendly and helpful staff. This was my 3rd time to visit the Mdumbi, and 1st time Swell Eco Lodge, and I will be back for sure!\nbottom of page"
+  },
+  {
+   "url": "https://www.swellecolodge.com/general-6",
+   "kind": "sub",
+   "label": "Room Options",
+   "title": "Room Options | Swell Eco Lodge",
+   "text": "-->\nRoom Options | Swell Eco Lodge\ntop of page\nRoom Options\nSea View Rondavel\nMore info\nSea View Duplex Rondavels\nMore Info\nLuxury Double Story Rondavel\nMore Info\nRelax & enjoy the view...\nRelax around the lodge pool after a long day at the beach!\nBook Now\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Swell Eco Lodge",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ZA",
+    "addressLocality": "Mdumbi",
+    "addressRegion": "EC",
+    "postalCode": "5140",
+    "streetAddress": "Mdumbi River"
+   },
+   "telephone": "+27798843680",
+   "url": "https://www.swellecolodge.com"
+  }
+ ],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.swellecolodge.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

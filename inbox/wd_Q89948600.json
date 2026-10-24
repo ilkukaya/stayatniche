@@ -1,0 +1,48 @@
+{
+ "id": "wd:Q89948600",
+ "name": "Amazon EcoPark Jungle Lodge",
+ "queueStatus": "verified",
+ "queueCategory": "jungle-lodges",
+ "categories": [
+  "jungle-lodges"
+ ],
+ "lat": -3.0021237,
+ "lng": -60.1237477,
+ "country": "Brazil",
+ "city": "Manaus",
+ "region": "Amazonas",
+ "osm": null,
+ "wikidata": "Q89948600",
+ "wikidataDescription": "hotel and resort in the Amazon jungle, municipality of Manaus, Amazonas",
+ "website": "https://www.amazonecopark.com.br/",
+ "fetchedAt": "2026-10-18T06:05:29.175Z",
+ "pages": [
+  {
+   "url": "https://www.amazonecopark.com.br/",
+   "kind": "home",
+   "title": "Início - Amazon Ecopark Jungle Lodge",
+   "description": "",
+   "text": "Início - Amazon Ecopark Jungle Lodge\nBem-vindo ao Amazon Ecopark Jungle Lodge\nO paraíso Amazônico é aqui!\nRESERVE AGORA\nO Amazon Ecopark Jungle Lodge é um complexo turístico, científico e educacional\nNo Coração da Amazônia, o #AmazonEcopark conta com 70 apartamentos imerso na floresta distribuídos nas categorias Standard, Superior e Superior Plus.\nOs apartamentos são adaptados para portadores de necessidades especiais e alguns possuem a opção de serem conjugados com interligação entre quartos, podendo ter variação de disponibilidade.\nO complexo ainda conta com píer para embarque e desembarque dos hóspedes, bar, loja de conveniência e artesanato, restaurante em forma de maloca indígena, maloca para repouso com redes e espreguiçadeiras, piscinas naturais e praia privativa. Uma verdadeira oportunidade para o visitante avistar pássaros de diferentes espécies, árvores gigantescas, orquídeas exóticas, plantas medicinais e muito mais.\nNossos Apartamentos\nTradicional\nSuperior\nS uperior Plus\nPacotes com pensão completa\nPacote 2 Dias e 1 Noite\nPacote 3 Dias e 2 Noites\nPacote 4 dias e 3 noites"
+  },
+  {
+   "url": "https://www.amazonecopark.com.br/o-hotel",
+   "kind": "sub",
+   "label": "O Hotel",
+   "title": "O Hotel - Amazon Ecopark Jungle Lodge",
+   "text": "O Hotel - Amazon Ecopark Jungle Lodge\nO Amazon Ecopark Jungle Lodge, é o hotel de selva mais próximo de Manaus e mantém uma das maiores estruturas de selva do Amazonas. Os quartos se espalham entre as árvores, com caminhos iluminados que levam até o restaurante ou ao píer, São quatro piscinas naturais e uma praia privativa à disposição de quem se hospeda. Entre as atividades está o passeio até a \"Floresta dos Macacos\", uma reserva onde os animais encontrados em situação irregular se readaptam à floresta. Ali, duas vezes por dia, os hóspedes podem acompanhar a alimentação de macacos, araras e outros bichos.\nReserve agora\nViva uma experiência única\nA imensidão do horizonte e a grandiosidade da floresta. Envolvido pela mata nativa, o #AmazonEcopark encontra-se em meio à natureza, totalmente privado, um refúgio dentro da imensidão que é a floresta Amazônica.\nNossa recepção com área de leitura, wifi e jogos de tabuleiro\nRECEPÇÃO\nRecepção\nNossa recepção com área de leitura, wifi e jogos de tabuleiro\nBar\nNosso bar dispõe diversos drinks e sucos regionais.\nRestaurante\nRestaurante (cozinha internacional);\nMaloca da preguiça\n\"Tem algo mais a dizer ou mostrar? Pode usar esta seção para isso. Adicione fotos e uma curta descrição para mostrar aos visitantes o que mais você desejar. \"\nPiscinas naturais\nAs incríveis piscinas naturais.\nPraia privativa\nNossa praia privativa"
+  },
+  {
+   "url": "https://www.amazonecopark.com.br/tour-noturno",
+   "kind": "sub",
+   "label": "Tour Noturno",
+   "title": "Tour Noturno - Amazon Ecopark Jungle Lodge",
+   "text": "Tour Noturno - Amazon Ecopark Jungle Lodge\nTOUR NOTURNO\nSaída do hotel em canoas motorizadas no entorno do hotel, sempre acompanhados de guia experiente, para apreciar os sons noturno da selva.\nReserve"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.amazonecopark.com.br/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

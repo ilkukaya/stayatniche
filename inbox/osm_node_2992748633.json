@@ -1,0 +1,43 @@
+{
+ "id": "osm:node/2992748633",
+ "name": "A-Train Hotel",
+ "queueStatus": "verified",
+ "queueCategory": "train-hotels",
+ "categories": [
+  "train-hotels"
+ ],
+ "lat": 52.3784464,
+ "lng": 4.8963954,
+ "country": "Netherlands",
+ "city": "Amsterdam",
+ "region": "North Holland",
+ "osm": {
+  "tourism": "hotel"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.atrainhotel.com/",
+ "fetchedAt": "2026-10-24T06:04:03.155Z",
+ "pages": [
+  {
+   "url": "https://www.atrainhotel.com/",
+   "kind": "home",
+   "title": "A-Train Hotel Amsterdam | Official Website",
+   "description": "The A-Train Hotel is a unique 3 star hotel with a train-theme. Our monumental building is ideally located in front of the Central (Railway) Station, right in the beating heart of Amsterdam. ",
+   "text": "A-Train Hotel Amsterdam | Official Website\nWelcome to the Amazing A-Train Hotel Amsterdam\nThe A-Train Hotel is a unique 3 star hotel with a  train-theme . Our monumental building is ideally located in front of the Central (Railway) Station, right in the beating heart of Amsterdam. Shopping areas, tourist attractions, pubs, restaurants, theaters, are all within walking distance.\nAll  34 rooms  are comfortably furnished and have modern bathrooms with a hair-drier and are equipped with radio, satelite TV, safe, work desk, direct-dial telephone, free WIFI, airconditioning and wake-up system. The hotel has a elevator, a luggage store room and 24 hours check-in.\nWhen booking on our website you always have  free breakfast  with you reservation!\nThe A-Train Hotel is a  cozy hotel , run by Jos Heijnsdijk, Erika Jonker and GM Ali Hassan and will be a comfortable place to stay during your tourist or business visit and will make you feel like \"Home away from Home\".\nHotel Rooms near Amsterdam Central Station\nAll 34 rooms are comfortably furnished and have modern bathrooms with a hair-drier and are equipped with radio, satelite TV, laptopsize safe, work desk, direct-dial telephone, free WIFI, airconditioning and wake-up system.\nHave a look at our rooms\nPullman Lounge\nAfter breakfast you can use our Pullman lounge, to relax with a drink and a snack.\nIn our free internet corner you can check your e-mail and surf the net.\nHave a look at the pullman lounge\nWhy choose for A Train Hotel Amsterdam City Centre?\nAlways discounted rates\nBest price guarantee\nSuper fast free Wi-Fi\nRight across the central train station\nTruly amazing Pullman lounge\nHistorical building\nAirconditioning\nFeatured on the Guardian\nPranked on YouTube\nFeatured in Lonely Planet\nProud member of Small Elegant Hotels\nParking deals with Q-Park\nFeatured on Discover Benelux"
+  },
+  {
+   "url": "https://www.atrainhotel.com/rooms",
+   "kind": "sub",
+   "label": "Rooms",
+   "title": "Rooms | A-Train Hotel Amsterdam",
+   "text": "Rooms | A-Train Hotel Amsterdam\nOur Rooms\nAll 34 rooms are comfortably furnished and have modern bathrooms with a hair-drier and are equipped with radio, satelite TV, laptopsize safe, work desk, direct-dial telephone, free WIFI, airconditioning and wake-up system.\nSingle Room\nSmall but comfortable non-smoking room with all above mentioned facilities.\nBook this room\nTwin/Double Room\nCosy comfortable room with one double bed or two single beds and all the above mentioned facilities.\nBook this room\nFirst Class Room\nA spacious and luxurious decorated room with a great view of the Central Station, with one double bed or two single beds. Furthermore an easy chair, fridge, coffee and tea making and all above mentioned facilities.\nBook this room\nOld Dutch Suite\nA uniquely old fashioned furnished room with a double bed and a small private garden/patio.\nFurthermore a small fridge, coffee and tea making facilities and two easy chairs and of course all above mentioned facilities. The room is non-smoking, in the garden it is allowed to smoke.\nBook this room\nTriple Room\nA comfortable room with three single beds and all above mentioned facilities.\nPlease note, this room is on 2 floors with stairs to the \"sleeping area\".\nBook this room\nFamily double room\nA comfortable small family room with one double and 1 children's bed (for a child under 11) and all basic facilities.\nFurthermore a fridge, and a microwave.\nDeluxe Family Room\nA comfortable family room with one double and 1 single bed and 1 sofa bed (for a child under 11) and all basic facilities.\nFurthermore a kitchenette, with a fridge and a microwave.\nBook this room\nFamily Room\nA comfortable family room with one double and 2 single beds on two floors and all above mentioned facilities.\nFurthermore a kitchenette, with a fridge and microwave, coffee and tea making facilities and also a children's play corner with nice toys.\nBook this room\nApartment\nA spacious (56m2) apartment on two floors, this is also a family room, with one double and 3 single beds) and one bed for a child(1.50m long), cot available on request. Of course also with all the above mentioned facilities. Furthermore a kitchenette (no cooking), with a fridge and microwave, coffee and tea making facilities and also a children's play corner with nice toys. Please note, to get to this room, there is one flight of stairs to climb, between the 2nd and 3rd floor.\nBook this room"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.atrainhotel.com/",
+ "httpStatus": 200,
+ "htmlLang": "en"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "osm:way/1382207872",
+ "name": "Round Bush Campsite",
+ "queueStatus": "weak",
+ "queueCategory": "safari-lodges",
+ "categories": [
+  "safari-lodges"
+ ],
+ "lat": -44.2087646,
+ "lng": 169.817529,
+ "country": "New Zealand",
+ "city": "Waitaki District",
+ "region": "Canterbury",
+ "osm": {
+  "tourism": "camp_site"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/ruataniwha-conservation-park/things-to-do/campsites/round-bush-campsite/",
+ "fetchedAt": "2026-10-24T06:03:36.586Z",
+ "pages": [
+  {
+   "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/ruataniwha-conservation-park/things-to-do/campsites/round-bush-campsite/",
+   "kind": "home",
+   "title": "Round Bush Campsite",
+   "description": "Beautiful beech forest, hung with mistletoe in summer, grows right up to the lake edge.",
+   "text": "Round Bush Campsite\nDepartment of Conservation | Te Papa Atawhai\nhttps://www.doc.govt.nz/\nImage:\nDOC\nRound Bush Campsite\nLocated in Ruataniwha Conservation Park in the Canterbury region\nBeautiful beech forest, hung with mistletoe in summer, grows right up to the lake edge.\nBasic\nBookings not required - first come, first served\n20 non-powered/tent sites\nFires are not allowed at any time. See fire rules on conservation land .\nNo dogs. Other pets on conservation land rules.\nFees\nFree.\nAt Clearburn, south of Twizel, turn onto Lake Ohau Road and continue for 25 km.\nLocation\nNZTM2000 coordinates: E1345705, N5100086\nLatitude: -44.20809, Longitude: 169.81711\nRestricted to four nights only.\nAoraki/Mount Cook National Park Visitor Centre\nPhone:\n+64 3 435 1186\nEmail:\nmtcookvc@doc.govt.nz\nAddress:\n1 Larch Grove\nAoraki/Mount Cook 7999\nHours:\nVisitor centre hours and services"
+  },
+  {
+   "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-stay/stay-at-a-campsite/facilities-and-fees/",
+   "kind": "sub",
+   "label": "Basic",
+   "title": "Campsite categories: facilities and fees",
+   "text": "Campsite categories: facilities and fees\nDepartment of Conservation | Te Papa Atawhai\nhttps://www.doc.govt.nz/\nCampsite categories: facilities and fees\nDOC provides facilities and charges fees on the basis of the campsite category.\nFees listed here apply to most campsites in each category, but check individual campsite pages as prices might vary.\nDo not book or occupy a campsite if you don't intend to stay there (for example, when a site is occupied by a vacant tent or vehicle). If you do, a fee of two adults will apply . This fee applies to all DOC campsites.\nHow to pay\nEach campsite webpage will explain how much it is and how to pay for it. And also if it's bookable or not.\nSearch for a campsite .\nCampsite Pass\nA Campsite Pass gives you access to DOC conservation campsites around New Zealand, including bookable and non-bookable campsites.\nHow to purchase and use a Campsite Pass\nServiced campsites\nServiced campsites have a wide range of facilities and services. Flush toilets, tap water that could be treated or untreated, kitchen/cooking bench, hot showers, rubbish collection and road access for all types of vehicles. Untreated water should be boiled before use to ensure it's safe.\nServiced campsites may have laundry facilities, barbecues, fireplaces, cookers and picnic tables.\nFees\nUnpowered/tent sites:\nAdult (18+ years): $25 per night\nChild (5 17 years): $12.50 per night\nInfant (0 4 years): free\nPowered sites:\nAdult (18+ years): $20-28 per night\nChild (5 17 years): $10 to $14 per night\nInfant (0 4 years): free\nStandard campsites\nStandard campsites have a more limited range of facilities and services than Serviced campsites. These campsites have toilets, a water supply that could be treated or untreated tap water, or from a stream or lake, and vehicle or boat access. Bring your own soap for washing hands. Untreated water should be boiled before use to ensure it's safe.\nWood BBQs and fireplaces, cold showers, picnic tables, a cooking shelter and rubbish bins may be provided this will vary from site to site.\nFees\nUnpowered/tent sites:\nAdult (18+ years): $10 to $20 per night\nChild (5 17 years): $5 to $10 per night\nInfant (0 4 years): free\nPowered sites where available:\nAdult (18+ years): $10 to $20 per night\nChild (5 17 years): $5 to $10 per night\nInfant (0 4 years): free\nNote: Prices vary for some campsites and may include seasonal pricing - check individual campsites.\nBasic campsites\nBasic campsites have very limited facilities so you need to be fully self-sufficient. There are basic toilets and water may be from a water tank that is untreated, stream or lake. Untreated water should be boiled before use to ensure it's safe.\nAccess may be by road or boat.\nFees\nFree\nBackcountry campsites\nBackcountry campsites have toilets and a water supply which may be from a stream. Picnic tables, cooking shelters or fireplaces may be provided.\nFees\nPrices vary check individual campsite pages.\nGreat Walk campsites\nExcept for the Milford Track and Paparoa Track, all Great Walks offer camping near huts or in designated areas. There are nearly 60 Great Walk campsites offering basic facilities including toilets, handwashing sinks and a water supply with some being treated and some untreated. Untreated water should be boiled before use to ensure it's safe.\nSome have picnic tables and cooking shelters. These do not include the indoor facilities provided at Great Walk huts.\nFees\nPrices vary check Great Walks pricing page .\nMore about Great Walks pricing ."
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/ruataniwha-conservation-park/things-to-do/campsites/round-bush-campsite/",
+ "httpStatus": 200,
+ "htmlLang": "en-nz"
+}

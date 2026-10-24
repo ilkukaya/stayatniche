@@ -1,0 +1,71 @@
+{
+ "id": "osm:way/754611449",
+ "name": "Gravenhof",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 50.7333819,
+ "lng": 4.2941709,
+ "country": "Belgium",
+ "city": "Dworp",
+ "region": "Flemish Brabant",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q102831794",
+ "wikidataDescription": "castle in Dworp, Belgium",
+ "website": "http://www.gravenhof.be/",
+ "fetchedAt": "2026-10-20T06:12:00.865Z",
+ "pages": [
+  {
+   "url": "https://www.gravenhof.be/",
+   "kind": "home",
+   "title": "Le Château Gravenhof | Hôtel - restaurant | Dworp, Beersel, Belgium",
+   "description": "Le Château Gravenhof à Dworp (Brabant flamand) est un hôtel 3 étoiles qui allie charme et gastronomie pour votre séjour, dîner ou événement. Réservez ! La Brasserie Gravenkelder.",
+   "text": "-->\nLe Château Gravenhof | Hôtel - restaurant | Dworp, Beersel, Belgium\ntop of page\nLe Ch teau Gravenhof\nH tel - restaurant Dworp dans le Brabant flamand\n+32 2 380 44 99\nH tel 3 toiles luxueux\nLe Ch teau Gravenhof , fond en 1649 par le baron Ignace le Roy, vous offre sa splendeur d'antan et tout son charme actuel, dans un cadre d'exception entour de nature. Install dans le charmant village de Dworp (Tourneppe), le ch teau est directement accessible depuis Bruxelles via la sortie 20 du Ring.\n​\nLe personnel vous accueille chaleureusement et vous ouvre aussi les portes de son restaurant . Venez y savourer des plats qui m lent excellence culinaire et plaisir gustatif. Le domaine dispose galement de plusieurs salles l gantes, meubl es avec soin, pour accueillir vos v nements : mariages, r ceptions, s minaires d'entreprise...\n​\nVous trouverez aussi une brasserie conviviale, une belle terrasse ext rieure ainsi qu'un grand parking pouvant accueillir jusqu' 250 v hicules.\nChambres et suites\nL'h tel propose 26 suites de luxe, pour un s jour inoubliable. D cor es dans un style subtil, qui allie romantisme et confort, les chambres du Ch teau Gravenhof vous s duiront par leur d coration mais galement par leur confort et leurs quipements.\nProfitez d'un cadre de charme pour votre s jour en couple ou votre voyage d'affaires !\nPlus de détails\nRestaurant avec terrasse\nPénétrez dans l’atmosphère conviviale et raffinée du restaurant Gravenhof et ravissez vos papilles. Le chef vous propose une gastronomie belge et européenne maitrisée et subtile. Les mets sont préparés avec les meilleurs ingrédients de saison.\n​\nC’est l’endroit idéal pour un tête-à-tête en couple, pour un repas en famille ou entre amis ou même pour un after work !\nPlus de détails\nSalles en location pour vos v nements\nForte de 30 ans d’expérience, l’équipe vous garantir des événements mémorables dans un cadre enchanteur, pouvant recevoir jusqu’à 250 convives. Restauré avec passion et respect de son patrimoine, le Château Gravenhof incarne à la perfection le charme, la sérénité et l’élégance, pour des moments uniques et romantiques.\n​\nVous souhaitez organiser un mariage, un team building, un séminaire ou tout autre événement au château ? Louez une ou plusieurs salles et bénéficiez des services d’un personnel expérimenté, pour un événement sur mesure !\nPlus de détails\nVotre s jour au ch teau Gravenhof\nLe Ch teau Gravenhof vous offre toutes les commodit s que vous pouvez souhaiter pour un voyage r ussi.\nPetit-d jeuner.\nNavette a roport.\nChambres non-fumeurs.\nRestaurant avec terrasse.\nService d' tage.\nConnexion Wifi gratuite.\nParking gratuit.\nChambres familiales.\nBar.\nService de taxi.\nEtc. ...\nR servez d s maintenant une chambre, une table ou une salle du Ch teau Gravenhof, pr s de Bruxelles dans le Brabant flamand.\n+32 2 380 44 99\nbottom of page"
+  },
+  {
+   "url": "https://www.gravenhof.be/en/chambres-et-suites",
+   "kind": "sub",
+   "label": "Chambres et suites",
+   "title": "404 Error Page | Chateau Gravenhof",
+   "text": "-->\n404 Error Page | Chateau Gravenhof\ntop of page\nTHERE IS NOTHING HERE...\nThe link you followed may be broken or the page may have moved.\nReturn to home page\nbottom of page"
+  },
+  {
+   "url": "https://www.gravenhof.be/en/about-1",
+   "kind": "sub",
+   "label": "Menu du soir",
+   "title": "Menu du soir | Chateau Gravenhof",
+   "text": "-->\nMenu du soir | Chateau Gravenhof\ntop of page\nEvening menu\nMenu - 3 Courses at €49 per person\nStarter : Choose between a delicious thinly sliced beef carpaccio or a duo of crispy croquettes, perfect for awakening your taste buds.\nMain Course : Savor our perfectly cooked sole medallion, accompanied by crispy cod fish and chips, or opt for a tender beef steak served with flavorful fries. Don't miss our osso buco steak, also served with crispy fries for an even more indulgent experience.\nDessert : Finish your meal in style with a chocolate fondant accompanied by a scoop of vanilla ice cream, or choose a smooth crème brûlée, or a refreshing sorbet.\nOur story\nChâteau Gravenhof 1649 is a place steeped in history and charm. Nestled in the heart of a picturesque landscape, this castle offers a unique experience blending elegance and tradition. Whether for a special event or a peaceful getaway, the enchanting setting of Gravenhof will captivate you. Come and discover this heritage treasure and let yourself be immersed in its unforgettable atmosphere.\nbottom of page"
+  }
+ ],
+ "jsonLd": [
+  {
+   "@type": "LocalBusiness",
+   "name": "Le Château Gravenhof",
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "BE",
+    "addressLocality": "Beersel",
+    "addressRegion": "VBR",
+    "postalCode": "1653",
+    "streetAddress": "676 Alsembergsesteenweg"
+   },
+   "telephone": "+322 380 44 99",
+   "url": "https://www.gravenhof.be"
+  }
+ ],
+ "wikipedia": {
+  "lang": "nl",
+  "title": "Kasteel Gravenhof",
+  "url": "https://nl.wikipedia.org/wiki/Kasteel_Gravenhof",
+  "extract": "Het Kasteel Gravenhof is een kasteel in de tot de Vlaams-Brabantse gemeente Beersel behorende plaats Dworp, gelegen aan de Alsembergsesteenweg 676."
+ },
+ "notes": [],
+ "finalUrl": "https://www.gravenhof.be/",
+ "httpStatus": 200,
+ "htmlLang": "fr"
+}

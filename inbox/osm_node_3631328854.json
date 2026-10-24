@@ -1,0 +1,63 @@
+{
+ "id": "osm:node/3631328854",
+ "name": "Château de Fleurville",
+ "queueStatus": "weak",
+ "queueCategory": "castle-hotels",
+ "categories": [
+  "castle-hotels"
+ ],
+ "lat": 46.4442763,
+ "lng": 4.8799349,
+ "country": "France",
+ "city": "Fleurville",
+ "region": "Bourgogne – Franche-Comté",
+ "osm": {
+  "tourism": "hotel",
+  "historic": "castle"
+ },
+ "wikidata": "Q2969229",
+ "wikidataDescription": null,
+ "website": "https://www.chateau-de-fleurville.com/",
+ "fetchedAt": "2026-10-12T07:30:17.434Z",
+ "pages": [
+  {
+   "url": "https://www.chateau-de-fleurville.com/",
+   "kind": "home",
+   "title": "Hôtel à Macon | Découvrez notre Château à Mâcon en plein cœur de la Bourgogne",
+   "description": "SITE OFFICIEL | Découvrez notre Château Fleurville en Bourgogne et réservez votre séjour dans notre Hôtel à Mâcon au meilleur prix garanti sur le site officiel !",
+   "text": "Hôtel à Macon | Découvrez notre Château à Mâcon en plein cœur de la Bourgogne\npersonne(s)\nRéservez\nMeilleur tarif garanti\nfr\nen\nTél.\n+33 (0)3 85 27 91 30\nAccès\nFleurville\nLa Bourgogne du Sud\nA découvrir au château de Fleurville & spa\nLe Château de Fleurville en Bourgogne\nArt et douceur de vivre près de Mâcon\nBlotti dans son crin de verdure, l'h tel le Ch teau de Fleurville vous accueille dans un lieu d'exception au c ur de la Bourgogne du Sud. difi en 1624 par les comtes de Fleurville, entre Tournus et M con, le ch teau a t enti rement restaur depuis 2000 par France et Pascal Lehmann-Rapin pour vous offrir un cadre alliant charme du pass et modernit . Sa fa ade lumineuse en pierre de Bourgogne, sa belle tour ronde, son parc aux frondaisons s culaires, ses hautes chemin es et ses sols aux pav s rustiques, sont encore les t moins aujourd'hui d'un Eternel Art de Vivre !\nLors de votre s jour dans notre h tel pr s de M con, vous pourrez vous d tendre au bord de la piscine chauff e, fl ner dans le parc aux arbres centenaires, prendre votre petit d jeuner ou d ner en terrasse d s les beaux jours, profiter du sauna et du jacuzzi, de soins au Pinot Noir & Chardonnay, jouer au tennis sur le court priv et partir v lo sur la voie bleue aux portes du ch teau, d couvrir le petit lac de Fleurville avec sa faune et sa flore\nDans l’écrin d’un château\nInstants empreints de quiétude\nSpacieuses et confortables, les chambres et suites du Ch teau de Fleurville sont de v ritables cocons de qui tude. Climatis es, elles sont d clin es en version double ou twin et poss dent toutes une tr s belle salle de bains avec baignoire ou douche, t l phone, TV cran plat satellite, WiFi, minibar Certaines poss dent une terrasse et toutes offrent une vue reposante sur le parc ou la piscine. Un appartement pouvant accueillir 5 personnes est votre disposition.\nLes chambres\nGastronomie en Bourgogne\nRendez-vous au Château de Fleurville\nAu c ur de la Bourgogne et de son extraordinaire terroir, le restaurant gastronomique du Ch teau de Fleurville, Ma tre Restaurateur, vous convie autour d'une Table Remarquable . Il vous propose une cuisine raffin e o les produits nobles et les saveurs locales sont sublim s par la cr ativit de notre chef S bastien Di Noto. Vous serez aussi enchant s par le cadre de nos salles, avec leurs poutres apparentes, leurs chemin es en pierre imposantes et leurs larges fen tres donnant sur le parc.\nLe restaurant\nSpa & détente\nPiscine chauffée, jacuzzi, sauna, massages…\nNotre h tel Spa est un v ritable havre de paix au c ur de la Bourgogne : tennis, piscine, sauna, jacuzzi, tisanerie, massages et soins\nLa Bourgogne\nEntre route des vins et bords de Saône\nEglises romanes, ch teaux, mus es, sites arch ologiques, Route des Vins, balade pied ou v lo, pique-nique en bord de Sa ne\nServices & Prestations\nWIFI gratuit\nClimatisation\nPiscine\nTennis\nBar\nTerrasse\nBagagerie\nParking privé gratuit\nAccès PMR\nRestaurant ouvert de 8h à 10h pour le petit-déjeuner et de 19h à 20H30 pour le diner (heure de la dernière prise de commande)\nCheck-in : 16h00 Check-out : 11h00"
+  },
+  {
+   "url": "https://www.chateau-de-fleurville.com/fr/chambres-macon.html",
+   "kind": "sub",
+   "label": "Chambres",
+   "title": "Château Mâcon | Découvrez les Chambres de notre hôtel Fleurville en Bourgogne",
+   "text": "Château Mâcon | Découvrez les Chambres de notre hôtel Fleurville en Bourgogne\npersonne(s)\nRéservez\nMeilleur tarif garanti\nfr\nen\nTél.\n+33 (0)3 85 27 91 30\nAccès\nFleurville\nDécouvrez la vie de château\nau cœur du triangle d’or Tournus, Mâcon, Cluny.\nDate d'arrivée\nDouble classique\n1/2\n21 m²\nTwin classique\n1/2\n21 m²\nDouble supérieure\n1/2\n35 m²\nSuite junior\n1/2\nAppartement\n4/5\nLes chambres et suites de notre ch teau de charme sont quip es pour rendre votre s jour en Bourgogne, entre M con et Tournus, le plus agr able possible. Vous b n ficierez ainsi de la climatisation, du t l phone, de la t l vision cran plat avec cha nes satellite, du Wifi et d'un minibar. Toutes les chambres poss dent une tr s belle salle de bains pour vous garantir le bien- tre : articles de toilette, s che-cheveux, peignoirs, chaussons\nLes chambres ont des sas desservant deux chambres, ce qui permet de les am nager en appartement familial si vous le souhaitez.\nCheck-in : 16h00\nCheck-out : 11h00\nNos offres spéciales\nToutes nos offres\nRéserver en direct au meilleur prix"
+  },
+  {
+   "url": "https://www.chateau-de-fleurville.com/fr/hotel-spa-macon.html",
+   "kind": "sub",
+   "label": "Spa",
+   "title": "Hôtel Spa Mâcon | Spa du Château de Fleurville à Mâcon en Bourgogne",
+   "text": "Hôtel Spa Mâcon | Spa du Château de Fleurville à Mâcon en Bourgogne\npersonne(s)\nRéservez\nMeilleur tarif garanti\nfr\nen\nTél.\n+33 (0)3 85 27 91 30\nAccès\nFleurville\nHôtel Spa proche de Mâcon\nDétente et bien-être en Bourgogne\nLe Ch teau de Fleurville est aussi un ch teau o sport et bien- tre sont au programme ! Notre h tel avec piscine est un v ritable havre de paix en Bourgogne. Ici, vous profiterez pleinement du calme de la nature pour lire ou vous relaxer. Par beau temps, vous appr cierez la piscine chauff e 26 ainsi que son jacuzzi attenant et les bains de soleil qui offrent un superbe point de vue sur le parc. Si la d tente n'est pas compl te, le sauna avec musique d'ambiance relaxante et luminoth rapie, les massages et soins (en suppl ment) et la tisanerie sont votre disposition.\nSoins & massages avec Vinésime\nL’excellence de la terre de Bourgogne\nProfitez de votre s jour au Ch teau de Fleurville pour d couvrir le bien- tre absolu avec les cosm tiques Vin sime, issus de vignobles prestigieux (Pinot noir et Chardonnay). Soins du visage, massage cr nien, du dos, relaxant, nergisant, amincissant, massage SHIATSU Notre spa praticienne, vous invite vivre une parenth se douceur dans la cabine de soins du ch teau.\nCarte des soins\nLa terrasse et ses bains de soleil\nParenthèse douceur au cœur de la nature\nQuoi de plus agr able, pour bien commencer la journ e, que de prendre son petit d jeuner en terrasse, en contemplant la nature ? C'est ce que vous propose notre h tel pr s de M con en Bourgogne. Mais, si le temps le permet, vous trouverez beaucoup d'autres occasions, dans la journ e, pour profiter de la terrasse : prendre un caf , lire le journal, discuter, partager, d guster un cocktail. La terrasse n'est-elle pas non plus le lieu privil gi pour programmer sa journ e ?\nLe Parc du Château de Fleurville\nInvitation à la rêverie et la flânerie\nDans le d cor privil gi de la Bourgogne du Sud, le parc verdoyant du Ch teau de Fleurville, fleuri et arbor , compl te la sensation de bien- tre ! Selon la lumi re du jour, l'atmosph re change mais donne vos r veries toujours le m me caract re de libert et de qui tude.\nVous pouvez continuer votre vill giature pied ou v lo sur la voie bleue qui longe la Sa ne et le lac de Fleurville."
+  },
+  {
+   "url": "https://www.chateau-de-fleurville.com/fr/hotel-restaurant-macon.html",
+   "kind": "sub",
+   "label": "Restaurant",
+   "title": "Hôtel Restaurant Mâcon | Découvrez le Restaurant du Château de Fleurville en Bourgogne",
+   "text": "Hôtel Restaurant Mâcon | Découvrez le Restaurant du Château de Fleurville en Bourgogne\npersonne(s)\nRéservez\nMeilleur tarif garanti\nfr\nen\nTél.\n+33 (0)3 85 27 91 30\nAccès\nFleurville\nDécouvrez notre restaurant gastronomique\nEntre Tournus et Mâcon en Bourgogne du Sud\nMenus\nDes menus hauts en saveurs\nA déguster dans notre salle ou en terrasse l’été\nNotre restaurant gastronomique en Bourgogne, Ma tre Restaurateur, propose une cuisine raffin e, d clin e autour de deux menus : Tradition et Comtesse de Fleurville. Chacun d voile la d licatesse et les parfums du terroir : foie gras, pigeon de Bresse, viande charolaise, langoustines , fromages de Bourgogne, desserts gourmands. Un choix la carte est galement possible.\nAlain Ducasse a distingu notre restaurant en l'int grant au groupe des Tables Remarquables avec le label des bonnes tables .\nRestaurant ouvert de 8h 10h pour le petit-d jeuner et de 19h 20H30 pour le diner (heure de la derni re prise de commande)\nPensez r server votre table pour le d ner.\nRéservez votre table\nRéservez votre table\n*Nom\n*Tél\n*Email\n*Nombre de personnes\nHébergement\n*Date\nHeure\n*Message\nOui, je donne mon consentement **\nEnvoyer\n* Champs obligatoires. Ces informations restent confidentielles et ne seront jamais diffusées à quelque organisme que ce soit.\n** En soumettant ce formulaire, j'accepte que les informations saisies dans ce formulaire soient utilisées et traitées pour permettre de me recontacter, dans le cadre de ma demande d'informations, que ce soit par mail, ou téléphone.\nPour connaître et exercer vos droits, notamment de retrait de consentement à l'utilisation de données collectées par ce formulaire. Veuillez consulter notre politique de confidentialité. Mentions légales"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": {
+  "lang": "fr",
+  "title": "Château de Fleurville",
+  "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Fleurville",
+  "extract": "Le château de Fleurville est situé sur la commune de Fleurville en Saône-et-Loire, sur une terrasse dominant la Saône."
+ },
+ "notes": [],
+ "finalUrl": "https://www.chateau-de-fleurville.com/",
+ "httpStatus": 200,
+ "htmlLang": "fr"
+}

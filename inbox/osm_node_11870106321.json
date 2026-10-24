@@ -1,0 +1,37 @@
+{
+ "id": "osm:node/11870106321",
+ "name": "Les Cabanes dans les bois",
+ "queueStatus": "weak",
+ "queueCategory": "treehouse-hotels",
+ "categories": [
+  "treehouse-hotels"
+ ],
+ "lat": 43.2429927,
+ "lng": 2.4174302,
+ "country": "France",
+ "city": "Villalier",
+ "region": "Occitania",
+ "osm": {
+  "tourism": "hotel",
+  "stars": "3"
+ },
+ "wikidata": null,
+ "wikidataDescription": null,
+ "website": "https://lescabanesdanslesbois.fr/",
+ "fetchedAt": "2026-10-13T07:51:17.636Z",
+ "pages": [
+  {
+   "url": "https://lescabanesdanslesbois.fr/",
+   "kind": "home",
+   "title": "Les Cabanes dans les Bois",
+   "description": "",
+   "text": "Les Cabanes dans les Bois\nAller au contenu\nLes Cabanes dans les Bois\nPartageons la nature...\nDécouvrir l'Hôtel Son Histoire &\nActivités\nLes Cabanes dans les Bois :\nUne Évasion insolite en Pleine Nature\nVous avez choisi de faire une halte aux Cabanes dans les bois… Ce n’est sans doute pas par hasard : rêve d’enfant, besoin de se retrouver ou de ressourcer…Dès que vous aurez pris vos repères dans votre cabane, il n’y aura plus qu’un seul mot d’ordre : PROFITEZ !\nNichées au cœur d'un domaine de 112 hectares, les Cabanes dans les Bois offrent une escapade unique où le rythme de la nature se mêle harmonieusement avec de nombreuses activités..\nSur le domaine Aux alentours &\nSéminaire & Groupes\nA 10’ des sorties d’autoroute de Carcassonne et de sa Cité médiévale, Les Cabanes dans les bois® offrent un cadre exceptionnel pour tous vos évènements d’entreprises… Avec un concept unique où nature, confort et professionnalisme se rencontrent, notre hôtel et nos équipes transforment votre Séminaire, Journée d’étude, Codir, Assemblée générale, Party ou Fête d’entreprise en expérience inoubliable !\nNos salles Demander un devis &\nAccueil\nNos Cabanes\nToutes les cabanes\nCassine (1 à 2 personnes)\nCagna (1 à 2 personnes)\nCahute (1 à 4 personnes)\nCambuse (1 à 3 personnes)\nFuste (1 à 4 personnes)\nMazet (1 à 4 personnes)\nRefuge (1 à 4 personnes)\nBourinne (1 à 4 personnes)\nIsba (1 à 4 personnes)\nChaumine (1 à 4 personnes)\nFresne (1 à 5 personnes)\nTribu (1 à 7 personnes)\nL'hôtel\nUn peu d'Histoire\nPlan du domaine\nGalerie photo\nPrestations\nPetit déjeuner\nDîner aux Cabanes\nBar\nAccueil des animaux\nAccessibilité Accueil des publics spécifiques\nPrestations complémentaires\nActivités\nSur le domaine\nÀ proximité\nCarte Cadeaux\nSéminaires groupes\nSéminaires et événements\nLes espaces salles\nSalle du Chai\nSalle des Arcades\nSalle du Grand Fenil\nSalles de l'Orangeraie\nSalles des Passions\nLe Bistrot\nTeam building activités\nDemander un devis\nNos engagements\nContact\nInfos Pratiques\nInfos Pratiques\nDemande de lot\nNous utilisons des cookies pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait. OK"
+  }
+ ],
+ "jsonLd": [],
+ "wikipedia": null,
+ "notes": [],
+ "finalUrl": "https://lescabanesdanslesbois.fr/",
+ "httpStatus": 200,
+ "htmlLang": "fr-FR"
+}
